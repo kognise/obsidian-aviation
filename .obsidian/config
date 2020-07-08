@@ -1,0 +1,21 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": false,
+    "Word count": true,
+    "Markdown emoji": true,
+    "Mermaid": true,
+    "Custom CSS": true,
+    "Random note": true,
+    "Starred": true,
+    "Page preview": false
+  },
+  "defaultViewMode": "preview",
+  "fileSortOrder": "alphabetical"
+}
