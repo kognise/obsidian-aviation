@@ -3,7 +3,7 @@
 Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html)
 
 -   <strong>Preflight Preparation</strong>
-    1.  Every pilot is urged to receive a preflight briefing and to file a flight plan. This briefing should consist of the latest or most current weather, airport, and en route NAVAID information. Briefing service may be obtained from an FSS either by telephone or radio when airborne. Pilots within the contiguous U.S. may access Flight Service through [www.1800wxbrief.com](www.1800wxbrief.com) or by contacting them at 1-800-WX-Brief to obtain preflight weather data and to file IFR and VFR flight plans.
+    1.  Every pilot is urged to receive a preflight briefing and to file a flight plan. This briefing should consist of the latest or most current weather, airport, and en route NAVAID information. Briefing service may be obtained from an FSS either by telephone or radio when airborne. Pilots within the contiguous U.S. may access Flight Service through [http://www.1800wxbrief.com](www.1800wxbrief.com) or by contacting them at 1-800-WX-Brief to obtain preflight weather data and to file IFR and VFR flight plans.
         
         <em><strong>NOTE-</strong></em>
         

@@ -21,7 +21,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
     4.  50 NM lateral separation is not applied on routes defined by ground navigation aids or on Gulf RNAV Routes Q100, Q102, or Q105.
         
     5.  Information useful for flight planning and operations over the Gulf of Mexico under this 50 NM lateral separation policy, as well as information on how to obtain RNP 10 or RNP 4 authorization, can be found in the West Atlantic Route System, Gulf of Mexico, and Caribbean Resource Guide for U.S. Operators located at:  
-        [www.faa.gov/about/office\_org/headquarters\_offices/avs/offices/afx/afs/afs400/afs410/media/WATRS.pdf](http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/media/WATRS.pdf)
+        [http://www.faa.gov/about/office\_org/headquarters\_offices/avs/offices/afx/afs/afs400/afs410/media/WATRS.pdf](http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/media/WATRS.pdf)
         
     6.  Pilots should use Strategic Lateral Offset Procedures (SLOP) in the course of regular operations within the Gulf of Mexico CTAs. SLOP procedures and limitations are published in the U.S. Aeronautical Information Publication (AIP), ENR Section 7.1, General Procedures; Advisory Circular (AC) 91-70, Oceanic and Remote Continental Airspace Operations; and ICAO Document 4444, Procedures for Air Navigation Services – Air Traffic Management.
         
