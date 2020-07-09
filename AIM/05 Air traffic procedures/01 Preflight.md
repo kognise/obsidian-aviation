@@ -467,7 +467,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             <em><strong>NOTE-</strong></em>
             
             1.  <em>The pilot is responsible for knowing when it is appropriate to file the radiotelephony in remarks under the 60-day rule or when using FAA special radiotelephony assignments.</em>
-            2.  <em>“DVRSN” should be placed in Block 11 only if the pilot/company is requesting priority handling to their original destination from ATC</em> <em>as a result</em> <em>of a diversion as defined in the Pilot/Controller Glossary.</em>
+            2.  <em>“DVRSN” should be placed in Block 11 only if the pilot/company is requesting priority handling to their original destination from ATC</em> <em>as a result</em> <em>of a diversion as defined in the [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]].</em>
             3.  <em>Do not assume that remarks will be automatically transmitted to every controller. Specific ATC or</em> <em>en</em> <em>route requests should be made directly to the appropriate controller.</em>
             
         12.  <strong>Block 12.</strong> Specify the fuel on board, computed from the departure point.

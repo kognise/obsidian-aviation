@@ -35,7 +35,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>Pilot/Controller Glossary Term- Radar Service Terminated.</em>
+            <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Radar Service Terminated.</em>
             
     2.  <strong>Controller.</strong>
         1.  Issues clearance for a contact approach only when requested by the pilot. Does not solicit the use of this procedure.
@@ -151,8 +151,8 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
                 
                 <em><strong>REFERENCE-</strong></em>
                 
-                <em>Pilot/Controller Glossary Term- Resume Normal Speed</em><em>  
-                Pilot/Controller Glossary Term- Resume Published Speed</em>
+                <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Resume Normal Speed</em><em>  
+                [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Resume Published Speed</em>
                 
         6.  Gives due consideration to aircraft capabilities to reduce speed while descending.
         7.  Does not assign speed adjustments to aircraft at or above FL 390 without pilot consent.
@@ -243,7 +243,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>Pilot/Controller Glossary Term- Fuel Remaining.</em>
+            <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Fuel Remaining.</em>
             
     2.  <strong>Controller.</strong>
         1.  When an aircraft declares a state of minimum fuel, relay this information to the facility to whom control jurisdiction is transferred.

@@ -9,7 +9,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>Pilot/Controller Glossary Term- Traffic Alert and Collision Avoidance System.</em>
+        <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Traffic Alert and Collision Avoidance System.</em>
         
     4.  When weather conditions permit, during the time an IFR flight is operating, it is the direct responsibility of the pilot to avoid other aircraft since VFR flights may be operating in the same area without the knowledge of ATC. Traffic clearances provide standard separation only between IFR flights.
 -   <strong>Clearance Prefix</strong>  
@@ -34,7 +34,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>Pilot/Controller Glossary Term- Cruise.</em>
+            <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Cruise.</em>
             
     5.  <strong>Holding Instructions.</strong>
         1.  Whenever an aircraft has been cleared to a fix other than the destination airport and delay is expected, it is the responsibility of the ATC controller to issue complete holding instructions (unless the pattern is charted), an EFC time, and a best estimate of any additional en route/terminal delay.
@@ -92,7 +92,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>Pilot/Controller Glossary Term- One-minute Weather.</em>
+        <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- One-minute Weather.</em>
         
 -   <strong>Pilot Responsibility upon Clearance Issuance</strong>
     1.  <strong>Record ATC clearance.</strong> When conducting an IFR operation, make a written record of your clearance. The specified conditions which are a part of your air traffic clearance may be somewhat different from those included in your flight plan. Additionally, ATC may find it necessary to ADD conditions, such as particular departure route. The very fact that ATC specifies different or additional conditions means that other aircraft are involved in the traffic situation.

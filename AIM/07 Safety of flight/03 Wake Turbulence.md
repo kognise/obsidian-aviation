@@ -148,7 +148,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_sect
                 
                 <em><strong>REFERENCE-</strong></em>
                 
-                <em>Pilot/Controller Glossary Term- Aircraft Classes.</em>
+                <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Aircraft Classes.</em>
                 
     2.  Additionally, appropriate time or distance intervals are provided to departing aircraft when the departure will be from the same threshold, a parallel runway separated by less than 2,500 feet with less than 500 feet threshold stagger, or on a crossing runway and projected flight paths will cross:
         1.  Three minutes or the appropriate radar separation when takeoff will be behind a super aircraft;

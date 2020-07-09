@@ -138,7 +138,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>Pilot/Controller Glossary Term- Runway Use Program</em>
+        <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Runway Use Program</em>
         
         1.  At airports where no runway use program is established, ATC clearances may specify:
             1.  The runway most nearly aligned with the wind when it is 5 knots or more;
@@ -162,7 +162,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
                 
                 <em><strong>REFERENCE-</strong></em>
                 
-                <em>Pilot/Controller Glossary Terms: “Accelerate-Stop Distance Available,” “Landing Distance Available,” “Takeoff Distance Available,” “Takeoff Run Available,” ”</em> <em>Stopway</em><em>,” and “Clearway.”</em>
+                <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Terms: “Accelerate-Stop Distance Available,” “Landing Distance Available,” “Takeoff Distance Available,” “Takeoff Run Available,” ”</em> <em>Stopway</em><em>,” and “Clearway.”</em>
                 
                 1.  Takeoff Run Available (TORA) – The runway length declared available and suitable for the ground run of an airplane taking off.  
                     The TORA is typically the physical length of the runway, but it may be shorter than the runway length if necessary to satisfy runway design standards. For example, the TORA may be shorter than the runway length if a portion of the runway must be used to satisfy runway protection zone requirements.
@@ -432,12 +432,12 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>Pilot/Controller Glossary Term- Taxi.</em><em>  
-            Pilot/Controller Glossary Term- Hover Taxi.</em><em>  
-            Pilot/Controller Glossary Term- Air Taxi.</em>
+            <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Taxi.</em><em>  
+            [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Hover Taxi.</em><em>  
+            [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Air Taxi.</em>
             
     3.  <strong>Takeoff and Landing Procedures.</strong>
-        1.  Helicopter operations may be conducted from a runway, taxiway, portion of a landing strip, or any clear area which could be used as a landing site such as the scene of an accident, a construction site, or the roof of a building. The terms used to describe designated areas from which helicopters operate are: movement area, landing/takeoff area, apron/ramp, heliport and helipad (See Pilot/Controller Glossary). These areas may be improved or unimproved and may be separate from or located on an airport/heliport. ATC will issue takeoff clearances from <em>movement</em> areas other than active runways, or in diverse directions from active runways, with additional instructions as necessary. Whenever possible, takeoff clearance will be issued in lieu of extended hover/air taxi operations. Phraseology will be “CLEARED FOR TAKEOFF FROM (taxiway, helipad, runway number, etc.), MAKE RIGHT/ LEFT TURN FOR (direction, heading, NAVAID radial) DEPARTURE/DEPARTURE ROUTE (number, name, etc.).” Unless requested by the pilot, downwind takeoffs will not be issued if the tailwind exceeds 5 knots.
+        1.  Helicopter operations may be conducted from a runway, taxiway, portion of a landing strip, or any clear area which could be used as a landing site such as the scene of an accident, a construction site, or the roof of a building. The terms used to describe designated areas from which helicopters operate are: movement area, landing/takeoff area, apron/ramp, heliport and helipad (See [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]]). These areas may be improved or unimproved and may be separate from or located on an airport/heliport. ATC will issue takeoff clearances from <em>movement</em> areas other than active runways, or in diverse directions from active runways, with additional instructions as necessary. Whenever possible, takeoff clearance will be issued in lieu of extended hover/air taxi operations. Phraseology will be “CLEARED FOR TAKEOFF FROM (taxiway, helipad, runway number, etc.), MAKE RIGHT/ LEFT TURN FOR (direction, heading, NAVAID radial) DEPARTURE/DEPARTURE ROUTE (number, name, etc.).” Unless requested by the pilot, downwind takeoffs will not be issued if the tailwind exceeds 5 knots.
         2.  Pilots should be alert to wind information as well as to wind indications in the vicinity of the helicopter. ATC should be advised of the intended method of departing. A pilot request to takeoff in a given direction indicates that the pilot is willing to accept the wind condition and controllers will honor the request if traffic permits. Departure points could be a significant distance from the control tower and it may be difficult or impossible for the controller to determine the helicopter's relative position to the wind.
         3.  If takeoff is requested from <em>nonmovement</em> areas, an area not authorized for helicopter use, an area not visible from the tower, an unlighted area at night, or an area off the airport, the phraseology “DEPARTURE FROM (requested location) WILL BE AT YOUR OWN RISK (additional instructions, as necessary). USE CAUTION (if applicable)." The pilot is responsible for operating in a safe manner and should exercise due caution.
         4.  Similar phraseology is used for helicopter landing operations. Every effort will be made to permit helicopters to proceed direct and land as near as possible to their final destination on the airport. Traffic density, the need for detailed taxiing instructions, frequency congestion, or other factors may affect the extent to which service can be expedited. As with ground movement operations, a high degree of pilot/controller cooperation and communication is necessary to achieve safe and efficient operations.

@@ -27,7 +27,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
                 
                 <em><strong>REFERENCE-</strong></em>
                 
-                <em>Pilot/Controller Glossary Term- Radar.</em>
+                <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Radar.</em>
                 
             7.  The controller's ability to advise a pilot flying on instruments or in visual conditions of the aircraft's proximity to another aircraft will be limited if the unknown aircraft is not observed on radar, if no flight plan information is available, or if the volume of traffic and workload prevent issuing traffic information. The controller's first priority is given to establishing vertical, lateral, or longitudinal separation between aircraft flying IFR under the control of ATC.
     3.  FAA radar units operate continuously at the locations shown in the Chart Supplement U.S., and their services are available to all pilots, both civil and military. Contact the associated FAA control tower or ARTCC on any frequency guarded for initial instructions, or in an emergency, any FAA facility for information on the nearest radar service.

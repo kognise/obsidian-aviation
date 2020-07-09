@@ -765,7 +765,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>Pilot/Controller Glossary Term- Precipitation Radar Weather Descriptions.</em><em>AIM, Paragraph</em> <em>7-1-28</em> <em>, Thunderstorms</em><em>  
+        <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]] Term- Precipitation Radar Weather Descriptions.</em><em>AIM, Paragraph</em> <em>7-1-28</em> <em>, Thunderstorms</em><em>  
         Chart Supplement U.S., Charts, NWS Upper Air Observing Stations and Weather Network for the location of specific radar sites.</em>
         
 -   <strong>ATC Inflight Weather Avoidance Assistance</strong>
@@ -1265,7 +1265,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>Pilot/Controller Glossary- Precipitation Radar Weather Descriptions</em>
+        <em>[[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]]- Precipitation Radar Weather Descriptions</em>
         
         <em><strong>EXAMPLE-</strong></em>
         
