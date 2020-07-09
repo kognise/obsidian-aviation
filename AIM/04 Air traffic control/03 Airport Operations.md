@@ -337,7 +337,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>AIM, Chapter 2, Aeronautical Lighting and Other Airport Visual Aids.</em>
+            <em>[[02 Aeronautical lighting and other airport visual aids|AIM, Chapter 2, Aeronautical Lighting and Other Airport Visual Aids.]]</em>
             
             <em>
             

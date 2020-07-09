@@ -164,7 +164,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         
         <em><strong>REFERENCE-</strong></em>
         
-        <em>AIM, Chapter 5, Section 6, National Security and Interception Procedures</em>
+        <em>[[06 National Security and Interception Procedures|AIM, Chapter 5, Section 6, National Security and Interception Procedures]]</em>
         
     2.  It is strongly recommended that a flight plan (for a VFR flight) be filed with an FAA FSS. This will ensure that you receive VFR Search and Rescue Protection.
         

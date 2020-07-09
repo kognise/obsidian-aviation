@@ -508,7 +508,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
             
             <em><strong>REFERENCE-</strong></em>
             
-            <em>AIM, Chapter 5, Section 6, National Security and Interception Procedures</em>
+            <em>[[06 National Security and Interception Procedures|AIM, Chapter 5, Section 6, National Security and Interception Procedures]]</em>
             
         4.  Pilots must ensure that their aircraft transponder/ADS-B is operating on an appropriate ATC-assigned VFR/IFR code with altitude reporting enabled when operating in such airspace. If in doubt about the operational status of either feature of your transponder while airborne, contact the nearest ATC facility or FSS and they will advise you what facility you should contact for determining the status of your equipment.
         5.  In-flight requests for “immediate” deviation from the transponder requirements may be approved by controllers only for failed equipment, and only when the flight will continue IFR or when weather conditions prevent VFR descent and continued VFR flight in airspace not affected by the CFRs. All other requests for deviation should be made at least 1 hour before the proposed operation by contacting the nearest Flight Service or Air Traffic facility in person or by telephone. The nearest ARTCC will normally be the controlling agency and is responsible for coordinating requests involving deviations in other ARTCC areas.
