@@ -63,9 +63,9 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         
     10.  Pilots operating under provisions of 14 CFR Part 135 on a domestic flight without having an FAA assigned 3-letter designator, must prefix the normal registration (N) number with the letter “T” on flight plan filing; for example, TN1234B.
         
-        <em><strong>REFERENCE-</strong></em>
+			<em><strong>REFERENCE-</strong></em>
         
-        <em>AIM, Paragraph</em> <em>4-2-4</em><em>, Aircraft Call Signs</em><em>  
+			<em>AIM, Paragraph</em> <em>4-2-4</em><em>, Aircraft Call Signs</em><em>  
         FAA Order JO 7110.65, Paragraph 2-3-5a, Aircraft Identity</em><em>  
         FAA Order JO 7110.10, Paragraph 6-2-1b1, Flight Plan Recording</em>
         
@@ -199,13 +199,11 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         <em>AIM, Paragraph</em> <em>5-1-8</em> <em>, Flight Plan- Domestic IFR Flights</em>
         
     10.  Under some circumstances, ATC computer tapes can be useful in constructing the radar history of a downed or crashed aircraft. In each case, knowledge of the aircraft's transponder/ADS-B equipment is necessary in determining whether or not such computer tapes might prove effective.<em>
-        
+        	<br>
         <em><strong>FIG 5-1-</strong></em><em><strong>1</strong></em><strong>  
         FAA Flight Plan</strong><strong>  
         Form 7233-1 (8-82)</strong>
-        
-        
-        
+        <br>
         </em>![A screenshot of FAA Flight Plan Form 7233-1 (8-82).](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/images/aim_img_d43.jpeg)
     11.  Flight Plan Form - (See FIG 5-1-1).
     12.  <strong>Explanation of VFR Flight Plan Items.</strong>
@@ -221,24 +219,24 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             
             <em><strong>NOTE-</strong></em>
             
-            <em>Include the city name (or even the state name) if needed for clarity.</em>
-            
+            <em>Include the city name (or even the state name) if needed for clarity</em>
+            <br/>
         10.  <strong>Block 10.</strong> Enter your estimated time en route in hours and minutes.
         11.  <strong>Block 11.</strong> Enter only those remarks that may aid in VFR search and rescue, such as planned stops en route or student cross country, or remarks pertinent to the clarification of other flight plan information, such as the radiotelephony (call sign) associated with a designator filed in Block 2, if the radiotelephony is new, has changed within the last 60 days, or is a special FAA-assigned temporary radiotelephony. Items of a personal nature are not accepted.
         12.  <strong>Block 12.</strong> Specify the fuel on board in hours and minutes.
         13.  <strong>Block 13.</strong> Specify an alternate airport if desired.
         14.  <strong>Block 14.</strong> Enter your complete name, address, and telephone number. Enter sufficient information to identify home base, airport, or operator.
-            
+            	<br>
             <em><strong>NOTE-</strong></em>
-            
+            <br>
             <em>This information is essential in the event of search and rescue operations.</em>
-            
+            <br>
         15.  <strong>Block 15.</strong> Enter total number of persons on board (POB) including crew.
         16.  <strong>Block 16.</strong> Enter the predominant colors.
         17.  <strong>Block 17.</strong> Record the FSS name for closing the flight plan. If the flight plan is closed with a different FSS or facility, state the recorded FSS name that would normally have closed your flight plan.
-            
+            <br>
             <em><strong>NOTE-</strong></em>
-            
+            <br>
             1.  <em><strong>Optional</strong></em><em>\- record a destination telephone number to assist search and rescue contact should you fail to report or cancel your flight plan within 1/2 hour after your estimated time of arrival (ETA).</em>
             2.  <em>The information transmitted to the destination FSS will consist only of flight plan blocks 2, 3, 9, and 10. Estimated time</em> <em>en</em> <em>route (ETE) will be converted to the correct ETA.</em>
             
@@ -463,9 +461,9 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         9.  <strong>Block 9.</strong> Enter the destination airport identifier code (or name if the identifier is unknown).
         10.  <strong>Block 10.</strong> Enter your estimated time en route based on latest forecast winds.
         11.  <strong>Block 11.</strong> Enter only those remarks pertinent to ATC or to the clarification of other flight plan information, such as the appropriate radiotelephony (call sign) associated with the FAA-assigned three-letter company designator filed in Block 2, if the radiotelephony is new or has changed within the last 60 days. In cases where there is no three-letter designator but only an assigned radiotelephony or an assigned three-letter designator is used in a medical emergency, the radiotelephony must be included in the remarks field. Items of a personal nature are not accepted.
-            
+            <br><br>
             <em><strong>NOTE-</strong></em>
-            
+            <br>
             1.  <em>The pilot is responsible for knowing when it is appropriate to file the radiotelephony in remarks under the 60-day rule or when using FAA special radiotelephony assignments.</em>
             2.  <em>“DVRSN” should be placed in Block 11 only if the pilot/company is requesting priority handling to their original destination from ATC</em> <em>as a result</em> <em>of a diversion as defined in the [[Pilot Controller Glossary.pdf|Pilot/Controller Glossary]].</em>
             3.  <em>Do not assume that remarks will be automatically transmitted to every controller. Specific ATC or</em> <em>en</em> <em>route requests should be made directly to the appropriate controller.</em>
@@ -473,16 +471,16 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         12.  <strong>Block 12.</strong> Specify the fuel on board, computed from the departure point.
         13.  <strong>Block 13.</strong> Specify an alternate airport if desired or required, but do not include routing to the alternate airport.
         14.  <strong>Block 14.</strong> Enter the complete name, address, and telephone number of pilot‐in‐command, or in the case of a formation flight, the formation commander. Enter sufficient information to identify home base, airport, or operator.
-            
+            <br><br>
             <em><strong>NOTE-</strong></em>
-            
+            <br>
             <em>This information would be essential in the event of search and rescue operation.</em>
             
         15.  <strong>Block 15.</strong> Enter the total number of persons on board including crew.
         16.  <strong>Block 16.</strong> Enter the predominant colors.
-            
+            <br><br>
             <em><strong>NOTE-</strong></em>
-            
+            <br>
             <em>Close IFR flight plans with tower, approach control, or ARTCC, or if unable, with FSS. When landing at an airport with a functioning control tower, IFR flight plans are automatically canceled.</em>
             
     7.  The information transmitted to the ARTCC for IFR flight plans will consist of only flight plan blocks 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11.
@@ -765,72 +763,72 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             10.  DOF/ The date of flight departure in a six figure format (YYMMDD, where YY equals the year, MM equals the month, and DD equals the day). The FAA will not accept flight plans filed with Date of Flight resulting in more than a day in advance.
             11.  REG/ The registration markings of the aircraft, if different from the aircraft identification in Item 7. Note that the FAA uses this information in monitoring of RVSM and ADS-B performance.
             12.  EET/ Significant points or FIR boundary designators and accumulated estimated elapsed times to such points or FIR boundaries.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 <em>EET/KZLA0745 KZAB0830</em>
                 
             13.  SEL/ SELCAL code.
             14.  TYP/ Insert the type of aircraft if ZZZZ was entered in Item 9. If necessary, insert the number and type(s) of aircraft in a formation.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 1.  <em>TYP/Homebuilt</em>
                 2.  <em>TYP/2 P51 B17 B24</em>
                 
             15.  CODE/ Aircraft address (expressed in the form of an alphanumerical code of six hexadecimal characters) when required by the appropriate ATS authority. Include CODE/ when ADS-B capability is filed in Item 10.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 <em>“F00001” is the lowest aircraft address contained in the specific block administered by ICAO.</em>
                 
             16.  DLE/ En route delay or holding, insert the significant point(s) on the route where a delay is planned to occur, followed by the length of delay using four figure time in hours and minutes (hhmm).
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 <em>DLE/MDG0030</em>
                 
             17.  OPR/ Name of the operator, if not obvious from the aircraft identification in Item 7.
             18.  ORGN/ The originator's 8-letter AFTN address or other appropriate contact details, in cases where the originator of the flight plan may not be readily identified, as required by the appropriate ATS authority. The FAA does not require ORGN/ information.
-                
+                <br><br>
                 <em><strong>NOTE-</strong></em>
-                
+                <br>
                 <em>In some areas,</em> <em>flight plan reception centers</em> <em>may insert the ORGN/ identifier and originator's AFTN address automatically.</em>
                 
             19.  PER/ Aircraft performance data, indicated by a single letter as specified in the Procedures for Air Navigation Services - Aircraft Operations (PANS-OPS, Doc 8168), Volume I - Flight Procedures, if so prescribed by the appropriate ATS authority. Note that the FAA does not require PER/ information.
             20.  ALTN/ Name of destination alternate aerodrome(s), if ZZZZ is inserted in Item 16.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 1.  <em>ALTN/F35 POSSUM KINGDOM</em>
                 2.  <em>ALTN/TCC233016 LAZY S RANCH</em>
                 
             21.  RALT/ ICAO 4-letter indicator(s) for en-route alternate(s), as specified in Doc 7910, Location Indicators, or name(s) of en-route alternate aerodrome(s), if no indicator is allocated. For aerodromes not listed in the relevant Aeronautical Information Publication, indicate location in LAT/LONG or bearing and distance from the nearest significant point, as described in DEP/ above.
             22.  TALT/ ICAO 4-letter indicator(s) for take-off alternate, as specified in Doc 7910, Location Indicators, or name of take-off alternate aerodrome, if no indicator is allocated. For aerodromes not listed in the relevant Aeronautical Information Publication, indicate location in LAT/LONG or bearing and distance from the nearest significant point, as described in DEP/ above.
             23.  RIF/ The route details to the revised destination aerodrome, followed by the ICAO four-letter location indicator of the aerodrome. The revised route is subject to reclearance in flight.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 1.  <em>RIF/DTA HEC KLAX</em>
                 2.  <em>RIF/ESP G94 CLA YPPH</em>
                 
             24.  RMK/ Any other plain-language remarks when required by the ATC or deemed necessary.
-                
+                <br><br>
                 <em><strong>EXAMPLE-</strong></em>
-                
+                <br>
                 1.  <em>RMK/NRP</em>
                 2.  <em>RMK/DRVSN</em>
                 
             25.  RVR/ The minimum RVR requirement of the flight in meters. This item is defined by Eurocontrol, not ICAO. The FAA does not require or use this item, but will accept it in a flight plan.
-                
+                <br><br>
                 <em><strong>NOTE-</strong></em>
-                
+                <br>
                 <em>This provision is detailed in the European Regional Supplementary Procedures (EUR SUPPs, Doc 7030), Chapter 2.</em>
                 
             26.  RFP/ Q followed by a digit to indicate the sequence of the replacement flight plan being submitted. This item is defined by Eurocontrol, not ICAO. The FAA will not use this item, but will accept it in a flight plan.
-                
+                <br><br>
                 <em><strong>NOTE-</strong></em>
-                
+                <br>
                 <em>This provision is detailed in the European Regional Supplementary Procedures (EUR SUPPs, Doc 7030), chapter 2.</em>
                 
         9.  <strong>Item 19.</strong> <strong>Supplementary Information</strong>
