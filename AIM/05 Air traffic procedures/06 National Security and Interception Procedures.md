@@ -270,4 +270,4 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
         
         <em>CFR 91.161</em>
         
-    4.  More details including a video demonstration of the VWS are available from the following FAA website: [http://www.faasafety.gov/VisualWarningSystem/VisualWarning.htm](www.faasafety.gov/VisualWarningSystem/VisualWarning.htm).
+    4.  More details including a video demonstration of the VWS are available from the following FAA website: [http://www.faasafety.gov/VisualWarningSystem/VisualWarning.htm](http://www.faasafety.gov/VisualWarningSystem/VisualWarning.htm).
