@@ -2,6 +2,8 @@
 **7 min read**  
 Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.305](https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.305)
 
+<div>
+
 ### §305.1   Applicability.
 
 The provisions of this part shall govern informal nonpublic investigations, as distinguished from formal investigations and adjudicatory proceedings, undertaken by the Office of the Assistant General Counsel for Aviation Enforcement and Proceedings with a view to obtaining information from any person. While the Department seeks and encourages voluntary cooperation and believes that it is in the best interest of all parties concerned, it will utilize the procedures provided by this part to compel the disclosure of information by any person where DOT wishes to determine whether such person, or any other person, has been or is violating any provisions of 49 U.S.C. Subtitle VII, Chapter 411 or 49 U.S.C. 40102(2), 41502, 41507, 41508, 41509, 41702, 41703, or 46101, or any rule, regulation, order, certificate, permit, or letter or registration issued pursuant thereto by DOT and when the information appears to be relevant to the matter under investigation. This part shall not apply to employees or records of other agencies of the U.S. Government, the District of Columbia, or the several States and their political subdivisions.
@@ -10,7 +12,7 @@ The provisions of this part shall govern informal nonpublic investigations, as d
 
 ### §305.2   Definition.
 
-For the purpose of, and as used in this part, the term investigation means a non-adjudicatory, informal nonpublic investigation for the purpose of determining whether formal enforcement action should be instituted with respect to alleged violations of law.
+For the purpose of, and as used in this part, the term *investigation* means a non-adjudicatory, informal nonpublic investigation for the purpose of determining whether formal enforcement action should be instituted with respect to alleged violations of law.
 
 ### §§305.3-305.4   \[Reserved\]
 
@@ -24,9 +26,9 @@ Witnesses may be required to appear before any administrative law judge for the 
 
 ### §305.7   Issuance of investigation subpenas.
 
-(a) The General Counsel, the DOT decisionmaker, the chief administrative law judge or the administrative law judge designated to preside at the reception of evidence, may issue a subpena directing the person named therein to appear before a designated administrative law judge at a designated time and place to testify or to produce documentary evidence relating to any matter under investigation, or both. Each such subpena shall briefly advise the person required to testify or submit documentary evidence of the purpose and scope of the investigation, and a copy of the order initiating the investigation shall be attached to the subpena.
+\(a\) The General Counsel, the DOT decisionmaker, the chief administrative law judge or the administrative law judge designated to preside at the reception of evidence, may issue a subpena directing the person named therein to appear before a designated administrative law judge at a designated time and place to testify or to produce documentary evidence relating to any matter under investigation, or both. Each such subpena shall briefly advise the person required to testify or submit documentary evidence of the purpose and scope of the investigation, and a copy of the order initiating the investigation shall be attached to the subpena.
 
-(b) Witnesses subpoenaed to appear shall be paid the fees and mileage prescribed in §302.27(c) of the Rules of Practice (14 CFR 302.27(c)). Service of such subpoenas shall be made in accordance with the provisions of §302.7 of the Rules of Practice (14 CFR 302.7).
+\(b\) Witnesses subpoenaed to appear shall be paid the fees and mileage prescribed in §302.27(c) of the Rules of Practice ([[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.27   Rights of witnesses; attendance fees and mileage.|14 CFR 302.27]](c)). Service of such subpoenas shall be made in accordance with the provisions of §302.7 of the Rules of Practice ([[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.7   Service of documents.|14 CFR 302.7]]).
 
 \[Doc. No. 82, 50 FR 2421, Jan. 16, 1985, as amended at 65 FR 6456, Feb. 9, 2000; Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019\]
 
@@ -53,3 +55,5 @@ Upon completion of the investigation, where the General Counsel, determines that
 Any person upon whom an investigation subpena is served may, within seven (7) days after such service or at any time prior to the return date thereof, whichever is earlier, file a motion to quash or modify such subpena with the administrative law judge who issued such subpena, or in the event the administrative law judge is not available, with the chief administrative law judge for action by himself or herself or by the DOT decisionmaker. Such motions shall be made in writing in conformity with Rules 3 and 4 of the Rules of Practice (part 302 of this subchapter); shall state with particularity the grounds therefor and the relief sought; shall be accompanied by the evidence relied upon and all such factual matter shall be verified in accordance with the provisions of Rule 4(b) of the aforesaid Rules of Practice. Written memoranda or briefs may be filed with the motions, stating the points and authorities relied upon. No oral argument will be heard on such motions unless the chief administrative law judge, the administrative law judge or the DOT decisionmaker directs otherwise. A subpena will be quashed or modified if the evidence whose production is required is not reasonably relevant to the matter under investigation, or the demand made does not describe with sufficient particularity the information sought, or the subpena is unlawful or unduly burdensome. The filing of a motion to quash or modify an investigation subpena shall stay the return date of such subpena until such motion is granted or denied. The DOT decisionmaker may at any time review, upon his or her own initiative, the ruling of an administrative law judge or the chief administrative law judge denying a motion to quash a subpena. In such cases, the DOT decisionmaker may order that the return date of a subpena which he or she has elected to review be stayed pending DOT action thereon.
 
 \[Doc. No. 82, 50 FR 2421, Jan. 16, 1985, as amended at 65 FR 6457, Feb. 9, 2000\]
+
+</div>

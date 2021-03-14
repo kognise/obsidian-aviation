@@ -2,6 +2,8 @@
 **4 min read**  
 Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.215](https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.215)
 
+<div>
+
 ### §215.1   Applicability.
 
 This part applies to all certificated air carriers, commuter air carriers, and foreign direct air carriers and to initial and amended applications for authority, applications for certificate or permit transfers or reissuances, and registration of business names.
@@ -20,9 +22,9 @@ In holding out to the public and in performing air transportation services, a di
 
 ### §215.4   Change of name or use of trade name.
 
-(a) Registrations. Any air carrier subject to this part that desires to change the name in which its operating authorization has been issued, or to use a trade name, or to obtain initial operating authority must register the name with the Department. The Department will construe any application for initial, reissued, or transferred authority as containing a “registration” of the intended name. A separate name registration document need not be filed. A carrier registering use of a trade name, without seeking reissuance of its underlying certificate commuter or foreign air carrier permit or exemption authority, must file a statement that complies with §§302.3 and 302.4 of this chapter registering its intended name with the Air Carrier Fitness Division if it is a U.S. certificated or commuter carrier, or within the Foreign Air Carrier Licensing Divisionif it is a foreign air carrier.
+\(a\) *Registrations.* Any air carrier subject to this part that desires to change the name in which its operating authorization has been issued, or to use a trade name, or to obtain initial operating authority must register the name with the Department. The Department will construe any application for initial, reissued, or transferred authority as containing a “registration” of the intended name. A separate name registration document need not be filed. A carrier registering use of a trade name, without seeking reissuance of its underlying certificate commuter or foreign air carrier permit or exemption authority, must file a statement that complies with §§302.3 and 302.4 of this chapter registering its intended name with the Air Carrier Fitness Division if it is a U.S. certificated or commuter carrier, or within the Foreign Air Carrier Licensing Divisionif it is a foreign air carrier.
 
-(b) Montreal Agreement. Each registration under this section shall be accompanied by three copies of a counterpart to the Montreal Agreement (Agreement 18900) (OST Form 4523) signed by the carrier using the proposed name. Upon arrival of the application, the Department will place a copy of the signed OST form 4523 in Docket DOT-OST-1995-236.
+\(b\) *Montreal Agreement.* Each registration under this section shall be accompanied by three copies of a counterpart to the Montreal Agreement (Agreement 18900) (OST Form 4523) signed by the carrier using the proposed name. Upon arrival of the application, the Department will place a copy of the signed OST form 4523 in Docket DOT-OST-1995-236.
 
 (Reporting and recordkeeping requirements in paragraph (b) were approved by the Office of Management and Budget under control number 3024-0064.)
 
@@ -37,3 +39,5 @@ The Department will compare the proposed name in any registration filed under th
 After completion of the filing and notification requirements of this part, the Department may acknowledge the registration by notice in the action granting the application for initial operating authority, transfer, or reissuance or by separate notice in the case of use of a trade name. Non-action under this provision shall not be construed as an adjudication of any rights or liabilities.
 
 \[53 FR 17923, May 19, 1988, as amended at 70 FR 25768, May 16, 2005\]
+
+</div>

@@ -2,6 +2,8 @@
 **4 min read**  
 Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.296](https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.296)
 
+<div>
+
 ## Subpart A—General
 
 ### §296.1   Purpose.
@@ -36,25 +38,25 @@ Every indirect cargo air carrier shall give notice in writing to the shipper, wh
 
 ### §296.10   Exemption from the Statute.
 
-(a) Indirect cargo air carriers are exempted from the provisions of 49 U.S.C. Subtitle VII only if and so long as they comply with the provisions of this part and its conditions, and to the extent necessary to permit them to organize and arrange their air freight shipments to provide indirect air transportation, except for the following sections:
+\(a\) Indirect cargo air carriers are exempted from the provisions of 49 U.S.C. Subtitle VII only if and so long as they comply with the provisions of this part and its conditions, and to the extent necessary to permit them to organize and arrange their air freight shipments to provide indirect air transportation, except for the following sections:
 
-(1) Section 41510(b) (solicitation of rebates). However, indirect cargo air carriers are exempt from section 41510(b) to the extent necessary to permit them to solicit, accept, or receive fees from direct air carriers.
+\(1\) Section 41510(b) (solicitation of rebates). However, indirect cargo air carriers are exempt from section 41510(b) to the extent necessary to permit them to solicit, accept, or receive fees from direct air carriers.
 
-(2) Section 41702 to the extent required to provide safe service, equipment, and facilities in connection with air transportation.
+\(2\) Section 41702 to the extent required to provide safe service, equipment, and facilities in connection with air transportation.
 
-(3) Section 41310 (nondiscrimination) with respect to foreign air transportation.
+\(3\) Section 41310 (nondiscrimination) with respect to foreign air transportation.
 
-(4) Section 41708 (accounts, records, and reports) and section 41709 (inspection of accounts and property);
+\(4\) Section 41708 (accounts, records, and reports) and section 41709 (inspection of accounts and property);
 
-(5) Section 41712 (unfair or deceptive practices or method of competition);
+\(5\) Section 41712 (unfair or deceptive practices or method of competition);
 
-(6) Section 40102(b) (form of control); and
+\(6\) Section 40102(b) (form of control); and
 
-(7) Section 41711 (inquiry into air carrier management).
+\(7\) Section 41711 (inquiry into air carrier management).
 
 (b)-(c) \[Reserved\]
 
-(d) Direct air carriers are exempted from Chapter 415 of 49 U.S.C. Subtitle VII to the extent necessary to permit them to pay, directly or indirectly, fees to indirect cargo air carriers.
+\(d\) Direct air carriers are exempted from Chapter 415 of 49 U.S.C. Subtitle VII to the extent necessary to permit them to pay, directly or indirectly, fees to indirect cargo air carriers.
 
 \[ER-1261, 46 FR 54727, Nov. 4, 1981, as amended by ER-1335, 48 FR 22705, May 20, 1983; ER-1381, 49 FR 25226, June 20, 1984, 50 FR 31142, July 31, 1985; 60 FR 43527, Aug. 22, 1995; DOT-OST-2014-0140, 84 FR 15934, Apr. 16, 2019\]
 
@@ -65,3 +67,5 @@ Every indirect cargo air carrier shall give notice in writing to the shipper, wh
 In case of any violation of any of the provisions of 49 U.S.C. Subtitle VII, or of this part, or any other rule, regulation, or order issued under the Statute, the violator may be subject to a proceeding under section 46101 of 49 U.S.C. Subtitle VII before the Department, or sections 46106 through 46108 of 49 U.S.C. Subtitle VII before a U.S. District Court, as the case may be, to compel compliance. The violator may also be subject to civil penalties under the provisions of section 46301 of 49 U.S.C. Subtitle VII, or other lawful sanctions.
 
 \[ER-1261, 46 FR 54727, Nov. 4, 1981, as amended by Doc. No. 47939, 57 FR 40103, Sept. 2, 1992; 60 FR 43527, Aug. 22, 1995; DOT-OST-2014-0140, 84 FR 15934, Apr. 16, 2019\]
+
+</div>

@@ -1,4 +1,4 @@
-# Federal Aircraft Regulations
+# Federal Aviation Regulations
 
 - [[Volume 1]]
 - [[Volume 2]]

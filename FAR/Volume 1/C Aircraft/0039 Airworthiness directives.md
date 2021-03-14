@@ -2,6 +2,8 @@
 **5 min read**  
 Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.39](https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.39)
 
+<div>
+
 ### §39.1   Purpose of this regulation.
 
 The regulations in this part provide a legal framework for FAA's system of Airworthiness Directives.
@@ -14,9 +16,9 @@ FAA's airworthiness directives are legally enforceable rules that apply to the f
 
 FAA issues an airworthiness directive addressing a product when we find that:
 
-(a) An unsafe condition exists in the product; and
+\(a\) An unsafe condition exists in the product; and
 
-(b) The condition is likely to exist or develop in other products of the same type design.
+\(b\) The condition is likely to exist or develop in other products of the same type design.
 
 ### §39.7   What is the legal effect of failing to comply with an airworthiness directive?
 
@@ -34,7 +36,11 @@ Airworthiness directives specify inspections you must carry out, conditions and 
 
 Yes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the Federal Register as amendments to §39.13.
 
-Editorial Note: For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the “Finding Aids” section of the printed volume and at www.govinfo.gov. For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives.
+<div>
+
+Editorial Note: For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for [[Volume 1/C Aircraft/0039 Airworthiness directives.md#§39.13   Are airworthiness directives part of the Code of Federal Regulations?|14 CFR 39.13]] in the List of CFR Sections Affected, which appears in the “Finding Aids” section of the printed volume and at *www.govinfo.gov.* For citations to prior amendments, see the entries for [[Volume 1/C Aircraft/0039 Airworthiness directives.md#§39.13   Are airworthiness directives part of the Code of Federal Regulations?|14 CFR 39.13]] in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives.
+
+</div>
 
 ### §39.15   Does an airworthiness directive apply if the product has been changed?
 
@@ -58,8 +64,10 @@ Yes, the operations specifications giving some operators authority to operate in
 
 ### §39.25   How do I get a special flight permit?
 
-Apply to FAA for a special flight permit following the procedures in 14 CFR 21.199.
+Apply to FAA for a special flight permit following the procedures in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.199   Issue of special flight permits.|14 CFR 21.199]].
 
 ### §39.27   What do I do if the airworthiness directive conflicts with the service document on which it is based?
 
 In some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.
+
+</div>
