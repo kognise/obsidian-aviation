@@ -158,7 +158,7 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
 
         <em>**CAUTION-**</em>
 
-        <em> ****All aircraft in the vicinity of an airport may not be in communication with the FSS.****</em>
+        <em> **All aircraft in the vicinity of an airport may not be in communication with the FSS.**</em>
 
         </div>
 5.  **Information Provided by Aeronautical Advisory Stations (UNICOM)**
