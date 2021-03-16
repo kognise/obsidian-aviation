@@ -62,7 +62,7 @@ Air carriers shall prohibit smoking on the following flights:
 
 ### §252.8   Extent of smoking restrictions.
 
-The restrictions on smoking described in §[[Volume 4/A Economic regulations/0252 Smoking aboard aircraft.md#§252.4   Smoking ban: air carriers.|§252.4]] and 252.5 shall apply to all locations within the aircraft.
+The restrictions on smoking described in [[Volume 4/A Economic regulations/0252 Smoking aboard aircraft.md#§252.4   Smoking ban: air carriers.|§§252.4]] and 252.5 shall apply to all locations within the aircraft.
 
 \[Docket DOT-OST-2011-0044, 81 FR 11428, Mar. 4, 2016\]
 

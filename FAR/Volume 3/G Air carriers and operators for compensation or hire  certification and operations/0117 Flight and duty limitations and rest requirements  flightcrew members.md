@@ -16,7 +16,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.117](https://www.ecfr
 
 ### §117.3   Definitions.
 
-In addition to the definitions in §[[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] and 110.2 of this chapter, the following definitions apply to this part. In the event there is a conflict in definitions, the definitions in this part control for purposes of the flight and duty limitations and rest requirements of this part.
+In addition to the definitions in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§§1.1]] and 110.2 of this chapter, the following definitions apply to this part. In the event there is a conflict in definitions, the definitions in this part control for purposes of the flight and duty limitations and rest requirements of this part.
 
 *Acclimated* means a condition in which a flightcrew member has been in a theater for 72 hours or has been given at least 36 consecutive hours free from duty.
 

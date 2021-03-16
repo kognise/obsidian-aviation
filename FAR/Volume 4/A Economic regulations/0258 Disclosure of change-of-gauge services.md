@@ -54,7 +54,7 @@ For at least one of your flights, you must change aircraft en route even though 
 
 \(a\) This Part is effective as of August 25, 1999.
 
-\(b\) Compliance with the following sections is mandatory as of August 25, 1999: §[[Volume 4/A Economic regulations/0258 Disclosure of change-of-gauge services.md#§258.1   Purpose.|§258.1]], 258.2, 258.3, 258.4, 258.5(a), 258.5(b), and 258.6.
+\(b\) Compliance with the following sections is mandatory as of August 25, 1999: [[Volume 4/A Economic regulations/0258 Disclosure of change-of-gauge services.md#§258.1   Purpose.|§§258.1]], 258.2, 258.3, 258.4, 258.5(a), 258.5(b), and 258.6.
 
 \(c\) Compliance with [[Volume 4/A Economic regulations/0258 Disclosure of change-of-gauge services.md#§258.5   Notice requirement.|§258.5]](c) is mandatory as of March 15, 2000.
 

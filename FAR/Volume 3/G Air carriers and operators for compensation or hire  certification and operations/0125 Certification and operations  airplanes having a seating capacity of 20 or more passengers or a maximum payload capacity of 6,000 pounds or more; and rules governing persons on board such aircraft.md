@@ -408,7 +408,7 @@ No certificate holder may operate a land airplane (other than a DC-3, C-46, CV-2
 
 ### §125.111   General.
 
-\(a\) Except as provided in paragraph (b) of this section, no certificate holder may use an airplane powered by airplane engines rated at more than 600 horsepower each for maximum continuous operation unless that airplane meets the requirements of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.113   Cabin interiors.|§125.113]] through 125.181.
+\(a\) Except as provided in paragraph (b) of this section, no certificate holder may use an airplane powered by airplane engines rated at more than 600 horsepower each for maximum continuous operation unless that airplane meets the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.113   Cabin interiors.|§§125.113]] through 125.181.
 
 \(b\) If the Administrator determines that, for a particular model of airplane used in cargo service, literal compliance with any requirement under paragraph (a) of this section would be extremely difficult and that compliance would not contribute materially to the objective sought, the Administrator may require compliance with only those requirements that are necessary to accomplish the basic objectives of this part.
 
@@ -616,7 +616,7 @@ Unless equivalent protection can be shown by other means, a diaphragm that compl
 
 ### §125.151   Powerplant fire protection.
 
-\(a\) Designated fire zones must be protected from fire by compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.153   Flammable fluids.|§125.153]] through 125.159.
+\(a\) Designated fire zones must be protected from fire by compliance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.153   Flammable fluids.|§§125.153]] through 125.159.
 
 \(b\) Designated fire zones are—
 
@@ -810,7 +810,7 @@ When cargo is carried in cargo compartments that are designed to require the phy
 
 \(3\) Instruments and equipment required for specific operations by this part.
 
-\(c\) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an airplane with inoperable instruments or equipment may be operated under a special flight permit under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]] and 21.199 of this chapter.
+\(c\) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an airplane with inoperable instruments or equipment may be operated under a special flight permit under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§§21.197]] and 21.199 of this chapter.
 
 \[Doc. No. 25780, 56 FR 12310, Mar. 22, 1991, as amended by Docket FAA-2018-0119, Amdt. 125-68, 83 FR 9174, Mar. 5, 2018\]
 
@@ -1094,7 +1094,7 @@ No person may conduct any operation unless the following equipment is installed 
 
 \(b\) A windshield wiper or equivalent for each pilot station.
 
-\(c\) A power supply and distribution system that meets the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]], 25.1331, 25.1351 (a) and (b) (1) through (4), 25.1353, 25.1355, and 25.1431(b) or that is able to produce and distribute the load for the required instruments and equipment, with use of an external power supply if any one power source or component of the power distribution system fails. The use of common elements in the system may be approved if the Administrator finds that they are designed to be reasonably protected against malfunctioning. Engine-driven sources of energy, when used, must be on separate engines.
+\(c\) A power supply and distribution system that meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§§25.1309]], 25.1331, 25.1351 (a) and (b) (1) through (4), 25.1353, 25.1355, and 25.1431(b) or that is able to produce and distribute the load for the required instruments and equipment, with use of an external power supply if any one power source or component of the power distribution system fails. The use of common elements in the system may be approved if the Administrator finds that they are designed to be reasonably protected against malfunctioning. Engine-driven sources of energy, when used, must be on separate engines.
 
 \(d\) A means for indicating the adequacy of the power being supplied to required flight instruments.
 
@@ -2336,7 +2336,7 @@ Except as provided in [[Volume 3/G Air carriers and operators for compensation o
 
 \(a\) Except as provided in paragraph (b) of this section, each person releasing an airplane for operation under IFR or over-the-top shall list at least one alternate airport for each destination airport in the flight release.
 
-\(b\) An alternate airport need not be designated for IFR or over-the-top operations where the airplane carries enough fuel to meet the requirements of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.375   Fuel supply: Nonturbine and turbopropeller-powered airplanes.|§125.375]] and 125.377 for flights outside the 48 conterminous States and the District of Columbia over routes without an available alternate airport for a particular airport of destination.
+\(b\) An alternate airport need not be designated for IFR or over-the-top operations where the airplane carries enough fuel to meet the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.375   Fuel supply: Nonturbine and turbopropeller-powered airplanes.|§§125.375]] and 125.377 for flights outside the 48 conterminous States and the District of Columbia over routes without an available alternate airport for a particular airport of destination.
 
 \(c\) For the purposes of paragraph (a) of this section, the weather requirements at the alternate airport must meet the requirements of the operator's operations specifications.
 
@@ -2688,7 +2688,7 @@ Table 1
 
 \(d\) *Retrofit.* Except as provided in paragraph (j) of this section, after the dates specified in paragraph (e) of this section, no person may operate an airplane to which this section applies unless the requirements of paragraphs (d)(1) and (d)(2) of this section are met.
 
-\(1\) Ignition Mitigation Means (IMM), Flammability Reduction Means (FRM), or FIMM, if required by §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
+\(1\) Ignition Mitigation Means (IMM), Flammability Reduction Means (FRM), or FIMM, if required by [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§§26.33]], 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
 
 \(2\) Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.201   Inoperable instruments and equipment.|§125.201]] of this part, the IMM, FRM or FIMM, as applicable, are operational.
 
@@ -2706,9 +2706,9 @@ Table 1
 
 \(2\) Deactivate or remove an IMM or FRM once installed unless it is replaced by a means that complies with paragraph (d) of this section.
 
-\(g\) *Inspection Program Revisions.* No person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the inspection program for that airplane is revised to include those applicable airworthiness limitations.
+\(g\) *Inspection Program Revisions.* No person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§§26.33]], 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the inspection program for that airplane is revised to include those applicable airworthiness limitations.
 
-\(h\) After the inspection program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]], 26.33, 26.35, or 26.37 of this chapter, the person must revise the inspection program for the airplane to include those airworthiness limitations.
+\(h\) After the inspection program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§§25.981]], 26.33, 26.35, or 26.37 of this chapter, the person must revise the inspection program for the airplane to include those airworthiness limitations.
 
 \(i\) The inspection program changes identified in paragraphs (g) and (h) of this section must be submitted to the operator's assigned Flight Standards office responsible for review and approval prior to incorporation.
 

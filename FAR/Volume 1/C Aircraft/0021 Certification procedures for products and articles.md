@@ -18,7 +18,7 @@ Editorial Notes: 1. For miscellaneous amendments to cross references in this 21 
 
 2\. *Compliance:* Each type certificate holder, and each supplemental type certificate holder of a modification affecting the airplane fuel tank system, must accomplish the following within the compliance times specified in paragraph (e) of this section:
 
-\(a\) Conduct a safety review of the airplane fuel tank system to determine that the design meets the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.901   Installation.|§25.901]] and 25.981(a) and (b) of this chapter. If the current design does not meet these requirements, develop all design changes to the fuel tank system that are necessary to meet these requirements. The responsible Aircraft Certification Service office for the affected airplane may grant an extension of the 18-month compliance time for development of design changes if:
+\(a\) Conduct a safety review of the airplane fuel tank system to determine that the design meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.901   Installation.|§§25.901]] and 25.981(a) and (b) of this chapter. If the current design does not meet these requirements, develop all design changes to the fuel tank system that are necessary to meet these requirements. The responsible Aircraft Certification Service office for the affected airplane may grant an extension of the 18-month compliance time for development of design changes if:
 
 \(1\) The safety review is completed within the compliance time;
 
@@ -30,7 +30,7 @@ Editorial Notes: 1. For miscellaneous amendments to cross references in this 21 
 
 \(c\) Submit a report for approval to the responsible Aircraft Certification Service office for the affected airplane, that:
 
-\(1\) Provides substantiation that the airplane fuel tank system design, including all necessary design changes, meets the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.901   Installation.|§25.901]] and 25.981(a) and (b) of this chapter; and
+\(1\) Provides substantiation that the airplane fuel tank system design, including all necessary design changes, meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.901   Installation.|§§25.901]] and 25.981(a) and (b) of this chapter; and
 
 \(2\) Contains all maintenance and inspection instructions necessary to maintain the design features required to preclude the existence or development of an ignition source within the fuel tank system throughout the operational life of the airplane.
 
@@ -288,7 +288,7 @@ Effective Date Note: At 85 FR 62968, Oct. 6, 2020, Special Federal Aviation Regu
 
 \(c\) The requirements of this section do not apply to—
 
-\(1\) New aircraft imported under the provisions of §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.|§21.183]](c), 21.184(b), or 21.185(c); and
+\(1\) New aircraft imported under the provisions of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.|§§21.183]](c), 21.184(b), or 21.185(c); and
 
 \(2\) New aircraft engines or propellers imported under the provisions of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.500   Acceptance of aircraft engines and propellers.|§21.500]].
 
@@ -336,7 +336,7 @@ If an article is required to be approved under this chapter, it may be approved�
 
 \(b\) Except as provided in paragraphs (a)(1) through (a)(2) of this section, a person who produces a replacement or modification article for sale may not represent that part as suitable for installation on a type-certificated product.
 
-\(c\) Except as provided in paragraphs (a)(1) through (a)(2) of this section, a person may not sell or represent an article as suitable for installation on an aircraft type-certificated under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.25   Issue of type certificate: Restricted category aircraft.|§21.25]](a)(2) or 21.27 unless that article—
+\(c\) Except as provided in paragraphs (a)(1) through (a)(2) of this section, a person may not sell or represent an article as suitable for installation on an aircraft type-certificated under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.25   Issue of type certificate: Restricted category aircraft.|§§21.25]](a)(2) or 21.27 unless that article—
 
 \(1\) Was declared surplus by the U.S. Armed Forces, and
 
@@ -378,7 +378,7 @@ If the FAA finds that the airworthiness regulations of this subchapter do not co
 
 ### §21.17   Designation of applicable regulations.
 
-\(a\) Except as provided in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.2   Special retroactive requirements.|§25.2]], 27.2, 29.2, and in parts 26, 34, and 36 of this subchapter, an applicant for a type certificate must show that the aircraft, aircraft engine, or propeller concerned meets—
+\(a\) Except as provided in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.2   Special retroactive requirements.|§§25.2]], 27.2, 29.2, and in parts 26, 34, and 36 of this subchapter, an applicant for a type certificate must show that the aircraft, aircraft engine, or propeller concerned meets—
 
 \(1\) The applicable requirements of this subchapter that are effective on the date of application for that certificate unless—
 
@@ -608,7 +608,7 @@ The type design consists of—
 
 ### §21.35   Flight tests.
 
-\(a\) Each applicant for an aircraft type certificate (other than under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.24   Issuance of type certificate: primary category aircraft.|§21.24]] through 21.29) must make the tests listed in paragraph (b) of this section. Before making the tests the applicant must show—
+\(a\) Each applicant for an aircraft type certificate (other than under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.24   Issuance of type certificate: primary category aircraft.|§§21.24]] through 21.29) must make the tests listed in paragraph (b) of this section. Before making the tests the applicant must show—
 
 \(1\) Compliance with the applicable structural requirements of this subchapter;
 
@@ -672,7 +672,7 @@ Except as provided in [[Volume 1/C Aircraft/0021 Certification procedures for pr
 
 The holder or licensee of a type certificate for a product may—
 
-\(a\) In the case of aircraft, upon compliance with §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.173   Eligibility.|§21.173]] through 21.189, obtain airworthiness certificates;
+\(a\) In the case of aircraft, upon compliance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.173   Eligibility.|§§21.173]] through 21.189, obtain airworthiness certificates;
 
 \(b\) In the case of aircraft engines or propellers, obtain approval for installation on certificated aircraft;
 
@@ -704,7 +704,7 @@ The holder of a type certificate must make the certificate available for examina
 
 \(a\) The holder of a type certificate for a rotorcraft for which a Rotorcraft Maintenance Manual containing an “Airworthiness Limitations” section has been issued under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1529   Instructions for Continued Airworthiness.|§27.1529]] (a)(2) or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1529   Instructions for Continued Airworthiness.|§29.1529]] (a)(2) of this chapter, and who obtains approval of changes to any replacement time, inspection interval, or related procedure in that section of the manual, must make those changes available upon request to any operator of the same type of rotorcraft.
 
-\(b\) The holder of a design approval, including either a type certificate or supplemental type certificate for an aircraft, aircraft engine, or propeller for which application was made after January 28, 1981, must furnish at least one set of complete Instructions for Continued Airworthiness to the owner of each type aircraft, aircraft engine, or propeller upon its delivery, or upon issuance of the first standard airworthiness certificate for the affected aircraft, whichever occurs later. The Instructions for Continued Airworthiness must be prepared in accordance with §[[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1529   Instructions for continued airworthiness.|§23.1529]], 25.1529, 25.1729, 27.1529, 29.1529, 31.82, 33.4, 35.4, or part 26 of this subchapter, or as specified in the applicable airworthiness criteria for special classes of aircraft defined in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.17   Designation of applicable regulations.|§21.17]](b), as applicable. If the holder of a design approval chooses to designate parts as commercial, it must include in the Instructions for Continued Airworthiness a list of commercial parts submitted in accordance with the provisions of paragraph (c) of this section. Thereafter, the holder of a design approval must make those instructions available to any other person required by this chapter to comply with any of the terms of those instructions. In addition, changes to the Instructions for Continued Airworthiness shall be made available to any person required by this chapter to comply with any of those instructions.
+\(b\) The holder of a design approval, including either a type certificate or supplemental type certificate for an aircraft, aircraft engine, or propeller for which application was made after January 28, 1981, must furnish at least one set of complete Instructions for Continued Airworthiness to the owner of each type aircraft, aircraft engine, or propeller upon its delivery, or upon issuance of the first standard airworthiness certificate for the affected aircraft, whichever occurs later. The Instructions for Continued Airworthiness must be prepared in accordance with [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1529   Instructions for continued airworthiness.|§§23.1529]], 25.1529, 25.1729, 27.1529, 29.1529, 31.82, 33.4, 35.4, or part 26 of this subchapter, or as specified in the applicable airworthiness criteria for special classes of aircraft defined in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.17   Designation of applicable regulations.|§21.17]](b), as applicable. If the holder of a design approval chooses to designate parts as commercial, it must include in the Instructions for Continued Airworthiness a list of commercial parts submitted in accordance with the provisions of paragraph (c) of this section. Thereafter, the holder of a design approval must make those instructions available to any other person required by this chapter to comply with any of the terms of those instructions. In addition, changes to the Instructions for Continued Airworthiness shall be made available to any person required by this chapter to comply with any of those instructions.
 
 \(c\) To designate commercial parts, the holder of a design approval, in a manner acceptable to the FAA, must submit:
 
@@ -802,15 +802,15 @@ Provisional type certificates are not transferable.
 
 \(f\) The applicant must establish an inspection and maintenance program for the continued airworthiness of the aircraft.
 
-\(g\) The applicant must show that a prototype aircraft has been flown for at least 50 hours under an experimental certificate issued under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] through 21.195, or under the auspices of an Armed Force of the United States. However, in the case of an amendment to a provisional type certificate, the FAA may reduce the number of required flight hours.
+\(g\) The applicant must show that a prototype aircraft has been flown for at least 50 hours under an experimental certificate issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§§21.191]] through 21.195, or under the auspices of an Armed Force of the United States. However, in the case of an amendment to a provisional type certificate, the FAA may reduce the number of required flight hours.
 
 \[Doc. No. 5085, 29 FR 14566, Oct. 24, 1964, as amended by Amdt. 21-66, 54 FR 34329, Aug. 18, 1989\]
 
 ### §21.83   Requirements for issue and amendment of Class II provisional type certificates.
 
-\(a\) An applicant who manufactures aircraft within the United States is entitled to the issue or amendment of a Class II provisional type certificate if he shows compliance with this section and the FAA finds that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations in paragraph (h) of this section, and §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§91.317]] and 121.207 of this chapter.
+\(a\) An applicant who manufactures aircraft within the United States is entitled to the issue or amendment of a Class II provisional type certificate if he shows compliance with this section and the FAA finds that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations in paragraph (h) of this section, and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§§91.317]] and 121.207 of this chapter.
 
-\(b\) An applicant who manufactures aircraft in a country with which the United States has an agreement for the acceptance of those aircraft for export and import is entitled to the issue or amendment of a Class II provisional type certificate if the country in which the aircraft was manufactured certifies that the applicant has shown compliance with this section, that the aircraft meets the requirements of paragraph (f) of this section and that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations in paragraph (h) of this section and §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§91.317]] and 121.207 of this chapter.
+\(b\) An applicant who manufactures aircraft in a country with which the United States has an agreement for the acceptance of those aircraft for export and import is entitled to the issue or amendment of a Class II provisional type certificate if the country in which the aircraft was manufactured certifies that the applicant has shown compliance with this section, that the aircraft meets the requirements of paragraph (f) of this section and that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations in paragraph (h) of this section and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§§91.317]] and 121.207 of this chapter.
 
 \(c\) The applicant must apply for a type certificate, in the transport category, for the aircraft.
 
@@ -854,7 +854,7 @@ Provisional type certificates are not transferable.
 
 \(3\) The aircraft can be operated safely under the appropriate operating limitations in this subchapter.
 
-\(f\) The applicant must submit a report showing that the aircraft incorporating the modifications involved has been flown in all maneuvers necessary to show compliance with the flight requirements applicable to those modifications and to establish that the aircraft can be operated safely in accordance with the limitations specified in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§91.317]] and 121.207 of this chapter.
+\(f\) The applicant must submit a report showing that the aircraft incorporating the modifications involved has been flown in all maneuvers necessary to show compliance with the flight requirements applicable to those modifications and to establish that the aircraft can be operated safely in accordance with the limitations specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.317   Provisionally certificated civil aircraft: Operating limitations.|§§91.317]] and 121.207 of this chapter.
 
 \(g\) The applicant must establish and publish, in a provisional aircraft flight manual or other document and on appropriate placards, all limitations required for the issue of the type certificate applied for, including weight, speed, flight maneuvers, loading, and operation of controls and equipment, unless, for each limitation not so established, appropriate operating restrictions are established for the aircraft.
 
@@ -964,7 +964,7 @@ Minor changes in a type design may be approved under a method acceptable to the 
 
 \(a\) An applicant for a change to a type certificate must show that the change and areas affected by the change comply with the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change and with parts 34 and 36 of this chapter. Exceptions are detailed in paragraphs (b) and (c) of this section.
 
-\(b\) Except as provided in paragraph (g) of this section, if paragraphs (b)(1), (2), or (3) of this section apply, an applicant may show that the change and areas affected by the change comply with an earlier amendment of a regulation required by paragraph (a) of this section, and of any other regulation the FAA finds is directly related. However, the earlier amended regulation may not precede either the corresponding regulation included by reference in the type certificate, or any regulation in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.2   Special retroactive requirements.|§25.2]], 27.2, or 29.2 of this chapter that is related to the change. The applicant may show compliance with an earlier amendment of a regulation for any of the following:
+\(b\) Except as provided in paragraph (g) of this section, if paragraphs (b)(1), (2), or (3) of this section apply, an applicant may show that the change and areas affected by the change comply with an earlier amendment of a regulation required by paragraph (a) of this section, and of any other regulation the FAA finds is directly related. However, the earlier amended regulation may not precede either the corresponding regulation included by reference in the type certificate, or any regulation in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.2   Special retroactive requirements.|§§25.2]], 27.2, or 29.2 of this chapter that is related to the change. The applicant may show compliance with an earlier amendment of a regulation for any of the following:
 
 \(1\) A change that the FAA finds not to be significant. In determining whether a specific change is significant, the FAA considers the change in context with all previous relevant design changes and all related revisions to the applicable regulations incorporated in the type certificate for the product. Changes that meet one of the following criteria are automatically considered significant:
 
@@ -986,7 +986,7 @@ Minor changes in a type design may be approved under a method acceptable to the 
 
 \(2\) File for an extension of the original application and comply with the provisions of paragraph (a) of this section. The applicant must then select a new application date. The new application date may not precede the date the change is approved by more than the time period established under this paragraph (e).
 
-\(f\) For aircraft certificated under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.17   Designation of applicable regulations.|§21.17]](b), 21.24, 21.25, and 21.27 the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change include each airworthiness requirement that the FAA finds to be appropriate for the type certification of the aircraft in accordance with those sections.
+\(f\) For aircraft certificated under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.17   Designation of applicable regulations.|§§21.17]](b), 21.24, 21.25, and 21.27 the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change include each airworthiness requirement that the FAA finds to be appropriate for the type certification of the aircraft in accordance with those sections.
 
 \(g\) Notwithstanding paragraph (b) of this section, for transport category airplanes, the applicant must show compliance with each applicable provision of [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md|part 26 of this chapter]], unless the applicant has elected or was required to comply with a corresponding amendment to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] that was issued on or after the date of the applicable part 26 provision.
 
@@ -1012,13 +1012,13 @@ This subpart prescribes procedural requirements for the issue of supplemental ty
 
 \(a\) Each applicant for a supplemental type certificate must show that the altered product meets applicable requirements specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.101   Designation of applicable regulations.|§21.101]] and, in the case of an acoustical change described in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b), show compliance with the applicable noise requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]] and, in the case of an emissions change described in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](c), show compliance with the applicable fuel venting and exhaust emissions requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]].
 
-\(b\) Each applicant for a supplemental type certificate must meet §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.33   Inspection and tests.|§21.33]] and 21.53 with respect to each change in the type design.
+\(b\) Each applicant for a supplemental type certificate must meet [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.33   Inspection and tests.|§§21.33]] and 21.53 with respect to each change in the type design.
 
 \[Amdt. 21-17, 32 FR 14927, Oct. 28, 1967, as amended by Amdt. 21-42, 40 FR 1033, Jan. 6, 1975; Amdt. 21-52A, 45 FR 79009, Nov. 28, 1980; Amdt. 21-61, 53 FR 3540, Feb. 5, 1988; Amdt. 21-68, 55 FR 32860, Aug. 10, 1990; Amdt. 21-71, 57 FR 42854, Sept. 16, 1992; Amdt. 21-77, 65 FR 36266, June 7, 2000\]
 
 ### §21.117   Issue of supplemental type certificates.
 
-\(a\) An applicant is entitled to a supplemental type certificate if the FAA finds that the applicant meets the requirements of §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.113   Requirement for supplemental type certificate.|§21.113]] and 21.115.
+\(a\) An applicant is entitled to a supplemental type certificate if the FAA finds that the applicant meets the requirements of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.113   Requirement for supplemental type certificate.|§§21.113]] and 21.115.
 
 \(b\) A supplemental type certificate consists of—
 
@@ -1066,11 +1066,11 @@ This subpart prescribes rules for production under a type certificate.
 
 Each manufacturer of a product being manufactured under a type certificate must—
 
-\(a\) Maintain at the place of manufacture all information and data specified in §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.31   Type design.|§21.31]] and 21.41;
+\(a\) Maintain at the place of manufacture all information and data specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.31   Type design.|§§21.31]] and 21.41;
 
 \(b\) Make each product and article thereof available for inspection by the FAA;
 
-\(c\) Maintain records of the completion of all inspections and tests required by §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.127   Tests: aircraft.|§21.127]], 21.128, and 21.129 for at least 5 years for the products and articles thereof manufactured under the approval and at least 10 years for critical components identified under [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.15   Marking requirements for PMA articles, TSO articles, and Critical parts.|§45.15]](c) of this chapter;
+\(c\) Maintain records of the completion of all inspections and tests required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.127   Tests: aircraft.|§§21.127]], 21.128, and 21.129 for at least 5 years for the products and articles thereof manufactured under the approval and at least 10 years for critical components identified under [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.15   Marking requirements for PMA articles, TSO articles, and Critical parts.|§45.15]](c) of this chapter;
 
 \(d\) Allow the FAA to make any inspection or test, including any inspection or test at a supplier facility, necessary to determine compliance with this subchapter;
 
@@ -1282,7 +1282,7 @@ The holder of a production certificate must—
 
 \(a\) A holder of a production certificate must apply for an amendment to a production certificate in a form and manner prescribed by the FAA.
 
-\(b\) An applicant for an amendment to a production certificate to add a type certificate or model, or both, must comply with §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.137   Quality system.|§21.137]], 21.138, and 21.150.
+\(b\) An applicant for an amendment to a production certificate to add a type certificate or model, or both, must comply with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.137   Quality system.|§§21.137]], 21.138, and 21.150.
 
 \(c\) An applicant may apply to amend its production limitation record to allow the manufacture and installation of an interface component, provided—
 
@@ -1652,7 +1652,7 @@ An applicant for an experimental certificate must submit the following informati
 
 \(b\) A special flight permit may also be issued to authorize the operation of an aircraft at a weight in excess of its maximum certificated takeoff weight for flight beyond the normal range over water, or over land areas where adequate landing facilities or appropriate fuel is not available. The excess weight that may be authorized under this paragraph is limited to the additional fuel, fuel-carrying facilities, and navigation equipment necessary for the flight.
 
-\(c\) Upon application, as prescribed in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1017   Amending program manager's management specifications.|§91.1017]] or 119.51 of this chapter, a special flight permit with a continuing authorization may be issued for aircraft that may not meet applicable airworthiness requirements, but are capable of safe flight for the purpose of flying aircraft to a base where maintenance or alterations are to be performed. The permit issued under this paragraph is an authorization, including conditions and limitations for flight, which is set forth in the certificate holder's operations specifications. The permit issued under this paragraph may be issued to—
+\(c\) Upon application, as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1017   Amending program manager's management specifications.|§§91.1017]] or 119.51 of this chapter, a special flight permit with a continuing authorization may be issued for aircraft that may not meet applicable airworthiness requirements, but are capable of safe flight for the purpose of flying aircraft to a base where maintenance or alterations are to be performed. The permit issued under this paragraph is an authorization, including conditions and limitations for flight, which is set forth in the certificate holder's operations specifications. The permit issued under this paragraph may be issued to—
 
 \(1\) Certificate holders authorized to conduct operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]], that have an approved program for continuing flight authorization; or
 
@@ -1720,7 +1720,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(1\) He meets the eligibility requirements of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.213   Eligibility.|§21.213]] and he complies with this section; and
 
-\(2\) The FAA finds that there is no feature, characteristic or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.81   Requirements for issue and amendment of Class I provisional type certificates.|§21.81]](e) and 91.317 of this subchapter.
+\(2\) The FAA finds that there is no feature, characteristic or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.81   Requirements for issue and amendment of Class I provisional type certificates.|§§21.81]](e) and 91.317 of this subchapter.
 
 \(b\) The manufacturer must hold a provisional type certificate for the aircraft.
 
@@ -1728,7 +1728,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(d\) The aircraft must be flown at least five hours by the manufacturer.
 
-\(e\) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations established by §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.81   Requirements for issue and amendment of Class I provisional type certificates.|§21.81]](e) and 91.317.
+\(e\) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations established by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.81   Requirements for issue and amendment of Class I provisional type certificates.|§§21.81]](e) and 91.317.
 
 \[Doc. No. 5085, 29 FR 14571, Oct. 24, 1964, as amended by Amdt. 21-66, 54 FR 34329, Aug. 18, 1989\]
 
@@ -1738,7 +1738,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(1\) He meets the eligibility requirements of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.213   Eligibility.|§21.213]] and he complies with this section; and
 
-\(2\) The FAA finds that there is no feature, characteristic, or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.83   Requirements for issue and amendment of Class II provisional type certificates.|§21.83]](h), 91.317, and 121.207 of this chapter.
+\(2\) The FAA finds that there is no feature, characteristic, or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.83   Requirements for issue and amendment of Class II provisional type certificates.|§§21.83]](h), 91.317, and 121.207 of this chapter.
 
 \(b\) The applicant must show that a Class II provisional type certificate for the aircraft has been issued to the manufacturer.
 
@@ -1748,7 +1748,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(e\) The aircraft must be flown at least five hours by the manufacturer.
 
-\(f\) The aircraft must be supplied with a provisional aircraft flight manual containing the limitations established by §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.83   Requirements for issue and amendment of Class II provisional type certificates.|§21.83]](h), 91.317, and 121.207 of this chapter.
+\(f\) The aircraft must be supplied with a provisional aircraft flight manual containing the limitations established by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.83   Requirements for issue and amendment of Class II provisional type certificates.|§§21.83]](h), 91.317, and 121.207 of this chapter.
 
 \[Doc. No. 5085, 29 FR 14571, Oct. 24, 1964, as amended by Amdt. 21-12, 31 FR 13389, Oct. 15, 1966; Amdt. 21-66, 54 FR 34329, Aug. 18, 1989; Amdt. 21-92, 74 FR 53390, Oct. 16, 2009\]
 
@@ -1758,7 +1758,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(1\) He meets the eligibility requirements of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.213   Eligibility.|§21.213]] and he complies with this section; and
 
-\(2\) The FAA finds that there is no feature, characteristic, or condition of the aircraft, as modified in accordance with the provisionally amended type certificate, that would make the aircraft unsafe when operated in accordance with the applicable limitations established in §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.85   Provisional amendments to type certificates.|§21.85]](g), 91.317, and 121.207 of this chapter.
+\(2\) The FAA finds that there is no feature, characteristic, or condition of the aircraft, as modified in accordance with the provisionally amended type certificate, that would make the aircraft unsafe when operated in accordance with the applicable limitations established in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.85   Provisional amendments to type certificates.|§§21.85]](g), 91.317, and 121.207 of this chapter.
 
 \(b\) The applicant must show that the modification was made under a quality system adequate to ensure that the modification conforms to the provisionally amended type certificate.
 
@@ -1766,7 +1766,7 @@ Class I provisional airworthiness certificates are not transferable. Class II pr
 
 \(d\) The aircraft must be flown at least five hours by the manufacturer.
 
-\(e\) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations required by §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.85   Provisional amendments to type certificates.|§21.85]](g), 91.317, and 121.207 of this chapter.
+\(e\) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.85   Provisional amendments to type certificates.|§§21.85]](g), 91.317, and 121.207 of this chapter.
 
 \[Doc. No. 5085, 29 FR 14571, Oct. 24, 1964, as amended by Amdt. 21-12, 31 FR 13389, Oct. 15, 1966; Amdt. 21-66, 54 FR 34329, Aug. 18, 1989; Amdt. 21-92, 74 FR 53390, Oct. 16, 2009\]
 

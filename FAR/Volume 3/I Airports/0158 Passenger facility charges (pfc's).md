@@ -68,7 +68,7 @@ The following definitions apply in this part:
 
 *Nonrevenue passenger* means a passenger receiving air transportation from an air carrier or foreign air carrier for which remuneration is not received by the air carrier or foreign air carrier as defined under Department of Transportation Regulations or as otherwise determined by the Administrator. Air carrier employees or others receiving air transportation against whom token service charges are levied are considered nonrevenue passengers. Infants for whom a token fare is charged are also considered nonrevenue passengers.
 
-*Notice of intent (to impose or use PFC revenue)* means a notice under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]] from a public agency controlling a non-hub airport that it intends to impose a PFC and/or use PFC revenue. Except for §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]] through 30, “notice of intent” can be used interchangeably with “application.”
+*Notice of intent (to impose or use PFC revenue)* means a notice under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]] from a public agency controlling a non-hub airport that it intends to impose a PFC and/or use PFC revenue. Except for [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§§158.25]] through 30, “notice of intent” can be used interchangeably with “application.”
 
 *One-way trip* means any trip that is not a round trip.
 
@@ -436,7 +436,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(C\) The final FAA airspace determination with respect to the project has been completed, and the date of such determination, if an airspace study is required.
 
-\(iii\) The information required by §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b)(16) and 158.25(b)(17).
+\(iii\) The information required by [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§§158.25]](b)(16) and 158.25(b)(17).
 
 \(2\) An application where the authority to impose a PFC has been previously approved:
 
@@ -460,7 +460,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(C\) The final FAA airspace determination with respect to the project has been completed, and the date of such determination, if an airspace study is required; and
 
-\(v\) The information required by §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b)(16) and 158.25(b)(17).
+\(v\) The information required by [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§§158.25]](b)(16) and 158.25(b)(17).
 
 \[Doc. No. FAA-2004-17999, 70 FR 14935, Mar. 23, 2005\]
 
@@ -554,7 +554,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(c\) *Disapproval of application.* (1) If an application is disapproved, the Administrator notifies the public agency in writing of the decision and the reasons for the disapproval.
 
-\(2\) A public agency reapplying for approval to impose or use a PFC must comply with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]], 158.24, and 158.25.
+\(2\) A public agency reapplying for approval to impose or use a PFC must comply with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]], 158.24, and 158.25.
 
 \(d\) The Administrator publishes a monthly notice of PFC approvals and disapprovals in the Federal Register.
 
@@ -578,7 +578,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(iii\) A description of how this project meets the adequate justification requirement in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](c).
 
-\(4\) A copy of any comments received by the public agency during the air carrier consultation and public comment processes (§[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24) and the public agency's response to any disagreements.
+\(4\) A copy of any comments received by the public agency during the air carrier consultation and public comment processes ([[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24) and the public agency's response to any disagreements.
 
 \(5\) If applicable, a request to exclude a class of carriers from the requirement to collect the PFC ([[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.11   Public agency request not to require collection of PFC's by a class of air carriers or foreign air carriers or for service to isolated communities.|§158.11]]).
 
@@ -596,9 +596,9 @@ This subpart specifies the consultation and application requirements under which
 
 \(2\) A notice of intent to use PFC revenue where the FAA has previously acknowledged a notice of intent to impose a PFC must:
 
-\(i\) Be preceded by further consultation with air carriers and the opportunity for public comment under §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 of this part. However, a meeting with the air carriers is optional if all information is the same as that provided with the impose authority notice;
+\(i\) Be preceded by further consultation with air carriers and the opportunity for public comment under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24 of this part. However, a meeting with the air carriers is optional if all information is the same as that provided with the impose authority notice;
 
-\(ii\) Include a copy of any comments received by the public agency during the air carrier consultation and public comment processes (§[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24) and the public agency's response to any disagreements or negative comments; and
+\(ii\) Include a copy of any comments received by the public agency during the air carrier consultation and public comment processes ([[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24) and the public agency's response to any disagreements or negative comments; and
 
 \(iii\) Include any updated and changed information:
 
@@ -618,7 +618,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(E\) Any request by the public agency to exclude a class of carriers from the requirement to collect the PFC is reasonable, not arbitrary, nondiscriminatory, and otherwise complies with the law; and
 
-\(F\) The consultation and public comment processes complied with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24.
+\(F\) The consultation and public comment processes complied with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24.
 
 \(2\) The FAA will also make a determination regarding the public agency's compliance with 49 U.S.C. 47524 and 47526 governing airport noise and access restrictions and 49 U.S.C. 47107(b) governing the use of airport revenue. Finally, the FAA will review all comments filed during the air carrier consultation and public comment processes.
 
@@ -722,7 +722,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(b\) The public agency must file a request to the Administrator to amend the FAA's decision with respect to an approved PFC. The request must include or demonstrate:
 
-(1)(i) Further consultation with the air carriers and foreign air carriers and seek public comment in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 when applying for those requests to:
+(1)(i) Further consultation with the air carriers and foreign air carriers and seek public comment in accordance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24 when applying for those requests to:
 
 \(A\) Amend the approved PFC amount for a project by more than 25 percent of the original approved amount if the amount was \$1,000,000 or greater,
 
@@ -732,7 +732,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(D\) Increase the PFC level to be collected from each passenger.
 
-\(ii\) No further consultation with air carriers and foreign air carriers or public comment is required by a public agency in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 when applying for an amendment in the following situations:
+\(ii\) No further consultation with air carriers and foreign air carriers or public comment is required by a public agency in accordance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24 when applying for an amendment in the following situations:
 
 \(A\) To institute a decrease in the level of PFC to be collected from each passenger;
 
@@ -746,7 +746,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(F\) To delete an approved project.
 
-\(2\) A copy of any comments received from the processes in paragraph (b)(1)(A) of this section for the carrier consultation and the opportunity for public comment in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24;
+\(2\) A copy of any comments received from the processes in paragraph (b)(1)(A) of this section for the carrier consultation and the opportunity for public comment in accordance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§§158.23]] and 158.24;
 
 \(3\) The public agency's reasons for continuing despite any objections;
 
@@ -760,7 +760,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(8\) Any other information the Administrator may require.
 
-\(c\) The Administrator will approve, partially approve or disapprove the amendment request and notify the public agency of the decision within 30 days of receipt of the request. If a PFC level of more than \$3.00 is approved, the Administrator must find the project meets the requirements of §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]] and 158.19, if applicable, before the public agency can implement the new PFC level.
+\(c\) The Administrator will approve, partially approve or disapprove the amendment request and notify the public agency of the decision within 30 days of receipt of the request. If a PFC level of more than \$3.00 is approved, the Administrator must find the project meets the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§§158.17]] and 158.19, if applicable, before the public agency can implement the new PFC level.
 
 \(d\) The public agency must notify the carriers of any change to the FAA's decision with respect to an approved PFC resulting from an amendment. The effective date of any new PFC level must be no earlier than the first day of a month which is at least 30 days from the date the public agency notifies the carriers.
 

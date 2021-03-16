@@ -34,7 +34,7 @@ This part sets forth the procedures by which applications may be made to the Dep
 
 ### §303.03   Requirement to file application.
 
-A person who seeks approval of a section 41309 transaction must file the application with the Docket Operations Office, M-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590, or by electronic submission at *http://www.regulations.gov.* The application must conform to the requirements set forth in §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05.
+A person who seeks approval of a section 41309 transaction must file the application with the Docket Operations Office, M-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590, or by electronic submission at *http://www.regulations.gov.* The application must conform to the requirements set forth in [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§§303.04]] and 303.05.
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019\]
 
@@ -134,13 +134,13 @@ This subpart also applies to all modifications or cancellations of contracts or 
 
 ### §303.40   Determination of compliance.
 
-\(a\) Within 10 days after an application is filed pursuant to [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.30   General provisions concerning contents of applications.|§303.03]], the Assistant Secretary will determine whether the application complies with the requirements of §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05.
+\(a\) Within 10 days after an application is filed pursuant to [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.30   General provisions concerning contents of applications.|§303.03]], the Assistant Secretary will determine whether the application complies with the requirements of [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§§303.04]] and 303.05.
 
 \(b\) If the Assistant Secretary determines that the application is incomplete, he or she may issue a notice dismissing the application without prejudice. If the application is dismissed, and statutory time period for completion of proceedings will not begin to run until a completed application is filed.
 
 ### §303.41   Notice.
 
-\(a\) The Documentary Service Division shall compile a weekly list of all applications filed under §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05. The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified. The weekly list will normally be prepared on the following Monday, or as soon as possible, and will be posted on a public bulletin board in the Documentary Services Division. The list also shall be submitted for publication in the Federal Register.
+\(a\) The Documentary Service Division shall compile a weekly list of all applications filed under [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§§303.04]] and 303.05. The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified. The weekly list will normally be prepared on the following Monday, or as soon as possible, and will be posted on a public bulletin board in the Documentary Services Division. The list also shall be submitted for publication in the Federal Register.
 
 \(b\) In appropriate case, particularly when an application concerns a matter of broad public significance, the Assistant Secretary may cause a notice of an application and request for public comment to be published separately in the Federal Register.
 

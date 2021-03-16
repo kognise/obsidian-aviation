@@ -58,7 +58,7 @@ This part describes the requirements for designating private persons to act as r
 
 ### §183.15   Duration of certificates.
 
-\(a\) Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in §[[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.21   Aviation Medical Examiners.|§183.21]], 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
+\(a\) Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.21   Aviation Medical Examiners.|§§183.21]], 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
 
 \(b\) A designation made under this subpart terminates:
 

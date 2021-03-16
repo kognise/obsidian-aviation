@@ -548,7 +548,7 @@ Table 1
 
 \(1\) Identify fatigue critical baseline structure for all airplane model variations and derivatives approved under the type certificate; and
 
-\(2\) Develop and submit to the responsible Aircraft Certification Service office for review and approval, a list of the structure identified under paragraph (b)(1) of this section and, upon approval, make the list available to persons required to comply with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.47   Holders of and applicants for a supplemental type certificate—Alterations and repairs to alterations.|§26.47]] and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(2\) Develop and submit to the responsible Aircraft Certification Service office for review and approval, a list of the structure identified under paragraph (b)(1) of this section and, upon approval, make the list available to persons required to comply with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.47   Holders of and applicants for a supplemental type certificate—Alterations and repairs to alterations.|§26.47]] and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(c\) *Existing and future published repair data.* For repair data published by a holder of a type certificate that is current as of January 11, 2008 and for all later published repair data, the holder of a type certificate must—
 
@@ -558,7 +558,7 @@ Table 1
 
 \(3\) Submit the DT data to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(d\) *Future repair data not published.* For repair data developed by a holder of a type certificate that are approved after January 11, 2008 and are not published, the type certificate holder must accomplish the following for repairs specified in the repair data that affect fatigue critical baseline structure:
 
@@ -566,7 +566,7 @@ Table 1
 
 \(2\) Submit the DT data required in paragraph (d)(1) of this section for review and approval by the responsible Aircraft Certification Service office or its properly authorized designees.
 
-\(3\) Upon approval, make the approved DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(3\) Upon approval, make the approved DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Repair evaluation guidelines.* Except for airplane models whose type certificate is issued after January 11, 2008, holders of a type certificate for each airplane model subject to this section must—
 
@@ -580,7 +580,7 @@ Table 1
 
 \(2\) Submit the repair evaluation guidelines to the responsible Aircraft Certification Service office for review and approval.
 
-\(3\) Upon approval, make the guidelines available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(3\) Upon approval, make the guidelines available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(4\) If the guidelines direct the operator to obtain assistance from the holder of a type certificate, make such assistance available in accordance with the implementation schedule.
 
@@ -650,7 +650,7 @@ Table 1
 
 \(3\) Develop and submit to the responsible Aircraft Certification Service office for review and approval a list of the structure identified under paragraph (b)(2) of this section; and
 
-\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(c\) *DT Data.* For existing and future alteration data developed by the holder of a type certificate that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1), unless previously accomplished, the holder must—
 
@@ -658,7 +658,7 @@ Table 1
 
 \(2\) Submit the DT data developed in accordance with paragraphs (c)(1) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(3\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(3\) Upon approval, make the DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(d\) *DT Data for Repairs Made to Alterations.* For existing and future repair data developed by a holder of a type certificate, the type certificate holder must—
 
@@ -668,7 +668,7 @@ Table 1
 
 \(3\) Submit the DT data developed in accordance with paragraph (d)(2) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Compliance times.* Holders of type certificates must submit the following to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval by the specified compliance time:
 
@@ -684,7 +684,7 @@ Table 1
 
 \(4\) For repair data developed and approved before January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted by June 30, 2009.
 
-\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \[Doc. No. FAA-2005-21693, 72 FR 70505, Dec. 12, 2007, as amended by Amdt. 26-4, 75 FR 11734, Mar. 12, 2010; Doc. No. FAA-2018-0119, Amdt. 26-7, 83 FR 9170, Mar. 5, 2018\]
 
@@ -700,7 +700,7 @@ Table 1
 
 \(3\) Develop and submit to the responsible Aircraft Certification Service office for review and approval a list of the structure identified under paragraph (b)(2) of this section; and
 
-\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(c\) *DT Data.* For existing and future alteration data developed by the holder of a supplemental type certificate that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1), unless previously accomplished, the holder of a supplemental type certificate must—
 
@@ -708,7 +708,7 @@ Table 1
 
 \(2\) Submit the DT data developed in accordance with paragraphs (c)(1) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(3\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(3\) Upon approval, make the DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(d\) *DT Data for Repairs Made to Alterations.* For existing and future repair data developed by the holder of a supplemental holder of a supplemental type certificate, the holder of a supplemental type certificate must—
 
@@ -718,7 +718,7 @@ Table 1
 
 \(3\) Submit the DT data developed in accordance with paragraph (d)(2) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Compliance times.* Holders of supplemental type certificates must submit the following to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval by the specified compliance time:
 
@@ -726,21 +726,21 @@ Table 1
 
 \(2\) For alteration data developed and approved before January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted by June 30, 2009.
 
-\(3\) For alteration data developed after January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted before approval of the alteration data and making it available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(3\) For alteration data developed after January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted before approval of the alteration data and making it available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \(4\) For repair data developed and approved before January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted by June 30, 2009.
 
-\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section, must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
+\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section, must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§§121.1109]] and 129.109 of this chapter.
 
 \[Docket No. FAA-2005-21693, 72 FR 70505, Dec. 12, 2007, as amended by Doc. No. FAA-2018-0119, Amdt. 26-7, 83 FR 9170, Mar. 5, 2018\]
 
 ### §26.49   Compliance plan.
 
-\(a\) *Compliance plan.* Except for applicants for type certificates and supplemental type certificates whose applications are submitted after January 11, 2008, each person identified in §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]], 26.45, and 26.47, must submit a compliance plan consisting of the following:
+\(a\) *Compliance plan.* Except for applicants for type certificates and supplemental type certificates whose applications are submitted after January 11, 2008, each person identified in [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§§26.43]], 26.45, and 26.47, must submit a compliance plan consisting of the following:
 
-\(1\) A project schedule identifying all major milestones for meeting the compliance times specified in §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](f), 26.45(e), and 26.47(e), as applicable.
+\(1\) A project schedule identifying all major milestones for meeting the compliance times specified in [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§§26.43]](f), 26.45(e), and 26.47(e), as applicable.
 
-\(2\) A proposed means of compliance with §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]], 26.45, and 26.47, as applicable.
+\(2\) A proposed means of compliance with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§§26.43]], 26.45, and 26.47, as applicable.
 
 \(3\) A plan for submitting a draft of all compliance items required by this subpart for review by the responsible Aircraft Certification Service office not less than 60 days before the applicable compliance date.
 

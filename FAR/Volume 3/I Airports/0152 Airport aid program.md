@@ -324,7 +324,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(2\) A sketch or sketches of the airport layout indicating the location for each item of work proposed, using the same item numbers used in the list required by paragraph (c)(1) of this section.
 
-\(3\) If the proposed project involves the displacement of persons or the acquisition of real property, the assurances required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.57]] and 25.59, as applicable, of the Regulations of the Office of the Secretary of Transportation (49 CFR 25.57 and 25.59), whether or not reimbursement is being requested for the costs of displacement or real property acquisition.
+\(3\) If the proposed project involves the displacement of persons or the acquisition of real property, the assurances required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§§25.57]] and 25.59, as applicable, of the Regulations of the Office of the Secretary of Transportation (49 CFR 25.57 and 25.59), whether or not reimbursement is being requested for the costs of displacement or real property acquisition.
 
 \(4\) Any comments or statements required by appendix E, Procedures Implementing Office of Management and Budget Circular A-95, to this part, with a showing that they have been considered by the sponsor.
 
@@ -1496,7 +1496,7 @@ c\. The appropriate FAA office has agreed to the issuance of a notice to proceed
 
 ### Appendix D to Part 152—Assurances
 
-There is set forth below the assurances that the sponsor or planning agency must submit with its application in accordance with §[[Volume 3/I Airports/0152 Airport aid program.md#§152.111   Application requirements: Airport development.|§152.111]] or 152.113, as applicable.
+There is set forth below the assurances that the sponsor or planning agency must submit with its application in accordance with [[Volume 3/I Airports/0152 Airport aid program.md#§152.111   Application requirements: Airport development.|§§152.111]] or 152.113, as applicable.
 
 ### I. General Assurance
 

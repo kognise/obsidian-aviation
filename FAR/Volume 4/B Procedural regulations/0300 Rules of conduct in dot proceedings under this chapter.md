@@ -30,7 +30,7 @@ Certain of DOT's functions involving aviation economic and enforcement proceedin
 
 \(4\) A “public proceeding” is one of the following:
 
-\(i\) A hearing proceeding (*i.e.*, proceeding conducted on-the record after notice and opportunity for an oral evidentiary hearing as provided in §[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.17   Administrative law judges.|§302.17]]-302.38)
+\(i\) A hearing proceeding (*i.e.*, proceeding conducted on-the record after notice and opportunity for an oral evidentiary hearing as provided in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.17   Administrative law judges.|§§302.17]]-302.38)
 
 \(ii\) A rulemaking proceeding involving a hearing as described in paragraph (b)(4)(i) of this section or an exemption proceeding covered by this chapter. (Other rulemaking proceedings are covered by the ex parte communication policies of DOT Order 2100.6 and 49 CFR 5.19.)
 

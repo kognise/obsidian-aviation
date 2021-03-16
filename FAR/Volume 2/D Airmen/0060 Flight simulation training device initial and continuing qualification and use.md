@@ -382,9 +382,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(1\) The FSTD successfully passes an evaluation:
 
-\(i\) For initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+\(i\) For initial qualification, in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
 
-\(ii\) For those elements of an evaluation for initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
+\(ii\) For those elements of an evaluation for initial qualification, in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
 
 \(2\) The NSPM advises the sponsor that an evaluation is not necessary.
 
@@ -422,9 +422,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(d\) FSTD qualification lost under paragraph (a) or (c) of this section may be restored when either of the following provisions are met:
 
-\(1\) The FSTD successfully passes an evaluation for initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+\(1\) The FSTD successfully passes an evaluation for initial qualification, in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
 
-\(2\) The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
+\(2\) The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
 
 \(e\) In making the determinations described in paragraph (d) of this section, the NSPM considers factors including the reason for the loss of qualification, any repairs or replacements that may have to have been completed, the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the loss of qualification.
 
@@ -516,7 +516,7 @@ This appendix establishes the standards for Airplane FFS evaluation and qualific
 
 1\. Introduction.
 
-2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2).
+2\. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]] and 60.2).
 
 3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
@@ -670,7 +670,7 @@ d\. Related Reading References.
 
 </div>
 
-# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
+# 2. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]] and 60.2)
 
 <div>
 
@@ -4315,7 +4315,7 @@ This appendix establishes the standards for Airplane FTD evaluation and qualific
 
 1\. Introduction
 
-2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2).
+2\. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]] and 60.2).
 
 3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
@@ -4465,7 +4465,7 @@ d\. Related Reading References.
 
 # End Information
 
-# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
+# 2. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]] and 60.2)
 
 <div>
 
@@ -6347,7 +6347,7 @@ d\. Related Reading References.
 
 </div>
 
-# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
+# 2. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]] and 60.2)
 
 <div>
 
@@ -8574,7 +8574,7 @@ This appendix establishes the standards for Helicopter Flight Training Device (F
 
 1\. Introduction.
 
-2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], 60.2).
+2\. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§§60.1]], 60.2).
 
 3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 

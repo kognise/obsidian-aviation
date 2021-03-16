@@ -60,7 +60,7 @@ DOT will issue a determination of the essential level of air service for a place
 
 \(a\) The Department will start a periodic review of essential air service within 1 year of the date of the previous determination of essential air service for eligible places receiving subsidized service, within 2 years of the date of the previous determination for eligible places in Alaska, and within 3 years of the date of the previous determination for eligible places without subsidized air service.
 
-\(b\) The review shall be conducted in accordance with the procedures in §[[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.4   State and local participation.|§325.4]], 325.5 and 325.7.
+\(b\) The review shall be conducted in accordance with the procedures in [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.4   State and local participation.|§§325.4]], 325.5 and 325.7.
 
 \(c\) The Department may review the designation under 49 U.S.C. 41733 to determine whether the community designated as an eligible place continues to meet the criteria in part 270 of this chapter.
 
@@ -76,7 +76,7 @@ DOT will issue a determination of the essential level of air service for a place
 
 \(c\) Any person may, within 30 days after the filing of a petition for modification, file an answer to that petition titled “Answer to Petition for Modification.”
 
-\(d\) After review, the Department may seek more information and the procedures of §[[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.5   Determinations and designations.|§325.5]] and 325.7 will be followed.
+\(d\) After review, the Department may seek more information and the procedures of [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.5   Determinations and designations.|§§325.5]] and 325.7 will be followed.
 
 (Approved by the Office of Management and Budget under control number 3024-0037)
 

@@ -166,7 +166,7 @@ The following are definitions of terms used in this part:
 
 ### §47.11   Evidence of ownership.
 
-Except as provided in §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§47.33]] and 47.35, each person that submits an Aircraft Registration Application, AC Form 8050-1 under this part must also submit the required evidence of ownership, recordable under §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.13   Signatures and acknowledgements.|§49.13]] and 49.17 of this chapter, as follows:
+Except as provided in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§§47.33]] and 47.35, each person that submits an Aircraft Registration Application, AC Form 8050-1 under this part must also submit the required evidence of ownership, recordable under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.13   Signatures and acknowledgements.|§§49.13]] and 49.17 of this chapter, as follows:
 
 \(a\) The buyer in possession, the bailee, or the lessee of an aircraft under a contract of conditional sale must submit the contract. The assignee under a contract of conditional sale must submit both the contract (unless it is already recorded at the Registry), and his assignment from the original buyer, bailee, lessee, or prior assignee.
 
@@ -384,7 +384,7 @@ Each application, request, notification, or other communication sent to the FAA 
 
 \(a\) A person who is the owner of an aircraft that has not been registered under 49 U.S.C. 44101-44104, under other law of the United States, or under foreign law, may register it under this part if he—
 
-\(1\) Complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable; and
+\(1\) Complies with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable; and
 
 \(2\) Submits with his Aircraft Registration Application, AC Form 8050-1, an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller, an equivalent bill of sale, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]].
 
@@ -398,7 +398,7 @@ Each application, request, notification, or other communication sent to the FAA 
 
 ### §47.35   Aircraft last previously registered in the United States.
 
-\(a\) A person who is the owner of an aircraft last previously registered under 49 U.S.C. Sections 44101-44104, or under other law of the United States, may register it under this part if he complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable and submits with his Aircraft Registration Application, AC Form 8050-1 an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller or an equivalent conveyance, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]].
+\(a\) A person who is the owner of an aircraft last previously registered under 49 U.S.C. Sections 44101-44104, or under other law of the United States, may register it under this part if he complies with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable and submits with his Aircraft Registration Application, AC Form 8050-1 an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller or an equivalent conveyance, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]].
 
 \(1\) If the applicant bought the aircraft from the last registered owner, the conveyance must be from that owner to the applicant.
 
@@ -412,7 +412,7 @@ Each application, request, notification, or other communication sent to the FAA 
 
 \(a\) A person who is the owner of an aircraft last previously registered under the law of a foreign country may register it under this part if the owner—
 
-\(1\) Complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable;
+\(1\) Complies with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable;
 
 \(2\) Submits with his Aircraft Registration Application, AC Form 8050-1 a bill of sale from the foreign seller or other evidence satisfactory to the FAA that he owns the aircraft; and
 

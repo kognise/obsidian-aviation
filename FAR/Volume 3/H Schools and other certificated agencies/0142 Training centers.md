@@ -520,7 +520,7 @@ No certificate holder may use a person nor may any person serve as an instructor
 
 \(1\) Is approved by the Administrator;
 
-\(2\) Is in compliance with §[[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.47   Training center instructor eligibility requirements.|§142.47]], 142.49, and 142.53 and applicable sections of [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md|part 183 of this chapter]]; and
+\(2\) Is in compliance with [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.47   Training center instructor eligibility requirements.|§§142.47]], 142.49, and 142.53 and applicable sections of [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md|part 183 of this chapter]]; and
 
 \(3\) Prior to designation, and except as provided in paragraph (b) of this section, every 12-calendar-month period following initial designation, the certificate holder must ensure that the evaluator satisfactorily completes a curriculum that includes the following:
 
@@ -660,7 +660,7 @@ This subpart prescribes the training center recordkeeping requirements for train
 
 \(7\) The number of hours of additional training that was accomplished after any unsatisfactory practical test.
 
-\(b\) A certificate holder shall maintain a record for each instructor or evaluator designated to instruct a course approved in accordance with subpart B of this part that indicates that the instructor or evaluator has complied with the requirements of §[[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.13   Management and personnel requirements.|§142.13]], 142.45, 142.47, 142.49, and 142.53, as applicable.
+\(b\) A certificate holder shall maintain a record for each instructor or evaluator designated to instruct a course approved in accordance with subpart B of this part that indicates that the instructor or evaluator has complied with the requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.13   Management and personnel requirements.|§§142.13]], 142.45, 142.47, 142.49, and 142.53, as applicable.
 
 \(c\) The certificate holder shall—
 

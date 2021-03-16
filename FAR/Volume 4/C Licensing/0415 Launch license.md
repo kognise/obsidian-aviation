@@ -44,7 +44,7 @@ A payload determination is required for a launch license unless the proposed pay
 
 ### §415.8   Human space flight.
 
-To obtain a launch license, an applicant proposing to conduct a launch with flight crew or a space flight participant on board must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+To obtain a launch license, an applicant proposing to conduct a launch with flight crew or a space flight participant on board must demonstrate compliance with [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006\]
 
@@ -294,7 +294,7 @@ A favorable payload determination issued for a payload or class of payload may b
 
 ### §415.102   Definitions.
 
-For the purposes of this subpart, the definitions of §[[Volume 4/C Licensing/0417 Launch safety.md#§417.3   Definitions and acronyms.|§417.3]] and 401.5 of this chapter apply.
+For the purposes of this subpart, the definitions of [[Volume 4/C Licensing/0417 Launch safety.md#§417.3   Definitions and acronyms.|§§417.3]] and 401.5 of this chapter apply.
 
 ### §415.103   General.
 
@@ -332,7 +332,7 @@ For the purposes of this subpart, the definitions of §[[Volume 4/C Licensing/04
 
 ### §415.107   Safety review document.
 
-\(a\) An applicant must file a safety review document that contains all the information required by §[[Volume 4/C Licensing/0415 Launch license.md#§415.109   Launch description.|§415.109]]—415.133. An applicant must file the information for a safety review document as required by the outline in appendix B of this part. An applicant must file a sufficiently complete safety review document, except for the ground safety analysis report, no later than six months before the applicant brings any launch vehicle to the proposed launch site.
+\(a\) An applicant must file a safety review document that contains all the information required by [[Volume 4/C Licensing/0415 Launch license.md#§415.109   Launch description.|§§415.109]]—415.133. An applicant must file the information for a safety review document as required by the outline in appendix B of this part. An applicant must file a sufficiently complete safety review document, except for the ground safety analysis report, no later than six months before the applicant brings any launch vehicle to the proposed launch site.
 
 \(b\) A launch operator's safety review document must:
 
@@ -444,7 +444,7 @@ An applicant's safety review document must contain the plans required by [[Volum
 
 ### §415.121   Launch schedule.
 
-An applicant's safety review document must contain a generic launch processing schedule that identifies each review, rehearsal, and safety critical preflight operation to be conducted as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.117   Reviews.|§417.117]], 417.119, and 417.121 of this chapter. The launch schedule must also identify day of flight activities. The launch processing schedule must show each of these activities referenced to liftoff, such as liftoff minus three days.
+An applicant's safety review document must contain a generic launch processing schedule that identifies each review, rehearsal, and safety critical preflight operation to be conducted as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.117   Reviews.|§§417.117]], 417.119, and 417.121 of this chapter. The launch schedule must also identify day of flight activities. The launch processing schedule must show each of these activities referenced to liftoff, such as liftoff minus three days.
 
 ### §415.123   Computing systems and software.
 
@@ -548,7 +548,7 @@ An applicant's safety review document must identify any public safety-related po
 
 \(a\) An applicant's safety review document must identify each flight safety system crew position and the role of that crewmember during launch processing and flight of a launch vehicle.
 
-\(b\) An applicant's safety review document must describe the certification program for flight safety system crewmembers established to ensure compliance with §[[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]] and 417.311 of this chapter.
+\(b\) An applicant's safety review document must describe the certification program for flight safety system crewmembers established to ensure compliance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§§417.105]] and 417.311 of this chapter.
 
 ### §415.133   Safety at end of launch.
 

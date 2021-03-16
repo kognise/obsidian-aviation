@@ -248,7 +248,7 @@ The airport operator shall retain all relevant supporting data and all comments 
 
 \(3\) A description of the alternative measures considered that do not involve aircraft restrictions, and a comparison of the costs and benefits of such alternative measures to costs and benefits of the proposed noise or access restriction.
 
-\(b\) In preparing the analyses required by this section, the airport operator shall use the noise measurement systems and identify the airport noise study area as specified in §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.9   Designation of noise description methods.|§161.9]] and 161.11, respectively; shall use currently accepted economic methodology; and shall provide separate detail on the costs and benefits of the proposed restriction with respect to the operations of Stage 2 aircraft weighing less than 75,000 pounds if the restriction applies to this class. The airport operator shall specify the methods used to analyze the costs and benefits of the proposed restriction and the alternatives.
+\(b\) In preparing the analyses required by this section, the airport operator shall use the noise measurement systems and identify the airport noise study area as specified in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.9   Designation of noise description methods.|§§161.9]] and 161.11, respectively; shall use currently accepted economic methodology; and shall provide separate detail on the costs and benefits of the proposed restriction with respect to the operations of Stage 2 aircraft weighing less than 75,000 pounds if the restriction applies to this class. The airport operator shall specify the methods used to analyze the costs and benefits of the proposed restriction and the alternatives.
 
 \(c\) The kinds of information set forth in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.305   Required analysis and conditions for approval of proposed restrictions.|§161.305]] are useful elements of an adequate analysis of a noise or access restriction on Stage 2 aircraft operations.
 
@@ -266,7 +266,7 @@ Each airport operator shall establish a public docket or similar method for rece
 
 ### §161.211   Optional use of [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] procedures.
 
-\(a\) An airport operator may use the procedures in [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|part 150 of this chapter]], instead of the procedures described in §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.203   Notice of proposed restriction.|§161.203]](b) and 161.209(b), as a means of providing an adequate public notice and comment opportunity on a proposed Stage 2 restriction.
+\(a\) An airport operator may use the procedures in [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|part 150 of this chapter]], instead of the procedures described in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.203   Notice of proposed restriction.|§§161.203]](b) and 161.209(b), as a means of providing an adequate public notice and comment opportunity on a proposed Stage 2 restriction.
 
 \(b\) If the airport operator elects to use [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] procedures to comply with this subpart, the operator shall:
 
@@ -370,7 +370,7 @@ Each applicant proposing a noise or access restriction on Stage 3 operations sha
 
 (*ii*) An analysis of the estimated noise impact of aircraft operations with and without the proposed restriction for the year the restriction is expected to be implemented, for a forecast timeframe after implementation, and for any other years critical to understanding the noise impact of the proposed restriction. The analysis of noise impact with and without the proposed restriction including:
 
-(*A*) Maps of the airport noise study area overlaid with noise contours as specified in §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.9   Designation of noise description methods.|§161.9]] and 161.11 of this part;
+(*A*) Maps of the airport noise study area overlaid with noise contours as specified in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.9   Designation of noise description methods.|§§161.9]] and 161.11 of this part;
 
 (*B*) The number of people and the noncompatible land uses within the airport noise study area with and without the proposed restriction for each year the noise restriction is analyzed;
 
@@ -542,7 +542,7 @@ Each applicant proposing a Stage 3 restriction shall submit to the FAA the follo
 
 ### §161.321   Optional use of [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] procedures.
 
-\(a\) An airport operator may use the procedures in [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|part 150 of this chapter]], instead of the procedures described in §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.303   Notice of proposed restrictions.|§161.303]](b) and 161.309(b) of this part, as a means of providing an adequate public notice and opportunity to comment on proposed Stage 3 restrictions, including submitted alternatives.
+\(a\) An airport operator may use the procedures in [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|part 150 of this chapter]], instead of the procedures described in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.303   Notice of proposed restrictions.|§§161.303]](b) and 161.309(b) of this part, as a means of providing an adequate public notice and opportunity to comment on proposed Stage 3 restrictions, including submitted alternatives.
 
 \(b\) If the airport operator elects to use [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] procedures to comply with this subpart, the operator shall:
 
@@ -550,7 +550,7 @@ Each applicant proposing a Stage 3 restriction shall submit to the FAA the follo
 
 \(2\) Include the information required in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.303   Notice of proposed restrictions.|§161.303]](c) (2) through (5) and [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.305   Required analysis and conditions for approval of proposed restrictions.|§161.305]] in the analysis of the proposed restriction in the [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] program submission; and
 
-\(3\) Include in its [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission to the FAA evidence of compliance with the notice requirements in paragraph (b)(1) of this section and include the information required for a part 161 application in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.311   Application procedure for approval of proposed restriction.|§161.311]], together with a clear identification that the [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission includes a proposed Stage 3 restriction for FAA review and approval under §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.313   Review of application.|§161.313]], 161.315, and 161.317.
+\(3\) Include in its [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission to the FAA evidence of compliance with the notice requirements in paragraph (b)(1) of this section and include the information required for a part 161 application in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.311   Application procedure for approval of proposed restriction.|§161.311]], together with a clear identification that the [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission includes a proposed Stage 3 restriction for FAA review and approval under [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.313   Review of application.|§§161.313]], 161.315, and 161.317.
 
 \(c\) The FAA will evaluate the proposed part 161 restriction on Stage 3 aircraft operations included in the [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission in accordance with the procedures and standards of this part, and will review the total [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]] submission in accordance with the procedures and standards of [[Volume 3/I Airports/0150 Airport noise compatibility planning.md|14 CFR part 150]].
 
@@ -674,7 +674,7 @@ This subpart applies to an airport imposing a noise or access restriction on the
 
 \(1\) The analysis described in [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.409   Required analysis by reevaluation petitioner.|§161.409]];
 
-\(2\) Evidence that the public review process was carried out in accordance with §[[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.407   Notice of reevaluation.|§161.407]] and 161.411, including the aircraft operator's summary of the comments received; and
+\(2\) Evidence that the public review process was carried out in accordance with [[Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md#§161.407   Notice of reevaluation.|§§161.407]] and 161.411, including the aircraft operator's summary of the comments received; and
 
 \(3\) A request that the FAA complete a reevaluation of the restriction and issue findings.
 

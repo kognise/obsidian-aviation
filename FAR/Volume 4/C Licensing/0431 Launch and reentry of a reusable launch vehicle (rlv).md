@@ -52,7 +52,7 @@ To obtain either type of RLV mission license, an applicant must obtain policy an
 
 ### §431.8   Human space flight.
 
-To obtain a license, an applicant proposing to conduct a reusable launch vehicle mission with flight crew or a space flight participant on board must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+To obtain a license, an applicant proposing to conduct a reusable launch vehicle mission with flight crew or a space flight participant on board must demonstrate compliance with [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006\]
 
@@ -150,7 +150,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(1\) Monitoring and evaluating operational dress rehearsals to ensure they are conducted in accordance with procedures required by [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]](a)(4) and under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]](a)(1)(iv) to ensure the readiness of vehicle safety operations personnel to conduct a safe mission under nominal and non-nominal conditions; and
 
-\(2\) Completing a mission readiness determination as required by [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] before an RLV mission is initiated. The safety official must monitor and report to the person responsible for the conduct of licensed RLV mission activities any non-compliance with procedures listed in §[[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] and 431.43, or any representation contained in the application, and the readiness of the licensee to conduct mission operations in accordance with the license and this part. The safety official is responsible for compliance with §[[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] and 431.43, and with representations contained in the application.
+\(2\) Completing a mission readiness determination as required by [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] before an RLV mission is initiated. The safety official must monitor and report to the person responsible for the conduct of licensed RLV mission activities any non-compliance with procedures listed in [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§§431.37]] and 431.43, or any representation contained in the application, and the readiness of the licensee to conduct mission operations in accordance with the license and this part. The safety official is responsible for compliance with [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§§431.37]] and 431.43, and with representations contained in the application.
 
 ### §431.35   Acceptable reusable launch vehicle mission risk.
 

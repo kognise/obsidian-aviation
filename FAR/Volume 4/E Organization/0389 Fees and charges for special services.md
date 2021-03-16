@@ -52,7 +52,7 @@ Fees for services and resources described in this subpart and subpart C of this 
 
 \(d\) Where a document relating to a single transaction or matter seeks multiple authorities or relief and therefore would otherwise be subject to more than one filing fee, only the highest fee shall be required. Where a document relating to more than one transaction or matter seeks multiple authorities or relief, the required filing fee shall be determined by combining the highest fees for each transaction or matter. For purposes of this paragraph (d), a specific number of charters or inclusive tours described in one application will be regarded as a single transaction or matter.
 
-\(e\) No fee shall be returned after the document has been filed with the Department, except as provided in §[[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.23   Application for waiver or modification of fees.|§389.23]] and 389.27.
+\(e\) No fee shall be returned after the document has been filed with the Department, except as provided in [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.23   Application for waiver or modification of fees.|§§389.23]] and 389.27.
 
 ### §389.22   Failure to make proper payment.
 

@@ -40,7 +40,7 @@ This part applies to all Acquisition Management System (AMS) bid protests and co
 
 \(n\) *Intervenor* is an interested party other than the protester whose participation in a protest is allowed by the ODRA. For a post-award protest, the awardee of the contract that is the subject of the protest will be allowed, upon timely request, to participate as an intervenor in the protest. In such a protest, no other interested parties will be allowed to participate as intervenors.
 
-\(o\) *Legal Representative* is an individual(s) designated to act on behalf of a party in matters before the ODRA. Unless otherwise provided under §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](c)(2), 17.27(a)(1), or 17.59(a)(6), a Notice of Appearance must be filed with the ODRA containing the name, address, telephone and facsimile (Fax) numbers of a party's legal representative.
+\(o\) *Legal Representative* is an individual(s) designated to act on behalf of a party in matters before the ODRA. Unless otherwise provided under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§§17.15]](c)(2), 17.27(a)(1), or 17.59(a)(6), a Notice of Appearance must be filed with the ODRA containing the name, address, telephone and facsimile (Fax) numbers of a party's legal representative.
 
 \(p\) *Neutral* refers to an impartial third party in the ADR process chosen by the parties to act as a facilitator, mediator, arbitrator, or otherwise to aid the parties in resolving a protest or contract dispute. A neutral can be a DRO or a person not an employee of the ODRA.
 
@@ -64,7 +64,7 @@ This part applies to all Acquisition Management System (AMS) bid protests and co
 
 ### §17.7   Filing and computation of time.
 
-\(a\) Filing of a protest or contract dispute may be accomplished by overnight delivery, by hand delivery, by Fax, or, if permitted by Order of the ODRA, by electronic filing. A protest or contract dispute is considered to be filed on the date it is received by the ODRA during normal business hours. The ODRA's normal business hours are from 8:30 a.m. to 5 p.m. Eastern Time. A protest or contract dispute received after the time period prescribed for filing shall not be considered timely filed. Service shall also be made on the Contracting Officer (CO) pursuant to §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](e) and 17.27(d).
+\(a\) Filing of a protest or contract dispute may be accomplished by overnight delivery, by hand delivery, by Fax, or, if permitted by Order of the ODRA, by electronic filing. A protest or contract dispute is considered to be filed on the date it is received by the ODRA during normal business hours. The ODRA's normal business hours are from 8:30 a.m. to 5 p.m. Eastern Time. A protest or contract dispute received after the time period prescribed for filing shall not be considered timely filed. Service shall also be made on the Contracting Officer (CO) pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§§17.15]](e) and 17.27(d).
 
 \(b\) Submissions to the ODRA after the initial filing of a protest or contract dispute may be accomplished by any means available in paragraph (a) of this section. Copies of all such submissions shall be served on the opposing party or parties.
 
@@ -112,7 +112,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(f\) Multiple protests concerning the same SIR, solicitation, or contract award may be consolidated at the discretion of the ODRA Director, and assigned to a single DRO or Special Master for adjudication.
 
-\(g\) Procurement activities, and, where applicable, contractor performance pending resolution of a protest, shall continue during the pendency of a protest, unless there is a compelling reason to suspend all or part of the procurement activities or contractor performance. Pursuant to §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](d) and 17.17(a), the ODRA may impose a temporary suspension and recommend suspension of award or contract performance, in whole or in part, for a compelling reason. A decision to suspend procurement activities or contractor performance is made in writing by the Administrator or the Administrator's delegee upon recommendation of the ODRA.
+\(g\) Procurement activities, and, where applicable, contractor performance pending resolution of a protest, shall continue during the pendency of a protest, unless there is a compelling reason to suspend all or part of the procurement activities or contractor performance. Pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§§17.15]](d) and 17.17(a), the ODRA may impose a temporary suspension and recommend suspension of award or contract performance, in whole or in part, for a compelling reason. A decision to suspend procurement activities or contractor performance is made in writing by the Administrator or the Administrator's delegee upon recommendation of the ODRA.
 
 ### §17.15   Filing a protest.
 
@@ -566,7 +566,7 @@ The Director may issue such Standing Orders as necessary for the orderly conduct
 
 \(b\) Pre-disputes shall be filed with the ODRA pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.59   Filing a Pre-dispute.|§17.59]].
 
-\(c\) The time limitations for the filing of Protests and Contract Disputes established in §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](a) and 17.27(c) will not be extended by efforts to resolve the dispute under this subpart.
+\(c\) The time limitations for the filing of Protests and Contract Disputes established in [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§§17.15]](a) and 17.27(c) will not be extended by efforts to resolve the dispute under this subpart.
 
 ### §17.59   Filing a Pre-dispute.
 

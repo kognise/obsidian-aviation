@@ -36,7 +36,7 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 \(d\) This part applies to any aircraft issued a special airworthiness certificate in the light-sport category except:
 
-\(1\) The repair or alteration form specified in §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.5   Approval for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.5]](b) and 43.9(d) is not required to be completed for products not produced under an FAA approval;
+\(1\) The repair or alteration form specified in [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.5   Approval for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§§43.5]](b) and 43.9(d) is not required to be completed for products not produced under an FAA approval;
 
 \(2\) Major repairs and major alterations for products not produced under an FAA approval are not required to be recorded in accordance with appendix B of this part; and
 
@@ -210,7 +210,7 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \[Doc. No. FAA-2000-8017, 67 FR 2110, Jan. 15, 2002, as amended by Amdt. 43-38A, 79 FR 67055, Nov. 12, 2014\]
 
-### §43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) and 135.419 of this chapter.
+### §43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§§135.411]](a)(1) and 135.419 of this chapter.
 
 \(a\) *Maintenance record entries.* The person approving or disapproving for return to service an aircraft, airframe, aircraft engine, propeller, appliance, or component part after any inspection performed in accordance with part 91, 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] shall make an entry in the maintenance record of that equipment containing the following information:
 

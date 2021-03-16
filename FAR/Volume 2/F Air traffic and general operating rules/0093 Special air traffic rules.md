@@ -56,7 +56,7 @@ The Anchorage, Alaska, Terminal Area is subdivided as follows:
 
 ### §93.57   General rules: All segments.
 
-\(a\) Each person operating an aircraft to, from, or on an airport within the Anchorage, Alaska, Terminal Area shall operate that aircraft according to the rules set forth in this section and §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.59   General rules: International segment.|§93.59]], 93.61, 93.63, 93.65, 93.67, or 93.68 as applicable, unless otherwise authorized or required by ATC.
+\(a\) Each person operating an aircraft to, from, or on an airport within the Anchorage, Alaska, Terminal Area shall operate that aircraft according to the rules set forth in this section and [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.59   General rules: International segment.|§§93.59]], 93.61, 93.63, 93.65, 93.67, or 93.68 as applicable, unless otherwise authorized or required by ATC.
 
 \(b\) Each person operating an airplane within the Anchorage, Alaska Terminal Area shall conform to the flow of traffic depicted on the appropriate aeronautical charts.
 
@@ -64,7 +64,7 @@ The Anchorage, Alaska, Terminal Area is subdivided as follows:
 
 \(d\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.65   General rules: Elmendorf segment.|§93.65]] (d) and (e), and [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.67   General rules: Bryant segment.|§93.67]](b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall operate that aircraft only within the designated segment containing the arrival or departure airport.
 
-\(e\) Except as provided in §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.63   General rules: Merrill segment.|§93.63]](d) and 93.67(b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall maintain two-way radio communications with the ATCT serving the segment containing the arrival or departure airport.
+\(e\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.63   General rules: Merrill segment.|§§93.63]](d) and 93.67(b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall maintain two-way radio communications with the ATCT serving the segment containing the arrival or departure airport.
 
 ### §93.59   General rules: International segment.
 
@@ -438,7 +438,7 @@ The Administrator may suspend the effectiveness of any allocation prescribed in 
 
 ### §93.133   Exceptions.
 
-Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.130   Suspension of allocations.|§93.130]], the provisions of §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]] and 93.125 do not apply to—
+Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.130   Suspension of allocations.|§93.130]], the provisions of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§§93.123]] and 93.125 do not apply to—
 
 \(a\) The Newark Airport, Newark, NJ;
 
@@ -598,7 +598,7 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(d\) Within 30 days after December 16, 1985, each U.S. air carrier and commuter operator must notify the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1), in writing, of those slots used for operations described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(1) on December 16, 1985.
 
-\(e\) Any slot not held by an operator on December 16, 1985 shall be allocated in accordance with the provisions of §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]], 93.219 or 93.225 of this subpart.
+\(e\) Any slot not held by an operator on December 16, 1985 shall be allocated in accordance with the provisions of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§§93.217]], 93.219 or 93.225 of this subpart.
 
 \[Doc. No. 24105, 50 FR 52195, Dec. 20, 1985, as amended by Amdt. 93-52, 51 FR 21717, June 13, 1986\]
 
@@ -616,13 +616,13 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(5\) Except as provided in paragraph (a)(10) of this section, at Kennedy and O'Hare Airports, a slot shall be allocated, upon request, for seasonal international operations, including charter operations, if the Chief Counsel of the FAA determines that the slot had been permanently allocated to and used by the requesting carrier in the same hour and for the same time period during the corresponding season of the preceding year. Requests for such slots must be submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1), by the deadline published in a Federal Register notice for each season. For operations during the 1986 summer season, requests under this paragraph must have been submitted to the FAA on or before February 1, 1986. Each carrier requesting a slot under this paragraph must submit its entire international schedule at the relevant airport for the particular season, noting which requests are in addition to or changes from the previous year.
 
-\(6\) Except as provided in paragraph (a)(10) of this section, additional slots shall be allocated at O'Hare Airport for international scheduled air carrier and commuter operations (beyond those slots allocated under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§93.215]] and 93.217(a)(5) if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) and filed by the deadline published in a Federal Register notice for each season. These slots will be allocated at the time requested unless a slot is available within one hour of the requested time, in which case the unallocated slots will be used to satisfy the request.
+\(6\) Except as provided in paragraph (a)(10) of this section, additional slots shall be allocated at O'Hare Airport for international scheduled air carrier and commuter operations (beyond those slots allocated under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§§93.215]] and 93.217(a)(5) if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) and filed by the deadline published in a Federal Register notice for each season. These slots will be allocated at the time requested unless a slot is available within one hour of the requested time, in which case the unallocated slots will be used to satisfy the request.
 
 \(7\) If required by bilateral agreement, additional slots shall be allocated at LaGuardia Airport for international scheduled passenger operations within the hour requested.
 
-\(8\) To the extent vacant slots are available, additional slots during the high density hours shall be allocated at Kennedy Airport for new international scheduled air carrier and commuter operations (beyond those operations for which slots have been allocated under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§93.215]] and 93.217(a)(5)), if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) by the deadline published in a Federal Register notice for each season. In addition, slots may be withdrawn from domestic operations for operations at Kennedy Airport under this paragraph if required by international obligations.
+\(8\) To the extent vacant slots are available, additional slots during the high density hours shall be allocated at Kennedy Airport for new international scheduled air carrier and commuter operations (beyond those operations for which slots have been allocated under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§§93.215]] and 93.217(a)(5)), if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) by the deadline published in a Federal Register notice for each season. In addition, slots may be withdrawn from domestic operations for operations at Kennedy Airport under this paragraph if required by international obligations.
 
-\(9\) In determining the hour in which a slot request under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(6) and 93.217(a)(8) will be granted, the following will be taken into consideration, among other things:
+\(9\) In determining the hour in which a slot request under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§§93.217]](a)(6) and 93.217(a)(8) will be granted, the following will be taken into consideration, among other things:
 
 \(i\) The availability of vacant slot times;
 

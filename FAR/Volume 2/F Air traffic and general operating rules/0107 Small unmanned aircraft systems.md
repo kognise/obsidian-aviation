@@ -178,7 +178,7 @@ No person may operate a small unmanned aircraft system—
 
 ### §107.27   Alcohol or drugs.
 
-A person manipulating the flight controls of a small unmanned aircraft system or acting as a remote pilot in command or visual observer must comply with the provisions of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]] and 91.19 of this chapter.
+A person manipulating the flight controls of a small unmanned aircraft system or acting as a remote pilot in command or visual observer must comply with the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§§91.17]] and 91.19 of this chapter.
 
 ### §107.29   Daylight operation.
 
@@ -276,7 +276,7 @@ No person may operate a small unmanned aircraft in prohibited or restricted area
 
 ### §107.47   Flight restrictions in the proximity of certain areas designated by notice to airmen.
 
-A person acting as a remote pilot in command must comply with the provisions of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.137   Temporary flight restrictions in the vicinity of disaster/hazard areas.|§91.137]] through 91.145 and 99.7 of this chapter.
+A person acting as a remote pilot in command must comply with the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.137   Temporary flight restrictions in the vicinity of disaster/hazard areas.|§§91.137]] through 91.145 and 99.7 of this chapter.
 
 ### §107.49   Preflight familiarization, inspection, and actions for aircraft operation.
 
@@ -370,7 +370,7 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 [This amendment further delayed until Apr. 6, 2021 at 86 FR 13630, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=6b985e88a7cfec9af0e08218ca17ba79&mc=true&node=20210310y1.3)
 
-Subject to the provisions of §[[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.57   Offenses involving alcohol or drugs.|§107.57]] and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must:
+Subject to the provisions of [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.57   Offenses involving alcohol or drugs.|§§107.57]] and 107.59, in order to be eligible for a remote pilot certificate with a small UAS rating under this subpart, a person must:
 
 \(a\) Be at least 16 years of age;
 
@@ -438,7 +438,7 @@ A person may not operate a small unmanned aircraft system unless that person has
 
 \(b\) Passed a recurrent aeronautical knowledge test covering the areas of knowledge specified in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.73   Initial and recurrent knowledge tests.|§107.73]](b); or
 
-\(c\) If a person holds a pilot certificate (other than a student pilot certificate) issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and meets the flight review requirements specified in §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]], passed either an initial or recurrent training course covering the areas of knowledge specified in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.74   Initial and recurrent training courses.|§107.74]](a) or (b) in a manner acceptable to the Administrator.
+\(c\) If a person holds a pilot certificate (other than a student pilot certificate) issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and meets the flight review requirements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§§61.56]], passed either an initial or recurrent training course covering the areas of knowledge specified in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.74   Initial and recurrent training courses.|§107.74]](a) or (b) in a manner acceptable to the Administrator.
 
 ### §107.67   Knowledge tests: General procedures and passing grades.
 
@@ -590,7 +590,7 @@ An applicant for a knowledge test who fails that test may not reapply for the te
 
 \(a\) The holder of a certificate issued under this subpart may voluntarily surrender it for cancellation.
 
-\(b\) Any request made under paragraph (a) of this section must include the following signed statement or its equivalent: “I voluntarily surrender my remote pilot certificate with a small UAS rating for cancellation. This request is made for my own reasons, with full knowledge that my certificate will not be reissued to me unless I again complete the requirements specified in §[[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.61   Eligibility.|§107.61]] and 107.63.”
+\(b\) Any request made under paragraph (a) of this section must include the following signed statement or its equivalent: “I voluntarily surrender my remote pilot certificate with a small UAS rating for cancellation. This request is made for my own reasons, with full knowledge that my certificate will not be reissued to me unless I again complete the requirements specified in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.61   Eligibility.|§§107.61]] and 107.63.”
 
 ## Subpart D—Waivers
 

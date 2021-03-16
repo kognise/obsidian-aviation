@@ -238,7 +238,7 @@ The suitability and durability of materials used in the engine must—
 
 \(a\) Engine design and construction must minimize the development of an unsafe condition of the engine between overhaul periods. The design of the compressor and turbine rotor cases must provide for the containment of damage from rotor blade failure. Energy levels and trajectories of fragments resulting from rotor blade failure that lie outside the compressor and turbine rotor cases must be defined.
 
-\(b\) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of §[[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.21   Variable and reversible pitch propellers.|§35.21]], 35.23, 35.42 and 35.43 of this chapter.
+\(b\) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.21   Variable and reversible pitch propellers.|§§35.21]], 35.23, 35.42 and 35.43 of this chapter.
 
 \[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-9, 45 FR 60181, Sept. 11, 1980; Amdt. 33-10, 49 FR 6851, Feb. 23, 1984; Amdt. 33-28, 73 FR 63346, Oct. 24, 2008\]
 
@@ -330,13 +330,13 @@ The engine must operate properly with the accessory drive and mounting attachmen
 
 \(i\) Enables selected values of relevant control parameters to be maintained and the engine kept within the approved operating limits over changing atmospheric conditions in the declared flight envelope;
 
-\(ii\) Complies with the operability requirements of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.51   Operation test.|§33.51]], 33.65 and 33.73, as appropriate, under all likely system inputs and allowable engine power or thrust demands, unless it can be demonstrated that failure of the control function results in a non-dispatchable condition in the intended application;
+\(ii\) Complies with the operability requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.51   Operation test.|§§33.51]], 33.65 and 33.73, as appropriate, under all likely system inputs and allowable engine power or thrust demands, unless it can be demonstrated that failure of the control function results in a non-dispatchable condition in the intended application;
 
 \(iii\) Allows modulation of engine power or thrust with adequate sensitivity over the declared range of engine operating conditions; and
 
 \(iv\) Does not create unacceptable power or thrust oscillations.
 
-\(2\) *Environmental limits.* The applicant must demonstrate, when complying with §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.53   Engine system and component tests.|§33.53]] or 33.91, that the engine control system functionality will not be adversely affected by declared environmental conditions, including electromagnetic interference (EMI), High Intensity Radiated Fields (HIRF), and lightning. The limits to which the system has been qualified must be documented in the engine installation instructions.
+\(2\) *Environmental limits.* The applicant must demonstrate, when complying with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.53   Engine system and component tests.|§§33.53]] or 33.91, that the engine control system functionality will not be adversely affected by declared environmental conditions, including electromagnetic interference (EMI), High Intensity Radiated Fields (HIRF), and lightning. The limits to which the system has been qualified must be documented in the engine installation instructions.
 
 \(c\) *Control transitions.* (1) The applicant must demonstrate that, when fault or failure results in a change from one control mode to another, from one channel to another, or from the primary system to the back-up system, the change occurs so that:
 
@@ -908,7 +908,7 @@ If any of the engine main rotating systems continue to rotate after the engine i
 
 \(b\) The FAA may require that any assumption as to the effects of failures and likely combination of failures be verified by test.
 
-\(c\) The primary failure of certain single elements cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous engine effects, then compliance may be shown by reliance on the prescribed integrity requirements of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.15   Materials.|§33.15]], 33.27, and 33.70 as applicable. These instances must be stated in the safety analysis.
+\(c\) The primary failure of certain single elements cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous engine effects, then compliance may be shown by reliance on the prescribed integrity requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.15   Materials.|§§33.15]], 33.27, and 33.70 as applicable. These instances must be stated in the safety analysis.
 
 \(d\) If reliance is placed on a safety system to prevent a failure from progressing to hazardous engine effects, the possibility of a safety system failure in combination with a basic engine failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of a safety system are outside the control of the engine manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the installation instructions under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]] of this part.
 
@@ -1560,7 +1560,7 @@ If continued rotation is prevented by a means to lock the rotor(s), the engine m
 
 \(2\) Each engine may exhibit deterioration in excess of that permitted in paragraph (a)(2) of this section, including some engine parts or components that may be unsuitable for further use. The applicant must show by inspection, analysis, test, or by any combination thereof as found necessary by the FAA, that structural integrity of the engine is maintained; or
 
-\(c\) In lieu of compliance with paragraph (b) of this section, each engine for which the 30-second OEI and 2-minute OEI ratings are desired, may be subjected to the endurance testing of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]] (b), (c), (d), or (e) of this part, and followed by the testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f) without intervening disassembly and inspection. However, the engine must comply with paragraph (a) of this section after completing the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f).
+\(c\) In lieu of compliance with paragraph (b) of this section, each engine for which the 30-second OEI and 2-minute OEI ratings are desired, may be subjected to the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§§33.87]] (b), (c), (d), or (e) of this part, and followed by the testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f) without intervening disassembly and inspection. However, the engine must comply with paragraph (a) of this section after completing the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f).
 
 \[Doc. No. 26019, 61 FR 31329, June 19, 1996, as amended by Amdt. 33-25, 73 FR 48124, Aug. 18, 2008\]
 
@@ -1740,7 +1740,7 @@ The Instructions for Continued Airworthiness must contain a section titled Airwo
 
 \(1\) The Airworthiness Limitations section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required under this paragraph must be included in the principal manual.
 
-\(2\) This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
+\(2\) This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§§43.16]] and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
 
 \(b\) For rotorcraft engines having 30-second OEI and 2-minute OEI ratings:
 

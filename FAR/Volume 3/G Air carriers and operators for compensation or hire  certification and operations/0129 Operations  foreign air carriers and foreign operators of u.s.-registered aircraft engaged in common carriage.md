@@ -22,7 +22,7 @@ Editorial Note: For the text of SFAR No. 97, see [[Volume 2/F Air traffic and ge
 
 \(2\) Other appropriate economic or exemption authority issued by the U.S. Department of Transportation.
 
-\(b\) *Operations of U.S.-registered aircraft solely outside the United States.* In addition to the operations specified under paragraph (a) of this section, §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.5   Operations specifications.|§129.5]], 129.7, 129.9, 129.11, 129.14, 129.20 and 129.24, and subpart B of this part also apply to operations of U.S.-registered aircraft operated solely outside the United States in common carriage by a foreign person or foreign air carrier.
+\(b\) *Operations of U.S.-registered aircraft solely outside the United States.* In addition to the operations specified under paragraph (a) of this section, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.5   Operations specifications.|§§129.5]], 129.7, 129.9, 129.11, 129.14, 129.20 and 129.24, and subpart B of this part also apply to operations of U.S.-registered aircraft operated solely outside the United States in common carriage by a foreign person or foreign air carrier.
 
 \(c\) *Definitions.* For the purpose of this part—
 
@@ -733,7 +733,7 @@ Table 1
 
 \(d\) *Retrofit.* After the dates specified in paragraph (e) of this section, no foreign air carrier or foreign person may operate an airplane to which this section applies unless the requirements of paragraphs (d)(1) and (d)(2) of this section are met.
 
-\(1\) IMM, FRM or FIMM, if required by §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
+\(1\) IMM, FRM or FIMM, if required by [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§§26.33]], 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
 
 \(2\) Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.14   Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.|§129.14]], the IMM, FRM or FIMM, as applicable, are operational.
 
@@ -751,9 +751,9 @@ Table 1
 
 \(2\) Deactivate or remove an IMM or FRM once installed unless it is replaced by a means that complies with paragraph (d) of this section.
 
-\(g\) *Maintenance Program Revisions.* No foreign air carrier or foreign person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the maintenance program for that airplane is revised to include those applicable airworthiness limitations.
+\(g\) *Maintenance Program Revisions.* No foreign air carrier or foreign person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§§26.33]], 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the maintenance program for that airplane is revised to include those applicable airworthiness limitations.
 
-\(h\) After the maintenance program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]], 26.33, 26.35, or 26.37 of this chapter, the foreign person or foreign air carrier must revise the maintenance program for the airplane to include those airworthiness limitations.
+\(h\) After the maintenance program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§§25.981]], 26.33, 26.35, or 26.37 of this chapter, the foreign person or foreign air carrier must revise the maintenance program for the airplane to include those airworthiness limitations.
 
 \(i\) The maintenance program changes identified in paragraphs (g) and (h) of this section must be submitted to the operator's responsible Flight Standards office or Principal Inspector for review and approval prior to incorporation.
 

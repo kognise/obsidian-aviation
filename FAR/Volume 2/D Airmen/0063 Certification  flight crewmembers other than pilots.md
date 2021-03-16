@@ -448,7 +448,7 @@ To be eligible for a flight navigator certificate, a person must—
 
 \(c\) Hold at least a second-class medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] within the 12 months before the date he applies; and
 
-\(d\) Comply with §[[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.53   Knowledge requirements.|§63.53]], 63.55, and 63.57.
+\(d\) Comply with [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.53   Knowledge requirements.|§§63.53]], 63.55, and 63.57.
 
 ### §63.53   Knowledge requirements.
 

@@ -16,7 +16,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.29](https://www.ecfr.
 
 \(d\) Rotorcraft with a maximum weight greater than 20,000 pounds and nine or less passenger seats may be type certificated as Category B rotorcraft provided the Category A requirements of Subparts C, D, E, and F of this part are met.
 
-\(e\) Rotorcraft with a maximum weight of 20,000 pounds or less but with 10 or more passenger seats may be type certificated as Category B rotorcraft provided the Category A requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.67   Climb: One engine inoperative (OEI).|§29.67]](a)(2), 29.87, 29.1517, and subparts C, D, E, and F of this part are met.
+\(e\) Rotorcraft with a maximum weight of 20,000 pounds or less but with 10 or more passenger seats may be type certificated as Category B rotorcraft provided the Category A requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.67   Climb: One engine inoperative (OEI).|§§29.67]](a)(2), 29.87, 29.1517, and subparts C, D, E, and F of this part are met.
 
 \(f\) Rotorcraft with a maximum weight of 20,000 pounds or less and nine or less passenger seats may be type certificated as Category B rotorcraft.
 
@@ -232,7 +232,7 @@ Removable ballast may be used in showing compliance with the flight requirements
 
 ### §29.51   Takeoff data: general.
 
-\(a\) The takeoff data required by §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.53   Takeoff: Category A.|§29.53]], 29.55, 29.59, 29.60, 29.61, 29.62, 29.63, and 29.67 must be determined—
+\(a\) The takeoff data required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.53   Takeoff: Category A.|§§29.53]], 29.55, 29.59, 29.60, 29.61, 29.62, 29.63, and 29.67 must be determined—
 
 \(1\) At each weight, altitude, and temperature selected by the applicant; and
 
@@ -322,7 +322,7 @@ The takeoff performance must be determined and scheduled so that, if one engine 
 
 The rejected takeoff distance and procedures for each condition where takeoff is approved will be established with—
 
-\(a\) The takeoff path requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.59   Takeoff path: Category A.|§29.59]] and 29.60 being used up to the TDP where the critical engine failure is recognized and the rotorcraft is landed and brought to a complete stop on the takeoff surface;
+\(a\) The takeoff path requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.59   Takeoff path: Category A.|§§29.59]] and 29.60 being used up to the TDP where the critical engine failure is recognized and the rotorcraft is landed and brought to a complete stop on the takeoff surface;
 
 \(b\) The remaining engines operating within approved limits;
 
@@ -346,7 +346,7 @@ The horizontal distance required to take off and climb over a 50-foot obstacle m
 
 ### §29.64   Climb: General.
 
-Compliance with the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.65   Climb: All engines operating.|§29.65]] and 29.67 must be shown at each weight, altitude, and temperature within the operational limits established for the rotorcraft and with the most unfavorable center of gravity for each configuration. Cowl flaps, or other means of controlling the engine-cooling air supply, will be in the position that provides adequate cooling at the temperatures and altitudes for which certification is requested.
+Compliance with the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.65   Climb: All engines operating.|§§29.65]] and 29.67 must be shown at each weight, altitude, and temperature within the operational limits established for the rotorcraft and with the most unfavorable center of gravity for each configuration. Cowl flaps, or other means of controlling the engine-cooling air supply, will be in the position that provides adequate cooling at the temperatures and altitudes for which certification is requested.
 
 \[Doc. No. 24802, 61 FR 21900, May 10, 1996\]
 
@@ -422,7 +422,7 @@ For each category B helicopter, except multiengine helicopters meeting the requi
 
 \(3\) The landing must be made without excessive vertical acceleration or tendency to bounce, nose over, ground loop, porpoise, or water loop.
 
-\(b\) The landing data required by §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.77   Landing Decision Point (LDP): Category A.|§29.77]], 29.79, 29.81, 29.83, and 29.85 must be determined—
+\(b\) The landing data required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.77   Landing Decision Point (LDP): Category A.|§§29.77]], 29.79, 29.81, 29.83, and 29.85 must be determined—
 
 \(1\) At each weight, altitude, and temperature for which landing data are approved;
 
@@ -896,7 +896,7 @@ The limit engine torque may not be less than the following:
 
 ### §29.391   General.
 
-Each auxiliary rotor, each fixed or movable stabilizing or control surface, and each system operating any flight control must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.395   Control system.|§29.395]] through 29.399, 29.411, and 29.427.
+Each auxiliary rotor, each fixed or movable stabilizing or control surface, and each system operating any flight control must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.395   Control system.|§§29.395]] through 29.399, 29.411, and 29.427.
 
 \[Amdt. 29-26, 55 FR 8002, Mar. 6, 1990, as amended by Amdt. 29-41, 62 FR 46173, Aug. 29, 1997\]
 
@@ -992,7 +992,7 @@ Each dual primary flight control system must be able to withstand the loads that
 
 \(b\) Unless otherwise prescribed, for each specified landing condition, the rotorcraft must be designed for a limit load factor of not less than the limit inertia load factor substantiated under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.725   Limit drop test.|§29.725]].
 
-\(c\) Triggering or actuating devices for additional or supplementary energy absorption may not fail under loads established in the tests prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.725   Limit drop test.|§29.725]] and 29.727, but the factor of safety prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.303   Factor of safety.|§29.303]] need not be used.
+\(c\) Triggering or actuating devices for additional or supplementary energy absorption may not fail under loads established in the tests prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.725   Limit drop test.|§§29.725]] and 29.727, but the factor of safety prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.303   Factor of safety.|§29.303]] need not be used.
 
 \[Amdt. 29-3, 33 FR 966, Jan. 26, 1968\]
 
@@ -1090,7 +1090,7 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 \(b\) *Level landing attitude with only the forward wheels contacting the ground.* In this attitude—
 
-\(1\) The vertical loads must be applied under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.471   General.|§29.471]] through 29.475;
+\(1\) The vertical loads must be applied under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.471   General.|§§29.471]] through 29.475;
 
 \(2\) The vertical load at each axle must be combined with a drag load at that axle of not less than 25 percent of that vertical load; and
 
@@ -1150,7 +1150,7 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 \(a\) *General.* Rotorcraft with landing gear with skids must be designed for the loading conditions specified in this section. In showing compliance with this section, the following apply:
 
-\(1\) The design maximum weight, center of gravity, and load factor must be determined under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.471   General.|§29.471]] through 29.475.
+\(1\) The design maximum weight, center of gravity, and load factor must be determined under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.471   General.|§§29.471]] through 29.475.
 
 \(2\) Structural yielding of elastic spring members under limit loads is acceptable.
 
@@ -1284,7 +1284,7 @@ If certification for float operation (including float amphibian operation) is re
 
 \(b\) Each rotor assembly must be designed as prescribed in this section and must function safely for the critical flight load and operating conditions. A design assessment must be performed, including a detailed failure analysis to identify all failures that will prevent continued safe flight or safe landing, and must identify the means to minimize the likelihood of their occurrence.
 
-\(c\) The rotor structure must be designed to withstand the following loads prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§29.337]] through 29.341 and 29.351:
+\(c\) The rotor structure must be designed to withstand the following loads prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§§29.337]] through 29.341 and 29.351:
 
 \(1\) Critical flight loads.
 
@@ -1316,9 +1316,9 @@ In addition:
 
 \(a\) Each fuselage and rotor pylon structure must be designed to withstand—
 
-\(1\) The critical loads prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§29.337]] through 29.341, and 29.351;
+\(1\) The critical loads prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§§29.337]] through 29.341, and 29.351;
 
-\(2\) The applicable ground loads prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.235   Taxiing condition.|§29.235]], 29.471 through 29.485, 29.493, 29.497, 29.505, and 29.521; and
+\(2\) The applicable ground loads prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.235   Taxiing condition.|§§29.235]], 29.471 through 29.485, 29.493, 29.497, 29.505, and 29.521; and
 
 \(3\) The loads prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.547   Main and tail rotor structure.|§29.547]] (d)(1) and (e)(1)(i).
 
@@ -1338,9 +1338,9 @@ In addition:
 
 Each auxiliary lifting surface must be designed to withstand—
 
-\(a\) The critical flight loads in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§29.337]] through 29.341, and 29.351;
+\(a\) The critical flight loads in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§§29.337]] through 29.341, and 29.351;
 
-\(b\) the applicable ground loads in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.235   Taxiing condition.|§29.235]], 29.471 through 29.485, 29.493, 29.505, and 29.521; and
+\(b\) the applicable ground loads in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.235   Taxiing condition.|§§29.235]], 29.471 through 29.485, 29.493, 29.505, and 29.521; and
 
 \(c\) Any other critical condition expected in normal operation.
 
@@ -1682,7 +1682,7 @@ There must be means to allow close examination of each part that requires—
 
 ### §29.619   Special factors.
 
-\(a\) The special factors prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§29.621]] through 29.625 apply to each part of the structure whose strength is—
+\(a\) The special factors prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§§29.621]] through 29.625 apply to each part of the structure whose strength is—
 
 \(1\) Uncertain;
 
@@ -1694,9 +1694,9 @@ There must be means to allow close examination of each part that requires—
 
 \(ii\) Uncertainties in inspection methods.
 
-\(b\) For each part of the rotorcraft to which §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§29.621]] through 29.625 apply, the factor of safety prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.303   Factor of safety.|§29.303]] must be multiplied by a special factor equal to—
+\(b\) For each part of the rotorcraft to which [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§§29.621]] through 29.625 apply, the factor of safety prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.303   Factor of safety.|§29.303]] must be multiplied by a special factor equal to—
 
-\(1\) The applicable special factors prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§29.621]] through 29.625; or
+\(1\) The applicable special factors prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.621   Casting factors.|§§29.621]] through 29.625; or
 
 \(2\) Any other factor great enough to ensure that the probability of the part being understrength because of the uncertainties specified in paragraph (a) of this section is extremely remote.
 
@@ -1992,7 +1992,7 @@ Each main rotor blade pitch control mechanism must allow rapid entry into autoro
 
 ### §29.723   Shock absorption tests.
 
-The landing inertia load factor and the reserve energy absorption capacity of the landing gear must be substantiated by the tests prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.725   Limit drop test.|§29.725]] and 29.727, respectively. These tests must be conducted on the complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper relation.
+The landing inertia load factor and the reserve energy absorption capacity of the landing gear must be substantiated by the tests prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.725   Limit drop test.|§§29.725]] and 29.727, respectively. These tests must be conducted on the complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper relation.
 
 ### §29.725   Limit drop test.
 
@@ -2048,7 +2048,7 @@ For rotorcraft with retractable landing gear, the following apply:
 
 \(e\) *Position indicator.* There must be means to indicate to the pilot when the gear is secured in the extreme positions.
 
-\(f\) *Control.* The location and operation of the retraction control must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.777   Cockpit controls.|§29.777]] and 29.779.
+\(f\) *Control.* The location and operation of the retraction control must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.777   Cockpit controls.|§§29.777]] and 29.779.
 
 \(g\) *Landing gear warning.* An aural or equally effective landing gear warning device must be provided that functions continuously when the rotorcraft is in a normal landing mode and the landing gear is not fully extended and locked. A manual shutoff capability must be provided for the warning device and the warning system must automatically reset when the rotorcraft is no longer in the landing mode.
 
@@ -2306,7 +2306,7 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 
 ### §29.801   Ditching.
 
-\(a\) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.807   Passenger emergency exits.|§29.807]](d), 29.1411 and 29.1415.
+\(a\) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.807   Passenger emergency exits.|§§29.807]](d), 29.1411 and 29.1415.
 
 \(b\) Each practicable design measure, compatible with the general characteristics of the rotorcraft, must be taken to minimize the probability that in an emergency landing on water, the behavior of the rotorcraft would cause immediate injury to the occupants or would make it impossible for them to escape.
 
@@ -2322,7 +2322,7 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 
 \(a\) Each crew and passenger area must have means for rapid evacuation in a crash landing, with the landing gear (1) extended and (2) retracted, considering the possibility of fire.
 
-\(b\) Passenger entrance, crew, and service doors may be considered as emergency exits if they meet the requirements of this section and of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.805   Flight crew emergency exits.|§29.805]] through 29.815.
+\(b\) Passenger entrance, crew, and service doors may be considered as emergency exits if they meet the requirements of this section and of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.805   Flight crew emergency exits.|§§29.805]] through 29.815.
 
 \(c\) \[Reserved\]
 
@@ -2673,7 +2673,7 @@ For each compartment to be used by the crew or passengers—
 
 ### §29.859   Combustion heater fire protection.
 
-\(a\) *Combustion heater fire zones.* The following combustion heater fire zones must be protected against fire under the applicable provisions of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1181   Designated fire zones: regions included.|§29.1181]] through 29.1191, and 29.1195 through 29.1203:
+\(a\) *Combustion heater fire zones.* The following combustion heater fire zones must be protected against fire under the applicable provisions of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1181   Designated fire zones: regions included.|§§29.1181]] through 29.1191, and 29.1195 through 29.1203:
 
 \(1\) The region surrounding any heater, if that region contains any flammable fluid system components (including the heater fuel system), that could—
 
@@ -2727,7 +2727,7 @@ For each compartment to be used by the crew or passengers—
 
 \(2\) As a result of the malfunction of any other component.
 
-\(g\) *Heater exhaust.* Each heater exhaust system must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1121   General.|§29.1121]] and 29.1123. In addition—
+\(g\) *Heater exhaust.* Each heater exhaust system must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1121   General.|§§29.1121]] and 29.1123. In addition—
 
 \(1\) Each exhaust shroud must be sealed so that no flammable fluids or hazardous quantities of vapors can reach the exhaust systems through joints; and
 
@@ -2781,7 +2781,7 @@ Each part of the structure, controls, and the rotor mechanism, and other parts e
 
 ### §29.865   External loads.
 
-\(a\) It must be shown by analysis, test, or both, that the rotorcraft external load attaching means for rotorcraft-load combinations to be used for nonhuman external cargo applications can withstand a limit static load equal to 2.5, or some lower load factor approved under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§29.337]] through 29.341, multiplied by the maximum external load for which authorization is requested. It must be shown by analysis, test, or both that the rotorcraft external load attaching means and corresponding personnel carrying device system for rotorcraft-load combinations to be used for human external cargo applications can withstand a limit static load equal to 3.5 or some lower load factor, not less than 2.5, approved under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§29.337]] through 29.341, multiplied by the maximum external load for which authorization is requested. The load for any rotorcraft-load combination class, for any external cargo type, must be applied in the vertical direction. For jettisonable external loads of any applicable external cargo type, the load must also be applied in any direction making the maximum angle with the vertical that can be achieved in service but not less than 30°. However, the 30° angle may be reduced to a lesser angle if—
+\(a\) It must be shown by analysis, test, or both, that the rotorcraft external load attaching means for rotorcraft-load combinations to be used for nonhuman external cargo applications can withstand a limit static load equal to 2.5, or some lower load factor approved under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§§29.337]] through 29.341, multiplied by the maximum external load for which authorization is requested. It must be shown by analysis, test, or both that the rotorcraft external load attaching means and corresponding personnel carrying device system for rotorcraft-load combinations to be used for human external cargo applications can withstand a limit static load equal to 3.5 or some lower load factor, not less than 2.5, approved under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.337   Limit maneuvering load factor.|§§29.337]] through 29.341, multiplied by the maximum external load for which authorization is requested. The load for any rotorcraft-load combination class, for any external cargo type, must be applied in the vertical direction. For jettisonable external loads of any applicable external cargo type, the load must also be applied in any direction making the maximum angle with the vertical that can be achieved in service but not less than 30°. However, the 30° angle may be reduced to a lesser angle if—
 
 \(1\) An operating limitation is established limiting external load operations to such angles for which compliance with this paragraph has been shown; or
 
@@ -3579,7 +3579,7 @@ If a fuel jettisoning system is installed, the following apply:
 
 \(c\) Oil-fuel ratios lower than those prescribed in paragraph (c) of this section may be used if they are substantiated by data on the oil consumption of the engine.
 
-\(d\) The ability of the engine and oil cooling provisions to maintain the oil temperature at or below the maximum established value must be shown under the applicable requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1041   General.|§29.1041]] through 29.1049.
+\(d\) The ability of the engine and oil cooling provisions to maintain the oil temperature at or below the maximum established value must be shown under the applicable requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1041   General.|§§29.1041]] through 29.1049.
 
 \[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-26, 53 FR 34218, Sept. 2, 1988\]
 
@@ -3691,7 +3691,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(2\) Safe autorotation.
 
-\(b\) Pressure lubrication systems for transmissions and gearboxes must comply with the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1013   Oil tanks.|§29.1013]], paragraphs (c), (d), and (f) only, 29.1015, 29.1017, 29.1021, 29.1023, and 29.1337(d). In addition, the system must have—
+\(b\) Pressure lubrication systems for transmissions and gearboxes must comply with the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1013   Oil tanks.|§§29.1013]], paragraphs (c), (d), and (f) only, 29.1015, 29.1017, 29.1021, 29.1023, and 29.1337(d). In addition, the system must have—
 
 \(1\) An oil strainer or filter through which all the lubricant flows, and must—
 
@@ -3707,7 +3707,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(2\) For each lubricant tank or sump outlet supplying lubrication to rotor drive systems and rotor drive system components, a screen to prevent entrance into the lubrication system of any object that might obstruct the flow of lubricant from the outlet to the filter required by paragraph (b)(1) of this section. The requirements of paragraph (b)(1) of this section do not apply to screens installed at lubricant tank or sump outlets.
 
-\(c\) Splash type lubrication systems for rotor drive system gearboxes must comply with §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1021   Oil system drains.|§29.1021]] and 29.1337(d).
+\(c\) Splash type lubrication systems for rotor drive system gearboxes must comply with [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1021   Oil system drains.|§§29.1021]] and 29.1337(d).
 
 \[Amdt. 29-26, 53 FR 34218, Sept. 2, 1988\]
 
@@ -3733,7 +3733,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(3\) The fuel used during the cooling tests must be of the minimum grade approved for the engines, and the mixture settings must be those used in normal operation.
 
-\(4\) The test procedures must be as prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1045   Climb cooling test procedures.|§29.1045]] through 29.1049.
+\(4\) The test procedures must be as prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1045   Climb cooling test procedures.|§§29.1045]] through 29.1049.
 
 \(5\) For the purposes of the cooling tests, a temperature is “stabilized” when its rate of change is less than 2 °F per minute.
 
@@ -4161,7 +4161,7 @@ Each supercharger control must be accessible to—
 
 \(7\) The combustor, turbine, and tailpipe sections of turbine engine installations except sections that do not contain lines and components carrying flammable fluids or gases and are isolated from the designated fire zone prescribed in paragraph (a)(6) of this section by a firewall that meets [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1191   Firewalls.|§29.1191]].
 
-\(b\) Each designated fire zone must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1183   Lines, fittings, and components.|§29.1183]] through 29.1203.
+\(b\) Each designated fire zone must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1183   Lines, fittings, and components.|§§29.1183]] through 29.1203.
 
 \[Amdt. 29-3, 33 FR 970, Jan. 26, 1968, as amended by Amdt. 29-26, 53 FR 34219, Sept. 2, 1988\]
 
@@ -4783,7 +4783,7 @@ If a flight director system is installed, means must be provided to indicate to 
 
 ### §29.1337   Powerplant instruments.
 
-\(a\) *Instruments and instrument lines.* (1) Each powerplant and auxiliary power unit instrument line must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.993   Fuel system lines and fittings.|§29.993]] and 29.1183.
+\(a\) *Instruments and instrument lines.* (1) Each powerplant and auxiliary power unit instrument line must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.993   Fuel system lines and fittings.|§§29.993]] and 29.1183.
 
 \(2\) Each line carrying flammable fluids under pressure must—
 
@@ -4933,7 +4933,7 @@ If a flight director system is installed, means must be provided to indicate to 
 
 ### §29.1359   Electrical system fire and smoke protection.
 
-\(a\) Components of the electrical system must meet the applicable fire and smoke protection provisions of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.831   Ventilation.|§29.831]] and 29.863.
+\(a\) Components of the electrical system must meet the applicable fire and smoke protection provisions of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.831   Ventilation.|§§29.831]] and 29.863.
 
 \(b\) Electrical cables, terminals, and equipment, in designated fire zones, and that are used in emergency procedures, must be at least fire resistant.
 
@@ -4987,7 +4987,7 @@ The instrument lights must—
 
 ### §29.1385   Position light system installation.
 
-\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section and each system as a whole must meet the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1387   Position light system dihedral angles.|§29.1387]] through 29.1397.
+\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section and each system as a whole must meet the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1387   Position light system dihedral angles.|§§29.1387]] through 29.1397.
 
 \(b\) *Forward position lights.* Forward position lights must consist of a red and a green light spaced laterally as far apart as practicable and installed forward on the rotorcraft so that, with the rotorcraft in the normal flying position, the red light is on the left side, and the green light is on the right side. Each light must be approved.
 
@@ -5023,7 +5023,7 @@ The instrument lights must—
 
 \(2\) *Intensities in any vertical plane.* Each intensity in any vertical plane (the plane perpendicular to the horizontal plane) must equal or exceed the appropriate value in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1393   Minimum intensities in any vertical plane of forward and rear position lights.|§29.1393]] where *I* is the minimum intensity prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§29.1391]] for the corresponding angles in the horizontal plane.
 
-\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§29.1395]], except that higher intensities in overlaps may be used with the use of main beam intensities substantially greater than the minima specified in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§29.1391]] and 29.1393 if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity.
+\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§29.1395]], except that higher intensities in overlaps may be used with the use of main beam intensities substantially greater than the minima specified in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§§29.1391]] and 29.1393 if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity.
 
 ### §29.1391   Minimum intensities in the horizontal plane of forward and rear position lights.
 
@@ -5261,7 +5261,7 @@ Where *Ye* is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(b\) *Tests.* Each element of the system must be tested to a proof pressure of 1.5 times the maximum pressure to which that element will be subjected in normal operation, without failure, malfunction, or detrimental deformation of any part of the system.
 
-\(c\) *Fire protection.* Each hydraulic system using flammable hydraulic fluid must meet the applicable requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.861   Fire protection of structure, controls, and other parts.|§29.861]], 29.1183, 29.1185, and 29.1189.
+\(c\) *Fire protection.* Each hydraulic system using flammable hydraulic fluid must meet the applicable requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.861   Fire protection of structure, controls, and other parts.|§§29.861]], 29.1183, 29.1185, and 29.1189.
 
 ### §29.1439   Protective breathing equipment.
 
@@ -5351,7 +5351,7 @@ Where *Ye* is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(a\) Each flight recorder required by the operating rules of Subchapter G of this chapter must be installed so that:
 
-\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1323   Airspeed indicating system.|§29.1323]], 29.1325, and 29.1327 of this part, as applicable;
+\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1323   Airspeed indicating system.|§§29.1323]], 29.1325, and 29.1327 of this part, as applicable;
 
 \(2\) The vertical acceleration sensor is rigidly attached, and located longitudinally within the approved center of gravity limits of the rotorcraft;
 
@@ -5401,9 +5401,9 @@ Where *Ye* is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 ### §29.1501   General.
 
-\(a\) Each operating limitation specified in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1503   Airspeed limitations: general.|§29.1503]] through 29.1525 and other limitations and information necessary for safe operation must be established.
+\(a\) Each operating limitation specified in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1503   Airspeed limitations: general.|§§29.1503]] through 29.1525 and other limitations and information necessary for safe operation must be established.
 
-\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1541   General.|§29.1541]] through 29.1589.
+\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1541   General.|§§29.1541]] through 29.1589.
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -5427,7 +5427,7 @@ Where *Ye* is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(i\) 0.9 times the maximum forward speeds established under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.309   Design limitations.|§29.309]];
 
-\(ii\) 0.9 times the maximum speed shown under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.251   Vibration.|§29.251]] and 29.629; or
+\(ii\) 0.9 times the maximum speed shown under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.251   Vibration.|§§29.251]] and 29.629; or
 
 \(iii\) 0.9 times the maximum speed substantiated for advancing blade tip mach number effects under critical altitude conditions.
 
@@ -5491,7 +5491,7 @@ For Category A rotorcraft, if a range of heights exists at any speed, including 
 
 ### §29.1519   Weight and center of gravity.
 
-The weight and center of gravity limitations determined under §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.25   Weight limits.|§29.25]] and 29.27, respectively, must be established as operating limitations.
+The weight and center of gravity limitations determined under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.25   Weight limits.|§§29.25]] and 29.27, respectively, must be established as operating limitations.
 
 ### §29.1521   Powerplant limitations.
 
@@ -5549,7 +5549,7 @@ The weight and center of gravity limitations determined under §[[Volume 1/C Air
 
 \(d\) *Fuel grade or designation.* The minimum fuel grade (for reciprocating engines) or fuel designation (for turbine engines) must be established so that it is not less than that required for the operation of the engines within the limitations in paragraphs (b) and (c) of this section.
 
-\(e\) *Ambient temperature.* Ambient temperature limitations (including limitations for winterization installations if applicable) must be established as the maximum ambient atmospheric temperature at which compliance with the cooling provisions of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1041   General.|§29.1041]] through 29.1049 is shown.
+\(e\) *Ambient temperature.* Ambient temperature limitations (including limitations for winterization installations if applicable) must be established as the maximum ambient atmospheric temperature at which compliance with the cooling provisions of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1041   General.|§§29.1041]] through 29.1049 is shown.
 
 \(f\) *Two and one-half minute OEI power operation.* Unless otherwise authorized, the use of 21⁄2 -minute OEI power must be limited to engine failure operation of multiengine, turbine-powered rotorcraft for not longer than 21⁄2 minutes for any period in which that power is used. The use of 21⁄2 -minute OEI power must also be limited by—
 
@@ -5665,7 +5665,7 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 \(a\) The rotorcraft must contain—
 
-\(1\) The markings and placards specified in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1545   Airspeed indicator.|§29.1545]] through 29.1565; and
+\(1\) The markings and placards specified in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1545   Airspeed indicator.|§§29.1545]] through 29.1565; and
 
 \(2\) Any additional information, instrument markings, and placards required for the safe operation of the rotorcraft if it has unusual design, operating or handling characteristics.
 
@@ -5821,11 +5821,11 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(a\) *Furnishing information.* A Rotorcraft Flight Manual must be furnished with each rotorcraft, and it must contain the following:
 
-\(1\) Information required by §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1583   Operating limitations.|§29.1583]] through 29.1589.
+\(1\) Information required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1583   Operating limitations.|§§29.1583]] through 29.1589.
 
 \(2\) Other information that is necessary for safe operation because of design, operating, or handling characteristics.
 
-\(b\) *Approved information.* Each part of the manual listed in §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1583   Operating limitations.|§29.1583]] through 29.1589 that is appropriate to the rotorcraft, must be furnished, verified, and approved, and must be segregated, indentified, and clearly distinguished from each unapproved part of that manual.
+\(b\) *Approved information.* Each part of the manual listed in [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1583   Operating limitations.|§§29.1583]] through 29.1589 that is appropriate to the rotorcraft, must be furnished, verified, and approved, and must be segregated, indentified, and clearly distinguished from each unapproved part of that manual.
 
 \(c\) \[Reserved\]
 
@@ -5845,9 +5845,9 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(2\) Explanation of the limitations, when appropriate.
 
-\(3\) Information necessary for marking the instruments required by §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1549   Powerplant instruments.|§29.1549]] through 29.1553.
+\(3\) Information necessary for marking the instruments required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1549   Powerplant instruments.|§§29.1549]] through 29.1553.
 
-\(c\) *Weight and loading distribution.* The weight and center of gravity limits required by §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.25   Weight limits.|§29.25]] and 29.27, respectively, must be furnished. If the variety of possible loading conditions warrants, instructions must be included to allow ready observance of the limitations.
+\(c\) *Weight and loading distribution.* The weight and center of gravity limits required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.25   Weight limits.|§§29.25]] and 29.27, respectively, must be furnished. If the variety of possible loading conditions warrants, instructions must be included to allow ready observance of the limitations.
 
 \(d\) *Flight crew.* When a flight crew of more than one is required, the number and functions of the minimum flight crew determined under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1523   Minimum flight crew.|§29.1523]] must be furnished.
 
@@ -5985,7 +5985,7 @@ The contents of the manual or manuals must be prepared in the English language. 
 
 a29.4   *Airworthiness Limitations Section*
 
-The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
+The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
 
 \[Amdt. 29-20, 45 FR 60178, Sept. 11, 1980, as amended by Amdt. 29-27, 54 FR 34330, Aug. 18, 1989; Amdt. 29-54, 76 FR 74664, Dec. 1, 2011\]
 
@@ -6077,7 +6077,7 @@ VIII\. *Equipment, systems, and installation.* The basic equipment and installat
 
 \(a\) *Flight and navigation instruments.* (1) A magnetic gyro-stabilized direction indicator instead of the gyroscopic direction indicator required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](h); and
 
-\(2\) A standby attitude indicator which meets the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g)(1) through (7), instead of a rate-of-turn indicator required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g). If standby batteries are provided, they may be charged from the aircraft electrical system if adequate isolation is incorporated. The system must be designed so that the standby batteries may not be used for engine starting.
+\(2\) A standby attitude indicator which meets the requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§§29.1303]](g)(1) through (7), instead of a rate-of-turn indicator required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g). If standby batteries are provided, they may be charged from the aircraft electrical system if adequate isolation is incorporated. The system must be designed so that the standby batteries may not be used for engine starting.
 
 \(b\) *Miscellaneous requirements.* (1) Instrument systems and other systems essential for IFR flight that could be adversely affected by icing must be provided with adequate ice protection whether or not the rotorcraft is certificated for operation in icing conditions.
 

@@ -160,7 +160,7 @@ Except as otherwise provided in this part, documents shall be filed with the FAA
 
 \(3\) The email address at which the parties may file the documents described in this section is *9-AWA-AGC-Part-16\@faa.gov.* No acknowledgement or receipt will be provided by the FAA to parties using this method. A party filing electronically as described in this section must provide to the FAA Part 16 Docket Clerk and the opposing party an email address of the person designated by the party to receive pleadings.
 
-\(4\) By filing a pleading or document electronically as described in this section, a party waives the rights under this part for service by the opposing party and the FAA by methods other than email. If a party subsequently decides to “opt-out” of electronic filing, that party must so notify the FAA Part 16 Docket Clerk and the other party in writing, from which time the FAA and the parties will begin serving the opting-out party in accordance with §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]] and 16.15. This subsection only exempts the parties from the filing and service requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](a) (with the exception that “Documents to be filed with a hearing officer shall be filed at the address and in the manner stated in the hearing order.”), the method of filing requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](b), and the number of documents requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](c).
+\(4\) By filing a pleading or document electronically as described in this section, a party waives the rights under this part for service by the opposing party and the FAA by methods other than email. If a party subsequently decides to “opt-out” of electronic filing, that party must so notify the FAA Part 16 Docket Clerk and the other party in writing, from which time the FAA and the parties will begin serving the opting-out party in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§§16.13]] and 16.15. This subsection only exempts the parties from the filing and service requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](a) (with the exception that “Documents to be filed with a hearing officer shall be filed at the address and in the manner stated in the hearing order.”), the method of filing requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](b), and the number of documents requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](c).
 
 \(i\) *Internet accessibility of documents filed in the Hearing Docket.* (1) Unless protected from public disclosure, all documents filed in the Hearing Docket are accessible through the Federal Docket Management System (FDMS): *http://www.regulations.gov.* To access a particular case file, use the FDMS number assigned to the case.
 
@@ -270,7 +270,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(3\) A party who has asserted an affirmative defense has the burden of proving the affirmative defense.
 
-\(l\) Except for good cause shown through motion and supporting documents, discovery is not permitted except as provided in §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.213   Discovery.|§16.213]] and 16.215.
+\(l\) Except for good cause shown through motion and supporting documents, discovery is not permitted except as provided in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.213   Discovery.|§§16.213]] and 16.215.
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56143, Sept. 12, 2013\]
 
@@ -282,7 +282,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(2\) On its face it does not state a claim that warrants an investigation or further action by the FAA; or
 
-\(3\) The complainant lacks standing to file a complaint under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§16.3]] and 16.23.
+\(3\) The complainant lacks standing to file a complaint under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§§16.3]] and 16.23.
 
 \(b\) A dismissal under this section will include the reasons for the dismissal.
 
@@ -298,7 +298,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(ii\) On its face it does not state a claim that warrants an investigation or further action by the FAA; or
 
-\(iii\) The complainant lacks standing to file a complaint under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§16.3]] and 16.23.
+\(iii\) The complainant lacks standing to file a complaint under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§§16.3]] and 16.23.
 
 \(2\) A motion to dismiss may seek dismissal of the entire complaint or the dismissal of specified claims in the complaint. A motion to dismiss shall be accompanied by a supporting memorandum of points and authorities.
 
@@ -814,7 +814,7 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 \(3\) An initial decision issued by a hearing officer at the conclusion of a hearing;
 
-\(4\) A Director's Determination or an initial decision of a hearing officer becomes the final decision of the Associate Administrator because it was not appealed within the applicable time periods provided under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.33   Final decisions without hearing.|§16.33]](c) and 16.241(b).
+\(4\) A Director's Determination or an initial decision of a hearing officer becomes the final decision of the Associate Administrator because it was not appealed within the applicable time periods provided under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.33   Final decisions without hearing.|§§16.33]](c) and 16.241(b).
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996. Redesignated and amended by Amdt. 16-1, 78 FR 56148, Sept. 12, 2013\]
 

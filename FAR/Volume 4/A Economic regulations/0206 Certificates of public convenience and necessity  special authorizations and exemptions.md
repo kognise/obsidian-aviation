@@ -44,7 +44,7 @@ Air carriers providing air transportation pursuant to a contract with the Depart
 
 \(2\) Part 215,
 
-\(3\) Part 298, subpart D, §[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.30   Public disclosure of policy on consumer protection.|§298.30]], and 298.38, and subpart H, and
+\(3\) Part 298, subpart D, [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.30   Public disclosure of policy on consumer protection.|§§298.30]], and 298.38, and subpart H, and
 
 \(4\) Part 298, subpart F, if the certificated carrier conducts operations with small aircraft only (a certificated carrier conducting operations with both small and large aircraft is subject only to the reporting requirements contained in [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]]).
 

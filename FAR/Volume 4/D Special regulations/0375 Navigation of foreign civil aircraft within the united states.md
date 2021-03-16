@@ -196,9 +196,9 @@ For purposes of this section, “company” is defined as a person that operates
 
 Foreign civil aircraft that are small unmanned aircraft used exclusively as model aircraft may be operated in the United States only when the individual:
 
-\(a\) Completes the registration process in accordance with §[[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.30   Fees.|§48.30]], 48.100(b) and (c), 48.105, and 48.115 of this title;
+\(a\) Completes the registration process in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.30   Fees.|§§48.30]], 48.100(b) and (c), 48.105, and 48.115 of this title;
 
-\(b\) Identifies the aircraft in accordance with the aircraft marking requirements in §[[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.200   General.|§48.200]] and 48.205 of this title; and
+\(b\) Identifies the aircraft in accordance with the aircraft marking requirements in [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.200   General.|§§48.200]] and 48.205 of this title; and
 
 \(c\) Complies with the requirements of Sec. 336 of Pub. L. 112-95 (Feb. 14, 2012).
 

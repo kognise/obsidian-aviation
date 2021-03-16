@@ -328,7 +328,7 @@ Where no applicable local or joint fare is provided from point of origin to poin
 
 ### §221.61   Rules and regulations governing foreign air transportation.
 
-Instead of being included in the fares tariffs, the rules and regulations governing foreign air transportation required to be filed by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.20   Specifications applicable to tariff publications.|§221.20]] and 221.30 and/or Department order which do not govern the applicability of particular fares may be filed in separate governing tariffs, conforming to this subpart. Governing rules tariffs shall contain an index of rules.
+Instead of being included in the fares tariffs, the rules and regulations governing foreign air transportation required to be filed by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.20   Specifications applicable to tariff publications.|§§221.20]] and 221.30 and/or Department order which do not govern the applicability of particular fares may be filed in separate governing tariffs, conforming to this subpart. Governing rules tariffs shall contain an index of rules.
 
 ### §221.62   Explosives and other dangerous or restricted articles.
 
@@ -710,7 +710,7 @@ At the same time that the adoption notice is issued, posted, and filed pursuant 
 
 ### §221.162   Receiver shall file adoption notices.
 
-A receiver shall, immediately upon assuming control of a carrier, issue and file with the Department an adoption notices as prescribed by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.160   Adoption notice.|§221.160]] and 221.161 and shall comply with the requirements of this subpart.
+A receiver shall, immediately upon assuming control of a carrier, issue and file with the Department an adoption notices as prescribed by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.160   Adoption notice.|§§221.160]] and 221.161 and shall comply with the requirements of this subpart.
 
 ### §221.163   Agents' and other carriers' tariffs shall reflect adoption.
 
@@ -724,9 +724,9 @@ If the former carrier is shown as a participating carrier under concurrence in t
 
 \(a\) Adopting carrier shall reissue adopted concurrences and powers of attorney. Within a period of 120 days after the date on which the change in name or transfer of operating control occurs, the adopting carrier shall reissue all effective powers of attorney and concurrences of the former carrier by issuing and filing new powers of attorney and concurrences, in the adopting carrier's name, which shall direct the cancellation of the respective powers of attorney and concurrences of the former carrier. The adopting carrier shall consecutively number its powers of attorney and concurrences in its own series of power of attorney numbers and concurrence numbers (commencing with No. 1 in each series if it had not previously filed any such instruments with the Department), except that a receiver or other fiduciary shall consecutively number its powers of attorney or concurrences in the series of the former carrier. The cancellation reference shall show that the canceled power of attorney or concurrence was issued by the former carrier.
 
-\(b\) If such new powers of attorney or concurrences confer less authority than the powers of attorney or concurrences which they are to supersede, the new issues shall not direct the cancellation of the former issues; in such instances, the provisions of §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.142   Method of withdrawing portion of authority conferred by concurrence.|§221.142]] and 221.152 shall be observed. Concurrences and powers of attorney which will not be replaced by new issues shall be revoked in the form and manner and upon the notice required by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§221.141]] and 221.151.
+\(b\) If such new powers of attorney or concurrences confer less authority than the powers of attorney or concurrences which they are to supersede, the new issues shall not direct the cancellation of the former issues; in such instances, the provisions of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.142   Method of withdrawing portion of authority conferred by concurrence.|§§221.142]] and 221.152 shall be observed. Concurrences and powers of attorney which will not be replaced by new issues shall be revoked in the form and manner and upon the notice required by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§§221.141]] and 221.151.
 
-\(c\) *Reissue of other carriers' concurrences issued in favor of former carrier.* Each carrier which has given a concurrence to a carrier whose tariffs are subsequently adopted shall reissue the concurrence in favor of the adopting carrier. If the carrier which issued the concurrence to the former carrier desires to revoke it or desires to replace it with a concurrence conferring less authority, the provisions of §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§221.141]] and 221.142 shall be observed.
+\(c\) *Reissue of other carriers' concurrences issued in favor of former carrier.* Each carrier which has given a concurrence to a carrier whose tariffs are subsequently adopted shall reissue the concurrence in favor of the adopting carrier. If the carrier which issued the concurrence to the former carrier desires to revoke it or desires to replace it with a concurrence conferring less authority, the provisions of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§§221.141]] and 221.142 shall be observed.
 
 ### §221.165   Cessation of operations without successor.
 

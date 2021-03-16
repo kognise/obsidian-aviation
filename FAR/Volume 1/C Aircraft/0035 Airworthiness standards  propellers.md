@@ -456,7 +456,7 @@ The contents of the manual must be prepared in the English language. The Instruc
 
 # a35.4   airworthiness limitations section
 
-The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
+The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
 
 \[Amdt. 35-5, 45 FR 60182, Sept. 11, 1980, as amended by Amdt. 35-6, 54 FR 34330, Aug. 18, 1989\]
 

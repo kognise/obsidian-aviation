@@ -4,16 +4,19 @@ The Federal Aviation Regulations (FAR) are rules made by the FAA controlling all
 
 I've downloaded these and turned them into a huge Obsidian vault. This makes it a lot easier to consume and jump around in. This is a huge improvement over the past where you had to either own a physical copy, navigate cumbersome government websites, or find a good PDF.
 
+As of v0.1.2, this also includes the Pilot/Controller Glossary. I'm currently working on expanding it with other materials too.
+
 ## Parts
-- [[Index|Federal Aviation Regulations]]
-- [[00 Index|Aeronautical Information Manual]]
+- [[FAR/Index|Federal Aviation Regulations]]
+- [[AIM/00 Index|Aeronautical Information Manual]]
+- [[Pilot Controller Glossary/0 Index|Pilot/Controller Glossary]]
 
 ## Installation and usage
 Make sure you have [Obsidian](https://obsidian.md/) installed. Download this repository as a ZIP file from the [releases page](https://github.com/kognise/far-aim/releases/latest), unzip it, and open the folder inside Obsidian. All set? Click around in the folders to the left, or just use the links at the bottom of this file to get oriented.
 
 Right click a file in the file listing and press "Star" to star it. This will cause it to show up in a special tab to organize all your starred pages. If you press the icon that looks like a graph on the left you can open the graph view, which should look something like this:
 
-![Graph view example](https://doggo.ninja/wc6Gl9.png)
+![Graph view example](https://doggo.ninja/qyctEa.png)
 
 ## Reporting issues
 Notice any problems with formatting? Broken links/images? Please create a GitHub issue and I'll take a look.

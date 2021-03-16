@@ -158,15 +158,15 @@ For the purpose of this part.
 
 \(b\) *Environmental.* An applicant shall provide the FAA with information for the FAA to analyze the environmental impacts associated with the operation of the proposed launch site. The information provided by an applicant must be sufficient to enable the FAA to comply with the requirements of the National Environment Policy Act, 42 U.S.C. 4321 *et seq.* (NEPA), the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA, 40 CFR parts 1500-1508, and the FAA's Procedures for Considering Environmental Impacts, FAA Order 1050.1D. An applicant shall submit environmental information concerning a proposed launch site not covered by existing environmental documentation, and other factors as determined by the FAA.
 
-\(c\) *Launch site location.* (1) Except as provided by paragraph (c)(2) of this section, an applicant shall provide the information necessary to demonstrate compliance with §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]]-420.29.
+\(c\) *Launch site location.* (1) Except as provided by paragraph (c)(2) of this section, an applicant shall provide the information necessary to demonstrate compliance with [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§§420.19]]-420.29.
 
 \(2\) An applicant who is proposing to locate a launch site at an existing launch point at a federal launch range is not required to comply with paragraph (c)(1) of this section if a launch vehicle of the same type and class as proposed for the launch point has been safely launched from the launch point.
 
-\(d\) *Explosive site plan.* (1) Except as provided by paragraph (d)(2) of this section, an applicant shall submit an explosive site plan that complies with §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]], 420.65, 420.67, and 420.69.
+\(d\) *Explosive site plan.* (1) Except as provided by paragraph (d)(2) of this section, an applicant shall submit an explosive site plan that complies with [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§§420.63]], 420.65, 420.67, and 420.69.
 
 \(2\) If an applicant plans to operate a launch site located on a federal launch range, and if the applicant is required by the federal launch range to comply with the federal launch range's explosive safety requirements, the applicant shall submit the explosive site plan submitted to the federal launch range.
 
-\(e\) *Launch site operations.* An applicant shall provide the information necessary to demonstrate compliance with the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§420.53]], 420.55, 420.57, 420.59, 420.61, and 420.71.
+\(e\) *Launch site operations.* An applicant shall provide the information necessary to demonstrate compliance with the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§§420.53]], 420.55, 420.57, 420.59, 420.61, and 420.71.
 
 ### §420.17   Bases for issuance of a license.
 
@@ -176,13 +176,13 @@ For the purpose of this part.
 
 \(2\) The FAA has completed an analysis of the environmental impacts associated with the proposed operation of the launch site, in accordance with NEPA, 40 CFR parts 1500-1508, and FAA Order 1050.1D;
 
-\(3\) The launch site location meets the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]], 420.21, 420.23, 420.25, 420.27, and 420.29;
+\(3\) The launch site location meets the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§§420.19]], 420.21, 420.23, 420.25, 420.27, and 420.29;
 
 \(4\) The applicant has completed the agreements required by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.31   Agreements.|§420.31]];
 
-\(5\) The application demonstrates that the applicant shall satisfy the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§420.53]], 420.55, 420.57, 420.59, 420.61 and 420.71;
+\(5\) The application demonstrates that the applicant shall satisfy the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§§420.53]], 420.55, 420.57, 420.59, 420.61 and 420.71;
 
-\(6\) The explosive site plan meets the criteria of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]], 420.65, 420.67 and 420.69; and
+\(6\) The explosive site plan meets the criteria of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§§420.63]], 420.65, 420.67 and 420.69; and
 
 \(7\) Issuing a license would not jeopardize foreign policy or national security interests of the United States.
 
@@ -488,7 +488,7 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 ### §420.63   Explosive siting.
 
-\(a\) Except as otherwise provided by paragraph (b) of this section, a licensee must ensure the configuration of the launch site follows its explosive site plan, and the licensee's explosive site plan complies with the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70. The explosive site plan must include:
+\(a\) Except as otherwise provided by paragraph (b) of this section, a licensee must ensure the configuration of the launch site follows its explosive site plan, and the licensee's explosive site plan complies with the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§§420.65]] through 420.70. The explosive site plan must include:
 
 \(1\) A scaled map that shows the location of all explosive hazard facilities at the launch site and that shows actual and minimal allowable distances between each explosive hazard facility and all other explosive hazard facilities, each public traffic route, and each public area, including the launch site boundary;
 
@@ -498,9 +498,9 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 \(4\) An explosive site map using a scale sufficient to show whether distances and structural relationships satisfy the requirements of this part.
 
-\(b\) A licensee operating a launch site located on a federal launch range does not have to comply with the requirements in §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70 if the licensee complies with the federal launch range's explosive safety requirements.
+\(b\) A licensee operating a launch site located on a federal launch range does not have to comply with the requirements in [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§§420.65]] through 420.70 if the licensee complies with the federal launch range's explosive safety requirements.
 
-\(c\) For explosive siting issues not addressed by the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70, a launch site operator must clearly and convincingly demonstrate a level of safety equivalent to that otherwise required by this part.
+\(c\) For explosive siting issues not addressed by the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§§420.65]] through 420.70, a launch site operator must clearly and convincingly demonstrate a level of safety equivalent to that otherwise required by this part.
 
 \(d\) A launch site operator may separate an explosive hazard facility from another explosive hazard facility, public area, or public traffic route by a distance different from one required by this part only if the launch site operator clearly and convincingly demonstrates a level of safety equivalent to that required by this part.
 
@@ -674,7 +674,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 ### §420.70   Separation distance measurement requirements.
 
-\(a\) This section applies to all measurements of distances performed under §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]] through 420.69.
+\(a\) This section applies to all measurements of distances performed under [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§§420.63]] through 420.69.
 
 \(b\) A launch site operator must measure each separation distance along straight lines. For large intervening topographical features such as hills, the launch site operator must measure over or around the feature, whichever is the shorter.
 

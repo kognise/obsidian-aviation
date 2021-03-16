@@ -130,7 +130,7 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.33   Eligibility for recording: general requirements.
 
-A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
+A conveyance is eligible for recording under this subpart only if, in addition to the requirements of [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(a\) It is in a form prescribed by, or acceptable to, the Administrator for that kind of conveyance;
 
@@ -168,7 +168,7 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.43   Eligibility for recording: general requirements.
 
-A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
+A conveyance is eligible for recording under this subpart only if, in addition to the requirements of [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(a\) It affects and describes an aircraft engine or propeller to which this subpart applies, specifically identified by make, model, horsepower, and manufacturer's serial number; and
 
@@ -198,7 +198,7 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.53   Eligibility for recording: general requirements.
 
-\(a\) A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
+\(a\) A conveyance is eligible for recording under this subpart only if, in addition to the requirements of [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(1\) It affects any aircraft engine, propeller, appliance, or spare part, maintained by or on behalf of an air carrier certificated under 49 U.S.C. 44705;
 

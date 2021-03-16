@@ -176,7 +176,7 @@ When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Ma
 
 ### §45.21   General.
 
-\(a\) Except as provided in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.22   Exhibition, antique, and other aircraft: Special rules.|§45.22]], no person may operate a U.S.-registered aircraft unless that aircraft displays nationality and registration marks in accordance with the requirements of this section and §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] through 45.33.
+\(a\) Except as provided in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.22   Exhibition, antique, and other aircraft: Special rules.|§45.22]], no person may operate a U.S.-registered aircraft unless that aircraft displays nationality and registration marks in accordance with the requirements of this section and [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§§45.23]] through 45.33.
 
 \(b\) Unless otherwise authorized by the FAA, no person may place on any aircraft a design, mark, or symbol that modifies or confuses the nationality and registration marks.
 
@@ -202,7 +202,7 @@ When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Ma
 
 ### §45.22   Exhibition, antique, and other aircraft: Special rules.
 
-\(a\) When display of aircraft nationality and registration marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33 would be inconsistent with exhibition of that aircraft, a U.S.-registered aircraft may be operated without displaying those marks anywhere on the aircraft if:
+\(a\) When display of aircraft nationality and registration marks in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§§45.21]] and 45.23 through 45.33 would be inconsistent with exhibition of that aircraft, a U.S.-registered aircraft may be operated without displaying those marks anywhere on the aircraft if:
 
 \(1\) It is operated for the purpose of exhibition, including a motion picture or television production, or an airshow;
 
@@ -214,7 +214,7 @@ When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Ma
 
 \(ii\) It is operated under a flight plan filed under either [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|§91.153]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.169   IFR flight plan: Information required.|§91.169]] of this chapter describing the marks it displays, in the case of any other flight.
 
-\(b\) A small U.S.-registered aircraft built at least 30 years ago or a U.S.-registered aircraft for which an experimental certificate has been issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](d) or 21.191(g) for operation as an exhibition aircraft or as an amateur-built aircraft and which has the same external configuration as an aircraft built at least 30 years ago may be operated without displaying marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33 if:
+\(b\) A small U.S.-registered aircraft built at least 30 years ago or a U.S.-registered aircraft for which an experimental certificate has been issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](d) or 21.191(g) for operation as an exhibition aircraft or as an amateur-built aircraft and which has the same external configuration as an aircraft built at least 30 years ago may be operated without displaying marks in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§§45.21]] and 45.23 through 45.33 if:
 
 \(1\) It displays in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]](c) marks at least 2 inches high on each side of the fuselage or vertical tail surface consisting of the Roman capital letter “N” followed by:
 
@@ -226,13 +226,13 @@ When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Ma
 
 \(c\) No person may operate an aircraft under paragraph (a) or (b) of this section—
 
-\(1\) In an ADIZ or DEWIZ described in [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md|Part 99 of this chapter]] unless it temporarily bears marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33;
+\(1\) In an ADIZ or DEWIZ described in [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md|Part 99 of this chapter]] unless it temporarily bears marks in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§§45.21]] and 45.23 through 45.33;
 
 \(2\) In a foreign country unless that country consents to that operation; or
 
 \(3\) In any operation conducted under Part 121, 133, 135, or 137 of this chapter.
 
-\(d\) If, due to the configuration of an aircraft, it is impossible for a person to mark it in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33, he may apply to the FAA for a different marking procedure.
+\(d\) If, due to the configuration of an aircraft, it is impossible for a person to mark it in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§§45.21]] and 45.23 through 45.33, he may apply to the FAA for a different marking procedure.
 
 \[Doc. No. 8093, Amdt. 45-5, 33 FR 450, Jan. 12, 1968, as amended by Amdt. 45-13, 46 FR 48603, Oct. 1, 1981; Amdt. 45-19, 54 FR 39291, Sept. 25, 1989; Amdt. 45-18, 54 FR 34330, Aug. 18, 1989; Amdt. 45-21, 56 FR 65653, Dec. 17, 1991; Amdt. 45-22, 66 FR 21066, Apr. 27, 2001; Doc. No. FAA-2018-0119, Amdt. 45-31, 83 FR 9170, Mar. 5, 2018\]
 
@@ -270,7 +270,7 @@ When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Ma
 
 \(d\) *Nonspherical balloons.* Each operator of a nonspherical balloon must display the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] on each side of the balloon near its maximum cross section and immediately above either the rigging band or the points of attachment of the basket or cabin suspension cables.
 
-\(e\) *Powered parachutes and weight-shift-control aircraft.* Each operator of a powered parachute or a weight-shift-control aircraft must display the marks required by §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] and 45.29(b)(2) of this part. The marks must be displayed in two diametrically opposite positions on the fuselage, a structural member, or a component of the aircraft and must be visible from the side of the aircraft.
+\(e\) *Powered parachutes and weight-shift-control aircraft.* Each operator of a powered parachute or a weight-shift-control aircraft must display the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§§45.23]] and 45.29(b)(2) of this part. The marks must be displayed in two diametrically opposite positions on the fuselage, a structural member, or a component of the aircraft and must be visible from the side of the aircraft.
 
 \[Doc. No. 2047, 29 FR 3223, Mar. 11, 1964, as amended by Amdt. 45-15, 48 FR 11392, Mar. 17, 1983; Amdt. 45-24, 69 FR 44863, July 27, 2004; Amdt. 45-25, 72 FR 52469, Sept. 14, 2007\]
 

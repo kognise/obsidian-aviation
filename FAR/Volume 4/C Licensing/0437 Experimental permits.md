@@ -104,7 +104,7 @@ To obtain an experimental permit an applicant must make the demonstrations and p
 
 \(2\) *Financial responsibility.* An applicant must provide the information required by part 3 of appendix A of part 440 for the FAA to conduct a maximum probable loss analysis.
 
-\(3\) *Human space flight.* An applicant proposing launch or reentry with flight crew or a space flight participant on board a reusable suborbital rocket must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+\(3\) *Human space flight.* An applicant proposing launch or reentry with flight crew or a space flight participant on board a reusable suborbital rocket must demonstrate compliance with [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \(c\) *Use of a safety approval.* If an applicant proposes to use any reusable suborbital rocket, safety system, process, service, or personnel for which the FAA has issued a safety approval under part 414 of this subchapter, the FAA will not reevaluate that safety element to the extent its use is within its approved envelope. As part of the application process, the FAA will evaluate the integration of that safety element into vehicle systems or operations.
 
@@ -320,7 +320,7 @@ A permittee must comply with the agreements required by this section.
 
 \(1\) For overflight of navigable water, a written agreement between the applicant and the local United States Coast Guard district to establish procedures for issuing a Notice to Mariners before a permitted flight, and
 
-\(2\) A written agreement between the applicant and responsible Air Traffic Control authority having jurisdiction over the airspace through which a permitted launch or reentry is to take place, for measures necessary to ensure the safety of aircraft. The agreement must, at a minimum, demonstrate satisfaction of §[[Volume 4/C Licensing/0437 Experimental permits.md#§437.69   Communications.|§437.69]](a) and 437.71(d).
+\(2\) A written agreement between the applicant and responsible Air Traffic Control authority having jurisdiction over the airspace through which a permitted launch or reentry is to take place, for measures necessary to ensure the safety of aircraft. The agreement must, at a minimum, demonstrate satisfaction of [[Volume 4/C Licensing/0437 Experimental permits.md#§437.69   Communications.|§§437.69]](a) and 437.71(d).
 
 ### §437.65   Collision avoidance analysis.
 
@@ -350,11 +350,11 @@ A permittee must—
 
 ### §437.71   Flight rules.
 
-\(a\) Before initiating rocket-powered flight, a permittee must confirm that all systems and operations necessary to ensure that safety measures derived from §[[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§437.55]], 437.57, 437.59, 437.61, 437.63, 437.65, 437.67, and 437.69 are within acceptable limits.
+\(a\) Before initiating rocket-powered flight, a permittee must confirm that all systems and operations necessary to ensure that safety measures derived from [[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§§437.55]], 437.57, 437.59, 437.61, 437.63, 437.65, 437.67, and 437.69 are within acceptable limits.
 
 \(b\) During all phases of flight, a permittee must—
 
-\(1\) Follow flight rules that ensure compliance with §[[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§437.55]], 437.57, 437.59, and 437.61; and
+\(1\) Follow flight rules that ensure compliance with [[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§§437.55]], 437.57, 437.59, and 437.61; and
 
 \(2\) Abort the flight if it would endanger the public.
 
@@ -374,7 +374,7 @@ A permittee must—
 
 \(b\) A permittee must identify all root causes of each anomaly, and implement all corrective actions for each anomaly.
 
-\(c\) A permittee must report to the FAA any anomaly of any system that is necessary for complying with §[[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§437.55]](a)(3), 437.57, and 437.59, and must report the corrective action for each reported anomaly.
+\(c\) A permittee must report to the FAA any anomaly of any system that is necessary for complying with [[Volume 4/C Licensing/0437 Experimental permits.md#§437.55   Hazard analysis.|§§437.55]](a)(3), 437.57, and 437.59, and must report the corrective action for each reported anomaly.
 
 \(d\) A permittee must implement each corrective action before the next flight.
 

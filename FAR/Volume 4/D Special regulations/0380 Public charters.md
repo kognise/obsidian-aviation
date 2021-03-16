@@ -60,7 +60,7 @@ For the purposes of this part:
 
 \(a\) Public Charters may be operated on a one-way or round-trip basis, with no minimum group or contract size. Public Charters may be sold on an air-only basis, or with mandatory or optional land arrangements.
 
-\(b\) A U.S. Public Charter operator operating a Public Charter which originates in a foreign country shall not be subject to the requirements of §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.30 through 380.35.
+\(b\) A U.S. Public Charter operator operating a Public Charter which originates in a foreign country shall not be subject to the requirements of [[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§§380.25]], 380.28, 380.30 through 380.35.
 
 \(c\) The Department declines to exercise jurisdiction over a foreign Public Charter operator which operates a Public Charter originating in a foreign country, but reserves the right to exercise its jurisdiction over any foreign Public Charter operator at any time its finds that such action is in the public interest.
 
@@ -120,7 +120,7 @@ Substitutes may be arranged for charter participants at any time preceding depar
 
 \(b\) An educational institution conducting such a charter shall submit to theOffice of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, a statement, signed by its president, certifying that it meets the definition of “educational institution” set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.2   Definitions.|§380.2]].
 
-\(c\) An educational institution conducting such a charter need not comply with the requirements of §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.34, and 380.35.
+\(c\) An educational institution conducting such a charter need not comply with the requirements of [[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§§380.25]], 380.28, 380.34, and 380.35.
 
 ## Subpart C—Requirements Applicable to Charter Operators
 
@@ -138,7 +138,7 @@ Substitutes may be arranged for charter participants at any time preceding depar
 
 \(5\) If foreign charter operators receive interstate air transportation rights, any other provision of 49 U.S.C. Subtitle VII that would otherwise prohibit them from organizing and arranging Public Charters in interstate air transportation.
 
-\(b\) A charter operator who is a citizen of the United States shall not be subject to the following requirements with respect to Public Charters that originate in a foreign country: §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, and 380.30 through 380.35.
+\(b\) A charter operator who is a citizen of the United States shall not be subject to the following requirements with respect to Public Charters that originate in a foreign country: [[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§§380.25]], 380.28, and 380.30 through 380.35.
 
 ### §§380.21-380.23   \[Reserved\]
 
@@ -478,7 +478,7 @@ Every charter operator conducting a charter pursuant to this part shall comply w
 
 \(1\) The charter is conducted in accordance with subpart B of this part and
 
-\(2\) The charter operator conforms to all requirements of this part that are applicable to charter operators within the Department's jurisdiction, other than §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.30 through 380.36, and 380.50.
+\(2\) The charter operator conforms to all requirements of this part that are applicable to charter operators within the Department's jurisdiction, other than [[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§§380.25]], 380.28, 380.30 through 380.36, and 380.50.
 
 ### §§380.41-380.42   \[Reserved\]
 

@@ -98,7 +98,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.119](https://www.ecfr
 
 \(e\) A person authorized to engage in noncommon or private carriage under part 125 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], or both, shall be issued only one certificate authorizing such carriage, regardless of the kind of operation or the class or size of aircraft to be operated.
 
-\(f\) A person conducting operations under more than one paragraph of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.21   Commercial operators engaged in intrastate common carriage and direct air carriers.|§119.21]], 119.23, or 119.25 shall conduct those operations in compliance with—
+\(f\) A person conducting operations under more than one paragraph of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.21   Commercial operators engaged in intrastate common carriage and direct air carriers.|§§119.21]], 119.23, or 119.25 shall conduct those operations in compliance with—
 
 \(1\) The requirements specified in each paragraph of those sections for the kind of operation conducted under that paragraph; and
 
@@ -250,7 +250,7 @@ This subpart sets out certification requirements and prescribes the content of o
 
 \(i\) The name and address of each stockholder who owns 5 percent or more of the total voting stock of the corporation, and if that stockholder is not the sole beneficial owner of the stock, the name and address of each beneficial owner. An individual is considered to own the stock owned, directly or indirectly, by or for his or her spouse, children, grandchildren, or parents.
 
-\(ii\) The name and address of each director and each officer and each person employed or who will be employed in a management position described in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.65   Management personnel required for operations conducted under part 121 of this chapter.|§119.65]] and 119.69, as applicable.
+\(ii\) The name and address of each director and each officer and each person employed or who will be employed in a management position described in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.65   Management personnel required for operations conducted under part 121 of this chapter.|§§119.65]] and 119.69, as applicable.
 
 \(iii\) The name and address of each person directly or indirectly controlling or controlled by the applicant and each person under direct or indirect control with the applicant.
 
@@ -258,7 +258,7 @@ This subpart sets out certification requirements and prescribes the content of o
 
 \(i\) The name and address of each person having a financial interest therein and the nature and extent of that interest.
 
-\(ii\) The name and address of each person employed or who will be employed in a management position described in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.65   Management personnel required for operations conducted under part 121 of this chapter.|§119.65]] and 119.69, as applicable.
+\(ii\) The name and address of each person employed or who will be employed in a management position described in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.65   Management personnel required for operations conducted under part 121 of this chapter.|§§119.65]] and 119.69, as applicable.
 
 \(c\) In addition, each applicant for the original issue of an operating certificate under paragraph (a) of this section must submit with the application a signed statement showing—
 

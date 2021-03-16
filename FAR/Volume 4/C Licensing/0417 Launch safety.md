@@ -440,7 +440,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(b\) A launch operator must protect the public from adverse effects of hazardous operations and systems associated with preparing a launch vehicle for flight at a launch site.
 
-\(c\) §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](c), 417.113(b), and 417.115(c), and subpart E of this part provide launch operator ground safety requirements.
+\(c\) [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§§417.111]](c), 417.113(b), and 417.115(c), and subpart E of this part provide launch operator ground safety requirements.
 
 ### §417.111   Launch plans.
 
@@ -464,13 +464,13 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(6\) *Support systems and services.* Identification of any support systems and services that are part of ensuring flight safety, including any aircraft or ship that a launch operator will use during flight.
 
-\(7\) *Flight safety operations.* A description of the flight safety related tests, reviews, rehearsals, and other flight safety operations that a launch operator will conduct under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.115   Tests.|§417.115]] through 417.121. A flight safety plan must contain or incorporate by reference written procedures for accomplishing all flight safety operations.
+\(7\) *Flight safety operations.* A description of the flight safety related tests, reviews, rehearsals, and other flight safety operations that a launch operator will conduct under [[Volume 4/C Licensing/0417 Launch safety.md#§417.115   Tests.|§§417.115]] through 417.121. A flight safety plan must contain or incorporate by reference written procedures for accomplishing all flight safety operations.
 
 \(8\) *Unguided suborbital launch vehicles.* A launch operator's flight safety plan for the launch of an unguided suborbital rocket must meet the requirements of paragraph (b) of this section and provide the following data:
 
 \(i\) Launch angle limits, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]](c)(3); and
 
-\(ii\) All procedures for measurement of launch day winds and for performing wind weighting as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]] and 417.233.
+\(ii\) All procedures for measurement of launch day winds and for performing wind weighting as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§§417.125]] and 417.233.
 
 \(c\) *Ground safety plan.* A launch operator must implement a ground safety plan that describes implementation of the hazard controls identified by a launch operator's ground safety analysis and implementation of the ground safety requirements of subpart E of this part. A ground safety plan must address all public safety related issues and may include other ground safety issues if a launch operator intends it to have a broader scope. A ground safety plan must include the following:
 
@@ -496,7 +496,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(7\) A flow chart of launch processing activities, including a list of all major tasks. The flow chart must include all hazardous tasks and identify where and when, with respect to liftoff, each hazardous task will take place.
 
-\(8\) Identification of each safety clear zone and hazard area established as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.411   Safety clear zones for hazardous operations.|§417.411]] and 417.413, respectively.
+\(8\) Identification of each safety clear zone and hazard area established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.411   Safety clear zones for hazardous operations.|§§417.411]] and 417.413, respectively.
 
 \(9\) A summary of the means for announcing when any hazardous operation is taking place, the means for making emergency announcements and alarms, and identification of the recipients of each type of announcement.
 
@@ -630,7 +630,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(j\) *Hazard area surveillance and clearance plan.* A launch operator must implement a plan that defines the process for ensuring that any unauthorized persons, ships, trains, aircraft or other vehicles are not within any hazard areas identified by the flight safety analysis or the ground safety analysis. In the plan, the launch operator must—
 
-\(1\) List each hazard area that requires surveillance under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] and 417.223;
+\(1\) List each hazard area that requires surveillance under [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§§417.107]] and 417.223;
 
 \(2\) Describe how the launch operator will provide for day-of-flight surveillance of the flight hazard area to ensure that the presence of any member of the public in or near a flight hazard area is consistent with flight commit criteria developed for each launch as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]];
 
@@ -870,7 +870,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(h\) *Launch vehicle tracking data verification.* For each launch, a launch operator must implement written procedures for verifying the accuracy of any launch vehicle tracking data provided. For a launch vehicle flown with a flight safety system, any source of tracking data must satisfy the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]](b).
 
-\(i\) *Unguided suborbital rocket preflight operations.* For the launch of an unguided suborbital rocket, in addition to meeting the other requirements of this section, a launch operator must perform the preflight wind weighting and other preflight safety operations required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]], 417.233, and appendix C of this part.
+\(i\) *Unguided suborbital rocket preflight operations.* For the launch of an unguided suborbital rocket, in addition to meeting the other requirements of this section, a launch operator must perform the preflight wind weighting and other preflight safety operations required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§§417.125]], 417.233, and appendix C of this part.
 
 \[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Amdt. No. 417-5, 81 FR 59439, Aug. 30, 2016\]
 
@@ -974,7 +974,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(b\) The flight safety analysis requirements of this subpart apply to the flight of any launch vehicle that must use a flight safety system as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a), except as permitted by paragraph (d) of this section.
 
-\(c\) The flight safety analysis requirements of §[[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]], 417.205, 417.207, 417.211, 417.223, 417.224, 417.225, 417.227, 417.229, 417.231, and 417.233 apply to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. Appendices B, C, and I of this part also apply.
+\(c\) The flight safety analysis requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§§417.203]], 417.205, 417.207, 417.211, 417.223, 417.224, 417.225, 417.227, 417.229, 417.231, and 417.233 apply to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. Appendices B, C, and I of this part also apply.
 
 \(d\) For any alternative flight safety system approved by the FAA under [[Volume 4/C Licensing/0417 Launch safety.md#§417.301   General.|§417.301]](b), the FAA will determine during the licensing process which of the analyses required by this subpart apply.
 
@@ -1120,7 +1120,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(8\) Any uncertainty due to map errors and launch vehicle tracking errors.
 
-\(c\) *Gates.* If a launch involves flight over any populated or other protected area, the flight safety analysis must establish a gate as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]] and 417.218.
+\(c\) *Gates.* If a launch involves flight over any populated or other protected area, the flight safety analysis must establish a gate as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§§417.217]] and 417.218.
 
 \(d\) *Designated debris impact limits.* The analysis must establish designated impact limit lines to bound the area where debris with a ballistic coefficient of three or more is allowed to impact if the flight safety system functions properly.
 
@@ -1270,7 +1270,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(1\) A flight termination system that satisfies appendices D, E, and F of this part;
 
-\(2\) A command control system that satisfies §[[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]] and 417.305;
+\(2\) A command control system that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§§417.303]] and 417.305;
 
 \(3\) Each support system required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]]; and
 
@@ -2850,7 +2850,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 # B417.1   Scope
 
-This appendix contains requirements to establish aircraft hazard areas, ship hazard areas, and land impact hazard areas. The methodologies contained in this appendix represent an acceptable means of satisfying the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]] as they pertain to ship, aircraft, and land hazard areas. This appendix provides a standard and a measure of fidelity against which the FAA will measure any proposed alternative approaches. Requirements for a launch operator's implementation of a hazard area are contained in §[[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§417.121]](e) and (f).
+This appendix contains requirements to establish aircraft hazard areas, ship hazard areas, and land impact hazard areas. The methodologies contained in this appendix represent an acceptable means of satisfying the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]] as they pertain to ship, aircraft, and land hazard areas. This appendix provides a standard and a measure of fidelity against which the FAA will measure any proposed alternative approaches. Requirements for a launch operator's implementation of a hazard area are contained in [[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§§417.121]](e) and (f).
 
 # B417.3   Hazard area notifications and surveillance
 
@@ -2872,7 +2872,7 @@ This appendix contains requirements to establish aircraft hazard areas, ship haz
 
 # B417.5   Launch site hazard area
 
-\(a\) *General.* A launch operator must perform a launch site hazard area analysis that protects the public, aircraft, and ships from the hazardous activities in the vicinity of the launch site. The launch operator must evacuate and monitor each launch site hazard area to ensure compliance with §[[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b)(2) and (b)(3).
+\(a\) *General.* A launch operator must perform a launch site hazard area analysis that protects the public, aircraft, and ships from the hazardous activities in the vicinity of the launch site. The launch operator must evacuate and monitor each launch site hazard area to ensure compliance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§§417.107]](b)(2) and (b)(3).
 
 \(b\) *Launch site hazard area analysis input.* A launch site hazard area must encompass no less than the following:
 
@@ -6958,9 +6958,9 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(i\) The launch operator demonstrates that there are no populated areas contained or partially contained within the toxic hazard area; and
 
-\(ii\) The launch operator ensures that no member of the public is present within the toxic hazard area during preflight fueling, launch countdown, flight and immediate postflight operations at the launch site. To ensure the absence of the public, a launch operator must develop flight commit criteria and related provisions for implementation as part of the launch operator's flight safety plan and hazard area surveillance and clearance plan developed under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b) and 417.111(j), respectively.
+\(ii\) The launch operator ensures that no member of the public is present within the toxic hazard area during preflight fueling, launch countdown, flight and immediate postflight operations at the launch site. To ensure the absence of the public, a launch operator must develop flight commit criteria and related provisions for implementation as part of the launch operator's flight safety plan and hazard area surveillance and clearance plan developed under [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§§417.111]](b) and 417.111(j), respectively.
 
-\(4\) *Evacuation of populated areas within a toxic hazard area.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area, the launch operator does not have to satisfy paragraph (c)(5) of this section if the launch operator evacuates all people from all populated areas at risk and ensures that no member of the public is present within the toxic hazard area during preflight fueling and flight. A launch operator must develop flight commit criteria and provisions for implementation of the evacuations as part of the launch operator's flight safety plan, hazard area surveillance and clearance plan, and local agreements and public coordination plan developed according to §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b), 417.111(j) and 417.111(i), respectively.
+\(4\) *Evacuation of populated areas within a toxic hazard area.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area, the launch operator does not have to satisfy paragraph (c)(5) of this section if the launch operator evacuates all people from all populated areas at risk and ensures that no member of the public is present within the toxic hazard area during preflight fueling and flight. A launch operator must develop flight commit criteria and provisions for implementation of the evacuations as part of the launch operator's flight safety plan, hazard area surveillance and clearance plan, and local agreements and public coordination plan developed according to [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§§417.111]](b), 417.111(j) and 417.111(i), respectively.
 
 \(5\) *Flight meteorological constraints.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area and that will not be evacuated under paragraph (c)(4) of this section, the launch is exempt from any further requirements of this section if the launch operator constrains the flight of a launch vehicle to favorable wind conditions or during times when atmospheric conditions result in reduced toxic hazard distances such that any potentially affected populated area is outside the toxic hazard area. A launch operator must employ wind and other meteorological constraints as follows:
 
@@ -6968,7 +6968,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(ii\) The launch operator must demonstrate that there are no populated areas within any arc segment toxic hazard area and that no member of the public is present within an arc segment toxic hazard area during preflight fueling, launch countdown, and immediate postflight operations at the launch site.
 
-\(iii\) A launch operator must establish wind constraints to ensure that any winds present at the time of flight will transport any toxicant into an arc segment toxic hazard area and away from any populated area. For each arc segment toxic hazard area, the wind constraints must consist of a range of downwind bearings that are within the arc segment toxic hazard area and that provide a safety buffer, in both the clockwise and counterclockwise directions, that accounts for any uncertainty in the spatial and temporal variations of the transport winds. When determining the wind uncertainty, a launch operator must account for the variance of the mean wind directions derived from measurements of the winds through the first 6000 feet in altitude at the launch point. Each clockwise and counterclockwise safety buffer must be no less than 20 degrees of arc width within the arc segment toxic hazard area. A launch operator must ensure that the wind conditions at the time of flight satisfy the wind constraints. To accomplish this, a launch operator must monitor the launch site vertical profile of winds from the altitude of the launch point to no less than 6,000 feet above ground level. The launch operator must proceed with a launch only if all wind vectors within this vertical range satisfy the wind constraints. A launch operator must develop wind constraint flight commit criteria and implementation provisions as part of the launch operator's flight safety plan and its hazard area surveillance and clearance plan developed according to §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b) and 417.111(j), respectively.
+\(iii\) A launch operator must establish wind constraints to ensure that any winds present at the time of flight will transport any toxicant into an arc segment toxic hazard area and away from any populated area. For each arc segment toxic hazard area, the wind constraints must consist of a range of downwind bearings that are within the arc segment toxic hazard area and that provide a safety buffer, in both the clockwise and counterclockwise directions, that accounts for any uncertainty in the spatial and temporal variations of the transport winds. When determining the wind uncertainty, a launch operator must account for the variance of the mean wind directions derived from measurements of the winds through the first 6000 feet in altitude at the launch point. Each clockwise and counterclockwise safety buffer must be no less than 20 degrees of arc width within the arc segment toxic hazard area. A launch operator must ensure that the wind conditions at the time of flight satisfy the wind constraints. To accomplish this, a launch operator must monitor the launch site vertical profile of winds from the altitude of the launch point to no less than 6,000 feet above ground level. The launch operator must proceed with a launch only if all wind vectors within this vertical range satisfy the wind constraints. A launch operator must develop wind constraint flight commit criteria and implementation provisions as part of the launch operator's flight safety plan and its hazard area surveillance and clearance plan developed according to [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§§417.111]](b) and 417.111(j), respectively.
 
 \(iv\) A launch operator may reduce the radius of the circular toxic hazard area determined in accordance with paragraph (c)(3) of this section by imposing operational meteorological restrictions on specific parameters that mitigate potential toxic downwind concentrations levels at any potentially affected populated area to levels below the toxic concentration threshold of each toxicant in question. The launch operator must establish meteorological constraints to ensure that flight will be allowed to occur only if the specific meteorological conditions that would reduce the toxic hazard area exist and will continue to exist throughout the flight.
 

@@ -40,7 +40,7 @@ For the purposes of this part, the following definitions apply:
 
 \(e\) *Contractor* is an individual or company that performs a safety-sensitive function by contract for an employer or another contractor.
 
-\(f\) *Covered employee* means an individual who performs, either directly or by contract, a safety-sensitive function listed in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] and 120.215 for an employer (as defined in paragraph (i) of this section). For purposes of pre-employment testing only, the term “covered employee” includes an individual applying to perform a safety-sensitive function.
+\(f\) *Covered employee* means an individual who performs, either directly or by contract, a safety-sensitive function listed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§§120.105]] and 120.215 for an employer (as defined in paragraph (i) of this section). For purposes of pre-employment testing only, the term “covered employee” includes an individual applying to perform a safety-sensitive function.
 
 \(g\) *DOT agency* means an agency (or “operating administration”) of the United States Department of Transportation administering regulations requiring drug and alcohol testing (14 CFR parts 61, 65, 121, and 135; 46 CFR part 16; 49 CFR parts 199, 219, and 382) in accordance with 49 CFR part 40.
 
@@ -60,7 +60,7 @@ For the purposes of this part, the following definitions apply:
 
 \(o\) *Refusal to submit to drug test* means that an employee engages in conduct including but not limited to that described in 49 CFR 40.191.
 
-\(p\) *Safety-sensitive function* means a function listed in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] and 120.215.
+\(p\) *Safety-sensitive function* means a function listed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§§120.105]] and 120.215.
 
 \(q\) *Verified negative drug test result* means a drug test result from an HHS-certified laboratory that has undergone review by an MRO and has been determined by the MRO to be a negative result.
 
@@ -730,7 +730,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(ii\) Randomly select such employees for testing at the highest percentage rate established for the calendar year by any DOT agency to which the employer is subject.
 
-\(d\) *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
+\(d\) *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37.
 
 \(2\) The employer's determination that reasonable suspicion exists to require the covered employee to undergo an alcohol test shall be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech or body odors of the employee. The required observations shall be made by a supervisor who is trained in detecting the symptoms of alcohol misuse. The supervisor who makes the determination that reasonable suspicion exists shall not conduct the breath alcohol test on that employee.
 
@@ -742,13 +742,13 @@ No individual may make, or cause to be made, any of the following:
 
 \(A\) An alcohol test is administered and the employee's alcohol concentration measures less than 0.02; or
 
-\(B\) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
+\(B\) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37.
 
 \(iii\) No employer shall take any action under this subpart against a covered employee based solely on the employee's behavior and appearance in the absence of an alcohol test. This does not prohibit an employer with authority independent of this subpart from taking any action otherwise consistent with law.
 
-\(e\) *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
+\(e\) *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
 
-\(f\) *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
+\(f\) *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
 
 \(2\) The number and frequency of such testing shall be determined by the employer's SAP, but must consist of at least six tests in the first 12 months following the employee's return to duty.
 
@@ -774,7 +774,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(C\) Documents presented by a covered employee to dispute the result of an alcohol test administered under this subpart.
 
-\(D\) Records related to other violations of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
+\(D\) Records related to other violations of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37.
 
 \(ii\) *Two years.* Records related to the testing process and training required under this subpart.
 
@@ -814,15 +814,15 @@ No individual may make, or cause to be made, any of the following:
 
 ### §120.221   Consequences for employees engaging in alcohol-related conduct.
 
-\(a\) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, or an alcohol misuse rule of another DOT agency.
+\(a\) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37, or an alcohol misuse rule of another DOT agency.
 
 \(2\) No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.
 
-\(b\) *Permanent disqualification from service.* (1) An employee who violates §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]](c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+\(b\) *Permanent disqualification from service.* (1) An employee who violates [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]](c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
 
-\(2\) An employee who engages in alcohol use that violates another alcohol misuse provision of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, and who had previously engaged in alcohol use that violated the provisions of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+\(2\) An employee who engages in alcohol use that violates another alcohol misuse provision of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37, and who had previously engaged in alcohol use that violated the provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
 
-\(c\) *Notice to the Federal Air Surgeon.* (1) An employer who determines that a covered employee who holds an airman medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] has engaged in alcohol use that violated the alcohol misuse provisions of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 shall notify the Federal Air Surgeon within 2 working days.
+\(c\) *Notice to the Federal Air Surgeon.* (1) An employer who determines that a covered employee who holds an airman medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] has engaged in alcohol use that violated the alcohol misuse provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37 shall notify the Federal Air Surgeon within 2 working days.
 
 \(2\) Each such employer shall forward to the Federal Air Surgeon a copy of the report of any evaluation performed under the provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.223   Alcohol misuse information, training, and substance abuse professionals.|§120.223]](c) within 2 working days of the employer's receipt of the report.
 
@@ -834,7 +834,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(d\) *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
 
-\(e\) *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
+\(e\) *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§§120.19]] or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
 
 \(f\) *Other alcohol-related conduct.* (1) No covered employee tested under this subpart who is found to have an alcohol concentration of 0.02 or greater but less than 0.04 shall perform or continue to perform safety-sensitive functions for an employer, nor shall an employer permit the employee to perform or continue to perform safety-sensitive functions, until:
 

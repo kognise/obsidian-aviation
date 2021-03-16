@@ -592,7 +592,7 @@ An applicant for approval of authority to operate an aircraft dispatcher course 
 
 \(4\) Comply with the sections of this subpart that apply to the rating he seeks.
 
-\(b\) A certificated mechanic who applies for an additional rating must meet the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.77   Experience requirements.|§65.77]] and, within a period of 24 months, pass the tests prescribed by §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.75   Knowledge requirements.|§65.75]] and 65.79 for the additional rating sought.
+\(b\) A certificated mechanic who applies for an additional rating must meet the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.77   Experience requirements.|§65.77]] and, within a period of 24 months, pass the tests prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.75   Knowledge requirements.|§§65.75]] and 65.79 for the additional rating sought.
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-6, 31 FR 5950, Apr. 19, 1966\]
 
@@ -636,7 +636,7 @@ Whenever an aviation maintenance technician school certificated under [[Volume 3
 
 ### §65.81   General privileges and limitations.
 
-\(a\) A certificated mechanic may perform or supervise the maintenance, preventive maintenance or alteration of an aircraft or appliance, or a part thereof, for which he is rated (but excluding major repairs to, and major alterations of, propellers, and any repair to, or alteration of, instruments), and may perform additional duties in accordance with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.85   Airframe rating; additional privileges.|§65.85]], 65.87, and 65.95. However, he may not supervise the maintenance, preventive maintenance, or alteration of, or approve and return to service, any aircraft or appliance, or part thereof, for which he is rated unless he has satisfactorily performed the work concerned at an earlier date. If he has not so performed that work at an earlier date, he may show his ability to do it by performing it to the satisfaction of the Administrator or under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned.
+\(a\) A certificated mechanic may perform or supervise the maintenance, preventive maintenance or alteration of an aircraft or appliance, or a part thereof, for which he is rated (but excluding major repairs to, and major alterations of, propellers, and any repair to, or alteration of, instruments), and may perform additional duties in accordance with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.85   Airframe rating; additional privileges.|§§65.85]], 65.87, and 65.95. However, he may not supervise the maintenance, preventive maintenance, or alteration of, or approve and return to service, any aircraft or appliance, or part thereof, for which he is rated unless he has satisfactorily performed the work concerned at an earlier date. If he has not so performed that work at an earlier date, he may show his ability to do it by performing it to the satisfaction of the Administrator or under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned.
 
 \(b\) A certificated mechanic may not exercise the privileges of his certificate and rating unless he understands the current instructions of the manufacturer, and the maintenance manuals, for the specific operation concerned.
 
@@ -746,7 +746,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(1\) Inspect and approve for return to service any aircraft or related part or appliance (except any aircraft maintained in accordance with a continuous airworthiness program under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]) after a major repair or major alteration to it in accordance with part 43 \[New\] of this chapter, if the work was done in accordance with technical data approved by the Administrator; and
 
-\(2\) Perform an annual, or perform or supervise a progressive inspection according to §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.13   Performance rules (general).|§43.13]] and 43.15 of this chapter.
+\(2\) Perform an annual, or perform or supervise a progressive inspection according to [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.13   Performance rules (general).|§§43.13]] and 43.15 of this chapter.
 
 \(b\) When he exercises the privileges of an inspection authorization the holder shall keep it available for inspection by the aircraft owner, the mechanic submitting the aircraft, repair, or alteration for approval (if any), and shall present it upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
 
@@ -854,7 +854,7 @@ Each person who holds a repairman certificate shall keep it within the immediate
 
 ### §65.111   Certificate required.
 
-\(a\) No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§65.127]] through 65.133.
+\(a\) No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§§65.127]] through 65.133.
 
 \(b\) No person may pack any main parachute of a dual-parachute system to be used for intentional parachute jumping in connection with civil aircraft of the United States unless that person—
 
@@ -984,7 +984,7 @@ A certificated parachute rigger who applies for an additional type rating must�
 
 \(2\) Supervise other persons in packing, maintaining, or altering any type of parachute for which the certificated parachute rigger is rated in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.43   Use of single-harness, dual-parachute systems.|§105.43]](a) or [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.45   Use of tandem parachute systems.|§105.45]](b)(1) of this chapter.
 
-\(c\) A certificated parachute rigger need not comply with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§65.127]] through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
+\(c\) A certificated parachute rigger need not comply with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§§65.127]] through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-20, 37 FR 13252, July 6, 1972; Amdt. 65-42, 66 FR 23553, May 9, 2001\]
 

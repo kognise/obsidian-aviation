@@ -552,7 +552,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(1\) A suitable frequency channel must be available.
 
-\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]] and 171.111.
+\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§§171.109]] and 171.111.
 
 \(3\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.113   Installation requirements.|§171.113]].
 
@@ -686,7 +686,7 @@ Compliance with this section must be shown as a condition to approval and must b
 
 \(c\) *VSWR.* (1) The VSWR of carrier and sideband feedlines must be a nominal value of 1/1 and must not exceed 1.2/1.
 
-\(2\) The sponsor will also provide additional manufacturer's ground standards and tolerances for all VSWR parameters peculiar to the equipment which can effect performance of the facility in meeting the requirements specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]] and 171.111.
+\(2\) The sponsor will also provide additional manufacturer's ground standards and tolerances for all VSWR parameters peculiar to the equipment which can effect performance of the facility in meeting the requirements specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§§171.109]] and 171.111.
 
 \(d\) *Insulation resistance.* The insulation resistance of all coaxial feedlines must be greater than 20 megohms.
 
@@ -1156,7 +1156,7 @@ As used in this subpart:
 
 *ISMLS Point ‘C’* means a point through which the downward extended straight portion of the glide path (at the commissioned angle) passes at a height of 100 feet above the horizontal plane containing the runway threshold.
 
-*Interim standard microwave landing system* (ISMLS) means a ground station which transmits azimuth and elevation angle information which, when decoded and processed by the airborne unit, provides signal performance capable of supporting approach minima for V/STOL and CTOL operations and operates with the signal format and tolerances specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, and 171.267.
+*Interim standard microwave landing system* (ISMLS) means a ground station which transmits azimuth and elevation angle information which, when decoded and processed by the airborne unit, provides signal performance capable of supporting approach minima for V/STOL and CTOL operations and operates with the signal format and tolerances specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§§171.259]], 171.261, 171.263, 171.265, and 171.267.
 
 *Integrity* means that quality which relates to the trust which can be placed in the correctness of the information supplied by the facility.
 
@@ -1172,7 +1172,7 @@ As used in this subpart:
 
 \(a\) Each person who requests an IFR procedure based on an ISMLS facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269, and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.271   Installation requirements.|§171.271]].
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269, and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.271   Installation requirements.|§171.271]].
 
 \(2\) A proposed procedure for operating the facility.
 
@@ -1188,7 +1188,7 @@ As used in this subpart:
 
 \(a\) The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal ISMLS facility:
 
-\(1\) The performance of the ISMLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269.
+\(1\) The performance of the ISMLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269.
 
 \(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.271   Installation requirements.|§171.271]].
 
@@ -1649,7 +1649,7 @@ As used in this subpart:
 
 \(a\) Each person who requests an IFR procedure based on an MLS facility which that person owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321 and is fabricated and installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.323   Fabrication and installation requirements.|§171.323]].
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321 and is fabricated and installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.323   Fabrication and installation requirements.|§171.323]].
 
 \(2\) A proposed procedure for operating the facility.
 
@@ -1665,7 +1665,7 @@ As used in this subpart:
 
 \(a\) The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal MLS facility:
 
-\(1\) The performance of the MLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321.
+\(1\) The performance of the MLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321.
 
 \(2\) The fabrication and installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.323   Fabrication and installation requirements.|§171.323]].
 
@@ -1701,7 +1701,7 @@ The MLS is a precision approach and landing guidance system which provides posit
 
 \(1\) Back azimuth equipment, associated monitor, remote control and indicator equipment. When Back Azimuth is provided, a means for transmission of Basic Data Word 5 and Auxiliary Data Word A4 shall also be provided.
 
-\(2\) A wider proportional guidance sector which exceeds the minimum specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]] and 171.317.
+\(2\) A wider proportional guidance sector which exceeds the minimum specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§§171.313]] and 171.317.
 
 \(3\) Precision DME, associated monitor, remote control and indicator equipment.
 
@@ -1909,7 +1909,7 @@ I6 + I8 + I10 + I12 = Even
 
 \(ii\) *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](c)(1) and must be transmitted throughout the function coverage volume.
 
-\(2\) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]] and 171.317.
+\(2\) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§§171.313]] and 171.317.
 
 \(i\) Preamble. Must be in accordance with requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](i)(1).
 
@@ -2582,7 +2582,7 @@ Note: False courses may be due to (but not limited to) MLS airborne receiver acq
 
 \(a\) The approach azimuth or back azimuth monitor system must cause the radiation to cease and a warning must be provided at the designated control point if any of the following conditions persist for longer than the periods specified:
 
-\(1\) There is a change in the ground equipment contribution to the mean course error component such that the path following error at the reference datum or in the direction of any azimuth radial, exceeds the limits specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](e)(1) or 171.313(j) for a period of more than one second.
+\(1\) There is a change in the ground equipment contribution to the mean course error component such that the path following error at the reference datum or in the direction of any azimuth radial, exceeds the limits specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§§171.313]](e)(1) or 171.313(j) for a period of more than one second.
 
 <div>
 
@@ -2592,7 +2592,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(2\) There are errors in two consecutive transmissions of Basic Data Words 1, 2, 4 or 5.
 
-\(3\) There is a reduction in the radiated power to a level not less than that specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](a)(4) or 171.313(g)(4) for a period of more than one second.
+\(3\) There is a reduction in the radiated power to a level not less than that specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§§171.313]](a)(4) or 171.313(g)(4) for a period of more than one second.
 
 \(4\) There is an error in the preamble DPSK transmissions which occurs more than once in any one second period.
 
@@ -2756,7 +2756,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 ### §171.323   Fabrication and installation requirements.
 
-\(a\) The MLS facility must be permanent and must be located, constructed, and installed in accordance with best commercial engineering practices, using applicable electric and safety codes and Federal Communications Commission (FCC) licensing requirements and siting requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](b) and 171.317(b).
+\(a\) The MLS facility must be permanent and must be located, constructed, and installed in accordance with best commercial engineering practices, using applicable electric and safety codes and Federal Communications Commission (FCC) licensing requirements and siting requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§§171.313]](b) and 171.317(b).
 
 \(b\) The MLS facility components must utilize solid state technology except that traveling wave tube amplifiers (TWTA) may be used. A maximum level of common modularity must be provided along with diagnostics to facilitate maintenance and troubleshooting.
 

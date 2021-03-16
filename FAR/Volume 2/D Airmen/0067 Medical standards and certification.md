@@ -198,7 +198,7 @@ The general medical standards for a first-class airman medical certificate are:
 
 ### §67.115   Discretionary issuance.
 
-A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.103   Eye.|§67.103]] through 67.113 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
+A person who does not meet the provisions of [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.103   Eye.|§§67.103]] through 67.113 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart C—Second-Class Airman Medical Certificate
 
@@ -356,7 +356,7 @@ The general medical standards for a second-class airman medical certificate are:
 
 ### §67.215   Discretionary issuance.
 
-A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.203   Eye.|§67.203]] through 67.213 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
+A person who does not meet the provisions of [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.203   Eye.|§§67.203]] through 67.213 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart D—Third-Class Airman Medical Certificate
 
@@ -510,7 +510,7 @@ The general medical standards for a third-class airman medical certificate are:
 
 ### §67.315   Discretionary issuance.
 
-A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.303   Eye.|§67.303]] through 67.313 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
+A person who does not meet the provisions of [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.303   Eye.|§§67.303]] through 67.313 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart E—Certification Procedures
 
@@ -610,7 +610,7 @@ A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical 
 
 \(b\) Subject to limitations in this chapter, the delegated functions of the Federal Air Surgeon to examine applicants for and holders of medical certificates for compliance with applicable medical standards and to issue, renew, and deny medical certificates are also delegated to aviation medical examiners and to authorized representatives of the Federal Air Surgeon within the FAA.
 
-\(c\) The authority of the Administrator under 49 U.S.C. 44702, to reconsider the action of an aviation medical examiner is delegated to the Federal Air Surgeon; the Manager, Aeromedical Certification Division; and each Regional Flight Surgeon. Where the person does not meet the standards of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]](b)(3) and (c), 67.109(b), 67.113(b) and (c), 67.207(b)(3) and (c), 67.209(b), 67.213(b) and (c), 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c), any action taken under this paragraph other than by the Federal Air Surgeon is subject to reconsideration by the Federal Air Surgeon. A certificate issued by an aviation medical examiner is considered to be affirmed as issued unless an FAA official named in this paragraph (authorized official) reverses that issuance within 60 days after the date of issuance. However, if within 60 days after the date of issuance an authorized official requests the certificate holder to submit additional medical information, an authorized official may reverse the issuance within 60 days after receipt of the requested information.
+\(c\) The authority of the Administrator under 49 U.S.C. 44702, to reconsider the action of an aviation medical examiner is delegated to the Federal Air Surgeon; the Manager, Aeromedical Certification Division; and each Regional Flight Surgeon. Where the person does not meet the standards of [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§§67.107]](b)(3) and (c), 67.109(b), 67.113(b) and (c), 67.207(b)(3) and (c), 67.209(b), 67.213(b) and (c), 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c), any action taken under this paragraph other than by the Federal Air Surgeon is subject to reconsideration by the Federal Air Surgeon. A certificate issued by an aviation medical examiner is considered to be affirmed as issued unless an FAA official named in this paragraph (authorized official) reverses that issuance within 60 days after the date of issuance. However, if within 60 days after the date of issuance an authorized official requests the certificate holder to submit additional medical information, an authorized official may reverse the issuance within 60 days after receipt of the requested information.
 
 \(d\) The authority of the Administrator under 49 U.S.C. 44709 to re-examine any civil airman to the extent necessary to determine an airman's qualification to continue to hold an airman medical certificate, is delegated to the Federal Air Surgeon and his or her authorized representatives within the FAA.
 
@@ -624,7 +624,7 @@ A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical 
 
 \(2\) By the Federal Air Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703.
 
-\(3\) By the Manager, Aeromedical Certification Division, or a Regional Flight Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703 except where the person does not meet the standards of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]](b)(3) and (c), 67.109(b), or 67.113(b) and (c); 67.207(b)(3) and (c), 67.209(b), or 67.213(b) and (c); or 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c).
+\(3\) By the Manager, Aeromedical Certification Division, or a Regional Flight Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703 except where the person does not meet the standards of [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§§67.107]](b)(3) and (c), 67.109(b), or 67.113(b) and (c); 67.207(b)(3) and (c), 67.209(b), or 67.213(b) and (c); or 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c).
 
 \(c\) Any action taken under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.407   Delegation of authority.|§67.407]](c) that wholly or partly reverses the issue of a medical certificate by an aviation medical examiner is the denial of a medical certificate under paragraph (b) of this section.
 

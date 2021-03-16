@@ -504,9 +504,9 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(b\) Each contract under a project must meet the requirements of local law.
 
-\(c\) No sponsor may issue any change order under any of its construction contracts or enter into a supplemental agreement unless three copies of that order or agreement have been sent to and approved by the Area Manager. §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§151.47]] and 151.49 apply to supplemental agreements as well as to original contracts.
+\(c\) No sponsor may issue any change order under any of its construction contracts or enter into a supplemental agreement unless three copies of that order or agreement have been sent to and approved by the Area Manager. [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§§151.47]] and 151.49 apply to supplemental agreements as well as to original contracts.
 
-\(d\) This section and §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§151.47]] through 151.49 do not apply to contracts with the owners of airport hazards, (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b)), buildings, pipe lines, power lines, or other structures or facilities, for installing, extending, changing, removing, or relocating that structure or facility. However, the sponsor must obtain the approval of the Area Manager before entering into such a contract.
+\(d\) This section and [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§§151.47]] through 151.49 do not apply to contracts with the owners of airport hazards, (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b)), buildings, pipe lines, power lines, or other structures or facilities, for installing, extending, changing, removing, or relocating that structure or facility. However, the sponsor must obtain the approval of the Area Manager before entering into such a contract.
 
 \(e\) No sponsor may allow a contractor or subcontractor to begin work under a project until—
 
@@ -520,7 +520,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 ### §151.47   Performance of construction work: Letting of contracts.
 
-\(a\) *Advertising required; exceptions.* Unless the Administrator approves another method for use on a particular airport development project, each contract for construction work on a project in the amount of more than \$2,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts. Any oral or written agreement or understanding between a sponsor and another public agency that is not a sponsor of the project, under which that public agency undertakes construction work for or as agent of the sponsor, is not considered to be a construction contract for the purposes of this section, or §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.45   Performance of construction work: General requirements.|§151.45]], 151.49, and 151.51.
+\(a\) *Advertising required; exceptions.* Unless the Administrator approves another method for use on a particular airport development project, each contract for construction work on a project in the amount of more than \$2,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts. Any oral or written agreement or understanding between a sponsor and another public agency that is not a sponsor of the project, under which that public agency undertakes construction work for or as agent of the sponsor, is not considered to be a construction contract for the purposes of this section, or [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.45   Performance of construction work: General requirements.|§§151.45]], 151.49, and 151.51.
 
 \(b\) *Advertisement; conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract until the Administrator has approved the plans and specifications. The advertisement shall inform the bidders of the contract and reporting provisions required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.54   Equal employment opportunity requirements: Before July 1, 1968.|§151.54]]. Unless the estimated contract price or construction cost is \$2,000 or less, there may be no advertisement for bids or negotiation until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision must be set forth in the initial invitation for bids or proposed contract or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
 
@@ -792,7 +792,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 \(3\) For ultimate development of the airport, as indicated in the current approved airport layout plan to the extent consistent with the National Airport Plan;
 
-\(4\) For approach protection meeting the standards of [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.23   Heliport imaginary surfaces.|§77.23]] as applied to §[[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.25   Applicability.|§77.25]] and 77.27 of this chapter;
+\(4\) For approach protection meeting the standards of [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.23   Heliport imaginary surfaces.|§77.23]] as applied to [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.25   Applicability.|§§77.25]] and 77.27 of this chapter;
 
 \(5\) To allow installing an ALS (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.13   Federal-aid Airport Program: Policy affecting landing aid requirements.|§151.13]]), in which case the costs of acquiring land needed for it are eligible for 75 percent United States participation if the need is shown in the National Airport Plan, based on the best information available to the FAA for the forecast period;
 
@@ -1086,7 +1086,7 @@ The Director, Airports, Service, or the Regional Director concerned may, on indi
 
 \(a\) Each advance planning and engineering proposal must relate to an airport layout plan or plans and specifications for the development of a new airport, or the further development of an existing airport. Each proposal must relate to a specific airport, either existing or planned, and may not be for general area planning.
 
-\(b\) Each proposal for the development or further development of an airport must have as its objective either the development of an airport layout plan, under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.5   General policies.|§151.5]](a), or the development of plans designed to lead to a project application, under §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.21   Procedures: Application; general information.|§151.21]](c) and 151.27, or both.
+\(b\) Each proposal for the development or further development of an airport must have as its objective either the development of an airport layout plan, under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.5   General policies.|§151.5]](a), or the development of plans designed to lead to a project application, under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.21   Procedures: Application; general information.|§§151.21]](c) and 151.27, or both.
 
 \(c\) Each proposal must relate to planning and engineering for an airport that—
 
@@ -1378,7 +1378,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix F to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of airport lighting covered by §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§151.86]] and 151.87 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of airport lighting covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§§151.86]] and 151.87 of this chapter:
 
 ### Typical Eligible Items
 

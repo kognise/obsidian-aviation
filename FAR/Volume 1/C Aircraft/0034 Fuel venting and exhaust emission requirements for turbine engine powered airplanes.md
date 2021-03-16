@@ -376,7 +376,7 @@ The standards of this section apply to aircraft engines manufactured on and afte
 
 SN = 83.6(rO)−0.274 or 50.0, whichever is smaller
 
-\(2\) Except as provided in §[[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§34.9]](b) and 34.21(c), for Classes TF, T3 and T8 engines manufactured on and after July 18, 2012, and for which the first individual production model was manufactured on or before December 31, 2013 (Tier 6):
+\(2\) Except as provided in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§§34.9]](b) and 34.21(c), for Classes TF, T3 and T8 engines manufactured on and after July 18, 2012, and for which the first individual production model was manufactured on or before December 31, 2013 (Tier 6):
 
 <div>
 

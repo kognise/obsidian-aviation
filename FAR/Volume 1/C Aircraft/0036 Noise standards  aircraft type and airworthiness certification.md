@@ -22,7 +22,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.36](https://www.ecfr.
 
 \(b\) Each person who applies under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] for a type of airworthiness certificate specified in this part must show compliance with the applicable requirements of this part, in addition to the applicable airworthiness requirements of this chapter.
 
-\(c\) Each person who applies under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] for approval of an acoustical change described in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter must show that the aircraft complies with the applicable provisions of §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]], 36.9, 36.11 or 36.13 of this part in addition to the applicable airworthiness requirements of this chapter.
+\(c\) Each person who applies under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] for approval of an acoustical change described in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter must show that the aircraft complies with the applicable provisions of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§§36.7]], 36.9, 36.11 or 36.13 of this part in addition to the applicable airworthiness requirements of this chapter.
 
 \(d\) Each person who applies for the original issue of a standard airworthiness certificate for a transport category large airplane or for a jet airplane under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.|§21.183]] must, regardless of date of application, show compliance with the following provisions of this part (including appendix B):
 
@@ -528,7 +528,7 @@ A36.9 *Adjustment of Airplane Flight Test Results.*
 
 ### Section A36.1 Introduction
 
-A36.1.1 This appendix prescribes the conditions under which airplane noise certification tests must be conducted and states the measurement procedures that must be used to measure airplane noise. The procedures that must be used to determine the noise evaluation quantity designated as effective perceived noise level, EPNL, under §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.101   Noise measurement and evaluation.|§36.101]] and 36.803 are also stated.
+A36.1.1 This appendix prescribes the conditions under which airplane noise certification tests must be conducted and states the measurement procedures that must be used to measure airplane noise. The procedures that must be used to determine the noise evaluation quantity designated as effective perceived noise level, EPNL, under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.101   Noise measurement and evaluation.|§§36.101]] and 36.803 are also stated.
 
 A36.1.2 The instructions and procedures given are intended to ensure uniformity during compliance tests and to permit comparison between tests of various types of airplanes conducted in various geographical locations.
 
@@ -1762,7 +1762,7 @@ F36.301 *Aircraft noise limits.*
 
 # part a—general
 
-*Section F36.1 Scope.* This appendix prescribes noise level limits and procedures for measuring and correcting noise data for the propeller driven small airplanes specified in §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] and 36.501(b).
+*Section F36.1 Scope.* This appendix prescribes noise level limits and procedures for measuring and correcting noise data for the propeller driven small airplanes specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§§36.1]] and 36.501(b).
 
 # part b—noise measurement
 
@@ -1936,7 +1936,7 @@ G36.301 *Aircraft Noise Limits.*
 
 # part a—general
 
-*Section G36.1 Scope.* This appendix prescribes limiting noise levels and procedures for measuring noise and adjusting these data to standard conditions, for propeller driven small airplanes and propeller-driven, commuter category airplanes specified in §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] and 36.501(c).
+*Section G36.1 Scope.* This appendix prescribes limiting noise levels and procedures for measuring noise and adjusting these data to standard conditions, for propeller driven small airplanes and propeller-driven, commuter category airplanes specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§§36.1]] and 36.501(c).
 
 # part b—noise measurement
 

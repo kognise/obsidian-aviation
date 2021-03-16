@@ -128,7 +128,7 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 ### §13.15   Civil penalties: Other than by administrative assessment.
 
-\(a\) The FAA uses the procedures in this section when it seeks a civil penalty other than by the administrative assessment procedures in §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.|§13.16]] or 13.18.
+\(a\) The FAA uses the procedures in this section when it seeks a civil penalty other than by the administrative assessment procedures in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.|§§13.16]] or 13.18.
 
 \(b\) The authority of the Administrator, under 49 U.S.C. chapter 463, to seek a civil penalty for a violation cited in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.14   Civil penalties: General.|§13.14]](a), and the ability to refer cases to the United States Attorney General, or the delegate of the Attorney General, for prosecution of civil penalty actions sought by the Administrator is delegated to the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel. This delegation applies to cases involving:
 
@@ -514,7 +514,7 @@ A final notice and order may be issued—
 
 ### §13.31   Applicability.
 
-This subpart applies to proceedings in which a hearing has been requested in accordance with §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.19   Certificate action.|§13.19]](c)(5), 13.20(c), 13.20(d), 13.75(a)(2), 13.75(b), or 13.81(e).
+This subpart applies to proceedings in which a hearing has been requested in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.19   Certificate action.|§§13.19]](c)(5), 13.20(c), 13.20(d), 13.75(a)(2), 13.75(b), or 13.81(e).
 
 \[Amdt. 13-18, 53 FR 34655, Sept. 7, 1988\]
 
@@ -712,13 +712,13 @@ If an alleged violator requests a hearing in accordance with [[Volume 1/B Proced
 
 ### §13.81   Order of immediate compliance.
 
-\(a\) Notwithstanding §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] through 13.79, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, or a Regional Counsel may issue an order of immediate compliance, which is effective upon issuance, if the person who issues the order finds that—
+\(a\) Notwithstanding [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§§13.73]] through 13.79, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, or a Regional Counsel may issue an order of immediate compliance, which is effective upon issuance, if the person who issues the order finds that—
 
 \(1\) There is strong probability that a violation is occurring or is about to occur;
 
 \(2\) The violation poses a substantial risk to health or to safety of life or property; and
 
-\(3\) The public interest requires the avoidance or amelioration of that risk through immediate compliance and waiver of the procedures afforded under §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] through 13.79.
+\(3\) The public interest requires the avoidance or amelioration of that risk through immediate compliance and waiver of the procedures afforded under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§§13.73]] through 13.79.
 
 \(b\) An order of immediate compliance is served promptly upon the person against whom the order is issued by telephone or telegram, and a written statement of the relevant facts and the legal basis for the order, including the findings required by paragraph (a) of this section, is served promptly by personal service or by mail.
 

@@ -60,7 +60,7 @@ Application for an original certificate or renewal of a certificate issued under
 
 ### §133.17   Requirements for issuance of a rotorcraft external-load operator certificate.
 
-If an applicant shows that he complies with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]], 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.
+If an applicant shows that he complies with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§§133.19]], 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.
 
 ### §133.19   Rotorcraft.
 
@@ -138,7 +138,7 @@ If an applicant shows that he complies with §[[Volume 3/G Air carriers and oper
 
 ### §133.25   Amendment of certificate.
 
-\(a\) The holder of a Rotorcraft External-Load Certificate may apply to the responsible Flight Standards office for the area in which the applicant's home base of operation is located, or to the responsible Flight Standards office for the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]] and 133.49, the responsible Flight Standards office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
+\(a\) The holder of a Rotorcraft External-Load Certificate may apply to the responsible Flight Standards office for the area in which the applicant's home base of operation is located, or to the responsible Flight Standards office for the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§§133.19]] and 133.49, the responsible Flight Standards office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
 
 \(b\) The holder of a rotorcraft external-load certificate may apply for an amendment to add or delete a rotorcraft authorization by submitting to the responsible Flight Standards office a new list of rotorcraft, by registration number, with the classes of rotorcraft-load combinations for which authorization is requested.
 
@@ -288,7 +288,7 @@ Each person conducting an operation under this part shall allow the Administrato
 
 \(2\) Part 133, before February 1, 1977; or
 
-\(3\) Section 21.25 of this chapter, except the device must comply with §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.865   External loads.|§27.865]](b) and 29.865(b), as applicable, of this chapter.
+\(3\) Section 21.25 of this chapter, except the device must comply with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.865   External loads.|§§27.865]](b) and 29.865(b), as applicable, of this chapter.
 
 \(c\) *Weight and center of gravity*—
 
@@ -304,7 +304,7 @@ In addition to the operating limitations set forth in the approved Rotorcraft Fl
 
 \(a\) The rotorcraft-load combination may be operated only within the weight and center of gravity limitations established in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.43   Structures and design.|§133.43]](c).
 
-\(b\) The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] and 133.43.
+\(b\) The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§§133.41]] and 133.43.
 
 \(c\) The rotorcraft-load combination may not be operated at airspeeds greater than those established in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] (b), (c), and (d).
 
@@ -328,7 +328,7 @@ The applicant must prepare a Rotorcraft-Load Combination Flight Manual and submi
 
 \(a\) Operating limitations, procedures (normal and emergency), performance, and other information established under this subpart;
 
-\(b\) The class of rotorcraft-load combinations for which the airworthiness of the rotorcraft has been demonstrated in accordance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] and 133.43; and
+\(b\) The class of rotorcraft-load combinations for which the airworthiness of the rotorcraft has been demonstrated in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§§133.41]] and 133.43; and
 
 \(c\) In the information section of the Rotorcraft-Load Combination Flight Manual—
 

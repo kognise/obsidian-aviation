@@ -10,7 +10,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.99](https://www.ecfr.
 
 \(a\) This subpart prescribes rules for operating all aircraft (except for Department of Defense and law enforcement aircraft) in a defense area, or into, within, or out of the United States through an Air Defense Identification Zone (ADIZ) designated in subpart B.
 
-\(b\) Except for §[[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.7   Special security instructions.|§99.7]], 99.13, and 99.15 this subpart does not apply to the operation of any aircraft-
+\(b\) Except for [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.7   Special security instructions.|§§99.7]], 99.13, and 99.15 this subpart does not apply to the operation of any aircraft-
 
 \(1\) Within the 48 contiguous States and the District of Columbia, or within the State of Alaska, on a flight which remains within 10 nautical miles of the point of departure;
 

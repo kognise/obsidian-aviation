@@ -130,7 +130,7 @@ For the purpose of this subchapter, the term—
 
 \(3\) All-cargo operations conducted with airplanes having a payload capacity of 7,500 pounds or less, or with rotorcraft.
 
-*Passenger-carrying operation* means any aircraft operation carrying any person, unless the only persons on the aircraft are those identified in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.583   Carriage of persons without compliance with the passenger-carrying requirements of this part.|§121.583]](a) or 135.85 of this chapter, as applicable. An aircraft used in a passenger-carrying operation may also carry cargo or mail in addition to passengers.
+*Passenger-carrying operation* means any aircraft operation carrying any person, unless the only persons on the aircraft are those identified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.583   Carriage of persons without compliance with the passenger-carrying requirements of this part.|§§121.583]](a) or 135.85 of this chapter, as applicable. An aircraft used in a passenger-carrying operation may also carry cargo or mail in addition to passengers.
 
 *Principal base of operations* means the primary operating location of a certificate holder as established by the certificate holder.
 

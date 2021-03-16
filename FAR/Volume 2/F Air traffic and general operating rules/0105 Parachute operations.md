@@ -102,7 +102,7 @@ The Administrator may inspect any parachute operation to which this part applies
 
 ### §105.15   Information required and notice of cancellation or postponement of a parachute operation.
 
-\(a\) Each person requesting an authorization under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notification under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must provide the following information (on an individual or group basis):
+\(a\) Each person requesting an authorization under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notification under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must provide the following information (on an individual or group basis):
 
 \(1\) The date and time the parachute operation will begin.
 
@@ -124,9 +124,9 @@ The Administrator may inspect any parachute operation to which this part applies
 
 \(8\) The name of the air traffic control facility with jurisdiction of the airspace at the first intended exit altitude to be used for the parachute operation.
 
-\(b\) Each holder of a certificate of authorization issued under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(b) of this part must present that certificate for inspection upon the request of the Administrator or any Federal, State, or local official.
+\(b\) Each holder of a certificate of authorization issued under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§§105.21]](b) and 105.25(b) of this part must present that certificate for inspection upon the request of the Administrator or any Federal, State, or local official.
 
-\(c\) Each person requesting an authorization under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notice under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must promptly notify the air traffic control facility having jurisdiction over the affected airspace if the proposed or scheduled parachute operation is canceled or postponed.
+\(c\) Each person requesting an authorization under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notice under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must promptly notify the air traffic control facility having jurisdiction over the affected airspace if the proposed or scheduled parachute operation is canceled or postponed.
 
 ### §105.17   Flight visibility and clearance from cloud requirements.
 

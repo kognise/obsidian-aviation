@@ -160,7 +160,7 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(e\) Unless a provision of this Part specifies application to a U.S. carrier or a foreign carrier, the provision applies to both U.S. and foreign carriers.
 
-\(f\) If you are an indirect carrier, §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.1   What is the purpose of this part?|§382.1]] through 382.15 of this part apply to you. §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§382.17]] through 382.157 of this part do not apply to you except insofar as provided by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.11   What is the general nondiscrimination requirement of this part?|§382.11]](b).
+\(f\) If you are an indirect carrier, [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.1   What is the purpose of this part?|§§382.1]] through 382.15 of this part apply to you. [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§§382.17]] through 382.157 of this part do not apply to you except insofar as provided by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.11   What is the general nondiscrimination requirement of this part?|§382.11]](b).
 
 \(g\) Notwithstanding any provisions of this part, you must comply with all FAA safety regulations, TSA security regulations, and foreign safety and security regulations having legally mandatory effect that apply to you.
 
@@ -220,13 +220,13 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(1\) You must not discriminate against any qualified individual with a disability, by reason of such disability, in the provision of air transportation;
 
-\(2\) You must not require a qualified individual with a disability to accept special services (including, but not limited to, preboarding) that the individual does not request. However, you may require preboarding as a condition of receiving certain seating or in-cabin stowage accommodations, as specified in §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§382.83]](c), 382.85(b), and 382.123(a) of this part.
+\(2\) You must not require a qualified individual with a disability to accept special services (including, but not limited to, preboarding) that the individual does not request. However, you may require preboarding as a condition of receiving certain seating or in-cabin stowage accommodations, as specified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§§382.83]](c), 382.85(b), and 382.123(a) of this part.
 
 \(3\) You must not exclude a qualified individual with a disability from or deny the person the benefit of any air transportation or related services that are available to other persons, except where specifically permitted by this Part. This is true even if there are separate or different services available for individuals with a disability, except when specifically permitted by another section of this Part; and
 
 \(4\) You must not take any adverse action against an individual (e.g., refusing to provide transportation) because the individual asserts, on his or her own behalf or through or on behalf of others, rights protected by this part or the Air Carrier Access Act.
 
-\(b\) As an indirect carrier, you must comply with §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§382.17]] through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
+\(b\) As an indirect carrier, you must comply with [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§§382.17]] through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
 
 \[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 75 FR 44887, July 30, 2010\]
 
@@ -246,7 +246,7 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(1\) This assurance must commit the contractor to compliance with all applicable provisions of this Part in activities performed on behalf of the carrier.
 
-\(2\) The assurance must also commit the contractor to implementing directives issued by your CROs under §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.151   What are the requirements for providing Complaints Resolution Officials?|§382.151]] through 382.153.
+\(2\) The assurance must also commit the contractor to implementing directives issued by your CROs under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.151   What are the requirements for providing Complaints Resolution Officials?|§§382.151]] through 382.153.
 
 \(c\) As a U.S. carrier, you must also include such an assurance of compliance in your contracts or agreements of appointment with U.S. travel agents. You are not required to include such an assurance in contracts with foreign travel agents.
 
@@ -362,7 +362,7 @@ As a carrier, you must not require a passenger with a disability to provide adva
 
 ### §382.27   May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight?
 
-\(a\) Except as provided in paragraphs (b) and (c) of this section and §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§382.75]] and 382.133(e)(4), (5), (f)(5) and (6), as a carrier you must not require a passenger with a disability to provide advance notice in order to obtain services or accommodations required by this part.
+\(a\) Except as provided in paragraphs (b) and (c) of this section and [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§§382.75]] and 382.133(e)(4), (5), (f)(5) and (6), as a carrier you must not require a passenger with a disability to provide advance notice in order to obtain services or accommodations required by this part.
 
 (b)(1) You may require a passenger with a disability to provide up to 72 hours' advance notice and check in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on international flights, and 48 hours' advance notice and check-in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on domestic flights. This service is optional; you are not required to provide carrier-supplied in-flight medical oxygen, but you may choose to do so.
 
@@ -470,7 +470,7 @@ As a carrier, you must provide the following information, on request, to qualifi
 
 \(c\) Any aircraft-related, service-related or other limitations on the ability to accommodate passengers with a disability, including limitations on the availability of level-entry boarding to the aircraft at any airport involved with the flight. You must provide this information to any passenger who states that he or she uses a wheelchair for boarding, even if the passenger does not explicitly request the information.
 
-\(d\) Any limitations on the availability of storage facilities, in the cabin or in the cargo bay, for mobility aids or other assistive devices commonly used by passengers with a disability, including storage in the cabin of a passenger's wheelchair as provided in §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.67   What is the requirement for priority space in the cabin to store passengers' wheelchairs?|§382.67]] and 382.123 of this part;
+\(d\) Any limitations on the availability of storage facilities, in the cabin or in the cargo bay, for mobility aids or other assistive devices commonly used by passengers with a disability, including storage in the cabin of a passenger's wheelchair as provided in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.67   What is the requirement for priority space in the cabin to store passengers' wheelchairs?|§§382.67]] and 382.123 of this part;
 
 \(e\) Whether the aircraft has an accessible lavatory; and
 
