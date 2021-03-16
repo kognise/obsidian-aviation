@@ -91,7 +91,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_sect
 
         <em>**CAUTION-**</em>
 
-        <em> ****No correction other than the correction card figures supplied by the manufacturer should be applied in making these VOR receiver checks.****</em>
+        <em> **No correction other than the correction card figures supplied by the manufacturer should be applied in making these VOR receiver checks.**</em>
 
         </div>
     2.  Locations of airborne check points, ground check points and VOTs are published in the Chart Supplement U.S.
@@ -226,7 +226,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_sect
 
         <em>**CAUTION-**</em>
 
-        <em> ****Unless the aircraft's ILS equipment includes reverse** **sensing capability, when flying inbound on the back course it is necessary to steer the aircraft in the direction opposite the needle deflection when making corrections from off-course to on-course. This “flying away from the needle” is also required when flying outbound on the front course of the localizer. Do not use back course signals for approach unless a back course approach procedure is published for that particular runway and the approach is authorized by ATC.****</em>
+        <em> **Unless the aircraft's ILS equipment includes reverse** **sensing capability, when flying inbound on the back course it is necessary to steer the aircraft in the direction opposite the needle deflection when making corrections from off-course to on-course. This “flying away from the needle” is also required when flying outbound on the front course of the localizer. Do not use back course signals for approach unless a back course approach procedure is published for that particular runway and the approach is authorized by ATC.**</em>
 
         </div>
     4.  Identification is in International Morse Code and consists of a three-letter identifier preceded by the letter I (●●) transmitted on the localizer frequency.
@@ -260,7 +260,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_sect
 
         <em>**CAUTION-**</em>
 
-        <em> ****False glide slope signals may exist in the area of the localizer back course approach which can cause the glide slope flag alarm to disappear and present unreliable glide slope information. Disregard all glide slope signal indications when making a localizer back course approach unless a glide slope is specified on the approach and landing chart.****</em>
+        <em> **False glide slope signals may exist in the area of the localizer back course approach which can cause the glide slope flag alarm to disappear and present unreliable glide slope information. Disregard all glide slope signal indications when making a localizer back course approach unless a glide slope is specified on the approach and landing chart.**</em>
 
         </div>
     2.  The glide slope transmitter is located between 750 feet and 1,250 feet from the approach end of the runway (down the runway) and offset 250 to 650 feet from the runway centerline. It transmits a glide path beam 1.4 degrees wide (vertically). The signal provides descent information for navigation down to the lowest authorized decision height (DH) specified in the approved ILS approach procedure. The glidepath may not be suitable for navigation below the lowest authorized DH and any reference to glidepath indications below that height must be supplemented by visual reference to the runway environment. Glidepaths with no published DH are usable to runway threshold.
@@ -271,7 +271,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_sect
 
         <em>**CAUTION-**</em>
 
-        <em> ****Avoid flying below the glide path to assure obstacle/terrain clearance is maintained.****</em>
+        <em> **Avoid flying below the glide path to assure obstacle/terrain clearance is maintained.**</em>
 
         </div>
     6.  The published glide slope threshold crossing height (TCH) DOES NOT represent the height of the actual glide path on-course indication above the runway threshold. It is used as a reference for planning purposes which represents the height above the runway threshold that an aircraft's glide slope antenna should be, if that aircraft remains on a trajectory formed by the four-mile-to-middle marker glidepath segment.
