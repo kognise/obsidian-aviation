@@ -108,13 +108,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(c\) Flight Review:
 
-\(1\) No flight review completed to satisfy §61.56 by an individual after becoming eligible to function as pilot in command in a Robinson R-22 helicopter shall be valid for the operation of R-22 helicopter unless that flight review was taken in an R-22.
+\(1\) No flight review completed to satisfy [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] by an individual after becoming eligible to function as pilot in command in a Robinson R-22 helicopter shall be valid for the operation of R-22 helicopter unless that flight review was taken in an R-22.
 
-\(2\) No flight review completed to satisfy §61.56 by individual after becoming eligible to function as pilot in command in a Robinson R-44 helicopter shall be valid for the operation of R-44 helicopter unless that flight review was taken in the R-44.
+\(2\) No flight review completed to satisfy [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] by individual after becoming eligible to function as pilot in command in a Robinson R-44 helicopter shall be valid for the operation of R-44 helicopter unless that flight review was taken in the R-44.
 
 \(3\) The flight review will include a review of the awareness training subject areas of paragraph 2(a)(3) of this SFAR and the flight training identified in paragraph 2(b) of this SFAR.
 
-\(d\) Currency Requirements: No person may act as pilot in command of a Robinson model R-22 or R-44 helicopter carrying passengers unless the pilot in command has met the recency of flight experience requirements of §61.57 in an R-22 or R-44, as appropriate.
+\(d\) Currency Requirements: No person may act as pilot in command of a Robinson model R-22 or R-44 helicopter carrying passengers unless the pilot in command has met the recency of flight experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] in an R-22 or R-44, as appropriate.
 
 3\. *Expiration date.* This SFAR No. 73 shall remain in effect until it is revised or rescinded.
 
@@ -124,11 +124,11 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 1\. *Applicability.* Flight Standards offices are authorized to accept from an eligible person, as described in paragraph 2 of this SFAR, the following:
 
-\(a\) An expired flight instructor certificate to show eligibility for renewal of a flight instructor certificate under §61.197, or an expired written test report to show eligibility under part 61 to take a practical test;
+\(a\) An expired flight instructor certificate to show eligibility for renewal of a flight instructor certificate under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]], or an expired written test report to show eligibility under part 61 to take a practical test;
 
-\(b\) An expired written test report to show eligibility under §§63.33 and 63.57 to take a practical test; and
+\(b\) An expired written test report to show eligibility under §[[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.33   Aircraft ratings.|§63.33]] and 63.57 to take a practical test; and
 
-\(c\) An expired written test report to show eligibility to take a practical test required under part 65 or an expired inspection authorization to show eligibility for renewal under §65.93.
+\(c\) An expired written test report to show eligibility to take a practical test required under part 65 or an expired inspection authorization to show eligibility for renewal under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]].
 
 2\. *Eligibility.* A person is eligible for the relief described in paragraph 1 of this SFAR if:
 
@@ -136,7 +136,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(b\) The person's flight instructor certificate, airman written test report, or inspection authorization expired some time between September 11, 2001, and 6 calendar months after returning to the United States or termination of SFAR 100-2, whichever is earlier; and
 
-\(c\) The person complies with §61.197 or §65.93 of this chapter, as appropriate, or completes the appropriate practical test within 6 calendar months after returning to the United States, or upon termination of SFAR 100-2, whichever is earlier.
+\(c\) The person complies with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]] or [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]] of this chapter, as appropriate, or completes the appropriate practical test within 6 calendar months after returning to the United States, or upon termination of SFAR 100-2, whichever is earlier.
 
 3\. *Required documents.* The person must send the Airman Certificate and/or Rating Application (FAA Form 8710-1) to the appropriate Flight Standards office. The person must include with the application one of the following documents, which must show the date of assignment outside the United States and the date of return to the United States:
 
@@ -160,7 +160,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(2\) Duration and renewal requirements specified in parts 61, 63, 65, and 141 of this chapter, and SFAR No. 100-2 of this part; and
 
-\(b\) Certain air carriers and operators who are unable to obtain special flight permits with a continuing authorization under part 21 of this chapter for the purpose of flying the aircraft to a point of storage.
+\(b\) Certain air carriers and operators who are unable to obtain special flight permits with a continuing authorization under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]] for the purpose of flying the aircraft to a point of storage.
 
 2\. *Training, recency, testing, and checking requirements.*
 
@@ -170,11 +170,11 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(2\) Operations conducted by persons who are exercising the privileges of a private pilot certificate issued under this part, provided the person meets one of the following paragraphs—
 
-\(i\) The person is conducting a charitable medical flight for a volunteer pilot organization pursuant to an exemption issued under part 11 of this chapter, and the flight involves only the carriage of persons considered essential for the flight;
+\(i\) The person is conducting a charitable medical flight for a volunteer pilot organization pursuant to an exemption issued under [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md|part 11 of this chapter]], and the flight involves only the carriage of persons considered essential for the flight;
 
-\(ii\) The person is conducting an agricultural aircraft operation under a private agricultural aircraft operating certificate issued in accordance with §137.19 of this chapter;
+\(ii\) The person is conducting an agricultural aircraft operation under a private agricultural aircraft operating certificate issued in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]] of this chapter;
 
-\(iii\) The person has at least 500 hours of total time as a pilot, that includes at least 400 hours as a pilot in command and at least 50 hours that were accrued within the preceding 12 calendar months, and the person is conducting one of the following operations consistent with the compensation or hire exceptions specified in §61.113:
+\(iii\) The person has at least 500 hours of total time as a pilot, that includes at least 400 hours as a pilot in command and at least 50 hours that were accrued within the preceding 12 calendar months, and the person is conducting one of the following operations consistent with the compensation or hire exceptions specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]]:
 
 \(A\) A flight incidental to that person's business or employment;
 
@@ -184,19 +184,19 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(D\) A flight to transport essential goods and medical supplies to support public health needs;
 
-\(3\) For operations conducted under part 91, subpart K, and part 125 of this chapter, persons who are serving as flight attendant crewmembers, check pilots, and flight instructors; and
+\(3\) For operations conducted under part 91, subpart K, and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]], persons who are serving as flight attendant crewmembers, check pilots, and flight instructors; and
 
-\(4\) Operations conducted under part 107 of this chapter by a person who holds a remote pilot certificate issued under part 107 of this chapter.
+\(4\) Operations conducted under [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]] by a person who holds a remote pilot certificate issued under [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]].
 
 \(b\) *This Part.*
 
-\(1\) *Second-in-command qualifications of §61.55.* (i) *Airmen requirements.* (A) Notwithstanding the period specified in §61.55(c), a person who is required to complete the second-in-command familiarization and currency requirements under §61.55(b)(1) and (2) between March 1, 2020 and September 30, 2020 for purposes of maintaining second-in-command privileges may complete the requirements of §61.55(b)(1) and (2) in the month before or three months after the month in which they are required, provided the pilot meets the requirements of paragraph 2.(b)(1)(ii) of this SFAR.
+\(1\) *Second-in-command qualifications of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]].* (i) *Airmen requirements.* (A) Notwithstanding the period specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](c), a person who is required to complete the second-in-command familiarization and currency requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) and (2) between March 1, 2020 and September 30, 2020 for purposes of maintaining second-in-command privileges may complete the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) and (2) in the month before or three months after the month in which they are required, provided the pilot meets the requirements of paragraph 2.(b)(1)(ii) of this SFAR.
 
-\(B\) Notwithstanding the period specified in §61.55(c), a person who is required to complete the second-in-command familiarization and currency requirements under §61.55(b)(1) and (2) between October 1, 2020 and January 31, 2021 for purposes of maintaining second-in-command privileges may complete the requirements of §61.55(b)(1) and (2) in the month before or two months after the month in which they are required, provided the pilot meets the requirements of paragraph 2.(b)(1)(ii) of this SFAR.
+\(B\) Notwithstanding the period specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](c), a person who is required to complete the second-in-command familiarization and currency requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) and (2) between October 1, 2020 and January 31, 2021 for purposes of maintaining second-in-command privileges may complete the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) and (2) in the month before or two months after the month in which they are required, provided the pilot meets the requirements of paragraph 2.(b)(1)(ii) of this SFAR.
 
-\(C\) A pilot who meets the requirements of §61.55(b)(1) and (2) in accordance with paragraph 2.(b)(1)(i)(A) or paragraph 2.(b)(1)(i)(B) of this SFAR will be considered to have completed the requirements in the month in which they were due.
+\(C\) A pilot who meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) and (2) in accordance with paragraph 2.(b)(1)(i)(A) or paragraph 2.(b)(1)(i)(B) of this SFAR will be considered to have completed the requirements in the month in which they were due.
 
-\(ii\) *Qualification requirements.* To complete the requirements of §61.55(b)(1) or (2) within the period specified in paragraph 2.(b)(1)(i)(A) or paragraph 2.(b)(1)(i)(B) of this SFAR, the person—
+\(ii\) *Qualification requirements.* To complete the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]](b)(1) or (2) within the period specified in paragraph 2.(b)(1)(i)(A) or paragraph 2.(b)(1)(i)(B) of this SFAR, the person—
 
 \(A\) Must review and become familiar with the following information for the specific type of aircraft for which second-in-command privileges are sought—
 
@@ -212,9 +212,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) Prior to serving as second-in-command, must have logged at least three takeoffs and landings to a full stop as the sole manipulator of the flight controls within the 180 days preceding the date of the flight.
 
-\(2\) *Flight review requirements of §61.56.* A person who has not completed a flight review within the previous 24 calendar months in accordance with §61.56 may continue to act as pilot in command of an aircraft, provided the following requirements are met—
+\(2\) *Flight review requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].* A person who has not completed a flight review within the previous 24 calendar months in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] may continue to act as pilot in command of an aircraft, provided the following requirements are met—
 
-\(i\) *Airmen requirements.* The person was current to act as pilot in command of an aircraft in March 2020 and, to maintain currency, is required to complete a flight review under §61.56 between March 1, 2020 and January 31, 2021.
+\(i\) *Airmen requirements.* The person was current to act as pilot in command of an aircraft in March 2020 and, to maintain currency, is required to complete a flight review under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] between March 1, 2020 and January 31, 2021.
 
 \(ii\) *Qualification requirements.* To act as pilot in command of an aircraft during the period specified in paragraph 2.(b)(2)(iii)(A) or paragraph 2.(b)(2)(iii)(B) of this SFAR, the person must have—
 
@@ -222,31 +222,31 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) Since January 1, 2020 and preceding the date of flight, completed online Wings courses for pilots from the FAA Safety Team website, available at *www.faasafety.gov.* The online training courses must total at least 3 Wings credits.
 
-\(iii\) *Grace period.* (A) A person who is required to complete a flight review under §61.56 between March 1, 2020 and September 30, 2020 may act as pilot in command of an aircraft for a duration of three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §61.56.
+\(iii\) *Grace period.* (A) A person who is required to complete a flight review under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] between March 1, 2020 and September 30, 2020 may act as pilot in command of an aircraft for a duration of three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].
 
-\(B\) A person who is required to complete a flight review under §61.56 between October 1, 2020 and January 31, 2021 may act as pilot in command of an aircraft for a duration of two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §61.56.
+\(B\) A person who is required to complete a flight review under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] between October 1, 2020 and January 31, 2021 may act as pilot in command of an aircraft for a duration of two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].
 
-\(3\) *Instrument experience requirements of §61.57.* A person who has not performed and logged the tasks required by §61.57(c)(1) within the 6 calendar months preceding the month of the flight may continue to act as pilot in command under IFR or in weather conditions less than the minimums prescribed for VFR, provided the following requirements are met—
+\(3\) *Instrument experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]].* A person who has not performed and logged the tasks required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c)(1) within the 6 calendar months preceding the month of the flight may continue to act as pilot in command under IFR or in weather conditions less than the minimums prescribed for VFR, provided the following requirements are met—
 
 \(i\) *Qualification requirements.* The person has—
 
 \(A\) Within the 6 calendar months preceding the month of the flight, performed and logged at least three instrument approaches in actual weather conditions, or under simulated conditions using a view-limiting device; and
 
-\(B\) Within the 9 calendar months preceding the month of the flight, performed and logged the tasks required by §61.57(c)(1).
+\(B\) Within the 9 calendar months preceding the month of the flight, performed and logged the tasks required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c)(1).
 
 \(ii\) *Grace period.* Between April 30, 2020 and September 30, 2020, a person who meets the qualification requirements of paragraph 2.(b)(3)(i) of this SFAR may act as pilot in command under IFR or in weather conditions less than the minimums prescribed for VFR.
 
-\(iii\) *Instrument currency after September 30, 2020.* Before acting as pilot in command under IFR or in weather conditions less than the minimums prescribed for VFR after September 30, 2020, the person must comply with §61.57(c).
+\(iii\) *Instrument currency after September 30, 2020.* Before acting as pilot in command under IFR or in weather conditions less than the minimums prescribed for VFR after September 30, 2020, the person must comply with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c).
 
-\(4\) *Pilot in command proficiency check requirements of §61.58.* (i) *Airmen requirements.* (A) Notwithstanding the period specified in §61.58(i), a pilot who is required to take a pilot in command proficiency check under §61.58(a)(1) or (2) between March 1, 2020 and September 30, 2020 for purposes of maintaining pilot in command privileges may complete the check in the month before or three months after the month in which it is required, provided the pilot meets the requirements of paragraph 2.(b)(4)(ii) of this SFAR.
+\(4\) *Pilot in command proficiency check requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]].* (i) *Airmen requirements.* (A) Notwithstanding the period specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]](i), a pilot who is required to take a pilot in command proficiency check under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]](a)(1) or (2) between March 1, 2020 and September 30, 2020 for purposes of maintaining pilot in command privileges may complete the check in the month before or three months after the month in which it is required, provided the pilot meets the requirements of paragraph 2.(b)(4)(ii) of this SFAR.
 
-\(B\) Notwithstanding the period specified in §61.58(i), a pilot who is required to take a pilot in command proficiency check under §61.58(a)(1) or (2) between October 1, 2020 and January 31, 2021 for purposes of maintaining pilot in command privileges may complete the check in the month before or two months after the month in which it is required, provided the pilot meets the requirements of paragraph 2.(b)(4)(ii) of this SFAR.
+\(B\) Notwithstanding the period specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]](i), a pilot who is required to take a pilot in command proficiency check under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]](a)(1) or (2) between October 1, 2020 and January 31, 2021 for purposes of maintaining pilot in command privileges may complete the check in the month before or two months after the month in which it is required, provided the pilot meets the requirements of paragraph 2.(b)(4)(ii) of this SFAR.
 
 \(C\) A pilot who completes the proficiency check within the period prescribed by this paragraph 2.(b)(4)(i)(A) or paragraph 2.(b)(4)(i)(B) of this SFAR will be considered to have completed the check in the month in which it was required.
 
-\(ii\) *Qualification requirements.* To complete the pilot in command proficiency check required by §61.58(a)(1) or (2) within the period specified in paragraph 2.(b)(4)(i)(A) or paragraph 2.(b)(4)(i)(B) of this SFAR, the person—
+\(ii\) *Qualification requirements.* To complete the pilot in command proficiency check required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]](a)(1) or (2) within the period specified in paragraph 2.(b)(4)(i)(A) or paragraph 2.(b)(4)(i)(B) of this SFAR, the person—
 
-\(A\) Must meet the flight experience requirements of §61.57 that are applicable to the operation to be conducted; and
+\(A\) Must meet the flight experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] that are applicable to the operation to be conducted; and
 
 \(B\) Within the 3 calendar months preceding the month of the flight, must have reviewed the following information for the specific type of aircraft for which pilot in command privileges are sought—
 
@@ -262,23 +262,23 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(5\) *Flight Crewmember Requirements of Part 91, Subpart K, of this Chapter.*
 
-\(i\) *Testing and checking Requirements.* (A) Notwithstanding the period specified in §91.1071(a) of this chapter, a crewmember who is required to take a test or a flight check under §91.1065(a), §91.1065(b), §91.1067, §91.1069(a), or §91.1069(b) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the test or check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(i\) *Testing and checking Requirements.* (A) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1071   Crewmember: Tests and checks, grace provisions, training to accepted standards.|§91.1071]](a) of this chapter, a crewmember who is required to take a test or a flight check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]](a), [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]](b), [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1067   Initial and recurrent flight attendant crewmember testing requirements.|§91.1067]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](a), or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](b) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the test or check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §91.1071(a) of this chapter, a crewmember who is required to take a test or a flight check under §91.1065(a), §91.1065(b), §91.1067, §91.1069(a), or §91.1069(b) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the test or check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(B\) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1071   Crewmember: Tests and checks, grace provisions, training to accepted standards.|§91.1071]](a) of this chapter, a crewmember who is required to take a test or a flight check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]](a), [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]](b), [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1067   Initial and recurrent flight attendant crewmember testing requirements.|§91.1067]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](a), or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](b) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the test or check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
 \(C\) A crewmember who completes a test or check in accordance with paragraph 2.(b)(5)(i)(A) or paragraph 2.(b)(5)(i)(B) of this SFAR will be considered to have completed the test or check in the month in which it was required.
 
-\(ii\) *Recurrent training requirements.* (A) Notwithstanding the period specified in §91.1073(b) of this chapter, a crewmember who is required to complete recurrent training under §91.1099 or §91.1107(c) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete that training in the month before or three months after the month in which it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(ii\) *Recurrent training requirements.* (A) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1073   Training program: General.|§91.1073]](b) of this chapter, a crewmember who is required to complete recurrent training under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1099   Crewmember initial and recurrent training requirements.|§91.1099]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1107   Recurrent training.|§91.1107]](c) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete that training in the month before or three months after the month in which it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §91.1073(b) of this chapter, a crewmember who is required to complete recurrent training under §91.1099 or §91.1107(c) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete that training in the month before or two months after the month in which it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(B\) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1073   Training program: General.|§91.1073]](b) of this chapter, a crewmember who is required to complete recurrent training under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1099   Crewmember initial and recurrent training requirements.|§91.1099]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1107   Recurrent training.|§91.1107]](c) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete that training in the month before or two months after the month in which it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
 \(C\) A crewmember who completes recurrent training in accordance with this paragraph 2.(b)(5)(ii)(A) or paragraph 2.(b)(5)(ii)(B) will be considered to have completed the training in the month in which it was required.
 
 \(iii\) *Instrument experience.*
 
-\(A\) *Precision instrument approaches.* A pilot who has not satisfactorily demonstrated the type of precision instrument approach procedure to be used within the previous six months in accordance with §91.1069(c) of this chapter may continue to use that type of approach procedure, provided the following requirements are met—
+\(A\) *Precision instrument approaches.* A pilot who has not satisfactorily demonstrated the type of precision instrument approach procedure to be used within the previous six months in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](c) of this chapter may continue to use that type of approach procedure, provided the following requirements are met—
 
-(*1*) *Airmen requirements.* The person was current under §91.1069(c) of this chapter to use that type of precision instrument approach procedure in March 2020, and is required to demonstrate that type of precision instrument approach procedure between March 1, 2020 and January 31, 2021.
+(*1*) *Airmen requirements.* The person was current under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](c) of this chapter to use that type of precision instrument approach procedure in March 2020, and is required to demonstrate that type of precision instrument approach procedure between March 1, 2020 and January 31, 2021.
 
 (*2*) *Grace period. (i)* For a person who is required to demonstrate that type of precision instrument approach procedure between March 1, 2020 and September 30, 2020, the person satisfactorily demonstrates that type of precision instrument approach procedure within three months after the month in which it was required.
 
@@ -286,9 +286,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 (*3*) *Safety mitigations.* The management specification holder satisfies paragraph 2.(b)(5)(vi) of this SFAR.
 
-\(B\) *Non-precision instrument approaches.* A pilot who has not satisfactorily demonstrated either the type of non-precision instrument approach procedure to be used, or any other two different types of non-precision approach procedures, within the previous six months in accordance with §91.1069(c) of this chapter may continue to use that type of non-precision instrument approach procedure, provided the following requirements are met—
+\(B\) *Non-precision instrument approaches.* A pilot who has not satisfactorily demonstrated either the type of non-precision instrument approach procedure to be used, or any other two different types of non-precision approach procedures, within the previous six months in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](c) of this chapter may continue to use that type of non-precision instrument approach procedure, provided the following requirements are met—
 
-(*1*) *Airmen requirements.* The person was current under §91.1069(c) of this chapter to use that type of non-precision instrument approach procedure in March 2020, and is required to demonstrate that type of non-precision instrument approach procedure, or any other two different types of non-precision instrument approach procedures, between March 1, 2020 and January 31, 2021.
+(*1*) *Airmen requirements.* The person was current under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]](c) of this chapter to use that type of non-precision instrument approach procedure in March 2020, and is required to demonstrate that type of non-precision instrument approach procedure, or any other two different types of non-precision instrument approach procedures, between March 1, 2020 and January 31, 2021.
 
 (*2*) *Grace period. (i)* For a person who is required to demonstrate that type of non-precision instrument approach procedure between March 1, 2020 and September 30, 2020, the person satisfactorily demonstrates that type of non-precision instrument approach procedure within three months after the month in which it was required.
 
@@ -296,15 +296,15 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 (*3*) *Safety mitigations.* The management specification holder satisfies paragraph 2.(b)(5)(vi) of this SFAR.
 
-\(iv\) *Check pilot (simulator) and flight instructor (simulator) requirements.* (A) Notwithstanding the period specified in §§91.1089(g) and 91.1091(g) of this chapter, a check pilot (simulator) or flight instructor (simulator) who is required to complete the flight segments or line-observation program under §91.1089(f) or §91.1091(f) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the flight segments or line-observation program requirements in the month before or three months after the month they are required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(iv\) *Check pilot (simulator) and flight instructor (simulator) requirements.* (A) Notwithstanding the period specified in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).|§91.1089]](g) and 91.1091(g) of this chapter, a check pilot (simulator) or flight instructor (simulator) who is required to complete the flight segments or line-observation program under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).|§91.1089]](f) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1091   Qualifications: Flight instructors (aircraft) and flight instructors (simulator).|§91.1091]](f) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the flight segments or line-observation program requirements in the month before or three months after the month they are required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §§91.1089(g) and 91.1091(g) of this chapter, a check pilot (simulator) or flight instructor (simulator) who is required to complete the flight segments or line-observation program under §91.1089(f) or §91.1091(f) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the flight segments or line-observation program requirements in the month before or two months after the month they are required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(B\) Notwithstanding the period specified in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).|§91.1089]](g) and 91.1091(g) of this chapter, a check pilot (simulator) or flight instructor (simulator) who is required to complete the flight segments or line-observation program under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).|§91.1089]](f) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1091   Qualifications: Flight instructors (aircraft) and flight instructors (simulator).|§91.1091]](f) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the flight segments or line-observation program requirements in the month before or two months after the month they are required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
 \(C\) A check pilot (simulator) or flight instructor (simulator) who completes the flight segments or line-observation program requirements in accordance with this paragraph 2.(b)(5)(iv) will be considered to have completed the requirements in the month in which they were due.
 
-\(v\) *Check pilot and flight instructor observation check requirements.* (A) Notwithstanding the period specified in §§91.1093(b) and 91.1095(b) of this chapter, a check pilot or flight instructor who is required to complete an observation check under §91.1093(a)(2) or §91.1095(a)(2) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the observation check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(v\) *Check pilot and flight instructor observation check requirements.* (A) Notwithstanding the period specified in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]](b) and 91.1095(b) of this chapter, a check pilot or flight instructor who is required to complete an observation check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]](a)(2) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1095   Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).|§91.1095]](a)(2) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualification may complete the observation check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §§91.1093(b) and 91.1095(b) of this chapter, a check pilot or flight instructor who is required to complete an observation check under §91.1093(a)(2) or §91.1095(a)(2) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the observation check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
+\(B\) Notwithstanding the period specified in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]](b) and 91.1095(b) of this chapter, a check pilot or flight instructor who is required to complete an observation check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]](a)(2) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1095   Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).|§91.1095]](a)(2) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualification may complete the observation check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(5)(vi) of this SFAR are met.
 
 \(C\) A check pilot or flight instructor who completes an observation check in accordance with this paragraph 2.(b)(5)(v) will be considered to have completed the check in the month it which it was due.
 
@@ -316,13 +316,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(6\) *Mitsubishi MU-2B Series Special Training, Experience, and Operating Requirements of Part 91, Subpart N, of this Chapter.*
 
-\(i\) *Recurrent training.* (A) Notwithstanding the period specified in §91.1705(e) of this chapter, a person who is required to complete recurrent training under §91.1703(e) of this chapter between March 1, 2020 and September 30, 2020 for purposes of complying with §91.1705(a) and (b) may complete the recurrent training in the month before or three months after the month the recurrent training is required, provided the requirements of paragraph 2.(b)(6)(iii) of this SFAR are met.
+\(i\) *Recurrent training.* (A) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](e) of this chapter, a person who is required to complete recurrent training under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1703   Compliance and eligibility.|§91.1703]](e) of this chapter between March 1, 2020 and September 30, 2020 for purposes of complying with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](a) and (b) may complete the recurrent training in the month before or three months after the month the recurrent training is required, provided the requirements of paragraph 2.(b)(6)(iii) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §91.1705(e) of this chapter, a person who is required to complete recurrent training under §91.1703(e) of this chapter between October 1, 2020 and January 31, 2021 for purposes of complying with §91.1705(a) and (b) may complete the recurrent training in the month before or two months after the month the recurrent training is required, provided the requirements of paragraph 2.(b)(6)(iii) of this SFAR are met.
+\(B\) Notwithstanding the period specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](e) of this chapter, a person who is required to complete recurrent training under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1703   Compliance and eligibility.|§91.1703]](e) of this chapter between October 1, 2020 and January 31, 2021 for purposes of complying with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](a) and (b) may complete the recurrent training in the month before or two months after the month the recurrent training is required, provided the requirements of paragraph 2.(b)(6)(iii) of this SFAR are met.
 
 \(C\) A person who completes the recurrent training in accordance with this paragraph 2.(b)(6)(i) will be considered to have completed the training in the month it was required.
 
-\(ii\) *Flight review.* A person who has not completed a flight review in accordance with §§61.56 and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter may continue to act as pilot in command of a Mitsubishi MU-2B series airplane, providing the following requirements are met—
+\(ii\) *Flight review.* A person who has not completed a flight review in accordance with §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] may continue to act as pilot in command of a Mitsubishi MU-2B series airplane, providing the following requirements are met—
 
 \(A\) *Airmen requirements.* The person was—
 
@@ -330,9 +330,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 (*2*) The requirements of paragraph 2.(b)(6)(iii) of this SFAR are met.
 
-\(B\) *Grace period. (1)* A person who is required to complete a flight review in a Mitsubishi MU-2B series airplane between March 1, 2020 and September 30, 2020 may act as pilot in command of a Mitsubishi MU-2B series airplane for a duration for three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §§61.56 and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter.
+\(B\) *Grace period. (1)* A person who is required to complete a flight review in a Mitsubishi MU-2B series airplane between March 1, 2020 and September 30, 2020 may act as pilot in command of a Mitsubishi MU-2B series airplane for a duration for three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
-*(2)* A person who is required to complete a flight review in a Mitsubishi MU-2B series airplane between October 1, 2020 and January 31, 2021 may act as pilot in command of a Mitsubishi MU-2B series airplane for a duration for two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §§61.56 and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter.
+*(2)* A person who is required to complete a flight review in a Mitsubishi MU-2B series airplane between October 1, 2020 and January 31, 2021 may act as pilot in command of a Mitsubishi MU-2B series airplane for a duration for two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in accordance with §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] and 91.1715(c) of this chapter in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(iii\) *Qualification requirements.* To complete the recurrent training during the period provided under paragraph 2.(b)(6)(i)(A) or paragraph 2.(b)(6)(i)(B) of this SFAR or to complete the flight review during the period provided under paragraph 2.(b)(6)(ii)(A) or paragraph 2.(b)(6)(ii)(B) of this SFAR, the person must—
 
@@ -342,25 +342,25 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(C\) Prior to manipulating the controls of an MU-2B series airplane, completed three hours of self-study, since January 1, 2020 and preceding the date of the flight, on the following subjects—
 
-*(1)* The ground training curriculum required by §91.1705(h)(1) of this chapter;
+*(1)* The ground training curriculum required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](h)(1) of this chapter;
 
 *(2)* The *Special Emphasis Items* listed in the approved MU-2B training program that the pilot last completed;
 
-*(3)* The limitations, procedures, aircraft performance, and MU-2B Cockpit Checklist procedures applicable to the MU-2B model to be flown, which are contained in the flight training curriculum required by §91.1705(h)(2) of this chapter; and
+*(3)* The limitations, procedures, aircraft performance, and MU-2B Cockpit Checklist procedures applicable to the MU-2B model to be flown, which are contained in the flight training curriculum required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]](h)(2) of this chapter; and
 
-*(4)* The current general operating and flight rules of part 91 of this chapter.
+*(4)* The current general operating and flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]].
 
-\(7\) *Aeronautical Knowledge Recency Requirements of §107.65 of this Chapter.* A person who has not satisfied the aeronautical knowledge recency requirements of §107.65(a) or (b) of this chapter within the previous 24 calendar months may operate a small unmanned aircraft system under part 107 of this chapter, provided that person meets the following requirements—
+\(7\) *Aeronautical Knowledge Recency Requirements of [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.65   Aeronautical knowledge recency.|§107.65]] of this Chapter.* A person who has not satisfied the aeronautical knowledge recency requirements of [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.65   Aeronautical knowledge recency.|§107.65]](a) or (b) of this chapter within the previous 24 calendar months may operate a small unmanned aircraft system under [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]], provided that person meets the following requirements—
 
-\(i\) *Airmen requirements.* The person was current to exercise the privileges of a remote pilot certificate in March 2020 and, to maintain aeronautical currency, is required to meet the aeronautical recency requirements in §107.65(a) or (b) of this chapter between April 1, 2020 and September 30, 2020.
+\(i\) *Airmen requirements.* The person was current to exercise the privileges of a remote pilot certificate in March 2020 and, to maintain aeronautical currency, is required to meet the aeronautical recency requirements in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.65   Aeronautical knowledge recency.|§107.65]](a) or (b) of this chapter between April 1, 2020 and September 30, 2020.
 
-\(ii\) *Qualification requirements.* The person must have completed an FAA-developed initial or recurrent online training course, available at *www.faasafety.gov,* covering the areas of knowledge specified in §107.74(a) or (b) of this chapter. Each person is eligible to take an online training course specified in this paragraph 2.(b)(7)(ii) one time for the purpose of obtaining the six calendar month period specified in paragraph 2.(b)(7)(iii) of this SFAR;
+\(ii\) *Qualification requirements.* The person must have completed an FAA-developed initial or recurrent online training course, available at *www.faasafety.gov,* covering the areas of knowledge specified in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.74   Initial and recurrent training courses.|§107.74]](a) or (b) of this chapter. Each person is eligible to take an online training course specified in this paragraph 2.(b)(7)(ii) one time for the purpose of obtaining the six calendar month period specified in paragraph 2.(b)(7)(iii) of this SFAR;
 
-\(iii\) *Grace period.* The person may operate a small unmanned aircraft system under part 107 of this chapter for a duration of six calendar months from the month in which the person completed the online training course specified in paragraph 2.(b)(7)(ii) of this SFAR. Before operating a small unmanned aircraft system under part 107 in the seventh month after the month in which the person completed the online training course, the person must satisfy §107.65 of this chapter.
+\(iii\) *Grace period.* The person may operate a small unmanned aircraft system under [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]] for a duration of six calendar months from the month in which the person completed the online training course specified in paragraph 2.(b)(7)(ii) of this SFAR. Before operating a small unmanned aircraft system under part 107 in the seventh month after the month in which the person completed the online training course, the person must satisfy [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.65   Aeronautical knowledge recency.|§107.65]] of this chapter.
 
-\(8\) *Flight Crewmember Requirements of Part 125 of this Chapter.*
+\(8\) *Flight Crewmember Requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|Part 125 of this Chapter]].*
 
-\(i\) *Recent experience requirements.* A person who has not satisfied the recent experience requirements of §125.285(a) of this chapter may be used by a certificate holder (or holder of an A125 letter of deviation authority), and may serve as a required pilot flight crewmember, in operations conducted under part 125 of this chapter, provided the following requirements are met—
+\(i\) *Recent experience requirements.* A person who has not satisfied the recent experience requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.285   Pilot qualifications: Recent experience.|§125.285]](a) of this chapter may be used by a certificate holder (or holder of an A125 letter of deviation authority), and may serve as a required pilot flight crewmember, in operations conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]], provided the following requirements are met—
 
 \(A\) *Grace period. (1)* For flights between March 1, 2020 and September 30, 2020, the person has made at least three takeoffs and landings, within the preceding 150 days, in the type of airplane in which that person is to serve.
 
@@ -368,9 +368,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) *Safety Mitigations.* The certificate holder complies with paragraph 2.(b)(8)(iii) of this SFAR.
 
-\(ii\) *Testing and checking requirements.* (A) Notwithstanding the period specified in §125.293(a) of this chapter, a crewmember who is required to take a test or check under §125.287(a), §125.287(b), §125.289, or §125.291(a) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualifications may complete the test or check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(8)(iii) of this SFAR are met.
+\(ii\) *Testing and checking requirements.* (A) Notwithstanding the period specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.293   Crewmember: Tests and checks, grace provisions, accepted standards.|§125.293]](a) of this chapter, a crewmember who is required to take a test or check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.287   Initial and recurrent pilot testing requirements.|§125.287]](a), [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.287   Initial and recurrent pilot testing requirements.|§125.287]](b), [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.289   Initial and recurrent flight attendant crewmember testing requirements.|§125.289]], or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.291   Pilot in command: Instrument proficiency check requirements.|§125.291]](a) of this chapter between March 1, 2020 and September 30, 2020 for purposes of maintaining qualifications may complete the test or check in the month before or three months after the month it is required, provided the requirements of paragraph 2.(b)(8)(iii) of this SFAR are met.
 
-\(B\) Notwithstanding the period specified in §125.293(a) of this chapter, a crewmember who is required to take a test or check under §125.287(a), §125.287(b), §125.289, or §125.291(a) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualifications may complete the test or check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(8)(iii) of this SFAR are met.
+\(B\) Notwithstanding the period specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.293   Crewmember: Tests and checks, grace provisions, accepted standards.|§125.293]](a) of this chapter, a crewmember who is required to take a test or check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.287   Initial and recurrent pilot testing requirements.|§125.287]](a), [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.287   Initial and recurrent pilot testing requirements.|§125.287]](b), [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.289   Initial and recurrent flight attendant crewmember testing requirements.|§125.289]], or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.291   Pilot in command: Instrument proficiency check requirements.|§125.291]](a) of this chapter between October 1, 2020 and January 31, 2021 for purposes of maintaining qualifications may complete the test or check in the month before or two months after the month it is required, provided the requirements of paragraph 2.(b)(8)(iii) of this SFAR are met.
 
 \(C\) A crewmember who completes the test or check in accordance with this paragraph 2.(b)(8)(ii) will be considered to have completed the test or check in the month in which it was required.
 
@@ -380,7 +380,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) The method the certificate holder (or holder of an A125 letter of deviation authority) will use to ensure that each crewmember complying with paragraph 2.(b)(8) of this SFAR remains adequately tested and currently proficient for each aircraft, duty position, and type of operation in which the person serves.
 
-\(9\) *Robinson R-22/R-44 Special Training and Experience Requirements of SFAR No. 73 of this Part.* A person who has not completed a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate, within the preceding 24 calendar months in accordance with paragraph 2(c) of SFAR No. 73 and §61.56, may continue to act as pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, providing the following requirements are met—
+\(9\) *Robinson R-22/R-44 Special Training and Experience Requirements of SFAR No. 73 of this Part.* A person who has not completed a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate, within the preceding 24 calendar months in accordance with paragraph 2(c) of SFAR No. 73 and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]], may continue to act as pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, providing the following requirements are met—
 
 \(i\) *Airmen requirements.* The person was current to act as pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, in March 2020 and, to maintain currency, is required to complete a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate, between March 1, 2020 and January 31, 2021.
 
@@ -398,7 +398,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 (*1*) The awareness training subject areas specified in paragraphs 2.(a)(3)(i) through (v) of SFAR No. 73 of this part;
 
-(*2*) The current general operating and flight rules of part 91 of this chapter;
+(*2*) The current general operating and flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]];
 
 (*3*) Robinson R-22 or R-44 Maneuvers Guide, as applicable to the model(s) in which the airmen holds pilot in command privileges;
 
@@ -406,15 +406,15 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(D\) Complete Course ALC-104: Helicopter—General and Flight Aerodynamics at *www.faasafety.gov.*
 
-\(iii\) *Grace period.* (A) A person who is required to complete a flight review under §61.56 between March 1, 2020 and September 30, 2020 may act as a pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, for a duration of three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate to the privileges sought, in accordance with paragraph 2(c) of SFAR No. 73 of this part and §61.56.
+\(iii\) *Grace period.* (A) A person who is required to complete a flight review under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] between March 1, 2020 and September 30, 2020 may act as a pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, for a duration of three calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the fourth month after the month in which the flight review was due, the person must satisfactorily complete a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate to the privileges sought, in accordance with paragraph 2(c) of SFAR No. 73 of this part and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].
 
-\(B\) A person who is required to complete a flight review under §61.56 between October 1, 2020 and January 31, 2021 may act as a pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, for a duration of two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate to the privileges sought, in accordance with paragraph 2(c) of SFAR No. 73 of this part and §61.56.
+\(B\) A person who is required to complete a flight review under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] between October 1, 2020 and January 31, 2021 may act as a pilot in command of a Robinson model R-22 or R-44 helicopter, as appropriate, for a duration of two calendar months from the month in which the flight review was due. Before acting as pilot in command of an aircraft in the third month after the month in which the flight review was due, the person must satisfactorily complete a flight review in a Robinson model R-22 or R-44 helicopter, as appropriate to the privileges sought, in accordance with paragraph 2(c) of SFAR No. 73 of this part and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].
 
 3\. *Duration and renewal requirements.*
 
 \(a\) *This Part.*
 
-\(1\) *Extension of medical certificate duration requirements.* (i) The expiration date of a first-, second-, or third-class medical certificate that expires between March 31, 2020 and January 31, 2021 is extended three calendar months from the duration established in §61.23(d) of this part as follows:
+\(1\) *Extension of medical certificate duration requirements.* (i) The expiration date of a first-, second-, or third-class medical certificate that expires between March 31, 2020 and January 31, 2021 is extended three calendar months from the duration established in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](d) of this part as follows:
 
 \(A\) For first-, second-, and third-class medical certificates that expire between March 31, 2020 and September 30, 2020, the expiration date is extended for three calendar months;
 
@@ -422,7 +422,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(C\) For first-, second-, and third-class medical certificates that expire between October 31, 2020 and January 31, 2021, the expiration date is extended for three calendar months if the holder of the medical certificate resides in or serves as a pilot of an aircraft in the State of Alaska.
 
-\(ii\) A certificate extended under this paragraph 3.(a)(1) is considered valid under §61.2(a)(5).
+\(ii\) A certificate extended under this paragraph 3.(a)(1) is considered valid under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.2   Exercise of Privilege.|§61.2]](a)(5).
 
 \(iii\) Unless otherwise prohibited by a foreign country, a person may operate outside of the United States under this paragraph 3.(a)(1) if the person—
 
@@ -430,19 +430,19 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) Presents a copy of this SFAR for inspection upon request by a foreign Civil Aviation Authority in accordance with the Convention on International Civil Aviation (Chicago Convention), and its Annexes.
 
-\(2\) *Extension of knowledge test duration requirements in §61.39.* An applicant for a certificate or rating issued under part 61 of this chapter may satisfy the eligibility requirement in §61.39(a)(1) by passing the required knowledge test:
+\(2\) *Extension of knowledge test duration requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.39   Prerequisites for practical tests.|§61.39]].* An applicant for a certificate or rating issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] may satisfy the eligibility requirement in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.39   Prerequisites for practical tests.|§61.39]](a)(1) by passing the required knowledge test:
 
 \(i\) Within the 27-calendar month period preceding the month the applicant completes the practical test, if a knowledge test is required, provided the knowledge test was passed between March 1, 2018 and September 30, 2018;
 
-\(ii\) Within the 63-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in §61.156 and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating, provided the knowledge test was passed between March 1, 2015 and September 30, 2015;
+\(ii\) Within the 63-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating, provided the knowledge test was passed between March 1, 2015 and September 30, 2015;
 
 \(iii\) Within the 26-calendar month period preceding the month the applicant completes the practical test, if a knowledge test is required, provided the knowledge test was passed between October 1, 2018 and January 31, 2019; or
 
-\(iv\) Within the 62-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in §61.156 and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating, provided the knowledge test was passed between October 1, 2015 and January 31, 2016.
+\(iv\) Within the 62-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating, provided the knowledge test was passed between October 1, 2015 and January 31, 2016.
 
-\(3\) *Extension of renewal requirements for flight instructor certification.* The holder of a flight instructor certificate that expires between March 31, 2020 and May 31, 2020 may renew his or her flight instructor certificate by submitting a completed and signed application to the FAA and satisfactorily completing one of the renewal requirements specified in §61.197(a)(2)(i) through (iv) before June 30, 2020.
+\(3\) *Extension of renewal requirements for flight instructor certification.* The holder of a flight instructor certificate that expires between March 31, 2020 and May 31, 2020 may renew his or her flight instructor certificate by submitting a completed and signed application to the FAA and satisfactorily completing one of the renewal requirements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]](a)(2)(i) through (iv) before June 30, 2020.
 
-\(b\) *Part 63 of this Chapter.*
+\(b\) *[[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|Part 63 of this Chapter]].*
 
 \(1\) *Extension of medical certificate duration requirements.* (i) For a person acting as a flight engineer of an aircraft, the expiration date of a second-class (or higher) medical certificate that expires between March 31, 2020 and September 30, 2020 is extended 3 calendar months from the original expiration date.
 
@@ -456,27 +456,27 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(B\) Presents a copy of this SFAR for inspection upon request by a foreign Civil Aviation Authority in accordance with the Convention on International Civil Aviation (Chicago Convention), and its Annexes.
 
-\(2\) *Extension of written test duration requirements in §63.35 of this chapter.* (i) An applicant for a flight engineer certificate or rating may satisfy the knowledge requirement in §63.35(d) of this chapter by passing the required written test within the 27-calendar month period preceding the month the applicant completes the practical test, provided the written test was passed between March 1, 2018 and September 30, 2018.
+\(2\) *Extension of written test duration requirements in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.35   Knowledge requirements.|§63.35]] of this chapter.* (i) An applicant for a flight engineer certificate or rating may satisfy the knowledge requirement in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.35   Knowledge requirements.|§63.35]](d) of this chapter by passing the required written test within the 27-calendar month period preceding the month the applicant completes the practical test, provided the written test was passed between March 1, 2018 and September 30, 2018.
 
-\(ii\) An applicant for a flight engineer certificate or rating may satisfy the knowledge requirement in §63.35(d) of this chapter by passing the required written test within the 26-calendar month period preceding the month the applicant completes the practical test, provided the written test was passed between October 1, 2018 and January 31, 2019.
+\(ii\) An applicant for a flight engineer certificate or rating may satisfy the knowledge requirement in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.35   Knowledge requirements.|§63.35]](d) of this chapter by passing the required written test within the 26-calendar month period preceding the month the applicant completes the practical test, provided the written test was passed between October 1, 2018 and January 31, 2019.
 
-\(c\) *Part 65 of this Chapter.*
+\(c\) *[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|Part 65 of this Chapter]].*
 
-\(1\) *Extension of knowledge test duration requirements in §65.55 of this chapter.* (i) An applicant for an aircraft dispatcher certificate may satisfy the knowledge requirement in §65.55(b) of this chapter by presenting satisfactory evidence that the applicant passed the knowledge test within the 27-calendar month period preceding the month the applicant completes the practical test, provided the knowledge test was passed between March 1, 2018 and September 30, 2018.
+\(1\) *Extension of knowledge test duration requirements in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.55   Knowledge requirements.|§65.55]] of this chapter.* (i) An applicant for an aircraft dispatcher certificate may satisfy the knowledge requirement in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.55   Knowledge requirements.|§65.55]](b) of this chapter by presenting satisfactory evidence that the applicant passed the knowledge test within the 27-calendar month period preceding the month the applicant completes the practical test, provided the knowledge test was passed between March 1, 2018 and September 30, 2018.
 
-\(ii\) An applicant for an aircraft dispatcher certificate may satisfy the knowledge requirement in §65.55(b) of this chapter by presenting satisfactory evidence that the applicant passed the knowledge test within the 26-calendar month period preceding the month the applicant completes the practical test, provided the knowledge test was passed between October 1, 2018 and January 31, 2019.
+\(ii\) An applicant for an aircraft dispatcher certificate may satisfy the knowledge requirement in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.55   Knowledge requirements.|§65.55]](b) of this chapter by presenting satisfactory evidence that the applicant passed the knowledge test within the 26-calendar month period preceding the month the applicant completes the practical test, provided the knowledge test was passed between October 1, 2018 and January 31, 2019.
 
-\(2\) *Extension of testing period in §65.71 of this chapter.* (i) A person may show eligibility for a mechanic certificate or rating under §65.71 of this chapter by passing all the prescribed tests of part 65, subpart D, of this chapter within a period of 27 months, provided the testing period began between March 1, 2018 and September 30, 2018.
+\(2\) *Extension of testing period in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.71   Eligibility requirements: General.|§65.71]] of this chapter.* (i) A person may show eligibility for a mechanic certificate or rating under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.71   Eligibility requirements: General.|§65.71]] of this chapter by passing all the prescribed tests of part 65, subpart D, of this chapter within a period of 27 months, provided the testing period began between March 1, 2018 and September 30, 2018.
 
-\(ii\) A person may show eligibility for a mechanic certificate or rating under §65.71 of this chapter by passing all the prescribed tests of part 65, subpart D, of this chapter within a period of 26 months, provided the testing period began between October 1, 2018 and January 31, 2019.
+\(ii\) A person may show eligibility for a mechanic certificate or rating under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.71   Eligibility requirements: General.|§65.71]] of this chapter by passing all the prescribed tests of part 65, subpart D, of this chapter within a period of 26 months, provided the testing period began between October 1, 2018 and January 31, 2019.
 
-\(3\) *Renewal of inspection authorizations in §65.93 of this chapter.*
+\(3\) *Renewal of inspection authorizations in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]] of this chapter.*
 
-\(i\) *Grace period for meeting renewal requirements.* Notwithstanding the requirement in §65.93(c) of this chapter, an inspection authorization holder who did not complete one of the activities in §65.93(a)(1) through (5) of this chapter by March 31, 2020 of the first year may still be eligible for renewal of an inspection authorization for a 2-year period in March 2021. To be eligible for renewal, the inspection authorization holder must show completion of one of the five activities in §65.93(a)(1) through (5) of this chapter by June 30, 2020, and completion of the one of the five activities in §65.93(a)(1) through (5) of this chapter during the second year of the 2-year period. A person who completes one of the five activities by June 30, 2020 will be considered to have completed the activity by March 31, 2020 of the first year for purposes of determining eligibility under §65.93 of this chapter.
+\(i\) *Grace period for meeting renewal requirements.* Notwithstanding the requirement in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](c) of this chapter, an inspection authorization holder who did not complete one of the activities in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a)(1) through (5) of this chapter by March 31, 2020 of the first year may still be eligible for renewal of an inspection authorization for a 2-year period in March 2021. To be eligible for renewal, the inspection authorization holder must show completion of one of the five activities in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a)(1) through (5) of this chapter by June 30, 2020, and completion of the one of the five activities in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a)(1) through (5) of this chapter during the second year of the 2-year period. A person who completes one of the five activities by June 30, 2020 will be considered to have completed the activity by March 31, 2020 of the first year for purposes of determining eligibility under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]] of this chapter.
 
-\(ii\) *Inspection authorization privileges after June 2020.* If the inspection authorization holder does not complete one of the five activities in §65.93(a)(1) through (5) of this chapter by June 30, 2020, the inspection authorization holder may not exercise inspection authorization privileges after June 30, 2020. The inspection authorization holder may resume exercising inspection authorization privileges only after passing an oral test from an FAA inspector in accordance with §65.93(c) of this chapter.
+\(ii\) *Inspection authorization privileges after June 2020.* If the inspection authorization holder does not complete one of the five activities in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a)(1) through (5) of this chapter by June 30, 2020, the inspection authorization holder may not exercise inspection authorization privileges after June 30, 2020. The inspection authorization holder may resume exercising inspection authorization privileges only after passing an oral test from an FAA inspector in accordance with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](c) of this chapter.
 
-\(4\) *Military riggers or former military riggers: Special certification rule of §65.117 of this chapter.* A person may satisfy the requirements of §65.117(a) and (b) of this chapter for a senior parachute rigger certificate by presenting satisfactory documentary evidence that the person was honorably discharged or released from any status covered by §65.117(a) of this chapter between March 2019 and June 2019, and has served as a parachute rigger for an Armed Force within the 15 months before the date of application.
+\(4\) *Military riggers or former military riggers: Special certification rule of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.117   Military riggers or former military riggers: Special certification rule.|§65.117]] of this chapter.* A person may satisfy the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.117   Military riggers or former military riggers: Special certification rule.|§65.117]](a) and (b) of this chapter for a senior parachute rigger certificate by presenting satisfactory documentary evidence that the person was honorably discharged or released from any status covered by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.117   Military riggers or former military riggers: Special certification rule.|§65.117]](a) of this chapter between March 2019 and June 2019, and has served as a parachute rigger for an Armed Force within the 15 months before the date of application.
 
 \(d\) *Relief for U.S. Military and Civilian Personnel Who are Assigned Outside the United States in Support of U.S. Armed Forces Operations.* Notwithstanding the six calendar month period specified in paragraph 2 of SFAR No. 100-2 of this part, a person may exercise the relief specified in paragraph 1 of SFAR No. 100-2 for a duration of nine calendar months after returning to the United States, provided the person—
 
@@ -486,13 +486,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(iii\) Returned to the United States from deployment between October 2019 and March 2020.
 
-\(e\) *Part 141 of this Chapter.*
+\(e\) *[[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md|Part 141 of this Chapter]].*
 
-\(1\) *Pilot school certificate requirements of §141.5 of this chapter.*
+\(1\) *Pilot school certificate requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]] of this chapter.*
 
-\(i\) *Provisional pilot school.* Notwithstanding the period specified in §141.5 of this chapter, a provisional pilot school may apply for, and the FAA may issue, a pilot school certificate with the appropriate ratings if the following requirements are met—
+\(i\) *Provisional pilot school.* Notwithstanding the period specified in [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]] of this chapter, a provisional pilot school may apply for, and the FAA may issue, a pilot school certificate with the appropriate ratings if the following requirements are met—
 
-\(A\) The provisional pilot school must satisfy the requirements of §141.5(a) through (e) of this chapter before December 31, 2020;
+\(A\) The provisional pilot school must satisfy the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]](a) through (e) of this chapter before December 31, 2020;
 
 \(B\) The provisional pilot school certificate must expire between April 2020 and June 2020; and
 
@@ -502,17 +502,17 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 \(A\) The provisional pilot school must notify its responsible Flight Standards office that it is applying for a pilot school certificate in accordance with this SFAR.
 
-\(B\) Each provisional pilot school must include in its notification an acceptable plan that explains the method to meet the requirements of §141.5(d) and (e) of this chapter, including—
+\(B\) Each provisional pilot school must include in its notification an acceptable plan that explains the method to meet the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]](d) and (e) of this chapter, including—
 
 (*1*) Ensuring each instructor used for ground or flight training is current and proficient; and
 
 (*2*) Evaluating students to determine if they are assigned to the proper stage of the training course and if additional training is necessary.
 
-\(2\) *Renewal of certificates and ratings in §141.27 of this Chapter.*
+\(2\) *Renewal of certificates and ratings in [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.27   Renewal of certificates and ratings.|§141.27]] of this Chapter.*
 
 \(i\) *Pilot school.* A pilot school may apply for renewal of its pilot school certificate and ratings after the expiration of its pilot schools certificate, provided the school applies for renewal before December 31, 2020 and the following requirements are met—
 
-\(A\) The pilot school must meet §141.27(a)(2) of this chapter before December 31, 2020;
+\(A\) The pilot school must meet [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.27   Renewal of certificates and ratings.|§141.27]](a)(2) of this chapter before December 31, 2020;
 
 \(B\) The pilot school certificate must expire between April 2020 and June 2020; and
 
@@ -528,9 +528,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.61](https://www.ecfr.
 
 (*2*) Evaluating students to determine if they are assigned to the proper stage of the training course and if additional training is necessary.
 
-4\. *Other relief for special flight permits issued under §21.197(c) of this chapter.* In addition to the purposes specified in §21.197(c) of this chapter, notwithstanding §§119.5(l) and 91.1015(a) of this chapter, a special flight permit with a continuing authorization may be issued under §21.197(c) of this chapter through March 31, 2021, for aircraft that may not meet applicable airworthiness requirements, but are capable of safe flight for the purpose of flying the aircraft to a point of storage, provided the following requirements are met—
+4\. *Other relief for special flight permits issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c) of this chapter.* In addition to the purposes specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c) of this chapter, notwithstanding §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.5   Certifications, authorizations, and prohibitions.|§119.5]](l) and 91.1015(a) of this chapter, a special flight permit with a continuing authorization may be issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c) of this chapter through March 31, 2021, for aircraft that may not meet applicable airworthiness requirements, but are capable of safe flight for the purpose of flying the aircraft to a point of storage, provided the following requirements are met—
 
-\(a\) The air carrier or operator must hold a special flight permit with continuing authorization to conduct a ferry flight program issued under §21.197(c) of this chapter; and
+\(a\) The air carrier or operator must hold a special flight permit with continuing authorization to conduct a ferry flight program issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c) of this chapter; and
 
 \(b\) The certificate holder or management specification holder must notify the responsible Flight Standards office each time the special flight permit is used for the purpose of flying the aircraft to a point of storage.
 
@@ -550,7 +550,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 ### §61.1   Applicability and definitions.
 
-\(a\) Except as provided in part 107 of this chapter, this part prescribes:
+\(a\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]], this part prescribes:
 
 \(1\) The requirements for issuing pilot, flight instructor, and ground instructor certificates and ratings; the conditions under which those certificates and ratings are necessary; and the privileges and limitations of those certificates and ratings.
 
@@ -566,9 +566,9 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 *Authorized instructor* means—
 
-\(i\) A person who holds a ground instructor certificate issued under part 61 of this chapter and is in compliance with §61.217, when conducting ground training in accordance with the privileges and limitations of his or her ground instructor certificate;
+\(i\) A person who holds a ground instructor certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and is in compliance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.217   Recent experience requirements.|§61.217]], when conducting ground training in accordance with the privileges and limitations of his or her ground instructor certificate;
 
-\(ii\) A person who holds a flight instructor certificate issued under part 61 of this chapter and is in compliance with §61.197, when conducting ground training or flight training in accordance with the privileges and limitations of his or her flight instructor certificate; or
+\(ii\) A person who holds a flight instructor certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and is in compliance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]], when conducting ground training or flight training in accordance with the privileges and limitations of his or her flight instructor certificate; or
 
 \(iii\) A person authorized by the Administrator to provide ground training or flight training under part 61, 121, 135, or 142 of this chapter when conducting ground training or flight training in accordance with that authority.
 
@@ -588,7 +588,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(D\) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems to navigate to the landing point.
 
-\(ii\) For the purpose of meeting the aeronautical experience requirements (except for a rotorcraft category rating), for a private pilot certificate (except for a powered parachute category rating), a commercial pilot certificate, or an instrument rating, or for the purpose of exercising recreational pilot privileges (except in a rotorcraft) under §61.101 (c), time acquired during a flight—
+\(ii\) For the purpose of meeting the aeronautical experience requirements (except for a rotorcraft category rating), for a private pilot certificate (except for a powered parachute category rating), a commercial pilot certificate, or an instrument rating, or for the purpose of exercising recreational pilot privileges (except in a rotorcraft) under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.101   Recreational pilot privileges and limitations.|§61.101]] (c), time acquired during a flight—
 
 \(A\) Conducted in an appropriate aircraft;
 
@@ -608,7 +608,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(B\) Involves, as applicable, the use of dead reckoning; pilotage; electronic navigation aids; radio aids; or other navigation systems to navigate to the landing point.
 
-\(v\) For the purpose of meeting the aeronautical experience requirements for any pilot certificate with a rotorcraft category rating or an instrument-helicopter rating, or for the purpose of exercising recreational pilot privileges, in a rotorcraft, under §61.101(c), time acquired during a flight—
+\(v\) For the purpose of meeting the aeronautical experience requirements for any pilot certificate with a rotorcraft category rating or an instrument-helicopter rating, or for the purpose of exercising recreational pilot privileges, in a rotorcraft, under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.101   Recreational pilot privileges and limitations.|§61.101]](c), time acquired during a flight—
 
 \(A\) Conducted in an appropriate aircraft;
 
@@ -624,7 +624,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(C\) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems.
 
-\(vii\) For a military pilot who qualifies for a commercial pilot certificate (except with a rotorcraft category rating) under §61.73 of this part, time acquired during a flight—
+\(vii\) For a military pilot who qualifies for a commercial pilot certificate (except with a rotorcraft category rating) under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]] of this part, time acquired during a flight—
 
 \(A\) Conducted in an appropriate aircraft;
 
@@ -640,7 +640,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 *Institution of higher education* has the same meaning as defined by the Department of Education in 34 CFR 600.4.
 
-*Instrument approach* means an approach procedure defined in part 97 of this chapter.
+*Instrument approach* means an approach procedure defined in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]].
 
 *Instrument training* means that time in which instrument training is received from an authorized instructor under actual or simulated instrument conditions.
 
@@ -660,7 +660,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(iii\) Gives training as an authorized instructor in an aircraft, full flight simulator, flight training device, or aviation training device; or
 
-\(iv\) Serves as second in command in operations conducted in accordance with §135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in §61.159(c) are satisfied.
+\(iv\) Serves as second in command in operations conducted in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.99   Composition of flight crew.|§135.99]](c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]](c) are satisfied.
 
 *Practical test* means a test on the areas of operations for an airman certificate, rating, or authorization that is conducted by having the applicant respond to questions and demonstrate maneuvers in flight, in a flight simulator, or in a flight training device.
 
@@ -670,7 +670,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(i\) To exercise student pilot privileges from a certificated flight instructor with a sport pilot rating; or
 
-\(ii\) That includes a limitation for the operation of a light-sport aircraft specified in §61.89(c) issued by a certificated flight instructor with other than a sport pilot rating.
+\(ii\) That includes a limitation for the operation of a light-sport aircraft specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.89   General limitations.|§61.89]](c) issued by a certificated flight instructor with other than a sport pilot rating.
 
 *Technically advanced airplane (TAA)* means an airplane equipped with an electronically advanced avionics system.
 
@@ -692,11 +692,11 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(2\) Exercise privileges of a flight instructor certificate if that flight instructor certificate is surrendered, suspended, revoked or expired.
 
-\(3\) Exercise privileges of a foreign pilot certificate to operate an aircraft of foreign registry under §61.3(b) if the certificate is surrendered, suspended, revoked or expired.
+\(3\) Exercise privileges of a foreign pilot certificate to operate an aircraft of foreign registry under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.3   Requirement for certificates, ratings, and authorizations.|§61.3]](b) if the certificate is surrendered, suspended, revoked or expired.
 
-\(4\) Exercise privileges of a pilot certificate issued under §61.75, or an authorization issued under §61.77, if the foreign pilot certificate relied upon for the issuance of the U.S. pilot certificate or authorization is surrendered, suspended, revoked or expired.
+\(4\) Exercise privileges of a pilot certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.75   Private pilot certificate issued on the basis of a foreign pilot license.|§61.75]], or an authorization issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.77   Special purpose pilot authorization: Operation of a civil aircraft of the United States and leased by a non-U.S. citizen.|§61.77]], if the foreign pilot certificate relied upon for the issuance of the U.S. pilot certificate or authorization is surrendered, suspended, revoked or expired.
 
-\(5\) Exercise privileges of a medical certificate issued under part 67 to meet any requirements of part 61 if the medical certificate is surrendered, suspended, revoked or expired according to the duration standards set forth in §61.23(d).
+\(5\) Exercise privileges of a medical certificate issued under part 67 to meet any requirements of part 61 if the medical certificate is surrendered, suspended, revoked or expired according to the duration standards set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](d).
 
 \(6\) Use an official government issued driver's license to meet any requirements of part 61 related to holding that driver's license, if the driver's license is surrendered, suspended, revoked or expired.
 
@@ -704,7 +704,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(1\) Exercise privileges of an airman certificate, rating, endorsement, or authorization issued under this part unless that person meets the appropriate airman and medical recency requirements of this part, specific to the operation or activity.
 
-\(2\) Exercise privileges of a foreign pilot license within the United States to conduct an operation described in §61.3(b), unless that person meets the appropriate airman and medical recency requirements of the country that issued the license, specific to the operation.
+\(2\) Exercise privileges of a foreign pilot license within the United States to conduct an operation described in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.3   Requirement for certificates, ratings, and authorizations.|§61.3]](b), unless that person meets the appropriate airman and medical recency requirements of the country that issued the license, specific to the operation.
 
 \[Doc. No. FAA-2006-26661, 74 FR 42546, Aug. 21, 2009\]
 
@@ -714,13 +714,13 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(1\) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—
 
-\(i\) A pilot certificate issued under this part and in accordance with §61.19;
+\(i\) A pilot certificate issued under this part and in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.19   Duration of pilot and instructor certificates and privileges.|§61.19]];
 
-\(ii\) A special purpose pilot authorization issued under §61.77;
+\(ii\) A special purpose pilot authorization issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.77   Special purpose pilot authorization: Operation of a civil aircraft of the United States and leased by a non-U.S. citizen.|§61.77]];
 
-\(iii\) A temporary certificate issued under §61.17;
+\(iii\) A temporary certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.17   Temporary certificate.|§61.17]];
 
-\(iv\) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under §61.29(e);
+\(iv\) A document conveying temporary authority to exercise certificate privileges issued by the Airmen Certification Branch under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.29   Replacement of a lost or destroyed airman or medical certificate or knowledge test report.|§61.29]](e);
 
 \(v\) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 or 135 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan;
 
@@ -744,11 +744,11 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(b\) *Required pilot certificate for operating a foreign-registered aircraft within the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of foreign registry within the United States, unless—
 
-\(1\) That person's pilot certificate or document issued under §61.29(e) is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate; and
+\(1\) That person's pilot certificate or document issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.29   Replacement of a lost or destroyed airman or medical certificate or knowledge test report.|§61.29]](e) is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate; and
 
 \(2\) Has been issued in accordance with this part, or has been issued or validated by the country in which the aircraft is registered.
 
-\(c\) *Medical certificate.* (1) A person may serve as a required pilot flight crewmember of an aircraft only if that person holds the appropriate medical certificate issued under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft. Paragraph (c)(2) of this section provides certain exceptions to the requirement to hold a medical certificate.
+\(c\) *Medical certificate.* (1) A person may serve as a required pilot flight crewmember of an aircraft only if that person holds the appropriate medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]], or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft. Paragraph (c)(2) of this section provides certain exceptions to the requirement to hold a medical certificate.
 
 \(2\) A person is not required to meet the requirements of paragraph (c)(1) of this section if that person—
 
@@ -776,13 +776,13 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(x\) Is operating an aircraft within a foreign country using a pilot license issued by that country and possesses evidence of current medical qualification for that license;
 
-\(xi\) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under §61.75, and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate;
+\(xi\) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.75   Private pilot certificate issued on the basis of a foreign pilot license.|§61.75]], and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate;
 
 \(xii\) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status;
 
-\(xiii\) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in §61.113(i) and holds a U.S. driver's license; or
+\(xiii\) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) and holds a U.S. driver's license; or
 
-\(xiv\) Is exercising the privileges of a flight instructor certificate and acting as pilot in command for operations conducted under the conditions and limitations set forth in §61.113(i) and holds a U.S. driver's license.
+\(xiv\) Is exercising the privileges of a flight instructor certificate and acting as pilot in command for operations conducted under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) and holds a U.S. driver's license.
 
 \(d\) *Flight instructor certificate.* (1) A person who holds a flight instructor certificate issued under this part must have that certificate, or other documentation acceptable to the Administrator, in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that flight instructor certificate.
 
@@ -806,13 +806,13 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(i\) Under paragraph (d)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft;
 
-\(ii\) Under paragraph (d)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter;
+\(ii\) Under paragraph (d)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]];
 
-\(iii\) Under paragraph (d)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program;
+\(iii\) Under paragraph (d)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]], provided the training is conducted in accordance with an approved part 142 training program;
 
 \(iv\) Under paragraphs (d)(2)(i), (d)(2)(ii)(C), and (d)(2)(iii) of this section, if the training is given by the holder of a ground instructor certificate in accordance with the privileges of the certificate; or
 
-\(v\) Under paragraph (d)(2)(iii) of this section, if the training is given by an authorized flight instructor under §61.41 of this part.
+\(v\) Under paragraph (d)(2)(iii) of this section, if the training is given by an authorized flight instructor under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.41   Flight training received from flight instructors not certificated by the FAA.|§61.41]] of this part.
 
 \(e\) *Instrument rating.* No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds:
 
@@ -856,13 +856,13 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(iii\) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category III operations.
 
-\(h\) *Category A aircraft pilot authorization.* The Administrator may issue a certificate of authorization for a Category II or Category III operation to the pilot of a small aircraft that is a Category A aircraft, as identified in §97.3(b)(1) of this chapter if:
+\(h\) *Category A aircraft pilot authorization.* The Administrator may issue a certificate of authorization for a Category II or Category III operation to the pilot of a small aircraft that is a Category A aircraft, as identified in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md#§97.3   Symbols and terms used in procedures.|§97.3]](b)(1) of this chapter if:
 
 \(1\) The Administrator determines that the Category II or Category III operation can be performed safely by that pilot under the terms of the certificate of authorization; and
 
 \(2\) The Category II or Category III operation does not involve the carriage of persons or property for compensation or hire.
 
-\(i\) *Ground instructor certificate.* (1) Each person who holds a ground instructor certificate issued under this part must have that certificate or a temporary document issued under §61.29(e) in that person's physical possession or immediately accessible when exercising the privileges of that certificate.
+\(i\) *Ground instructor certificate.* (1) Each person who holds a ground instructor certificate issued under this part must have that certificate or a temporary document issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.29   Replacement of a lost or destroyed airman or medical certificate or knowledge test report.|§61.29]](e) in that person's physical possession or immediately accessible when exercising the privileges of that certificate.
 
 \(2\) Except as provided in paragraph (i)(3) of this section, no person other than the holder of a ground instructor certificate, issued under this part or part 143, with the appropriate rating on that certificate may—
 
@@ -878,11 +878,11 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(ii\) Under paragraph (i)(2) of this section, if the training is given by the holder of a commercial pilot certificate with a lighter-than-air rating, provided the training is given in accordance with the privileges of the certificate in a lighter-than-air aircraft;
 
-\(iii\) Under paragraph (i)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or part 135 of this chapter;
+\(iii\) Under paragraph (i)(2) of this section, if the training is given by the holder of an airline transport pilot certificate with a rating appropriate to the aircraft in which the training is given, provided the training is given in accordance with the privileges of the certificate and conducted in accordance with an approved air carrier training program approved under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]];
 
-\(iv\) Under paragraph (i)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of part 142 of this chapter, provided the training is conducted in accordance with an approved part 142 training program; or
+\(iv\) Under paragraph (i)(2) of this section, if the training is given by a person who is qualified in accordance with subpart C of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]], provided the training is conducted in accordance with an approved part 142 training program; or
 
-\(v\) Under paragraph (i)(2)(iii) of this section, if the training is given by an authorized flight instructor under §61.41 of this part.
+\(v\) Under paragraph (i)(2)(iii) of this section, if the training is given by an authorized flight instructor under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.41   Flight training received from flight instructors not certificated by the FAA.|§61.41]] of this part.
 
 \(j\) *Age limitation for certain operations.* (1) *Age limitation.* No person who holds a pilot certificate issued under this part may serve as a pilot on a civil airplane of U.S. registry in the following operations if the person has reached his or her 60th birthday or, in the case of operations with more than one pilot, his or her 65th birthday:
 
@@ -898,9 +898,9 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 \(ii\) “International air transportation,” as used in this paragraph (j), means air transportation performed in airplanes for the public transport of passengers, mail, or cargo, in which the service passes through the airspace over the territory of more than one country.
 
-\(k\) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with §61.77 of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization.
+\(k\) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.77   Special purpose pilot authorization: Operation of a civil aircraft of the United States and leased by a non-U.S. citizen.|§61.77]] of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization.
 
-\(l\) *Inspection of certificate.* Each person who holds an airman certificate, temporary document in accordance with paragraph (a)(1)(v) or (vi) of this section, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
+\(l\) *Inspection of certificate.* Each person who holds an airman certificate, temporary document in accordance with paragraph (a)(1)(v) or (vi) of this section, medical certificate, documents establishing alternative medical qualification under [[Volume 2/D Airmen/0068 Requirements for operating certain small aircraft without a medical certificate.md|part 68 of this chapter]], authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
 
 \(1\) The Administrator;
 
@@ -1080,7 +1080,7 @@ Effective Date Note: Doc. No. FAA-2020-0446; Amdt. No. 61-147, 85 FR 62966, Oct.
 
 ### §61.8   Inapplicability of unmanned aircraft operations.
 
-Any action conducted pursuant to part 107 of this chapter cannot be used to meet the requirements of this part.
+Any action conducted pursuant to [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]] cannot be used to meet the requirements of this part.
 
 \[FAA-2020-1067, Amdt. Nos. 61-148, 85 FR 79823, Dec. 11, 2020\]
 
@@ -1110,7 +1110,7 @@ Any action conducted pursuant to part 107 of this chapter cannot be used to meet
 
 \(a\) *Application.* (1) An applicant for an airman certificate, rating, or authorization under this part must make that application on a form and in a manner acceptable to the Administrator.
 
-\(2\) An applicant must show evidence that the appropriate fee prescribed in appendix A to part 187 of this chapter has been paid when that person applies for airmen certification services administered outside the United States.
+\(2\) An applicant must show evidence that the appropriate fee prescribed in appendix A to [[Volume 3/K Administrative regulations/0187 Fees.md|part 187 of this chapter]] has been paid when that person applies for airmen certification services administered outside the United States.
 
 \(3\) An applicant who is neither a citizen of the United States nor a resident alien of the United States may be refused issuance of any U.S. airman certificate, rating or authorization by the Administrator.
 
@@ -1158,7 +1158,7 @@ Any action conducted pursuant to part 107 of this chapter cannot be used to meet
 
 \(2\) Suspension or revocation of any certificate, rating, or authorization issued under this part.
 
-\(b\) Committing an act prohibited by §91.17(a) or §91.19(a) of this chapter is grounds for:
+\(b\) Committing an act prohibited by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]](a) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter is grounds for:
 
 \(1\) Denial of an application for a certificate, rating, or authorization issued under this part for a period of up to 1 year after the date of that act; or
 
@@ -1198,7 +1198,7 @@ Any action conducted pursuant to part 107 of this chapter cannot be used to meet
 
 ### §61.16   Refusal to submit to an alcohol test or to furnish test results.
 
-A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with §91.17(c) of this chapter, or a refusal to furnish or authorize the release of the test results requested by the Administrator in accordance with §91.17(c) or (d) of this chapter, is grounds for:
+A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]](c) of this chapter, or a refusal to furnish or authorize the release of the test results requested by the Administrator in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]](c) or (d) of this chapter, is grounds for:
 
 \(a\) Denial of an application for any certificate, rating, or authorization issued under this part for a period of up to 1 year after the date of that refusal; or
 
@@ -1236,13 +1236,13 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 \(2\) The holder of a pilot certificate issued on the basis of a foreign pilot license may exercise the privileges of that certificate only while that person's foreign pilot license is effective.
 
-\(d\) *Flight instructor certificate.* Except as specified in §61.197(b), a flight instructor certificate expires 24 calendar months from the month in which it was issued, renewed, or reinstated, as appropriate.
+\(d\) *Flight instructor certificate.* Except as specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]](b), a flight instructor certificate expires 24 calendar months from the month in which it was issued, renewed, or reinstated, as appropriate.
 
 \(e\) *Ground instructor certificate.* A ground instructor certificate is issued without a specific expiration date.
 
 \(f\) *Return of certificates.* The holder of any airman certificate that is issued under this part, and that has been suspended or revoked, must return that certificate to the FAA when requested to do so by the Administrator.
 
-\(g\) *Duration of pilot certificates.* Except for a temporary certificate issued under §61.17 or a student pilot certificate issued under paragraph (b) of this section, the holder of a paper pilot certificate issued under this part may not exercise the privileges of that certificate after March 31, 2010.
+\(g\) *Duration of pilot certificates.* Except for a temporary certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.17   Temporary certificate.|§61.17]] or a student pilot certificate issued under paragraph (b) of this section, the holder of a paper pilot certificate issued under this part may not exercise the privileges of that certificate after March 31, 2010.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-118, 73 FR 10668, Feb. 28, 2008; Amdt. 61-124, 74 FR 42547, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016\]
 
@@ -1264,23 +1264,23 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 \(i\) When exercising the pilot-in-command privileges of an airline transport pilot certificate;
 
-\(ii\) When exercising the second-in-command privileges of an airline transport pilot certificate in a flag or supplemental operation in part 121 of this chapter that requires three or more pilots; or
+\(ii\) When exercising the second-in-command privileges of an airline transport pilot certificate in a flag or supplemental operation in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] that requires three or more pilots; or
 
-\(iii\) When serving as a required pilot flightcrew member in an operation conducted under part 121 of this chapter if the pilot has reached his or her 60th birthday.
+\(iii\) When serving as a required pilot flightcrew member in an operation conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] if the pilot has reached his or her 60th birthday.
 
 \(2\) Must hold at least a second class medical certificate when exercising:
 
-\(i\) Second-in-command privileges of an airline transport pilot certificate in part 121 of this chapter (other than operations specified in paragraph (a)(1)(ii) of this section); or
+\(i\) Second-in-command privileges of an airline transport pilot certificate in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] (other than operations specified in paragraph (a)(1)(ii) of this section); or
 
 \(ii\) Privileges of a commercial pilot certificate; or
 
 \(3\) Must hold at least a third-class medical certificate—
 
-\(i\) When exercising the privileges of a private pilot certificate, recreational pilot certificate, or student pilot certificate, except when operating under the conditions and limitations set forth in §61.113(i);
+\(i\) When exercising the privileges of a private pilot certificate, recreational pilot certificate, or student pilot certificate, except when operating under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i);
 
-\(ii\) When exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flightcrew member, except when operating under the conditions and limitations set forth in §61.113(i);
+\(ii\) When exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flightcrew member, except when operating under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i);
 
-\(iii\) When taking a practical test in an aircraft for a recreational pilot, private pilot, commercial pilot, or airline transport pilot certificate, or for a flight instructor certificate, except when operating under the conditions and limitations set forth in §61.113(i); or
+\(iii\) When taking a practical test in an aircraft for a recreational pilot, private pilot, commercial pilot, or airline transport pilot certificate, or for a flight instructor certificate, except when operating under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i); or
 
 \(iv\) When performing the duties as an Examiner in an aircraft when administering a practical test or proficiency check for an airman certificate, rating, or authorization.
 
@@ -1316,7 +1316,7 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 \(ii\) The flight conducted is a domestic flight operation within U.S. airspace.
 
-\(c\) *Operations requiring either a medical certificate or U.S. driver's license.* (1) A person must hold and possess either a medical certificate issued under part 67 of this chapter or a U.S. driver's license when—
+\(c\) *Operations requiring either a medical certificate or U.S. driver's license.* (1) A person must hold and possess either a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] or a U.S. driver's license when—
 
 \(i\) Exercising the privileges of a student pilot certificate while seeking sport pilot privileges in a light-sport aircraft other than a glider or balloon;
 
@@ -1326,9 +1326,9 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 \(iv\) Serving as an Examiner and administering a practical test for the issuance of a sport pilot certificate in a light-sport aircraft other than a glider or balloon;
 
-\(v\) Exercising the privileges of a student, recreational or private pilot certificate if the flight is conducted under the conditions and limitations set forth in §61.113(i); or
+\(v\) Exercising the privileges of a student, recreational or private pilot certificate if the flight is conducted under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i); or
 
-\(vi\) Exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flight crewmember if the flight is conducted under the conditions and limitations set forth in §61.113(i).
+\(vi\) Exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flight crewmember if the flight is conducted under the conditions and limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i).
 
 \(2\) A person using a U.S. driver's license to meet the requirements of paragraph (c) while exercising sport pilot privileges must—
 
@@ -1340,19 +1340,19 @@ A refusal to submit to a test to indicate the percentage by weight of alcohol in
 
 \(iv\) Not know or have reason to know of any medical condition that would make that person unable to operate a light-sport aircraft in a safe manner.
 
-\(3\) A person using a U.S. driver's license to meet the requirements of paragraph (c) while operating under the conditions and limitations of §61.113(i) must meet the following requirements—
+\(3\) A person using a U.S. driver's license to meet the requirements of paragraph (c) while operating under the conditions and limitations of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) must meet the following requirements—
 
 \(i\) The person must—
 
 \(A\) Comply with all medical requirements or restrictions associated with his or her U.S. driver's license;
 
-\(B\) At any point after July 14, 2006, have held a medical certificate issued under part 67 of this chapter;
+\(B\) At any point after July 14, 2006, have held a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]];
 
-\(C\) Complete the medical education course set forth in §68.3 of this chapter during the 24-calendar months before acting as pilot in command in an operation conducted under §61.113(i) and retain a certification of course completion in accordance with §68.3(b)(1) of this chapter;
+\(C\) Complete the medical education course set forth in [[Volume 2/D Airmen/0068 Requirements for operating certain small aircraft without a medical certificate.md#§68.3   Medical education course requirements.|§68.3]] of this chapter during the 24-calendar months before acting as pilot in command in an operation conducted under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) and retain a certification of course completion in accordance with [[Volume 2/D Airmen/0068 Requirements for operating certain small aircraft without a medical certificate.md#§68.3   Medical education course requirements.|§68.3]](b)(1) of this chapter;
 
-\(D\) Receive a comprehensive medical examination from a State-licensed physician during the 48 months before acting as pilot in command of an operation conducted under §61.113(i) and that medical examination is conducted in accordance with the requirements in part 68 of this chapter; and
+\(D\) Receive a comprehensive medical examination from a State-licensed physician during the 48 months before acting as pilot in command of an operation conducted under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) and that medical examination is conducted in accordance with the requirements in [[Volume 2/D Airmen/0068 Requirements for operating certain small aircraft without a medical certificate.md|part 68 of this chapter]]; and
 
-\(E\) If the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly, be under the care and treatment of a State-licensed physician when acting as pilot in command of an operation conducted under §61.113(i).
+\(E\) If the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly, be under the care and treatment of a State-licensed physician when acting as pilot in command of an operation conducted under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i).
 
 \(ii\) The most recently issued medical certificate—
 
@@ -1498,7 +1498,7 @@ requiring</th><th scope="col">Then your medical certificate expires, for that op
 
 \(i\) The person has logged flight time as pilot in command of a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997; or
 
-\(ii\) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under §135.293 of this chapter in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane which must be documented in the pilot's logbook or training record.
+\(ii\) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.293   Initial and recurrent pilot testing requirements.|§135.293]] of this chapter in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane which must be documented in the pilot's logbook or training record.
 
 \(f\) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has—
 
@@ -1510,7 +1510,7 @@ requiring</th><th scope="col">Then your medical certificate expires, for that op
 
 \(i\) The person has logged flight time as pilot in command of a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997; or
 
-\(ii\) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under §135.293 of this chapter in a high performance airplane, or in a full flight simulator or flight training device that is representative of a high performance airplane which must be documented in the pilot's logbook or training record.
+\(ii\) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.293   Initial and recurrent pilot testing requirements.|§135.293]] of this chapter in a high performance airplane, or in a full flight simulator or flight training device that is representative of a high performance airplane which must be documented in the pilot's logbook or training record.
 
 \(g\) *Additional training required for operating pressurized aircraft capable of operating at high altitudes.* (1) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft (an aircraft that has a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL), unless that person has received and logged ground training from an authorized instructor and obtained an endorsement in the person's logbook or training record from an authorized instructor who certifies the person has satisfactorily accomplished the ground training. The ground training must include at least the following subjects:
 
@@ -1602,7 +1602,7 @@ requiring</th><th scope="col">Then your medical certificate expires, for that op
 
 \(i\) A pilot proficiency check on night vision goggle operations conducted by the U.S. Armed Forces.
 
-\(ii\) A pilot proficiency check on night vision goggle operations under part 135 of this chapter conducted by an Examiner or Check Airman.
+\(ii\) A pilot proficiency check on night vision goggle operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] conducted by an Examiner or Check Airman.
 
 \(iii\) A pilot proficiency check on night vision goggle operations conducted by a night vision goggle manufacturer or authorized instructor, when the pilot—
 
@@ -1626,7 +1626,7 @@ requiring</th><th scope="col">Then your medical certificate expires, for that op
 
 \(iv\) The holder of a pilot certificate with a lighter-than-air category rating when operating a balloon;
 
-\(v\) The holder of a recreational pilot certificate operating under the provisions of §61.101(h); or
+\(v\) The holder of a recreational pilot certificate operating under the provisions of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.101   Recreational pilot privileges and limitations.|§61.101]](h); or
 
 \(vi\) The holder of a sport pilot certificate when operating a light-sport aircraft.
 
@@ -1642,7 +1642,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(1\) Received an endorsement, if required by this part, from an authorized instructor certifying that the applicant accomplished the appropriate ground-training or a home-study course required by this part for the certificate or rating sought and is prepared for the knowledge test;
 
-\(2\) After July 31, 2014, for the knowledge test for an airline transport pilot certificate with an airplane category multiengine class rating, a graduation certificate for the airline transport pilot certification training program specified in §61.156; and
+\(2\) After July 31, 2014, for the knowledge test for an airline transport pilot certificate with an airplane category multiengine class rating, a graduation certificate for the airline transport pilot certification training program specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]]; and
 
 \(3\) Proper identification at the time of application that contains the applicant's—
 
@@ -1654,9 +1654,9 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(A\) For issuance of certificates other than the ATP certificate with an airplane category multiengine class rating, the applicant meets or will meet the age requirements of this part for the certificate sought before the expiration date of the airman knowledge test report;
 
-\(B\) Prior to August 1, 2014, for issuance of an ATP certificate with an airplane category multiengine class rating under the aeronautical experience requirements of §§61.159 or 61.160, the applicant is at least 21 years of age at the time of the knowledge test; and
+\(B\) Prior to August 1, 2014, for issuance of an ATP certificate with an airplane category multiengine class rating under the aeronautical experience requirements of §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] or 61.160, the applicant is at least 21 years of age at the time of the knowledge test; and
 
-\(C\) After July 31, 2014, for issuance of an ATP certificate with an airplane category multiengine class rating obtained under the aeronautical experience requirements of §§61.159 or 61.160, the applicant is at least 18 years of age at the time of the knowledge test;
+\(C\) After July 31, 2014, for issuance of an ATP certificate with an airplane category multiengine class rating obtained under the aeronautical experience requirements of §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] or 61.160, the applicant is at least 18 years of age at the time of the knowledge test;
 
 \(iv\) If the permanent mailing address is a post office box number, then the applicant must provide a current residential address.
 
@@ -1698,11 +1698,11 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(i\) Within the 24-calendar-month period preceding the month the applicant completes the practical test, if a knowledge test is required; or
 
-\(ii\) Within the 60-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in §61.156 and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating after July 31, 2014;
+\(ii\) Within the 60-calendar month period preceding the month the applicant completes the practical test for those applicants who complete the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] and pass the knowledge test for an airline transport pilot certificate with a multiengine class rating after July 31, 2014;
 
 \(2\) Present the knowledge test report at the time of application for the practical test, if a knowledge test is required;
 
-\(3\) Have satisfactorily accomplished the required training and obtained the aeronautical experience prescribed by this part for the certificate or rating sought, and if applying for the practical test with flight time accomplished under §61.159(c), present a copy of the records required by §135.63(a)(4)(vi) and (x) of this chapter;
+\(3\) Have satisfactorily accomplished the required training and obtained the aeronautical experience prescribed by this part for the certificate or rating sought, and if applying for the practical test with flight time accomplished under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]](c), present a copy of the records required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.63   Recordkeeping requirements.|§135.63]](a)(4)(vi) and (x) of this chapter;
 
 \(4\) Hold at least a third-class medical certificate, if a medical certificate is required;
 
@@ -1722,7 +1722,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(1\) As a flightcrew member by a part 119 certificate holder conducting operations under parts 125 or 135 of this chapter at the time of the practical test and has satisfactorily accomplished that operator's approved pilot-in-command training or checking program; or
 
-\(2\) As a flightcrew member by a part 119 certificate holder conducting operations under part 121 of this chapter at the time of the practical test and has satisfactorily accomplished that operator's approved initial training program; or
+\(2\) As a flightcrew member by a part 119 certificate holder conducting operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] at the time of the practical test and has satisfactorily accomplished that operator's approved initial training program; or
 
 \(3\) By the U.S. Armed Forces as a flight crewmember in U.S. military air transport operations at the time of the practical test and has completed the pilot in command aircraft qualification training program that is appropriate to the pilot certificate and rating sought.
 
@@ -1734,11 +1734,11 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(d\) In addition to the requirements in paragraph (a) of this section, to be eligible for a practical test for an airline transport pilot certificate with an airplane category multiengine class rating or airline transport pilot certificate obtained concurrently with an airplane type rating, an applicant must:
 
-\(1\) If the applicant passed the knowledge test after July 31, 2014, present the graduation certificate for the airline transport pilot certification training program in §61.156, at the time of application for the practical test;
+\(1\) If the applicant passed the knowledge test after July 31, 2014, present the graduation certificate for the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]], at the time of application for the practical test;
 
-\(2\) If applying for the practical test under the aeronautical experience requirements of §61.160(a), the applicant must present the documents required by that section to substantiate eligibility; and
+\(2\) If applying for the practical test under the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]](a), the applicant must present the documents required by that section to substantiate eligibility; and
 
-\(3\) If applying for the practical test under the aeronautical experience requirements of §61.160(b), (c), or (d), the applicant must present an official transcript and certifying document from an institution of higher education that holds a letter of authorization from the Administrator under §61.169.
+\(3\) If applying for the practical test under the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]](b), (c), or (d), the applicant must present an official transcript and certifying document from an institution of higher education that holds a letter of authorization from the Administrator under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.169   Letters of authorization for institutions of higher education.|§61.169]].
 
 \(e\) A person is not required to comply with the provisions of paragraph (a)(6) of this section if that person:
 
@@ -1922,7 +1922,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(iv\) Type and identification of aircraft, full flight simulator, flight training device, or aviation training device, as appropriate.
 
-\(v\) The name of a safety pilot, if required by §91.109 of this chapter.
+\(v\) The name of a safety pilot, if required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.109   Flight instruction; Simulated instrument flight and certain flight tests.|§91.109]] of this chapter.
 
 \(2\) Type of pilot experience or training—
 
@@ -1956,7 +1956,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(e\) *Logging pilot-in-command flight time.* (1) A sport, recreational, private, commercial, or airline transport pilot may log pilot in command flight time for flights-
 
-\(i\) Except when logging flight time under §61.159(c), when the pilot is the sole manipulator of the controls of an aircraft for which the pilot is rated, or has sport pilot privileges for that category and class of aircraft, if the aircraft class rating is appropriate;
+\(i\) Except when logging flight time under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]](c), when the pilot is the sole manipulator of the controls of an aircraft for which the pilot is rated, or has sport pilot privileges for that category and class of aircraft, if the aircraft class rating is appropriate;
 
 \(ii\) When the pilot is the sole occupant in the aircraft;
 
@@ -2002,25 +2002,25 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(i\) Is the sole occupant of the aircraft or is performing the duties of pilot of command of an airship requiring more than one pilot flight crewmember;
 
-\(ii\) Has a solo flight endorsement as required under §61.87 of this part; and
+\(ii\) Has a solo flight endorsement as required under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] of this part; and
 
 \(iii\) Is undergoing training for a pilot certificate or rating.
 
-\(5\) A commercial pilot or airline transport pilot may log all flight time while acting as pilot in command of an operation in accordance with §135.99(c) of this chapter if the flight is conducted in accordance with an approved second-in-command professional development program that meets the requirements of §135.99(c) of this chapter.
+\(5\) A commercial pilot or airline transport pilot may log all flight time while acting as pilot in command of an operation in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.99   Composition of flight crew.|§135.99]](c) of this chapter if the flight is conducted in accordance with an approved second-in-command professional development program that meets the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.99   Composition of flight crew.|§135.99]](c) of this chapter.
 
 \(f\) *Logging second-in-command flight time.* A person may log second-in-command time only for that flight time during which that person:
 
-\(1\) Is qualified in accordance with the second-in-command requirements of §61.55, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate;
+\(1\) Is qualified in accordance with the second-in-command requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]], and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate;
 
 \(2\) Holds the appropriate category, class, and instrument rating (if an instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted; or
 
-\(3\) Serves as second in command in operations conducted in accordance with §135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in §61.159(c) are satisfied.
+\(3\) Serves as second in command in operations conducted in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.99   Composition of flight crew.|§135.99]](c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]](c) are satisfied.
 
 \(g\) *Logging instrument time.* (1) A person may log instrument time only for that flight time when the person operates the aircraft solely by reference to instruments under actual or simulated instrument flight conditions.
 
 \(2\) An authorized instructor may log instrument time when conducting instrument flight instruction in actual instrument flight conditions.
 
-\(3\) For the purposes of logging instrument time to meet the recent instrument experience requirements of §61.57(c) of this part, the following information must be recorded in the person's logbook—
+\(3\) For the purposes of logging instrument time to meet the recent instrument experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c) of this part, the following information must be recorded in the person's logbook—
 
 \(i\) The location and type of each instrument approach accomplished; and
 
@@ -2068,7 +2068,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(5\) A flight instructor with a sport pilot rating must carry his or her logbook or other evidence of required authorized instructor endorsements on all flights when providing flight training.
 
-\(j\) *Aircraft requirements for logging flight time.* For a person to log flight time, the time must be acquired in an aircraft that is identified as an aircraft under §61.5(b), and is—
+\(j\) *Aircraft requirements for logging flight time.* For a person to log flight time, the time must be acquired in an aircraft that is identified as an aircraft under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.5   Certificates and ratings issued under this part.|§61.5]](b), and is—
 
 \(1\) An aircraft of U.S. registry with either a standard or special airworthiness certificate;
 
@@ -2090,7 +2090,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(ii\) A full flight simulator or flight training device with the lighting system adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
 
-\(3\) To log night vision goggle time to meet the recent night vision goggle experience requirements under §61.57(f), a person must log the information required under §61.51(b).
+\(3\) To log night vision goggle time to meet the recent night vision goggle experience requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](f), a person must log the information required under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.51   Pilot logbooks.|§61.51]](b).
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018\]
 
@@ -2104,13 +2104,13 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(3\) A private pilot certificate with a weight-shift-control or powered parachute category rating.
 
-\(b\) Before January 31, 2012, a person may use aeronautical experience obtained in an ultralight vehicle to meet the provisions of §61.69.
+\(b\) Before January 31, 2012, a person may use aeronautical experience obtained in an ultralight vehicle to meet the provisions of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.69   Glider and unpowered ultralight vehicle towing: Experience and training requirements.|§61.69]].
 
 \(c\) A person using aeronautical experience obtained in an ultralight vehicle to meet the requirements for a certificate or rating specified in paragraph (a) of this section or the requirements of paragraph (b) of this section must—
 
 \(1\) Have been a registered ultralight pilot with an FAA-recognized ultralight organization when that aeronautical experience was obtained;
 
-\(2\) Document and log that aeronautical experience in accordance with the provisions for logging aeronautical experience specified by an FAA-recognized ultralight organization and in accordance with the provisions for logging pilot time in aircraft as specified in §61.51;
+\(2\) Document and log that aeronautical experience in accordance with the provisions for logging aeronautical experience specified by an FAA-recognized ultralight organization and in accordance with the provisions for logging pilot time in aircraft as specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.51   Pilot logbooks.|§61.51]];
 
 \(3\) Obtain the aeronautical experience in a category and class of vehicle corresponding to the rating or privilege sought; and
 
@@ -2124,17 +2124,17 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 ### §61.53   Prohibition on operations during medical deficiency.
 
-\(a\) *Operations that require a medical certificate.* Except as provided for in paragraph (b) of this section, no person who holds a medical certificate issued under part 67 of this chapter may act as pilot in command, or in any other capacity as a required pilot flight crewmember, while that person:
+\(a\) *Operations that require a medical certificate.* Except as provided for in paragraph (b) of this section, no person who holds a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] may act as pilot in command, or in any other capacity as a required pilot flight crewmember, while that person:
 
 \(1\) Knows or has reason to know of any medical condition that would make the person unable to meet the requirements for the medical certificate necessary for the pilot operation; or
 
 \(2\) Is taking medication or receiving other treatment for a medical condition that results in the person being unable to meet the requirements for the medical certificate necessary for the pilot operation.
 
-\(b\) *Operations that do not require a medical certificate.* For operations provided for in §61.23(b) of this part, a person shall not act as pilot in command, or in any other capacity as a required pilot flight crewmember, while that person knows or has reason to know of any medical condition that would make the person unable to operate the aircraft in a safe manner.
+\(b\) *Operations that do not require a medical certificate.* For operations provided for in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](b) of this part, a person shall not act as pilot in command, or in any other capacity as a required pilot flight crewmember, while that person knows or has reason to know of any medical condition that would make the person unable to operate the aircraft in a safe manner.
 
-\(c\) *Operations requiring a medical certificate or a U.S. driver's license.* For operations provided for in §61.23(c), a person must meet the provisions of—
+\(c\) *Operations requiring a medical certificate or a U.S. driver's license.* For operations provided for in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](c), a person must meet the provisions of—
 
-\(1\) Paragraph (a) of this section if that person holds a medical certificate issued under part 67 of this chapter and does not hold a U.S. driver's license.
+\(1\) Paragraph (a) of this section if that person holds a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] and does not hold a U.S. driver's license.
 
 \(2\) Paragraph (b) of this section if that person holds a U.S. driver's license.
 
@@ -2176,7 +2176,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(d\) A person may receive a second-in-command pilot type rating for an aircraft after satisfactorily completing the second-in-command familiarization training requirements under paragraph (b) of this section in that type of aircraft provided the training was completed within the 12 calendar months before the month of application for the SIC pilot type rating. The person must comply with the following application and pilot certification procedures:
 
-\(1\) The person who provided the training must sign the applicant's logbook or training record after each lesson in accordance with §61.51(h)(2) of this part. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's training records or logbook and make the required endorsement. The qualified management official must hold the position of Chief Pilot, Director of Training, Director of Operations, or another comparable management position within the organization that provided the training and must be in a position to verify the applicant's training records and that the training was given.
+\(1\) The person who provided the training must sign the applicant's logbook or training record after each lesson in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.51   Pilot logbooks.|§61.51]](h)(2) of this part. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's training records or logbook and make the required endorsement. The qualified management official must hold the position of Chief Pilot, Director of Training, Director of Operations, or another comparable management position within the organization that provided the training and must be in a position to verify the applicant's training records and that the training was given.
 
 \(2\) The trainer or qualified management official must make an endorsement in the applicant's logbook that states “\[Applicant's Name and Pilot Certificate Number\] has demonstrated the skill and knowledge required for the safe operation of the \[Type of Aircraft\], relevant to the duties and responsibilities of a second in command.”
 
@@ -2192,7 +2192,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(e\) A person may receive a second-in-command pilot type rating for the type of aircraft after satisfactorily completing an approved second-in-command training program, proficiency check, or competency check under subpart K of part 91, part 125, or part 135, as appropriate, in that type of aircraft provided the training was completed within the 12 calendar months before the month of application for the SIC pilot type rating. The person must comply with the following application and pilot certification procedures:
 
-\(1\) The person who provided the training must sign the applicant's logbook or training record after each lesson in accordance with §61.51(h)(2) of this part. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's training records or logbook and make the required endorsement. The qualified management official must hold the position of Chief Pilot, Director of Training, Director of Operations, or another comparable management position within the organization that provided the training and must be in a position to verify the applicant's training records and that the training was given.
+\(1\) The person who provided the training must sign the applicant's logbook or training record after each lesson in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.51   Pilot logbooks.|§61.51]](h)(2) of this part. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's training records or logbook and make the required endorsement. The qualified management official must hold the position of Chief Pilot, Director of Training, Director of Operations, or another comparable management position within the organization that provided the training and must be in a position to verify the applicant's training records and that the training was given.
 
 \(2\) The trainer or qualified management official must make an endorsement in the applicant's logbook that states “\[Applicant's Name and Pilot Certificate Number\] has demonstrated the skill and knowledge required for the safe operation of the \[Type of Aircraft\], relevant to the duties and responsibilities of a second in command.”
 
@@ -2214,7 +2214,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(3\) Designated as the second in command in that specific type of aircraft for the purpose of receiving flight training required by this section, and no passengers or cargo are carried on the aircraft; or
 
-\(4\) Designated as a safety pilot for purposes required by §91.109 of this chapter.
+\(4\) Designated as a safety pilot for purposes required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.109   Flight instruction; Simulated instrument flight and certain flight tests.|§91.109]] of this chapter.
 
 \(g\) The holder of a commercial or airline transport pilot certificate with the appropriate category and class rating is not required to meet the requirements of paragraph (b)(2) of this section, provided the pilot:
 
@@ -2228,7 +2228,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(2\) No person or property is carried on board the aircraft, other than necessary for conduct of the flight.
 
-\(i\) The training under paragraphs (b) and (d) of this section and the training, proficiency check, and competency check under paragraph (e) of this section may be accomplished in a flight simulator that is used in accordance with an approved training course conducted by a training center certificated under part 142 of this chapter or under subpart K of part 91, part 121 or part 135 of this chapter.
+\(i\) The training under paragraphs (b) and (d) of this section and the training, proficiency check, and competency check under paragraph (e) of this section may be accomplished in a flight simulator that is used in accordance with an approved training course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] or under subpart K of part 91, part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
 \(j\) When an applicant for an initial second-in-command qualification for a particular type of aircraft receives all the training in a flight simulator, that applicant must satisfactorily complete one takeoff and one landing in an aircraft of the same type for which the qualification is sought. This requirement does not apply to an applicant who completes a proficiency check under part 121 or competency check under subpart K, part 91, part 125, or part 135 for the particular type of aircraft.
 
@@ -2238,7 +2238,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(a\) Except as provided in paragraphs (b) and (f) of this section, a flight review consists of a minimum of 1 hour of flight training and 1 hour of ground training. The review must include:
 
-\(1\) A review of the current general operating and flight rules of part 91 of this chapter; and
+\(1\) A review of the current general operating and flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]]; and
 
 \(2\) A review of those maneuvers and procedures that, at the discretion of the person giving the review, are necessary for the pilot to demonstrate the safe exercise of the privileges of the pilot certificate.
 
@@ -2258,17 +2258,17 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(e\) A person who has, within the period specified in paragraph (c) of this section, satisfactorily accomplished one or more phases of an FAA-sponsored pilot proficiency award program need not accomplish the flight review required by this section.
 
-\(f\) A person who holds a flight instructor certificate and who has, within the period specified in paragraph (c) of this section, satisfactorily completed a renewal of a flight instructor certificate under the provisions in §61.197 need not accomplish the one hour of ground training specified in paragraph (a) of this section.
+\(f\) A person who holds a flight instructor certificate and who has, within the period specified in paragraph (c) of this section, satisfactorily completed a renewal of a flight instructor certificate under the provisions in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]] need not accomplish the one hour of ground training specified in paragraph (a) of this section.
 
-\(g\) A student pilot need not accomplish the flight review required by this section provided the student pilot is undergoing training for a certificate and has a current solo flight endorsement as required under §61.87 of this part.
+\(g\) A student pilot need not accomplish the flight review required by this section provided the student pilot is undergoing training for a certificate and has a current solo flight endorsement as required under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] of this part.
 
-\(h\) The requirements of this section may be accomplished in combination with the requirements of §61.57 and other applicable recent experience requirements at the discretion of the authorized instructor conducting the flight review.
+\(h\) The requirements of this section may be accomplished in combination with the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] and other applicable recent experience requirements at the discretion of the authorized instructor conducting the flight review.
 
 \(i\) A flight simulator or flight training device may be used to meet the flight review requirements of this section subject to the following conditions:
 
-\(1\) The flight simulator or flight training device must be used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(1\) The flight simulator or flight training device must be used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
-\(2\) Unless the flight review is undertaken in a flight simulator that is approved for landings, the applicant must meet the takeoff and landing requirements of §61.57(a) or §61.57(b) of this part.
+\(2\) Unless the flight review is undertaken in a flight simulator that is approved for landings, the applicant must meet the takeoff and landing requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](a) or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](b) of this part.
 
 \(3\) The flight simulator or flight training device used must represent an aircraft or set of aircraft for which the pilot is rated.
 
@@ -2288,7 +2288,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(i\) Approved by the Administrator for landings; and
 
-\(ii\) Used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(ii\) Used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(b\) *Night takeoff and landing experience.* (1) Except as provided in paragraph (e) of this section, no person may act as pilot in command of an aircraft carrying passengers during the period beginning 1 hour after sunset and ending 1 hour before sunrise, unless within the preceding 90 days that person has made at least three takeoffs and three landings to a full stop during the period beginning 1 hour after sunset and ending 1 hour before sunrise, and—
 
@@ -2300,7 +2300,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(i\) Approved by the Administrator for takeoffs and landings, if the visual system is adjusted to represent the period described in paragraph (b)(1) of this section; and
 
-\(ii\) Used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(ii\) Used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(c\) *Instrument experience.* Except as provided in paragraph (e) of this section, a person may act as pilot in command under IFR or weather conditions less than the minimums prescribed for VFR only if:
 
@@ -2356,17 +2356,17 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(ii\) A person authorized by the U.S. Armed Forces to conduct instrument flight tests, provided the person being tested is a member of the U.S. Armed Forces;
 
-\(iii\) A company check pilot who is authorized to conduct instrument flight tests under part 121, 125, or 135 of this chapter or subpart K of part 91 of this chapter, and provided that both the check pilot and the pilot being tested are employees of that operator or fractional ownership program manager, as applicable;
+\(iii\) A company check pilot who is authorized to conduct instrument flight tests under part 121, 125, or 135 of this chapter or subpart K of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], and provided that both the check pilot and the pilot being tested are employees of that operator or fractional ownership program manager, as applicable;
 
 \(iv\) An authorized instructor; or
 
 \(v\) A person approved by the Administrator to conduct instrument practical tests.
 
-\(e\) *Exceptions.* (1) Paragraphs (a) and (b) of this section do not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 125 when the pilot is engaged in a flight operation for that certificate holder if the pilot in command is in compliance with §§125.281 and 125.285 of this chapter.
+\(e\) *Exceptions.* (1) Paragraphs (a) and (b) of this section do not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 125 when the pilot is engaged in a flight operation for that certificate holder if the pilot in command is in compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.281   Pilot-in-command qualifications.|§125.281]] and 125.285 of this chapter.
 
-\(2\) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 121 when the pilot is engaged in a flight operation under part 91 or 121 for that certificate holder if the pilot in command complies with §§121.436 and 121.439 of this chapter.
+\(2\) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 121 when the pilot is engaged in a flight operation under part 91 or 121 for that certificate holder if the pilot in command complies with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.436   Pilot Qualification: Certificates and experience requirements.|§121.436]] and 121.439 of this chapter.
 
-\(3\) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 135 when the pilot is engaged in a flight operation under parts 91 or 135 for that certificate holder if the pilot in command is in compliance with §§135.243 and 135.247 of this chapter.
+\(3\) This section does not apply to a pilot in command who is employed by a part 119 certificate holder authorized to conduct operations under part 135 when the pilot is engaged in a flight operation under parts 91 or 135 for that certificate holder if the pilot in command is in compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.243   Pilot in command qualifications.|§135.243]] and 135.247 of this chapter.
 
 \(4\) Paragraph (b) of this section does not apply to a pilot in command of a turbine-powered airplane that is type certificated for more than one pilot crewmember, provided that pilot has complied with the requirements of paragraph (e)(4)(i) or (ii) of this section:
 
@@ -2388,7 +2388,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(C\) Within the preceding 90 days prior to the operation of that airplane that is type certificated for more than one pilot crewmember, the pilot must have accomplished and logged at least 15 hours of flight time in the type of airplane that the pilot seeks to operate under this alternative; and
 
-\(D\) Within the preceding 12 months prior to the month of the flight, the pilot must have completed a training program that is approved under part 142 of this chapter. The approved training program must have required and the pilot must have performed, at least 6 takeoffs and 6 landings to a full stop as the sole manipulator of the controls in a full flight simulator that is representative of a turbine-powered airplane that requires more than one pilot crewmember. The full flight simulator's visual system must have been adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
+\(D\) Within the preceding 12 months prior to the month of the flight, the pilot must have completed a training program that is approved under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]]. The approved training program must have required and the pilot must have performed, at least 6 takeoffs and 6 landings to a full stop as the sole manipulator of the controls in a full flight simulator that is representative of a turbine-powered airplane that requires more than one pilot crewmember. The full flight simulator's visual system must have been adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
 
 \(f\) *Night vision goggle operating experience.* (1) A person may act as pilot in command in a night vision goggle operation with passengers on board only if, within 2 calendar months preceding the month of the flight, that person performs and logs the following tasks as the sole manipulator of the controls on a flight during a night vision goggle operation—
 
@@ -2404,7 +2404,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 \(2\) A person may act as pilot in command using night vision goggles only if, within the 4 calendar months preceding the month of the flight, that person performs and logs the tasks listed in paragraph (f)(1)(i) through (v) of this section as the sole manipulator of the controls during a night vision goggle operation.
 
-\(g\) *Night vision goggle proficiency check.* A person must either meet the night vision goggle experience requirements of paragraphs (f)(1) or (f)(2) of this section or pass a night vision goggle proficiency check to act as pilot in command using night vision goggles. The proficiency check must be performed in the category of aircraft that is appropriate to the night vision goggle operation for which the person is seeking the night vision goggle privilege or in a full flight simulator or flight training device that is representative of that category of aircraft. The check must consist of the tasks listed in §61.31(k), and the check must be performed by:
+\(g\) *Night vision goggle proficiency check.* A person must either meet the night vision goggle experience requirements of paragraphs (f)(1) or (f)(2) of this section or pass a night vision goggle proficiency check to act as pilot in command using night vision goggles. The proficiency check must be performed in the category of aircraft that is appropriate to the night vision goggle operation for which the person is seeking the night vision goggle privilege or in a full flight simulator or flight training device that is representative of that category of aircraft. The check must consist of the tasks listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.31   Type rating requirements, additional training, and authorization requirements.|§61.31]](k), and the check must be performed by:
 
 \(1\) An Examiner who is qualified to perform night vision goggle operations in that same aircraft category and class;
 
@@ -2422,7 +2422,7 @@ Tests prescribed by or under this part are given at times and places, and by per
 
 <div>
 
-Editorial Note: For Federal Register citations affecting §61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Editorial Note: For Federal Register citations affecting [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]], see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 </div>
 
@@ -2434,7 +2434,7 @@ Editorial Note: For Federal Register citations affecting §61.57, see the List o
 
 \(2\) Within the preceding 24 calendar months, complete a pilot-in-command proficiency check in the particular type of aircraft in which that person will serve as pilot in command, that is type certificated for more than one required pilot flight crewmember or is turbojet-powered.
 
-\(b\) This section does not apply to persons conducting operations under subpart K of part 91, part 121, 125, 133, 135, or 137 of this chapter, or persons maintaining continuing qualification under an Advanced Qualification program approved under subpart Y of part 121 of this chapter.
+\(b\) This section does not apply to persons conducting operations under subpart K of part 91, part 121, 125, 133, 135, or 137 of this chapter, or persons maintaining continuing qualification under an Advanced Qualification program approved under subpart Y of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]].
 
 \(c\) The pilot-in-command proficiency check given in accordance with the provisions of subpart K of part 91, part 121, 125, or 135 of this chapter may be used to satisfy the requirements of this section.
 
@@ -2454,17 +2454,17 @@ Editorial Note: For Federal Register citations affecting §61.57, see the List o
 
 \(ii\) A single proficiency check, conducted by an examiner authorized by the Administrator, in any experimental turbojet-powered aircraft (*e.g.*, if a pilot acquires a new authorization to operate an additional experimental turbojet-powered aircraft, the check for that new authorization will meet the intent), if conducted within the prior 12 months;
 
-\(iii\) Current qualification under an Advanced Qualification Program (AQP) under subpart Y of part 121 of this chapter;
+\(iii\) Current qualification under an Advanced Qualification Program (AQP) under subpart Y of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]];
 
-\(iv\) Any proficiency check conducted under subpart K of part 91, part 121, or part 135 of this chapter within the prior 12 months if conducted in a turbojet-powered aircraft; or
+\(iv\) Any proficiency check conducted under subpart K of part 91, part 121, or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] within the prior 12 months if conducted in a turbojet-powered aircraft; or
 
-\(v\) Any other §61.58 proficiency check conducted within the prior 12 months if conducted in a turbojet-powered aircraft.
+\(v\) Any other [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]] proficiency check conducted within the prior 12 months if conducted in a turbojet-powered aircraft.
 
 \(e\) The pilot of a multi-seat experimental turbojet-powered aircraft who has not received a proficiency check within the prior 12 months in accordance with this section may continue to operate such aircraft in accordance with the pilot's authorizations. However, the pilot is prohibited from carriage of any persons in any experimental turbojet-powered aircraft with the exception of those individuals authorized by the Administrator to conduct training, conduct flight checks, or perform pilot certification functions in such aircraft, and only during flights specifically related to training, flight checks, or certification in such aircraft.
 
 \(f\) This section will not apply to a pilot authorized by the Administrator to serve as pilot in command in experimental turbojet-powered aircraft that possesses, by original design, a single seat, when operating such single-seat aircraft.
 
-\(g\) A check or test described in paragraphs (d)(1) through (5) of this section may be accomplished in a flight simulator under part 142 of this chapter, subject to the following:
+\(g\) A check or test described in paragraphs (d)(1) through (5) of this section may be accomplished in a flight simulator under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]], subject to the following:
 
 \(1\) Except as provided for in paragraphs (g)(2) and (3) of this section, if an otherwise qualified and approved flight simulator used for a pilot-in-command proficiency check is not qualified and approved for a specific required maneuver—
 
@@ -2476,7 +2476,7 @@ Editorial Note: For Federal Register citations affecting §61.57, see the List o
 
 \(i\) The applicant's record must include the statement, “Proficiency in circling approaches not demonstrated”; and
 
-\(ii\) The applicant may not perform circling approaches as pilot in command when weather conditions are less than the basic VFR conditions described in §91.155 of this chapter, until proficiency in circling approaches has been successfully demonstrated in a flight simulator qualified and approved for circling approaches or in an aircraft to a person authorized by the Administrator to conduct the check required by this section.
+\(ii\) The applicant may not perform circling approaches as pilot in command when weather conditions are less than the basic VFR conditions described in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]] of this chapter, until proficiency in circling approaches has been successfully demonstrated in a flight simulator qualified and approved for circling approaches or in an aircraft to a person authorized by the Administrator to conduct the check required by this section.
 
 \(3\) If the flight simulator used pursuant to paragraph (g) of this section is not qualified and approved for landings, the applicant must—
 
@@ -2556,7 +2556,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(5\) Need not take an additional knowledge test if the applicant holds an airplane, rotorcraft, powered-lift, or airship rating on the pilot certificate.
 
-\(6\) In the case of a pilot employee of a part 121 or part 135 certificate holder or of a fractional ownership program manager under subpart K of part 91 of this chapter, the pilot must—
+\(6\) In the case of a pilot employee of a part 121 or part 135 certificate holder or of a fractional ownership program manager under subpart K of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], the pilot must—
 
 \(i\) Meet the appropriate requirements under paragraphs (d)(1), (d)(3), and (d)(4) of this section; and
 
@@ -2570,9 +2570,9 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(A\) Passes a practical test in that type of aircraft in actual or simulated instrument conditions;
 
-\(B\) Passes a practical test in that type of aircraft on the appropriate instrument maneuvers and procedures in §61.157; or
+\(B\) Passes a practical test in that type of aircraft on the appropriate instrument maneuvers and procedures in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]]; or
 
-\(C\) Becomes qualified under §61.73(d) for that type of aircraft.
+\(C\) Becomes qualified under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]](d) for that type of aircraft.
 
 \(2\) When an instrument rating is issued to a person who holds one or more type ratings, the amended pilot certificate must bear the “VFR only” limitation for each aircraft type rating that the person did not demonstrate instrument competency.
 
@@ -2598,7 +2598,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(1\) Must represent the category, class, and type (if a type rating is applicable) for the rating sought; and
 
-\(2\) Must be qualified and approved by the Administrator and used in accordance with an approved course of training under part 141 or part 142 of this chapter; or under part 121 or part 135 of this chapter, provided the applicant is a pilot employee of that air carrier operator.
+\(2\) Must be qualified and approved by the Administrator and used in accordance with an approved course of training under part 141 or [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]]; or under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], provided the applicant is a pilot employee of that air carrier operator.
 
 \(b\) Except as provided in paragraph (f) of this section, if an airplane is not used during the practical test for a type rating for a turbojet airplane (except for preflight inspection), an applicant must accomplish the entire practical test in a Level C or higher flight simulator and the applicant must—
 
@@ -2782,9 +2782,9 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(h\) *Use of full flight simulators or flight training devices.* If the instrument time was provided by an authorized instructor in a full flight simulator or flight training device—
 
-\(1\) A maximum of 30 hours may be performed in that full flight simulator or flight training device if the instrument time was completed in accordance with part 142 of this chapter; or
+\(1\) A maximum of 30 hours may be performed in that full flight simulator or flight training device if the instrument time was completed in accordance with [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]]; or
 
-\(2\) A maximum of 20 hours may be performed in that full flight simulator or flight training device if the instrument time was not completed in accordance with part 142 of this chapter.
+\(2\) A maximum of 20 hours may be performed in that full flight simulator or flight training device if the instrument time was not completed in accordance with [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(i\) *Use of an aviation training device.* A maximum of 10 hours of instrument time received in a basic aviation training device or a maximum of 20 hours of instrument time received in an advanced aviation training device may be credited for the instrument time requirements of this section if—
 
@@ -2800,7 +2800,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 ### §61.66   Enhanced Flight Vision System Pilot Requirements.
 
-\(a\) *Ground training.* (1) Except as provided under paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation conducted under §91.176(a) or (b) of this chapter, or serve as a required pilot flightcrew member during an EFVS operation conducted under §91.176(a) of this chapter, unless that person—
+\(a\) *Ground training.* (1) Except as provided under paragraphs (f) and (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) or (b) of this chapter, or serve as a required pilot flightcrew member during an EFVS operation conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) of this chapter, unless that person—
 
 \(i\) Receives and logs ground training under a training program approved by the Administrator; and
 
@@ -2824,7 +2824,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(viii\) Interpretation of approach and runway lighting systems and their display characteristics when using an EFVS.
 
-\(b\) *Flight training.* (1) Except as provided under paragraph (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation under §91.176(a) or (b) of this chapter unless that person—
+\(b\) *Flight training.* (1) Except as provided under paragraph (h) of this section, no person may manipulate the controls of an aircraft or act as pilot in command of an aircraft during an EFVS operation under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) or (b) of this chapter unless that person—
 
 \(i\) Receives and logs flight training for the EFVS operation under a training program approved by the Administrator; and
 
@@ -2844,11 +2844,11 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(vi\) Transitioning from EFVS sensor imagery to natural vision acquisition of required visual references and the runway environment;
 
-\(vii\) Using EFVS sensor imagery, required aircraft flight information, and flight symbology to touchdown and rollout, if the person receiving training will conduct EFVS operations under §91.176(a) of this chapter; and
+\(vii\) Using EFVS sensor imagery, required aircraft flight information, and flight symbology to touchdown and rollout, if the person receiving training will conduct EFVS operations under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) of this chapter; and
 
 \(viii\) Normal, abnormal, emergency, and crew coordination procedures when using an EFVS.
 
-\(c\) *Supplementary EFVS training.* A person qualified to conduct an EFVS operation under §91.176(a) or (b) of this chapter who seeks to conduct an additional EFVS operation for which that person has not received training must—
+\(c\) *Supplementary EFVS training.* A person qualified to conduct an EFVS operation under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) or (b) of this chapter who seeks to conduct an additional EFVS operation for which that person has not received training must—
 
 \(1\) Receive and log the ground and flight training required by paragraphs (a) and (b) of this section, under a training program approved by the Administrator, appropriate to the additional EFVS operation to be conducted; and
 
@@ -2858,21 +2858,21 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(1\) One approach must terminate in a full stop landing; and
 
-\(2\) For persons authorized to exercise the privileges of §91.176(a), the full stop landing must be conducted using the EFVS.
+\(2\) For persons authorized to exercise the privileges of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a), the full stop landing must be conducted using the EFVS.
 
 \(e\) *EFVS refresher training.* (1) Except as provided in paragraph (h) of this section, a person who has failed to meet the recent flight experience requirements of paragraph (d) of this section for more than six calendar months may reestablish EFVS currency only by satisfactorily completing an approved EFVS refresher course in the category of aircraft for which the person seeks the EFVS privilege. The EFVS refresher course must consist of the subjects and tasks listed in paragraphs (a)(2) and (b)(2) of this section applicable to the EFVS operations to be conducted.
 
 \(2\) The EFVS refresher course must be conducted by an authorized training provider whose instructor meets the training requirements of this section and, if conducting EFVS operations in an aircraft, the recent flight experience requirements of this section.
 
-\(f\) *Military pilots and former military pilots in the U.S. Armed Forces.* (1) The training requirements of paragraphs (a) and (b) of this section applicable to EFVS operations conducted under §91.176(a) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to touchdown and rollout by the U.S. Armed Forces.
+\(f\) *Military pilots and former military pilots in the U.S. Armed Forces.* (1) The training requirements of paragraphs (a) and (b) of this section applicable to EFVS operations conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](a) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to touchdown and rollout by the U.S. Armed Forces.
 
-\(2\) The training requirements in paragraphs (a) and (b) of this section applicable to EFVS operations conducted under §91.176(b) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to 100 feet above the touchdown zone elevation by the U.S. Armed Forces.
+\(2\) The training requirements in paragraphs (a) and (b) of this section applicable to EFVS operations conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](b) of this chapter do not apply to a military pilot or former military pilot in the U.S. Armed Forces if that person documents satisfactory completion of ground and flight training in EFVS operations to 100 feet above the touchdown zone elevation by the U.S. Armed Forces.
 
 \(3\) A military pilot or former military pilot in the U.S. Armed Forces may satisfy the recent flight experience requirements of paragraph (d) of this section if he or she documents satisfactory completion of an EFVS proficiency check in the U.S. Armed Forces within 6 calendar months preceding the month of the flight, the check was conducted by a person authorized by the U.S. Armed Forces to administer the check, and the person receiving the check was a member of the U.S. Armed Forces at the time the check was administered.
 
 \(g\) *Use of full flight simulators.* A level C or higher full flight simulator (FFS) equipped with an EFVS may be used to meet the flight training, recent flight experience, and refresher training requirements of this section. The FFS must be evaluated and qualified for EFVS operations by the Administrator, and must be:
 
-\(1\) Qualified and maintained in accordance with part 60 of this chapter, or a previously qualified device, as permitted in accordance with §60.17 of this chapter;
+\(1\) Qualified and maintained in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]], or a previously qualified device, as permitted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]] of this chapter;
 
 \(2\) Approved by the Administrator for the tasks and maneuvers to be conducted; and
 
@@ -2886,17 +2886,17 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(iii\) During an EFVS operation performed in the course of completing EFVS refresher training in accordance with paragraph (e) of this section, provided the instructor providing the refresher training meets the requirements in this section to perform the EFVS operation in the category of aircraft for which the training is being conducted.
 
-\(2\) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting a flight or series of flights in an aircraft issued an experimental airworthiness certificate under §21.191 of this chapter for the purpose of research and development or showing compliance with regulations, provided the person has knowledge of the subjects specified in paragraph (a)(2) of this section and has experience with the tasks specified in paragraph (b)(2) of this section applicable to the EFVS operations to be conducted.
+\(2\) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting a flight or series of flights in an aircraft issued an experimental airworthiness certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] of this chapter for the purpose of research and development or showing compliance with regulations, provided the person has knowledge of the subjects specified in paragraph (a)(2) of this section and has experience with the tasks specified in paragraph (b)(2) of this section applicable to the EFVS operations to be conducted.
 
 \(3\) The requirements specified in paragraphs (d) and (e) of this section do not apply to a pilot who:
 
 \(i\) Is employed by a part 119 certificate holder authorized to conduct operations under part 121, 125, or 135 when the pilot is conducting an EFVS operation for that certificate holder under part 91, 121, 125, or 135, as applicable, provided the pilot conducts the operation in accordance with the certificate holder's operations specifications for EFVS operations;
 
-\(ii\) Is employed by a person who holds a letter of deviation authority issued under §125.3 of this chapter when the pilot is conducting an EFVS operation for that person under part 125, provided the pilot is conducting the operation in accordance with that person's letter of authorization for EFVS operations; or
+\(ii\) Is employed by a person who holds a letter of deviation authority issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.3   Deviation authority.|§125.3]] of this chapter when the pilot is conducting an EFVS operation for that person under part 125, provided the pilot is conducting the operation in accordance with that person's letter of authorization for EFVS operations; or
 
 \(iii\) Is employed by a fractional ownership program manager to conduct operations under part 91 subpart K when the pilot is conducting an EFVS operation for that program manager under part 91, provided the pilot is conducting the operation in accordance with the program manager's management specifications for EFVS operations.
 
-\(4\) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting EFVS operations under §91.176(b) of this chapter and that person documents that prior to March 13, 2018, that person satisfactorily completed ground and flight training on EFVS operations to 100 feet above the touchdown zone elevation.
+\(4\) The requirements of paragraphs (a) and (b) of this section do not apply if a person is conducting EFVS operations under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]](b) of this chapter and that person documents that prior to March 13, 2018, that person satisfactorily completed ground and flight training on EFVS operations to 100 feet above the touchdown zone elevation.
 
 \[Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90170, Dec. 13, 2016, as amended by Docket FAA-2013-0485, Amdt. 61-139, 81 FR 90172, Dec. 13, 2016\]
 
@@ -2918,7 +2918,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(i\) A combination of 25 hours of simulated instrument flight time in a flight simulator or flight training device; or
 
-\(ii\) 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under part 142 of this chapter.
+\(ii\) 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(3\) 250 hours of cross-country flight time as pilot in command.
 
@@ -2934,7 +2934,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(ii\) If the applicant has not passed a practical test for this authorization during the 12 calendar months preceding the month of the test, then that person must—
 
-\(A\) Meet the requirements of §61.57(c); and
+\(A\) Meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c); and
 
 \(B\) Have performed at least six ILS approaches during the 6 calendar months preceding the month of the test, of which at least three of the approaches must have been conducted without the use of an approach coupler.
 
@@ -2952,7 +2952,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(A\) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
 
-\(B\) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(B\) Is used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(4\) The flight time acquired in meeting the requirements of paragraph (c)(2)(ii)(B) of this section may be used to meet the requirements of paragraph (c)(2)(ii)(A) of this section.
 
@@ -2988,7 +2988,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(A\) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
 
-\(B\) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(B\) Is used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(ii\) The flight increment must consist of at least two ILS approaches to 100 feet AGL including at least one landing and one missed approach.
 
@@ -3022,7 +3022,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(i\) A combination of 25 hours of simulated instrument flight time in a flight simulator or flight training device; or
 
-\(ii\) 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under part 142 of this chapter.
+\(ii\) 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(3\) 250 hours of cross-country flight time as pilot in command.
 
@@ -3038,7 +3038,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(ii\) If the applicant has not passed a practical test for this authorization during the 12 calendar months preceding the month of the test, then that person must—
 
-\(A\) Meet the requirements of §61.57(c); and
+\(A\) Meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c); and
 
 \(B\) Have performed at least six ILS approaches during the 6 calendar months preceding the month of the test, of which at least three of the approaches must have been conducted without the use of an approach coupler.
 
@@ -3056,7 +3056,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(A\) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft for which the authorization is sought; and
 
-\(B\) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(B\) Is used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(4\) The flight time acquired in meeting the requirements of paragraph (c)(2)(ii)(B) of this section may be used to meet the requirements of paragraph (c)(2)(ii)(A) of this section.
 
@@ -3102,7 +3102,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(A\) Represents an aircraft of the same category and class, and type, as applicable, as the aircraft in which the authorization is sought; and
 
-\(B\) Is used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
+\(B\) Is used in accordance with an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(ii\) The flight increment must consist of at least two ILS approaches to 100 feet AGL, including one landing and one missed approach initiated from a very low altitude that may result in a touchdown during the go-around maneuver;
 
@@ -3178,11 +3178,11 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 ### §61.71   Graduates of an approved training program other than under this part: Special rules.
 
-\(a\) A person who graduates from an approved training program under part 141 or part 142 of this chapter is considered to have met the applicable aeronautical experience, aeronautical knowledge, and areas of operation requirements of this part if that person presents the graduation certificate and passes the required practical test within the 60-day period after the date of graduation.
+\(a\) A person who graduates from an approved training program under part 141 or [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] is considered to have met the applicable aeronautical experience, aeronautical knowledge, and areas of operation requirements of this part if that person presents the graduation certificate and passes the required practical test within the 60-day period after the date of graduation.
 
-\(b\) A person may apply for an airline transport pilot certificate, type rating, or both under this part, and will be considered to have met the applicable requirements under §61.157, except for the airline transport pilot certification training program required by §61.156, for that certificate and rating, if that person has:
+\(b\) A person may apply for an airline transport pilot certificate, type rating, or both under this part, and will be considered to have met the applicable requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]], except for the airline transport pilot certification training program required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]], for that certificate and rating, if that person has:
 
-\(1\) Satisfactorily accomplished an approved training curriculum and a proficiency check for that airplane type that includes all the tasks and maneuvers required by §§121.424 and 121.441 of this chapter to serve as pilot in command in operations conducted under part 121 of this chapter; and
+\(1\) Satisfactorily accomplished an approved training curriculum and a proficiency check for that airplane type that includes all the tasks and maneuvers required by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.424   Pilots: Initial, transition, conversion, and upgrade flight training.|§121.424]] and 121.441 of this chapter to serve as pilot in command in operations conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]; and
 
 \(2\) Applied for an airline transport pilot certificate, type rating, or both within the 60-day period from the date the person satisfactorily accomplished the requirements of paragraph (b)(1) for that airplane type.
 
@@ -3246,7 +3246,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(3\) Presents the following documents:
 
-\(i\) A knowledge test report that shows the person passed a knowledge test on the aeronautical knowledge areas listed under §61.185(a) appropriate to the flight instructor rating sought and the knowledge test was passed within the preceding 24 calendar months prior to the month of application. If the U.S. military instructor pilot or pilot examiner already holds a flight instructor certificate, holding of a flight instructor certificate suffices for the knowledge test report.
+\(i\) A knowledge test report that shows the person passed a knowledge test on the aeronautical knowledge areas listed under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]](a) appropriate to the flight instructor rating sought and the knowledge test was passed within the preceding 24 calendar months prior to the month of application. If the U.S. military instructor pilot or pilot examiner already holds a flight instructor certificate, holding of a flight instructor certificate suffices for the knowledge test report.
 
 \(ii\) An official U.S. Armed Forces record or order that shows the person is or was qualified as a U.S. Armed Forces military instructor pilot or pilot examiner for the flight instructor rating sought.
 
@@ -3286,7 +3286,7 @@ This subpart prescribes the requirements for the issuance of additional aircraft
 
 \(3\) Does not hold a U.S. pilot certificate other than a U.S. student pilot certificate;
 
-\(4\) Holds a medical certificate issued under part 67 of this chapter or a medical license issued by the country that issued the person's foreign pilot license; and
+\(4\) Holds a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] or a medical license issued by the country that issued the person's foreign pilot license; and
 
 \(5\) Is able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft.
 
@@ -3822,11 +3822,11 @@ An applicant for a student pilot certificate:
 
 \(3\) At an altitude of more than 10,000 feet MSL or 2,000 feet AGL, whichever is higher;
 
-\(4\) In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or on an airport having an operational control tower without having received the ground and flight training specified in §61.94 and an endorsement from an authorized instructor;
+\(4\) In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or on an airport having an operational control tower without having received the ground and flight training specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.94   Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.|§61.94]] and an endorsement from an authorized instructor;
 
-\(5\) Of a light-sport aircraft without having received the applicable ground training, flight training, and instructor endorsements specified in §61.327 (a) and (b).
+\(5\) Of a light-sport aircraft without having received the applicable ground training, flight training, and instructor endorsements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]] (a) and (b).
 
-\(d\) The holder of a student pilot certificate may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the student pilot holds a valid U.S. driver's license, meets the requirements of §61.23(c)(3), and the operation is conducted consistent with the requirements of paragraphs (a) and (b) of this section and the conditions of §61.113(i). Where the requirements of paragraphs (a) and (b) of this section conflict with §61.113(i), a student pilot must comply with paragraphs (a) and (b) of this section.
+\(d\) The holder of a student pilot certificate may act as pilot in command of an aircraft without holding a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] provided the student pilot holds a valid U.S. driver's license, meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](c)(3), and the operation is conducted consistent with the requirements of paragraphs (a) and (b) of this section and the conditions of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i). Where the requirements of paragraphs (a) and (b) of this section conflict with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i), a student pilot must comply with paragraphs (a) and (b) of this section.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44867, July 27, 2004; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017\]
 
@@ -3846,7 +3846,7 @@ An applicant for a student pilot certificate:
 
 \(ii\) Have demonstrated cross-country proficiency on the appropriate maneuvers and procedures of this section to an authorized instructor;
 
-\(iii\) Have satisfactorily accomplished the pre-solo flight maneuvers and procedures required by §61.87 of this part in the make and model of aircraft or similar make and model of aircraft for which solo cross-country privileges are sought; and
+\(iii\) Have satisfactorily accomplished the pre-solo flight maneuvers and procedures required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] of this part in the make and model of aircraft or similar make and model of aircraft for which solo cross-country privileges are sought; and
 
 \(iv\) Comply with any limitations included in the authorized instructor's endorsement that are required by paragraph (c) of this section.
 
@@ -3860,7 +3860,7 @@ An applicant for a student pilot certificate:
 
 \(ii\) The authorized instructor who gave the training endorses the student pilot's logbook authorizing the flight;
 
-\(iii\) The student pilot has a solo flight endorsement in accordance with §61.87 of this part;
+\(iii\) The student pilot has a solo flight endorsement in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] of this part;
 
 \(iv\) The authorized instructor has determined that the student pilot is proficient to make the flight; and
 
@@ -3872,7 +3872,7 @@ An applicant for a student pilot certificate:
 
 \(ii\) The authorized instructor who gave the training has endorsed the student's logbook certifying that the student is proficient to make such flights;
 
-\(iii\) The student has a solo flight endorsement in accordance with §61.87 of this part; and
+\(iii\) The student has a solo flight endorsement in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] of this part; and
 
 \(iv\) The student has a solo cross country flight endorsement in accordance with paragraph (c) of this section; however, for repeated solo cross country flights to another airport within 50 nautical miles from which the flight originated, separate endorsements are not required to be made for each flight.
 
@@ -4128,7 +4128,7 @@ An applicant for a student pilot certificate:
 
 \(2\) Operations at airports with an operating control tower, to include three takeoffs and landings to a full stop, with each landing involving a flight in the traffic pattern, at an airport with an operating control tower.
 
-\(3\) Applicable flight rules of part 91 of this chapter for operations in Class B, C, and D airspace and air traffic control clearances.
+\(3\) Applicable flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] for operations in Class B, C, and D airspace and air traffic control clearances.
 
 \(4\) Ground and flight training for the specific Class B, C, or D airspace for which the solo flight is authorized, if applicable, within the 90-day period preceding the date of the flight in that airspace. The flight training must be received in the specific airspace area for which solo flight is authorized.
 
@@ -4148,7 +4148,7 @@ An applicant for a student pilot certificate:
 
 \(3\) The logbook endorsement specifies that the student pilot has received the required ground and flight training, and has been found proficient to conduct solo flight in that specific Class B airspace area.
 
-\(b\) A student pilot may not operate an aircraft on a solo flight to, from, or at an airport located within Class B airspace pursuant to §91.131(b) of this chapter unless:
+\(b\) A student pilot may not operate an aircraft on a solo flight to, from, or at an airport located within Class B airspace pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.131   Operations in Class B airspace.|§91.131]](b) of this chapter unless:
 
 \(1\) The student pilot has received both ground and flight training from an instructor authorized to provide training to operate at that airport, and the flight and ground training has been received at the specific airport for which the solo flight is authorized;
 
@@ -4174,21 +4174,21 @@ An applicant for a student pilot certificate:
 
 \(3\) Receive a logbook endorsement from an authorized instructor who—
 
-\(i\) Conducted the training or reviewed the applicant's home study on the aeronautical knowledge areas listed in §61.97(b) of this part that apply to the aircraft category and class rating sought; and
+\(i\) Conducted the training or reviewed the applicant's home study on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.97   Aeronautical knowledge.|§61.97]](b) of this part that apply to the aircraft category and class rating sought; and
 
 \(ii\) Certified that the applicant is prepared for the required knowledge test.
 
-\(4\) Pass the required knowledge test on the aeronautical knowledge areas listed in §61.97(b) of this part;
+\(4\) Pass the required knowledge test on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.97   Aeronautical knowledge.|§61.97]](b) of this part;
 
 \(5\) Receive flight training and a logbook endorsement from an authorized instructor who—
 
-\(i\) Conducted the training on the areas of operation listed in §61.98(b) of this part that apply to the aircraft category and class rating sought; and
+\(i\) Conducted the training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.98   Flight proficiency.|§61.98]](b) of this part that apply to the aircraft category and class rating sought; and
 
 \(ii\) Certified that the applicant is prepared for the required practical test.
 
-\(6\) Meet the aeronautical experience requirements of §61.99 of this part that apply to the aircraft category and class rating sought before applying for the practical test;
+\(6\) Meet the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.99   Aeronautical experience.|§61.99]] of this part that apply to the aircraft category and class rating sought before applying for the practical test;
 
-\(7\) Pass the practical test on the areas of operation listed in §61.98(b) that apply to the aircraft category and class rating;
+\(7\) Pass the practical test on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.98   Flight proficiency.|§61.98]](b) that apply to the aircraft category and class rating;
 
 \(8\) Comply with the sections of this part that apply to the aircraft category and class rating; and
 
@@ -4300,13 +4300,13 @@ An applicant for a student pilot certificate:
 
 \(a\) A person who applies for a recreational pilot certificate must receive and log at least 30 hours of flight time that includes at least—
 
-\(1\) 15 hours of flight training from an authorized instructor on the areas of operation listed in §61.98 that consists of at least:
+\(1\) 15 hours of flight training from an authorized instructor on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.98   Flight proficiency.|§61.98]] that consists of at least:
 
-\(i\) Except as provided in §61.100, 2 hours of flight training en route to an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, which includes at least three takeoffs and three landings at the airport located more than 25 nautical miles from the airport where the applicant normally trains; and
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]], 2 hours of flight training en route to an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, which includes at least three takeoffs and three landings at the airport located more than 25 nautical miles from the airport where the applicant normally trains; and
 
 \(ii\) Three hours of flight training with an authorized instructor in the aircraft for the rating sought in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(2\) Three hours of solo flying in the aircraft for the rating sought, on the areas of operation listed in §61.98 that apply to the aircraft category and class rating sought.
+\(2\) Three hours of solo flying in the aircraft for the rating sought, on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.98   Flight proficiency.|§61.98]] that apply to the aircraft category and class rating sought.
 
 \(b\) The holder of a sport pilot certificate may credit flight training received from a flight instructor with a sport pilot rating toward the aeronautical experience requirements of this section if the following conditions are met:
 
@@ -4320,11 +4320,11 @@ An applicant for a student pilot certificate:
 
 ### §61.100   Pilots based on small islands.
 
-\(a\) An applicant located on an island from which the flight training required in §61.99(a)(1) of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section. However, if other airports that permit civil operations are available to which a flight may be made without flying over water for more than 10 nautical miles from the nearest shoreline, the applicant must show completion of a dual flight between two airports, which must include three landings at the other airport.
+\(a\) An applicant located on an island from which the flight training required in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.99   Aeronautical experience.|§61.99]](a)(1) of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section. However, if other airports that permit civil operations are available to which a flight may be made without flying over water for more than 10 nautical miles from the nearest shoreline, the applicant must show completion of a dual flight between two airports, which must include three landings at the other airport.
 
-\(b\) An applicant who complies with paragraph (a) of this section and meets all requirements for the issuance of a recreational pilot certificate, except the requirements of §61.99(a)(1) of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (a) of this section for another island.
+\(b\) An applicant who complies with paragraph (a) of this section and meets all requirements for the issuance of a recreational pilot certificate, except the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.99   Aeronautical experience.|§61.99]](a)(1) of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (a) of this section for another island.
 
-\(c\) Upon meeting the requirements of §61.99(a)(1) of this part, the applicant may have the limitation(s) in paragraph (b) of this section removed.
+\(c\) Upon meeting the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.99   Aeronautical experience.|§61.99]](a)(1) of this part, the applicant may have the limitation(s) in paragraph (b) of this section removed.
 
 ### §61.101   Recreational pilot privileges and limitations.
 
@@ -4360,7 +4360,7 @@ An applicant for a student pilot certificate:
 
 \(ii\) Operations at airports with an operating control tower to include three takeoffs and landings to a full stop, with each landing involving a flight in the traffic pattern at an airport with an operating control tower.
 
-\(iii\) Applicable flight rules of part 91 of this chapter for operations in Class B, C, and D airspace and air traffic control clearances;
+\(iii\) Applicable flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] for operations in Class B, C, and D airspace and air traffic control clearances;
 
 \(2\) Been found proficient in those aeronautical knowledge areas and areas of operation specified in paragraph (d)(1) of this section; and
 
@@ -4410,7 +4410,7 @@ An applicant for a student pilot certificate:
 
 \(2\) No person other than a required flight crewmember is carried on the aircraft.
 
-\(g\) A person who holds a recreational pilot certificate, has logged fewer than 400 flight hours, and has not logged pilot-in-command time in an aircraft within the 180 days preceding the flight shall not act as pilot in command of an aircraft until the pilot receives flight training and a logbook endorsement from an authorized instructor, and the instructor certifies that the person is proficient to act as pilot in command of the aircraft. This requirement can be met in combination with the requirements of §§61.56 and 61.57 of this part, at the discretion of the authorized instructor.
+\(g\) A person who holds a recreational pilot certificate, has logged fewer than 400 flight hours, and has not logged pilot-in-command time in an aircraft within the 180 days preceding the flight shall not act as pilot in command of an aircraft until the pilot receives flight training and a logbook endorsement from an authorized instructor, and the instructor certifies that the person is proficient to act as pilot in command of the aircraft. This requirement can be met in combination with the requirements of §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] and 61.57 of this part, at the discretion of the authorized instructor.
 
 \(h\) A recreational pilot certificate issued under this subpart carries the notation, “Holder does not meet ICAO requirements.”
 
@@ -4422,15 +4422,15 @@ An applicant for a student pilot certificate:
 
 \(3\) Between sunset and sunrise, provided the flight or surface visibility is at least 5 statute miles.
 
-\(j\) In order to fly solo as provided in paragraph (i) of this section, the recreational pilot must meet the appropriate aeronautical knowledge and flight training requirements of §61.87 for that aircraft. When operating an aircraft under the conditions specified in paragraph (i) of this section, the recreational pilot shall carry the logbook that has been endorsed for each flight by an authorized instructor who:
+\(j\) In order to fly solo as provided in paragraph (i) of this section, the recreational pilot must meet the appropriate aeronautical knowledge and flight training requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]] for that aircraft. When operating an aircraft under the conditions specified in paragraph (i) of this section, the recreational pilot shall carry the logbook that has been endorsed for each flight by an authorized instructor who:
 
 \(1\) Has given the recreational pilot training in the make and model of aircraft in which the solo flight is to be made;
 
-\(2\) Has found that the recreational pilot has met the applicable requirements of §61.87; and
+\(2\) Has found that the recreational pilot has met the applicable requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.87   Solo requirements for student pilots.|§61.87]]; and
 
 \(3\) Has found that the recreational pilot is competent to make solo flights in accordance with the logbook endorsement.
 
-\(k\) A recreational pilot may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the pilot holds a valid U.S. driver's license, meets the requirements of §61.23(c)(3), and the operation is conducted consistent with this section and the conditions of §61.113(i). Where the requirements of this section conflict with §61.113(i), a recreational pilot must comply with this section.
+\(k\) A recreational pilot may act as pilot in command of an aircraft without holding a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] provided the pilot holds a valid U.S. driver's license, meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](c)(3), and the operation is conducted consistent with this section and the conditions of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i). Where the requirements of this section conflict with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i), a recreational pilot must comply with this section.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017\]
 
@@ -4452,21 +4452,21 @@ To be eligible for a private pilot certificate, a person must:
 
 \(d\) Receive a logbook endorsement from an authorized instructor who:
 
-\(1\) Conducted the training or reviewed the person's home study on the aeronautical knowledge areas listed in §61.105(b) of this part that apply to the aircraft rating sought; and
+\(1\) Conducted the training or reviewed the person's home study on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.105   Aeronautical knowledge.|§61.105]](b) of this part that apply to the aircraft rating sought; and
 
 \(2\) Certified that the person is prepared for the required knowledge test.
 
-\(e\) Pass the required knowledge test on the aeronautical knowledge areas listed in §61.105(b) of this part.
+\(e\) Pass the required knowledge test on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.105   Aeronautical knowledge.|§61.105]](b) of this part.
 
 \(f\) Receive flight training and a logbook endorsement from an authorized instructor who:
 
-\(1\) Conducted the training in the areas of operation listed in §61.107(b) of this part that apply to the aircraft rating sought; and
+\(1\) Conducted the training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b) of this part that apply to the aircraft rating sought; and
 
 \(2\) Certified that the person is prepared for the required practical test.
 
 \(g\) Meet the aeronautical experience requirements of this part that apply to the aircraft rating sought before applying for the practical test.
 
-\(h\) Pass a practical test on the areas of operation listed in §61.107(b) of this part that apply to the aircraft rating sought.
+\(h\) Pass a practical test on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b) of this part that apply to the aircraft rating sought.
 
 \(i\) Comply with the appropriate sections of this part that apply to the aircraft category and class rating sought.
 
@@ -4536,7 +4536,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(x\) Emergency operations;
 
-\(xi\) Night operations, except as provided in §61.110 of this part; and
+\(xi\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part; and
 
 \(xii\) Postflight procedures.
 
@@ -4564,7 +4564,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(xi\) Multiengine operations;
 
-\(xii\) Night operations, except as provided in §61.110 of this part; and
+\(xii\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part; and
 
 \(xiii\) Postflight procedures.
 
@@ -4586,7 +4586,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(viii\) Emergency operations;
 
-\(ix\) Night operations, except as provided in §61.110 of this part; and
+\(ix\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part; and
 
 \(x\) Postflight procedures.
 
@@ -4610,7 +4610,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(ix\) Emergency operations;
 
-\(x\) Night operations, except as provided in §61.110 of this part; and
+\(x\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part; and
 
 \(xi\) Postflight procedures.
 
@@ -4638,7 +4638,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(xi\) Emergency operations;
 
-\(xii\) Night operations, except as provided in §61.110 of this part; and
+\(xii\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part; and
 
 \(xiii\) Postflight procedures.
 
@@ -4720,7 +4720,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(vii\) Navigation;
 
-\(viii\) Night operations, except as provided in §61.110;
+\(viii\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]];
 
 \(ix\) Emergency operations; and
 
@@ -4744,7 +4744,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(viii\) Slow flight and stalls;
 
-\(ix\) Night operations, except as provided in §61.110;
+\(ix\) Night operations, except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]];
 
 \(x\) Emergency operations; and
 
@@ -4754,11 +4754,11 @@ To be eligible for a private pilot certificate, a person must:
 
 ### §61.109   Aeronautical experience.
 
-\(a\) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(1) of this part, and the training must include at least—
+\(a\) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(1) of this part, and the training must include at least—
 
 \(1\) 3 hours of cross-country flight training in a single-engine airplane;
 
-\(2\) Except as provided in §61.110 of this part, 3 hours of night flight training in a single-engine airplane that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in a single-engine airplane that includes—
 
 \(i\) One cross-country flight of over 100 nautical miles total distance; and
 
@@ -4776,11 +4776,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 
-\(b\) *For an airplane multiengine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and multiengine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(2) of this part, and the training must include at least—
+\(b\) *For an airplane multiengine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and multiengine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(2) of this part, and the training must include at least—
 
 \(1\) 3 hours of cross-country flight training in a multiengine airplane;
 
-\(2\) Except as provided in §61.110 of this part, 3 hours of night flight training in a multiengine airplane that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in a multiengine airplane that includes—
 
 \(i\) One cross-country flight of over 100 nautical miles total distance; and
 
@@ -4798,11 +4798,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 
-\(c\) *For a helicopter rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and helicopter class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(3) of this part, and the training must include at least—
+\(c\) *For a helicopter rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and helicopter class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(3) of this part, and the training must include at least—
 
 \(1\) 3 hours of cross-country flight training in a helicopter;
 
-\(2\) Except as provided in §61.110 of this part, 3 hours of night flight training in a helicopter that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in a helicopter that includes—
 
 \(i\) One cross-country flight of over 50 nautical miles total distance; and
 
@@ -4818,11 +4818,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 
-\(d\) *For a gyroplane rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(4) of this part, and the training must include at least—
+\(d\) *For a gyroplane rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(4) of this part, and the training must include at least—
 
 \(1\) 3 hours of cross-country flight training in a gyroplane;
 
-\(2\) Except as provided in §61.110 of this part, 3 hours of night flight training in a gyroplane that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in a gyroplane that includes—
 
 \(i\) One cross-country flight of over 50 nautical miles total distance; and
 
@@ -4838,11 +4838,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 
-\(e\) *For a powered-lift rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(5) of this part, and the training must include at least—
+\(e\) *For a powered-lift rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(5) of this part, and the training must include at least—
 
 \(1\) 3 hours of cross-country flight training in a powered-lift;
 
-\(2\) Except as provided in §61.110 of this part, 3 hours of night flight training in a powered-lift that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in a powered-lift that includes—
 
 \(i\) One cross-country flight of over 100 nautical miles total distance; and
 
@@ -4860,25 +4860,25 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) Three takeoffs and three landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
 
-\(f\) *For a glider category rating.* (1) If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in §61.107(b)(6) of this part, and that flight time must include at least—
+\(f\) *For a glider category rating.* (1) If the applicant for a private pilot certificate with a glider category rating has not logged at least 40 hours of flight time as a pilot in a heavier-than-air aircraft, the applicant must log at least 10 hours of flight time in a glider in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(6) of this part, and that flight time must include at least—
 
-\(i\) 20 flights in a glider in the areas of operations listed in §61.107(b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and
+\(i\) 20 flights in a glider in the areas of operations listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(6) of this part, including at least 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test; and
 
-\(ii\) 2 hours of solo flight time in a glider in the areas of operation listed in §61.107(b)(6) of this part, with not less than 10 launches and landings being performed.
+\(ii\) 2 hours of solo flight time in a glider in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(6) of this part, with not less than 10 launches and landings being performed.
 
-\(2\) If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in §61.107(b)(6) of this part, and that flight time must include at least—
+\(2\) If the applicant has logged at least 40 hours of flight time in a heavier-than-air aircraft, the applicant must log at least 3 hours of flight time in a glider in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(6) of this part, and that flight time must include at least—
 
-\(i\) 10 solo flights in a glider in the areas of operation listed in §61.107(b)(6) of this part; and
+\(i\) 10 solo flights in a glider in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(6) of this part; and
 
 \(ii\) 3 training flights with an authorized instructor in a glider in preparation for the practical test that must have been performed within the preceding 2 calendar months from the month of the test.
 
 \(g\) *For an airship rating.* A person who applies for a private pilot certificate with a lighter-than-air category and airship class rating must log at least:
 
-\(1\) 25 hours of flight training in airships on the areas of operation listed in §61.107(b)(7) of this part, which consists of at least:
+\(1\) 25 hours of flight training in airships on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(7) of this part, which consists of at least:
 
 \(i\) 3 hours of cross-country flight training in an airship;
 
-\(ii\) Except as provided in §61.110 of this part, 3 hours of night flight training in an airship that includes:
+\(ii\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]] of this part, 3 hours of night flight training in an airship that includes:
 
 \(A\) A cross-country flight of over 25 nautical miles total distance; and
 
@@ -4890,7 +4890,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(4\) 5 hours performing the duties of pilot in command in an airship with an authorized instructor.
 
-\(h\) *For a balloon rating.* A person who applies for a private pilot certificate with a lighter-than-air category and balloon class rating must log at least 10 hours of flight training that includes at least six training flights with an authorized instructor in the areas of operation listed in §61.107(b)(8) of this part, that includes—
+\(h\) *For a balloon rating.* A person who applies for a private pilot certificate with a lighter-than-air category and balloon class rating must log at least 10 hours of flight training that includes at least six training flights with an authorized instructor in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(8) of this part, that includes—
 
 \(1\) *Gas balloon.* If the training is being performed in a gas balloon, at least two flights of 2 hours each that consists of—
 
@@ -4908,11 +4908,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(iii\) At least one flight involving a controlled ascent to 2,000 feet above the launch site.
 
-\(i\) *For a powered parachute rating.* A person who applies for a private pilot certificate with a powered parachute category rating must log at least 25 hours of flight time in a powered parachute that includes at least 10 hours of flight training with an authorized instructor, including 30 takeoffs and landings, and 10 hours of solo flight training in the areas of operation listed in §61.107 (b)(9) and the training must include at least—
+\(i\) *For a powered parachute rating.* A person who applies for a private pilot certificate with a powered parachute category rating must log at least 25 hours of flight time in a powered parachute that includes at least 10 hours of flight training with an authorized instructor, including 30 takeoffs and landings, and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]] (b)(9) and the training must include at least—
 
 \(1\) One hour of cross-country flight training in a powered parachute that includes a 1-hour cross-country flight with a landing at an airport at least 25 nautical miles from the airport of departure;
 
-\(2\) Except as provided in §61.110, 3 hours of night flight training in a powered parachute that includes 10 takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]], 3 hours of night flight training in a powered parachute that includes 10 takeoffs and landings (with each landing involving a flight in the traffic pattern) at an airport;
 
 \(3\) Three hours of flight training with an authorized instructor in a powered parachute in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test;
 
@@ -4924,11 +4924,11 @@ To be eligible for a private pilot certificate, a person must:
 
 \(5\) Three takeoffs and landings (with each landing involving a flight in the traffic pattern) in an aircraft at an airport with an operating control tower.
 
-\(j\) *For a weight-shift-control aircraft rating.* A person who applies for a private pilot certificate with a weight-shift-control rating must log at least 40 hours of flight time that includes at least 20 hours of flight training with an authorized instructor and 10 hours of solo flight training in the areas of operation listed in §61.107(b)(10) and the training must include at least—
+\(j\) *For a weight-shift-control aircraft rating.* A person who applies for a private pilot certificate with a weight-shift-control rating must log at least 40 hours of flight time that includes at least 20 hours of flight training with an authorized instructor and 10 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.107   Flight proficiency.|§61.107]](b)(10) and the training must include at least—
 
 \(1\) Three hours of cross-country flight training in a weight-shift-control aircraft;
 
-\(2\) Except as provided in §61.110, 3 hours of night flight training in a weight-shift-control aircraft that includes—
+\(2\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.110   Night flying exceptions.|§61.110]], 3 hours of night flight training in a weight-shift-control aircraft that includes—
 
 \(i\) One cross-country flight of over 75 nautical miles total distance that includes a point of landing that is a straight-line distance of more than 50 nautical miles from the original point of departure; and
 
@@ -4946,9 +4946,9 @@ To be eligible for a private pilot certificate, a person must:
 
 \(k\) *Permitted credit for use of a full flight simulator or flight training device.* (1) Except as provided in paragraphs (k)(2) of this section, a maximum of 2.5 hours of training in a full flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section, if received from an authorized instructor.
 
-\(2\) A maximum of 5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section if the training is accomplished in a course conducted by a training center certificated under part 142 of this chapter.
+\(2\) A maximum of 5 hours of training in a flight simulator or flight training device representing the category, class, and type, if applicable, of aircraft appropriate to the rating sought, may be credited toward the flight training time required by this section if the training is accomplished in a course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
-\(3\) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under part 142 of this chapter, need only have a total of 35 hours of aeronautical experience to meet the requirements of this section.
+\(3\) Except when fewer hours are approved by the Administrator, an applicant for a private pilot certificate with an airplane, rotorcraft, or powered-lift rating, who has satisfactorily completed an approved private pilot course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]], need only have a total of 35 hours of aeronautical experience to meet the requirements of this section.
 
 \(l\) *Permitted credit for flight training received from a flight instructor with a sport pilot rating.* The holder of a sport pilot certificate may credit flight training received from a flight instructor with a sport pilot rating toward the aeronautical experience requirements of this section if the following conditions are met:
 
@@ -4960,7 +4960,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(i\) Training on areas of operation that are required for both a sport pilot certificate and a private pilot certificate; or
 
-\(ii\) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by §61.412(c).
+\(ii\) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.412   Do I need additional training to provide instruction on control and maneuvering an airplane solely by reference to the instruments in a light-sport aircraft based on VH?|§61.412]](c).
 
 \[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Amdt. 61-142, 83 FR 30278, June 27, 2018\]
 
@@ -4978,19 +4978,19 @@ To be eligible for a private pilot certificate, a person must:
 
 \(ii\) Presents to an examiner a logbook or training record endorsement from an authorized instructor that verifies accomplishment of the appropriate night flight training requirements of this subpart.
 
-\(c\) A person who does not meet the night flying requirements in §61.109(d)(2), (i)(2), or (j)(2) may be issued a private pilot certificate with the limitation “Night flying prohibited.” This limitation may be removed by an examiner if the holder complies with the requirements of §61.109(d)(2), (i)(2), or (j)(2), as appropriate.
+\(c\) A person who does not meet the night flying requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.109   Aeronautical experience.|§61.109]](d)(2), (i)(2), or (j)(2) may be issued a private pilot certificate with the limitation “Night flying prohibited.” This limitation may be removed by an examiner if the holder complies with the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.109   Aeronautical experience.|§61.109]](d)(2), (i)(2), or (j)(2), as appropriate.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997; Amdt. 61-110, 69 FR 44869, July 27, 2004\]
 
 ### §61.111   Cross-country flights: Pilots based on small islands.
 
-\(a\) Except as provided in paragraph (b) of this section, an applicant located on an island from which the cross-country flight training required in §61.109 of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section.
+\(a\) Except as provided in paragraph (b) of this section, an applicant located on an island from which the cross-country flight training required in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.109   Aeronautical experience.|§61.109]] of this part cannot be accomplished without flying over water for more than 10 nautical miles from the nearest shoreline need not comply with the requirements of that section.
 
 \(b\) If other airports that permit civil operations are available to which a flight may be made without flying over water for more than 10 nautical miles from the nearest shoreline, the applicant must show completion of two round-trip solo flights between those two airports that are farthest apart, including a landing at each airport on both flights.
 
-\(c\) An applicant who complies with paragraph (a) or paragraph (b) of this section, and meets all requirements for the issuance of a private pilot certificate, except the cross-country training requirements of §61.109 of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (b) of this section for another island.
+\(c\) An applicant who complies with paragraph (a) or paragraph (b) of this section, and meets all requirements for the issuance of a private pilot certificate, except the cross-country training requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.109   Aeronautical experience.|§61.109]] of this part, will be issued a pilot certificate with an endorsement containing the following limitation, “Passenger carrying prohibited on flights more than 10 nautical miles from (the appropriate island).” The limitation may be subsequently amended to include another island if the applicant complies with the requirements of paragraph (b) of this section for another island.
 
-\(d\) Upon meeting the cross-country training requirements of §61.109 of this part, the applicant may have the limitation in paragraph (c) of this section removed.
+\(d\) Upon meeting the cross-country training requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.109   Aeronautical experience.|§61.109]] of this part, the applicant may have the limitation in paragraph (c) of this section removed.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997\]
 
@@ -5006,7 +5006,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(c\) A private pilot may not pay less than the pro rata share of the operating expenses of a flight with passengers, provided the expenses involve only fuel, oil, airport expenditures, or rental fees.
 
-\(d\) A private pilot may act as pilot in command of a charitable, nonprofit, or community event flight described in §91.146, if the sponsor and pilot comply with the requirements of §91.146.
+\(d\) A private pilot may act as pilot in command of a charitable, nonprofit, or community event flight described in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.146   Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event.|§91.146]], if the sponsor and pilot comply with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.146   Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event.|§91.146]].
 
 \(e\) A private pilot may be reimbursed for aircraft operating expenses that are directly related to search and location operations, provided the expenses involve only fuel, oil, airport expenditures, or rental fees, and the operation is sanctioned and under the direction and control of:
 
@@ -5016,9 +5016,9 @@ To be eligible for a private pilot certificate, a person must:
 
 \(f\) A private pilot who is an aircraft salesman and who has at least 200 hours of logged flight time may demonstrate an aircraft in flight to a prospective buyer.
 
-\(g\) A private pilot who meets the requirements of §61.69 may act as a pilot in command of an aircraft towing a glider or unpowered ultralight vehicle.
+\(g\) A private pilot who meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.69   Glider and unpowered ultralight vehicle towing: Experience and training requirements.|§61.69]] may act as a pilot in command of an aircraft towing a glider or unpowered ultralight vehicle.
 
-\(h\) A private pilot may act as pilot in command for the purpose of conducting a production flight test in a light-sport aircraft intended for certification in the light-sport category under §21.190 of this chapter, provided that—
+\(h\) A private pilot may act as pilot in command for the purpose of conducting a production flight test in a light-sport aircraft intended for certification in the light-sport category under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.190   Issue of a special airworthiness certificate for a light-sport category aircraft.|§21.190]] of this chapter, provided that—
 
 \(1\) The aircraft is a powered parachute or a weight-shift-control aircraft;
 
@@ -5026,7 +5026,7 @@ To be eligible for a private pilot certificate, a person must:
 
 \(3\) The person is familiar with the processes and procedures applicable to the conduct of production flight testing, to include operations conducted under a special flight permit and any associated operating limitations.
 
-\(i\) A private pilot may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the pilot holds a valid U.S. driver's license, meets the requirements of §61.23(c)(3), and complies with this section and all of the following conditions and limitations:
+\(i\) A private pilot may act as pilot in command of an aircraft without holding a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] provided the pilot holds a valid U.S. driver's license, meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](c)(3), and complies with this section and all of the following conditions and limitations:
 
 \(1\) The aircraft is authorized to carry not more than 6 occupants, has a maximum takeoff weight of not more than 6,000 pounds, and is operated with no more than five passengers on board; and
 
@@ -5040,9 +5040,9 @@ To be eligible for a private pilot certificate, a person must:
 
 \(3\) The pilot has available in his or her logbook—
 
-\(i\) The completed medical examination checklist required under §68.7 of this chapter; and
+\(i\) The completed medical examination checklist required under [[Volume 2/D Airmen/0068 Requirements for operating certain small aircraft without a medical certificate.md#§68.7   Comprehensive medical examination checklist.|§68.7]] of this chapter; and
 
-\(ii\) The certificate of course completion required under §61.23(c)(3).
+\(ii\) The certificate of course completion required under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.23   Medical certificates: Requirement and duration.|§61.23]](c)(3).
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-115, 72 FR 6910, Feb. 13, 2007; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017\]
 
@@ -5062,7 +5062,7 @@ To be eligible for a private pilot certificate, a person must:
 
 ### §61.117   Private pilot privileges and limitations: Second in command of aircraft requiring more than one pilot.
 
-Except as provided in §61.113 of this part, no private pilot may, for compensation or hire, act as second in command of an aircraft that is type certificated for more than one pilot, nor may that pilot act as second in command of such an aircraft that is carrying passengers or property for compensation or hire.
+Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]] of this part, no private pilot may, for compensation or hire, act as second in command of an aircraft that is type certificated for more than one pilot, nor may that pilot act as second in command of such an aircraft that is carrying passengers or property for compensation or hire.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997\]
 
@@ -5084,23 +5084,23 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(c\) Receive a logbook endorsement from an authorized instructor who:
 
-\(1\) Conducted the required ground training or reviewed the person's home study on the aeronautical knowledge areas listed in §61.125 of this part that apply to the aircraft category and class rating sought; and
+\(1\) Conducted the required ground training or reviewed the person's home study on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.125   Aeronautical knowledge.|§61.125]] of this part that apply to the aircraft category and class rating sought; and
 
 \(2\) Certified that the person is prepared for the required knowledge test that applies to the aircraft category and class rating sought.
 
-\(d\) Pass the required knowledge test on the aeronautical knowledge areas listed in §61.125 of this part;
+\(d\) Pass the required knowledge test on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.125   Aeronautical knowledge.|§61.125]] of this part;
 
 \(e\) Receive the required training and a logbook endorsement from an authorized instructor who:
 
-\(1\) Conducted the training on the areas of operation listed in §61.127(b) of this part that apply to the aircraft category and class rating sought; and
+\(1\) Conducted the training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b) of this part that apply to the aircraft category and class rating sought; and
 
 \(2\) Certified that the person is prepared for the required practical test.
 
 \(f\) Meet the aeronautical experience requirements of this subpart that apply to the aircraft category and class rating sought before applying for the practical test;
 
-\(g\) Pass the required practical test on the areas of operation listed in §61.127(b) of this part that apply to the aircraft category and class rating sought;
+\(g\) Pass the required practical test on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b) of this part that apply to the aircraft category and class rating sought;
 
-\(h\) Hold at least a private pilot certificate issued under this part or meet the requirements of §61.73; and
+\(h\) Hold at least a private pilot certificate issued under this part or meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]]; and
 
 \(i\) Comply with the sections of this part that apply to the aircraft category and class rating sought.
 
@@ -5348,7 +5348,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) 50 hours in cross-country flight of which at least 10 hours must be in airplanes.
 
-\(3\) 20 hours of training on the areas of operation listed in §61.127(b)(1) of this part that includes at least—
+\(3\) 20 hours of training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(1) of this part that includes at least—
 
 \(i\) Ten hours of instrument training using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. Five hours of the 10 hours required on instrument training must be in a single engine airplane;
 
@@ -5360,7 +5360,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(v\) Three hours in a single-engine airplane with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(4\) Ten hours of solo flight time in a single engine airplane or 10 hours of flight time performing the duties of pilot in command in a single engine airplane with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (a)(2) of this section), on the areas of operation listed under §61.127(b)(1) that include—
+\(4\) Ten hours of solo flight time in a single engine airplane or 10 hours of flight time performing the duties of pilot in command in a single engine airplane with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (a)(2) of this section), on the areas of operation listed under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(1) that include—
 
 \(i\) One cross-country flight of not less than 300 nautical miles total distance, with landings at a minimum of three points, one of which is a straight-line distance of at least 250 nautical miles from the original departure point. However, if this requirement is being met in Hawaii, the longest segment need only have a straight-line distance of at least 150 nautical miles; and
 
@@ -5376,7 +5376,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) 50 hours in cross-country flight of which at least 10 hours must be in airplanes.
 
-\(3\) 20 hours of training on the areas of operation listed in §61.127(b)(2) of this part that includes at least—
+\(3\) 20 hours of training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(2) of this part that includes at least—
 
 \(i\) Ten hours of instrument training using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. Five hours of the 10 hours required on instrument training must be in a multiengine airplane;
 
@@ -5388,7 +5388,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(v\) Three hours in a multiengine airplane with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(4\) 10 hours of solo flight time in a multiengine airplane or 10 hours of flight time performing the duties of pilot in command in a multiengine airplane with an authorized instructor (either of which may be credited towards the flight time requirement in paragraph (b)(2) of this section), on the areas of operation listed in §61.127(b)(2) of this part that includes at least—
+\(4\) 10 hours of solo flight time in a multiengine airplane or 10 hours of flight time performing the duties of pilot in command in a multiengine airplane with an authorized instructor (either of which may be credited towards the flight time requirement in paragraph (b)(2) of this section), on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(2) of this part that includes at least—
 
 \(i\) One cross-country flight of not less than 300 nautical miles total distance with landings at a minimum of three points, one of which is a straight-line distance of at least 250 nautical miles from the original departure point. However, if this requirement is being met in Hawaii, the longest segment need only have a straight-line distance of at least 150 nautical miles; and
 
@@ -5404,7 +5404,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) 10 hours in cross-country flight in helicopters.
 
-\(3\) 20 hours of training on the areas of operation listed in §61.127(b)(3) of this part that includes at least—
+\(3\) 20 hours of training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(3) of this part that includes at least—
 
 \(i\) Five hours on the control and maneuvering of a helicopter solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, full flight simulator, flight training device, or an aviation training device;
 
@@ -5414,7 +5414,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(iv\) Three hours in a helicopter with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(4\) Ten hours of solo flight time in a helicopter or 10 hours of flight time performing the duties of pilot in command in a helicopter with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (c)(2) of this section), on the areas of operation listed under §61.127(b)(3) that includes—
+\(4\) Ten hours of solo flight time in a helicopter or 10 hours of flight time performing the duties of pilot in command in a helicopter with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (c)(2) of this section), on the areas of operation listed under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(3) that includes—
 
 \(i\) One cross-country flight with landings at a minimum of three points, with one segment consisting of a straight-line distance of at least 50 nautical miles from the original point of departure; and
 
@@ -5430,7 +5430,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) 3 hours in cross-country flight in gyroplanes.
 
-\(3\) 20 hours of training on the areas of operation listed in §61.127(b)(4) of this part that includes at least—
+\(3\) 20 hours of training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(4) of this part that includes at least—
 
 \(i\) 2.5 hours on the control and maneuvering of a gyroplane solely by reference to instruments using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, full flight simulator, flight training device, or an aviation training device;
 
@@ -5440,7 +5440,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(iv\) Three hours in a gyroplane with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(4\) Ten hours of solo flight time in a gyroplane or 10 hours of flight time performing the duties of pilot in command in a gyroplane with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (d)(2) of this section), on the areas of operation listed in §61.127(b)(4) that includes—
+\(4\) Ten hours of solo flight time in a gyroplane or 10 hours of flight time performing the duties of pilot in command in a gyroplane with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (d)(2) of this section), on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(4) that includes—
 
 \(i\) One cross-country flight with landings at a minimum of three points, with one segment consisting of a straight-line distance of at least 50 nautical miles from the original point of departure; and
 
@@ -5456,7 +5456,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) 50 hours in cross-country flight of which 10 hours must be in a powered-lift.
 
-\(3\) 20 hours of training on the areas of operation listed in §61.127(b)(5) of this part that includes at least—
+\(3\) 20 hours of training on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(5) of this part that includes at least—
 
 \(i\) Ten hours of instrument training using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. Five hours of the 10 hours required on instrument training must be in a powered-lift;
 
@@ -5466,7 +5466,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(iv\) 3 hours in a powered-lift with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test.
 
-\(4\) Ten hours of solo flight time in a powered-lift or 10 hours of flight time performing the duties of pilot in command in a powered-lift with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (e)(2) of this section, on the areas of operation listed in §61.127(b)(5) that includes—
+\(4\) Ten hours of solo flight time in a powered-lift or 10 hours of flight time performing the duties of pilot in command in a powered-lift with an authorized instructor on board (either of which may be credited towards the flight time requirement under paragraph (e)(2) of this section, on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(5) that includes—
 
 \(i\) One cross-country flight of not less than 300 nautical miles total distance with landings at a minimum of three points, one of which is a straight-line distance of at least 250 nautical miles from the original departure point. However, if this requirement is being met in Hawaii the longest segment need only have a straight-line distance of at least 150 nautical miles; and
 
@@ -5476,15 +5476,15 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(1\) 25 hours of flight time as a pilot in a glider and that flight time must include at least 100 flights in a glider as pilot in command, including at least—
 
-\(i\) Three hours of flight training in a glider with an authorized instructor or 10 training flights in a glider with an authorized instructor on the areas of operation listed in §61.127(b)(6) of this part, including at least 3 training flights in a glider with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
+\(i\) Three hours of flight training in a glider with an authorized instructor or 10 training flights in a glider with an authorized instructor on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(6) of this part, including at least 3 training flights in a glider with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
 
-\(ii\) 2 hours of solo flight that include not less than 10 solo flights in a glider on the areas of operation listed in §61.127(b)(6) of this part; or
+\(ii\) 2 hours of solo flight that include not less than 10 solo flights in a glider on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(6) of this part; or
 
 \(2\) 200 hours of flight time as a pilot in heavier-than-air aircraft and at least 20 flights in a glider as pilot in command, including at least—
 
-\(i\) Three hours of flight training in a glider or 10 training flights in a glider with an authorized instructor on the areas of operation listed in §61.127(b)(6) of this part including at least 3 training flights in a glider with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
+\(i\) Three hours of flight training in a glider or 10 training flights in a glider with an authorized instructor on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(6) of this part including at least 3 training flights in a glider with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test; and
 
-\(ii\) 5 solo flights in a glider on the areas of operation listed in §61.127(b)(6) of this part.
+\(ii\) 5 solo flights in a glider on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(6) of this part.
 
 \(g\) *For an airship rating.* A person who applies for a commercial pilot certificate with a lighter-than-air category and airship class rating must log at least 200 hours of flight time as a pilot, which includes at least the following hours:
 
@@ -5502,7 +5502,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(ii\) Twenty hours of instrument flight time, of which 10 hours must be in flight in airships.
 
-\(4\) 20 hours of flight training in airships on the areas of operation listed in §61.127(b)(7) of this part, which includes at least—
+\(4\) 20 hours of flight training in airships on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(7) of this part, which includes at least—
 
 \(i\) Three hours in an airship with an authorized instructor in preparation for the practical test within the preceding 2 calendar months from the month of the test;
 
@@ -5510,7 +5510,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(iii\) One hour cross country flight in an airship in nighttime conditions that consists of a total straight-line distance of more than 25 nautical miles from the point of departure.
 
-\(5\) 10 hours of flight training performing the duties of pilot in command with an authorized instructor on the areas of operation listed in §61.127(b)(7) of this part, which includes at least—
+\(5\) 10 hours of flight training performing the duties of pilot in command with an authorized instructor on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(7) of this part, which includes at least—
 
 \(i\) One cross-country flight with landings at a minimum of three points, with one segment consisting of a straight-line distance of at least 25 nautical miles from the original point of departure; and
 
@@ -5524,7 +5524,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(3\) Two flights in balloons as the pilot in command; and
 
-\(4\) 10 hours of flight training that includes at least 10 training flights with an authorized instructor in balloons on the areas of operation listed in §61.127(b)(8) of this part, which consists of at least—
+\(4\) 10 hours of flight training that includes at least 10 training flights with an authorized instructor in balloons on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.127   Flight proficiency.|§61.127]](b)(8) of this part, which consists of at least—
 
 \(i\) For a gas balloon—
 
@@ -5542,19 +5542,19 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(C\) One flight involving a controlled ascent to 3,000 feet above the launch site.
 
-\(i\) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraph (i)(2) of this section, an applicant who has not accomplished the training required by this section in a course conducted by a training center certificated under part 142 of this chapter may:
+\(i\) *Permitted credit for use of a flight simulator or flight training device.* (1) Except as provided in paragraph (i)(2) of this section, an applicant who has not accomplished the training required by this section in a course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] may:
 
 \(i\) Credit a maximum of 50 hours toward the total aeronautical experience requirements for an airplane or powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
 
 \(ii\) Credit a maximum of 25 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
 
-\(2\) An applicant who has accomplished the training required by this section in a course conducted by a training center certificated under part 142 of this chapter may:
+\(2\) An applicant who has accomplished the training required by this section in a course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] may:
 
 \(i\) Credit a maximum of 100 hours toward the total aeronautical experience requirements of this section for an airplane and powered-lift rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents that class of airplane or powered-lift category and type, if applicable, appropriate to the rating sought; and
 
 \(ii\) Credit a maximum of 50 hours toward the total aeronautical experience requirements of this section for a helicopter rating, provided the aeronautical experience was obtained from an authorized instructor in a full flight simulator or flight training device that represents a helicopter and type, if applicable, appropriate to the rating sought.
 
-\(3\) Except when fewer hours are approved by the FAA, an applicant for the commercial pilot certificate with the airplane or powered-lift rating who has completed 190 hours of aeronautical experience is considered to have met the total aeronautical experience requirements of this section, provided the applicant satisfactorily completed an approved commercial pilot course under part 142 of this chapter and the approved course was appropriate to the commercial pilot certificate and aircraft rating sought.
+\(3\) Except when fewer hours are approved by the FAA, an applicant for the commercial pilot certificate with the airplane or powered-lift rating who has completed 190 hours of aeronautical experience is considered to have met the total aeronautical experience requirements of this section, provided the applicant satisfactorily completed an approved commercial pilot course under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] and the approved course was appropriate to the commercial pilot certificate and aircraft rating sought.
 
 \(j\) *Technically advanced airplane.* Unless otherwise authorized by the Administrator, a technically advanced airplane must be equipped with an electronically advanced avionics system that includes the following installed components:
 
@@ -5612,7 +5612,7 @@ To be eligible for a commercial pilot certificate, a person must:
 
 \(D\) Give ground and flight training and endorsements that are required for a flight review, an operating privilege, or recency-of-experience requirements of this part.
 
-\(b\) *Limitations.* (1) A person who applies for a commercial pilot certificate with an airplane category or powered-lift category rating and does not hold an instrument rating in the same category and class will be issued a commercial pilot certificate that contains the limitation, “The carriage of passengers for hire in (airplanes) (powered-lifts) on cross-country flights in excess of 50 nautical miles or at night is prohibited.” The limitation may be removed when the person satisfactorily accomplishes the requirements listed in §61.65 of this part for an instrument rating in the same category and class of aircraft listed on the person's commercial pilot certificate.
+\(b\) *Limitations.* (1) A person who applies for a commercial pilot certificate with an airplane category or powered-lift category rating and does not hold an instrument rating in the same category and class will be issued a commercial pilot certificate that contains the limitation, “The carriage of passengers for hire in (airplanes) (powered-lifts) on cross-country flights in excess of 50 nautical miles or at night is prohibited.” The limitation may be removed when the person satisfactorily accomplishes the requirements listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.65   Instrument rating requirements.|§61.65]] of this part for an instrument rating in the same category and class of aircraft listed on the person's commercial pilot certificate.
 
 \(2\) If a person who applies for a commercial pilot certificate with a balloon rating takes a practical test in a balloon with an airborne heater—
 
@@ -5642,9 +5642,9 @@ To be eligible for an airline transport pilot certificate, a person must:
 
 \(a\) Meet the following age requirements:
 
-\(1\) For an airline transport pilot certificate obtained under the aeronautical experience requirements of §§61.159, 61.161, or 61.163, be at least 23 years of age; or
+\(1\) For an airline transport pilot certificate obtained under the aeronautical experience requirements of §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]], 61.161, or 61.163, be at least 23 years of age; or
 
-\(2\) For an airline transport pilot certificate obtained under the aeronautical experience requirements of §61.160, be at least 21 years of age.
+\(2\) For an airline transport pilot certificate obtained under the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]], be at least 21 years of age.
 
 \(b\) Be able to read, speak, write, and understand the English language. If the applicant is unable to meet one of these requirements due to medical reasons, then the Administrator may place such operating limitations on that applicant's pilot certificate as are necessary for the safe operation of the aircraft;
 
@@ -5654,7 +5654,7 @@ To be eligible for an airline transport pilot certificate, a person must:
 
 \(1\) Holds a commercial pilot certificate with an instrument rating issued under this part;
 
-\(2\) Meet the military experience requirements under §61.73 of this part to qualify for a commercial pilot certificate, and an instrument rating if the person is a rated military pilot or former rated military pilot of an Armed Force of the United States; or
+\(2\) Meet the military experience requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]] of this part to qualify for a commercial pilot certificate, and an instrument rating if the person is a rated military pilot or former rated military pilot of an Armed Force of the United States; or
 
 \(3\) Holds either a foreign airline transport pilot license with instrument privileges, or a foreign commercial pilot license with an instrument rating, that—
 
@@ -5662,13 +5662,13 @@ To be eligible for an airline transport pilot certificate, a person must:
 
 \(ii\) Contains no geographical limitations.
 
-\(e\) After July 31, 2014, for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate obtained concurrently with an airplane type rating, receive a graduation certificate from an authorized training provider certifying completion of the airline transport pilot certification training program specified in §61.156 before applying for the knowledge test required by paragraph (g) of this section;
+\(e\) After July 31, 2014, for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate obtained concurrently with an airplane type rating, receive a graduation certificate from an authorized training provider certifying completion of the airline transport pilot certification training program specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] before applying for the knowledge test required by paragraph (g) of this section;
 
 \(f\) Meet the aeronautical experience requirements of this subpart that apply to the aircraft category and class rating sought before applying for the practical test;
 
-\(g\) Pass a knowledge test on the aeronautical knowledge areas of §61.155(c) of this part that apply to the aircraft category and class rating sought;
+\(g\) Pass a knowledge test on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c) of this part that apply to the aircraft category and class rating sought;
 
-\(h\) Pass the practical test on the areas of operation listed in §61.157(e) of this part that apply to the aircraft category and class rating sought; and
+\(h\) Pass the practical test on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e) of this part that apply to the aircraft category and class rating sought; and
 
 \(i\) Comply with the sections of this subpart that apply to the aircraft category and class rating sought.
 
@@ -5706,9 +5706,9 @@ To be eligible for an airline transport pilot certificate, a person must:
 
 \(13\) Crew resource management to include crew communication and coordination; and
 
-\(14\) After July 31, 2014, for airplane category multiengine class rating or airplane type rating, the content of the airline transport pilot certification training program in §61.156.
+\(14\) After July 31, 2014, for airplane category multiengine class rating or airplane type rating, the content of the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]].
 
-\(d\) An applicant who successfully completes the knowledge test for an airline transport pilot certificate prior to August 1, 2014, must successfully complete the practical test within 24 months from the month in which the knowledge test was successfully completed. An applicant who passes the knowledge test prior to August 1, 2014, but fails to successfully complete the airplane category with a multiengine class rating practical test within 24 months must complete the airline transport pilot certification training program specified in §61.156 and retake the knowledge test prior to applying for the airplane category with a multiengine class rating practical test.
+\(d\) An applicant who successfully completes the knowledge test for an airline transport pilot certificate prior to August 1, 2014, must successfully complete the practical test within 24 months from the month in which the knowledge test was successfully completed. An applicant who passes the knowledge test prior to August 1, 2014, but fails to successfully complete the airplane category with a multiengine class rating practical test within 24 months must complete the airline transport pilot certification training program specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] and retake the knowledge test prior to applying for the airplane category with a multiengine class rating practical test.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-130, 78 FR 42374, July 15, 2013; Docket FAA-2010-0100, Amdt. 61-130C, 81 FR 2, Jan. 4, 2016\]
 
@@ -5744,9 +5744,9 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(4\) At least 6 hours of instruction on leadership, professional development, crew resource management, and safety culture.
 
-\(b\) *FSTD training.* The applicant for the knowledge test must receive at least 10 hours of training in a flight simulation training device qualified under part 60 of this chapter that represents a multiengine turbine airplane. The training must include the following:
+\(b\) *FSTD training.* The applicant for the knowledge test must receive at least 10 hours of training in a flight simulation training device qualified under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] that represents a multiengine turbine airplane. The training must include the following:
 
-\(1\) At least 6 hours of training in a Level C or higher full flight simulator qualified under part 60 of this chapter that represents a multiengine turbine airplane with a maximum takeoff weight of 40,000 pounds or greater. The training must include the following areas:
+\(1\) At least 6 hours of training in a Level C or higher full flight simulator qualified under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] that represents a multiengine turbine airplane with a maximum takeoff weight of 40,000 pounds or greater. The training must include the following areas:
 
 \(i\) Low energy states/stalls;
 
@@ -5780,7 +5780,7 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(2\) A person who is applying for an airline transport pilot practical test must meet—
 
-\(i\) The eligibility requirements of §61.153; and
+\(i\) The eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]]; and
 
 \(ii\) The aeronautical knowledge and aeronautical experience requirements of this subpart that apply to the aircraft category and class rating sought.
 
@@ -5792,7 +5792,7 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(3\) Must perform the practical test in actual or simulated instrument conditions, except as provided under paragraph (g) of this section.
 
-\(c\) *Exceptions.* A person who applies for an aircraft type rating to be added to an airline transport pilot certificate or an aircraft type rating concurrently with an airline transport pilot certificate, and who is an employee of a certificate holder operating under part 121 or part 135 of this chapter, does not need to comply with the requirements of paragraph (b) of this section if the applicant presents a training record that shows completion of that certificate holder's approved training program for the aircraft type rating.
+\(c\) *Exceptions.* A person who applies for an aircraft type rating to be added to an airline transport pilot certificate or an aircraft type rating concurrently with an airline transport pilot certificate, and who is an employee of a certificate holder operating under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], does not need to comply with the requirements of paragraph (b) of this section if the applicant presents a training record that shows completion of that certificate holder's approved training program for the aircraft type rating.
 
 \(d\) *Upgrading type ratings.* Any type rating(s) and limitations on a pilot certificate of an applicant who completes an airline transport pilot practical test will be included at the airline transport pilot certification level, provided the applicant passes the practical test in the same category and class of aircraft for which the applicant holds the type rating(s).
 
@@ -5878,11 +5878,11 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(f\) *Proficiency and competency checks conducted under part 121, part 135, or subpart K of part 91.* (1) Successful completion of any of the following checks satisfies the flight proficiency requirements of this section for the issuance of an airline transport pilot certificate and/or the appropriate aircraft rating:
 
-\(i\) A proficiency check under §121.441 of this chapter.
+\(i\) A proficiency check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.441   Proficiency checks.|§121.441]] of this chapter.
 
-\(ii\) Both a competency check under §135.293(a)(2) and §135.293(b) of this chapter and pilot-in-command instrument proficiency check under §135.297 of this chapter.
+\(ii\) Both a competency check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.293   Initial and recurrent pilot testing requirements.|§135.293]](a)(2) and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.293   Initial and recurrent pilot testing requirements.|§135.293]](b) of this chapter and pilot-in-command instrument proficiency check under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.297   Pilot in command: Instrument proficiency check requirements.|§135.297]] of this chapter.
 
-\(iii\) Both a competency check under §91.1065 of this chapter and a pilot-in-command instrument proficiency check under §91.1069 of this chapter.
+\(iii\) Both a competency check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]] of this chapter and a pilot-in-command instrument proficiency check under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]] of this chapter.
 
 \(2\) The checks specified in paragraph (f)(1) of this section must be conducted by one of the following:
 
@@ -5900,9 +5900,9 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(3\) The “VFR only” limitation may be removed for that aircraft type after the applicant:
 
-\(i\) Passes a practical test in that type of aircraft on the appropriate instrument maneuvers and procedures in §61.157; or
+\(i\) Passes a practical test in that type of aircraft on the appropriate instrument maneuvers and procedures in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]]; or
 
-\(ii\) Becomes qualified in §61.73(d) for that type of aircraft.
+\(ii\) Becomes qualified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]](d) for that type of aircraft.
 
 \(h\) *Multiengine airplane with a single-pilot station.* An applicant for a type rating, at the ATP certification level, in a multiengine airplane with a single-pilot station must perform the practical test in the multi-seat version of that airplane. The practical test may be performed in the single-seat version of that airplane if the Examiner is in a position to observe the applicant during the practical test in the case where there is no multi-seat version of that multiengine airplane.
 
@@ -5928,7 +5928,7 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(i\) Except as provided in paragraph (a)(4)(ii) of this section, an applicant may not receive credit for more than a total of 25 hours of simulated instrument time in a full flight simulator or flight training device.
 
-\(ii\) A maximum of 50 hours of training in a full flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under part 142 of this chapter.
+\(ii\) A maximum of 50 hours of training in a full flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(iii\) Training in a full flight simulator or flight training device must be accomplished in a full flight simulator or flight training device, representing an airplane.
 
@@ -5938,13 +5938,13 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(ii\) 25 hours of night flight time.
 
-\(6\) Not more than 100 hours of the total aeronautical experience requirements of paragraph (a) of this section or §61.160 may be obtained in a full flight simulator or flight training device provided the device represents an airplane and the aeronautical experience was accomplished as part of an approved training course in parts 121, 135, 141, or 142 of this chapter.
+\(6\) Not more than 100 hours of the total aeronautical experience requirements of paragraph (a) of this section or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]] may be obtained in a full flight simulator or flight training device provided the device represents an airplane and the aeronautical experience was accomplished as part of an approved training course in parts 121, 135, 141, or 142 of this chapter.
 
 \(b\) A person who has performed at least 20 night takeoffs and landings to a full stop may substitute each additional night takeoff and landing to a full stop for 1 hour of night flight time to satisfy the requirements of paragraph (a)(2) of this section; however, not more than 25 hours of night flight time may be credited in this manner.
 
-\(c\) A commercial pilot may log second-in-command pilot time toward the aeronautical experience requirements of paragraph (a) of this section and the aeronautical experience requirements in §61.160, provided the pilot is employed by a part 119 certificate holder authorized to conduct operations under part 135 of this chapter and the second-in-command pilot time is obtained in operations conducted for the certificate holder under part 91 or 135 of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, and the following requirements are met—
+\(c\) A commercial pilot may log second-in-command pilot time toward the aeronautical experience requirements of paragraph (a) of this section and the aeronautical experience requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]], provided the pilot is employed by a part 119 certificate holder authorized to conduct operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] and the second-in-command pilot time is obtained in operations conducted for the certificate holder under part 91 or 135 of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, and the following requirements are met—
 
-\(1\) The experience must be accomplished as part of a second-in-command professional development program approved by the Administrator under §135.99 of this chapter;
+\(1\) The experience must be accomplished as part of a second-in-command professional development program approved by the Administrator under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.99   Composition of flight crew.|§135.99]] of this chapter;
 
 \(2\) The flight operation must be conducted in accordance with the certificate holder's operations specification for the second-in-command professional development program;
 
@@ -5952,15 +5952,15 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(4\) The pilot time may not be logged as pilot-in-command time even when the pilot is the sole manipulator of the controls and may not be used to meet the aeronautical experience requirements in paragraph (a)(5) of this section.
 
-\(d\) A commercial pilot may log the following flight engineer flight time toward the 1,500 hours of total time as a pilot required by paragraph (a) of this section and the total time as a pilot required by §61.160:
+\(d\) A commercial pilot may log the following flight engineer flight time toward the 1,500 hours of total time as a pilot required by paragraph (a) of this section and the total time as a pilot required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]]:
 
 \(1\) Flight-engineer time, provided the time—
 
 \(i\) Is acquired in an airplane required to have a flight engineer by the airplane's flight manual or type certificate;
 
-\(ii\) Is acquired while engaged in operations under part 121 of this chapter for which a flight engineer is required;
+\(ii\) Is acquired while engaged in operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] for which a flight engineer is required;
 
-\(iii\) Is acquired while the person is participating in a pilot training program approved under part 121 of this chapter; and
+\(iii\) Is acquired while the person is participating in a pilot training program approved under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]; and
 
 \(iv\) Does not exceed more than 1 hour for each 3 hours of flight engineer flight time for a total credited time of no more than 500 hours.
 
@@ -5988,7 +5988,7 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(b\) A person may apply for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate concurrently with an airplane type rating with a minimum of 1,000 hours of total time as a pilot if the person:
 
-\(1\) Holds a Bachelor's degree with an aviation major from an institution of higher education, as defined in §61.1, that has been issued a letter of authorization by the Administrator under §61.169;
+\(1\) Holds a Bachelor's degree with an aviation major from an institution of higher education, as defined in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.1   Applicability and definitions.|§61.1]], that has been issued a letter of authorization by the Administrator under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.169   Letters of authorization for institutions of higher education.|§61.169]];
 
 \(2\) Completes 60 semester credit hours of aviation and aviation-related coursework that has been recognized by the Administrator as coursework designed to improve and enhance the knowledge and skills of a person seeking a career as a professional pilot;
 
@@ -5996,13 +5996,13 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(i\) The required ground training was completed as part of an approved part 141 curriculum at the institution of higher education; and
 
-\(ii\) The required flight training was completed as part of an approved part 141 curriculum at the institution of higher education or at a part 141 pilot school that has a training agreement under §141.26 of this chapter with the institution of higher education; and
+\(ii\) The required flight training was completed as part of an approved part 141 curriculum at the institution of higher education or at a part 141 pilot school that has a training agreement under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.26   Training agreements.|§141.26]] of this chapter with the institution of higher education; and
 
 \(4\) Presents official transcripts or other documentation acceptable to the Administrator from the institution of higher education certifying that the graduate has satisfied the requirements in paragraphs (b)(1) through (3) of this section.
 
 \(c\) A person may apply for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate concurrently with an airplane type rating with a minimum of 1,250 hours of total time as a pilot if the person:
 
-\(1\) Holds an Associate's degree with an aviation major from an institution of higher education, as defined in §61.1, that has been issued a letter of authorization by the Administrator under §61.169;
+\(1\) Holds an Associate's degree with an aviation major from an institution of higher education, as defined in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.1   Applicability and definitions.|§61.1]], that has been issued a letter of authorization by the Administrator under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.169   Letters of authorization for institutions of higher education.|§61.169]];
 
 \(2\) Completes at least 30 semester credit hours of aviation and aviation-related coursework that has been recognized by the Administrator as coursework designed to improve and enhance the knowledge and skills of a person seeking a career as a professional pilot;
 
@@ -6010,19 +6010,19 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(i\) The required ground training was completed as part of an approved part 141 curriculum at the institution of higher education; and
 
-\(ii\) The required flight training was completed as part of an approved part 141 curriculum at the institution of higher education or at a part 141 pilot school that has a written training agreement under §141.26 of this chapter with the institution of higher education; and
+\(ii\) The required flight training was completed as part of an approved part 141 curriculum at the institution of higher education or at a part 141 pilot school that has a written training agreement under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.26   Training agreements.|§141.26]] of this chapter with the institution of higher education; and
 
 \(4\) Presents official transcripts or other documentation acceptable to the Administrator from the institution of higher education certifying that the graduate has satisfied the requirements in paragraphs (c)(1) through (3) of this section.
 
 \(d\) A graduate of an institution of higher education who completes fewer than 60 semester credit hours but at least 30 credit hours and otherwise satisfies the requirements of paragraph (b) may apply for airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate concurrently with an airplane type rating with a minimum of 1,250 hours of total time as a pilot.
 
-\(e\) A person who applies for an airline transport pilot certificate under the total flight times listed in paragraphs (a), (b), and (c) of this section must otherwise meet the aeronautical experience requirements of §61.159, except that the person may apply for an airline transport pilot certificate with 200 hours of cross-country flight time.
+\(e\) A person who applies for an airline transport pilot certificate under the total flight times listed in paragraphs (a), (b), and (c) of this section must otherwise meet the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]], except that the person may apply for an airline transport pilot certificate with 200 hours of cross-country flight time.
 
-\(f\) A person who has 1,500 hours total time as a pilot, 200 hours of cross-country flight time, and otherwise meets the aeronautical experience requirements of §61.159 may apply for an airline transport pilot certificate under this section.
+\(f\) A person who has 1,500 hours total time as a pilot, 200 hours of cross-country flight time, and otherwise meets the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] may apply for an airline transport pilot certificate under this section.
 
-\(g\) An airline transport pilot certificate obtained under this section is subject to the pilot in command limitations set forth in §61.167(b) and must contain the following limitation, “Restricted in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.167   Airline transport pilot privileges and limitations.|14 CFR 61.167]].” The pilot is entitled to an airline transport pilot certificate without the limitation specified in this paragraph when the applicant presents satisfactory evidence of having met the aeronautical experience requirements of §61.159 and the age requirement of §61.153(a)(1).
+\(g\) An airline transport pilot certificate obtained under this section is subject to the pilot in command limitations set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.167   Airline transport pilot privileges and limitations.|§61.167]](b) and must contain the following limitation, “Restricted in accordance with 14 CFR 61.167.” The pilot is entitled to an airline transport pilot certificate without the limitation specified in this paragraph when the applicant presents satisfactory evidence of having met the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] and the age requirement of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]](a)(1).
 
-\(h\) An applicant who meets the aeronautical experience requirements of paragraphs (a), (b), (c), and (d) of this section is issued an airline transport pilot certificate with the limitation, “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation if the applicant does not meet the ICAO requirements contained in Annex 1 “Personnel Licensing” to the Convention on International Civil Aviation. An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under this paragraph when the applicant presents satisfactory evidence of having met the ICAO requirements and otherwise meets the aeronautical experience requirements of §61.159.
+\(h\) An applicant who meets the aeronautical experience requirements of paragraphs (a), (b), (c), and (d) of this section is issued an airline transport pilot certificate with the limitation, “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation if the applicant does not meet the ICAO requirements contained in Annex 1 “Personnel Licensing” to the Convention on International Civil Aviation. An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under this paragraph when the applicant presents satisfactory evidence of having met the ICAO requirements and otherwise meets the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]].
 
 \[Doc. No. FAA-2010-0100, 78 FR 42375, July 15, 2013\]
 
@@ -6044,9 +6044,9 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(2\) Except as provided in paragraph (b)(3) of this section, an applicant may receive credit for not more than a total of 25 hours of simulated instrument time in a full flight simulator and flight training device.
 
-\(3\) A maximum of 50 hours of training in a full flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the aeronautical experience is accomplished in an approved course conducted by a training center certificated under part 142 of this chapter.
+\(3\) A maximum of 50 hours of training in a full flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the aeronautical experience is accomplished in an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
-\(c\) Flight time logged under §61.159(c) may be counted toward the 1,200 hours of total time as a pilot required by paragraph (a) of this section and the flight time requirements of paragraphs (a)(1), (2), and (4) of this section, except for the specific helicopter flight time requirements.
+\(c\) Flight time logged under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]](c) may be counted toward the 1,200 hours of total time as a pilot required by paragraph (a) of this section and the flight time requirements of paragraphs (a)(1), (2), and (4) of this section, except for the specific helicopter flight time requirements.
 
 \(d\) An applicant who credits time under paragraph (c) of this section is issued an airline transport pilot certificate with the limitation, “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation.
 
@@ -6072,11 +6072,11 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(i\) Except as provided in paragraph (a)(4)(ii) of this section, an applicant may not receive credit for more than a total of 25 hours of simulated instrument time in a flight simulator or flight training device.
 
-\(ii\) A maximum of 50 hours of training in a flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under part 142 of this chapter.
+\(ii\) A maximum of 50 hours of training in a flight simulator or flight training device may be credited toward the instrument flight time requirements of paragraph (a)(4) of this section if the training was accomplished in a course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(iii\) Training in a flight simulator or flight training device must be accomplished in a flight simulator or flight training device that represents a powered-lift.
 
-\(b\) Not more than 100 hours of the total aeronautical experience requirements of paragraph (a) of this section may be obtained in a flight simulator or flight training device that represents a powered-lift, provided the aeronautical experience was obtained in an approved course conducted by a training center certificated under part 142 of this chapter.
+\(b\) Not more than 100 hours of the total aeronautical experience requirements of paragraph (a) of this section may be obtained in a flight simulator or flight training device that represents a powered-lift, provided the aeronautical experience was obtained in an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20289, Apr. 23, 1998\]
 
@@ -6084,75 +6084,75 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(a\) *Rotorcraft category and helicopter class rating.* A person applying for an airline transport certificate with a rotorcraft category and helicopter class rating who holds an airline transport pilot certificate with another aircraft category rating must:
 
-\(1\) Meet the eligibility requirements of §61.153 of this part;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]] of this part;
 
-\(2\) Pass a knowledge test on the aeronautical knowledge areas of §61.155(c) of this part;
+\(2\) Pass a knowledge test on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c) of this part;
 
-\(3\) Comply with the requirements in §61.157(b) of this part, if appropriate;
+\(3\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b) of this part, if appropriate;
 
-\(4\) Meet the applicable aeronautical experience requirements of §61.161 of this part; and
+\(4\) Meet the applicable aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.161   Aeronautical experience: Rotorcraft category and helicopter class rating.|§61.161]] of this part; and
 
-\(5\) Pass the practical test on the areas of operation of §61.157(e)(4) of this part.
+\(5\) Pass the practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e)(4) of this part.
 
 \(b\) *Airplane category rating with a single-engine class rating.* A person applying for an airline transport certificate with an airplane category and single-engine class rating who holds an airline transport pilot certificate with another aircraft category rating must:
 
-\(1\) Meet the eligibility requirements of §61.153 of this part;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]] of this part;
 
-\(2\) Pass a knowledge test on the aeronautical knowledge areas of §61.155(c) of this part;
+\(2\) Pass a knowledge test on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c) of this part;
 
-\(3\) Comply with the requirements in §61.157(b) of this part, if appropriate;
+\(3\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b) of this part, if appropriate;
 
-\(4\) Meet the applicable aeronautical experience requirements of §61.159 of this part; and
+\(4\) Meet the applicable aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] of this part; and
 
-\(5\) Pass the practical test on the areas of operation of §61.157(e)(1) of this part.
+\(5\) Pass the practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e)(1) of this part.
 
 \(c\) *Airplane category rating with a multiengine class rating.* A person applying for an airline transport certificate with an airplane category and multiengine class rating who holds an airline transport certificate with another aircraft category rating must:
 
-\(1\) Meet the eligibility requirements of §61.153 of this part;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]] of this part;
 
-\(2\) After July 31, 2014, successfully complete the airline transport pilot certification training program specified in §61.156;
+\(2\) After July 31, 2014, successfully complete the airline transport pilot certification training program specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]];
 
-\(3\) Pass a knowledge test for an airplane category multiengine class rating or type rating on the aeronautical knowledge areas of §61.155(c);
+\(3\) Pass a knowledge test for an airplane category multiengine class rating or type rating on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c);
 
-\(4\) Comply with the requirements in §61.157(b) of this part, if appropriate;
+\(4\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b) of this part, if appropriate;
 
-\(5\) Meet the aeronautical experience requirements of §61.159 or §61.160; and
+\(5\) Meet the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]]; and
 
-\(6\) Pass the practical test on the areas of operation of §61.157(e)(2) of this part.
+\(6\) Pass the practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e)(2) of this part.
 
 \(d\) *Powered-lift category.* A person applying for an airline transport pilot certificate with a powered-lift category rating who holds an airline transport certificate with another aircraft category rating must:
 
-\(1\) Meet the eligibility requirements of §61.153 of this part;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]] of this part;
 
-\(2\) Pass a required knowledge test on the aeronautical knowledge areas of §61.155(c) of this part;
+\(2\) Pass a required knowledge test on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c) of this part;
 
-\(3\) Comply with the requirements in §61.157(b) of this part, if appropriate;
+\(3\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b) of this part, if appropriate;
 
-\(4\) Meet the applicable aeronautical experience requirements of §61.163 of this part; and
+\(4\) Meet the applicable aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.163   Aeronautical experience: Powered-lift category rating.|§61.163]] of this part; and
 
-\(5\) Pass the required practical test on the areas of operation of §61.157(e)(3) of this part.
+\(5\) Pass the required practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e)(3) of this part.
 
 \(e\) *Additional class rating within the same aircraft category.* Except as provided in paragraph (f) of this section, a person applying for an airline transport pilot certificate with an additional class rating who holds an airline transport certificate in the same aircraft category must—
 
-\(1\) Meet the eligibility requirements of §61.153, except paragraph (g) of that section;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]], except paragraph (g) of that section;
 
-\(2\) Comply with the requirements in §61.157(b) of this part, if applicable;
+\(2\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b) of this part, if applicable;
 
 \(3\) Meet the applicable aeronautical experience requirements of subpart G of this part; and
 
-\(4\) Pass a practical test on the areas of operation of §61.157(e) appropriate to the aircraft rating sought.
+\(4\) Pass a practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e) appropriate to the aircraft rating sought.
 
 \(f\) *Adding a multiengine class rating or airplane type rating to an airline transport pilot certificate with a single engine class rating.* A person applying to add a multiengine class rating or airplane type rating to an airline transport pilot certificate with an airplane category single engine class rating must—
 
-\(1\) Meet the eligibility requirements of §61.153;
+\(1\) Meet the eligibility requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]];
 
-\(2\) After July 31, 2014, pass a required knowledge test on the aeronautical knowledge areas of §61.155(c), as applicable to multiengine airplanes; unless a pilot can present valid airline transport pilot knowledge test results from a test taken prior to August 1, 2014.
+\(2\) After July 31, 2014, pass a required knowledge test on the aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.155   Aeronautical knowledge.|§61.155]](c), as applicable to multiengine airplanes; unless a pilot can present valid airline transport pilot knowledge test results from a test taken prior to August 1, 2014.
 
-\(3\) Comply with the requirements in §61.157(b), if applicable;
+\(3\) Comply with the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](b), if applicable;
 
-\(4\) Meet the applicable aeronautical experience requirements of §61.159; and
+\(4\) Meet the applicable aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]]; and
 
-\(5\) Pass a practical test on the areas of operation of §61.157(e)(2).
+\(5\) Pass a practical test on the areas of operation of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.157   Flight proficiency.|§61.157]](e)(2).
 
 \(g\) *Category class ratings for the operation of aircraft with experimental certificates.* Notwithstanding the provisions of paragraphs (a) through (f) of this section, a person holding an airline transport certificate may apply for a category and class rating limited to a specific make and model of experimental aircraft, provided—
 
@@ -6168,7 +6168,7 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(a\) *Privileges.* (1) A person who holds an airline transport pilot certificate is entitled to the same privileges as a person who holds a commercial pilot certificate with an instrument rating.
 
-\(2\) A person who holds an airline transport pilot certificate and has met the aeronautical experience requirements of §61.159 or §61.161, and the age requirements of §61.153(a)(1) of this part may instruct—
+\(2\) A person who holds an airline transport pilot certificate and has met the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.161   Aeronautical experience: Rotorcraft category and helicopter class rating.|§61.161]], and the age requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]](a)(1) of this part may instruct—
 
 \(i\) Other pilots in air transportation service in aircraft of the category, class, and type, as applicable, for which the airline transport pilot is rated and endorse the logbook or other training record of the person to whom training has been given;
 
@@ -6186,19 +6186,19 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 \(4\) An airline transport pilot may not instruct in Category II or Category III operations unless he or she has been trained and successfully tested under Category II or Category III operations, as applicable.
 
-\(b\) *Limitations.* A person who holds an airline transport pilot certificate and has not satisfied the age requirement of §61.153(a)(1) and the aeronautical experience requirements of §61.159 may not:
+\(b\) *Limitations.* A person who holds an airline transport pilot certificate and has not satisfied the age requirement of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.153   Eligibility requirements: General.|§61.153]](a)(1) and the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]] may not:
 
-\(1\) Act as pilot in command in operations conducted under part 121, §91.1053(a)(2)(i), or §135.243(a)(1) of this chapter, or
+\(1\) Act as pilot in command in operations conducted under part 121, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1053   Crewmember experience.|§91.1053]](a)(2)(i), or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.243   Pilot in command qualifications.|§135.243]](a)(1) of this chapter, or
 
-\(2\) Serve as second in command in flag or supplemental operations in part 121 of this chapter requiring three or more pilots.
+\(2\) Serve as second in command in flag or supplemental operations in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] requiring three or more pilots.
 
 \[Doc. No. FAA-2010-0100, 78 FR 42376, July 15, 2013, as amended by Amdt. 61-130B, 78 FR 77574, Dec. 24, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016\]
 
 ### §61.169   Letters of authorization for institutions of higher education.
 
-\(a\) An institution of higher education that is accredited, as defined in §61.1, may apply for a letter of authorization for the purpose of certifying its graduates for an airline transport pilot certificate under the academic and aeronautical experience requirements in §61.160. The application must be in a form and manner acceptable to the Administrator.
+\(a\) An institution of higher education that is accredited, as defined in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.1   Applicability and definitions.|§61.1]], may apply for a letter of authorization for the purpose of certifying its graduates for an airline transport pilot certificate under the academic and aeronautical experience requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]]. The application must be in a form and manner acceptable to the Administrator.
 
-\(b\) An institution of higher education must comply with the provisions of the letter of authorization and may not certify a graduate unless it determines that the graduate has satisfied the requirements of §61.160, as appropriate.
+\(b\) An institution of higher education must comply with the provisions of the letter of authorization and may not certify a graduate unless it determines that the graduate has satisfied the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.160   Aeronautical experience—airplane category restricted privileges.|§61.160]], as appropriate.
 
 \(c\) The Administrator may rescind or amend a letter of authorization if the Administrator determines that the institution of higher education is not complying or is unable to comply with the provisions of the letter of authorization.
 
@@ -6236,9 +6236,9 @@ To be eligible for a flight instructor certificate or rating a person must:
 
 \(iv\) A flight instructor certificate with an instrument rating.
 
-\(d\) Receive a logbook endorsement from an authorized instructor on the fundamentals of instructing listed in §61.185 of this part appropriate to the required knowledge test;
+\(d\) Receive a logbook endorsement from an authorized instructor on the fundamentals of instructing listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]] of this part appropriate to the required knowledge test;
 
-\(e\) Pass a knowledge test on the areas listed in §61.185(a)(1) of this part, unless the applicant:
+\(e\) Pass a knowledge test on the areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]](a)(1) of this part, unless the applicant:
 
 \(1\) Holds a flight instructor certificate or ground instructor certificate issued under this part;
 
@@ -6246,15 +6246,15 @@ To be eligible for a flight instructor certificate or rating a person must:
 
 \(3\) Is employed as a teacher at an accredited college or university.
 
-\(f\) Pass a knowledge test on the aeronautical knowledge areas listed in §61.185(a)(2) and (a)(3) of this part that are appropriate to the flight instructor rating sought;
+\(f\) Pass a knowledge test on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]](a)(2) and (a)(3) of this part that are appropriate to the flight instructor rating sought;
 
-\(g\) Receive a logbook endorsement from an authorized instructor on the areas of operation listed in §61.187(b) of this part, appropriate to the flight instructor rating sought;
+\(g\) Receive a logbook endorsement from an authorized instructor on the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.187   Flight proficiency.|§61.187]](b) of this part, appropriate to the flight instructor rating sought;
 
 \(h\) Pass the required practical test that is appropriate to the flight instructor rating sought in an:
 
 \(1\) Aircraft that is representative of the category and class of aircraft for the aircraft rating sought; or
 
-\(2\) Flight simulator or approved flight training device that is representative of the category and class of aircraft for the rating sought, and used in accordance with a course at a training center certificated under part 142 of this chapter.
+\(2\) Flight simulator or approved flight training device that is representative of the category and class of aircraft for the rating sought, and used in accordance with a course at a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \(i\) Accomplish the following for a flight instructor certificate with an airplane or a glider rating:
 
@@ -6512,7 +6512,7 @@ To be eligible for a flight instructor certificate or rating a person must:
 
 \(1\) In an aircraft that is representative of the category and class of aircraft for the rating sought; or
 
-\(2\) In a flight simulator or flight training device representative of the category and class of aircraft for the rating sought, and used in accordance with an approved course at a training center certificated under part 142 of this chapter.
+\(2\) In a flight simulator or flight training device representative of the category and class of aircraft for the rating sought, and used in accordance with an approved course at a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40907, July 30, 1997; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009\]
 
@@ -6532,9 +6532,9 @@ To be eligible for a flight instructor certificate or rating a person must:
 
 ### §61.191   Additional flight instructor ratings.
 
-\(a\) A person who applies for an additional flight instructor rating on a flight instructor certificate must meet the eligibility requirements listed in §61.183 of this part that apply to the flight instructor rating sought.
+\(a\) A person who applies for an additional flight instructor rating on a flight instructor certificate must meet the eligibility requirements listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.183   Eligibility requirements.|§61.183]] of this part that apply to the flight instructor rating sought.
 
-\(b\) A person who applies for an additional rating on a flight instructor certificate is not required to pass the knowledge test on the areas listed in §61.185(a)(1) of this part.
+\(b\) A person who applies for an additional rating on a flight instructor certificate is not required to pass the knowledge test on the areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]](a)(1) of this part.
 
 \[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40907, July 30, 1997\]
 
@@ -6562,11 +6562,11 @@ To be eligible for a flight instructor certificate or rating a person must:
 
 \(b\) A person who holds a flight instructor certificate is authorized, in a form and manner acceptable to the Administrator, to:
 
-\(1\) Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in §61.56, a remote pilot certificate with a small UAS rating;
+\(1\) Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and meets the flight review requirements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]], a remote pilot certificate with a small UAS rating;
 
 \(2\) Verify the identity of the applicant; and
 
-\(3\) Verify that an applicant for a student pilot certificate meets the eligibility requirements in §61.83 or an applicant for a remote pilot certificate with a small UAS rating meets the eligibility requirements in §107.61 of this chapter.
+\(3\) Verify that an applicant for a student pilot certificate meets the eligibility requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.83   Eligibility requirements for student pilots.|§61.83]] or an applicant for a remote pilot certificate with a small UAS rating meets the eligibility requirements in [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.61   Eligibility.|§107.61]] of this chapter.
 
 \[Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016, as amended by Docket FAA-2015-0150, Amdt. 61-137, 81 FR 42208, June 28, 2016\]
 
@@ -6616,15 +6616,15 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(ii\) Determined that the recreational pilot is proficient to operate the aircraft safely.
 
-\(5\) Logbook of a pilot for a flight review, unless that instructor has conducted a review of that pilot in accordance with the requirements of §61.56(a) of this part; or
+\(5\) Logbook of a pilot for a flight review, unless that instructor has conducted a review of that pilot in accordance with the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]](a) of this part; or
 
-\(6\) Logbook of a pilot for an instrument proficiency check, unless that instructor has tested that pilot in accordance with the requirements of §61.57(d) of this part.
+\(6\) Logbook of a pilot for an instrument proficiency check, unless that instructor has tested that pilot in accordance with the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](d) of this part.
 
 \(e\) *Training in an aircraft that requires a type rating.* A flight instructor may not give flight instruction, including instrument training, in an aircraft that requires the pilot in command to hold a type rating unless the flight instructor holds a type rating for that aircraft on his or her pilot certificate.
 
 \(f\) *Training received in a multiengine airplane, a helicopter, or a powered-lift.* A flight instructor may not give training required for the issuance of a certificate or rating in a multiengine airplane, a helicopter, or a powered-lift unless that flight instructor has at least 5 flight hours of pilot-in-command time in the specific make and model of multiengine airplane, helicopter, or powered-lift, as appropriate.
 
-\(g\) *Position in aircraft and required pilot stations for providing flight training.* (1) A flight instructor must perform all training from in an aircraft that complies with the requirements of §91.109 of this chapter.
+\(g\) *Position in aircraft and required pilot stations for providing flight training.* (1) A flight instructor must perform all training from in an aircraft that complies with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.109   Flight instruction; Simulated instrument flight and certain flight tests.|§91.109]] of this chapter.
 
 \(2\) A flight instructor who provides flight training for a pilot certificate or rating issued under this part must provide that flight training in an aircraft that meets the following requirements—
 
@@ -6640,7 +6640,7 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(2\) Except for an instructor who meets the requirements of paragraph (h)(3)(ii) of this section, a flight instructor who provides training to an initial applicant for a flight instructor certificate must—
 
-\(i\) Meet the eligibility requirements prescribed in §61.183 of this part;
+\(i\) Meet the eligibility requirements prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.183   Eligibility requirements.|§61.183]] of this part;
 
 \(ii\) Hold the appropriate flight instructor certificate and rating;
 
@@ -6662,7 +6662,7 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(i\) *Prohibition against self-endorsements.* A flight instructor shall not make any self-endorsement for a certificate, rating, flight review, authorization, operating privilege, practical test, or knowledge test that is required by this part.
 
-\(j\) *Additional qualifications required to give training in Category II or Category III operations.* A flight instructor may not give training in Category II or Category III operations unless the flight instructor has been trained and tested in Category II or Category III operations, pursuant to §61.67 or §61.68 of this part, as applicable.
+\(j\) *Additional qualifications required to give training in Category II or Category III operations.* A flight instructor may not give training in Category II or Category III operations unless the flight instructor has been trained and tested in Category II or Category III operations, pursuant to [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.67   Category II pilot authorization requirements.|§61.67]] or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.68   Category III pilot authorization requirements.|§61.68]] of this part, as applicable.
 
 \(k\) *Training for night vision goggle operations.* A flight instructor may not conduct training for night vision goggle operations unless the flight instructor:
 
@@ -6670,15 +6670,15 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(2\) If appropriate, has a type rating on his or her pilot certificate for the aircraft;
 
-\(3\) Is pilot in command qualified for night vision goggle operations, in accordance with §61.31(k);
+\(3\) Is pilot in command qualified for night vision goggle operations, in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.31   Type rating requirements, additional training, and authorization requirements.|§61.31]](k);
 
 \(4\) Has logged 100 night vision goggle operations as the sole manipulator of the controls;
 
 \(5\) Has logged 20 night vision goggle operations as the sole manipulator of the controls in the category and class, and type of aircraft, if aircraft class and type is appropriate, that the training will be given in;
 
-\(6\) Is qualified to act as pilot in command in night vision goggle operations under §61.57(f) or (g); and
+\(6\) Is qualified to act as pilot in command in night vision goggle operations under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](f) or (g); and
 
-\(7\) Has a logbook endorsement from an FAA Aviation Safety Inspector or a person who is authorized by the FAA to provide that logbook endorsement that states the flight instructor is authorized to perform the night vision goggle pilot in command qualification and recent flight experience requirements under §61.31(k) and §61.57(f) and (g).
+\(7\) Has a logbook endorsement from an FAA Aviation Safety Inspector or a person who is authorized by the FAA to provide that logbook endorsement that states the flight instructor is authorized to perform the night vision goggle pilot in command qualification and recent flight experience requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.31   Type rating requirements, additional training, and authorization requirements.|§61.31]](k) and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](f) and (g).
 
 \(l\) *Training on control and maneuvering an aircraft solely by reference to the instruments.* A flight instructor may conduct flight training on control and maneuvering an airplane solely by reference to the flight instruments, provided the flight instructor—
 
@@ -6718,15 +6718,15 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(ii\) If the renewal is accomplished under paragraph (a)(2)(iii) of this section, the approved flight instructor refresher course must be completed within the 3 calendar months preceding the expiration month of the current flight instructor certificate.
 
-\(c\) The practical test required by paragraph (a)(1) of this section may be accomplished in a full flight simulator or flight training device if the test is accomplished pursuant to an approved course conducted by a training center certificated under part 142 of this chapter.
+\(c\) The practical test required by paragraph (a)(1) of this section may be accomplished in a full flight simulator or flight training device if the test is accomplished pursuant to an approved course conducted by a training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \[Doc. No. 25910, 63 FR 20289, Apr. 23, 1998, as amended by Amdt. 61-124, 74 FR 42562, Aug. 21, 2009; Amdt. 61-142, 83 FR 30279, June 27, 2018\]
 
 ### §61.199   Reinstatement requirements of an expired flight instructor certificate.
 
-\(a\) *Flight instructor certificates.* The holder of an expired flight instructor certificate who has not complied with the flight instructor renewal requirements of §61.197 may reinstate that flight instructor certificate and ratings by filing a completed and signed application with the FAA and satisfactorily completing one of the following reinstatement requirements:
+\(a\) *Flight instructor certificates.* The holder of an expired flight instructor certificate who has not complied with the flight instructor renewal requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]] may reinstate that flight instructor certificate and ratings by filing a completed and signed application with the FAA and satisfactorily completing one of the following reinstatement requirements:
 
-\(1\) A flight instructor certification practical test, as prescribed by §61.183(h), for one of the ratings held on the expired flight instructor certificate.
+\(1\) A flight instructor certification practical test, as prescribed by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.183   Eligibility requirements.|§61.183]](h), for one of the ratings held on the expired flight instructor certificate.
 
 \(2\) A flight instructor certification practical test for an additional rating.
 
@@ -6744,7 +6744,7 @@ A person who holds a flight instructor certificate is subject to the following l
 
 \(1\) A record showing that, since the date the flight instructor certificate was issued, the person passed a U.S. Armed Forces instructor pilot or pilot examiner proficiency check for an additional military rating; and
 
-\(2\) A knowledge test report that shows the person passed a knowledge test on the aeronautical knowledge areas listed under §61.185(a) appropriate to the flight instructor rating sought and the knowledge test was passed within the preceding 24 calendar months prior to the month of application.
+\(2\) A knowledge test report that shows the person passed a knowledge test on the aeronautical knowledge areas listed under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.185   Aeronautical knowledge.|§61.185]](a) appropriate to the flight instructor rating sought and the knowledge test was passed within the preceding 24 calendar months prior to the month of application.
 
 \(d\) *Expiration date.* The requirements of paragraph (c) of this section will expire on August 26, 2019.
 
@@ -6782,11 +6782,11 @@ This subpart prescribes the requirements for the issuance of ground instructor c
 
 \(4\) Pass a knowledge test on the aeronautical knowledge areas in—
 
-\(i\) For a basic ground instructor rating §§61.97, 61.105, and 61.309;
+\(i\) For a basic ground instructor rating §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.97   Aeronautical knowledge.|§61.97]], 61.105, and 61.309;
 
-\(ii\) For an advanced ground instructor rating §§61.97, 61.105, 61.125, 61.155, and 61.309; and
+\(ii\) For an advanced ground instructor rating §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.97   Aeronautical knowledge.|§61.97]], 61.105, 61.125, 61.155, and 61.309; and
 
-\(iii\) For an instrument ground instructor rating, §61.65.
+\(iii\) For an instrument ground instructor rating, [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.65   Instrument rating requirements.|§61.65]].
 
 \(b\) The knowledge test specified in paragraph (a)(3) of this section is not required if the applicant:
 
@@ -6838,7 +6838,7 @@ The holder of a ground instructor certificate may not perform the duties of a gr
 
 \(c\) Completion of an approved flight instructor refresher course and receipt of a graduation certificate for that course; or
 
-\(d\) An endorsement from an authorized instructor certifying that the person has demonstrated knowledge in the subject areas prescribed under §61.213(a)(3) and (a)(4), as appropriate.
+\(d\) An endorsement from an authorized instructor certifying that the person has demonstrated knowledge in the subject areas prescribed under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.213   Eligibility requirements.|§61.213]](a)(3) and (a)(4), as appropriate.
 
 \[Doc. No. FAA-2006-26661, 74 FR 42562, Aug. 21, 2009\]
 
@@ -6862,19 +6862,19 @@ The holder of a ground instructor certificate may not perform the duties of a gr
 
 \(b\) Other provisions of this part apply to the logging of flight time and testing.
 
-\(c\) This subpart applies to applicants for, and holders of, sport pilot certificates. It also applies to holders of recreational pilot certificates and higher, as provided in §61.303.
+\(c\) This subpart applies to applicants for, and holders of, sport pilot certificates. It also applies to holders of recreational pilot certificates and higher, as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.303   If I want to operate a light-sport aircraft, what operating limits and endorsement requirements in this subpart must I comply with?|§61.303]].
 
 \[Doc. No. FAA-2001-11133, 69 FR 44869, July 27, 2004, as amended by Amdt. 61-125, 75 FR 5221, Feb. 1, 2010\]
 
 ### §61.303   If I want to operate a light-sport aircraft, what operating limits and endorsement requirements in this subpart must I comply with?
 
-\(a\) Use the following table to determine what operating limits and endorsement requirements in this subpart, if any, apply to you when you operate a light-sport aircraft. The medical certificate specified in this table must be in compliance with §61.2 in regards to currency and validity. If you hold a recreational pilot certificate, but not a medical certificate, you must comply with cross country requirements in §61.101 (c), even if your flight does not exceed 50 nautical miles from your departure airport. You must also comply with requirements in other subparts of this part that apply to your certificate and the operation you conduct.
+\(a\) Use the following table to determine what operating limits and endorsement requirements in this subpart, if any, apply to you when you operate a light-sport aircraft. The medical certificate specified in this table must be in compliance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.2   Exercise of Privilege.|§61.2]] in regards to currency and validity. If you hold a recreational pilot certificate, but not a medical certificate, you must comply with cross country requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.101   Recreational pilot privileges and limitations.|§61.101]] (c), even if your flight does not exceed 50 nautical miles from your departure airport. You must also comply with requirements in other subparts of this part that apply to your certificate and the operation you conduct.
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you hold</th><th scope="col">And you hold</th><th scope="col">Then you may operate</th><th scope="col">And</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A medical certificate</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport aircraft for which you hold the endorsements required for its category and class</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in §61.315.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a recreational pilot certificate with a category and class rating,</td><td style="text-align: left;">(A) Any light-sport aircraft in that category and class,</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, nor do you have to comply with the limitations in §61.315.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a recreational pilot certificate but not a rating for the category and class of light sport aircraft you operate,</td><td style="text-align: left;">(A) That light-sport aircraft, only if you hold the endorsements required in §61.321 for its category and class,</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in §61.315, except §61.315(c)(14) and, if a private pilot or higher, §61.315(c)(7).</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Only a U.S. driver's license</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport aircraft for which you hold the endorsements required for its category and class.</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in §61.315.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a recreational pilot certificate with a category and class rating,</td><td style="text-align: left;">(A) Any light-sport aircraft in that category and class,</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, but you must comply with the limitations in §61.315.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a recreational pilot certificate but not a rating for the category and class of light-sport aircraft you operate,</td><td style="text-align: left;">(A) That light-sport aircraft, only if you hold the endorsements required in §61.321 for its category and class,</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in §61.315, except §61.315(c)(14) and, if a private pilot or higher, §61.315(c)(7).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) Neither a medical certificate nor a U.S. driver's license</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport glider or balloon for which you hold the endorsements required for its category and class</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in §61.315.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a private pilot certificate with a category and class rating for glider or balloon,</td><td style="text-align: left;">(A) Any light-sport glider or balloon in that category and class</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, nor do you have to comply with the limitations in §61.315.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a private pilot certificate but not a rating for glider or balloon,</td><td style="text-align: left;">(A) Any light-sport glider or balloon, only if you hold the endorsements required in §61.321 for its category and class</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in §61.315, except §61.315(c)(14) and, if a private pilot or higher, §61.315(c)(7).</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you hold</th><th scope="col">And you hold</th><th scope="col">Then you may operate</th><th scope="col">And</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A medical certificate</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport aircraft for which you hold the endorsements required for its category and class</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a recreational pilot certificate with a category and class rating,</td><td style="text-align: left;">(A) Any light-sport aircraft in that category and class,</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, nor do you have to comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a recreational pilot certificate but not a rating for the category and class of light sport aircraft you operate,</td><td style="text-align: left;">(A) That light-sport aircraft, only if you hold the endorsements required in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.321   How do I obtain privileges to operate an additional category or class of light-sport aircraft?|§61.321]] for its category and class,</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]], except [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(14) and, if a private pilot or higher, [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(7).</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Only a U.S. driver's license</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport aircraft for which you hold the endorsements required for its category and class.</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a recreational pilot certificate with a category and class rating,</td><td style="text-align: left;">(A) Any light-sport aircraft in that category and class,</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, but you must comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a recreational pilot certificate but not a rating for the category and class of light-sport aircraft you operate,</td><td style="text-align: left;">(A) That light-sport aircraft, only if you hold the endorsements required in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.321   How do I obtain privileges to operate an additional category or class of light-sport aircraft?|§61.321]] for its category and class,</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]], except [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(14) and, if a private pilot or higher, [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(7).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) Neither a medical certificate nor a U.S. driver's license</td><td style="text-align: left;">(i) A sport pilot certificate,</td><td style="text-align: left;">(A) Any light-sport glider or balloon for which you hold the endorsements required for its category and class</td><td style="text-align: left;">(<em>1</em>) You must hold any other endorsements required by this subpart, and comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) At least a private pilot certificate with a category and class rating for glider or balloon,</td><td style="text-align: left;">(A) Any light-sport glider or balloon in that category and class</td><td style="text-align: left;">(<em>1</em>) You do not have to hold any of the endorsements required by this subpart, nor do you have to comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]].</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) At least a private pilot certificate but not a rating for glider or balloon,</td><td style="text-align: left;">(A) Any light-sport glider or balloon, only if you hold the endorsements required in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.321   How do I obtain privileges to operate an additional category or class of light-sport aircraft?|§61.321]] for its category and class</td><td style="text-align: left;">(<em>1</em>) You must comply with the limitations in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]], except [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(14) and, if a private pilot or higher, [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.315   What are the privileges and limits of my sport pilot certificate?|§61.315]](c)(7).</td></tr></tbody></table>
 
 </div>
 
@@ -6904,9 +6904,9 @@ The holder of a ground instructor certificate may not perform the duties of a gr
 
 To obtain a sport pilot certificate, you must pass the following tests:
 
-\(a\) *Knowledge test.* You must pass a knowledge test on the applicable aeronautical knowledge areas listed in §61.309. Before you may take the knowledge test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who trained you or reviewed and evaluated your home-study course on the aeronautical knowledge areas listed in §61.309 certifying you are prepared for the test.
+\(a\) *Knowledge test.* You must pass a knowledge test on the applicable aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]]. Before you may take the knowledge test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who trained you or reviewed and evaluated your home-study course on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]] certifying you are prepared for the test.
 
-\(b\) *Practical test.* You must pass a practical test on the applicable areas of operation listed in §§61.309 and 61.311. Before you may take the practical test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in §§61.309 and 61.311 in preparation for the practical test. This endorsement certifies that you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test.
+\(b\) *Practical test.* You must pass a practical test on the applicable areas of operation listed in §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]] and 61.311. Before you may take the practical test for a sport pilot certificate, you must receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]] and 61.311 in preparation for the practical test. This endorsement certifies that you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test.
 
 ### §61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?
 
@@ -6980,7 +6980,7 @@ Use the following table to determine the aeronautical experience you must have t
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are applying for a sport pilot certificate with .  .  .</th><th scope="col">Then you must log at least .  .  .</th><th scope="col">Which must include at least .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(a) Airplane category and single-engine land or sea class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including at least 15 hours of flight training from an authorized instructor in a single-engine airplane and at least 5 hours of solo flight training in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 75 nautical miles total distance, with a full-stop landing at a minimum of two points and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(b) Glider category privileges, and you have not logged at least 20 hours of flight time in a heavier-than-air aircraft,</td><td style="text-align: left;">(1) 10 hours of flight time in a glider, including 10 flights in a glider receiving flight training from an authorized instructor and at least 2 hours of solo flight training in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) Five solo launches and landings, and (ii) at least 3 training flights with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(c) Glider category privileges, and you have logged 20 hours flight time in a heavier-than-air aircraft,</td><td style="text-align: left;">(1) 3 hours of flight time in a glider, including five flights in a glider while receiving flight training from an authorized instructor and at least 1 hour of solo flight training in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) Three solo launches and landings, and (ii) at least 3 training flights with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(d) Rotorcraft category and gyroplane class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including 15 hours of flight training from an authorized instructor in a gyroplane and at least 5 hours of solo flight training in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 50 nautical miles total distance, with a full-stop landing at a minimum of two points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(e) Lighter-than-air category and airship class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including 15 hours of flight training from an authorized instructor in an airship and at least 3 hours performing the duties of pilot in command in an airship with an authorized instructor in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) Three takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One cross-country flight of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(f) Lighter-than-air category and balloon class privileges,</td><td style="text-align: left;">(1) 7 hours of flight time in a balloon, including three flights with an authorized instructor and one flight performing the duties of pilot in command in a balloon with an authorized instructor in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, and (ii) 1 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(g) Powered parachute category land or sea class privileges,</td><td style="text-align: left;">(1) 12 hours of flight time in a powered parachute, including 10 hours of flight training from an authorized instructor in a powered parachute, and at least 2 hours of solo flight training in the areas of operation listed in §61.311</td><td style="text-align: left;">(i) 1 hour of cross-country flight training, (ii) 20 takeoffs and landings to a full stop in a powered parachute with each landing involving flight in the traffic pattern at an airport; (iii) 10 solo takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iv) One solo flight with a landing at a different airport and one segment of the flight consisting of a straight-line distance of at least 10 nautical miles between takeoff and landing locations, and (v) 1 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(h) Weight-shift-control aircraft category land or sea class privileges,</td><td style="text-align: left;">(1) 20 hours of light time, including 15 hours of flight training from an authorized instructor in a weight-shift-control aircraft and at least 5 hours of solo flight training in the areas of operation listed in §61.311,</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 50 nautical miles total distance, with a full-stop landing at a minimum of two points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in §61.311 in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are applying for a sport pilot certificate with .  .  .</th><th scope="col">Then you must log at least .  .  .</th><th scope="col">Which must include at least .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(a) Airplane category and single-engine land or sea class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including at least 15 hours of flight training from an authorized instructor in a single-engine airplane and at least 5 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 75 nautical miles total distance, with a full-stop landing at a minimum of two points and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(b) Glider category privileges, and you have not logged at least 20 hours of flight time in a heavier-than-air aircraft,</td><td style="text-align: left;">(1) 10 hours of flight time in a glider, including 10 flights in a glider receiving flight training from an authorized instructor and at least 2 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) Five solo launches and landings, and (ii) at least 3 training flights with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(c) Glider category privileges, and you have logged 20 hours flight time in a heavier-than-air aircraft,</td><td style="text-align: left;">(1) 3 hours of flight time in a glider, including five flights in a glider while receiving flight training from an authorized instructor and at least 1 hour of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) Three solo launches and landings, and (ii) at least 3 training flights with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(d) Rotorcraft category and gyroplane class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including 15 hours of flight training from an authorized instructor in a gyroplane and at least 5 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 50 nautical miles total distance, with a full-stop landing at a minimum of two points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(e) Lighter-than-air category and airship class privileges,</td><td style="text-align: left;">(1) 20 hours of flight time, including 15 hours of flight training from an authorized instructor in an airship and at least 3 hours performing the duties of pilot in command in an airship with an authorized instructor in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) Three takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One cross-country flight of at least 25 nautical miles between the takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(f) Lighter-than-air category and balloon class privileges,</td><td style="text-align: left;">(1) 7 hours of flight time in a balloon, including three flights with an authorized instructor and one flight performing the duties of pilot in command in a balloon with an authorized instructor in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, and (ii) 1 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(g) Powered parachute category land or sea class privileges,</td><td style="text-align: left;">(1) 12 hours of flight time in a powered parachute, including 10 hours of flight training from an authorized instructor in a powered parachute, and at least 2 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]]</td><td style="text-align: left;">(i) 1 hour of cross-country flight training, (ii) 20 takeoffs and landings to a full stop in a powered parachute with each landing involving flight in the traffic pattern at an airport; (iii) 10 solo takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iv) One solo flight with a landing at a different airport and one segment of the flight consisting of a straight-line distance of at least 10 nautical miles between takeoff and landing locations, and (v) 1 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(h) Weight-shift-control aircraft category land or sea class privileges,</td><td style="text-align: left;">(1) 20 hours of light time, including 15 hours of flight training from an authorized instructor in a weight-shift-control aircraft and at least 5 hours of solo flight training in the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]],</td><td style="text-align: left;">(i) 2 hours of cross-country flight training, (ii) 10 takeoffs and landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport, (iii) One solo cross-country flight of at least 50 nautical miles total distance, with a full-stop landing at a minimum of two points, and one segment of the flight consisting of a straight-line distance of at least 25 nautical miles between takeoff and landing locations, and (iv) 2 hours of flight training with an authorized instructor on those areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]] in preparation for the practical test within the preceding 2 calendar months from the month of the test.</td></tr></tbody></table>
 
 </div>
 
@@ -7008,7 +7008,7 @@ Use the following table to determine the aeronautical experience you must have t
 
 \(6\) In Class A airspace.
 
-\(7\) In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower unless you have met the requirements specified in §61.325.
+\(7\) In Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower unless you have met the requirements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.325   How do I obtain privileges to operate a light-sport aircraft at an airport within, or in airspace within, Class B, C, and D airspace, or in other airspace with an airport having an operational control tower?|§61.325]].
 
 \(8\) Outside the United States, unless you have prior authorization from the country in which you seek to operate. Your sport pilot certificate carries the limit “Holder does not meet ICAO requirements.”
 
@@ -7024,9 +7024,9 @@ Use the following table to determine the aeronautical experience you must have t
 
 \(14\) If the aircraft:
 
-\(i\) Has a VH greater than 87 knots CAS, unless you have met the requirements of §61.327(b).
+\(i\) Has a VH greater than 87 knots CAS, unless you have met the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]](b).
 
-\(ii\) Has a VH less than or equal to 87 knots CAS, unless you have met the requirements of §61.327(a) or have logged flight time as pilot in command of an airplane with a VH less than or equal to 87 knots CAS before April 2, 2010.
+\(ii\) Has a VH less than or equal to 87 knots CAS, unless you have met the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]](a) or have logged flight time as pilot in command of an airplane with a VH less than or equal to 87 knots CAS before April 2, 2010.
 
 \(15\) Contrary to any operating limitation placed on the airworthiness certificate of the aircraft being flown.
 
@@ -7052,9 +7052,9 @@ Your sport pilot certificate does not list aircraft category and class ratings. 
 
 If you hold a sport pilot certificate and seek to operate an additional category or class of light-sport aircraft, you must—
 
-\(a\) Receive a logbook endorsement from the authorized instructor who trained you on the applicable aeronautical knowledge areas specified in §61.309 and areas of operation specified in §61.311. The endorsement certifies you have met the aeronautical knowledge and flight proficiency requirements for the additional light-sport aircraft privilege you seek;
+\(a\) Receive a logbook endorsement from the authorized instructor who trained you on the applicable aeronautical knowledge areas specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]] and areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.311   What flight proficiency requirements must I meet to apply for a sport pilot certificate?|§61.311]]. The endorsement certifies you have met the aeronautical knowledge and flight proficiency requirements for the additional light-sport aircraft privilege you seek;
 
-\(b\) Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the aeronautical knowledge areas and areas of operation specified in §§61.309 and 61.311 for the additional light-sport aircraft privilege you seek;
+\(b\) Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the aeronautical knowledge areas and areas of operation specified in §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.309   What aeronautical knowledge must I have to apply for a sport pilot certificate?|§61.309]] and 61.311 for the additional light-sport aircraft privilege you seek;
 
 \(c\) Complete an application for those privileges on a form and in a manner acceptable to the FAA and present this application to the authorized instructor who conducted the proficiency check specified in paragraph (b) of this section; and
 
@@ -7070,7 +7070,7 @@ If you hold a sport pilot certificate and seek privileges to operate a light-spo
 
 \(b\) Operations at airports with an operating control tower to include three takeoffs and landings to a full stop, with each landing involving a flight in the traffic pattern, at an airport with an operating control tower.
 
-\(c\) Applicable flight rules of part 91 of this chapter for operations in Class B, C, and D airspace and air traffic control clearances.
+\(c\) Applicable flight rules of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] for operations in Class B, C, and D airspace and air traffic control clearances.
 
 ### §61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?
 
@@ -7126,21 +7126,21 @@ To be eligible for a flight instructor certificate with a sport pilot rating you
 
 To obtain a flight instructor certificate with a sport pilot rating you must pass the following tests:
 
-\(a\) *Knowledge test.* Before you take a knowledge test, you must receive a logbook endorsement certifying you are prepared for the test from an authorized instructor who trained you or evaluated your home-study course on the aeronautical knowledge areas listed in §61.407. You must pass knowledge tests on—
+\(a\) *Knowledge test.* Before you take a knowledge test, you must receive a logbook endorsement certifying you are prepared for the test from an authorized instructor who trained you or evaluated your home-study course on the aeronautical knowledge areas listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.407   What aeronautical knowledge must I have to apply for a flight instructor certificate with a sport pilot rating?|§61.407]]. You must pass knowledge tests on—
 
-\(1\) The fundamentals of instructing listed in §61.407(a), unless you meet the requirements of §61.407(c); and
+\(1\) The fundamentals of instructing listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.407   What aeronautical knowledge must I have to apply for a flight instructor certificate with a sport pilot rating?|§61.407]](a), unless you meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.407   What aeronautical knowledge must I have to apply for a flight instructor certificate with a sport pilot rating?|§61.407]](c); and
 
 \(2\) The aeronautical knowledge areas for a sport pilot certificate applicable to the aircraft category and class for which flight instructor privileges are sought.
 
 \(b\) *Practical test.* (1) Before you take the practical test, you must—
 
-\(i\) Receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in §61.409 that apply to the category and class of aircraft privileges you seek. This endorsement certifies you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test;
+\(i\) Receive a logbook endorsement from the authorized instructor who provided you with flight training on the areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.409   What flight proficiency requirements must I meet to apply for a flight instructor certificate with a sport pilot rating?|§61.409]] that apply to the category and class of aircraft privileges you seek. This endorsement certifies you meet the applicable aeronautical knowledge and experience requirements and are prepared for the practical test;
 
 \(ii\) If you are seeking privileges to provide instruction in an airplane or glider, receive a logbook endorsement from an authorized instructor indicating that you are competent and possess instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures after you have received flight training in those training areas in an airplane or glider, as appropriate, that is certificated for spins;
 
 \(2\) You must pass a practical test—
 
-\(i\) On the areas of operation listed in §61.409 that are appropriate to the category and class of aircraft privileges you seek;
+\(i\) On the areas of operation listed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.409   What flight proficiency requirements must I meet to apply for a flight instructor certificate with a sport pilot rating?|§61.409]] that are appropriate to the category and class of aircraft privileges you seek;
 
 \(ii\) In an aircraft representative of the category and class of aircraft for the privileges you seek;
 
@@ -7236,9 +7236,9 @@ for .  .  .</th><th scope="col">Then you must log at least .  .  .</th><
 
 ### §61.412   Do I need additional training to provide instruction on control and maneuvering an airplane solely by reference to the instruments in a light-sport aircraft based on VH?
 
-To provide flight training under §61.93(e)(12) on control and maneuvering an airplane solely by reference to the flight instruments for the purpose of issuing a solo cross-country endorsement under §61.93(c)(1) to a student pilot seeking a sport pilot certificate, a flight instructor with a sport pilot rating must:
+To provide flight training under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.93   Solo cross-country flight requirements.|§61.93]](e)(12) on control and maneuvering an airplane solely by reference to the flight instruments for the purpose of issuing a solo cross-country endorsement under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.93   Solo cross-country flight requirements.|§61.93]](c)(1) to a student pilot seeking a sport pilot certificate, a flight instructor with a sport pilot rating must:
 
-\(a\) Hold an endorsement required by §61.327(b);
+\(a\) Hold an endorsement required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]](b);
 
 \(b\) Receive and log a minimum of 1 hour of ground training and 3 hours of flight training from an authorized instructor in an airplane with a VH greater than 87 knots CAS or in a full flight simulator, flight training device, or aviation training device that replicates an airplane with a VH greater than 87 knots CAS; and
 
@@ -7270,11 +7270,11 @@ To provide flight training under §61.93(e)(12) on control and maneuvering an ai
 
 \(b\) A person who holds a flight instructor certificate with a sport pilot rating is authorized, in a form and manner acceptable to the Administrator, to:
 
-\(1\) Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under part 61 of this chapter and meets the flight review requirements specified in §61.56, a remote pilot certificate with a small UAS rating;
+\(1\) Accept an application for a student pilot certificate or, for an applicant who holds a pilot certificate (other than a student pilot certificate) issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and meets the flight review requirements specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]], a remote pilot certificate with a small UAS rating;
 
 \(2\) Verify the identity of the applicant; and
 
-\(3\) Verify that an applicant for a student pilot certificate meets the eligibility requirements in §61.83.
+\(3\) Verify that an applicant for a student pilot certificate meets the eligibility requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.83   Eligibility requirements for student pilots.|§61.83]].
 
 \[Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1307, Jan. 12, 2016, as amended by Docket FAA-2015-0150, Amdt. 61-137, 81 FR 42208, June 28, 2016\]
 
@@ -7312,17 +7312,17 @@ If you hold a flight instructor certificate with a sport pilot rating, you may o
 
 \(ii\) Determined that the student is proficient to operate the aircraft safely.
 
-\(4\) Logbook of a pilot for a flight review, unless you have conducted a review of that pilot in accordance with the requirements of §61.56.
+\(4\) Logbook of a pilot for a flight review, unless you have conducted a review of that pilot in accordance with the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]].
 
-\(e\) You may not provide training to operate a light-sport aircraft in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, unless you have the endorsement specified in §61.325, or are otherwise authorized to conduct operations in this airspace and at these airports.
+\(e\) You may not provide training to operate a light-sport aircraft in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, unless you have the endorsement specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.325   How do I obtain privileges to operate a light-sport aircraft at an airport within, or in airspace within, Class B, C, and D airspace, or in other airspace with an airport having an operational control tower?|§61.325]], or are otherwise authorized to conduct operations in this airspace and at these airports.
 
-\(f\) You may not provide training in a light-sport aircraft that is an airplane with a VH less than or equal to 87 knots CAS unless you have the endorsement specified in §61.327 (a), or are otherwise authorized to operate that light-sport aircraft.
+\(f\) You may not provide training in a light-sport aircraft that is an airplane with a VH less than or equal to 87 knots CAS unless you have the endorsement specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]] (a), or are otherwise authorized to operate that light-sport aircraft.
 
-\(g\) You may not provide training in a light-sport aircraft with a VH greater than 87 knots CAS unless you have the endorsement specified in §61.327 (b), or are otherwise authorized to operate that light-sport aircraft.
+\(g\) You may not provide training in a light-sport aircraft with a VH greater than 87 knots CAS unless you have the endorsement specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.327   Are there specific endorsement requirements to operate a light-sport aircraft based on VH?|§61.327]] (b), or are otherwise authorized to operate that light-sport aircraft.
 
-\(h\) You may not provide training on the control and maneuvering of an aircraft solely by reference to the instruments in a light sport airplane with a Vh greater than 87 knots CAS unless you meet the requirements in §61.412.
+\(h\) You may not provide training on the control and maneuvering of an aircraft solely by reference to the instruments in a light sport airplane with a Vh greater than 87 knots CAS unless you meet the requirements in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.412   Do I need additional training to provide instruction on control and maneuvering an airplane solely by reference to the instruments in a light-sport aircraft based on VH?|§61.412]].
 
-\(i\) You must perform all training in an aircraft that complies with the requirements of §91.109 of this chapter.
+\(i\) You must perform all training in an aircraft that complies with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.109   Flight instruction; Simulated instrument flight and certain flight tests.|§91.109]] of this chapter.
 
 \(j\) If you provide flight training for a certificate, rating or privilege, you must provide that flight training in an aircraft that meets the following:
 
@@ -7340,9 +7340,9 @@ Your flight instructor certificate does not list aircraft category and class rat
 
 If you hold a flight instructor certificate with a sport pilot rating and seek to provide training in an additional category or class of light-sport aircraft you must—
 
-\(a\) Receive a logbook endorsement from the authorized instructor who trained you on the applicable areas of operation specified in §61.409 certifying you have met the aeronautical knowledge and flight proficiency requirements for the additional category and class flight instructor privilege you seek;
+\(a\) Receive a logbook endorsement from the authorized instructor who trained you on the applicable areas of operation specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.409   What flight proficiency requirements must I meet to apply for a flight instructor certificate with a sport pilot rating?|§61.409]] certifying you have met the aeronautical knowledge and flight proficiency requirements for the additional category and class flight instructor privilege you seek;
 
-\(b\) Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the areas specified in §61.409 for the additional category and class flight instructor privilege you seek;
+\(b\) Successfully complete a proficiency check from an authorized instructor other than the instructor who trained you on the areas specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.409   What flight proficiency requirements must I meet to apply for a flight instructor certificate with a sport pilot rating?|§61.409]] for the additional category and class flight instructor privilege you seek;
 
 \(c\) Complete an application for those privileges on a form and in a manner acceptable to the FAA and present this application to the authorized instructor who conducted the proficiency check specified in paragraph (b) of this section; and
 
@@ -7388,21 +7388,21 @@ No. If you hold a flight instructor certificate with a sport pilot rating, you m
 
 ### §61.425   How do I renew my flight instructor certificate?
 
-If you hold a flight instructor certificate with a sport pilot rating you may renew your certificate in accordance with the provisions of §61.197.
+If you hold a flight instructor certificate with a sport pilot rating you may renew your certificate in accordance with the provisions of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.197   Renewal requirements for flight instructor certification.|§61.197]].
 
 ### §61.427   What must I do if my flight instructor certificate with a sport pilot rating expires?
 
-You may exchange your expired flight instructor certificate with a sport pilot rating for a new certificate with a sport pilot rating and any other rating on that certificate by passing a practical test as prescribed in §61.405(b) or §61.183(h) for one of the ratings listed on the expired flight instructor certificate. The FAA will reinstate any privilege authorized by the expired certificate.
+You may exchange your expired flight instructor certificate with a sport pilot rating for a new certificate with a sport pilot rating and any other rating on that certificate by passing a practical test as prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.405   What tests do I have to take to obtain a flight instructor certificate with a sport pilot rating?|§61.405]](b) or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.183   Eligibility requirements.|§61.183]](h) for one of the ratings listed on the expired flight instructor certificate. The FAA will reinstate any privilege authorized by the expired certificate.
 
 ### §61.429   May I exercise the privileges of a flight instructor certificate with a sport pilot rating if I hold a flight instructor certificate with another rating?
 
 If you hold a flight instructor certificate, a commercial pilot certificate with an airship rating, or a commercial pilot certificate with a balloon rating issued under this part, and you seek to exercise the privileges of a flight instructor certificate with a sport pilot rating, you may do so without any further showing of proficiency, subject to the following limits:
 
-\(a\) You are limited to the aircraft category and class ratings listed on your flight instructor certificate, commercial pilot certificate with an airship rating, or commercial pilot certificate with a balloon rating, as appropriate, when exercising your flight instructor privileges and the privileges specified in §61.413.
+\(a\) You are limited to the aircraft category and class ratings listed on your flight instructor certificate, commercial pilot certificate with an airship rating, or commercial pilot certificate with a balloon rating, as appropriate, when exercising your flight instructor privileges and the privileges specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.413   What are the privileges of my flight instructor certificate with a sport pilot rating?|§61.413]].
 
-\(b\) You must comply with the limits specified in §61.415 and the recordkeeping requirements of §61.423.
+\(b\) You must comply with the limits specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.415   What are the limits of a flight instructor certificate with a sport pilot rating?|§61.415]] and the recordkeeping requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.423   What are the recordkeeping requirements for a flight instructor with a sport pilot rating?|§61.423]].
 
-\(c\) If you want to exercise the privileges of your flight instructor certificate in a category or class of light-sport aircraft for which you are not currently rated, you must meet all applicable requirements to provide training in an additional category or class of light-sport aircraft specified in §61.419.
+\(c\) If you want to exercise the privileges of your flight instructor certificate in a category or class of light-sport aircraft for which you are not currently rated, you must meet all applicable requirements to provide training in an additional category or class of light-sport aircraft specified in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.419   How do I obtain privileges to provide training in an additional category or class of light-sport aircraft?|§61.419]].
 
 \[Doc. No. FAA-2001-11133, 69 FR 44875, July 27, 2004, as amended by Amdt. 61-124, 74 FR 42562, Aug. 21, 2009; Amdt. 61-125, 75 FR 5222, Feb. 1, 2010\]
 

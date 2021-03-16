@@ -18,11 +18,11 @@ This part applies to foreign air carriers and other persons not citizens of the 
 
 \(a\) No foreign air carrier, or other person not a citizen of the United States, shall lease an aircraft with crew to a foreign air carrier for use by the latter in performing foreign air transportation unless either:
 
-\(1\) The lessor holds a foreign air carrier permit issued under 49 U.S.C. 41301 or an approved registration issued under part 294 of this chapter, and any statement of authorization required by part 212 of this chapter; or
+\(1\) The lessor holds a foreign air carrier permit issued under 49 U.S.C. 41301 or an approved registration issued under [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]], and any statement of authorization required by [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md|part 212 of this chapter]]; or
 
 \(2\) The Department has issued an exemption under 49 U.S.C. 40109 specifically authorizing the lessor to engage in the foreign air transportation to be performed under the lease; or
 
-\(3\) The Department has issued an order under §218.6 disclaiming jurisdiction over the matter.
+\(3\) The Department has issued an order under [[Volume 4/A Economic regulations/0218 Lease by foreign air carrier or other foreign person of aircraft with crew.md#§218.6   Issuance of order disclaiming jurisdiction.|§218.6]] disclaiming jurisdiction over the matter.
 
 \(b\) For purposes of this part, an aircraft shall be considered to be leased with crew if:
 
@@ -46,7 +46,7 @@ In any case where a foreign air carrier leases from another foreign air carrier 
 
 ### §218.5   Application for disclaimer of jurisdiction.
 
-The parties to a lease with crew as described in §218.3(b) may apply to the Department for an order disclaiming jurisdiction over the matter. The application shall be filed jointly by both parties to the lease, and shall generally conform to the procedural requirements of part 302, subpart A, of this chapter. It shall be served upon any air carrier providing services over all or any part of the route upon which air transportation services will be provided pursuant to the agreement. The application should set forth in detail all evidence and other factors relied upon to demonstrate that true operational control and safety responsibility for the air transportation services to be provided are in the hands of the lessee rather than the lessor. A copy of the agreement and all amendments thereof, as well as a summary interpretation of its pertinent provisions, shall be included with the applications. Any interested person may file an answer to the application within 7 days after service hereof. Until the Department has acted upon the application, no operations in foreign transportation shall be performed pursuant to the agreement.
+The parties to a lease with crew as described in [[Volume 4/A Economic regulations/0218 Lease by foreign air carrier or other foreign person of aircraft with crew.md#§218.3   Prohibition against unauthorized operations employing aircraft leased with crew.|§218.3]](b) may apply to the Department for an order disclaiming jurisdiction over the matter. The application shall be filed jointly by both parties to the lease, and shall generally conform to the procedural requirements of part 302, subpart A, of this chapter. It shall be served upon any air carrier providing services over all or any part of the route upon which air transportation services will be provided pursuant to the agreement. The application should set forth in detail all evidence and other factors relied upon to demonstrate that true operational control and safety responsibility for the air transportation services to be provided are in the hands of the lessee rather than the lessor. A copy of the agreement and all amendments thereof, as well as a summary interpretation of its pertinent provisions, shall be included with the applications. Any interested person may file an answer to the application within 7 days after service hereof. Until the Department has acted upon the application, no operations in foreign transportation shall be performed pursuant to the agreement.
 
 \[ER-716, 36 FR 23148, Dec. 4, 1971, as amended by DOT-OST-2014-0140, 84 FR 15929, Apr. 16, 2019\]
 

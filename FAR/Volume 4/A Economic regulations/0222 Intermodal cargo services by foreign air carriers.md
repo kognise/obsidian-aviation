@@ -10,7 +10,7 @@ This part applies to all air transportation of property that includes both air m
 
 ### §222.2   Scope of permissible intermodal cargo services.
 
-\(a\) Under its foreign air carrier permit, a direct foreign air carrier may provide or control the surface portion of intermodal cargo services within a zone extending 35 miles from the boundary of the airport or city it is authorized to serve. A direct foreign air carrier shall not provide or control the surface portion of intermodal cargo services outside of this 35-mile zone unless authorized to do so by the Department in accordance with §§222.3, 222.4 and 222.5.
+\(a\) Under its foreign air carrier permit, a direct foreign air carrier may provide or control the surface portion of intermodal cargo services within a zone extending 35 miles from the boundary of the airport or city it is authorized to serve. A direct foreign air carrier shall not provide or control the surface portion of intermodal cargo services outside of this 35-mile zone unless authorized to do so by the Department in accordance with §[[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md#§222.3   Application for Statement of Authorization.|§222.3]], 222.4 and 222.5.
 
 \(b\) A direct foreign air carrier shall be considered to control the surface portion of intermodal cargo services if it has or publicly represents that it has any responsibility for or control over the movement of, or has any ownership, controlling or exclusive dealing relationship with, the carrier actually providing the surface transportation.
 
@@ -34,7 +34,7 @@ This part applies to all air transportation of property that includes both air m
 
 ### §222.4   Procedure on receipt of application for Statement of Authorization.
 
-\(a\) After review of an application form filed under §222.3, the Department will take one or more of the following actions:
+\(a\) After review of an application form filed under [[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md#§222.3   Application for Statement of Authorization.|§222.3]], the Department will take one or more of the following actions:
 
 \(1\) Indicate by stamp on OST Form 4500 the effective date of the Statement of Authorization, and return to the carrier the duplicate copy of Form 4500 as evidence of approval under this part;
 

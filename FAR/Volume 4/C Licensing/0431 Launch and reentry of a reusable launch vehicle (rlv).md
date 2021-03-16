@@ -42,7 +42,7 @@ To obtain either type of RLV mission license, an applicant must obtain policy an
 
 ### §431.7   Payload and payload reentry determinations.
 
-\(a\) A payload determination is required to launch a payload unless the proposed payload is exempt from payload review under §415.53 of this chapter. Requirements for obtaining a payload determination are set forth in part 415, subpart D of this chapter.
+\(a\) A payload determination is required to launch a payload unless the proposed payload is exempt from payload review under [[Volume 4/C Licensing/0415 Launch license.md#§415.53   Payloads not subject to review.|§415.53]] of this chapter. Requirements for obtaining a payload determination are set forth in part 415, subpart D of this chapter.
 
 \(b\) A payload reentry determination is required to reenter a payload to Earth on an RLV unless the proposed payload is exempt from payload reentry review.
 
@@ -52,7 +52,7 @@ To obtain either type of RLV mission license, an applicant must obtain policy an
 
 ### §431.8   Human space flight.
 
-To obtain a license, an applicant proposing to conduct a reusable launch vehicle mission with flight crew or a space flight participant on board must demonstrate compliance with §§460.5, 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+To obtain a license, an applicant proposing to conduct a reusable launch vehicle mission with flight crew or a space flight participant on board must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006\]
 
@@ -148,9 +148,9 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(c\) An applicant shall designate by name, title, and qualifications, a qualified safety official authorized by the applicant to examine all aspects of the applicant's operations with respect to safety of RLV mission activities and to monitor independently compliance by vehicle safety operations personnel with the applicant's safety policies and procedures. The safety official shall report directly to the person responsible for an applicant's licensed RLV mission activities, who shall ensure that all of the safety official's concerns are addressed both before a mission is initiated and before reentry or descent flight of an RLV is initiated. The safety official is responsible for—
 
-\(1\) Monitoring and evaluating operational dress rehearsals to ensure they are conducted in accordance with procedures required by §431.37(a)(4) and under §431.37(a)(1)(iv) to ensure the readiness of vehicle safety operations personnel to conduct a safe mission under nominal and non-nominal conditions; and
+\(1\) Monitoring and evaluating operational dress rehearsals to ensure they are conducted in accordance with procedures required by [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]](a)(4) and under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]](a)(1)(iv) to ensure the readiness of vehicle safety operations personnel to conduct a safe mission under nominal and non-nominal conditions; and
 
-\(2\) Completing a mission readiness determination as required by §431.37 before an RLV mission is initiated. The safety official must monitor and report to the person responsible for the conduct of licensed RLV mission activities any non-compliance with procedures listed in §§431.37 and 431.43, or any representation contained in the application, and the readiness of the licensee to conduct mission operations in accordance with the license and this part. The safety official is responsible for compliance with §§431.37 and 431.43, and with representations contained in the application.
+\(2\) Completing a mission readiness determination as required by [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] before an RLV mission is initiated. The safety official must monitor and report to the person responsible for the conduct of licensed RLV mission activities any non-compliance with procedures listed in §[[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] and 431.43, or any representation contained in the application, and the readiness of the licensee to conduct mission operations in accordance with the license and this part. The safety official is responsible for compliance with §[[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.37   Mission readiness.|§431.37]] and 431.43, and with representations contained in the application.
 
 ### §431.35   Acceptable reusable launch vehicle mission risk.
 
@@ -160,7 +160,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(1\) To obtain safety approval, an applicant must demonstrate the following for public risk:
 
-\(i\) The risk to the collective members of the public from the proposed launch meets the public risk criteria of §417.107(b)(1) of this chapter;
+\(i\) The risk to the collective members of the public from the proposed launch meets the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b)(1) of this chapter;
 
 \(ii\) The risk level to the collective members of the public, excluding persons in water-borne vessels and aircraft, from each proposed reentry does not exceed an expected number of 1 × 10−4 casualties from impacting inert and explosive debris and toxic release associated with the reentry; and
 
@@ -194,7 +194,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(a\) *Mission readiness requirements.* An applicant shall submit the following procedures for verifying mission readiness:
 
-\(1\) Mission readiness review procedures that involve the applicant's vehicle safety operations personnel, and launch site and reentry site personnel involved in the mission. The procedures shall ensure a mission readiness review is conducted during which the designated individual responsible for the conduct of licensed activities under §431.33(b) is provided with the following information to make a judgment as to mission readiness—
+\(1\) Mission readiness review procedures that involve the applicant's vehicle safety operations personnel, and launch site and reentry site personnel involved in the mission. The procedures shall ensure a mission readiness review is conducted during which the designated individual responsible for the conduct of licensed activities under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](b) is provided with the following information to make a judgment as to mission readiness—
 
 \(i\) Readiness of the RLV including safety-critical systems and payload for launch and reentry flight;
 
@@ -204,13 +204,13 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(iv\) Readiness of vehicle safety operations personnel to support mission flight, including results of dress rehearsals and simulations conducted in accordance with paragraph (a)(4) of this section;
 
-\(v\) Mission rules and constraints, including contingency abort plans and procedures, if any, as required under §431.39;
+\(v\) Mission rules and constraints, including contingency abort plans and procedures, if any, as required under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.39   Mission rules, procedures, contingency plans, and checklists.|§431.39]];
 
 \(vi\) Unresolved safety issues identified during the mission readiness review and plans for addressing them; and
 
-\(vii\) Any additional safety information required by the individual designated under §431.33(b) to determine launch and reentry readiness.
+\(vii\) Any additional safety information required by the individual designated under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](b) to determine launch and reentry readiness.
 
-\(2\) Procedures that ensure mission constraints, rules, contingency abort and emergency abort procedures are listed and consolidated in a safety directive or notebook approved by the person designated by the applicant under §431.33(b), the launch site operator, and the reentry site operator, if any;
+\(2\) Procedures that ensure mission constraints, rules, contingency abort and emergency abort procedures are listed and consolidated in a safety directive or notebook approved by the person designated by the applicant under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](b), the launch site operator, and the reentry site operator, if any;
 
 \(3\) Procedures that ensure currency and consistency of licensee, launch site operator, and reentry site operator checklists;
 
@@ -230,7 +230,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(a\) An applicant shall submit mission rules, procedures, checklists, emergency plans, and contingency abort plans, if any, that ensure safe conduct of mission operations during nominal and non-nominal vehicle flight.
 
-\(b\) Mission rules, procedures, checklists, emergency plans, and contingency abort plans must be contained in a safety directive, notebook, or other compilation that is approved by the safety official designated under §431.33(c) and concurred in by the launch site operator and reentry site operator, if any.
+\(b\) Mission rules, procedures, checklists, emergency plans, and contingency abort plans must be contained in a safety directive, notebook, or other compilation that is approved by the safety official designated under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](c) and concurred in by the launch site operator and reentry site operator, if any.
 
 \(c\) Vehicle safety operations personnel must have current and consistent mission checklists.
 
@@ -256,17 +256,17 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(a\) An applicant for RLV mission safety approval shall submit procedures—
 
-\(1\) That ensure RLV mission risks do not exceed the criteria set forth in §431.35 for nominal and non-nominal operations;
+\(1\) That ensure RLV mission risks do not exceed the criteria set forth in [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.35   Acceptable reusable launch vehicle mission risk.|§431.35]] for nominal and non-nominal operations;
 
-\(2\) That ensure conformance with the system safety process and associated hazard identification and risk assessment required under §431.35(c);
+\(2\) That ensure conformance with the system safety process and associated hazard identification and risk assessment required under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.35   Acceptable reusable launch vehicle mission risk.|§431.35]](c);
 
 \(3\) That ensure conformance with operational restrictions listed in paragraphs (c) through (e) of this section;
 
 \(4\) To monitor and verify the status of RLV safety-critical systems sufficiently before enabling both launch and reentry flight to ensure public safety and during mission flight unless technically infeasible; and
 
-\(5\) For human activation or initiation of a flight safety system that safely aborts the launch of an RLV if the vehicle is not operating within approved mission parameters and the vehicle poses risk to public health and safety and the safety of property in excess of acceptable flight risk as defined in §431.35.
+\(5\) For human activation or initiation of a flight safety system that safely aborts the launch of an RLV if the vehicle is not operating within approved mission parameters and the vehicle poses risk to public health and safety and the safety of property in excess of acceptable flight risk as defined in [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.35   Acceptable reusable launch vehicle mission risk.|§431.35]].
 
-\(b\) To satisfy risk criteria set forth in §431.35(b)(1), an applicant for RLV mission safety approval shall identify suitable and attainable locations for nominal landing and vehicle staging impact or landing, if any. An application shall identify such locations for a contingency abort if necessary to satisfy risk criteria contained in §431.35(b)(1) during launch of an RLV. A nominal landing, vehicle staging impact and contingency abort location are suitable for launch or reentry if—
+\(b\) To satisfy risk criteria set forth in [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.35   Acceptable reusable launch vehicle mission risk.|§431.35]](b)(1), an applicant for RLV mission safety approval shall identify suitable and attainable locations for nominal landing and vehicle staging impact or landing, if any. An application shall identify such locations for a contingency abort if necessary to satisfy risk criteria contained in [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.35   Acceptable reusable launch vehicle mission risk.|§431.35]](b)(1) during launch of an RLV. A nominal landing, vehicle staging impact and contingency abort location are suitable for launch or reentry if—
 
 \(1\) For any vehicle or vehicle stage, the area of the predicted three-sigma dispersion of the vehicle or vehicle stage can be wholly contained within the designated location; and
 
@@ -312,7 +312,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 ### §431.45   Mishap investigation plan and emergency response plan.
 
-\(a\) *Mishap investigation plan and emergency response plan.* An applicant shall submit a mishap investigation plan (MIP) containing the applicant's procedures for reporting and responding to launch and reentry accidents, launch and reentry incidents, or other mishaps, as defined in §401.5 of this chapter, that occur during the conduct of an RLV mission. An acceptable MIP satisfies the requirements of paragraphs (b)-(d) of this section. An applicant shall also submit an emergency response plan (ERP) that contains procedures for informing the affected public of a planned RLV mission. An acceptable ERP satisfies the requirements of paragraph (e) of this section. The MIP and ERP shall be signed by an individual authorized to sign and certify the application in accordance with §413.7(c) of this chapter, the person responsible for the conduct of all licensed RLV mission activities designated under §431.33(b) of this subpart, and the safety official designated under §431.33(c) of this subpart.
+\(a\) *Mishap investigation plan and emergency response plan.* An applicant shall submit a mishap investigation plan (MIP) containing the applicant's procedures for reporting and responding to launch and reentry accidents, launch and reentry incidents, or other mishaps, as defined in [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, that occur during the conduct of an RLV mission. An acceptable MIP satisfies the requirements of paragraphs (b)-(d) of this section. An applicant shall also submit an emergency response plan (ERP) that contains procedures for informing the affected public of a planned RLV mission. An acceptable ERP satisfies the requirements of paragraph (e) of this section. The MIP and ERP shall be signed by an individual authorized to sign and certify the application in accordance with [[Volume 4/C Licensing/0413 License application procedures.md#§413.7   Application.|§413.7]](c) of this chapter, the person responsible for the conduct of all licensed RLV mission activities designated under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](b) of this subpart, and the safety official designated under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.33   Safety organization.|§431.33]](c) of this subpart.
 
 \(b\) *Report requirements.* A MIP shall provide for—
 
@@ -336,7 +336,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied policy approval
 
 \(vii\) Property damage, if any, and an estimate of its value;
 
-\(viii\) Identification of hazardous materials, as defined in §401.5 of this chapter, involved in the event, whether on the vehicle, payload, or on the ground;
+\(viii\) Identification of hazardous materials, as defined in [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, involved in the event, whether on the vehicle, payload, or on the ground;
 
 \(ix\) Action taken by any person to contain the consequences of the event;
 
@@ -388,7 +388,7 @@ The FAA notifies an applicant, in writing, if the FAA has denied safety approval
 
 \(a\) The FAA may approve the return of a type or class of payload (for example, communications or microgravity/scientific satellites).
 
-\(b\) The RLV mission licensee that will return a payload approved for reentry under this section, is responsible for providing current information in accordance with §431.57 regarding the payload proposed for reentry no later than 60 days before a scheduled RLV mission involving that payload.
+\(b\) The RLV mission licensee that will return a payload approved for reentry under this section, is responsible for providing current information in accordance with [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.57   Information requirements for payload reentry review.|§431.57]] regarding the payload proposed for reentry no later than 60 days before a scheduled RLV mission involving that payload.
 
 ### §431.55   Payload reentry review.
 
@@ -412,7 +412,7 @@ A person requesting reentry review of a particular payload or payload class must
 
 \(c\) Payload owner and operator, if different from the person requesting the payload reentry review;
 
-\(d\) Type, amount, and container of hazardous materials, as defined in §401.5 of this chapter, and radioactive materials in the payload;
+\(d\) Type, amount, and container of hazardous materials, as defined in [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, and radioactive materials in the payload;
 
 \(e\) Explosive potential of payload materials, alone and in combination with other materials found on the payload or RLV during reentry;
 
@@ -428,7 +428,7 @@ A person requesting reentry review of a particular payload or payload class must
 
 ### §431.61   Incorporation of payload reentry determination in license application.
 
-A favorable payload reentry determination issued for a payload or class of payload may be included by an RLV mission license applicant as part of its application. Before the conduct of an RLV mission involving a payload approved for reentry, any change in information provided under §431.57 must be reported by the licensee in accordance with §413.17 of this chapter. The FAA determines whether a favorable payload reentry determination remains valid and may conduct an additional payload reentry review.
+A favorable payload reentry determination issued for a payload or class of payload may be included by an RLV mission license applicant as part of its application. Before the conduct of an RLV mission involving a payload approved for reentry, any change in information provided under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.57   Information requirements for payload reentry review.|§431.57]] must be reported by the licensee in accordance with [[Volume 4/C Licensing/0413 License application procedures.md#§413.17   Continuing accuracy of application; supplemental information; amendment.|§413.17]] of this chapter. The FAA determines whether a favorable payload reentry determination remains valid and may conduct an additional payload reentry review.
 
 ### §§431.62-431.70   \[Reserved\]
 
@@ -454,7 +454,7 @@ A favorable payload reentry determination issued for a payload or class of paylo
 
 \(2\) Any representation contained in the license application that is material to public health and safety or the safety of property is no longer accurate and complete or does not reflect the licensee's procedures governing the actual conduct of an RLV mission. A change is material to public health and safety or the safety of property if it alters or affects the—
 
-\(i\) Mission rules, procedures, checklists, emergency plans, and contingency abort plans, if any, submitted in accordance with §431.39
+\(i\) Mission rules, procedures, checklists, emergency plans, and contingency abort plans, if any, submitted in accordance with [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.39   Mission rules, procedures, contingency plans, and checklists.|§431.39]]
 
 \(ii\) Class of payload;
 
@@ -470,7 +470,7 @@ A favorable payload reentry determination issued for a payload or class of paylo
 
 \(viii\) Any safety system, policy, procedure, requirement, criteria, or standard.
 
-\(c\) An application to modify an RLV mission license must be prepared and submitted in accordance with part 413 of this chapter. The licensee must indicate any part of its license or license application that would be changed or affected by a proposed modification.
+\(c\) An application to modify an RLV mission license must be prepared and submitted in accordance with [[Volume 4/C Licensing/0413 License application procedures.md|part 413 of this chapter]]. The licensee must indicate any part of its license or license application that would be changed or affected by a proposed modification.
 
 \(d\) The FAA reviews determinations and approvals required by this chapter to determine whether they remain valid after submission of a proposed modification.
 
@@ -490,13 +490,13 @@ A favorable payload reentry determination issued for a payload or class of paylo
 
 \(a\) Except as specified in paragraph (b) of this section, a licensee shall maintain for 3 years all records, data, and other material necessary to verify that a licensed RLV mission is conducted in accordance with representations contained in the licensee's application.
 
-\(b\) In the event of a launch accident, reentry accident, launch incident or reentry incident, as defined in §401.5 of this chapter, a licensee shall preserve all records related to the event. Records must be retained until completion of any Federal investigation and the FAA advises the licensee that the records need not be retained. The licensee shall make all records required to be maintained under the regulations available to Federal officials for inspection and copying.
+\(b\) In the event of a launch accident, reentry accident, launch incident or reentry incident, as defined in [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, a licensee shall preserve all records related to the event. Records must be retained until completion of any Federal investigation and the FAA advises the licensee that the records need not be retained. The licensee shall make all records required to be maintained under the regulations available to Federal officials for inspection and copying.
 
 ### §431.79   Reusable launch vehicle mission reporting requirements.
 
 \(a\) Not less than 60 days before each RLV mission conducted under a license, a licensee shall provide the FAA with the following information:
 
-\(1\) Payload information in accordance with [[Volume 4/C Licensing/0415 Launch license.md#§415.59   Information requirements for payload review.|14 CFR §415.59]] of this chapter and §431.57; and
+\(1\) Payload information in accordance with [[Volume 4/C Licensing/0415 Launch license.md#§415.59   Information requirements for payload review.|14 CFR §415.59]] of this chapter and [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.57   Information requirements for payload reentry review.|§431.57]]; and
 
 \(2\) Flight information, including the vehicle, launch site, planned launch and reentry flight path, and intended landing sites including contingency abort sites.
 
@@ -504,7 +504,7 @@ A favorable payload reentry determination issued for a payload or class of paylo
 
 \(b\) Not later than 15 days before each licensed RLV mission, a licensee must notify the FAA, in writing, of the time and date of the intended launch and reentry or other landing on Earth of the RLV and may utilize the FAA/U.S. Space Command Launch Notification Form, contained in part 415, Appendix A, of this subchapter for doing so.
 
-\(c\) A licensee must report a launch accident, launch incident, reentry accident, reentry incident, or other mishap immediately to the FAA Washington Operations Center and provide a written preliminary report in the event of a launch accident, launch incident, reentry accident, or reentry incident, in accordance with the mishap investigation and emergency response plan submitted as part of its license application under §431.45.
+\(c\) A licensee must report a launch accident, launch incident, reentry accident, reentry incident, or other mishap immediately to the FAA Washington Operations Center and provide a written preliminary report in the event of a launch accident, launch incident, reentry accident, or reentry incident, in accordance with the mishap investigation and emergency response plan submitted as part of its license application under [[Volume 4/C Licensing/0431 Launch and reentry of a reusable launch vehicle (rlv).md#§431.45   Mishap investigation plan and emergency response plan.|§431.45]].
 
 \[Docket No. FAA-1999-5535, 65 FR 56658, Sept. 19, 2000, as amended by Amdt. No. 431-5, 81 FR 59440, Aug. 30, 2016\]
 

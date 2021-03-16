@@ -6,7 +6,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.398](https://www.ecfr
 
 ### §398.1   Purpose.
 
-The purpose of this part is to establish general guidelines for the determination of basic essential air service for each eligible place under 49 U.S.C. 41731 and 41732. Procedures for the determination of the essential air service level for a place are contained in part 325 of this chapter.
+The purpose of this part is to establish general guidelines for the determination of basic essential air service for each eligible place under 49 U.S.C. 41731 and 41732. Procedures for the determination of the essential air service level for a place are contained in [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md|part 325 of this chapter]].
 
 ### §398.2   Number and designation of hubs.
 
@@ -78,7 +78,7 @@ The purpose of this part is to establish general guidelines for the determinatio
 
 \(3\) More flights are needed to accommodate passengers because smaller aircraft are being used at the place;
 
-\(4\) More flights are needed in order to ensure adequate connecting opportunities as provided for by §398.7; or
+\(4\) More flights are needed in order to ensure adequate connecting opportunities as provided for by [[Volume 4/F Policy statements/0398 Guidelines for individual determinations of basic essential air service.md#§398.7   Timing of flights.|§398.7]]; or
 
 \(5\) For Alaska, the appropriate state agency agrees that more frequent service is needed to accommodate cargo traffic with the aircraft used at the eligible place.
 

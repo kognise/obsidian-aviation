@@ -20,7 +20,7 @@ This part prescribes the requirements for—
 
 \(1\) A type certificate;
 
-\(2\) A production approval as defined under part 21 of this chapter; and
+\(2\) A production approval as defined under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]]; and
 
 \(3\) The provisions of an agreement between the United States and another country or jurisdiction for the acceptance of products and articles; and
 
@@ -46,9 +46,9 @@ No person may mark a product or article in accordance with this subpart unless�
 
 ### §45.11   Marking of products.
 
-\(a\) *Aircraft.* A manufacturer of aircraft covered under §21.182 of this chapter must mark each aircraft by attaching a fireproof identification plate that—
+\(a\) *Aircraft.* A manufacturer of aircraft covered under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.182   Aircraft identification.|§21.182]] of this chapter must mark each aircraft by attaching a fireproof identification plate that—
 
-\(1\) Includes the information specified in §45.13 using an approved method of fireproof marking;
+\(1\) Includes the information specified in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]] using an approved method of fireproof marking;
 
 \(2\) Must be secured in such a manner that it will not likely be defaced or removed during normal service, or lost or destroyed in an accident; and
 
@@ -56,7 +56,7 @@ No person may mark a product or article in accordance with this subpart unless�
 
 \(b\) *Aircraft engines.* A manufacturer of an aircraft engine produced under a type certificate or production certificate must mark each engine by attaching a fireproof identification plate. Such plate—
 
-\(1\) Must include the information specified in §45.13 using an approved method of fireproof marking;
+\(1\) Must include the information specified in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]] using an approved method of fireproof marking;
 
 \(2\) Must be affixed to the engine at an accessible location; and
 
@@ -66,7 +66,7 @@ No person may mark a product or article in accordance with this subpart unless�
 
 \(1\) Be placed on a non-critical surface;
 
-\(2\) Contain the information specified in §45.13;
+\(2\) Contain the information specified in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]];
 
 \(3\) Not likely be defaced or removed during normal service; and
 
@@ -88,15 +88,15 @@ No person may mark a product or article in accordance with this subpart unless�
 
 \(1\) Aircraft produced for—
 
-\(i\) Operations under part 121 of this chapter,
+\(i\) Operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]],
 
-\(ii\) Commuter operations (as defined in §110.2 of this chapter), or
+\(ii\) Commuter operations (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0110 General requirements.md#§110.2   Definitions.|§110.2]] of this chapter), or
 
 \(iii\) Export.
 
-\(2\) Aircraft operating under part 121 of this chapter and under an FAA-approved continuous airworthiness maintenance program; or
+\(2\) Aircraft operating under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] and under an FAA-approved continuous airworthiness maintenance program; or
 
-\(3\) Aircraft operating in commuter air carrier operations (as defined in §110.2 of this chapter) under an FAA-approved continuous airworthiness maintenance program.
+\(3\) Aircraft operating in commuter air carrier operations (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0110 General requirements.md#§110.2   Definitions.|§110.2]] of this chapter) under an FAA-approved continuous airworthiness maintenance program.
 
 \(h\) *Gliders.* Paragraphs (a)(3) and (e) of this section do not apply to gliders.
 
@@ -104,7 +104,7 @@ No person may mark a product or article in accordance with this subpart unless�
 
 ### §45.13   Identification data.
 
-\(a\) The identification required by §45.11 (a) through (c) must include the following information:
+\(a\) The identification required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.11   Marking of products.|§45.11]] (a) through (c) must include the following information:
 
 \(1\) Builder's name.
 
@@ -118,29 +118,29 @@ No person may mark a product or article in accordance with this subpart unless�
 
 \(6\) For aircraft engines, the established rating.
 
-\(7\) On or after January 1, 1984, for aircraft engines specified in part 34 of this chapter, the date of manufacture as defined in §34.1 of this chapter, and a designation, approved by the FAA, that indicates compliance with the applicable exhaust emission provisions of part 34 of this chapter and 40 CFR part 87. Approved designations include COMPLY, EXEMPT, and NON-US, as appropriate. After December 31, 2012, approved designations also include EXEMPT NEW, and EXCEPTED SPARE, as appropriate.
+\(7\) On or after January 1, 1984, for aircraft engines specified in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]], the date of manufacture as defined in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.1   Definitions.|§34.1]] of this chapter, and a designation, approved by the FAA, that indicates compliance with the applicable exhaust emission provisions of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]] and 40 CFR part 87. Approved designations include COMPLY, EXEMPT, and NON-US, as appropriate. After December 31, 2012, approved designations also include EXEMPT NEW, and EXCEPTED SPARE, as appropriate.
 
-\(i\) The designation COMPLY indicates that the engine is in compliance with all of the applicable exhaust emissions provisions of part 34. For any engine with a rated thrust in excess of 26.7 kilonewtons (6000 pounds) which is not used or intended for use in commercial operations and which is in compliance with the applicable provisions of part 34, but does not comply with the hydrocarbon emissions standard of §34.21(d), the statement “May not be used as a commercial aircraft engine” must be noted in the permanent powerplant record that accompanies the engine at the time of manufacture of the engine.
+\(i\) The designation COMPLY indicates that the engine is in compliance with all of the applicable exhaust emissions provisions of part 34. For any engine with a rated thrust in excess of 26.7 kilonewtons (6000 pounds) which is not used or intended for use in commercial operations and which is in compliance with the applicable provisions of part 34, but does not comply with the hydrocarbon emissions standard of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]](d), the statement “May not be used as a commercial aircraft engine” must be noted in the permanent powerplant record that accompanies the engine at the time of manufacture of the engine.
 
-\(ii\) The designation EXEMPT indicates that the engine has been granted an exemption pursuant to the applicable provision of §34.7 (a)(1), (a)(4), (b), (c), or (d), and an indication of the type of exemption and the reason for the grant must be noted in the permanent powerplant record that accompanies the engine from the time of manufacture of the engine.
+\(ii\) The designation EXEMPT indicates that the engine has been granted an exemption pursuant to the applicable provision of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.7   Exemptions.|§34.7]] (a)(1), (a)(4), (b), (c), or (d), and an indication of the type of exemption and the reason for the grant must be noted in the permanent powerplant record that accompanies the engine from the time of manufacture of the engine.
 
-\(iii\) The designation NON-US indicates that the engine has been granted an exemption pursuant to §34.7(a)(1), and the notation “This aircraft may not be operated within the United States”, or an equivalent notation approved by the FAA, must be inserted in the aircraft logbook, or alternate equivalent document, at the time of installation of the engine.
+\(iii\) The designation NON-US indicates that the engine has been granted an exemption pursuant to [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.7   Exemptions.|§34.7]](a)(1), and the notation “This aircraft may not be operated within the United States”, or an equivalent notation approved by the FAA, must be inserted in the aircraft logbook, or alternate equivalent document, at the time of installation of the engine.
 
-\(iv\) The designation EXEMPT NEW indicates that the engine has been granted an exemption pursuant to the applicable provision of §34.7(h) of this chapter; the designation must be noted in the permanent powerplant record that accompanies the engine from the time of its manufacture.
+\(iv\) The designation EXEMPT NEW indicates that the engine has been granted an exemption pursuant to the applicable provision of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.7   Exemptions.|§34.7]](h) of this chapter; the designation must be noted in the permanent powerplant record that accompanies the engine from the time of its manufacture.
 
-\(v\) The designation EXCEPTED SPARE indicates that the engine has been excepted pursuant to the applicable provision of §34.9(b) of this chapter; the designation must be noted in the permanent powerplant record that accompanies the engine from the time of its manufacture.
+\(v\) The designation EXCEPTED SPARE indicates that the engine has been excepted pursuant to the applicable provision of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§34.9]](b) of this chapter; the designation must be noted in the permanent powerplant record that accompanies the engine from the time of its manufacture.
 
 \(8\) Any other information the FAA finds appropriate.
 
 \(b\) Except as provided in paragraph (d)(1) of this section, no person may remove, change, or place identification information required by paragraph (a) of this section, on any aircraft, aircraft engine, propeller, propeller blade, or propeller hub, without the approval of the FAA.
 
-\(c\) Except as provided in paragraph (d)(2) of this section, no person may remove or install any identification plate required by §45.11, without the approval of the FAA.
+\(c\) Except as provided in paragraph (d)(2) of this section, no person may remove or install any identification plate required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.11   Marking of products.|§45.11]], without the approval of the FAA.
 
-\(d\) Persons performing work under the provisions of Part 43 of this chapter may, in accordance with methods, techniques, and practices acceptable to the FAA—
+\(d\) Persons performing work under the provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|Part 43 of this chapter]] may, in accordance with methods, techniques, and practices acceptable to the FAA—
 
 \(1\) Remove, change, or place the identification information required by paragraph (a) of this section on any aircraft, aircraft engine, propeller, propeller blade, or propeller hub; or
 
-\(2\) Remove an identification plate required by §45.11 when necessary during maintenance operations.
+\(2\) Remove an identification plate required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.11   Marking of products.|§45.11]] when necessary during maintenance operations.
 
 \(e\) No person may install an identification plate removed in accordance with paragraph (d)(2) of this section on any aircraft, aircraft engine, propeller, propeller blade, or propeller hub other than the one from which it was removed.
 
@@ -168,7 +168,7 @@ No person may mark a product or article in accordance with this subpart unless�
 
 ### §45.16   Marking of life-limited parts.
 
-When requested by a person required to comply with §43.10 of this chapter, the holder of a type certificate or design approval for a life-limited part must provide marking instructions, or must state that the part cannot be practicably marked without compromising its integrity.
+When requested by a person required to comply with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.10   Disposition of life-limited aircraft parts.|§43.10]] of this chapter, the holder of a type certificate or design approval for a life-limited part must provide marking instructions, or must state that the part cannot be practicably marked without compromising its integrity.
 
 \[Doc. No. FAA-200-8017, 67 FR 2110, Jan. 15, 2002, as amended by Amdt. 45-26, 74 FR 53395, Oct. 16, 2009\]
 
@@ -176,7 +176,7 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 ### §45.21   General.
 
-\(a\) Except as provided in §45.22, no person may operate a U.S.-registered aircraft unless that aircraft displays nationality and registration marks in accordance with the requirements of this section and §§45.23 through 45.33.
+\(a\) Except as provided in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.22   Exhibition, antique, and other aircraft: Special rules.|§45.22]], no person may operate a U.S.-registered aircraft unless that aircraft displays nationality and registration marks in accordance with the requirements of this section and §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] through 45.33.
 
 \(b\) Unless otherwise authorized by the FAA, no person may place on any aircraft a design, mark, or symbol that modifies or confuses the nationality and registration marks.
 
@@ -196,13 +196,13 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 \(2\) It is bearing a temporary registration number; or
 
-\(3\) It is marked temporarily to meet the requirements of §45.22(c)(1) or §45.29(h) of this part, or both.
+\(3\) It is marked temporarily to meet the requirements of [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.22   Exhibition, antique, and other aircraft: Special rules.|§45.22]](c)(1) or [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.29   Size of marks.|§45.29]](h) of this part, or both.
 
 \[Doc. No. 8093, Amdt. 45-5, 33 FR 450, Jan. 12, 1968, as amended by Amdt. 45-17, 52 FR 34102, Sept. 9, 1987\]
 
 ### §45.22   Exhibition, antique, and other aircraft: Special rules.
 
-\(a\) When display of aircraft nationality and registration marks in accordance with §§45.21 and 45.23 through 45.33 would be inconsistent with exhibition of that aircraft, a U.S.-registered aircraft may be operated without displaying those marks anywhere on the aircraft if:
+\(a\) When display of aircraft nationality and registration marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33 would be inconsistent with exhibition of that aircraft, a U.S.-registered aircraft may be operated without displaying those marks anywhere on the aircraft if:
 
 \(1\) It is operated for the purpose of exhibition, including a motion picture or television production, or an airshow;
 
@@ -212,11 +212,11 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 \(i\) It is operated with the prior approval of the responsible Flight Standards office, in the case of a flight within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for the takeoff airport, or within 4.4 nautical miles of that airport if it is within Class G airspace; or
 
-\(ii\) It is operated under a flight plan filed under either §91.153 or §91.169 of this chapter describing the marks it displays, in the case of any other flight.
+\(ii\) It is operated under a flight plan filed under either [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|§91.153]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.169   IFR flight plan: Information required.|§91.169]] of this chapter describing the marks it displays, in the case of any other flight.
 
-\(b\) A small U.S.-registered aircraft built at least 30 years ago or a U.S.-registered aircraft for which an experimental certificate has been issued under §21.191(d) or 21.191(g) for operation as an exhibition aircraft or as an amateur-built aircraft and which has the same external configuration as an aircraft built at least 30 years ago may be operated without displaying marks in accordance with §§45.21 and 45.23 through 45.33 if:
+\(b\) A small U.S.-registered aircraft built at least 30 years ago or a U.S.-registered aircraft for which an experimental certificate has been issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](d) or 21.191(g) for operation as an exhibition aircraft or as an amateur-built aircraft and which has the same external configuration as an aircraft built at least 30 years ago may be operated without displaying marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33 if:
 
-\(1\) It displays in accordance with §45.21(c) marks at least 2 inches high on each side of the fuselage or vertical tail surface consisting of the Roman capital letter “N” followed by:
+\(1\) It displays in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]](c) marks at least 2 inches high on each side of the fuselage or vertical tail surface consisting of the Roman capital letter “N” followed by:
 
 \(i\) The U.S. registration number of the aircraft; or
 
@@ -226,13 +226,13 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 \(c\) No person may operate an aircraft under paragraph (a) or (b) of this section—
 
-\(1\) In an ADIZ or DEWIZ described in Part 99 of this chapter unless it temporarily bears marks in accordance with §§45.21 and 45.23 through 45.33;
+\(1\) In an ADIZ or DEWIZ described in [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md|Part 99 of this chapter]] unless it temporarily bears marks in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33;
 
 \(2\) In a foreign country unless that country consents to that operation; or
 
 \(3\) In any operation conducted under Part 121, 133, 135, or 137 of this chapter.
 
-\(d\) If, due to the configuration of an aircraft, it is impossible for a person to mark it in accordance with §§45.21 and 45.23 through 45.33, he may apply to the FAA for a different marking procedure.
+\(d\) If, due to the configuration of an aircraft, it is impossible for a person to mark it in accordance with §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.21   General.|§45.21]] and 45.23 through 45.33, he may apply to the FAA for a different marking procedure.
 
 \[Doc. No. 8093, Amdt. 45-5, 33 FR 450, Jan. 12, 1968, as amended by Amdt. 45-13, 46 FR 48603, Oct. 1, 1981; Amdt. 45-19, 54 FR 39291, Sept. 25, 1989; Amdt. 45-18, 54 FR 34330, Aug. 18, 1989; Amdt. 45-21, 56 FR 65653, Dec. 17, 1991; Amdt. 45-22, 66 FR 21066, Apr. 27, 2001; Doc. No. FAA-2018-0119, Amdt. 45-31, 83 FR 9170, Mar. 5, 2018\]
 
@@ -246,11 +246,11 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 ### §45.25   Location of marks on fixed-wing aircraft.
 
-\(a\) The operator of a fixed-wing aircraft must display the required marks on either the vertical tail surfaces or the sides of the fuselage, except as provided in §45.29(f).
+\(a\) The operator of a fixed-wing aircraft must display the required marks on either the vertical tail surfaces or the sides of the fuselage, except as provided in [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.29   Size of marks.|§45.29]](f).
 
 \(b\) The marks required by paragraph (a) of this section must be displayed as follows:
 
-\(1\) If displayed on the vertical tail surfaces, horizontally on both surfaces, horizontally on both surfaces of a single vertical tail or on the outer surfaces of a multivertical tail. However, on aircraft on which marks at least 3 inches high may be displayed in accordance with §45.29(b)(1), the marks may be displayed vertically on the vertical tail surfaces.
+\(1\) If displayed on the vertical tail surfaces, horizontally on both surfaces, horizontally on both surfaces of a single vertical tail or on the outer surfaces of a multivertical tail. However, on aircraft on which marks at least 3 inches high may be displayed in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.29   Size of marks.|§45.29]](b)(1), the marks may be displayed vertically on the vertical tail surfaces.
 
 \(2\) If displayed on the fuselage surfaces, horizontally on both sides of the fuselage between the trailing edge of the wing and the leading edge of the horizontal stabilizer. However, if engine pods or other appurtenances are located in this area and are an integral part of the fuselage side surfaces, the operator may place the marks on those pods or appurtenances.
 
@@ -258,19 +258,19 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 ### §45.27   Location of marks; nonfixed-wing aircraft.
 
-\(a\) *Rotorcraft.* Each operator of a rotorcraft must display on that rotorcraft horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks required by §45.23.
+\(a\) *Rotorcraft.* Each operator of a rotorcraft must display on that rotorcraft horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]].
 
-\(b\) *Airships.* Each operator of an airship must display on that airship the marks required by §45.23, horizontally on—
+\(b\) *Airships.* Each operator of an airship must display on that airship the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]], horizontally on—
 
 \(1\) The upper surface of the right horizontal stabilizer and on the under surface of the left horizontal stabilizer with the top of the marks toward the leading edge of each stabilizer; and
 
 \(2\) Each side of the bottom half of the vertical stabilizer.
 
-\(c\) *Spherical balloons.* Each operator of a spherical balloon must display the marks required by §45.23 in two places diametrically opposite and near the maximum horizontal circumference of that balloon.
+\(c\) *Spherical balloons.* Each operator of a spherical balloon must display the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] in two places diametrically opposite and near the maximum horizontal circumference of that balloon.
 
-\(d\) *Nonspherical balloons.* Each operator of a nonspherical balloon must display the marks required by §45.23 on each side of the balloon near its maximum cross section and immediately above either the rigging band or the points of attachment of the basket or cabin suspension cables.
+\(d\) *Nonspherical balloons.* Each operator of a nonspherical balloon must display the marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] on each side of the balloon near its maximum cross section and immediately above either the rigging band or the points of attachment of the basket or cabin suspension cables.
 
-\(e\) *Powered parachutes and weight-shift-control aircraft.* Each operator of a powered parachute or a weight-shift-control aircraft must display the marks required by §§45.23 and 45.29(b)(2) of this part. The marks must be displayed in two diametrically opposite positions on the fuselage, a structural member, or a component of the aircraft and must be visible from the side of the aircraft.
+\(e\) *Powered parachutes and weight-shift-control aircraft.* Each operator of a powered parachute or a weight-shift-control aircraft must display the marks required by §[[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.23   Display of marks; general.|§45.23]] and 45.29(b)(2) of this part. The marks must be displayed in two diametrically opposite positions on the fuselage, a structural member, or a component of the aircraft and must be visible from the side of the aircraft.
 
 \[Doc. No. 2047, 29 FR 3223, Mar. 11, 1964, as amended by Amdt. 45-15, 48 FR 11392, Mar. 17, 1983; Amdt. 45-24, 69 FR 44863, July 27, 2004; Amdt. 45-25, 72 FR 52469, Sept. 14, 2007\]
 
@@ -286,13 +286,13 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 \(ii\) Marks at least 3 inches high may be displayed on a glider;
 
-\(iii\) Marks at least 3 inches high may be displayed on an aircraft for which the FAA has issued an experimental certificate under §21.191 (d), §21.191 (g), or §21.191 (i) of this chapter to operate as an exhibition aircraft, an amateur-built aircraft, or a light-sport aircraft when the maximum cruising speed of the aircraft does not exceed 180 knots CAS; and
+\(iii\) Marks at least 3 inches high may be displayed on an aircraft for which the FAA has issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] (d), [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] (g), or [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] (i) of this chapter to operate as an exhibition aircraft, an amateur-built aircraft, or a light-sport aircraft when the maximum cruising speed of the aircraft does not exceed 180 knots CAS; and
 
-\(iv\) Marks may be displayed on an exhibition, antique, or other aircraft in accordance with §45.22.
+\(iv\) Marks may be displayed on an exhibition, antique, or other aircraft in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.22   Exhibition, antique, and other aircraft: Special rules.|§45.22]].
 
 \(2\) Airships, spherical balloons, nonspherical balloons, powered parachutes, and weight-shift-control aircraft must be at least 3 inches high; and
 
-\(3\) Rotorcraft, must be at least 12 inches high, except that rotorcraft displaying before April 18, 1983, marks required by §45.29(b)(3) in effect on April 17, 1983, and rotorcraft manufactured on or after April 18, 1983, but before December 31, 1983, may display those marks until the aircraft is repainted or the marks are repainted, restored, or changed.
+\(3\) Rotorcraft, must be at least 12 inches high, except that rotorcraft displaying before April 18, 1983, marks required by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.29   Size of marks.|§45.29]](b)(3) in effect on April 17, 1983, and rotorcraft manufactured on or after April 18, 1983, but before December 31, 1983, may display those marks until the aircraft is repainted or the marks are repainted, restored, or changed.
 
 \(c\) *Width.* Characters must be two-thirds as wide as they are high, except the number “1”, which must be one-sixth as wide as it is high, and the letters “M” and “W” which may be as wide as they are high.
 
@@ -300,7 +300,7 @@ When requested by a person required to comply with §43.10 of this chapter, the 
 
 \(e\) *Spacing.* The space between each character may not be less than one-fourth of the character width.
 
-\(f\) If either one of the surfaces authorized for displaying required marks under §45.25 is large enough for display of marks meeting the size requirements of this section and the other is not, full size marks must be placed on the larger surface. If neither surface is large enough for full-size marks, marks as large as practicable must be displayed on the larger of the two surfaces. If no surface authorized to be marked by §45.27 is large enough for full-size marks, marks as large as practicable must be placed on the largest of the authorized surfaces. However, powered parachutes and weight-shift-control aircraft must display marks at least 3 inches high.
+\(f\) If either one of the surfaces authorized for displaying required marks under [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.25   Location of marks on fixed-wing aircraft.|§45.25]] is large enough for display of marks meeting the size requirements of this section and the other is not, full size marks must be placed on the larger surface. If neither surface is large enough for full-size marks, marks as large as practicable must be displayed on the larger of the two surfaces. If no surface authorized to be marked by [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.27   Location of marks; nonfixed-wing aircraft.|§45.27]] is large enough for full-size marks, marks as large as practicable must be placed on the largest of the authorized surfaces. However, powered parachutes and weight-shift-control aircraft must display marks at least 3 inches high.
 
 \(g\) *Uniformity.* The marks required by this part for fixed-wing aircraft must have the same height, width, thickness, and spacing on both sides of the aircraft.
 

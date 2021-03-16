@@ -16,11 +16,11 @@ This subpart sets forth minimum requirements for the approval and operation on n
 
 \(a\) Each person who requests an IFR procedure based on a VOR facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.7 and is installed in accordance with §171.9.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.7   Performance requirements.|§171.7]] and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.9   Installation requirements.|§171.9]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and maintenance manual that meets the requirements of §171.11.
+\(3\) A proposed maintenance organization and maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.11   Maintenance and operations requirements.|§171.11]].
 
 \(4\) A statement of intention to meet the requirements of this subpart.
 
@@ -34,13 +34,13 @@ This subpart sets forth minimum requirements for the approval and operation on n
 
 \(a\) The following are the minimum requirements that must be met before the FAA will approve an IFR procedure for a non-Federal VOR:
 
-\(1\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §171.7.
+\(1\) The facility's performance, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.7   Performance requirements.|§171.7]].
 
-\(2\) The installation of the equipment must meet the requirements of §171.9.
+\(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.9   Installation requirements.|§171.9]].
 
-\(3\) The owner must agree to operate and maintain the facility in accord- ance with §171.11.
+\(3\) The owner must agree to operate and maintain the facility in accord- ance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.11   Maintenance and operations requirements.|§171.11]].
 
-\(4\) The owner must agree to furnish periodic reports, as set forth in §171.13, and must agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish periodic reports, as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.13   Reports.|§171.13]], and must agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the FAA that he will not withdraw the facility from service without the permission of the FAA.
 
@@ -104,7 +104,7 @@ This subpart sets forth minimum requirements for the approval and operation on n
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.13.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.13   Reports.|§171.13]].
 
 \(10\) Monitoring of the facility.
 
@@ -136,7 +136,7 @@ This subpart sets forth minimum requirements for the approval and operation on n
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
 
-\(c\) The owner shall make a ground check of course accuracy each month in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in §171.13.
+\(c\) The owner shall make a ground check of course accuracy each month in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.13   Reports.|§171.13]].
 
 \(d\) If the owner desires to modify the facility, he must submit the proposal to the FAA and may not allow any modifications to be made without specific approval.
 
@@ -182,11 +182,11 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(a\) Each person who requests an IFR procedure based on a nondirectional radio beacon facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.27 and is installed in accordance with §171.29.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.27   Performance requirements.|§171.27]] and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.29   Installation requirements.|§171.29]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance arrangement and a maintenance manual that meets the requirements of §171.31.
+\(3\) A proposed maintenance arrangement and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.31   Maintenance and operations requirements.|§171.31]].
 
 \(4\) A statement of intention to meet the requirements of this subpart.
 
@@ -200,13 +200,13 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(a\) The following are the minimum requirements that must be met before the FAA will approve an IFR procedure for a non-Federal, nondirectional radio beacon facility under this subpart:
 
-\(1\) The facility's performances, as determined by air and ground inspection, must meet the requirements of §171.27.
+\(1\) The facility's performances, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.27   Performance requirements.|§171.27]].
 
-\(2\) The installation of the equipment must meet the requirements of §171.29.
+\(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.29   Installation requirements.|§171.29]].
 
-\(3\) The owner must agree to operate and maintain the facility in accord- ance with §171.31.
+\(3\) The owner must agree to operate and maintain the facility in accord- ance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.31   Maintenance and operations requirements.|§171.31]].
 
-\(4\) The owner must agree to furnish periodic reports, as set forth in §171.33, and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish periodic reports, as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.33   Reports.|§171.33]], and agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the FAA that he will not withdraw the facility from service without the permission of the FAA.
 
@@ -266,7 +266,7 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.33.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.33   Reports.|§171.33]].
 
 \(10\) Monitoring of the facility, at least once each half hour, to assure continuous operation.
 
@@ -326,11 +326,11 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(a\) Each person who requests an IFR procedure based on an ILS facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.47 and is installed in accordance with §171.49.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.47   Performance requirements.|§171.47]] and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.49   Installation requirements.|§171.49]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of §171.51.
+\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.51   Maintenance and operations requirements.|§171.51]].
 
 \(4\) A statement of intent to meet the requirements of this subpart.
 
@@ -344,13 +344,13 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(a\) The following are the minimum requirements that must be met before the FAA will approve an IFR procedure for a non-Federal Instrument Landing System:
 
-\(1\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §171.47.
+\(1\) The facility's performance, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.47   Performance requirements.|§171.47]].
 
-\(2\) The installation of the equipment must meet the requirements of §171.49.
+\(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.49   Installation requirements.|§171.49]].
 
-\(3\) The owner must agree to operate and maintain the facility in accord- ance with §171.51.
+\(3\) The owner must agree to operate and maintain the facility in accord- ance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.51   Maintenance and operations requirements.|§171.51]].
 
-\(4\) The owner must agree to furnish periodic reports, as set forth in §171.53 and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish periodic reports, as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.53   Reports.|§171.53]] and agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the FAA that he will not withdraw the facility from service without the permission of the FAA.
 
@@ -420,7 +420,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.53.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.53   Reports.|§171.53]].
 
 \(10\) Monitoring of the facility.
 
@@ -452,7 +452,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
 
-\(c\) The owner shall make a ground check of the facility each month in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in §171.53.
+\(c\) The owner shall make a ground check of the facility each month in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.53   Reports.|§171.53]].
 
 \(d\) If the owner desires to modify the facility, he must submit the proposal to the FAA and may not allow any modifications to be made without specific approval.
 
@@ -486,9 +486,9 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(b\) Paragraph (a) of this section does not apply to—
 
-\(1\) A certificate issued to a Federal-Aid Airport Program sponsor who was required to apply for that certificate under regulations then in effect, and who has not surrendered that certificate under §151.86(e) of this chapter; or
+\(1\) A certificate issued to a Federal-Aid Airport Program sponsor who was required to apply for that certificate under regulations then in effect, and who has not surrendered that certificate under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§151.86]](e) of this chapter; or
 
-\(2\) An application made by a Federal-Aid Airport Program sponsor who was required to make that application under regulations then in effect, and who has not terminated that application under §151.86(e) of this chapter.
+\(2\) An application made by a Federal-Aid Airport Program sponsor who was required to make that application under regulations then in effect, and who has not terminated that application under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§151.86]](e) of this chapter.
 
 (49 U.S.C. 1101-1120; sec. 307, 72 Stat. 749, 49 U.S.C. 1348)
 
@@ -534,15 +534,15 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(a\) Each person who requests an IFR procedure based on an SDF that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.109 and the standards and tolerances of §171.111, and is installed in accordance with §171.113.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]] and the standards and tolerances of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.111   Ground standards and tolerances.|§171.111]], and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.113   Installation requirements.|§171.113]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of §171.115.
+\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.115   Maintenance and operations requirements.|§171.115]].
 
 \(4\) A statement of intent to meet the requirements of this subpart.
 
-\(5\) A showing that the facility has an acceptable level of operational reliability as prescribed in §171.111(k), and an acceptable standard of performance. Previous equivalent operational experience with a facility with identical design and operational characteristics will be considered in showing compliance with this paragraph.
+\(5\) A showing that the facility has an acceptable level of operational reliability as prescribed in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.111   Ground standards and tolerances.|§171.111]](k), and an acceptable standard of performance. Previous equivalent operational experience with a facility with identical design and operational characteristics will be considered in showing compliance with this paragraph.
 
 \(b\) After the Federal Aviation Administration inspects and evaluates the facility, it advises the owner of the results and of any required changes in the facility or the maintenance manual or maintenance organization. The owner must then correct the deficiencies, if any, and operate the facility for an in-service evaluation by the Federal Aviation Administration.
 
@@ -552,13 +552,13 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(1\) A suitable frequency channel must be available.
 
-\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §§171.109 and 171.111.
+\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]] and 171.111.
 
-\(3\) The installation of the equipment must meet the requirements of §171.113.
+\(3\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.113   Installation requirements.|§171.113]].
 
-\(4\) The owner must agree to operate and maintain the facility in accordance with §171.115.
+\(4\) The owner must agree to operate and maintain the facility in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.115   Maintenance and operations requirements.|§171.115]].
 
-\(5\) The owner must agree to furnish periodic reports as set forth in §171.117, and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(5\) The owner must agree to furnish periodic reports as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.117   Reports.|§171.117]], and agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(6\) The owner must assure the FAA that he will not withdraw the facility from service without the permission of the FAA.
 
@@ -640,9 +640,9 @@ As used in this subpart:
 
 \(b\) It must be shown during ground inspection of the design features of the equipment that there will not be conditions that will allow unsafe operations because of component failure or deterioration.
 
-\(c\) The monitor must be checked periodically during the in-service test evaluation period for calibration and stability. These tests, and ground checks of SDF radiation characteristics must be conducted in accordance with the maintenance manual required by §171.115(c) and must meet the standards and tolerances contained in §171.111(j).
+\(c\) The monitor must be checked periodically during the in-service test evaluation period for calibration and stability. These tests, and ground checks of SDF radiation characteristics must be conducted in accordance with the maintenance manual required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.115   Maintenance and operations requirements.|§171.115]](c) and must meet the standards and tolerances contained in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.111   Ground standards and tolerances.|§171.111]](j).
 
-\(d\) The monitor system must provide a warning to the designated control point(s) when any of the conditions of §171.111(j) occur, within the time periods specified in that paragraph.
+\(d\) The monitor system must provide a warning to the designated control point(s) when any of the conditions of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.111   Ground standards and tolerances.|§171.111]](j) occur, within the time periods specified in that paragraph.
 
 \(e\) Flight inspection to determine the adequacy of the facility's operational performance and compliance with applicable performance requirements must be conducted in accordance with the “U.S. Standard Flight Inspection Manual.” Tolerances contained in the U.S. Standard Flight Inspection Manual, section 217, must be complied with except as stated in paragraph (f) of this section.
 
@@ -682,11 +682,11 @@ Compliance with this section must be shown as a condition to approval and must b
 
 \(5\) The total harmonic content of the 150 Hz tone must not exceed 10 percent.
 
-\(b\) *Power output.* The normal carrier power output must be of a value which will provide coverage requirements of §171.109(a)(6) when reduced by 3 dB to the monitor RF power reduction alarm point specified in §171.111(j)(3).
+\(b\) *Power output.* The normal carrier power output must be of a value which will provide coverage requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]](a)(6) when reduced by 3 dB to the monitor RF power reduction alarm point specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.111   Ground standards and tolerances.|§171.111]](j)(3).
 
 \(c\) *VSWR.* (1) The VSWR of carrier and sideband feedlines must be a nominal value of 1/1 and must not exceed 1.2/1.
 
-\(2\) The sponsor will also provide additional manufacturer's ground standards and tolerances for all VSWR parameters peculiar to the equipment which can effect performance of the facility in meeting the requirements specified in §§171.109 and 171.111.
+\(2\) The sponsor will also provide additional manufacturer's ground standards and tolerances for all VSWR parameters peculiar to the equipment which can effect performance of the facility in meeting the requirements specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]] and 171.111.
 
 \(d\) *Insulation resistance.* The insulation resistance of all coaxial feedlines must be greater than 20 megohms.
 
@@ -696,11 +696,11 @@ Compliance with this section must be shown as a condition to approval and must b
 
 \(f\) *Course sector width.* The standard course sector width must be 6° or 12°. The course sector must be maintained with ±17 percent of the standard.
 
-\(g\) *Course alignment.* Course alignment must be as specified in §171.109(a)(8).
+\(g\) *Course alignment.* Course alignment must be as specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]](a)(8).
 
 \(h\) *Back course alignment and width.* If a back course is provided, standards and tolerances for back course sector width and alignment must be the same as course sector width and course alignment specified in paragraphs (f) and (g) of this section.
 
-\(i\) *Clearance.* Clearance must be as specified in §171.109(a)(10).
+\(i\) *Clearance.* Clearance must be as specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.109   Performance requirements.|§171.109]](a)(10).
 
 \(j\) *Monitor standards and tolerances.* (1) The monitor system must provide a warning to the designated control point(s) when any of the conditions described in this paragraph occur, within the time periods specified in paragraph (j)(6) of this section.
 
@@ -780,7 +780,7 @@ Compliance with this section must be shown as a condition to approval and must b
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of Federal Aviation Administration manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.117.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.117   Reports.|§171.117]].
 
 \(10\) Monitoring of the facility.
 
@@ -812,7 +812,7 @@ Compliance with this section must be shown as a condition to approval and must b
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without a Federal Aviation Administration flight check to confirm published operations.
 
-\(d\) The owner shall make a ground check of the facility each month in accordance with procedures approved by the Federal Aviation Administration at the time of commissioning, and shall report the results of the checks as provided in §171.117.
+\(d\) The owner shall make a ground check of the facility each month in accordance with procedures approved by the Federal Aviation Administration at the time of commissioning, and shall report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.117   Reports.|§171.117]].
 
 \(e\) If the owner desires to modify the facility, he shall submit the proposal to the Federal Aviation Administration and may not allow any modifications to be made without specific approval.
 
@@ -846,11 +846,11 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(a\) Each person who requests an IFR procedure based on a DME facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.157 and is installed in accordance with §171.159.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.157   Performance requirements.|§171.157]] and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.159   Installation requirements.|§171.159]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and maintenance manual that meets the requirement of §171.161.
+\(3\) A proposed maintenance organization and maintenance manual that meets the requirement of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.161   Maintenance and operations requirements.|§171.161]].
 
 \(4\) A statement of intention to meet the requirements of this subpart.
 
@@ -864,13 +864,13 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(1\) A suitable frequency channel must be available.
 
-\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of §171.157.
+\(2\) The facility's performance, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.157   Performance requirements.|§171.157]].
 
-\(3\) The installation of the equipment must meet the requirements of §171.159.
+\(3\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.159   Installation requirements.|§171.159]].
 
-\(4\) The owner must agree to operate and maintain the facility in accordance with §171.161.
+\(4\) The owner must agree to operate and maintain the facility in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.161   Maintenance and operations requirements.|§171.161]].
 
-\(5\) The owner must agree to furnish periodic reports, as set forth in §171.163, and must agree to allow the Federal Aviation Administration to inspect the facility and its operation whenever necessary.
+\(5\) The owner must agree to furnish periodic reports, as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.163   Reports.|§171.163]], and must agree to allow the Federal Aviation Administration to inspect the facility and its operation whenever necessary.
 
 \(6\) The owner must assure the Federal Aviation Administration that he will not withdraw the facility from service without the permission of the Federal Aviation Administration.
 
@@ -884,7 +884,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(b\) It must be shown during ground inspection of the design features of the equipment that there will not be conditions that will allow unsafe operations because of component failure or deterioration.
 
-\(c\) The monitor must be checked periodically, during the in-service test evaluation period, for calibration and stability. These tests and ground tests of the functional and performance characteristics of the DME transponder must be conducted in accordance with the maintenance manual required by §171.161(b).
+\(c\) The monitor must be checked periodically, during the in-service test evaluation period, for calibration and stability. These tests and ground tests of the functional and performance characteristics of the DME transponder must be conducted in accordance with the maintenance manual required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.161   Maintenance and operations requirements.|§171.161]](b).
 
 \(d\) Flight inspection to determine the adequacy of the facility's operational performance and compliance with applicable “Standards and Recommended Practices” must be accomplished in accordance with the “U.S. Standard Flight Inspection Manual.”
 
@@ -930,7 +930,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of Federal Aviation Administration manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.163.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.163   Reports.|§171.163]].
 
 \(10\) Monitoring of the facility.
 
@@ -960,7 +960,7 @@ This subpart sets forth minimum requirements for the approval and operation of n
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
 
-\(c\) The owner shall make a monthly ground operational check in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in §171.163.
+\(c\) The owner shall make a monthly ground operational check in accordance with procedures approved by the FAA at the time of commissioning, and shall report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.163   Reports.|§171.163]].
 
 \(d\) If the owner desires to modify the facility, he shall submit the proposal to the FAA and may not allow any modifications to be made without specific approval.
 
@@ -998,11 +998,11 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(a\) Each person who requests an IFR procedure which will incorporate the use of a VHF marker beacon facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §171.207 and is installed in accordance with §171.209.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.207   Performance requirements.|§171.207]] and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.209   Installation requirements.|§171.209]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of §171.211.
+\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.211   Maintenance and operations requirements.|§171.211]].
 
 \(4\) A statement of intent to meet the requirement of this subpart.
 
@@ -1014,13 +1014,13 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(a\) The following are the minimum requirements that must be met before the Federal Aviation Administration will approve an IFR procedure which incorporates the use of a non-Federal VHF marker beacon facility under this subpart:
 
-\(1\) The facility's performances, as determined by air and ground inspection, must meet the requirements of §171.207.
+\(1\) The facility's performances, as determined by air and ground inspection, must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.207   Performance requirements.|§171.207]].
 
-\(2\) The installation of the equipment must meet the requirements of §171.209.
+\(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.209   Installation requirements.|§171.209]].
 
-\(3\) The owner must agree to operate and maintain the facility in accordance with §171.211.
+\(3\) The owner must agree to operate and maintain the facility in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.211   Maintenance and operations requirements.|§171.211]].
 
-\(4\) The owner must agree to furnish periodic reports, as set forth in §171.213, and agree to allow the Federal Aviation Administration to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish periodic reports, as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.213   Reports.|§171.213]], and agree to allow the Federal Aviation Administration to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the Federal Aviation Administration that he will not withdraw the facility from service without the permission of the Federal Aviation Administration.
 
@@ -1032,7 +1032,7 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(a\) VHF Marker Beacons must meet the performance requirements set forth in the “International Standards and Recommended Practices, Aeronautical Telecommunications, Part I, paragraphs 3.1.6 and 3.6.” (Annex 10 to the Convention on International Civil Aviation) except those portions that pertain to identification. Identification of a marker beacon (75 MHz) must be in accordance with “U.S. Standard Flight Inspection Manual,” §219.
 
-\(b\) The facility must perform in accordance with recognized and accepted good electronic engineering practices for the desired service. The facility must be checked periodically during the in-service test evaluation period for calibration and stability. These tests and ground tests of the marker radiation characteristics must be conducted in accordance with the maintenance manual required by §171.211(b).
+\(b\) The facility must perform in accordance with recognized and accepted good electronic engineering practices for the desired service. The facility must be checked periodically during the in-service test evaluation period for calibration and stability. These tests and ground tests of the marker radiation characteristics must be conducted in accordance with the maintenance manual required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.211   Maintenance and operations requirements.|§171.211]](b).
 
 \(c\) It must be shown during ground inspection of the design features of the equipment that there will not be conditions that will allow unsafe operations because of component failure or deterioration.
 
@@ -1070,7 +1070,7 @@ The owner of each facility to which this subpart applies shall make the followin
 
 \(7\) Detailed arrangements for maintenance, flight inspection, and servicing, stating the frequency of servicing.
 
-\(8\) Keeping of station logs and other technical reports, and the submission of reports required by §171.213.
+\(8\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.213   Reports.|§171.213]].
 
 \(9\) Monitoring of the facility, at least once each half hour, to assure continuous operation.
 
@@ -1156,7 +1156,7 @@ As used in this subpart:
 
 *ISMLS Point ‘C’* means a point through which the downward extended straight portion of the glide path (at the commissioned angle) passes at a height of 100 feet above the horizontal plane containing the runway threshold.
 
-*Interim standard microwave landing system* (ISMLS) means a ground station which transmits azimuth and elevation angle information which, when decoded and processed by the airborne unit, provides signal performance capable of supporting approach minima for V/STOL and CTOL operations and operates with the signal format and tolerances specified in §§171.259, 171.261, 171.263, 171.265, and 171.267.
+*Interim standard microwave landing system* (ISMLS) means a ground station which transmits azimuth and elevation angle information which, when decoded and processed by the airborne unit, provides signal performance capable of supporting approach minima for V/STOL and CTOL operations and operates with the signal format and tolerances specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, and 171.267.
 
 *Integrity* means that quality which relates to the trust which can be placed in the correctness of the information supplied by the facility.
 
@@ -1172,11 +1172,11 @@ As used in this subpart:
 
 \(a\) Each person who requests an IFR procedure based on an ISMLS facility that he owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §§171.259, 171.261, 171.263, 171.265, 171.267, and 171.269, and is installed in accordance with §171.271.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269, and is installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.271   Installation requirements.|§171.271]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of §171.273.
+\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.273   Maintenance and operations requirements.|§171.273]].
 
 \(4\) A statement of intent to meet the requirements of this subpart.
 
@@ -1188,13 +1188,13 @@ As used in this subpart:
 
 \(a\) The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal ISMLS facility:
 
-\(1\) The performance of the ISMLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §§171.259, 171.261, 171.263, 171.265, 171.267, and 171.269.
+\(1\) The performance of the ISMLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.259   Performance requirements: General.|§171.259]], 171.261, 171.263, 171.265, 171.267, and 171.269.
 
-\(2\) The installation of the equipment must meet the requirements of §171.271.
+\(2\) The installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.271   Installation requirements.|§171.271]].
 
-\(3\) The owner must agree to operate and maintain the ISMLS facility in accordance with §171.273.
+\(3\) The owner must agree to operate and maintain the ISMLS facility in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.273   Maintenance and operations requirements.|§171.273]].
 
-\(4\) The owner must agree to furnish periodic reports as set forth in §171.275 and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish periodic reports as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.275   Reports.|§171.275]] and agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the FAA that he will not withdraw the ISMLS facility from service without the permission of the FAA.
 
@@ -1280,7 +1280,7 @@ Ice loading, encased in 1⁄2 ″ radial thickness of clear ice.
 
 \(2\) The localizer and glide path components listed in paragraphs (a)(1) and (a)(2) of this section which form part of an ISMLS, must comply at least with the standard performance requirements specified herein. The marker beacon components listed in paragraph (a)(3) of this section which form part of an ISMLS, must comply at least with the standard performance requirements specified in subpart H of this part.
 
-\(3\) The ISMLS must be so designed and maintained that the probability of operation is within the performance requirements specified in §171.273(k).
+\(3\) The ISMLS must be so designed and maintained that the probability of operation is within the performance requirements specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.273   Maintenance and operations requirements.|§171.273]](k).
 
 \(e\) The signal format and pairing of the runway localizer and glide path transmitter frequencies of an ISMLS must be in accordance with the frequency plan approved by the FAA, and must meet the following signal format requirements:
 
@@ -1320,7 +1320,7 @@ This section prescribes the performance requirements for localizer equipment com
 
 \(6\) Be installed on frangible mounts or beyond the 1000′ light bar.
 
-\(b\) On runways where limited terrain prevents the localizer antennae from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the localizer antenna array may be offset, including a collocated ground station, so that the course intercepts the centerline at a point determined by the amount of the angular offset and the glide path angle. If other than a runway centerline localizer is used, the criteria in subpart C of part 97 of this chapter is applicable.
+\(b\) On runways where limited terrain prevents the localizer antennae from being positioned on the runway centerline extended, and the cost of the land fill or a tall tower antenna support is prohibitive, the localizer antenna array may be offset, including a collocated ground station, so that the course intercepts the centerline at a point determined by the amount of the angular offset and the glide path angle. If other than a runway centerline localizer is used, the criteria in subpart C of [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] is applicable.
 
 \(c\) At locations where two separate ISMLS facilities serve opposite ends of of a single runway, an interlock must ensure that only the facility serving the approach direction being used will radiate.
 
@@ -1413,13 +1413,13 @@ This section prescribes the performance requirements for localizer equipment com
 
 This section prescribes the performance requirements for glide path equipment components of the ISMLS. These requirements are based on the assumption that the aircraft is heading directly toward the facility.
 
-\(a\) The glide slope antenna system must be located near the approach end of the runway, and the equipment must be adjusted so that the vertical path line will be in a sloping horizontal plane containing the centerline of the runway being served, and satisfy the coverage requirements prescribed in paragraph (g) of this section. For the purpose of obstacle clearance, location of the glide slope antenna system must be in accordance with the criteria specified in subpart C of part 97 of this chapter.
+\(a\) The glide slope antenna system must be located near the approach end of the runway, and the equipment must be adjusted so that the vertical path line will be in a sloping horizontal plane containing the centerline of the runway being served, and satisfy the coverage requirements prescribed in paragraph (g) of this section. For the purpose of obstacle clearance, location of the glide slope antenna system must be in accordance with the criteria specified in subpart C of [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]].
 
 \(b\) The radiation from the glide path antenna system must produce a composite field pattern which is pulse duration modulated by a 90 Hz and a 150 Hz tone, which is the time average equivalent to amplitude modulation. The pattern must be arranged to provide a straight line descent path in the vertical plane containing the centerline of the runway, with the 150 Hz tone predominating below the path and the 90 Hz tone predominating above the path to at least an angle equal to 1.752θ. As used in this section theta (θ), denotes the nominal glide path angle. The glide path angle must be adjusted and maintained within 0.075θ.
 
-\(c\) The glide path equipment must be capable of producing a radiated glide path from 3 to 9 degrees with respect to the horizontal. However, ISMLS glide path angles in excess of 3 degrees may be used to satisfy instrument approach procedures or to overcome an obstruction clearance problem, only in accordance with the criteria specified in subpart C of part 97 of this chapter.
+\(c\) The glide path equipment must be capable of producing a radiated glide path from 3 to 9 degrees with respect to the horizontal. However, ISMLS glide path angles in excess of 3 degrees may be used to satisfy instrument approach procedures or to overcome an obstruction clearance problem, only in accordance with the criteria specified in subpart C of [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]].
 
-\(d\) The downward extended straight portion of the ISMLS glide path must pass through the ISMLS reference datum at a height ensuring safe guidance over obstructions and safe and efficient use of the runway served. The height of the ISMLS reference datum must be in accordance with subpart C of part 97 of this chapter.
+\(d\) The downward extended straight portion of the ISMLS glide path must pass through the ISMLS reference datum at a height ensuring safe guidance over obstructions and safe and efficient use of the runway served. The height of the ISMLS reference datum must be in accordance with subpart C of [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]].
 
 \(e\) The glide path equipment must operate in the band 5220 MHz to 5250 MHz. The frequency tolerance may not exceed ±0.0001 percent.
 
@@ -1485,7 +1485,7 @@ ISMLS marker beacon equipment must meet the performance requirements prescribed 
 
 ### §171.271   Installation requirements.
 
-\(a\) The ISMLS facility must be permanent in nature, located, constructed, and installed according to accepted good engineering practices, applicable electric and safety codes, FCC licensing requirements, and paragraphs (a) and (c) of §171.261.
+\(a\) The ISMLS facility must be permanent in nature, located, constructed, and installed according to accepted good engineering practices, applicable electric and safety codes, FCC licensing requirements, and paragraphs (a) and (c) of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.261   Localizer performance requirements.|§171.261]].
 
 \(b\) The ISMLS facility must have a reliable source of suitable primary power, either from a power distribution system or locally generated. Adequate power capacity must be provided for the operation of test and working equipment of the ISMLS.
 
@@ -1523,7 +1523,7 @@ ISMLS marker beacon equipment must meet the performance requirements prescribed 
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
 
-\(9\) Keeping of station logs and other technical reports, and the submission of reports required by §171.275.
+\(9\) Keeping of station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.275   Reports.|§171.275]].
 
 \(10\) Monitoring of the ISMLS facility.
 
@@ -1555,7 +1555,7 @@ ISMLS marker beacon equipment must meet the performance requirements prescribed 
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
 
-\(d\) The owner or his maintenance representative must make a ground check of the ISMLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in §171.275.
+\(d\) The owner or his maintenance representative must make a ground check of the ISMLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.275   Reports.|§171.275]].
 
 \(e\) Modifications to an ISMLS facility may be made only after approval by the FAA of the proposed modification submitted by the owner.
 
@@ -1649,11 +1649,11 @@ As used in this subpart:
 
 \(a\) Each person who requests an IFR procedure based on an MLS facility which that person owns must submit the following information with that request:
 
-\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §§171.309, 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321 and is fabricated and installed in accordance with §171.323.
+\(1\) A description of the facility and evidence that the equipment meets the performance requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321 and is fabricated and installed in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.323   Fabrication and installation requirements.|§171.323]].
 
 \(2\) A proposed procedure for operating the facility.
 
-\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of §171.325.
+\(3\) A proposed maintenance organization and a maintenance manual that meets the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.325   Maintenance and operations requirements.|§171.325]].
 
 \(4\) A statement of intent to meet the requirements of this subpart.
 
@@ -1665,13 +1665,13 @@ As used in this subpart:
 
 \(a\) The following are the minimum requirements that must be met before the FAA approves an IFR procedure for a non-Federal MLS facility:
 
-\(1\) The performance of the MLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §§171.309, 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321.
+\(1\) The performance of the MLS facility, as determined by flight and ground inspection conducted by the FAA, must meet the requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]], 171.311, 171.313, 171.315, 171.317, 171.319, and 171.321.
 
-\(2\) The fabrication and installation of the equipment must meet the requirements of §171.323.
+\(2\) The fabrication and installation of the equipment must meet the requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.323   Fabrication and installation requirements.|§171.323]].
 
-\(3\) The owner must agree to operate and maintain the MLS facility in accordance with §171.325.
+\(3\) The owner must agree to operate and maintain the MLS facility in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.325   Maintenance and operations requirements.|§171.325]].
 
-\(4\) The owner must agree to furnish operational records as set forth in §171.327 and agree to allow the FAA to inspect the facility and its operation whenever necessary.
+\(4\) The owner must agree to furnish operational records as set forth in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.327   Operational records.|§171.327]] and agree to allow the FAA to inspect the facility and its operation whenever necessary.
 
 \(5\) The owner must assure the FAA that he will not withdraw the MLS facility from service without the permission of the FAA.
 
@@ -1701,7 +1701,7 @@ The MLS is a precision approach and landing guidance system which provides posit
 
 \(1\) Back azimuth equipment, associated monitor, remote control and indicator equipment. When Back Azimuth is provided, a means for transmission of Basic Data Word 5 and Auxiliary Data Word A4 shall also be provided.
 
-\(2\) A wider proportional guidance sector which exceeds the minimum specified in §§171.313 and 171.317.
+\(2\) A wider proportional guidance sector which exceeds the minimum specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]] and 171.317.
 
 \(3\) Precision DME, associated monitor, remote control and indicator equipment.
 
@@ -1907,11 +1907,11 @@ I6 + I7 + I8 + I9 + I10 + I11 = Even
 
 I6 + I8 + I10 + I12 = Even
 
-\(ii\) *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with §171.311(c)(1) and must be transmitted throughout the function coverage volume.
+\(ii\) *Data modulation.* The digital code portions of the preamble must be DPSK modulated in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](c)(1) and must be transmitted throughout the function coverage volume.
 
-\(2\) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §§171.313 and 171.317.
+\(2\) *Angle function formats.* The timing of the angle transmissions must be in accordance with Tables 4a, 4b, and 5. The actual timing of the TO and FRO scans must be as required to meet the accuracy requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]] and 171.317.
 
-\(i\) Preamble. Must be in accordance with requirements of §171.311(i)(1).
+\(i\) Preamble. Must be in accordance with requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](i)(1).
 
 <div>
 
@@ -2139,7 +2139,7 @@ begins at:</th></tr><tr class="odd"><th scope="col">15.615 kHz clock pulse (numb
 
 </div>
 
-\(i\) *Preamble.* Must be in accordance with requirements of §171.311(i)(1).
+\(i\) *Preamble.* Must be in accordance with requirements of [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](i)(1).
 
 \(ii\) *Data transmissions.* Basic data must be transmitted using DPSK modulation. The content and repetition rate of each basic data word must be in accordance with Table 8a. For data containing digital information, binary number 1 must represent the lower range limit with increments in binary steps to the upper range limit shown in Table 8a. Data containing digital information shall be transmitted with the least significant bit first.
 
@@ -2149,7 +2149,7 @@ begins at:</th></tr><tr class="odd"><th scope="col">15.615 kHz clock pulse (numb
 
 \(2\) *Approach azimuth proportional coverage limit* shall represent the limit of the sector in which proportional approach azimuth guidance is transmitted.
 
-\(3\) *Clearance signal type* shall represent the type of clearance when used. Pulse clearance is that which is in accordance with §171.311 (i) (2) (iv). Scanning Beam (SB) clearance indicates that the proportional guidance sector is limited by the proportional coverage limits set in basic data.
+\(3\) *Clearance signal type* shall represent the type of clearance when used. Pulse clearance is that which is in accordance with [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]] (i) (2) (iv). Scanning Beam (SB) clearance indicates that the proportional guidance sector is limited by the proportional coverage limits set in basic data.
 
 ![eCFR graphic ec15se91.013.gif](https://www.ecfr.gov/graphics/ec15se91.013.gif)
 
@@ -2202,7 +2202,7 @@ Table 8a—Basic Data Words
 
 <div>
 
-*Note 7:* The value coded shall be the actual beamwidth (as defined in §171.311 (j)(9) rounded to the nearest 0.5 degree.
+*Note 7:* The value coded shall be the actual beamwidth (as defined in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]] (j)(9) rounded to the nearest 0.5 degree.
 
 *Note 8:* When back Azimuth guidance is provided, Data Words 4 and 6 shall be transmitted at intervals of 1.33 seconds or less throughout the Approach Azimuth coverage and 4 seconds or less throughout the Back Azimuth coverage.
 
@@ -2250,7 +2250,7 @@ Note: For example, this data item would be encoded 270 for a Back Azimuth Antenn
 
 \(13\) *Back azimuth proportional coverage limit* shall represent the limit of the sector in which proportional back azimuth guidance is transmitted.
 
-\(14\) *MLS ground equipment identification* shall represent the last three characters of the system identification specified in §171.311(i)(2). The characters shall be encoded in accordance with International Alphabet No. 5 (IA-5) using bits b1 through b6.
+\(14\) *MLS ground equipment identification* shall represent the last three characters of the system identification specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](i)(2). The characters shall be encoded in accordance with International Alphabet No. 5 (IA-5) using bits b1 through b6.
 
 <div>
 
@@ -2456,7 +2456,7 @@ Note: It is desirable that the CMN not exceed ±0.10 degree throughout the cover
 
 \(f\) Approach azimuth antenna characteristics are as follows:
 
-\(1\) *Drift.* Any azimuth angle as encoded by the scanning beam at any point within the proportional coverage must not vary more than ±0.07 degree over the range of service conditions specified in §171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
+\(1\) *Drift.* Any azimuth angle as encoded by the scanning beam at any point within the proportional coverage must not vary more than ±0.07 degree over the range of service conditions specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]](d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
 
 \(2\) *Beam pointing errors.* The azimuth angle as encoded by the scanning beam at any point within ±0.5 degree of the zero degree azimuth must not deviate from the true azimuth angle at that point by more than ±.05 degree. Multipath and drift effects are excluded from this requirement.
 
@@ -2552,9 +2552,9 @@ Notes:
 
 \(i\) *Back azimuth antenna coordinates.* The scanning beams transmitted by the back azimuth equipment may be either conical or planar.
 
-\(j\) *Back azimuth accuracy.* The requirements specified in §171.313(e) apply except that the reference point is the back azimuth reference datum.
+\(j\) *Back azimuth accuracy.* The requirements specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](e) apply except that the reference point is the back azimuth reference datum.
 
-\(k\) *Back azimuth antenna characteristics.* The requirements specified in §171.313(f) apply.
+\(k\) *Back azimuth antenna characteristics.* The requirements specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](f) apply.
 
 \(l\) *Scanning conventions.* Figure 12 shows the approach azimuth and back azimuth scanning conventions.
 
@@ -2582,7 +2582,7 @@ Note: False courses may be due to (but not limited to) MLS airborne receiver acq
 
 \(a\) The approach azimuth or back azimuth monitor system must cause the radiation to cease and a warning must be provided at the designated control point if any of the following conditions persist for longer than the periods specified:
 
-\(1\) There is a change in the ground equipment contribution to the mean course error component such that the path following error at the reference datum or in the direction of any azimuth radial, exceeds the limits specified in §§171.313(e)(1) or 171.313(j) for a period of more than one second.
+\(1\) There is a change in the ground equipment contribution to the mean course error component such that the path following error at the reference datum or in the direction of any azimuth radial, exceeds the limits specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](e)(1) or 171.313(j) for a period of more than one second.
 
 <div>
 
@@ -2592,11 +2592,11 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(2\) There are errors in two consecutive transmissions of Basic Data Words 1, 2, 4 or 5.
 
-\(3\) There is a reduction in the radiated power to a level not less than that specified in §§171.313(a)(4) or 171.313(g)(4) for a period of more than one second.
+\(3\) There is a reduction in the radiated power to a level not less than that specified in §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](a)(4) or 171.313(g)(4) for a period of more than one second.
 
 \(4\) There is an error in the preamble DPSK transmissions which occurs more than once in any one second period.
 
-\(5\) There is an error in the time division multiplex synchronization of a particular azimuth function that the requirement specified in §171.311(e) is not satisfied and if this condition persists for more than one second.
+\(5\) There is an error in the time division multiplex synchronization of a particular azimuth function that the requirement specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](e) is not satisfied and if this condition persists for more than one second.
 
 \(6\) A failure of the monitor is detected.
 
@@ -2608,7 +2608,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(3\) Auxiliary Data Words.
 
-\(c\) The period during which erroneous guidance information is radiated must not exceed the periods specified in §171.315(a). If the fault is not cleared within the time allowed, the ground equipment must be shut down. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
+\(c\) The period during which erroneous guidance information is radiated must not exceed the periods specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.315   Azimuth monitor system requirements.|§171.315]](a). If the fault is not cleared within the time allowed, the ground equipment must be shut down. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
 
 ### §171.317   Approach elevation performance requirements.
 
@@ -2700,7 +2700,7 @@ Note: It is desirable that the CMN not exceed ±0.10 degree throughout the cover
 
 \(e\) Elevation antenna characteristics are as follows:
 
-\(1\) *Drift.* Any elevation angle as encoded by the scanning beam at any point within the coverage sector must not vary more than 0.04 degree over the range of service conditions specified in §171.309(d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
+\(1\) *Drift.* Any elevation angle as encoded by the scanning beam at any point within the coverage sector must not vary more than 0.04 degree over the range of service conditions specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.309   General requirements.|§171.309]](d) without the use of internal environmental controls. Multipath effects are excluded from this requirement.
 
 \(2\) *Beam pointing errors.* The elevation angle as encoded by the scanning beam at any point within the coverage sector must not deviate from the true elevation angle at that point by more than ±0.04 degree for elevation angles from 2.5° to 3.5°. Above 3.5° these errors may linearly increase to ±0.1 degree at 7.5°. Multipath and drift effects are excluded from this requirement.
 
@@ -2728,7 +2728,7 @@ Note: False courses may be due to (but not limited to) MLS airborne receiver acq
 
 \(a\) The monitor system must act to ensure that any of the following conditions do not persist for longer than the periods specified when:
 
-\(1\) There is a change in the ground component contribution to the mean glidepath error component such that the path following error on any glidepath exceeds the limits specified in §171.317(d) for a period of more than one second.
+\(1\) There is a change in the ground component contribution to the mean glidepath error component such that the path following error on any glidepath exceeds the limits specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.317   Approach elevation performance requirements.|§171.317]](d) for a period of more than one second.
 
 <div>
 
@@ -2736,15 +2736,15 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 </div>
 
-\(2\) There is a reduction in the radiated power to a level not less than that specified in §171.317(a)(4) for a period of more than one second.
+\(2\) There is a reduction in the radiated power to a level not less than that specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.317   Approach elevation performance requirements.|§171.317]](a)(4) for a period of more than one second.
 
 \(3\) There is an error in the preamble DPSK transmission which occurs more than once in any one second period.
 
-\(4\) There is an error in the time division multiplex synchronization of a particular elevation function such that the requirement specified in §171.311(e) is not satisfied and this condition persists for more than one second.
+\(4\) There is an error in the time division multiplex synchronization of a particular elevation function such that the requirement specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.311   Signal format requirements.|§171.311]](e) is not satisfied and this condition persists for more than one second.
 
 \(5\) A failure of the monitor is detected.
 
-\(b\) The period during which erroneous guidance information is radiated must not exceed the periods specified in §171.319(a). If the fault is not cleared within the time allowed, radiation shall cease. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
+\(b\) The period during which erroneous guidance information is radiated must not exceed the periods specified in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.319   Approach elevation monitor system requirements.|§171.319]](a). If the fault is not cleared within the time allowed, radiation shall cease. After shutdown, no attempt must be made to restore service until a period of 20 seconds has elapsed.
 
 ### §171.321   DME and marker beacon performance requirements.
 
@@ -2756,7 +2756,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 ### §171.323   Fabrication and installation requirements.
 
-\(a\) The MLS facility must be permanent and must be located, constructed, and installed in accordance with best commercial engineering practices, using applicable electric and safety codes and Federal Communications Commission (FCC) licensing requirements and siting requirements of §§171.313(b) and 171.317(b).
+\(a\) The MLS facility must be permanent and must be located, constructed, and installed in accordance with best commercial engineering practices, using applicable electric and safety codes and Federal Communications Commission (FCC) licensing requirements and siting requirements of §[[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.313   Azimuth performance requirements.|§171.313]](b) and 171.317(b).
 
 \(b\) The MLS facility components must utilize solid state technology except that traveling wave tube amplifiers (TWTA) may be used. A maximum level of common modularity must be provided along with diagnostics to facilitate maintenance and troubleshooting.
 
@@ -2776,7 +2776,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(j\) The location of the phase center for all antennas must be clearly marked on the antenna enclosures.
 
-\(k\) The latitude, longitude and mean sea level elevation of all MLS antennas, runway threshold and runway stop end must be determined by survey with an accuracy of ±3 meters (±10 feet) laterally and ±0.3 meter (±1.0 foot) vertically. The relative lateral and vertical offsets of all antenna phase centers, and both runway ends must be determined with an accuracy of ±0.3 meter (±1.0 foot) laterally and ±0.03 meter (±0.1 foot) vertically. The owner must bear all costs of the survey. The results of this survey must be included in the “operations and maintenance” manual required by section 171.325 of this subpart and will be noted on FAA Form 198 required by §171.327.
+\(k\) The latitude, longitude and mean sea level elevation of all MLS antennas, runway threshold and runway stop end must be determined by survey with an accuracy of ±3 meters (±10 feet) laterally and ±0.3 meter (±1.0 foot) vertically. The relative lateral and vertical offsets of all antenna phase centers, and both runway ends must be determined with an accuracy of ±0.3 meter (±1.0 foot) laterally and ±0.03 meter (±0.1 foot) vertically. The owner must bear all costs of the survey. The results of this survey must be included in the “operations and maintenance” manual required by section 171.325 of this subpart and will be noted on FAA Form 198 required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.327   Operational records.|§171.327]].
 
 \[Doc. No. 20669, 51 FR 33177, Sept. 18, 1986, as amended by Amdt. 171-16, 56 FR 65665, Dec. 17, 1991\]
 
@@ -2804,7 +2804,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(8\) Air-ground communications, if provided, expressly written or incorporating appropriate sections of FAA manuals by reference.
 
-\(9\) Keeping the station logs and other technical reports, and the submission of reports required by §171.327.
+\(9\) Keeping the station logs and other technical reports, and the submission of reports required by [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.327   Operational records.|§171.327]].
 
 \(10\) Monitoring of the MLS facility.
 
@@ -2836,7 +2836,7 @@ Note: The above requirement and the requirement to limit the ground equipment me
 
 \(vi\) A description of the critical parts that may not be changed, adjusted, or repaired without an FAA flight check to confirm published operations.
 
-\(d\) The owner or his maintenance representative must make a ground check of the MLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in §171.327.
+\(d\) The owner or his maintenance representative must make a ground check of the MLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in [[Volume 3/J Navigational facilities/0171 Non-federal navigation facilities.md#§171.327   Operational records.|§171.327]].
 
 \(e\) The only modifications permitted are those that are submitted to FAA for approval by the MLS equipment manufacturer. The owner or sponsor of the facility must incorporate these modifications in the MLS equipment. Associated changes must also be made to the operations and maintenance manual required in paragraph (c) of this section. This and all other corrections and additions to this operations and maintenance manual must also be submitted to FAA for approval.
 

@@ -18,9 +18,9 @@ Subparts A and B of this part apply to:
 
 \(a\) Air carriers, as defined in 49 U.S.C. 40102, that hold either certificates of public convenience and necessity or certificates for all-cargo air service.
 
-\(b\) Public charter operators, as defined in part 380 of this chapter.
+\(b\) Public charter operators, as defined in [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
-\(c\) Overseas military personnel charter operators, as defined in part 372 of this chapter.
+\(c\) Overseas military personnel charter operators, as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|part 372 of this chapter]].
 
 \[ER-1214, 46 FR 25415, May 6, 1981, as amended at 60 FR 66725, Dec. 26, 1995\]
 
@@ -46,11 +46,11 @@ For the purposes of this part:
 
 ### §249.3   Preservation of records.
 
-\(a\) All records listed in §§249.20 and 249.21 may be preserved on either paper or nonerasable microfilm (see §249.4). However, a paper or microfilm record need not be created to satisfy the requirements of this part if the record is initially prepared in a machine-readable medium such as punched cards, magnetic tapes, and disks. The records maintained in machine-readable media and the underlying data used in their preparation shall be preserved for the periods prescribed in §§249.20 and 249.21. A paper or microfilm record shall not be destroyed after transfer to a machine-readable medium before expiration of the prescribed period: however, a waiver permitting the early destruction of paper or microfilm records transferred to a machine-readable medium may be granted by the Director, Office of Airline Information, when it is demonstrated by the requesting carrier that the substantive purpose of the retention requirement will be met by retention of the information in machine-readable form (see §249.10).
+\(a\) All records listed in §[[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] and 249.21 may be preserved on either paper or nonerasable microfilm (see [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.4   Photographic copies.|§249.4]]). However, a paper or microfilm record need not be created to satisfy the requirements of this part if the record is initially prepared in a machine-readable medium such as punched cards, magnetic tapes, and disks. The records maintained in machine-readable media and the underlying data used in their preparation shall be preserved for the periods prescribed in §[[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] and 249.21. A paper or microfilm record shall not be destroyed after transfer to a machine-readable medium before expiration of the prescribed period: however, a waiver permitting the early destruction of paper or microfilm records transferred to a machine-readable medium may be granted by the Director, Office of Airline Information, when it is demonstrated by the requesting carrier that the substantive purpose of the retention requirement will be met by retention of the information in machine-readable form (see [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.10   Waiver of requirements.|§249.10]]).
 
 \(b\) Each record kept in a machine-readable medium shall be accompanied by a statement clearly indicating the type of data included in the record and certifying that the information contained in it is complete and accurate. This statement shall be executed by a person having personal knowledge of the facts contained in the records. The records shall be indexed and retained in such a manner so that they are easily accessible, and the carrier shall have the facilities available to locate, identify and reproduce the records in readable form without loss of clarity. Authorized representatives of the DOT shall be given immediate access to the carrier's facilities upon request.
 
-\(c\) If any record which must be retained under the provisions of §§249.20 and 249.21 is included as an exhibit to another document which must also be retained, the carrier need only keep in its files one copy of the record to satisfy these record retention requirements. In these cases, the carrier shall establish adequate cross-references to assist in locating the record.
+\(c\) If any record which must be retained under the provisions of §[[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] and 249.21 is included as an exhibit to another document which must also be retained, the carrier need only keep in its files one copy of the record to satisfy these record retention requirements. In these cases, the carrier shall establish adequate cross-references to assist in locating the record.
 
 \(d\) The provisions in this part do not excuse noncompliance with requirements of any other governmental body, Federal or State, prescribing longer retention periods for any records.
 
@@ -60,7 +60,7 @@ For the purposes of this part:
 
 \(a\) Any record may be transferred to nonerasable microfilm (including microfiche, computer output microfilm, and aperture cards) at any time. Records so maintained on microfilm shall satisfy the minimum requirements listed in paragraphs (b) through (f) of this section.
 
-\(b\) The microfilm shall be of a quality that can be easily read and that can be reproduced in paper similar in size to an original without loss of clarity or detail during the periods the records are required to be retained in §§249.20 and 249.21.
+\(b\) The microfilm shall be of a quality that can be easily read and that can be reproduced in paper similar in size to an original without loss of clarity or detail during the periods the records are required to be retained in §[[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] and 249.21.
 
 \(c\) Microfilm records shall be indexed and retained in such a manner as will render them readily accessible, and the company shall have facilities available to locate, identify and read the microfilm and reproduce in paper form. Authorized representatives of the DOT shall be given immediate access to these facilities upon request.
 
@@ -92,11 +92,11 @@ Each carrier shall provide reasonable protection from damage by fire, floods, an
 
 \(2\) Receipt of a notice issued by the Director, Office of Airline Information in response to a written application filed by the carrier, authorizing the destruction of specifically identified categories of records. An application should be filed when the carrier believes that certain categories of records are not relevant to the proper processing of a pending mail proceeding. The application should list those categories of records which the carrier wants to destroy and its reasons for believing that the records are not necessary or useful in determining its satutory mail pay.
 
-\(b\) Each carrier shall preserve records supporting the computation of subsidy mail pay in accordance with the provisions of §249.20 unless the carrier has been advised that these computations are subject to further review and disposition by the Department. When the DOT is still reviewing the compensation amount after expiration of the normal retention period specified in §249.20, these records must be retained until the carrier is notified by the Director, Office of Airline Information, that the records may be destroyed.
+\(b\) Each carrier shall preserve records supporting the computation of subsidy mail pay in accordance with the provisions of [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] unless the carrier has been advised that these computations are subject to further review and disposition by the Department. When the DOT is still reviewing the compensation amount after expiration of the normal retention period specified in [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]], these records must be retained until the carrier is notified by the Director, Office of Airline Information, that the records may be destroyed.
 
 \(c\) Each carrier that has been named a party to an enforcement proceeding or against whom a third-party complaint has been filed shall retain all records relating to the case until the receipt of formal notification from the Director, Office of Airline Information, following a written application from the carrier, which authorizes the destruction of these records.
 
-\(d\) Each carrier that has been named a party to a pending case which is not of a type discussed in paragraphs (a), (b), and (c) of this section, shall preserve all records according to the provisions of §249.20 unless the Director, Office of Airline Information, notifies the carrier in writing that specific records shall be preserved until final adjudication of the pending case.
+\(d\) Each carrier that has been named a party to a pending case which is not of a type discussed in paragraphs (a), (b), and (c) of this section, shall preserve all records according to the provisions of [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md#§249.20   Preservation of records by certificated air carriers.|§249.20]] unless the Director, Office of Airline Information, notifies the carrier in writing that specific records shall be preserved until final adjudication of the pending case.
 
 \(e\) Each carrier that is a party to litigation in a Federal court of which the DOT is also a party shall retain all records relating to the case until the receipt of formal notification from the Director, Office of Airline Information, following a written application from the carrier, which authorizes the destruction of these records.
 
@@ -174,7 +174,7 @@ Each operator authorized under parts 372 and 380 of this chapter shall retain th
 
 ### §249.30   Applicability.
 
-This subpart is applicable to all air carriers and foreign air carriers as defined in 49 U.S.C. 40102, including, without limitation, direct carriers, air taxi operators registered under part 298 of this chapter, indirect air carriers registered under part 296 of this chapter, charter operators authorized under parts 372 and 380 of this chapter, and foreign air carriers holding permits to engage in indirect foreign air transportation issued under 49 U.S.C. 41302.
+This subpart is applicable to all air carriers and foreign air carriers as defined in 49 U.S.C. 40102, including, without limitation, direct carriers, air taxi operators registered under [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]], indirect air carriers registered under [[Volume 4/A Economic regulations/0296 Indirect air transportation of property.md|part 296 of this chapter]], charter operators authorized under parts 372 and 380 of this chapter, and foreign air carriers holding permits to engage in indirect foreign air transportation issued under 49 U.S.C. 41302.
 
 \[ER-1214, 46 FR 25415, May 6, 1981, as amended at 60 FR 66726, Dec. 26, 1995\]
 

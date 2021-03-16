@@ -22,7 +22,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.169](https://www.ecfr
 
 \(3\) A technical description of the project;
 
-\(4\) The information contained in the notice required by §157.3 of this chapter; and
+\(4\) The information contained in the notice required by [[Volume 3/I Airports/0157 Notice of construction, alteration, activation, and deactivation of airports.md#§157.3   Projects requiring notice.|§157.3]] of this chapter; and
 
 \(5\) All available pertinent data relating to the necessity of the airport or air navigation facility for use in air commerce including where applicable—
 
@@ -40,7 +40,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.169](https://www.ecfr
 
 \(2\) Inclusion of an airport in the National Airport System Plan, if—
 
-\(i\) Notice of construction or alteration required by §157.3 of this chapter has been given; and
+\(i\) Notice of construction or alteration required by [[Volume 3/I Airports/0157 Notice of construction, alteration, activation, and deactivation of airports.md#§157.3   Projects requiring notice.|§157.3]] of this chapter has been given; and
 
 \(ii\) The Administrator has determined that there is no objection to the proposed construction or alteration.
 

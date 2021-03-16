@@ -22,7 +22,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.313](https://www.ecfr
 
 \(b\) *Implementation.* Implementation of this policy is through the integration of energy findings and conclusions into decisions, opinions, or orders in proceedings involving a major regulatory action, as defined in this part.
 
-\(c\) *Proceedings in progress.* The provisions of this part are intended primarily for prospective application. Proceedings in progress on the effective date of this part, in which an application has been docketed but no final decision made public, shall adhere to §313.6(a) of this part, provided that the fair, efficient, and timely administration of DOT's regulatory activities is not compromised thereby. Nothing herein shall imply a requirement for new or additional hearings, a reopening of the record, or any other procedures which would tend to delay a timely decision in proceedings in progress.
+\(c\) *Proceedings in progress.* The provisions of this part are intended primarily for prospective application. Proceedings in progress on the effective date of this part, in which an application has been docketed but no final decision made public, shall adhere to [[Volume 4/B Procedural regulations/0313 Implementation of the energy policy and conservation act.md#§313.6   Energy statements.|§313.6]](a) of this part, provided that the fair, efficient, and timely administration of DOT's regulatory activities is not compromised thereby. Nothing herein shall imply a requirement for new or additional hearings, a reopening of the record, or any other procedures which would tend to delay a timely decision in proceedings in progress.
 
 \(d\) *Hearings.* Public hearings will not normally be held for the purpose of implementing 42 U.S.C. 6362, particularly in connection with proposed actions which do not require notice and hearing as a prerequisite to decision under the Statute. Hearings may be ordered in exceptional circumstances where the proposed action is of great magnitude or widespread public interest and, in addition, presents complex issues peculiarly subject to resolution through evidentiary hearings and the process of cross-examination.
 
@@ -36,7 +36,7 @@ As used in this part:
 
 \(b\) *Energy statement* is a statement of the probable impact of a major regulatory action on energy efficiency and energy conservation, contained in a decision, opinion, order, or rule.
 
-\(c\) *Major regulatory action* is any decision by the DOT decisionmaker or administrative law judge requiring an energy statement pursuant to §313.4 of this part.
+\(c\) *Major regulatory action* is any decision by the DOT decisionmaker or administrative law judge requiring an energy statement pursuant to [[Volume 4/B Procedural regulations/0313 Implementation of the energy policy and conservation act.md#§313.4   Major regulatory actions.|§313.4]] of this part.
 
 \(d\) *NEPA* means the National Environmental Policy Act of 1969.
 
@@ -96,7 +96,7 @@ As used in this part:
 
 ### §313.7   Integration with environmental procedures.
 
-\(a\) In proceedings in which an environmental impact statement or a finding of no significant impact is prepared by a responsible official pursuant to DOT's procedures implementing the National Environmental Policy Act of 1969 (NEPA), the energy information called for by this part may be included in that statement or declaration in order to yield a single, comprehensive document. In such instances, the DOT's NEPA procedures shall govern the submission of the energy information. However, it shall remain the responsibility of the administrative law judge or the DOT decisionmaker, as the case may be, to make the findings and conclusions required by §313.6(a) of this part.
+\(a\) In proceedings in which an environmental impact statement or a finding of no significant impact is prepared by a responsible official pursuant to DOT's procedures implementing the National Environmental Policy Act of 1969 (NEPA), the energy information called for by this part may be included in that statement or declaration in order to yield a single, comprehensive document. In such instances, the DOT's NEPA procedures shall govern the submission of the energy information. However, it shall remain the responsibility of the administrative law judge or the DOT decisionmaker, as the case may be, to make the findings and conclusions required by [[Volume 4/B Procedural regulations/0313 Implementation of the energy policy and conservation act.md#§313.6   Energy statements.|§313.6]](a) of this part.
 
 \(b\) A determination that a major regulatory action within the meaning of 42 U.S.C. 6362 and this part may be involved in a proceeding is independent from any determination that the proceeding is a “major Federal action significantly affecting the quality of the human environment” within the meaning of NEPA, and vice versa.
 

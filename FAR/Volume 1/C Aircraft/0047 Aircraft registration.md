@@ -56,7 +56,7 @@ The following are definitions of terms used in this part:
 
 \(1\) Has been registered by its owner;
 
-\(2\) Is carrying aboard the temporary authorization required by §47.31(c); or
+\(2\) Is carrying aboard the temporary authorization required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]](c); or
 
 \(3\) Is an aircraft of the Armed Forces of the United States.
 
@@ -70,7 +70,7 @@ The following are definitions of terms used in this part:
 
 \(b\) An aircraft may be registered only by and in the legal name of its owner.
 
-\(c\) 49 U.S.C. 44103(c), provides that registration is not evidence of ownership of aircraft in any proceeding in which ownership by a particular person is in issue. The FAA does not issue any certificate of ownership or endorse any information with respect to ownership on a Certificate of Aircraft Registration, AC Form 8050-3. The FAA issues a Certificate of Aircraft Registration, AC Form 8050-3 to the person who appears to be the owner on the basis of the evidence of ownership submitted pursuant to §47.11 with the Aircraft Registration Application, or recorded at the Registry.
+\(c\) 49 U.S.C. 44103(c), provides that registration is not evidence of ownership of aircraft in any proceeding in which ownership by a particular person is in issue. The FAA does not issue any certificate of ownership or endorse any information with respect to ownership on a Certificate of Aircraft Registration, AC Form 8050-3. The FAA issues a Certificate of Aircraft Registration, AC Form 8050-3 to the person who appears to be the owner on the basis of the evidence of ownership submitted pursuant to [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]] with the Aircraft Registration Application, or recorded at the Registry.
 
 \(d\) In this part, “owner” includes a buyer in possession, a bailee, or a lessee of an aircraft under a contract of conditional sale, and the assignee of that person.
 
@@ -122,7 +122,7 @@ The following are definitions of terms used in this part:
 
 \(b\) Each voting trust agreement submitted under paragraph (a)(1) of this section must provide for the succession of a voting trustee in the event of death, disability, resignation, termination of citizenship, or any other event leading to the replacement of any voting trustee. Upon succession, the replacement voting trustee shall immediately submit to the Registry the affidavit required by paragraph (a)(2) of this section.
 
-\(c\) If the voting trust terminates or is modified, and the result is less than 75 percent control of the voting interest in the corporation by citizens of the United States, a loss of citizenship of the holder of the Certificate of Aircraft Registration, AC Form 8050-3 occurs, and §47.41(a)(3) of this part applies.
+\(c\) If the voting trust terminates or is modified, and the result is less than 75 percent control of the voting interest in the corporation by citizens of the United States, a loss of citizenship of the holder of the Certificate of Aircraft Registration, AC Form 8050-3 occurs, and [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.41   Duration and return of Certificate.|§47.41]](a)(3) of this part applies.
 
 \(d\) A voting trust agreement may not empower a trustee to act through a proxy.
 
@@ -156,7 +156,7 @@ The following are definitions of terms used in this part:
 
 \(1\) A signed report containing—
 
-\(i\) The total time in service of the airframe as provided in §91.417(a)(2)(i), accumulated during that period; and
+\(i\) The total time in service of the airframe as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](a)(2)(i), accumulated during that period; and
 
 \(ii\) The total flight hours in the United States of the aircraft accumulated during that period; or
 
@@ -166,7 +166,7 @@ The following are definitions of terms used in this part:
 
 ### §47.11   Evidence of ownership.
 
-Except as provided in §§47.33 and 47.35, each person that submits an Aircraft Registration Application, AC Form 8050-1 under this part must also submit the required evidence of ownership, recordable under §§49.13 and 49.17 of this chapter, as follows:
+Except as provided in §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§47.33]] and 47.35, each person that submits an Aircraft Registration Application, AC Form 8050-1 under this part must also submit the required evidence of ownership, recordable under §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.13   Signatures and acknowledgements.|§49.13]] and 49.17 of this chapter, as follows:
 
 \(a\) The buyer in possession, the bailee, or the lessee of an aircraft under a contract of conditional sale must submit the contract. The assignee under a contract of conditional sale must submit both the contract (unless it is already recorded at the Registry), and his assignment from the original buyer, bailee, lessee, or prior assignee.
 
@@ -174,7 +174,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(1\) A Certificate of Repossession of Encumbered Aircraft, FAA Form 8050-4, or its equivalent, signed by the applicant and stating that the aircraft was repossessed or otherwise seized under the security agreement involved and applicable local law;
 
-\(2\) The security agreement (unless it is already recorded at the Registry), or a copy thereof certified as true under §49.21 of this chapter; and
+\(2\) The security agreement (unless it is already recorded at the Registry), or a copy thereof certified as true under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.21   Return of original conveyance.|§49.21]] of this chapter; and
 
 \(3\) When repossession was through foreclosure proceedings resulting in sale, a bill of sale signed by the sheriff, auctioneer, or other authorized person who conducted the sale, and stating that the sale was made under applicable local law.
 
@@ -188,7 +188,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(g\) The guardian of another person's property that includes an aircraft must submit a certified copy of the order of the court appointing him guardian. The Certificate of Aircraft Registration is issued to the applicant as guardian.
 
-\(h\) The trustee of property that includes an aircraft, as described in §47.7(c), must submit either a certified copy of the order of the court appointing the trustee, or a complete and true copy of the instrument creating the trust. If there is more than one trustee, each trustee must sign the Aircraft Registration Application. The Certificate of Aircraft Registration is issued to a single applicant as trustee, or to several trustees jointly as co-trustees.
+\(h\) The trustee of property that includes an aircraft, as described in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.7   United States citizens and resident aliens.|§47.7]](c), must submit either a certified copy of the order of the court appointing the trustee, or a complete and true copy of the instrument creating the trust. If there is more than one trustee, each trustee must sign the Aircraft Registration Application. The Certificate of Aircraft Registration is issued to a single applicant as trustee, or to several trustees jointly as co-trustees.
 
 \[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-20, 44 FR 61940, Oct. 29, 1979; Amdt. 47-23, 53 FR 1915, Jan. 25, 1988; Amdt. 47-29, 75 FR 41980, July 20, 2010\]
 
@@ -204,7 +204,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(2\) Sign as agent or attorney-in-fact on the application, document, or request; and
 
-\(3\) Submit a signed power of attorney, or a true copy thereof certified under §49.21 of this chapter, with the application, document, or request.
+\(3\) Submit a signed power of attorney, or a true copy thereof certified under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.21   Return of original conveyance.|§49.21]] of this chapter, with the application, document, or request.
 
 \(d\) When a corporation submits an Aircraft Registration Application, a document submitted as supporting evidence under this part, or a request for cancellation of a Certificate of Aircraft Registration, it must—
 
@@ -212,7 +212,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(2\) Show the title of the signer's office on the application, document, or request; and
 
-\(3\) Submit a copy of the authorization from the board of directors to sign for the corporation, certified as true under §49.21 of this chapter by a corporate officer or other person in a managerial position therein, with the application, document, or request, unless—
+\(3\) Submit a copy of the authorization from the board of directors to sign for the corporation, certified as true under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.21   Return of original conveyance.|§49.21]] of this chapter by a corporate officer or other person in a managerial position therein, with the application, document, or request, unless—
 
 \(i\) The signer of the application, document, or request is a corporate officer or other person in a managerial position in the corporation and the title of his office is stated in connection with his signature; or
 
@@ -250,25 +250,25 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 ### §47.15   Registration number.
 
-\(a\) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate, AC Form 8050-6, who applies for a temporary registration number under §47.16.
+\(a\) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate, AC Form 8050-6, who applies for a temporary registration number under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.16   Temporary registration numbers.|§47.16]].
 
-\(1\) *Aircraft not previously registered anywhere.* The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in §47.33(b)) and stating that the aircraft has not previously been registered anywhere. If the aircraft was brought into the United States from a foreign country, the applicant must submit evidence that the aircraft has never been registered in a foreign country.
+\(1\) *Aircraft not previously registered anywhere.* The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§47.33]](b)) and stating that the aircraft has not previously been registered anywhere. If the aircraft was brought into the United States from a foreign country, the applicant must submit evidence that the aircraft has never been registered in a foreign country.
 
 \(2\) *Aircraft last previously registered in the United States.* Unless the applicant applies for a different number under paragraphs (d) through (f) of this section, the applicant must place the U.S. registration number that is already assigned to the aircraft on the Aircraft Registration Application, and the supporting evidence. If there is no number assigned, the applicant must obtain a U.S. registration number from the Registry by making a written request that describes the aircraft by make, model, and serial number.
 
 \(3\) *Aircraft last previously registered in a foreign country.* Whether or not the foreign registration has ended, the applicant must obtain a U.S. registration number from the Registry for an aircraft last previously registered in a foreign country, by request in writing describing the aircraft by make, model, and serial number, accompanied by—
 
-\(i\) Evidence of termination of foreign registration in accordance with §47.37(b) or the applicant's affidavit showing that foreign registration has ended; or
+\(i\) Evidence of termination of foreign registration in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.37   Aircraft last previously registered in a foreign country.|§47.37]](b) or the applicant's affidavit showing that foreign registration has ended; or
 
 \(ii\) If foreign registration has not ended, the applicant's affidavit stating that the number will not be placed on the aircraft until foreign registration has ended.
 
-\(4\) *Duration of a U.S. registration number assignment.* Authority to use the registration number obtained under paragraph (a)(1), (2), or (3) of this section expires 90 days after the date it is issued unless the applicant submits an Aircraft Registration Application and complies with §47.33 or §47.37, as applicable, within that period of time. However, the applicant may obtain an extension of this 90-day period from the Registry if the applicant shows that the delay in complying with that section is due to circumstances beyond the applicant's control.
+\(4\) *Duration of a U.S. registration number assignment.* Authority to use the registration number obtained under paragraph (a)(1), (2), or (3) of this section expires 90 days after the date it is issued unless the applicant submits an Aircraft Registration Application and complies with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§47.33]] or [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.37   Aircraft last previously registered in a foreign country.|§47.37]], as applicable, within that period of time. However, the applicant may obtain an extension of this 90-day period from the Registry if the applicant shows that the delay in complying with that section is due to circumstances beyond the applicant's control.
 
 \(b\) A U.S. registration number may not exceed five symbols in addition to the prefix letter “N”. These symbols may be all numbers (N10000), one to four numbers and one suffix letter (N 1000A), or one to three numbers and two suffix letters (N 100AB). The letters “I” and “O” may not be used. The first zero in a number must always be preceded by at least one of the numbers 1 through 9.
 
 \(c\) An aircraft manufacturer may apply to the Registry for enough U.S. registration numbers to supply estimated production for the next 18 months. There is no charge for this allocation of numbers.
 
-\(d\) Any available, unassigned U.S. registration number may be assigned as a special registration number. An applicant who wants a special registration number or wants to change the registration number of his aircraft may apply for it to the Registry. The fee required by §47.17 must accompany the application.
+\(d\) Any available, unassigned U.S. registration number may be assigned as a special registration number. An applicant who wants a special registration number or wants to change the registration number of his aircraft may apply for it to the Registry. The fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]] must accompany the application.
 
 \(e\) \[Reserved\]
 
@@ -276,25 +276,25 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(g\) \[Reserved\]
 
-\(h\) A special registration number may be reserved for no more than 1 year. If a person wishes to renew his reservation from year to year, he must apply to the Registry for renewal and submit the fee required by §47.17 for a special registration number.
+\(h\) A special registration number may be reserved for no more than 1 year. If a person wishes to renew his reservation from year to year, he must apply to the Registry for renewal and submit the fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]] for a special registration number.
 
-\(i\) When aircraft registration has ended, as described in §47.41(a), the assignment of a registration number to an aircraft is no longer authorized for use except as provided in §47.31(c) and will be cancelled:
+\(i\) When aircraft registration has ended, as described in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.41   Duration and return of Certificate.|§47.41]](a), the assignment of a registration number to an aircraft is no longer authorized for use except as provided in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]](c) and will be cancelled:
 
-\(1\) Following the date established in §47.40(a)(1) for any aircraft that has not been re-registered under §47.40(a);
+\(1\) Following the date established in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.40   Registration expiration and renewal.|§47.40]](a)(1) for any aircraft that has not been re-registered under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.40   Registration expiration and renewal.|§47.40]](a);
 
-\(2\) Following the expiration date shown on the Certificate of Aircraft Registration for any aircraft whose registration has not been renewed under §47.40(c);
+\(2\) Following the expiration date shown on the Certificate of Aircraft Registration for any aircraft whose registration has not been renewed under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.40   Registration expiration and renewal.|§47.40]](c);
 
-\(3\) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, AC Form 8050-6, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with §47.31; or
+\(3\) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, AC Form 8050-6, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]]; or
 
 \(4\) When ownership has transferred—
 
 \(i\) Six months after first receipt of notice of aircraft sale or evidence of ownership from the last registered owner or successive owners, and an Aircraft Registration Application has not been received.
 
-\(ii\) Six months after evidence of ownership authorized under §47.67 has been submitted, and the applicant has not met the requirements of this part.
+\(ii\) Six months after evidence of ownership authorized under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.67   Evidence of ownership.|§47.67]] has been submitted, and the applicant has not met the requirements of this part.
 
-\(iii\) Twelve months after a new owner has submitted evidence of ownership and an Aircraft Registration Application under §47.31, and the applicant or a successive applicant has not met the requirements of this part.
+\(iii\) Twelve months after a new owner has submitted evidence of ownership and an Aircraft Registration Application under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]], and the applicant or a successive applicant has not met the requirements of this part.
 
-\(j\) At the time an assignment of registration number is cancelled, the number may be reserved for one year in the name of the last owner of record if a request has been submitted with the fee required by §47.17. If the request for reservation and fee are not submitted prior to cancellation, the registration number is unavailable for assignment for a period of five years.
+\(j\) At the time an assignment of registration number is cancelled, the number may be reserved for one year in the name of the last owner of record if a request has been submitted with the fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]]. If the request for reservation and fee are not submitted prior to cancellation, the registration number is unavailable for assignment for a period of five years.
 
 \[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-1, 31 FR 13314, Oct. 14, 1966; Amdt. 47-5, 32 FR 13505, Sept. 27, 1967; Amdt. 47-7, 34 FR 2480, Feb. 21, 1969; Amdt. 47-13, 36 FR 16187, Aug. 20, 1971; Amdt. 47-15, 37 FR 21528, Oct. 12, 1972; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-17, 39 FR 1353, Jan. 8, 1974; Amdt. 47-22, 47 FR 12153, Mar. 22, 1982; Amdt. 47-29, 75 FR 41980, July 20, 2010\]
 
@@ -314,7 +314,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(i\) Only in connection with the holder's Dealer's Aircraft Registration Certificate;
 
-\(ii\) Within the limitations of §47.69 where applicable, including the requirements of §47.67; and
+\(ii\) Within the limitations of [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.69   Limitations.|§47.69]] where applicable, including the requirements of [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.67   Evidence of ownership.|§47.67]]; and
 
 \(iii\) On aircraft not registered under Subpart B of this part or in a foreign country, and not displaying any other identification markings.
 
@@ -322,7 +322,7 @@ Except as provided in §§47.33 and 47.35, each person that submits an Aircraft 
 
 \(3\) Temporary registration numbers may not be used to fly aircraft into the United States for the purpose of importation.
 
-\(d\) The assignment of any temporary registration number to any person lapses upon the expiration of all of his Dealer's Aircraft Registration Certificates. When a temporary registration number is used on a flight outside the United States for delivery purposes, the holder shall record the assignment of that number to the aircraft and shall keep that record for at least 1 year after the removal of the number from that aircraft. Whenever the owner of an aircraft bearing a temporary registration number applies for an airworthiness certificate under Part 21 of this chapter he shall furnish that number in the application. The temporary registration number must be removed from the aircraft not later than the date on which either title or possession passes to another person.
+\(d\) The assignment of any temporary registration number to any person lapses upon the expiration of all of his Dealer's Aircraft Registration Certificates. When a temporary registration number is used on a flight outside the United States for delivery purposes, the holder shall record the assignment of that number to the aircraft and shall keep that record for at least 1 year after the removal of the number from that aircraft. Whenever the owner of an aircraft bearing a temporary registration number applies for an airworthiness certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] he shall furnish that number in the application. The temporary registration number must be removed from the aircraft not later than the date on which either title or possession passes to another person.
 
 \[Amdt. 47-4, 32 FR 12556, Aug. 30, 1967, as amended by Amdt. 47-29, 75 FR 41981, July 20, 2010\]
 
@@ -356,11 +356,11 @@ Each application, request, notification, or other communication sent to the FAA 
 
 \(a\) Each applicant for a Certificate of Aircraft Registration, AC Form 8050-3 must submit the following to the Registry—
 
-\(1\) An Aircraft Registration Application, AC Form 8050-1, signed by the applicant in the manner prescribed by §47.13;
+\(1\) An Aircraft Registration Application, AC Form 8050-1, signed by the applicant in the manner prescribed by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.13   Signatures and instruments made by representatives.|§47.13]];
 
-\(2\) The original Aircraft Bill of Sale, AC Form 8050-2, or other evidence of ownership authorized by §47.33, §47.35, or §47.37 (unless already recorded at the Registry); and
+\(2\) The original Aircraft Bill of Sale, AC Form 8050-2, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.33   Aircraft not previously registered anywhere.|§47.33]], [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.35   Aircraft last previously registered in the United States.|§47.35]], or [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.37   Aircraft last previously registered in a foreign country.|§47.37]] (unless already recorded at the Registry); and
 
-\(3\) The fee required by §47.17.
+\(3\) The fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]].
 
 \(b\) The FAA rejects an application when—
 
@@ -384,9 +384,9 @@ Each application, request, notification, or other communication sent to the FAA 
 
 \(a\) A person who is the owner of an aircraft that has not been registered under 49 U.S.C. 44101-44104, under other law of the United States, or under foreign law, may register it under this part if he—
 
-\(1\) Complies with §§47.3, 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable; and
+\(1\) Complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable; and
 
-\(2\) Submits with his Aircraft Registration Application, AC Form 8050-1, an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller, an equivalent bill of sale, or other evidence of ownership authorized by §47.11.
+\(2\) Submits with his Aircraft Registration Application, AC Form 8050-1, an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller, an equivalent bill of sale, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]].
 
 \(b\) If, for good reason, the applicant cannot produce the evidence of ownership required by paragraph (a) of this section, he must submit other evidence that is satisfactory to the FAA. This other evidence may be an affidavit stating why he cannot produce the required evidence, accompanied by whatever further evidence is available to prove the transaction.
 
@@ -398,7 +398,7 @@ Each application, request, notification, or other communication sent to the FAA 
 
 ### §47.35   Aircraft last previously registered in the United States.
 
-\(a\) A person who is the owner of an aircraft last previously registered under 49 U.S.C. Sections 44101-44104, or under other law of the United States, may register it under this part if he complies with §§47.3, 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable and submits with his Aircraft Registration Application, AC Form 8050-1 an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller or an equivalent conveyance, or other evidence of ownership authorized by §47.11.
+\(a\) A person who is the owner of an aircraft last previously registered under 49 U.S.C. Sections 44101-44104, or under other law of the United States, may register it under this part if he complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable and submits with his Aircraft Registration Application, AC Form 8050-1 an Aircraft Bill of Sale, AC Form 8050-2, signed by the seller or an equivalent conveyance, or other evidence of ownership authorized by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]].
 
 \(1\) If the applicant bought the aircraft from the last registered owner, the conveyance must be from that owner to the applicant.
 
@@ -412,7 +412,7 @@ Each application, request, notification, or other communication sent to the FAA 
 
 \(a\) A person who is the owner of an aircraft last previously registered under the law of a foreign country may register it under this part if the owner—
 
-\(1\) Complies with §§47.3, 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable;
+\(1\) Complies with §[[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.3   Registration required.|§47.3]], 47.7, 47.8, 47.9, 47.11, 47.13, 47.15, and 47.17, as applicable;
 
 \(2\) Submits with his Aircraft Registration Application, AC Form 8050-1 a bill of sale from the foreign seller or other evidence satisfactory to the FAA that he owns the aircraft; and
 
@@ -456,13 +456,13 @@ An aircraft is registered on the date the Registry determines that the submissio
 
 </div>
 
-\(2\) Each holder of a Certificate of Aircraft Registration, AC Form 8050-3, issued before October 1, 2010, must submit an Application for Aircraft Re-registration, AC Form 8050-1A, and the fee required by §47.17, between October 1, 2010, and December 31, 2013, according to the schedule in paragraph (a)(1) of this section.
+\(2\) Each holder of a Certificate of Aircraft Registration, AC Form 8050-3, issued before October 1, 2010, must submit an Application for Aircraft Re-registration, AC Form 8050-1A, and the fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]], between October 1, 2010, and December 31, 2013, according to the schedule in paragraph (a)(1) of this section.
 
 \(3\) A Certificate of Aircraft Registration issued under this paragraph expires three years after the last day of the month in which it is issued.
 
-\(b\) *Initial Registration.* A Certificate of Aircraft Registration issued in accordance with §47.31 expires three years after the last day of the month in which it is issued.
+\(b\) *Initial Registration.* A Certificate of Aircraft Registration issued in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]] expires three years after the last day of the month in which it is issued.
 
-\(c\) *Renewal.* Each holder of a Certificate of Aircraft Registration, AC Form 8050-3, containing an expiration date may apply for renewal by submitting an Application for Aircraft Registration Renewal, AC Form 8050-1B, and the fee required by §47.17 during the six months preceding the expiration date. A certificate issued under this paragraph expires three years from the expiration date of the previous certificate.
+\(c\) *Renewal.* Each holder of a Certificate of Aircraft Registration, AC Form 8050-3, containing an expiration date may apply for renewal by submitting an Application for Aircraft Registration Renewal, AC Form 8050-1B, and the fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]] during the six months preceding the expiration date. A certificate issued under this paragraph expires three years from the expiration date of the previous certificate.
 
 \[Amdt. 47-29, 75 FR 41981, July 20, 2010\]
 
@@ -484,7 +484,7 @@ An aircraft is registered on the date the Registry determines that the submissio
 
 \(i\) The corporation ceases to be lawfully organized and doing business under the laws of the United States or any State thereof; or
 
-\(ii\) A period described in §47.9(b) ends and the aircraft was not based and primarily used in the United States during that period.
+\(ii\) A period described in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.9   Corporations not U.S. citizens.|§47.9]](b) ends and the aircraft was not based and primarily used in the United States during that period.
 
 \(7\) If the trustee in whose name the aircraft is registered—
 
@@ -492,7 +492,7 @@ An aircraft is registered on the date the Registry determines that the submissio
 
 \(ii\) Loses status as a resident alien and does not become a citizen of the United States at the same time; or
 
-\(iii\) In any manner ceases to act as trustee and is not immediately replaced by another who meets the requirements of §47.7(c).
+\(iii\) In any manner ceases to act as trustee and is not immediately replaced by another who meets the requirements of [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.7   United States citizens and resident aliens.|§47.7]](c).
 
 \(b\) The Certificate of Aircraft Registration, with the reverse side completed, must be returned to the Registry—
 
@@ -548,7 +548,7 @@ Within 30 days after any change in a registered owner's mailing address, the reg
 
 ### §47.49   Replacement of Certificate.
 
-\(a\) If the original Certificate of Aircraft Registration, AC Form 8050-3, is lost, stolen, or mutilated, the registered owner may submit to the Registry a written request that states the reason a replacement certificate is needed and the fee required by §47.17. The Registry will send a replacement certificate to the registered owner's mailing address or to another mailing address if requested in writing by the registered owner.
+\(a\) If the original Certificate of Aircraft Registration, AC Form 8050-3, is lost, stolen, or mutilated, the registered owner may submit to the Registry a written request that states the reason a replacement certificate is needed and the fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]]. The Registry will send a replacement certificate to the registered owner's mailing address or to another mailing address if requested in writing by the registered owner.
 
 \(b\) The registered owner may request a temporary Certificate of Aircraft Registration pending receipt of a replacement certificate. The Registry issues a temporary Certificate of Aircraft Registration in the form of a fax that must be carried in the aircraft until receipt of the replacement certificate.
 
@@ -568,7 +568,7 @@ Within 30 days after any change in a registered owner's mailing address, the reg
 
 \(b\) A Dealer's Aircraft Registration Certificate is an alternative for the Certificate of Aircraft Registration issued under subpart B of this part. A dealer may, under this subpart, obtain one or more Dealer's Aircraft Registration Certificates in addition to his original certificate, and he may use a Dealer's Aircraft Registration Certificate for any aircraft he owns.
 
-\(c\) If the Dealer's Aircraft Registration Certificate expires under §47.71, and an aircraft is registered under this subpart, application for registration must be made under §47.31, or the assignment of registration number may be cancelled in accordance with §47.15(i)(3).
+\(c\) If the Dealer's Aircraft Registration Certificate expires under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.71   Duration of Certificate; change of status.|§47.71]], and an aircraft is registered under this subpart, application for registration must be made under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]], or the assignment of registration number may be cancelled in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.15   Registration number.|§47.15]](i)(3).
 
 \[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-9, 35 FR 802, Jan. 21, 1970; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-29, 75 FR 41982, July 20, 2010\]
 
@@ -578,7 +578,7 @@ A manufacturer or dealer that wishes to obtain a Dealer's Aircraft Registration 
 
 \(a\) A Dealer's Aircraft Registration Certificate Application, AC Form 8050-5; and
 
-\(b\) The fee required by §47.17.
+\(b\) The fee required by [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.17   Fees.|§47.17]].
 
 \[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-29, 75 FR 41982, July 20, 2010\]
 
@@ -590,7 +590,7 @@ To be eligible for a Dealer's Aircraft Registration Certificate, AC Form 8050-6,
 
 ### §47.67   Evidence of ownership.
 
-Before using a Dealer's Aircraft Registration Certificate, AC Form 8050-6, for operating the aircraft, the holder of the certificate (other than a manufacturer) must send to the Registry evidence of ownership under §47.11. An Aircraft Bill of Sale, AC Form 8050-2, or its equivalent, may be used as evidence of ownership. There is no recording fee.
+Before using a Dealer's Aircraft Registration Certificate, AC Form 8050-6, for operating the aircraft, the holder of the certificate (other than a manufacturer) must send to the Registry evidence of ownership under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]]. An Aircraft Bill of Sale, AC Form 8050-2, or its equivalent, may be used as evidence of ownership. There is no recording fee.
 
 \[Amdt. 47-29, 75 FR 41983, July 20, 2010\]
 
@@ -598,7 +598,7 @@ Before using a Dealer's Aircraft Registration Certificate, AC Form 8050-6, for o
 
 A Dealer's Aircraft Registration Certificate, AC Form 8050-6 is valid only in connection with use of aircraft—
 
-\(a\) By the owner of the aircraft to whom it was issued, his agent or employee, or a prospective buyer, and in the case of a dealer other than a manufacturer, only after he has complied with §47.67;
+\(a\) By the owner of the aircraft to whom it was issued, his agent or employee, or a prospective buyer, and in the case of a dealer other than a manufacturer, only after he has complied with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.67   Evidence of ownership.|§47.67]];
 
 \(b\) Within the United States, except when used to deliver to a foreign purchaser an aircraft displaying a temporary registration number and carrying an airworthiness certificate on which that number is written;
 

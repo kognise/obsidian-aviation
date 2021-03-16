@@ -24,7 +24,7 @@ This part sets forth the filing and evidence requirements for foreign air carrie
 
 \(a\) Except as provided in paragraph (b) of this section, this part applies to all foreign air carriers seeking initial foreign air carrier permits or the transfer, renewal, or amendment of an existing foreign air carrier permit.
 
-\(b\) Canadian charter air taxi operators, foreign indirect air carriers of property, and foreign charter operators are not required to submit applications under this part. Instead, Canadian charter air taxi operators shall register under part 294 of this chapter, foreign indirect air carriers of property shall register under part 297 of this chapter, and foreign charter operators shall register under subpart E of part 380 of this chapter.
+\(b\) Canadian charter air taxi operators, foreign indirect air carriers of property, and foreign charter operators are not required to submit applications under this part. Instead, Canadian charter air taxi operators shall register under [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]], foreign indirect air carriers of property shall register under [[Volume 4/A Economic regulations/0297 Foreign air freight forwarders and foreign cooperative shippers associations.md|part 297 of this chapter]], and foreign charter operators shall register under subpart E of [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 (Approved by the Office of Management and Budget under control number 3024-0068)
 
@@ -34,7 +34,7 @@ This part sets forth the filing and evidence requirements for foreign air carrie
 
 ### §211.10   Filing specifications.
 
-\(a\) Except as provided in paragraph (b) of this section, applicants shall follow the requirements in §302.3 of this chapter as to execution, number of copies, and formal specifications of papers.
+\(a\) Except as provided in paragraph (b) of this section, applicants shall follow the requirements in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.3   Filing of documents.|§302.3]] of this chapter as to execution, number of copies, and formal specifications of papers.
 
 \(b\) Mexican air taxi operators filing applications for foreign air carrier permits authorizing charter flights across the Mexico-United States border with small aircraft (a maximum passenger capacity of 60 seats or less, or a maximum payload capacity of 18,000 pounds or less) shall file an original and two copies of the application. The application shall conform to the instruction document available from the Foreign Air Carrier Licensing Division, Office of International Aviation, Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590.
 
@@ -200,13 +200,13 @@ A person applying for an initial foreign air carrier permit or the transfer of a
 
 A person applying for an amendment or renewal of a foreign air carrier permit shall submit the information listed below. The applicant must comply fully with this requirement. If the applicant is unable to respond to an item, the application shall contain an explanation and include substitute information most closely approximating the information requested. The Department may require an applicant to provide any additional information necessary.
 
-\(a\) The information required in paragraphs (a), (b), (i), (o), (q), (r), and (s), of §211.20.
+\(a\) The information required in paragraphs (a), (b), (i), (o), (q), (r), and (s), of [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.20   Initial foreign air carrier permit or transfer of a permit.|§211.20]].
 
-\(b\) Except if seeking renewal of existing authority, the information specified in paragraphs (c) and (p) of §211.20 regarding the new or altered services proposed to be operated.
+\(b\) Except if seeking renewal of existing authority, the information specified in paragraphs (c) and (p) of [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.20   Initial foreign air carrier permit or transfer of a permit.|§211.20]] regarding the new or altered services proposed to be operated.
 
-\(c\) If the financial material for the applicant on file with the Department is more than 2 years old, financial summaries setting forth, in U.S. dollars, the applicant's profit and loss statements and balance sheets for the 2 most recent available years (calendar or fiscal) as required in paragraph (n) of §211.20, together with the statement of completeness and accuracy required by that paragraph. If the financial material on file with the Department is 2 years old or less, the applicant may incorporate that information by reference as described in §211.14 of this part.
+\(c\) If the financial material for the applicant on file with the Department is more than 2 years old, financial summaries setting forth, in U.S. dollars, the applicant's profit and loss statements and balance sheets for the 2 most recent available years (calendar or fiscal) as required in paragraph (n) of [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.20   Initial foreign air carrier permit or transfer of a permit.|§211.20]], together with the statement of completeness and accuracy required by that paragraph. If the financial material on file with the Department is 2 years old or less, the applicant may incorporate that information by reference as described in [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.14   Incorporation by reference.|§211.14]] of this part.
 
-\(d\) If the ownership and control of the applicant are substantially unchanged, so state. If a change has occurred, the applicant shall respond to the paragraph in §211.20 that most closely relates to the change that has taken place.
+\(d\) If the ownership and control of the applicant are substantially unchanged, so state. If a change has occurred, the applicant shall respond to the paragraph in [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.20   Initial foreign air carrier permit or transfer of a permit.|§211.20]] that most closely relates to the change that has taken place.
 
 \(e\) A statement that applicant's maintenance program continues to comply with the provisions of ICAO Pilots and Airmen Annexes 1, 6 (Part 1) and 7.
 
@@ -242,7 +242,7 @@ The application shall include, in addition to other requirements of this part, d
 
 ### §211.32   Issuance of permit.
 
-If the Department is satisfied that the applicant meets the requirements of §211.31 (a) through (e), and that grant of all or part of the requested authority would otherwise be in the public interest, the Department may, subject to Presidential review under 49 U.S.C. 41307, issue a “Freely Associated State Foreign Air Carrier Permit” to the applicant, including such terms, conditions or limitations as the Department may find to be in the public interest.
+If the Department is satisfied that the applicant meets the requirements of [[Volume 4/A Economic regulations/0211 Applications for permits to foreign air carriers.md#§211.31   Application.|§211.31]] (a) through (e), and that grant of all or part of the requested authority would otherwise be in the public interest, the Department may, subject to Presidential review under 49 U.S.C. 41307, issue a “Freely Associated State Foreign Air Carrier Permit” to the applicant, including such terms, conditions or limitations as the Department may find to be in the public interest.
 
 \[Amdt. 211-18, 52 FR 5442, Feb. 22, 1987, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15925, Apr. 16, 2019\]
 

@@ -18,7 +18,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.417](https://www.ecfr
 
 \(1\) The responsibilities of a launch operator conducting a licensed launch of an expendable launch vehicle; and
 
-\(2\) The requirements for maintaining a launch license obtained under part 415 of this chapter. Parts 413 and 415 of this chapter contain requirements for preparing a license application to conduct a launch, including information reviewed by the FAA to conduct a policy, safety, payload, and environmental review., and a payload determination.
+\(2\) The requirements for maintaining a launch license obtained under [[Volume 4/C Licensing/0415 Launch license.md|part 415 of this chapter]]. Parts 413 and 415 of this chapter contain requirements for preparing a license application to conduct a launch, including information reviewed by the FAA to conduct a policy, safety, payload, and environmental review., and a payload determination.
 
 \(b\) *Applicability.* (1) The administrative requirements for filing material with the FAA in subpart A of this part apply to all licensed launches from a Federal launch range or a non-Federal launch site, except where noted.
 
@@ -198,13 +198,13 @@ A launch operator is responsible for ensuring the safe conduct of a licensed lau
 
 \(a\) A launch operator must ensure that launch processing at a launch site in the United States satisfies the requirements of this part. Launch processing at a launch site outside the United States may be subject to the requirements of the governing jurisdiction.
 
-\(b\) For a launch from a launch site licensed under part 420 of this chapter, a launch operator must—
+\(b\) For a launch from a launch site licensed under [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]], a launch operator must—
 
-\(1\) Conduct its operations as required by any agreements that the launch site operator has with any Federal and local authorities under part 420 of this chapter; and
+\(1\) Conduct its operations as required by any agreements that the launch site operator has with any Federal and local authorities under [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]]; and
 
-\(2\) Coordinate with the launch site operator and provide any information on its activities and potential hazards necessary for the launch site operator to determine how to protect any other launch operator, person, or property at the launch site as required by the launch site operator's obligations under §420.55 of this chapter.
+\(2\) Coordinate with the launch site operator and provide any information on its activities and potential hazards necessary for the launch site operator to determine how to protect any other launch operator, person, or property at the launch site as required by the launch site operator's obligations under [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.55   Scheduling of launch site operations.|§420.55]] of this chapter.
 
-\(c\) For a launch from an exclusive-use site, where there is no licensed launch site operator, a launch operator must satisfy the requirements of this part and the public safety requirements of part 420 of this chapter. This subpart does not apply to licensed launches occurring from Federal launch ranges.
+\(c\) For a launch from an exclusive-use site, where there is no licensed launch site operator, a launch operator must satisfy the requirements of this part and the public safety requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]]. This subpart does not apply to licensed launches occurring from Federal launch ranges.
 
 ### §417.11   Continuing accuracy of license application; application for modification of license.
 
@@ -220,7 +220,7 @@ A launch operator is responsible for ensuring the safe conduct of a licensed lau
 
 \(2\) Any representation contained in the license application that is material to public health and safety or safety of property would no longer be accurate and complete or would not reflect the launch operator's procedures governing the actual conduct of a launch. A representation is material to public health and safety or safety of property if it alters or affects the launch operator's launch plans or procedures, class of payload, orbital destination, type of launch vehicle, flight path, launch site, launch point, or any safety system, policy, procedure, requirement, criteria or standard.
 
-\(c\) A launch operator must prepare and file an application to modify a launch license under part 413 of this chapter. The launch operator must identify any part of its license or license application that a proposed modification would change or affect.
+\(c\) A launch operator must prepare and file an application to modify a launch license under [[Volume 4/C Licensing/0413 License application procedures.md|part 413 of this chapter]]. The launch operator must identify any part of its license or license application that a proposed modification would change or affect.
 
 \(d\) The FAA reviews all approvals and determinations required by this chapter to determine whether they remain valid in light of a proposed modification. The FAA approves a modification that satisfies the requirements of this part.
 
@@ -238,19 +238,19 @@ Before conducting a licensed launch from a Federal launch range, a launch operat
 
 \(a\) A launch operator must maintain all records necessary to verify that it conducts licensed launches according to representations contained in the licensee's application. A launch operator must retain records for three years after completion of all launches conducted under the license.
 
-\(b\) If a launch accident or launch incident occurs, as defined by §401.5 of this chapter, a launch operator must preserve all records related to the event until completion of any Federal investigation and the FAA advises the licensee not to retain the records. The launch operator must make available to Federal officials for inspection and copying all records that these regulations require the launch operator to maintain.
+\(b\) If a launch accident or launch incident occurs, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, a launch operator must preserve all records related to the event until completion of any Federal investigation and the FAA advises the licensee not to retain the records. The launch operator must make available to Federal officials for inspection and copying all records that these regulations require the launch operator to maintain.
 
 \[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Amdt. No. 417-5, 81 FR 59439, Aug. 30, 2016\]
 
 ### §417.17   Launch reporting requirements and launch specific updates.
 
-\(a\) *General.* A launch operator must satisfy the launch reporting requirements and launch specific updates required by this section and by the terms of the launch operator's license. A launch operator must file any change to the information in the license application, not identified by this section, with the FAA as a request for license modification as required by §417.11.
+\(a\) *General.* A launch operator must satisfy the launch reporting requirements and launch specific updates required by this section and by the terms of the launch operator's license. A launch operator must file any change to the information in the license application, not identified by this section, with the FAA as a request for license modification as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.11   Continuing accuracy of license application; application for modification of license.|§417.11]].
 
 \(b\) *Launch reporting requirements for a launch from a Federal launch range or a non-Federal launch site.* (1) *Launch schedule and point of contact.* For each launch, a launch operator must file a launch schedule that identifies each review, rehearsal, and safety critical launch processing. A launch operator must file a point of contact for the schedule. The launch schedule must be filed and updated in time to allow FAA personnel to participate in the reviews, rehearsals, and safety critical launch processing.
 
 \(2\) *Sixty-day report.* Not later than 60 days before each flight conducted under a launch operator license, a launch operator must provide the FAA the following launch-specific information:
 
-\(i\) Payload information required by §415.59 of this chapter; and
+\(i\) Payload information required by [[Volume 4/C Licensing/0415 Launch license.md#§415.59   Information requirements for payload review.|§415.59]] of this chapter; and
 
 \(ii\) Flight information, including the launch vehicle, planned flight path, staging and impact locations, and any on-orbit activity of the launch vehicle, including each payload delivery point.
 
@@ -260,7 +260,7 @@ Before conducting a licensed launch from a Federal launch range, a launch operat
 
 \(1\) *Flight safety system test schedule.* For each launch of a launch vehicle flown with a flight safety system, a launch operator must file an updated flight safety system test schedule and points of contact no later than six months before flight. A launch operator must immediately file any later change to ensure that the FAA has the most current data.
 
-\(2\) *Launch plans.* A launch operator must file any changes or additions to its launch plans required by §417.111 to the FAA no later than 15 days before the associated activity is to take place. A launch operator must file the countdown plan with the FAA no later than 15 days before the countdown is to take place. If a change involves the addition of a new public hazard or the elimination of any control for a previously identified public hazard, a launch operator must request a license modification under §417.11.
+\(2\) *Launch plans.* A launch operator must file any changes or additions to its launch plans required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]] to the FAA no later than 15 days before the associated activity is to take place. A launch operator must file the countdown plan with the FAA no later than 15 days before the countdown is to take place. If a change involves the addition of a new public hazard or the elimination of any control for a previously identified public hazard, a launch operator must request a license modification under [[Volume 4/C Licensing/0417 Launch safety.md#§417.11   Continuing accuracy of license application; application for modification of license.|§417.11]].
 
 \(3\) *Thirty-day flight safety analysis update.* A launch operator must file updated flight safety analysis products, using previously approved methodologies, for each launch no later than 30 days before flight.
 
@@ -286,7 +286,7 @@ Before conducting a licensed launch from a Federal launch range, a launch operat
 
 \(5\) *Flight termination system acceptance and age surveillance test report summaries.* For the launch of a launch vehicle flown with a flight safety system, a launch operator must file a summary of the results of each flight termination system acceptance and age surveillance test, or the complete test report, as required by section E417.1(i) of appendix E of this part, no later than 30 days before the first flight attempt for each launch . The summary must identify when and where the tests were performed and provide the results. Complete acceptance and age surveillance test reports must be made available to the FAA upon request.
 
-\(6\) *Command control system acceptance test reports.* For the launch of a launch vehicle flown with a flight safety system, a launch operator must file all command control system acceptance test reports, or test report summaries, as required by §417.305(d), with the FAA no later than 30 days before the first flight attempt. The summary must identify when and where the tests were performed and provide the results. Complete acceptance test reports must be made available to the FAA upon request.
+\(6\) *Command control system acceptance test reports.* For the launch of a launch vehicle flown with a flight safety system, a launch operator must file all command control system acceptance test reports, or test report summaries, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.305   Command control system testing.|§417.305]](d), with the FAA no later than 30 days before the first flight attempt. The summary must identify when and where the tests were performed and provide the results. Complete acceptance test reports must be made available to the FAA upon request.
 
 \(7\) *Ground safety analysis report updates.* A launch operator must file ground safety analysis report updates with the FAA as soon as the need for the change is identified and at least 30 days before the associated activity takes place. A launch operator must file a license modification request with the FAA for each change that involves the addition of a hazard that can affect public safety or the elimination of a previously identified hazard control for a hazard that still exists.
 
@@ -318,13 +318,13 @@ Before conducting a licensed launch from a Federal launch range, a launch operat
 
 ### §417.21   Financial responsibility requirements.
 
-A launch operator must comply with financial responsibility requirements as required by part 440 of this chapter and as specified in a license or license order.
+A launch operator must comply with financial responsibility requirements as required by [[Volume 4/C Licensing/0440 Financial responsibility.md|part 440 of this chapter]] and as specified in a license or license order.
 
 ### §417.23   Compliance monitoring.
 
 \(a\) A launch operator must allow access by, and cooperate with, Federal officers or employees or other individuals authorized by the FAA to observe any of its activities, or of its contractors or subcontractors, associated with the conduct of a licensed launch.
 
-\(b\) For each licensed launch, a launch operator must provide the FAA with a console for monitoring the progress of the countdown and communication on all channels of the countdown communications network. A launch operator must also provide the FAA with the capability to communicate with the person designated by §417.103(b)(1).
+\(b\) For each licensed launch, a launch operator must provide the FAA with a console for monitoring the progress of the countdown and communication on all channels of the countdown communications network. A launch operator must also provide the FAA with the capability to communicate with the person designated by [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(1).
 
 ### §417.25   Post launch report.
 
@@ -338,7 +338,7 @@ A launch operator must comply with financial responsibility requirements as requ
 
 \(2\) Identify any deviation from any term of the license or any event otherwise material to public safety, and each corrective action to be implemented before any future flight;
 
-\(3\) For the launch of launch vehicle flown with a flight safety system, identify any flight environment not consistent with the maximum predicted environment as required by D 417.7(b) and any measured wind profiles not consistent with the predictions used for the launch, as required by §417.7(g)(3); and
+\(3\) For the launch of launch vehicle flown with a flight safety system, identify any flight environment not consistent with the maximum predicted environment as required by D 417.7(b) and any measured wind profiles not consistent with the predictions used for the launch, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.7   Public safety responsibility.|§417.7]](g)(3); and
 
 \(4\) For the launch of an unguided suborbital launch vehicle, identify the actual impact location of all impacting stages and any impacting components, and provide a comparison of actual and predicted nominal performance.
 
@@ -382,7 +382,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 [Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=4a24d322e7e2ad451d1f786b051cf52a&mc=true&node=20210309y1.1)
 
-\(a\) *Flight safety system.* For each launch vehicle, vehicle component, and payload, a launch operator must use a flight safety system that satisfies subpart D of this part as follows, unless §417.125 applies.
+\(a\) *Flight safety system.* For each launch vehicle, vehicle component, and payload, a launch operator must use a flight safety system that satisfies subpart D of this part as follows, unless [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]] applies.
 
 \(1\) *In the vicinity of the launch site.* For each launch vehicle, vehicle component, and payload, a launch operator must use a flight safety system in the vicinity of the launch site if the following exist:
 
@@ -402,7 +402,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(4\) A launch operator must establish any aircraft hazard areas necessary to ensure the probability of impact (Pi) with debris capable of causing a casualty for aircraft does not exceed 1 × 10−6.
 
-\(c\) *Debris thresholds.* A launch operator's flight safety analysis, performed as required by paragraph (f) of this section, must account for any inert debris impact with a mean expected kinetic energy at impact greater than or equal to 11 ft-lbs and, except for the far field blast overpressure effects analysis of §417.229, a peak incident overpressure greater than or equal to 1.0 psi due to any explosive debris impact.
+\(c\) *Debris thresholds.* A launch operator's flight safety analysis, performed as required by paragraph (f) of this section, must account for any inert debris impact with a mean expected kinetic energy at impact greater than or equal to 11 ft-lbs and, except for the far field blast overpressure effects analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.229   Far-field overpressure blast effects analysis.|§417.229]], a peak incident overpressure greater than or equal to 1.0 psi due to any explosive debris impact.
 
 \(1\) When using the 11 ft-lbs threshold to determine potential casualties due to blunt trauma from inert debris impacts, the analysis must:
 
@@ -428,9 +428,9 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(B\) During each subsequent orbital maneuver or burn from initial park orbit, or direct ascent to a higher or interplanetary orbit or until clear of all manned or mannable objects, whichever occurs first.
 
-\(2\) A launch operator must obtain a collision avoidance analysis for each launch from United States Strategic Command or from a Federal range having an approved launch site safety assessment. United States Strategic Command calls this analysis a conjunction on launch assessment. Sections 417.231 and A417.31 of appendix A of this part contain the requirements for obtaining a collision avoidance analysis. A launch operator must use the results of the collision avoidance analysis to develop flight commit criteria for collision avoidance as required by §417.113(c).
+\(2\) A launch operator must obtain a collision avoidance analysis for each launch from United States Strategic Command or from a Federal range having an approved launch site safety assessment. United States Strategic Command calls this analysis a conjunction on launch assessment. Sections 417.231 and A417.31 of appendix A of this part contain the requirements for obtaining a collision avoidance analysis. A launch operator must use the results of the collision avoidance analysis to develop flight commit criteria for collision avoidance as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c).
 
-\(f\) *Flight safety analysis.* A launch operator must perform and document a flight safety analysis as required by subpart C of this part. A launch operator must not initiate flight unless the flight safety analysis demonstrates that any risk to the public satisfies the public risk criteria of paragraph (b) of this section. For a licensed launch that involves a Federal launch range, the FAA will treat an analysis performed and documented by the Federal range, and which has an FAA approved launch site safety assessment, as that of the launch operator as provided in §417.203(d) of subpart C of this part. A launch operator must use the flight safety analysis products to develop flight safety rules that govern a launch. Section 417.113 contains the requirements for flight safety rules.
+\(f\) *Flight safety analysis.* A launch operator must perform and document a flight safety analysis as required by subpart C of this part. A launch operator must not initiate flight unless the flight safety analysis demonstrates that any risk to the public satisfies the public risk criteria of paragraph (b) of this section. For a licensed launch that involves a Federal launch range, the FAA will treat an analysis performed and documented by the Federal range, and which has an FAA approved launch site safety assessment, as that of the launch operator as provided in [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](d) of subpart C of this part. A launch operator must use the flight safety analysis products to develop flight safety rules that govern a launch. Section 417.113 contains the requirements for flight safety rules.
 
 \[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Amdt. No. 417-5, 81 FR 59439, Aug. 30, 2016; Docket No. FAA-2014-0418, Amdt. No. 417-4, 81 FR 47026, July 20, 2016\]
 
@@ -440,11 +440,11 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(b\) A launch operator must protect the public from adverse effects of hazardous operations and systems associated with preparing a launch vehicle for flight at a launch site.
 
-\(c\) §§417.111(c), 417.113(b), and 417.115(c), and subpart E of this part provide launch operator ground safety requirements.
+\(c\) §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](c), 417.113(b), and 417.115(c), and subpart E of this part provide launch operator ground safety requirements.
 
 ### §417.111   Launch plans.
 
-\(a\) *General.* A launch operator must implement written launch plans that define how launch processing and flight of a launch vehicle will be conducted without adversely affecting public safety and how to respond to a launch mishap. A launch operator's launch plans must include those required by this section. A launch operator's launch plans do not have to be separate documents, and may be part of other applicant documentation. A launch operator must incorporate each launch safety rule established under §417.113 into a related launch safety plan. The launch operator must follow each launch plan.
+\(a\) *General.* A launch operator must implement written launch plans that define how launch processing and flight of a launch vehicle will be conducted without adversely affecting public safety and how to respond to a launch mishap. A launch operator's launch plans must include those required by this section. A launch operator's launch plans do not have to be separate documents, and may be part of other applicant documentation. A launch operator must incorporate each launch safety rule established under [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]] into a related launch safety plan. The launch operator must follow each launch plan.
 
 \(b\) *Flight Safety Plan.* A launch operator must implement a plan that includes the following:
 
@@ -454,23 +454,23 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(ii\) Perform the flight safety analysis and ensure that the results, including the flight safety rules and establishment of flight hazard areas, are incorporated into the flight safety plan.
 
-\(2\) *Flight safety rules.* All flight safety rules required by §417.113.
+\(2\) *Flight safety rules.* All flight safety rules required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
 \(3\) *Flight safety system.* A description of any flight safety system and its operation, including any preflight safety tests that a launch operator will perform.
 
 \(4\) *Trajectory and debris dispersion data.* A description of the launch trajectory. For an orbital expendable launch vehicle, the description must include each planned orbital parameter, stage burnout time and state vector, and all planned stage impact times, locations, and downrange and crossrange dispersions. For a guided or unguided suborbital launch vehicle, the description must include each planned stage impact time, location, and downrange and crossrange dispersion.
 
-\(5\) *Flight hazard areas.* Identification and location of each flight hazard area established for each launch as required by §417.223, and identification of procedures for surveillance and clearance of these areas and zones as required by paragraph (j) of this section.
+\(5\) *Flight hazard areas.* Identification and location of each flight hazard area established for each launch as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]], and identification of procedures for surveillance and clearance of these areas and zones as required by paragraph (j) of this section.
 
 \(6\) *Support systems and services.* Identification of any support systems and services that are part of ensuring flight safety, including any aircraft or ship that a launch operator will use during flight.
 
-\(7\) *Flight safety operations.* A description of the flight safety related tests, reviews, rehearsals, and other flight safety operations that a launch operator will conduct under §§417.115 through 417.121. A flight safety plan must contain or incorporate by reference written procedures for accomplishing all flight safety operations.
+\(7\) *Flight safety operations.* A description of the flight safety related tests, reviews, rehearsals, and other flight safety operations that a launch operator will conduct under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.115   Tests.|§417.115]] through 417.121. A flight safety plan must contain or incorporate by reference written procedures for accomplishing all flight safety operations.
 
 \(8\) *Unguided suborbital launch vehicles.* A launch operator's flight safety plan for the launch of an unguided suborbital rocket must meet the requirements of paragraph (b) of this section and provide the following data:
 
-\(i\) Launch angle limits, as required by §417.125(c)(3); and
+\(i\) Launch angle limits, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]](c)(3); and
 
-\(ii\) All procedures for measurement of launch day winds and for performing wind weighting as required by §§417.125 and 417.233.
+\(ii\) All procedures for measurement of launch day winds and for performing wind weighting as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]] and 417.233.
 
 \(c\) *Ground safety plan.* A launch operator must implement a ground safety plan that describes implementation of the hazard controls identified by a launch operator's ground safety analysis and implementation of the ground safety requirements of subpart E of this part. A ground safety plan must address all public safety related issues and may include other ground safety issues if a launch operator intends it to have a broader scope. A ground safety plan must include the following:
 
@@ -478,17 +478,17 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(2\) Propellant and explosive information including:
 
-\(i\) Total net explosive weight of each of the launch operator's liquid and solid propellants and other explosives for each explosive hazard facility as defined by part 420 of this chapter.
+\(i\) Total net explosive weight of each of the launch operator's liquid and solid propellants and other explosives for each explosive hazard facility as defined by [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
-\(ii\) For each toxic propellant, any hazard controls and process constraints determined under the launch operator's toxic release hazard analysis for launch processing performed as required by §417.229 and appendix I of this part.
+\(ii\) For each toxic propellant, any hazard controls and process constraints determined under the launch operator's toxic release hazard analysis for launch processing performed as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.229   Far-field overpressure blast effects analysis.|§417.229]] and appendix I of this part.
 
 \(iii\) The explosive and occupancy limits for each explosive hazard facility.
 
-\(iv\) Individual explosive item information, including configuration (such as, solid motor, motor segment, or liquid propellant container), explosive material, net explosive weight, storage hazard classification and compatibility group as defined by part 420 of this chapter.
+\(iv\) Individual explosive item information, including configuration (such as, solid motor, motor segment, or liquid propellant container), explosive material, net explosive weight, storage hazard classification and compatibility group as defined by [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
 \(3\) A graphic depiction of the layout of a launch operator's launch complex and other launch processing facilities at the launch site. The depiction must show separation distances and any intervening barriers between explosive items that affect the total net explosive weight that each facility is sited to accommodate. A launch operator must identify any proposed facility modifications or operational changes that may affect a launch site operator's explosive site plan.
 
-\(4\) A description of the process for ensuring that the person designated under §417.103(b)(2) reviews and approves any procedures and procedure changes for safety implications.
+\(4\) A description of the process for ensuring that the person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2) reviews and approves any procedures and procedure changes for safety implications.
 
 \(5\) Procedures that launch personnel will follow when reporting a hazard or mishap to a launch operator's safety organization.
 
@@ -496,7 +496,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(7\) A flow chart of launch processing activities, including a list of all major tasks. The flow chart must include all hazardous tasks and identify where and when, with respect to liftoff, each hazardous task will take place.
 
-\(8\) Identification of each safety clear zone and hazard area established as required by §§417.411 and 417.413, respectively.
+\(8\) Identification of each safety clear zone and hazard area established as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.411   Safety clear zones for hazardous operations.|§417.411]] and 417.413, respectively.
 
 \(9\) A summary of the means for announcing when any hazardous operation is taking place, the means for making emergency announcements and alarms, and identification of the recipients of each type of announcement.
 
@@ -504,13 +504,13 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(11\) A description of the process for ensuring that all safety precautions and verifications are in place before, during, and after hazardous operations. This includes the process for verification that an area can be returned to a non-hazardous work status.
 
-\(12\) Description of each hazard control required by the ground safety analysis for each task that creates a public or launch location hazard. The hazard control must satisfy §417.407(b).
+\(12\) Description of each hazard control required by the ground safety analysis for each task that creates a public or launch location hazard. The hazard control must satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.407   Hazard control implementation.|§417.407]](b).
 
 \(13\) A procedure for the use of any safety equipment that protects the public, for each task that creates a public hazard or a launch location hazard.
 
 \(14\) The requirement and procedure for coordinating with any launch site operator and local authorities, for each task creating a public or launch location hazard.
 
-\(15\) Generic emergency procedures that apply to all emergencies and the emergency procedures that apply to each specific task that may create a public hazard, including any task that involves hazardous material, as required by §417.407.
+\(15\) Generic emergency procedures that apply to all emergencies and the emergency procedures that apply to each specific task that may create a public hazard, including any task that involves hazardous material, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.407   Hazard control implementation.|§417.407]].
 
 \(16\) A listing of the ground safety plan references, by title and date, such as the ground safety analysis report, explosive quantity-distance site plan and other ground safety related documentation.
 
@@ -518,7 +518,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(1\) List and describe support equipment and instrumentation;
 
-\(2\) Identify all certified personnel, by position, as required by §417.105, who operate and maintain the support equipment and instrumentation;
+\(2\) Identify all certified personnel, by position, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]], who operate and maintain the support equipment and instrumentation;
 
 \(3\) Contain, or incorporate by reference, written procedures for support equipment and instrumentation operation, test, and maintenance that will be implemented for each launch;
 
@@ -544,7 +544,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(g\) *Flight termination system electronic piece parts program plan.* A launch operator must implement a plan that describes the launch operator's program for selecting and testing all electronic piece parts used in any flight termination system to ensure their reliability. This plan must—
 
-\(1\) Demonstrate compliance with the requirements of §417.309(b)(2);
+\(1\) Demonstrate compliance with the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b)(2);
 
 \(2\) Describe the program for selecting piece parts for use in a flight termination system;
 
@@ -558,15 +558,15 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(7\) Contain, or incorporate by reference, test procedures for each piece part.
 
-\(h\) *Accident investigation plan (AIP).* A launch operator must implement a plan containing the launch operator's procedures for reporting and responding to launch accidents, launch incidents, or other mishaps, as defined by §401.5 of this chapter. An individual, authorized to sign and certify the application as required by §413.7(c) of this chapter, and the person designated under §417.103(b)(2) must sign the AIP.
+\(h\) *Accident investigation plan (AIP).* A launch operator must implement a plan containing the launch operator's procedures for reporting and responding to launch accidents, launch incidents, or other mishaps, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter. An individual, authorized to sign and certify the application as required by [[Volume 4/C Licensing/0413 License application procedures.md#§413.7   Application.|§413.7]](c) of this chapter, and the person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2) must sign the AIP.
 
 \(1\) *Reporting requirements.* An AIP must provide for—
 
 \(i\) Immediate notification to the Federal Aviation Administration (FAA) Washington Operations Center in case of a launch accident, a launch incident or a mishap that involves a fatality or serious injury (as defined by 49 CFR 830.2).
 
-\(ii\) Notification within 24 hours to the Associate Administrator for Commercial Space Transportation or the Federal Aviation Administration (FAA) Washington Operations Center in the event of a mishap, other than those in §415.41 (b) (1) of this chapter, that does not involve a fatality or serious injury (as defined in 49 CFR 830.2).
+\(ii\) Notification within 24 hours to the Associate Administrator for Commercial Space Transportation or the Federal Aviation Administration (FAA) Washington Operations Center in the event of a mishap, other than those in [[Volume 4/C Licensing/0415 Launch license.md#§415.41   Accident investigation plan.|§415.41]] (b) (1) of this chapter, that does not involve a fatality or serious injury (as defined in 49 CFR 830.2).
 
-\(iii\) Submission of a written preliminary report to the FAA, Associate Administrator for Commercial Space Transportation, in the event of a launch accident or launch incident, as defined by §401.5 of this chapter, within five days of the event. The report must identify the event as either a launch accident or launch incident, and must include the following information:
+\(iii\) Submission of a written preliminary report to the FAA, Associate Administrator for Commercial Space Transportation, in the event of a launch accident or launch incident, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, within five days of the event. The report must identify the event as either a launch accident or launch incident, and must include the following information:
 
 \(A\) Date and time of occurrence;
 
@@ -584,7 +584,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(H\) Property damage, if any, and an estimate of its value;
 
-\(I\) Identification of hazardous materials, as defined by §401.5 of this chapter, involved in the event, whether on the launch vehicle, payload, or on the ground;
+\(I\) Identification of hazardous materials, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, involved in the event, whether on the launch vehicle, payload, or on the ground;
 
 \(J\) Action taken by any person to contain the consequences of the event; and
 
@@ -608,9 +608,9 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(5\) *Preventive measure.* An AIP must contain procedures that require the licensee to identify and adopt preventive measures for avoiding recurrence of the event.
 
-\(i\) *Local agreements and public coordination plans.* (1) Where there is a licensed launch site operator, a launch operator must implement and satisfy the launch site operator's local agreements and plans with local authorities at or near a launch site whose support is needed to ensure public safety during all launch processing and flight, as required by part 420 of this chapter.
+\(i\) *Local agreements and public coordination plans.* (1) Where there is a licensed launch site operator, a launch operator must implement and satisfy the launch site operator's local agreements and plans with local authorities at or near a launch site whose support is needed to ensure public safety during all launch processing and flight, as required by [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
-\(2\) For a launch from an exclusive-use site, where there is no licensed launch site operator, a launch operator must develop and implement any agreements and plans with local authorities at or near the launch site whose support is needed to ensure public safety during all launch processing and flight, as required by part 420 of this chapter.
+\(2\) For a launch from an exclusive-use site, where there is no licensed launch site operator, a launch operator must develop and implement any agreements and plans with local authorities at or near the launch site whose support is needed to ensure public safety during all launch processing and flight, as required by [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
 \(3\) A launch operator must implement a schedule and procedures for the release of launch information before flight, after flight, and in the event of an mishap.
 
@@ -620,9 +620,9 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(i\) Inform local authorities of each designated hazard areas near the launch site associated with a launch vehicle's planned trajectory and any planned impacts of launch vehicle components and debris as defined by the flight safety analysis required by subpart C of this part;
 
-\(ii\) Provide any hazard area information prepared as required by §417.225 or §417.235 to the local United States Coast Guard or equivalent local authority for issuance of the notices to mariners;
+\(ii\) Provide any hazard area information prepared as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.225   Debris risk analysis.|§417.225]] or §417.235 to the local United States Coast Guard or equivalent local authority for issuance of the notices to mariners;
 
-\(iii\) Provide hazard area information prepared as required by §417.223 or §417.233 for each aircraft hazard area within a flight corridor to the FAA Air Traffic Control (ATC) office or equivalent local authority having jurisdiction over the airspace through which the launch will take place for the issuance of notices to airmen;
+\(iii\) Provide hazard area information prepared as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]] or [[Volume 4/C Licensing/0417 Launch safety.md#§417.233   Analysis for an unguided suborbital launch vehicle flown with a wind weighting safety system.|§417.233]] for each aircraft hazard area within a flight corridor to the FAA Air Traffic Control (ATC) office or equivalent local authority having jurisdiction over the airspace through which the launch will take place for the issuance of notices to airmen;
 
 \(iv\) Communicate with the local Coast Guard and the FAA ATC office or equivalent local authorities, either directly or through any launch site operator, to ensure that notices to airmen and mariners are issued and in effect at the time of flight; and
 
@@ -630,9 +630,9 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(j\) *Hazard area surveillance and clearance plan.* A launch operator must implement a plan that defines the process for ensuring that any unauthorized persons, ships, trains, aircraft or other vehicles are not within any hazard areas identified by the flight safety analysis or the ground safety analysis. In the plan, the launch operator must—
 
-\(1\) List each hazard area that requires surveillance under §§417.107 and 417.223;
+\(1\) List each hazard area that requires surveillance under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] and 417.223;
 
-\(2\) Describe how the launch operator will provide for day-of-flight surveillance of the flight hazard area to ensure that the presence of any member of the public in or near a flight hazard area is consistent with flight commit criteria developed for each launch as required by §417.113;
+\(2\) Describe how the launch operator will provide for day-of-flight surveillance of the flight hazard area to ensure that the presence of any member of the public in or near a flight hazard area is consistent with flight commit criteria developed for each launch as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]];
 
 \(3\) Verify the accuracy of any radar or other equipment used for hazard area surveillance and account for any inaccuracies in the surveillance system when enforcing the flight commit criteria;
 
@@ -668,7 +668,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(ii\) Time of each event;
 
-\(iii\) Identification of personnel, by position, who perform each operation or specific action, including reporting to the person designated under §417.103(b)(3);
+\(iii\) Identification of personnel, by position, who perform each operation or specific action, including reporting to the person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(3);
 
 \(iv\) Identification of each communication channel that a launch operator uses for reporting each event;
 
@@ -708,7 +708,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(i\) Surveillance of any region of land, sea, or air necessary to ensure the number and location of members of the public are consistent with the inputs used for the flight safety analysis of subpart C of this part;
 
-\(ii\) Monitoring of any meteorological condition and implementing any flight constraint developed using appendix G of this part. The launch operator must have clear and convincing evidence that the lightning flight commit criteria of appendix G, which apply to the conditions present at the time of lift-off, are not violated. If any other hazardous conditions exist, other than those identified by appendix G, the launch weather team will report the hazardous condition to the official designated under §417.103(b)(1), who will determine whether initiating flight would expose the launch vehicle to a lightning hazard and not initiate flight in the presence of the hazard; and
+\(ii\) Monitoring of any meteorological condition and implementing any flight constraint developed using appendix G of this part. The launch operator must have clear and convincing evidence that the lightning flight commit criteria of appendix G, which apply to the conditions present at the time of lift-off, are not violated. If any other hazardous conditions exist, other than those identified by appendix G, the launch weather team will report the hazardous condition to the official designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(1), who will determine whether initiating flight would expose the launch vehicle to a lightning hazard and not initiate flight in the presence of the hazard; and
 
 \(iii\) Implementation of any launch wait in the launch window for the purpose of collision avoidance.
 
@@ -716,7 +716,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(i\) The flight safety system is operating to ensure the launch vehicle will launch within all flight safety limits;
 
-\(ii\) Any command transmitter system required by section D417.9 has sufficient coverage from lift-off to the point in flight where the flight safety system is no longer required by §417.107(a);
+\(ii\) Any command transmitter system required by section D417.9 has sufficient coverage from lift-off to the point in flight where the flight safety system is no longer required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a);
 
 \(iii\) The launch vehicle tracking system has no less than two tracking sources prior to lift-off. The launch vehicle tracking system has no less than one verified tracking source at all times from lift-off to orbit insertion for an orbital launch, to the end of powered flight for a suborbital launch; and
 
@@ -726,9 +726,9 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(d\) *Flight termination rules.* For a launch that uses a flight safety system, the launch safety rules must identify the conditions under which the flight safety system, including the functions of the flight safety system crew, must terminate flight to ensure public safety. These flight termination rules must implement the flight safety analysis of subpart C of this part and include each of the following:
 
-\(1\) The flight safety system must terminate flight when valid, real-time data indicate the launch vehicle has violated any flight safety limit of §417.213;
+\(1\) The flight safety system must terminate flight when valid, real-time data indicate the launch vehicle has violated any flight safety limit of [[Volume 4/C Licensing/0417 Launch safety.md#§417.213   Flight safety limits analysis.|§417.213]];
 
-\(2\) The flight safety system must terminate flight at the straight-up-time required by §417.215 if the launch vehicle continues to fly a straight up trajectory and, therefore, does not turn downrange when it should;
+\(2\) The flight safety system must terminate flight at the straight-up-time required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.215   Straight-up time analysis.|§417.215]] if the launch vehicle continues to fly a straight up trajectory and, therefore, does not turn downrange when it should;
 
 \(3\) The flight safety system must terminate flight when all of the following conditions exist:
 
@@ -736,19 +736,19 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(ii\) The potential exists for the loss of flight safety system control of the launch vehicle and further flight has the potential to endanger the public.
 
-\(4\) The flight termination rules must incorporate the data-loss flight times and planned safe flight state of §417.219, including each of the following:
+\(4\) The flight termination rules must incorporate the data-loss flight times and planned safe flight state of [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]], including each of the following:
 
 \(i\) The flight safety system must terminate flight no later than the first data-loss flight time if, by that time, tracking of the launch vehicle is not established and vehicle position and status is unknown; and
 
 \(ii\) Once launch vehicle tracking is established and there is a subsequent loss of verified tracking data before the planned safe flight state and verified tracking data is not received again, the flight safety system must terminate flight no later than the expiration of the data-loss flight time for the point in flight that the data was lost.
 
-\(5\) For any gate established under §417.217, both of the following apply:
+\(5\) For any gate established under [[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]], both of the following apply:
 
 \(i\) The flight safety system must terminate flight if the launch vehicle is performing erratically immediately prior to entering the gate.
 
 \(ii\) The flight termination rules may permit the instantaneous impact point or other tracking icon to cross the gate only if there is no indication that the launch vehicle's performance has become erratic and the launch vehicle is either flying parallel to the nominal trajectory or converging to the nominal trajectory.
 
-\(6\) For any hold-and-resume gate established under §417.218;
+\(6\) For any hold-and-resume gate established under [[Volume 4/C Licensing/0417 Launch safety.md#§417.218   Hold-and-resume gate analysis.|§417.218]];
 
 \(i\) The flight safety system must terminate flight if the launch vehicle is performing erratically immediately prior to entering a hold gate.
 
@@ -756,7 +756,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(iii\) The flight termination rules of paragraphs (d)(1), (d)(3), and (d)(4) of this section apply after the instantaneous impact point or other tracking icon exits a resume gate.
 
-\(e\) *Flight safety system safing.* For a launch that uses a flight safety system, the launch safety rules must ensure that any safing of the flight safety system occurs on or after the point in flight where the flight safety system is no longer required by §417.107(b).
+\(e\) *Flight safety system safing.* For a launch that uses a flight safety system, the launch safety rules must ensure that any safing of the flight safety system occurs on or after the point in flight where the flight safety system is no longer required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(f\) *Launch crew work shift and rest rules.* For any operation with the potential to have an adverse effect on public safety, the launch safety rules must ensure the launch crew is physically and mentally capable of performing all assigned tasks. These rules must govern the length, number, and frequency of work shifts, including the rest afforded the launch crew between shifts.
 
@@ -770,7 +770,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(b\) *Flight safety system testing.* A launch operator must only use a flight safety system and all flight safety system components, including any onboard launch vehicle flight termination system, command control system, and support system that satisfy the test requirements of subpart D of this part.
 
-\(c\) *Ground system testing.* A launch operator must only use a system or equipment used to support hazardous ground operations identified by the ground safety analysis required by §417.405 that satisfies the test requirements of paragraph (a) of this section.
+\(c\) *Ground system testing.* A launch operator must only use a system or equipment used to support hazardous ground operations identified by the ground safety analysis required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.405   Ground safety analysis.|§417.405]] that satisfies the test requirements of paragraph (a) of this section.
 
 ### §417.117   Reviews.
 
@@ -792,7 +792,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(i\) A launch operator must verify that all safety requirements have been or will be satisfied before flight. The launch operator must resolve all safety related action items.
 
-\(ii\) A launch operator must assign and certify flight safety personnel as required by §417.105.
+\(ii\) A launch operator must assign and certify flight safety personnel as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]].
 
 \(iii\) The flight safety rules and flight safety plan must incorporate a final flight safety analysis as required by subpart C of this part.
 
@@ -802,7 +802,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(vi\) A launch operator must verify the filing of all safety related information for a specific launch with the FAA, as required by FAA regulations and any special terms of a license. A launch operator must verify that information filed with the FAA reflects the current status of safety-related systems and processes for each specific launch.
 
-\(3\) *Launch readiness review for flight.* A launch operator must conduct a launch readiness review for flight as required by this section within 48 hours of flight. A person, identified as required by §417.103(b)(1), must review all preflight testing and launch processing conducted up to the time of the review; and review the status of systems and support personnel to determine readiness to proceed with launch processing and the launch countdown. A decision to proceed must be in writing and signed by the person identified as required by §417.103(b)(1), and any launch site operator or Federal launch range. A launch operator, during the launch readiness review, must poll the FAA to verify that the FAA has identified no issues related to the launch operator's license. During a launch readiness review, the launch operator must account for the following information:
+\(3\) *Launch readiness review for flight.* A launch operator must conduct a launch readiness review for flight as required by this section within 48 hours of flight. A person, identified as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(1), must review all preflight testing and launch processing conducted up to the time of the review; and review the status of systems and support personnel to determine readiness to proceed with launch processing and the launch countdown. A decision to proceed must be in writing and signed by the person identified as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(1), and any launch site operator or Federal launch range. A launch operator, during the launch readiness review, must poll the FAA to verify that the FAA has identified no issues related to the launch operator's license. During a launch readiness review, the launch operator must account for the following information:
 
 \(i\) Readiness of launch vehicle and payload.
 
@@ -818,7 +818,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(vii\) Readiness of abort, hold and recycle procedures.
 
-\(viii\) Results of rehearsals conducted as required by §417.119.
+\(viii\) Results of rehearsals conducted as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.119   Rehearsals.|§417.119]].
 
 \(ix\) Unresolved safety issues as of the time of the launch readiness review and plans for their resolution.
 
@@ -842,11 +842,11 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(6\) A launch operator may conduct rehearsals at the same time if joint rehearsals do not create hazardous conditions, such as changing a hardware configuration that affects public safety, during the rehearsal.
 
-\(b\) *Countdown rehearsal.* A launch operator must conduct a rehearsal using the countdown plan, procedures, and checklist required by §417.111(l). A countdown rehearsal must familiarize launch personnel with all countdown activities, demonstrate that the planned sequence of events is correct, and demonstrate that there is adequate time allotted for each event. A launch operator must hold a countdown rehearsal after the assembly of the launch vehicle and any launch support systems into their final configuration for flight and before the launch readiness review required by §417.117.
+\(b\) *Countdown rehearsal.* A launch operator must conduct a rehearsal using the countdown plan, procedures, and checklist required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](l). A countdown rehearsal must familiarize launch personnel with all countdown activities, demonstrate that the planned sequence of events is correct, and demonstrate that there is adequate time allotted for each event. A launch operator must hold a countdown rehearsal after the assembly of the launch vehicle and any launch support systems into their final configuration for flight and before the launch readiness review required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.117   Reviews.|§417.117]].
 
-\(c\) *Emergency response rehearsal.* A launch operator must conduct a rehearsal of the emergency response section of the accident investigation plan required by §417.111(h)(2). A launch operator must conduct an emergency response rehearsal for a first launch of a new vehicle, for any additional launch that involves a new safety hazard, or for any launch where more than a year has passed since the last rehearsal.
+\(c\) *Emergency response rehearsal.* A launch operator must conduct a rehearsal of the emergency response section of the accident investigation plan required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](h)(2). A launch operator must conduct an emergency response rehearsal for a first launch of a new vehicle, for any additional launch that involves a new safety hazard, or for any launch where more than a year has passed since the last rehearsal.
 
-\(d\) *Communications rehearsal.* A launch operator must rehearse each part of the communications plan required by §417.111(k), either as part of another rehearsal or during a communications rehearsal.
+\(d\) *Communications rehearsal.* A launch operator must rehearse each part of the communications plan required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](k), either as part of another rehearsal or during a communications rehearsal.
 
 ### §417.121   Safety critical preflight operations.
 
@@ -854,23 +854,23 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 [Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=4a24d322e7e2ad451d1f786b051cf52a&mc=true&node=20210309y1.1)
 
-\(a\) *General.* A launch operator must perform safety critical preflight operations that protect the public from the adverse effects of hazards associated with launch processing and flight of a launch vehicle. The launch operator must identify all safety critical preflight operations in the launch schedule required by §417.17(b)(1). Safety critical preflight operations must include those defined in this section.
+\(a\) *General.* A launch operator must perform safety critical preflight operations that protect the public from the adverse effects of hazards associated with launch processing and flight of a launch vehicle. The launch operator must identify all safety critical preflight operations in the launch schedule required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.17   Launch reporting requirements and launch specific updates.|§417.17]](b)(1). Safety critical preflight operations must include those defined in this section.
 
-\(b\) *Countdown.* A launch operator must implement its countdown plan, of §417.111(l), for each launch. A launch operator must disseminate a countdown plan to all personnel responsible for the countdown and flight of a launch vehicle, and each person must follow that plan.
+\(b\) *Countdown.* A launch operator must implement its countdown plan, of [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](l), for each launch. A launch operator must disseminate a countdown plan to all personnel responsible for the countdown and flight of a launch vehicle, and each person must follow that plan.
 
-\(c\) *Collision avoidance.* A launch operator must coordinate with United States Strategic Command to obtain a collision avoidance analysis, also referred to as a conjunction on launch assessment, as required by §417.231. A launch operator must implement flight commit criteria as required by §417.113(c) to ensure that each launch meets all the criteria of §417.107(e).
+\(c\) *Collision avoidance.* A launch operator must coordinate with United States Strategic Command to obtain a collision avoidance analysis, also referred to as a conjunction on launch assessment, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.231   Collision avoidance analysis.|§417.231]]. A launch operator must implement flight commit criteria as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c) to ensure that each launch meets all the criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](e).
 
-\(d\) *Meteorological data.* A launch operator must conduct operations and coordinate with weather organizations, as needed, to obtain accurate meteorological data to support the flight safety analysis required by subpart C of this part and to ensure compliance with the flight commit criteria required by §417.113.
+\(d\) *Meteorological data.* A launch operator must conduct operations and coordinate with weather organizations, as needed, to obtain accurate meteorological data to support the flight safety analysis required by subpart C of this part and to ensure compliance with the flight commit criteria required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
-\(e\) *Local notification.* A launch operator must implement its local agreements and public coordination plan of §417.111(i).
+\(e\) *Local notification.* A launch operator must implement its local agreements and public coordination plan of [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](i).
 
-\(f\) *Hazard area surveillance.* A launch operator must implement its hazard area surveillance and clearance plan, of §417.111(j), to meet the public safety criteria of §417.107(b) for each launch.
+\(f\) *Hazard area surveillance.* A launch operator must implement its hazard area surveillance and clearance plan, of [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](j), to meet the public safety criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b) for each launch.
 
 \(g\) *Flight safety system preflight tests.* A launch operator must conduct preflight tests of any flight safety system as required by section E417.41 of appendix E of this part.
 
-\(h\) *Launch vehicle tracking data verification.* For each launch, a launch operator must implement written procedures for verifying the accuracy of any launch vehicle tracking data provided. For a launch vehicle flown with a flight safety system, any source of tracking data must satisfy the requirements of §417.307(b).
+\(h\) *Launch vehicle tracking data verification.* For each launch, a launch operator must implement written procedures for verifying the accuracy of any launch vehicle tracking data provided. For a launch vehicle flown with a flight safety system, any source of tracking data must satisfy the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]](b).
 
-\(i\) *Unguided suborbital rocket preflight operations.* For the launch of an unguided suborbital rocket, in addition to meeting the other requirements of this section, a launch operator must perform the preflight wind weighting and other preflight safety operations required by §§417.125, 417.233, and appendix C of this part.
+\(i\) *Unguided suborbital rocket preflight operations.* For the launch of an unguided suborbital rocket, in addition to meeting the other requirements of this section, a launch operator must perform the preflight wind weighting and other preflight safety operations required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]], 417.233, and appendix C of this part.
 
 \[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Amdt. No. 417-5, 81 FR 59439, Aug. 30, 2016\]
 
@@ -918,7 +918,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(a\) *Applicability.* This section applies only to a launch operator conducting a launch of an unguided suborbital launch vehicle.
 
-\(b\) *Need for flight safety system.* A launch operator must launch an unguided suborbital launch vehicle with a flight safety system in accordance with §417.107 (a) and subpart D of this part unless one of the following exceptions applies:
+\(b\) *Need for flight safety system.* A launch operator must launch an unguided suborbital launch vehicle with a flight safety system in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] (a) and subpart D of this part unless one of the following exceptions applies:
 
 \(1\) The unguided suborbital launch vehicle, including any component or payload, does not have sufficient energy to reach any populated area in any direction from the launch point; or
 
@@ -928,7 +928,7 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(1\) The unguided suborbital launch vehicle must not contain a guidance or directional control system.
 
-\(2\) The launcher azimuth and elevation settings must be wind weighted to correct for the effects of wind conditions at the time of flight to provide a safe impact location. A launch operator must conduct the launch in accordance with the wind weighting analysis requirements and methods of §417.233 and appendix C of this part.
+\(2\) The launcher azimuth and elevation settings must be wind weighted to correct for the effects of wind conditions at the time of flight to provide a safe impact location. A launch operator must conduct the launch in accordance with the wind weighting analysis requirements and methods of [[Volume 4/C Licensing/0417 Launch safety.md#§417.233   Analysis for an unguided suborbital launch vehicle flown with a wind weighting safety system.|§417.233]] and appendix C of this part.
 
 \(3\) A launch operator must use a launcher elevation angle setting that ensures the rocket will not fly uprange. A launch operator must set the launcher elevation angle in accordance with the following:
 
@@ -936,23 +936,23 @@ This subpart contains public safety requirements that apply to the launch of an 
 
 \(ii\) For an unproven unguided suborbital launch vehicle, the nominal launcher elevation angle must not exceed 80°. The wind corrected launcher elevation setting must not exceed 84°. A proven unguided suborbital launch vehicle is one that has demonstrated, by two or more launches, that flight performance errors are within all the three-sigma dispersion parameters modeled in the wind weighting safety system.
 
-\(d\) *Public risk criteria.* A launch operator must conduct the launch of an unguided suborbital launch vehicle in accordance with the public risk criteria of §417.107(b). The risk to the public determined prior to the day of flight must satisfy the public risk criteria for the area defined by the range of nominal launch azimuths. A launch operator must not initiate flight until a launch operator has verified that the wind drifted impacts of all planned impacts and their five-sigma dispersion areas satisfy the public risk criteria after wind weighting on the day of flight.
+\(d\) *Public risk criteria.* A launch operator must conduct the launch of an unguided suborbital launch vehicle in accordance with the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). The risk to the public determined prior to the day of flight must satisfy the public risk criteria for the area defined by the range of nominal launch azimuths. A launch operator must not initiate flight until a launch operator has verified that the wind drifted impacts of all planned impacts and their five-sigma dispersion areas satisfy the public risk criteria after wind weighting on the day of flight.
 
 \(e\) *Stability.* An unguided suborbital launch vehicle, in all configurations, must be stable in flexible body to 1.5 calibers and rigid body to 2.0 calibers throughout each stage of powered flight. A caliber, for a rocket configuration, is defined as the distance between the center of pressure and the center of gravity divided by the largest frontal diameter of the rocket configuration.
 
 \(f\) *Tracking.* A launch operator must track the flight of an unguided suborbital launch vehicle. The tracking system must provide data to determine the actual impact locations of all stages and components, to verify the effectiveness of a launch operator's wind weighting safety system, and to obtain rocket performance data for comparison with the preflight performance predictions.
 
-\(g\) *Post-launch review.* A launch operator must ensure that the post-launch report required by §417.25 includes:
+\(g\) *Post-launch review.* A launch operator must ensure that the post-launch report required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.25   Post launch report.|§417.25]] includes:
 
 \(1\) Actual impact location of all impacting stages and each impacting component.
 
 \(2\) A comparison of actual and predicted nominal performance.
 
-\(3\) Investigation results of any launch anomaly. If flight performance deviates by more than a three-sigma dispersion from the nominal trajectory, a launch operator must conduct an investigation to determine the cause of the rocket's deviation from normal flight and take corrective action before the next launch. A launch operator must file any corrective actions with the FAA as a request for license modification before the next launch in accordance with §417.11.
+\(3\) Investigation results of any launch anomaly. If flight performance deviates by more than a three-sigma dispersion from the nominal trajectory, a launch operator must conduct an investigation to determine the cause of the rocket's deviation from normal flight and take corrective action before the next launch. A launch operator must file any corrective actions with the FAA as a request for license modification before the next launch in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.11   Continuing accuracy of license application; application for modification of license.|§417.11]].
 
 ### §417.127   Unique safety policies, requirements and practices.
 
-For each launch, a launch operator must review operations, system designs, analysis, and testing, and identify any unique hazards not otherwise addressed by this part. A launch operator must implement any unique safety policy, requirement, or practice needed to protect the public from the unique hazard. A launch operator must demonstrate through the licensing process that any unique safety policy, requirement, or practice ensures the safety of the public. For any change to a unique safety policy, requirement, or practice, with the exception of a launch specific update, the launch operator must file a request for license modification as required by §417.11. The FAA may identify and impose a unique safety policy, requirement, or practice as needed to protect the public.
+For each launch, a launch operator must review operations, system designs, analysis, and testing, and identify any unique hazards not otherwise addressed by this part. A launch operator must implement any unique safety policy, requirement, or practice needed to protect the public from the unique hazard. A launch operator must demonstrate through the licensing process that any unique safety policy, requirement, or practice ensures the safety of the public. For any change to a unique safety policy, requirement, or practice, with the exception of a launch specific update, the launch operator must file a request for license modification as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.11   Continuing accuracy of license application; application for modification of license.|§417.11]]. The FAA may identify and impose a unique safety policy, requirement, or practice as needed to protect the public.
 
 ### §417.129   Safety at end of launch.
 
@@ -970,13 +970,13 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 ### §417.201   Scope and applicability.
 
-\(a\) This subpart contains requirements for performing the flight safety analysis required by §417.107(f).
+\(a\) This subpart contains requirements for performing the flight safety analysis required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](f).
 
-\(b\) The flight safety analysis requirements of this subpart apply to the flight of any launch vehicle that must use a flight safety system as required by §417.107(a), except as permitted by paragraph (d) of this section.
+\(b\) The flight safety analysis requirements of this subpart apply to the flight of any launch vehicle that must use a flight safety system as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a), except as permitted by paragraph (d) of this section.
 
-\(c\) The flight safety analysis requirements of §§417.203, 417.205, 417.207, 417.211, 417.223, 417.224, 417.225, 417.227, 417.229, 417.231, and 417.233 apply to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. Appendices B, C, and I of this part also apply.
+\(c\) The flight safety analysis requirements of §[[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]], 417.205, 417.207, 417.211, 417.223, 417.224, 417.225, 417.227, 417.229, 417.231, and 417.233 apply to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. Appendices B, C, and I of this part also apply.
 
-\(d\) For any alternative flight safety system approved by the FAA under §417.301(b), the FAA will determine during the licensing process which of the analyses required by this subpart apply.
+\(d\) For any alternative flight safety system approved by the FAA under [[Volume 4/C Licensing/0417 Launch safety.md#§417.301   General.|§417.301]](b), the FAA will determine during the licensing process which of the analyses required by this subpart apply.
 
 ### §417.203   Compliance.
 
@@ -992,7 +992,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(2\) Appendix A of this part contains requirements that apply to all methods of flight safety analysis. A licensee must notify the FAA for any change to the flight safety analysis method. A licensee must file any material change with the FAA as a request for license modification before the launch to which the proposed change would apply. Section 417.11 contains requirements governing a license modification.
 
-\(c\) *Alternate analysis method.* The FAA will approve an alternate flight safety analysis method if a launch operator demonstrates, in accordance with §406.3(b), that its proposed analysis method provides an equivalent level of fidelity to that required by this subpart. A launch operator must demonstrate that an alternate flight safety analysis method is based on accurate data and scientific principles and is statistically valid. The FAA will not find a launch operator's application for a license or license modification sufficiently complete to begin review under §413.11 of this chapter until the FAA approves the alternate flight safety analysis method.
+\(c\) *Alternate analysis method.* The FAA will approve an alternate flight safety analysis method if a launch operator demonstrates, in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), that its proposed analysis method provides an equivalent level of fidelity to that required by this subpart. A launch operator must demonstrate that an alternate flight safety analysis method is based on accurate data and scientific principles and is statistically valid. The FAA will not find a launch operator's application for a license or license modification sufficiently complete to begin review under [[Volume 4/C Licensing/0413 License application procedures.md#§413.11   Acceptance of an application.|§413.11]] of this chapter until the FAA approves the alternate flight safety analysis method.
 
 \(d\) *Analyses performed by a Federal launch range.* This provision applies to all sections of this subpart. The FAA will accept a flight safety analysis used by a Federal launch range without need for further demonstration of compliance to the FAA, if:
 
@@ -1006,7 +1006,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(a\) *Public risk management.* A flight safety analysis must demonstrate that a launch operator will, for each launch, control the risk to the public from hazards associated with normal and malfunctioning launch vehicle flight. The analysis must employ risk assessment, hazard isolation, or a combination of risk assessment and partial isolation of the hazards, to demonstrate control of the risk to the public.
 
-\(1\) *Risk assessment.* When demonstrating control of risk through risk assessment, the analysis must demonstrate that any risk to the public satisfies the public risk criteria of §417.107(b). The analysis must account for the variability associated with:
+\(1\) *Risk assessment.* When demonstrating control of risk through risk assessment, the analysis must demonstrate that any risk to the public satisfies the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). The analysis must account for the variability associated with:
 
 \(i\) Each source of a hazard during flight;
 
@@ -1020,7 +1020,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(2\) *Hazard isolation.* When demonstrating control of risk through hazard isolation, the analysis must establish the geographical areas from which the public must be excluded during flight and any operational controls needed to isolate all hazards from the public.
 
-\(3\) *Combination of risk assessment and partial isolation of hazards.* When demonstrating control of risk through a combination of risk assessment and partial isolation of the hazards from the public, the analysis must demonstrate that the residual public risk due to any hazard not isolated from the public under paragraph (a)(2) of this section satisfies the public risk criteria of §417.107(b).
+\(3\) *Combination of risk assessment and partial isolation of hazards.* When demonstrating control of risk through a combination of risk assessment and partial isolation of the hazards from the public, the analysis must demonstrate that the residual public risk due to any hazard not isolated from the public under paragraph (a)(2) of this section satisfies the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(b\) *Dependent analyses.* Because some analyses required by this subpart are inherently dependent on one another, the data output of any one analysis must be compatible in form and content with the data input requirements of any other analysis that depends on that output. Figure 417.205-1 illustrates the flight safety analyses that might be performed for a launch flown with a flight safety system and the typical dependencies that might exist among the analyses.
 
@@ -1100,11 +1100,11 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 ### §417.213   Flight safety limits analysis.
 
-\(a\) *General.* A flight safety analysis must identify the location of populated or other protected areas, and establish flight safety limits that define when a flight safety system must terminate a launch vehicle's flight to prevent the hazardous effects of the resulting debris impacts from reaching any populated or other protected area and ensure that the launch satisfies the public risk criteria of §417.107(b).
+\(a\) *General.* A flight safety analysis must identify the location of populated or other protected areas, and establish flight safety limits that define when a flight safety system must terminate a launch vehicle's flight to prevent the hazardous effects of the resulting debris impacts from reaching any populated or other protected area and ensure that the launch satisfies the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(b\) *Flight safety limits.* The analysis must establish flight safety limits for use in establishing flight termination rules. Section 417.113(c) contains requirements for flight termination rules. The flight safety limits must account for all temporal and geometric extents on the Earth's surface of a launch vehicle's hazardous debris impact dispersion resulting from any planned or unplanned event for all times during flight. Flight safety limits must account for all potential contributions to the debris impact dispersions, including at a minimum:
 
-\(1\) All time delays, as established by the time delay analysis of §417.221;
+\(1\) All time delays, as established by the time delay analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]];
 
 \(2\) Residual thrust remaining after flight termination implementation or vehicle breakup due to aerodynamic and inertial loads;
 
@@ -1120,7 +1120,7 @@ A launch operator must ensure for any proposed launch that for all launch vehicl
 
 \(8\) Any uncertainty due to map errors and launch vehicle tracking errors.
 
-\(c\) *Gates.* If a launch involves flight over any populated or other protected area, the flight safety analysis must establish a gate as required by §§417.217 and 417.218.
+\(c\) *Gates.* If a launch involves flight over any populated or other protected area, the flight safety analysis must establish a gate as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]] and 417.218.
 
 \(d\) *Designated debris impact limits.* The analysis must establish designated impact limit lines to bound the area where debris with a ballistic coefficient of three or more is allowed to impact if the flight safety system functions properly.
 
@@ -1130,11 +1130,11 @@ A flight safety analysis must establish the straight-up time for a launch for us
 
 ### §417.217   Overflight gate analysis.
 
-For a launch that involves flight over a populated or other protected area, the flight safety analysis must include an overflight gate analysis. The analysis must establish the portion of a flight safety limit, a gate, through which a normally performing launch vehicle's tracking icon will be allowed to proceed. A tracking icon must enable the flight safety crew to determine whether the launch vehicle's flight is in compliance with the flight safety rules established under §417.113. When establishing that portion of a flight safety limit, the analysis must demonstrate that the launch vehicle flight satisfies the flight safety requirements of §417.107.
+For a launch that involves flight over a populated or other protected area, the flight safety analysis must include an overflight gate analysis. The analysis must establish the portion of a flight safety limit, a gate, through which a normally performing launch vehicle's tracking icon will be allowed to proceed. A tracking icon must enable the flight safety crew to determine whether the launch vehicle's flight is in compliance with the flight safety rules established under [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]]. When establishing that portion of a flight safety limit, the analysis must demonstrate that the launch vehicle flight satisfies the flight safety requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]].
 
 ### §417.218   Hold-and-resume gate analysis.
 
-\(a\) For a launch that involves overflight or near overflight of a populated or otherwise protected area prior to the planned safe flight state calculated as required by §417.219, the flight safety analysis must construct a hold-and-resume gate for each populated or otherwise protected area. After a vehicle's tracking icon crosses a hold-and-resume gate, flight termination must occur as required by sections 417.113(d)(6).
+\(a\) For a launch that involves overflight or near overflight of a populated or otherwise protected area prior to the planned safe flight state calculated as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]], the flight safety analysis must construct a hold-and-resume gate for each populated or otherwise protected area. After a vehicle's tracking icon crosses a hold-and-resume gate, flight termination must occur as required by sections 417.113(d)(6).
 
 \(b\) The hold-and-resume gate analysis must account for:
 
@@ -1158,7 +1158,7 @@ For a launch that involves flight over a populated or other protected area, the 
 
 ### §417.221   Time delay analysis.
 
-\(a\) *General.* A flight safety analysis must include a time delay analysis that establishes the mean elapsed time between the violation of a flight termination rule and the time when the flight safety system is capable of terminating flight for use in establishing flight safety limits as required by §417.213.
+\(a\) *General.* A flight safety analysis must include a time delay analysis that establishes the mean elapsed time between the violation of a flight termination rule and the time when the flight safety system is capable of terminating flight for use in establishing flight safety limits as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.213   Flight safety limits analysis.|§417.213]].
 
 \(b\) *Analysis constraints.* A time delay analyses must determine a time delay distribution that accounts for the following:
 
@@ -1180,9 +1180,9 @@ For a launch that involves flight over a populated or other protected area, the 
 
 ### §417.223   Flight hazard area analysis.
 
-\(a\) *General.* A flight safety analysis must include a flight hazard area analysis that identifies any regions of land, sea, or air that must be surveyed, publicized, controlled, or evacuated in order to control the risk to the public from debris impact hazards. The risk management requirements of §417.205(a) apply. The analysis must account for, at a minimum:
+\(a\) *General.* A flight safety analysis must include a flight hazard area analysis that identifies any regions of land, sea, or air that must be surveyed, publicized, controlled, or evacuated in order to control the risk to the public from debris impact hazards. The risk management requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.205   General.|§417.205]](a) apply. The analysis must account for, at a minimum:
 
-\(1\) All trajectory times from liftoff to the planned safe flight state of §417.219(c), including each planned impact, for an orbital launch, and through final impact for a suborbital launch;
+\(1\) All trajectory times from liftoff to the planned safe flight state of [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]](c), including each planned impact, for an orbital launch, and through final impact for a suborbital launch;
 
 \(2\) Regions of land potentially exposed to debris resulting from normal flight events and events resulting from any potential malfunction;
 
@@ -1192,7 +1192,7 @@ For a launch that involves flight over a populated or other protected area, the 
 
 \(5\) Any operational controls implemented to control risk to the public from debris hazards;
 
-\(6\) Debris identified by the debris analysis of §417.211; and
+\(6\) Debris identified by the debris analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.211   Debris analysis.|§417.211]]; and
 
 \(7\) All launch vehicle trajectory dispersion effects in the surface impact domain.
 
@@ -1208,15 +1208,15 @@ For a launch that involves flight over a populated or other protected area, the 
 
 ### §417.225   Debris risk analysis.
 
-A flight safety analysis must demonstrate that the risk to the public potentially exposed to inert and explosive debris hazards from any one flight of a launch vehicle satisfies the public risk criterion of §417.107(b) for debris. A debris risk analysis must account for risk to populations on land, including regions of launch vehicle flight following passage through any gate in a flight safety limit established as required by §417.217. A debris risk analysis must account for any potential casualties to the public as required by the debris thresholds and requirements of §417.107(c).
+A flight safety analysis must demonstrate that the risk to the public potentially exposed to inert and explosive debris hazards from any one flight of a launch vehicle satisfies the public risk criterion of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b) for debris. A debris risk analysis must account for risk to populations on land, including regions of launch vehicle flight following passage through any gate in a flight safety limit established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]]. A debris risk analysis must account for any potential casualties to the public as required by the debris thresholds and requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](c).
 
 ### §417.227   Toxic release hazard analysis.
 
-A flight safety analysis must establish flight commit criteria that protect the public from any hazard associated with toxic release and demonstrate compliance with the public risk criterion of §417.107(b). The analysis must account for any toxic release that will occur during the proposed flight of a launch vehicle or that would occur in the event of a flight mishap. The analysis must account for any operational constraints and emergency procedures that provide protection from toxic release. The analysis must account for all members of the public that may be exposed to the toxic release, including all members of the public on land and on any waterborne vessels, populated offshore structures, and aircraft that are not operated in direct support of the launch.
+A flight safety analysis must establish flight commit criteria that protect the public from any hazard associated with toxic release and demonstrate compliance with the public risk criterion of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). The analysis must account for any toxic release that will occur during the proposed flight of a launch vehicle or that would occur in the event of a flight mishap. The analysis must account for any operational constraints and emergency procedures that provide protection from toxic release. The analysis must account for all members of the public that may be exposed to the toxic release, including all members of the public on land and on any waterborne vessels, populated offshore structures, and aircraft that are not operated in direct support of the launch.
 
 ### §417.229   Far-field overpressure blast effects analysis.
 
-\(a\) *General.* A flight safety analysis must establish flight commit criteria that protect the public from any hazard associated with far field blast overpressure effects due to potential explosions during launch vehicle flight and demonstrate compliance with the public risk criterion of §417.107(b).
+\(a\) *General.* A flight safety analysis must establish flight commit criteria that protect the public from any hazard associated with far field blast overpressure effects due to potential explosions during launch vehicle flight and demonstrate compliance with the public risk criterion of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(b\) *Analysis constraints.* The analysis must account for:
 
@@ -1238,7 +1238,7 @@ A flight safety analysis must establish flight commit criteria that protect the 
 
 [Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=4a24d322e7e2ad451d1f786b051cf52a&mc=true&node=20210309y1.1)
 
-\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that establishes each launch wait in a planned launch window during which a launch operator must not initiate flight, in order to protect any maned or mannable orbiting object. A launch operator must account for uncertainties associated with launch vehicle performance and timing and ensure that any calculated launch waits incorporate all additional time periods associated with such uncertainties. A launch operator must implement any launch waits as flight commit criteria according to §417.113(c).
+\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that establishes each launch wait in a planned launch window during which a launch operator must not initiate flight, in order to protect any maned or mannable orbiting object. A launch operator must account for uncertainties associated with launch vehicle performance and timing and ensure that any calculated launch waits incorporate all additional time periods associated with such uncertainties. A launch operator must implement any launch waits as flight commit criteria according to [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c).
 
 \(b\) *Orbital launch.* For an orbital launch, the analysis must establish any launch waits needed to ensure that the launch vehicle, any jettisoned components, and its payload do not pass closer than 200 kilometers to a manned or mannable orbiting object during ascent to initial orbital insertion through at least one complete orbit.
 
@@ -1250,7 +1250,7 @@ A flight safety analysis must establish flight commit criteria that protect the 
 
 ### §417.233   Analysis for an unguided suborbital launch vehicle flown with a wind weighting safety system.
 
-For each launch of an unguided suborbital launch vehicle flown with a wind weighting safety system, in addition to the other requirements in this subpart outlined in §417.201(c), the flight safety analysis must:
+For each launch of an unguided suborbital launch vehicle flown with a wind weighting safety system, in addition to the other requirements in this subpart outlined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.201   Scope and applicability.|§417.201]](c), the flight safety analysis must:
 
 \(a\) Establish flight commit criteria and other launch safety rules that a launch operator must implement to control the risk to the public from potential adverse effects resulting from normal and malfunctioning flight;
 
@@ -1262,25 +1262,25 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 ### §417.301   General.
 
-\(a\) *Applicability.* This subpart applies to any flight safety system that a launch operator uses. The requirements of §417.107(a) define when a launch operator must use a flight safety system. A launch operator must ensure that its flight safety system satisfies all the requirements of this subpart, including the referenced appendices. Paragraph (b) of this section provides an exception to this.
+\(a\) *Applicability.* This subpart applies to any flight safety system that a launch operator uses. The requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a) define when a launch operator must use a flight safety system. A launch operator must ensure that its flight safety system satisfies all the requirements of this subpart, including the referenced appendices. Paragraph (b) of this section provides an exception to this.
 
-\(b\) *Alternate flight safety system.* A flight safety system need not satisfy one or more of the requirements of this subpart for a launch if a launch operator demonstrates, in accordance with §406.3(b), that the launch achieves an equivalent level of safety as a launch that satisfies all the requirements of this part. The flight safety system must undergo analysis and testing that is comparable to that required by this part to demonstrate that the system's reliability to perform each intended function is comparable to that required by this subpart.
+\(b\) *Alternate flight safety system.* A flight safety system need not satisfy one or more of the requirements of this subpart for a launch if a launch operator demonstrates, in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), that the launch achieves an equivalent level of safety as a launch that satisfies all the requirements of this part. The flight safety system must undergo analysis and testing that is comparable to that required by this part to demonstrate that the system's reliability to perform each intended function is comparable to that required by this subpart.
 
 \(c\) *Functions, subsystems, and components.* When initiated in the event of a launch vehicle failure, a flight safety system must prevent any launch vehicle hazard, including any payload hazard, from reaching a populated or other protected area. A flight safety system must consist of all of the following:
 
 \(1\) A flight termination system that satisfies appendices D, E, and F of this part;
 
-\(2\) A command control system that satisfies §§417.303 and 417.305;
+\(2\) A command control system that satisfies §[[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]] and 417.305;
 
-\(3\) Each support system required by §417.307; and
+\(3\) Each support system required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]]; and
 
-\(4\) The functions of any personnel who operate flight safety system hardware or software including a flight safety crew that satisfies §417.311.
+\(4\) The functions of any personnel who operate flight safety system hardware or software including a flight safety crew that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.311   Flight safety crew roles and qualifications.|§417.311]].
 
 \(d\) *Compliance*—(1) *Non-Federal launch site.* For launch from a non-Federal launch site, any flight safety system, including all components, must:
 
-\(i\) Comply with a launch operator's flight safety system compliance matrix of §415.127(g) that accounts for all the design, installation, and monitoring requirements of this subpart, including the referenced appendices; and
+\(i\) Comply with a launch operator's flight safety system compliance matrix of [[Volume 4/C Licensing/0415 Launch license.md#§415.127   Flight safety system design and operation data.|§415.127]](g) that accounts for all the design, installation, and monitoring requirements of this subpart, including the referenced appendices; and
 
-\(ii\) Comply with a launch operator's testing compliance matrix of §415.129(b) that accounts for all the test requirements of this subpart, including the referenced appendices.
+\(ii\) Comply with a launch operator's testing compliance matrix of [[Volume 4/C Licensing/0415 Launch license.md#§415.129   Flight safety system test data.|§415.129]](b) that accounts for all the test requirements of this subpart, including the referenced appendices.
 
 \(2\) *Federal launch range.* This provision applies to all sections of this subpart. The FAA will accept a flight safety system used or approved on a Federal launch range without need for further demonstration of compliance to the FAA if:
 
@@ -1306,7 +1306,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(b\) *Performance specifications.* A command control system and each subsystem, component, and part that can affect the reliability of a component must have written performance specifications that demonstrate, and contain the details of, how each satisfies the requirements of this section.
 
-\(c\) *Reliability prediction.* A command control system must have a predicted reliability of 0.999 at the 95 percent confidence level when operating, starting with completion of the preflight testing and system verification of §417.305(c) through initiation of flight and until the planned safe flight state for each launch. Any demonstration of the system's predicted reliability must satisfy §417.309(b).
+\(c\) *Reliability prediction.* A command control system must have a predicted reliability of 0.999 at the 95 percent confidence level when operating, starting with completion of the preflight testing and system verification of [[Volume 4/C Licensing/0417 Launch safety.md#§417.305   Command control system testing.|§417.305]](c) through initiation of flight and until the planned safe flight state for each launch. Any demonstration of the system's predicted reliability must satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b).
 
 \(d\) *Fault tolerance.* A command control system must not contain any single-failure-point that, upon failure, would inhibit the required functioning of the system or cause the transmission of an undesired flight termination message. A command control system's design must ensure that the probability of transmitting an undesired or inadvertent command during flight is less than 1 × 10−7.
 
@@ -1342,7 +1342,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(3\) A 6-dB power density margin under worst-case conditions.
 
-\(j\) *Command control system monitoring and control.* A command control system must provide for monitoring and control of the system from the flight safety system displays and controls required by §417.307(f), including real-time selection of a transmitter, transmitter site, communication circuits, and antenna configuration.
+\(j\) *Command control system monitoring and control.* A command control system must provide for monitoring and control of the system from the flight safety system displays and controls required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]](f), including real-time selection of a transmitter, transmitter site, communication circuits, and antenna configuration.
 
 \(k\) *Command transmitter system.* For each launch, a command transmitter system must:
 
@@ -1352,7 +1352,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(3\) Employ an authorized radio carrier frequency and bandwidth with a guard band that provides the radio frequency separation needed to ensure that the system does not interfere with any other flight safety system that is required to operate at the same time;
 
-\(4\) Transmit an output bandwidth that is consistent with the signal spectrum power used in the link analysis of §417.309(f); and
+\(4\) Transmit an output bandwidth that is consistent with the signal spectrum power used in the link analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](f); and
 
 \(5\) Not transmit other frequencies that could degrade the airborne flight termination system's performance.
 
@@ -1364,7 +1364,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(i\) Allow for complete transmission of the command destruct sequence of signal tones before a malfunctioning launch vehicle can exit the 3-dB point of the antenna pattern;
 
-\(ii\) When the vehicle is centered in the antenna pattern at the beginning of the malfunction, account for the launch vehicle's malfunction turn capability determined by the analysis of §417.209, the data loss flight times of §417.219, and the time delay of §417.221.
+\(ii\) When the vehicle is centered in the antenna pattern at the beginning of the malfunction, account for the launch vehicle's malfunction turn capability determined by the analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.209   Malfunction turn analysis.|§417.209]], the data loss flight times of [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]], and the time delay of [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]].
 
 \(iii\) Encompass the boundaries of normal flight for the portion of flight that the antenna is scheduled to support; and
 
@@ -1390,15 +1390,15 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(4\) After a command control system passes all acceptance tests, if a component is replaced with an identical component, the system must undergo testing to ensure that the new component is installed properly and is operational.
 
-\(b\) *Acceptance testing.* (1) All new or modified command control system hardware and software must undergo acceptance testing to verify that the system satisfies the requirements of §417.303.
+\(b\) *Acceptance testing.* (1) All new or modified command control system hardware and software must undergo acceptance testing to verify that the system satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]].
 
 \(2\) Acceptance testing must include functional testing, system interface validation testing, and integrated system-wide validation testing.
 
-\(3\) Each acceptance test must measure the performance parameters that demonstrate whether the requirements of §417.303 are satisfied.
+\(3\) Each acceptance test must measure the performance parameters that demonstrate whether the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]] are satisfied.
 
-\(4\) Any computing system, software, or firmware that performs a software safety critical function must undergo validation testing and satisfy §417.123. If command control system hardware interfaces with software, the interface must undergo validation testing.
+\(4\) Any computing system, software, or firmware that performs a software safety critical function must undergo validation testing and satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]]. If command control system hardware interfaces with software, the interface must undergo validation testing.
 
-\(c\) *Preflight testing*—(1) *General.* For each launch, a command control system must undergo preflight testing to verify that the system satisfies the requirements of §417.303 for the launch.
+\(c\) *Preflight testing*—(1) *General.* For each launch, a command control system must undergo preflight testing to verify that the system satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]] for the launch.
 
 \(2\) *Coordinated command control system and flight termination system testing.* For each launch, a command control system must undergo preflight testing during the preflight testing of the associated flight termination system under section E417.41 of appendix E of this part.
 
@@ -1478,7 +1478,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(6\) For each launch, each tracking source must undergo validation of its accuracy. For each stage of flight that a launch vehicle guidance system is used as a tracking source, a tracking source that is independent of any system used to aid the guidance system must validate the guidance system data before the data is used in the flight termination decision process.
 
-\(7\) The launch vehicle tracking error from all sources, including data latency and any possible gaps or dropouts in tracking coverage, must be consistent with the flight safety limits of §417.213 and the flight safety system time delay of §417.221.
+\(7\) The launch vehicle tracking error from all sources, including data latency and any possible gaps or dropouts in tracking coverage, must be consistent with the flight safety limits of [[Volume 4/C Licensing/0417 Launch safety.md#§417.213   Flight safety limits analysis.|§417.213]] and the flight safety system time delay of [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]].
 
 \(8\) Any planned gap in tracking coverage must not occur at the same time as any planned switching of command transmitters.
 
@@ -1492,7 +1492,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(e\) *Data processing, display, and recording.* A flight safety system must include one or more subsystems that process, display, and record flight safety data to support the flight safety crew's monitoring of the launch, including the data that the crew uses to make a flight termination decision. The system must:
 
-\(1\) Satisfy §417.123 for any computing system, software, or firmware that must operate properly to ensure the accuracy of the data;
+\(1\) Satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]] for any computing system, software, or firmware that must operate properly to ensure the accuracy of the data;
 
 \(2\) Receive vehicle status data from tracking and telemetry, evaluate the data for validity, and provide valid data for display and recording;
 
@@ -1530,13 +1530,13 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(7\) All flight safety system controls must be dedicated to the flight safety system and must not rely on time or equipment shared with other systems.
 
-\(8\) All data transmission links between any control, transmitter, or antenna must consist of two or more complete and independent duplex circuits. The routing of these circuits must ensure that they are physically separated from each other to eliminate any potential single failure point in the command control system in accordance with §417.303(d).
+\(8\) All data transmission links between any control, transmitter, or antenna must consist of two or more complete and independent duplex circuits. The routing of these circuits must ensure that they are physically separated from each other to eliminate any potential single failure point in the command control system in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]](d).
 
 \(9\) The system must include hardware or procedural security provisions for controlling access to all controls and other related hardware. These security provisions must ensure that only the flight safety crew can initiate a flight safety system transmission.
 
 \(10\) The system must include two independent means for the flight safety crew to initiate arm and destruct messages. The location and functioning of the controls must provide the crew easy access to the controls and prevent inadvertent activation.
 
-\(11\) The system must include a digital countdown for use in implementing the flight termination rules of §417.113 that apply data loss flight times and the planned safe flight state. The system must also include a manual method of applying the data loss flight times in the event that the digital countdown malfunctions.
+\(11\) The system must include a digital countdown for use in implementing the flight termination rules of [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]] that apply data loss flight times and the planned safe flight state. The system must also include a manual method of applying the data loss flight times in the event that the digital countdown malfunctions.
 
 \(g\) *Support equipment calibration.* Each support system and any equipment used to test flight safety system components must undergo calibration to ensure that measurement and monitoring devices that support a launch provide accurate indications.
 
@@ -1580,7 +1580,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(6\) Account for the interface between the launch vehicle systems and the flight termination system.
 
-\(c\) *Single failure point.* A command control system must undergo an analysis that demonstrates that the system satisfies the fault tolerance requirements of §417.303(d). A flight termination system must undergo an analysis that demonstrates that the system satisfies the fault tolerance requirements of section D417.5(b). Each analysis must:
+\(c\) *Single failure point.* A command control system must undergo an analysis that demonstrates that the system satisfies the fault tolerance requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]](d). A flight termination system must undergo an analysis that demonstrates that the system satisfies the fault tolerance requirements of section D417.5(b). Each analysis must:
 
 \(1\) Follow a standard industry methodology such as a fault tree analysis or a failure modes effects and criticality analysis;
 
@@ -1618,7 +1618,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(i\) The system performance and attenuation factors of paragraph (f)(2) of this section;
 
-\(ii\) The command transmitter failover criteria of §417.303(g) including the lowest output power provided by the transmitter system;
+\(ii\) The command transmitter failover criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]](g) including the lowest output power provided by the transmitter system;
 
 \(iii\) Worst-case power loss due to antenna pointing inaccuracies; and
 
@@ -1626,7 +1626,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 \(g\) *Sneak circuit.* Each electronic component that contains an electronic inhibit that could inhibit the functioning, or cause inadvertent functioning of a flight termination system or command control system, must undergo a sneak circuit analysis. The analysis must demonstrate that there are no latent paths of an unwanted command that could, when all components otherwise function properly, cause the occurrence of an undesired, unplanned, or inhibited function that could cause a system anomaly. The analysis must determine the probability of an anomaly occurring for input to the system reliability analysis of paragraph (b) of this section.
 
-\(h\) *Software and firmware.* Any computing system, software, or firmware that performs a software safety critical function must undergo the analysis needed to ensure reliable operation and satisfy §417.123.
+\(h\) *Software and firmware.* Any computing system, software, or firmware that performs a software safety critical function must undergo the analysis needed to ensure reliable operation and satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]].
 
 \(i\) *Battery capacity.* A flight termination system must undergo an analysis that demonstrates that each flight termination system battery has a total amp hour capacity of no less than 150% of the capacity needed during flight plus the capacity needed for load and activation checks, preflight and launch countdown checks, and any potential launch hold time. For a launch vehicle that uses any solid propellant, the analysis must demonstrate that the battery capacity allows for an additional 30-minute hang-fire hold time. The battery analysis must also demonstrate each flight termination system battery's ability to meet the charging temperature and current control requirements of appendix D of this part.
 
@@ -1640,9 +1640,9 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 ### §417.311   Flight safety crew roles and qualifications.
 
-\(a\) A flight safety crew must operate the flight safety system hardware. A flight safety crew must document each flight safety crew position description and maintain documentation on individual crew qualifications, including education, experience, and training as part of the personnel certification program required by §417.105.
+\(a\) A flight safety crew must operate the flight safety system hardware. A flight safety crew must document each flight safety crew position description and maintain documentation on individual crew qualifications, including education, experience, and training as part of the personnel certification program required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]].
 
-\(b\) A flight safety crew must be able to demonstrate the knowledge, skills, and abilities needed to operate the flight safety system hardware in accordance with §417.113.
+\(b\) A flight safety crew must be able to demonstrate the knowledge, skills, and abilities needed to operate the flight safety system hardware in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
 \(1\) A flight safety crew must have knowledge of:
 
@@ -1704,7 +1704,7 @@ For each launch of an unguided suborbital launch vehicle flown with a wind weigh
 
 ### §417.401   Scope.
 
-This subpart contains public safety requirements that apply to launch processing and post-launch operations at a launch site in the United States. Ground safety requirements in this subpart apply to activities performed by, or on behalf of, a launch operator at a launch site in the United States. A licensed launch site operator must satisfy the requirements of part 420 of this chapter.
+This subpart contains public safety requirements that apply to launch processing and post-launch operations at a launch site in the United States. Ground safety requirements in this subpart apply to activities performed by, or on behalf of, a launch operator at a launch site in the United States. A licensed launch site operator must satisfy the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
 ### §417.402   Compliance.
 
@@ -1720,21 +1720,21 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(d\) *Demonstration of compliance.* For a licensed launch that does not satisfy paragraphs (b) and (c) of this section, a launch operator must demonstrate compliance to the FAA with the requirements of this subpart, and must include in its demonstration the analysis products required by subparts A and E of this part, and appendices I and J of this part.
 
-\(e\) *Alternate methods.* The FAA will approve an alternate hazard control method if a launch operator demonstrates, in accordance with §406.3(b), that its proposed hazard control method provides an equivalent level of safety to that required by this subpart.
+\(e\) *Alternate methods.* The FAA will approve an alternate hazard control method if a launch operator demonstrates, in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), that its proposed hazard control method provides an equivalent level of safety to that required by this subpart.
 
 ### §417.403   General.
 
 \(a\) *Public safety.* A launch operator must ensure that each hazard control is in place to protect the public from each potential hazard associated with launch processing and post-launch operations.
 
-\(b\) *Ground safety analysis.* A launch operator must perform and document a ground safety analysis that satisfies §417.405 and appendix J of this part.
+\(b\) *Ground safety analysis.* A launch operator must perform and document a ground safety analysis that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.405   Ground safety analysis.|§417.405]] and appendix J of this part.
 
-\(c\) *Local agreements.* A launch operator must coordinate and perform launch processing and post-launch operations that satisfy local agreements to ensure the responsibilities and requirements in this part and §420.57 of this chapter are met. A launch operator, when using a launch site of a licensed launch site operator, must coordinate the launch operator's operations with the launch site operator and with any agreements that the launch site operator has with local authorities that form a basis for the launch site operator's license.
+\(c\) *Local agreements.* A launch operator must coordinate and perform launch processing and post-launch operations that satisfy local agreements to ensure the responsibilities and requirements in this part and [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.57   Notifications.|§420.57]] of this chapter are met. A launch operator, when using a launch site of a licensed launch site operator, must coordinate the launch operator's operations with the launch site operator and with any agreements that the launch site operator has with local authorities that form a basis for the launch site operator's license.
 
-\(d\) *Launch operator's exclusive use of a launch site.* For a launch conducted from a launch site exclusive to its own use, a launch operator must satisfy the requirements of this subpart and of part 420 of this chapter, including subpart D of part 420.
+\(d\) *Launch operator's exclusive use of a launch site.* For a launch conducted from a launch site exclusive to its own use, a launch operator must satisfy the requirements of this subpart and of [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]], including subpart D of part 420.
 
 ### §417.405   Ground safety analysis.
 
-\(a\) A launch operator must perform a ground safety analysis for launch vehicle hardware, ground hardware including launch site and ground support equipment, launch processing, and post-launch operations at a launch site in the United States. The requirements of this section apply to the performance of the ground safety analysis and to the ground safety analysis products that a launch operator must file with the FAA as required by §417.402(d). This analysis must identify each potential hazard, each associated cause, and each hazard control that a launch operator must establish and maintain to keep each identified hazard from affecting the public. A launch operator must incorporate the launch site operator's systems and operations involved in ensuring public safety into the ground safety analysis.
+\(a\) A launch operator must perform a ground safety analysis for launch vehicle hardware, ground hardware including launch site and ground support equipment, launch processing, and post-launch operations at a launch site in the United States. The requirements of this section apply to the performance of the ground safety analysis and to the ground safety analysis products that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.402   Compliance.|§417.402]](d). This analysis must identify each potential hazard, each associated cause, and each hazard control that a launch operator must establish and maintain to keep each identified hazard from affecting the public. A launch operator must incorporate the launch site operator's systems and operations involved in ensuring public safety into the ground safety analysis.
 
 \(b\) Technical personnel who are knowledgeable of launch vehicle systems, launch processing, ground systems, operations, and their associated hazards must prepare the ground safety analysis. These individuals must be qualified to perform the ground safety analysis through training, education, and experience.
 
@@ -1796,13 +1796,13 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(3\) Ensure the accuracy of the test or analysis and the associated results;
 
-\(4\) Trace any procedural hazard control identified to a written procedure, and approved by the person designated under §417.103(b)(2) or the person's designee, with the paragraph or step number of the procedure specified;
+\(4\) Trace any procedural hazard control identified to a written procedure, and approved by the person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2) or the person's designee, with the paragraph or step number of the procedure specified;
 
 \(5\) Identify a verifiable hazard control for each hazard; if a hazard control is not verifiable, a launch operator may include it as an informational note on the hazard analysis form;
 
 \(6\) For each hazard control, reference a released drawing, report, procedure or other document that verifies the existence of the hazard control; and
 
-\(7\) Maintain records, as required by §417.15, of the documentation that verifies the information in the ground safety analysis.
+\(7\) Maintain records, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.15   Records.|§417.15]], of the documentation that verifies the information in the ground safety analysis.
 
 \(k\) A launch operator must ensure the continuing accuracy of its ground safety analysis. The analysis of systems and operations must not end upon submission of a ground safety analysis report to the FAA during the license application process. A launch operator must analyze each new or modified system or operation for potential hazards that can affect the public. A launch operator must ensure that each existing system and operation is subject to continual scrutiny and that the information in a ground safety analysis report is kept current.
 
@@ -1810,25 +1810,25 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(a\) *General.* A launch operator must establish and maintain the hazard controls identified by the ground safety analysis including:
 
-\(1\) System hazard controls that satisfy §417.409;
+\(1\) System hazard controls that satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.409   System hazard controls.|§417.409]];
 
-\(2\) Safety clear zones for hazardous operations that satisfy §417.411;
+\(2\) Safety clear zones for hazardous operations that satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.411   Safety clear zones for hazardous operations.|§417.411]];
 
-\(3\) Hazard areas and controls for allowing public access that satisfy §417.413;
+\(3\) Hazard areas and controls for allowing public access that satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.413   Hazard areas.|§417.413]];
 
-\(4\) Hazard controls after launch or an attempt to launch that satisfy §417.415; and
+\(4\) Hazard controls after launch or an attempt to launch that satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.415   Post-launch and post-flight-attempt hazard controls.|§417.415]]; and
 
-\(5\) Controls for propellant and explosive hazards that satisfy §417.417.
+\(5\) Controls for propellant and explosive hazards that satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.417   Propellants and explosives.|§417.417]].
 
 \(b\) *Hazard control verification.* A launch operator must establish a hazard tracking process to ensure that each identified hazard has a verifiable hazard control. Verification status must remain “open” for an individual hazard control until the hazard control is verified to exist in a released drawing, report, procedure, or similar document.
 
-\(c\) *Hazard control configuration control.* A launch operator must establish and maintain a configuration control process for safety critical hardware. Procedural steps to verify hazard controls, and their associated documentation, cannot be changed without coordination with the person designated in §417.103(b)(2).
+\(c\) *Hazard control configuration control.* A launch operator must establish and maintain a configuration control process for safety critical hardware. Procedural steps to verify hazard controls, and their associated documentation, cannot be changed without coordination with the person designated in [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2).
 
-\(d\) *Inspections.* When a potential hazard exists, a launch operator must conduct periodic inspections of related hardware, software, and facilities. A launch operator must ensure qualified and certified personnel, as required by §417.105, conduct the inspection. A launch operator must demonstrate that the time interval between inspections is sufficient to ensure satisfaction of this subpart. A launch operator must ensure safety devices and other hazard controls must remain in place for that hazard, and that safety devices and other hazard controls must remain in working order so that no unsafe conditions exist.
+\(d\) *Inspections.* When a potential hazard exists, a launch operator must conduct periodic inspections of related hardware, software, and facilities. A launch operator must ensure qualified and certified personnel, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]], conduct the inspection. A launch operator must demonstrate that the time interval between inspections is sufficient to ensure satisfaction of this subpart. A launch operator must ensure safety devices and other hazard controls must remain in place for that hazard, and that safety devices and other hazard controls must remain in working order so that no unsafe conditions exist.
 
-\(e\) *Procedures.* A launch operator must conduct each launch processing or post-launch operation involving a public hazard or a launch location hazard pursuant to written procedures that incorporate the hazard controls identified by a launch operator's ground safety analysis and as required by this subpart. The person designated in §417.103(b)(2) must approve the procedures. A launch operator must maintain an “as-run” copy of each procedure. The “as-run” procedure copy must include changes, start and stop dates, and times that each procedure was performed and observations made during the operations.
+\(e\) *Procedures.* A launch operator must conduct each launch processing or post-launch operation involving a public hazard or a launch location hazard pursuant to written procedures that incorporate the hazard controls identified by a launch operator's ground safety analysis and as required by this subpart. The person designated in [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2) must approve the procedures. A launch operator must maintain an “as-run” copy of each procedure. The “as-run” procedure copy must include changes, start and stop dates, and times that each procedure was performed and observations made during the operations.
 
-\(f\) *Hazardous materials.* A launch operator must establish procedures for the receipt, storage, handling, use, and disposal of hazardous materials, including toxic substances and sources of ionizing radiation. A launch operator must establish procedures for responding to hazardous material emergencies and protecting the public that complies with the accident investigation plan as defined in §417.111(h)(2). These procedures must include:
+\(f\) *Hazardous materials.* A launch operator must establish procedures for the receipt, storage, handling, use, and disposal of hazardous materials, including toxic substances and sources of ionizing radiation. A launch operator must establish procedures for responding to hazardous material emergencies and protecting the public that complies with the accident investigation plan as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](h)(2). These procedures must include:
 
 \(1\) Identification of each hazard and its effects;
 
@@ -1854,7 +1854,7 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(3\) Provide at least two fully redundant safety devices if a safety device must function in order to control a public hazard. A single action or event must not be capable of disabling both safety devices; and
 
-\(4\) Ensure computing systems and software used to control a public hazard satisfy the requirements of §417.123.
+\(4\) Ensure computing systems and software used to control a public hazard satisfy the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]].
 
 \(b\) *Structures and material handling equipment.* A launch operator must ensure safety factors applied in the design of a structure or material handling equipment account for static and dynamic loads, environmental stresses, expected wear, and duty cycles. A launch operator must:
 
@@ -1868,11 +1868,11 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(5\) Establish other non-destructive inspection techniques if a volumetric inspection cannot be performed. A launch operator, in such a case, must demonstrate through the licensing process that the inspection processes used accurately verify the absence of rejectable discontinuities; and
 
-\(6\) Ensure qualified and certified personnel, as defined in §417.105, conduct the inspections.
+\(6\) Ensure qualified and certified personnel, as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]], conduct the inspections.
 
 \(c\) *Pressure vessels and pressurized systems.* A launch operator must apply the following hazard controls to a pressurized flight or ground pressure vessel, component, or systems:
 
-\(1\) Qualified and certified personnel, as defined in §417.105, must test each pressure vessel, component, or system upon installation and before being placed into service, and periodically inspect to ensure that no rejectable discontinuities exists;
+\(1\) Qualified and certified personnel, as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]], must test each pressure vessel, component, or system upon installation and before being placed into service, and periodically inspect to ensure that no rejectable discontinuities exists;
 
 \(2\) Safety factors applied in the design of a pressure vessel, component, or system must account for static and dynamic loads, environmental stresses, and expected wear;
 
@@ -1888,9 +1888,9 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(3\) A launch operator must prevent unintentionally conducted or radiated energy due to possible bent pins in a connector, a mismated connector, shorted wires, or unshielded wires within electrical power and signal circuits that interface with hazardous subsystems.
 
-\(e\) *Propulsion systems.* A propulsion system must be dual fault tolerant to inadvertently becoming propulsive. Propulsion systems must be single fault tolerant to inadvertent mixing of fuel and oxidizer. Each material in a propulsion system must be compatible with other materials that may contact the propulsion system during launch processing including materials used to assemble and clean the system. A launch operator must use engineering controls, including procedures, to prevent connecting incompatible systems. A launch operator must comply with §417.417 for hazard controls applicable to propellants and explosives.
+\(e\) *Propulsion systems.* A propulsion system must be dual fault tolerant to inadvertently becoming propulsive. Propulsion systems must be single fault tolerant to inadvertent mixing of fuel and oxidizer. Each material in a propulsion system must be compatible with other materials that may contact the propulsion system during launch processing including materials used to assemble and clean the system. A launch operator must use engineering controls, including procedures, to prevent connecting incompatible systems. A launch operator must comply with [[Volume 4/C Licensing/0417 Launch safety.md#§417.417   Propellants and explosives.|§417.417]] for hazard controls applicable to propellants and explosives.
 
-\(f\) *Ordnance systems.* An ordnance system must be at least single fault tolerant to prevent a hazard caused by inadvertent actuation of the ordnance system. A launch operator must comply with §417.417 for hazard controls applicable to ordnance. In addition, an ordnance system must satisfy the following requirements;
+\(f\) *Ordnance systems.* An ordnance system must be at least single fault tolerant to prevent a hazard caused by inadvertent actuation of the ordnance system. A launch operator must comply with [[Volume 4/C Licensing/0417 Launch safety.md#§417.417   Propellants and explosives.|§417.417]] for hazard controls applicable to ordnance. In addition, an ordnance system must satisfy the following requirements;
 
 \(1\) A launch operator must ensure ordnance electrical connections are disconnected until final preparations for flight;
 
@@ -1984,11 +1984,11 @@ This subpart contains public safety requirements that apply to launch processing
 
 ### §417.417   Propellants and explosives.
 
-\(a\) A launch operator must comply with the explosive safety criteria in part 420 of this chapter.
+\(a\) A launch operator must comply with the explosive safety criteria in [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
 \(b\) A launch operator must ensure that:
 
-\(1\) The explosive site plan satisfies part 420 of this chapter;
+\(1\) The explosive site plan satisfies [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]];
 
 \(2\) Only those explosive facilities and launch points addressed in the explosive site plan are used and only for their intended purpose; and
 
@@ -2000,7 +2000,7 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(1\) Protect ordnance systems from stray energy through methods of bonding, grounding, and shielding, and controlling radio frequency radiation sources in a radio frequency radiation exclusion area. A launch operator must determine the vulnerability of its electro-explosive devices and systems to radio frequency radiation and establish radio frequency radiation power limits or radio frequency radiation exclusion areas as required by the launch site operator or to ensure safety.
 
-\(2\) Keep ordnance safety devices, as required by §417.409, in place until the launch complex is cleared as part of the final launch countdown. No members of the public may re-enter the complex until each safety device is re-established.
+\(2\) Keep ordnance safety devices, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.409   System hazard controls.|§417.409]], in place until the launch complex is cleared as part of the final launch countdown. No members of the public may re-enter the complex until each safety device is re-established.
 
 \(3\) Do not allow heat and spark or flame producing devices in an explosive or propellant facility without written approval and oversight from a launch operator's safety organization.
 
@@ -2018,9 +2018,9 @@ This subpart contains public safety requirements that apply to launch processing
 
 \(v\) Timely fire suppression response.
 
-\(6\) Include lightning protection on each facility used to store or process explosives to prevent inadvertent initiation of propellants and explosives due to lightning unless the facility complies with the lightning protection criteria of §420.71 of this part.
+\(6\) Include lightning protection on each facility used to store or process explosives to prevent inadvertent initiation of propellants and explosives due to lightning unless the facility complies with the lightning protection criteria of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.71   Lightning protection.|§420.71]] of this part.
 
-\(e\) A launch operator, in the event of an emergency, must perform the accident investigation plan as defined in §417.111(h).
+\(e\) A launch operator, in the event of an emergency, must perform the accident investigation plan as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](h).
 
 ##    
 
@@ -2032,19 +2032,19 @@ This subpart contains public safety requirements that apply to launch processing
 
 # A417.1   Scope
 
-The requirements of this appendix apply to the methods for performing the flight safety analysis required by §417.107(f) and subpart C of this part. The methodologies contained in this appendix provide an acceptable means of satisfying the requirements of subpart C and provide a standard and a measure of fidelity against which the FAA will measure any proposed alternative analysis approach. This appendix also identifies the analysis products that a launch operator must file with the FAA as required by §417.203(e).
+The requirements of this appendix apply to the methods for performing the flight safety analysis required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](f) and subpart C of this part. The methodologies contained in this appendix provide an acceptable means of satisfying the requirements of subpart C and provide a standard and a measure of fidelity against which the FAA will measure any proposed alternative analysis approach. This appendix also identifies the analysis products that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 # A417.3   Applicability
 
-The requirements of this appendix apply to a launch operator and the launch operator's flight safety analysis unless the launch operator clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety. If a Federal launch range performs the launch operator's analysis, §417.203(d) applies. Section A417.33 applies to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. All other sections of this appendix apply to the flight of any launch vehicle required to use a flight safety system as required by §417.107(a). For any alternative flight safety system approved by the FAA as required by §417.301(b), the FAA will determine the applicability of this appendix during the licensing process.
+The requirements of this appendix apply to a launch operator and the launch operator's flight safety analysis unless the launch operator clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety. If a Federal launch range performs the launch operator's analysis, [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](d) applies. Section A417.33 applies to the flight of any unguided suborbital launch vehicle that uses a wind-weighting safety system. All other sections of this appendix apply to the flight of any launch vehicle required to use a flight safety system as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a). For any alternative flight safety system approved by the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.301   General.|§417.301]](b), the FAA will determine the applicability of this appendix during the licensing process.
 
 # A417.5   General
 
-A launch operator's flight safety analysis must satisfy the requirements for public risk management and the requirements for the compatibility of the input and output of dependent analyses of §417.205.
+A launch operator's flight safety analysis must satisfy the requirements for public risk management and the requirements for the compatibility of the input and output of dependent analyses of [[Volume 4/C Licensing/0417 Launch safety.md#§417.205   General.|§417.205]].
 
 # A417.7   Trajectory
 
-\(a\) *General.* A flight safety analysis must include a trajectory analysis that satisfies the requirements of §417.207. This section applies to the computation of each of the trajectories required by §417.207 and to each trajectory analysis product that a launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a trajectory analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.207   Trajectory analysis.|§417.207]]. This section applies to the computation of each of the trajectories required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.207   Trajectory analysis.|§417.207]] and to each trajectory analysis product that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Wind standards.* A trajectory analysis must incorporate wind data in accordance with the following:
 
@@ -2154,7 +2154,7 @@ A launch operator's flight safety analysis must satisfy the requirements for pub
 
 # A417.9   Malfunction turn
 
-\(a\) *General.* A flight safety analysis must include a malfunction turn analysis that satisfies the requirements of §417.209. This section applies to the computation of the malfunction turns and the production of turn data required by §417.209 and to the malfunction turn analysis products that a launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a malfunction turn analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.209   Malfunction turn analysis.|§417.209]]. This section applies to the computation of the malfunction turns and the production of turn data required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.209   Malfunction turn analysis.|§417.209]] and to the malfunction turn analysis products that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Malfunction turn analysis constraints.* The following constraints apply to a malfunction turn analysis:
 
@@ -2236,7 +2236,7 @@ A launch operator's flight safety analysis must satisfy the requirements for pub
 
 # A417.11   Debris
 
-\(a\) *General.* A flight safety analysis must include a debris analysis that satisfies the requirements of §417.211. This section applies to the debris data required by §417.211 and the debris analysis products that a launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a debris analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.211   Debris analysis.|§417.211]]. This section applies to the debris data required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.211   Debris analysis.|§417.211]] and the debris analysis products that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Debris analysis constraints.* A debris analysis must produce the debris model described in paragraph (c) of this section. The analysis must account for all launch vehicle debris fragments, individually or in groupings of fragments called classes. The characteristics of each debris fragment represented by a class must be similar enough to the characteristics of all the other debris fragments represented by that class that all the debris fragments of the class can be described by a single set of characteristics. Paragraph (c)(10) of this section applies when establishing a debris class. A debris model must describe the physical, aerodynamic, and harmful characteristics of each debris fragment either individually or as a member of a class. A debris model must consist of lists of individual debris or debris classes for each cause of breakup and any planned jettison of debris, launch vehicle components, or payload. A debris analysis must account for:
 
@@ -2340,7 +2340,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.13   Flight safety limits.
 
-\(a\) *General.* A flight safety analysis must include a flight safety limits analysis that satisfies the requirements of §417.213. This section applies to the computation of the flight safety limits and identifying the location of populated or other protected areas as required by §417.213 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a flight safety limits analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.213   Flight safety limits analysis.|§417.213]]. This section applies to the computation of the flight safety limits and identifying the location of populated or other protected areas as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.213   Flight safety limits analysis.|§417.213]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Flight safety limits constraints.* The analysis must establish flight safety limits as follows:
 
@@ -2378,7 +2378,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 \(xii\) All uncertainty due to map error and launch vehicle tracking error.
 
-\(c\) *Risk management.* The requirements for public risk management of §417.205(a) apply to a flight safety limits analysis. When employing risk assessment, the analysis must establish flight safety limits that satisfy paragraph (b) of this section, account for the products of the debris risk analysis performed as required by section A417.25, and ensure that any risk to the public satisfies the public risk criteria of §417.107(b). When employing hazard isolation, the analysis must establish flight safety limits in accordance with the following:
+\(c\) *Risk management.* The requirements for public risk management of [[Volume 4/C Licensing/0417 Launch safety.md#§417.205   General.|§417.205]](a) apply to a flight safety limits analysis. When employing risk assessment, the analysis must establish flight safety limits that satisfy paragraph (b) of this section, account for the products of the debris risk analysis performed as required by section A417.25, and ensure that any risk to the public satisfies the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). When employing hazard isolation, the analysis must establish flight safety limits in accordance with the following:
 
 \(1\) The flight safety limits must account for the maximum deviation impact locations for the most wind sensitive debris fragment with a minimum of 11 ft-lbs of kinetic energy at impact.
 
@@ -2404,7 +2404,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.15   Straight-up time
 
-\(a\) *General.* A flight safety analysis must include a straight-up time analysis that satisfies the requirements of §417.215. This section applies to the computation of straight-up time as required by §417.215 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e). The analysis must establish a straight-up time as the latest time-after-liftoff, assuming a launch vehicle malfunctioned and flew in a vertical or near vertical direction above the launch point, at which activation of the launch vehicle's flight termination system or breakup of the launch vehicle would not cause hazardous debris or critical overpressure to affect any populated or other protected area.
+\(a\) *General.* A flight safety analysis must include a straight-up time analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.215   Straight-up time analysis.|§417.215]]. This section applies to the computation of straight-up time as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.215   Straight-up time analysis.|§417.215]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). The analysis must establish a straight-up time as the latest time-after-liftoff, assuming a launch vehicle malfunctioned and flew in a vertical or near vertical direction above the launch point, at which activation of the launch vehicle's flight termination system or breakup of the launch vehicle would not cause hazardous debris or critical overpressure to affect any populated or other protected area.
 
 \(b\) *Straight-up time constraints.* A straight-up time analysis must account for the following:
 
@@ -2420,13 +2420,13 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.17   Overflight gate
 
-\(a\) *General.* The flight safety analysis for a launch that involves flight over a populated or other protected area must include an overflight gate analysis that satisfies the requirements of §417.217. This section applies to determining a gate as required by §417.217 and the analysis products that the launch operator must file with the FAA as required by §417.203(e). The analysis must determine the portion, referred to as a gate, of a flight safety limit, through which a launch vehicle's tracking representation will be allowed to proceed without flight termination.
+\(a\) *General.* The flight safety analysis for a launch that involves flight over a populated or other protected area must include an overflight gate analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]]. This section applies to determining a gate as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.217   Overflight gate analysis.|§417.217]] and the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). The analysis must determine the portion, referred to as a gate, of a flight safety limit, through which a launch vehicle's tracking representation will be allowed to proceed without flight termination.
 
 \(b\) *Overflight gate analysis constraints.* The following analysis constraints apply to a gate analysis.
 
 \(1\) For each gate in a flight safety limit, all the criteria used for determining whether to allow passage through the gate or to terminate flight at the gate must use all the same launch vehicle flight status parameters as the criteria used for determining whether to terminate flight at a flight safety limit. For example, if the flight safety limits are a function of instantaneous impact point location, the criteria for determining whether to allow passage through a gate in the flight safety limit must also be a function of instantaneous impact point location. Likewise, if the flight safety limits are a function of drag impact point, the gate criteria must also be a function of drag impact point.
 
-\(2\) When establishing a gate in a flight safety limit, the analysis must ensure that the launch vehicle flight satisfies the flight safety requirements of §417.107.
+\(2\) When establishing a gate in a flight safety limit, the analysis must ensure that the launch vehicle flight satisfies the flight safety requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]].
 
 \(3\) For each established gate, the analysis must account for:
 
@@ -2452,7 +2452,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.19   Data loss flight time and planned safe flight state
 
-\(a\) *General.* A flight safety analysis must include a data loss flight time analysis that satisfies the requirements of §417.219. This section applies to the computation of data loss flight times and the planned safe flight state required by §417.219, and to the analysis products that the launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a data loss flight time analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]]. This section applies to the computation of data loss flight times and the planned safe flight state required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.219   Data loss flight time and planned safe flight state analyses.|§417.219]], and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Planned safe flight state.* The analysis must establish a planned safe flight state for a launch as follows:
 
@@ -2488,7 +2488,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.21   Time delay
 
-\(a\) *General.* A flight safety analysis must include a time delay analysis that satisfies the requirements of §417.221. This section applies to the computation of time delays associated with a flight safety system and other launch vehicle systems and operations as required by §417.221 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a time delay analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]]. This section applies to the computation of time delays associated with a flight safety system and other launch vehicle systems and operations as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Time delay analysis constraints.* The analysis must account for all significant causes of time delay between the violation of a flight termination rule and the time when a flight safety system is capable of terminating flight as follows:
 
@@ -2522,7 +2522,7 @@ Where: β′sub is the median subsonic ballistic coefficient for the fragments i
 
 # A417.23   Flight hazard areas
 
-\(a\) *General.* A flight safety analysis must include a flight hazard area analysis that satisfies the requirements of §417.223. This section applies to the determination of flight hazard areas for orbital and suborbital launch vehicles that use a flight termination system to protect the public as required by §417.223 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e). Requirements that apply to determining flight hazard areas for an unguided suborbital rocket that uses a wind-weighting safety system are contained in appendix C of this part.
+\(a\) *General.* A flight safety analysis must include a flight hazard area analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]]. This section applies to the determination of flight hazard areas for orbital and suborbital launch vehicles that use a flight termination system to protect the public as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). Requirements that apply to determining flight hazard areas for an unguided suborbital rocket that uses a wind-weighting safety system are contained in appendix C of this part.
 
 \(b\) *Launch site flight hazard area.* A flight hazard area analysis must establish a launch site flight hazard area that encompasses the launch point and:
 
@@ -2564,9 +2564,9 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(e\) *Other hazards.* A flight hazard area analysis must identify any additional hazards, such as radioactive material, that may exist on the launch vehicle or payload. For each such hazard, the analysis must determine a hazard area that encompasses any debris impact point and its dispersion and includes an additional hazard radius that accounts for potential casualty due to the additional hazard. Analysis requirements for toxic release and far field blast overpressure are provided in §417.27 and section A417.29, respectively.
 
-\(1\) *Aircraft hazard areas.* The analysis must establish an aircraft hazard area for each planned debris impact for the issuance of notices to airmen as required by §417.121(e). Each aircraft hazard area must encompass an air space region, from an altitude of 60,000 feet to impact on the Earth's surface, that contains the three-sigma drag impact dispersion.
+\(1\) *Aircraft hazard areas.* The analysis must establish an aircraft hazard area for each planned debris impact for the issuance of notices to airmen as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§417.121]](e). Each aircraft hazard area must encompass an air space region, from an altitude of 60,000 feet to impact on the Earth's surface, that contains the three-sigma drag impact dispersion.
 
-\(2\) *Ship hazard areas.* The analysis must establish a ship hazard area for each planned debris impact for the issuance of notices to mariners as required by §417.121(e). Each ship hazard area must encompass a surface region that contains the three-sigma drag impact dispersion.
+\(2\) *Ship hazard areas.* The analysis must establish a ship hazard area for each planned debris impact for the issuance of notices to mariners as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§417.121]](e). Each ship hazard area must encompass a surface region that contains the three-sigma drag impact dispersion.
 
 \(f\) *Flight hazard area analysis products.* The products of a flight hazard area analysis that a launch operator must file with the FAA include:
 
@@ -2596,7 +2596,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # A417.25   Debris risk
 
-\(a\) *General.* A flight safety analysis must include a debris risk analysis that satisfies the requirements of §417.225. This section applies to the computation of the average number of casualties (Ec) to the collective members of debris hazards from the proposed flight of a launch vehicle as required by §417.225 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a debris risk analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.225   Debris risk analysis.|§417.225]]. This section applies to the computation of the average number of casualties (Ec) to the collective members of debris hazards from the proposed flight of a launch vehicle as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.225   Debris risk analysis.|§417.225]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Debris risk analysis constraints.* The following constraints apply to a debris risk:
 
@@ -2656,7 +2656,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(i\) The probability of a launch vehicle failure that would result in debris impact in protected areas outside the flight safety limits.
 
-\(ii\) The failure probability of the launch operator's flight safety system. A flight safety system failure rate of 0.002 may be used if the flight safety system complies with the flight safety system requirements of subpart D of this part. For an alternate flight safety system approved as required by §417.107(a)(3), the launch operator must demonstrate the validity of the probability of failure through the licensing process.
+\(ii\) The failure probability of the launch operator's flight safety system. A flight safety system failure rate of 0.002 may be used if the flight safety system complies with the flight safety system requirements of subpart D of this part. For an alternate flight safety system approved as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a)(3), the launch operator must demonstrate the validity of the probability of failure through the licensing process.
 
 \(iii\) Current population density data and population projections for the day and time of flight for the areas outside the flight safety limits.
 
@@ -2732,11 +2732,11 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # A417.27   Toxic release hazard analysis
 
-A flight safety analysis must include a toxic release hazard analysis that satisfies the requirements of §417.227. A launch operator's toxic release hazard analysis must satisfy the methodology requirements of appendix I of this part. A launch operator must file the analysis products identified in appendix I of this part as required by §417.203(e).
+A flight safety analysis must include a toxic release hazard analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.227   Toxic release hazard analysis.|§417.227]]. A launch operator's toxic release hazard analysis must satisfy the methodology requirements of appendix I of this part. A launch operator must file the analysis products identified in appendix I of this part as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 # A417.29   Far field blast overpressure effects analysis
 
-\(a\) *General.* A flight safety analysis must include a far field blast overpressure effects hazard analysis that satisfies the requirements of §417.229. This section applies to the computation of far field blast overpressure effects from the proposed flight of a launch vehicle as required by §417.229 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e). The analysis must account for distant focus overpressure and any overpressure enhancement to establish the potential for broken windows due to peak incident overpressures below 1.0 psi and related casualties due to falling or projected glass shards. The analysis must employ either paragraph (b) of this section or the risk analysis of paragraph (c) of this section.
+\(a\) *General.* A flight safety analysis must include a far field blast overpressure effects hazard analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.229   Far-field overpressure blast effects analysis.|§417.229]]. This section applies to the computation of far field blast overpressure effects from the proposed flight of a launch vehicle as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.229   Far-field overpressure blast effects analysis.|§417.229]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). The analysis must account for distant focus overpressure and any overpressure enhancement to establish the potential for broken windows due to peak incident overpressures below 1.0 psi and related casualties due to falling or projected glass shards. The analysis must employ either paragraph (b) of this section or the risk analysis of paragraph (c) of this section.
 
 \(b\) *Far field blast overpressure hazard analysis.* Unless an analysis satisfies the requirements of paragraph (c) of this section a far field blast overpressure hazard analysis must satisfy the following:
 
@@ -2756,7 +2756,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 \(4\) Estimate the quantity of broken windows. The analysis must use a focus factor of 5 and the methods provided by ANSI S2.20-1983 to estimate the number of potential broken windows within each population center determined to be vulnerable to the distant focus overpressure hazard as required by paragraph (b)(3) of this section.
 
-\(5\) Determine and implement measures necessary to prevent distant focus overpressure from breaking windows. For each population center that is vulnerable to far field blast overpressure from a launch, the analysis must identify mitigation measures to protect the public from serious injury from broken windows and the flight commit criteria of §417.113(c) needed to enforce the mitigation measures. A launch operator's mitigation measures must include one or more of the following:
+\(5\) Determine and implement measures necessary to prevent distant focus overpressure from breaking windows. For each population center that is vulnerable to far field blast overpressure from a launch, the analysis must identify mitigation measures to protect the public from serious injury from broken windows and the flight commit criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c) needed to enforce the mitigation measures. A launch operator's mitigation measures must include one or more of the following:
 
 \(i\) Apply a minimum 4-millimeter thick anti-shatter film to all exposed sites where the maximum credible yield exceeds the “no damage yield limit.”
 
@@ -2764,7 +2764,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 \(iii\) If, as required by paragraph (b)(4) of this section, the analysis predicts that less than 20 windows will break, advise the public of the potential for glass breakage.
 
-\(c\) *Far field blast overpressure risk analysis.* If a launch operator does not employ paragraph (b) of this section to perform a far field overpressure hazard analysis, the launch operator must conduct a risk analysis that demonstrates that the launch will be conducted in accordance with the public risk criteria of §417.107(b).
+\(c\) *Far field blast overpressure risk analysis.* If a launch operator does not employ paragraph (b) of this section to perform a far field overpressure hazard analysis, the launch operator must conduct a risk analysis that demonstrates that the launch will be conducted in accordance with the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(d\) *Far field blast overpressure effect products.* The products of a far field blast overpressure analysis that a launch operator must file with the FAA include:
 
@@ -2780,7 +2780,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 # A417.31   Collision avoidance
 
-\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that satisfies the requirements of §417.231. This section applies to a launch operator obtaining a collision avoidance assessment from United States Strategic Command as required by §417.231 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e). United States Strategic Command refers to a collision avoidance analysis for a space launch as a conjunction on launch assessment.
+\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.231   Collision avoidance analysis.|§417.231]]. This section applies to a launch operator obtaining a collision avoidance assessment from United States Strategic Command as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.231   Collision avoidance analysis.|§417.231]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). United States Strategic Command refers to a collision avoidance analysis for a space launch as a conjunction on launch assessment.
 
 \(b\) *Analysis constraints.* A launch operator must satisfy the following when obtaining and implementing the results of a collision avoidance analysis:
 
@@ -2790,9 +2790,9 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 \(3\) A launch operator may use a collision avoidance analysis for 12 hours from the time that United States Strategic Command determines the state vectors of the manned or mannable orbiting objects. If a launch operator needs an updated collision avoidance analysis due to a launch delay, the launch operator must file the request with United States Strategic Command at least 12 hours prior to the beginning of the new launch window.
 
-\(4\) For every 90 minutes, or portion of 90 minutes, that pass between the time United States Strategic Command last determined the state vectors of the orbiting objects, a launch operator must expand each wait in a launch window by subtracting 15 seconds from the start of the wait in the launch window and adding 15 seconds to the end of the wait in the launch window. A launch operator must incorporate all the resulting waits in the launch window into its flight commit criteria established as required by §417.113.
+\(4\) For every 90 minutes, or portion of 90 minutes, that pass between the time United States Strategic Command last determined the state vectors of the orbiting objects, a launch operator must expand each wait in a launch window by subtracting 15 seconds from the start of the wait in the launch window and adding 15 seconds to the end of the wait in the launch window. A launch operator must incorporate all the resulting waits in the launch window into its flight commit criteria established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
-\(c\) *Information required.* A launch operator must prepare a collision avoidance analysis worksheet for each launch using a standardized format that contains the input data required by this paragraph. A launch operator must file the input data with United States Strategic Command for the purposes of completing a collision avoidance analysis. A launch operator must file the input data with the FAA as part of the license application process as required by §415.115 of this chapter.
+\(c\) *Information required.* A launch operator must prepare a collision avoidance analysis worksheet for each launch using a standardized format that contains the input data required by this paragraph. A launch operator must file the input data with United States Strategic Command for the purposes of completing a collision avoidance analysis. A launch operator must file the input data with the FAA as part of the license application process as required by [[Volume 4/C Licensing/0415 Launch license.md#§415.115   Flight safety.|§415.115]] of this chapter.
 
 \(1\) *Launch information.* A launch operator must file the following launch information:
 
@@ -2842,7 +2842,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 \(10\) *Deliverable schedule/need dates.* A launch operator must identify the times before flight, referred to as “L-times,” for which the launch operator requests a collision avoidance analysis.
 
-\(d\) *Collision avoidance assessment products.* A launch operator must file its collision avoidance analysis products as required by §417.203(e) and must include the input data required by paragraph (c) of this section. A launch operator must incorporate the result of the collision avoidance analysis into its flight commit criteria established as required by §417.113.
+\(d\) *Collision avoidance assessment products.* A launch operator must file its collision avoidance analysis products as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e) and must include the input data required by paragraph (c) of this section. A launch operator must incorporate the result of the collision avoidance analysis into its flight commit criteria established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
 \[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Amdt. No. 417-5, 81 FR 59439, Aug. 30, 2016\]
 
@@ -2850,7 +2850,7 @@ A flight safety analysis must include a toxic release hazard analysis that satis
 
 # B417.1   Scope
 
-This appendix contains requirements to establish aircraft hazard areas, ship hazard areas, and land impact hazard areas. The methodologies contained in this appendix represent an acceptable means of satisfying the requirements of §417.107 and §417.223 as they pertain to ship, aircraft, and land hazard areas. This appendix provides a standard and a measure of fidelity against which the FAA will measure any proposed alternative approaches. Requirements for a launch operator's implementation of a hazard area are contained in §§417.121(e) and (f).
+This appendix contains requirements to establish aircraft hazard areas, ship hazard areas, and land impact hazard areas. The methodologies contained in this appendix represent an acceptable means of satisfying the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]] as they pertain to ship, aircraft, and land hazard areas. This appendix provides a standard and a measure of fidelity against which the FAA will measure any proposed alternative approaches. Requirements for a launch operator's implementation of a hazard area are contained in §[[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§417.121]](e) and (f).
 
 # B417.3   Hazard area notifications and surveillance
 
@@ -2872,7 +2872,7 @@ This appendix contains requirements to establish aircraft hazard areas, ship haz
 
 # B417.5   Launch site hazard area
 
-\(a\) *General.* A launch operator must perform a launch site hazard area analysis that protects the public, aircraft, and ships from the hazardous activities in the vicinity of the launch site. The launch operator must evacuate and monitor each launch site hazard area to ensure compliance with §§417.107(b)(2) and (b)(3).
+\(a\) *General.* A launch operator must perform a launch site hazard area analysis that protects the public, aircraft, and ships from the hazardous activities in the vicinity of the launch site. The launch operator must evacuate and monitor each launch site hazard area to ensure compliance with §[[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b)(2) and (b)(3).
 
 \(b\) *Launch site hazard area analysis input.* A launch site hazard area must encompass no less than the following:
 
@@ -2896,7 +2896,7 @@ This appendix contains requirements to establish aircraft hazard areas, ship haz
 
 # B417.9   Aircraft hazard areas analysis
 
-\(a\) *General.* A launch operator must perform an aircraft hazard areas analysis as required by §417.223(b). A launch operator's aircraft hazard areas analysis must determine the aircraft hazard area in the vicinity of the launch site and the aircraft hazard area in the vicinity of each planned impact location as required by this section.
+\(a\) *General.* A launch operator must perform an aircraft hazard areas analysis as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.223   Flight hazard area analysis.|§417.223]](b). A launch operator's aircraft hazard areas analysis must determine the aircraft hazard area in the vicinity of the launch site and the aircraft hazard area in the vicinity of each planned impact location as required by this section.
 
 \(b\) *Aircraft hazard areas analysis input.* A launch operator must account for the following inputs to determine the aircraft hazard areas:
 
@@ -2982,7 +2982,7 @@ This appendix contains requirements to establish aircraft hazard areas, ship haz
 
 # B417.13   Land hazard areas analysis
 
-\(a\) *General.* A flight hazard area analysis must establish land hazard areas in the vicinity of the launch site and land hazard areas in the vicinity of each land impact location to ensure that the probability of a member of the public being struck by debris satisfies the probability threshold of 1 × 10−6 required by §417.107(b) and to determine exclusion areas that may require entry control and surveillance prior to initiation of flight. The analysis must establish a land impact hazard area that accounts for the effects of impacting debris resulting from normal and malfunctioning launch vehicle flight, except for toxic effects, and accounts for potential impact locations of all debris fragments. The land hazard area must encompass all individual casualty contours and the near-launch-point blast hazard area calculated as required by paragraph (c) of this section. A launch operator may initiate flight only if no member of the public is present within the land hazard area.
+\(a\) *General.* A flight hazard area analysis must establish land hazard areas in the vicinity of the launch site and land hazard areas in the vicinity of each land impact location to ensure that the probability of a member of the public being struck by debris satisfies the probability threshold of 1 × 10−6 required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b) and to determine exclusion areas that may require entry control and surveillance prior to initiation of flight. The analysis must establish a land impact hazard area that accounts for the effects of impacting debris resulting from normal and malfunctioning launch vehicle flight, except for toxic effects, and accounts for potential impact locations of all debris fragments. The land hazard area must encompass all individual casualty contours and the near-launch-point blast hazard area calculated as required by paragraph (c) of this section. A launch operator may initiate flight only if no member of the public is present within the land hazard area.
 
 \(b\) *Land hazard areas analysis input.* A land hazard analysis must account for the following inputs to determine the land hazard area:
 
@@ -3052,17 +3052,17 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # C417.1   General
 
-\(a\) This appendix contains methodologies for performing the flight safety analysis required for the launch of an unguided suborbital launch vehicle flown with a wind weighting safety system, except for the hazard area analysis required by §417.107, which is covered in appendix B of this part. This appendix includes methodologies for a trajectory analysis, wind weighting analysis, debris analysis, debris risk analysis, and a collision avoidance analysis.
+\(a\) This appendix contains methodologies for performing the flight safety analysis required for the launch of an unguided suborbital launch vehicle flown with a wind weighting safety system, except for the hazard area analysis required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]], which is covered in appendix B of this part. This appendix includes methodologies for a trajectory analysis, wind weighting analysis, debris analysis, debris risk analysis, and a collision avoidance analysis.
 
 \(b\) The requirements of this appendix apply to a launch operator and the launch operator's flight safety analysis unless the launch operator clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety.
 
 \(c\) A launch operator must:
 
-\(1\) Perform a flight safety analysis to determine the launch parameters and conditions under which an unguided suborbital launch vehicle may be flown using a wind weighting safety system as required by §417.233.
+\(1\) Perform a flight safety analysis to determine the launch parameters and conditions under which an unguided suborbital launch vehicle may be flown using a wind weighting safety system as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.233   Analysis for an unguided suborbital launch vehicle flown with a wind weighting safety system.|§417.233]].
 
-\(2\) When conducting the flight safety analysis, comply with the safety criteria and operational requirements contained in §417.125; and
+\(2\) When conducting the flight safety analysis, comply with the safety criteria and operational requirements contained in [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]]; and
 
-\(3\) Conduct the flight safety analysis for an unguided suborbital launch vehicle using the methodologies of this appendix and appendix B of this part unless the launch operator demonstrates, in accordance with §406.3(b), through the licensing process, that an alternate method provides an equivalent level of fidelity.
+\(3\) Conduct the flight safety analysis for an unguided suborbital launch vehicle using the methodologies of this appendix and appendix B of this part unless the launch operator demonstrates, in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), through the licensing process, that an alternate method provides an equivalent level of fidelity.
 
 # C417.3   Trajectory analysis
 
@@ -3210,7 +3210,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(3\) A launch operator must determine a three-sigma dispersion area for each impacting stage or component as an ellipse that is centered at the nominal drag impact point location and has semi-major and semi-minor axes along the uprange, downrange, left crossrange, and right crossrange axes. The length of each axis must be three times as large as the total one-sigma drag impact point dispersions in each direction.
 
-\(g\) *Trajectory analysis products for a suborbital launch vehicle.* A launch operator must file the following products of a trajectory analysis for an unguided suborbital launch vehicle with the FAA as required by §417.203(e):
+\(g\) *Trajectory analysis products for a suborbital launch vehicle.* A launch operator must file the following products of a trajectory analysis for an unguided suborbital launch vehicle with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e):
 
 \(1\) A description of the process that the launch operator used for performing the trajectory analysis, including the number of simulation runs and the process for any Monte Carlo analysis performed.
 
@@ -3234,7 +3234,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # C417.5   Wind weighting analysis
 
-\(a\) *General.* As part of a wind weighting safety system, a launch operator must perform a wind weighting analysis to determine launcher azimuth and elevation settings that correct for the windcocking and wind-drift effects on an unguided suborbital launch vehicle due to forecasted winds in the airspace region of flight. A launch operator's wind weighting safety system and its operation must comply with §417.125(c). The launch azimuth and elevation settings resulting from a launch operator's wind weighting analysis must produce a trajectory, under actual wind conditions, that results in a final stage drag impact point that is the same as the final stage's nominal drag impact point determined according to section C417.3(d).
+\(a\) *General.* As part of a wind weighting safety system, a launch operator must perform a wind weighting analysis to determine launcher azimuth and elevation settings that correct for the windcocking and wind-drift effects on an unguided suborbital launch vehicle due to forecasted winds in the airspace region of flight. A launch operator's wind weighting safety system and its operation must comply with [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]](c). The launch azimuth and elevation settings resulting from a launch operator's wind weighting analysis must produce a trajectory, under actual wind conditions, that results in a final stage drag impact point that is the same as the final stage's nominal drag impact point determined according to section C417.3(d).
 
 \(b\) *Wind weighting analysis constraints.* (1) A launch operator's wind weighting analysis must:
 
@@ -3266,7 +3266,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(2\) A launch operator must perform runs of the 6-DOF trajectory simulation using the flight day measured winds as input and targeting for the nominal final stage drag impact point. In an iterative process, vary the launcher elevation angle and azimuth angle settings for each simulation run until the nominal final stage impact point is achieved. The launch operator must use the resulting launcher elevation angle and azimuth angle settings to correct for the flight day winds. The launch operator must not initiate flight unless the launcher elevation angle and azimuth angle settings after wind weighting are in accordance with the following:
 
-\(i\) The launcher elevation angle setting resulting from the wind weighting analysis must not exceed ±5° from the nominal launcher elevation angle setting and must not exceed a total of 86° for a proven launch vehicle, and 84° for an unproven launch vehicle. A launch operator's nominal launcher elevation angle setting must be as required by §417.125(c)(3).
+\(i\) The launcher elevation angle setting resulting from the wind weighting analysis must not exceed ±5° from the nominal launcher elevation angle setting and must not exceed a total of 86° for a proven launch vehicle, and 84° for an unproven launch vehicle. A launch operator's nominal launcher elevation angle setting must be as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.125   Launch of an unguided suborbital launch vehicle.|§417.125]](c)(3).
 
 \(ii\) The launcher azimuth angle setting resulting from the wind weighting analysis must not exceed + 30° from the nominal launcher azimuth angle setting unless the launch operator demonstrates clearly and convincingly, through the licensing process, that its unguided suborbital launch vehicle has a low sensitivity to high wind speeds, and the launch operator's wind weighting analysis and wind measuring process provide an equivalent level of safety.
 
@@ -3276,7 +3276,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(5\) A launch operator must verify that the launcher elevation angle and azimuth angle settings at the time of liftoff are the same as required by the wind weighting analysis.
 
-\(6\) A launch operator must monitor and verify that any wind variations and maximum wind limits at the time of liftoff are within the flight commit criteria established according to §417.113(c).
+\(6\) A launch operator must monitor and verify that any wind variations and maximum wind limits at the time of liftoff are within the flight commit criteria established according to [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c).
 
 \(7\) A launch operator must generate output data from its wind weighting analysis for each impacting stage or component in printed, plotted, or computer medium format. This data must include:
 
@@ -3286,7 +3286,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(iii\) Final launcher settings recorded.
 
-\(d\) *Wind weighting analysis products.* The products of a launch operator's wind weighting analysis filed with the FAA as required by §417.203(e) must include the following:
+\(d\) *Wind weighting analysis products.* The products of a launch operator's wind weighting analysis filed with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e) must include the following:
 
 \(1\) A launch operator must file a description of its wind weighting analysis methods, including its method and schedule of determining wind speed and wind direction for each altitude layer.
 
@@ -3296,7 +3296,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # C417.7   Debris analysis
 
-\(a\) *General.* A flight safety analysis must include a debris analysis that satisfies the requirements of §417.211. This section applies to the debris data required by §417.211 and the debris analysis products that a launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A flight safety analysis must include a debris analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.211   Debris analysis.|§417.211]]. This section applies to the debris data required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.211   Debris analysis.|§417.211]] and the debris analysis products that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Debris analysis constraints.* A debris analysis must produce the debris model described in paragraph (c) of this section. The analysis must account for all launch vehicle debris fragments, individually or in groupings of fragments called classes. The characteristics of each debris fragment represented by a class must be similar enough to the characteristics of all the other debris fragments represented by that class that all the debris fragments of the class can be described by a single set of characteristics. Paragraph (c)(10) of this section applies when establishing a debris class. A debris model must describe the physical, aerodynamic, and harmful characteristics of each debris fragment either individually or as a member of a class. A debris model must consist of lists of individual debris or debris classes for each cause of breakup and any planned jettison of debris, launch vehicle components, or payload. A debris analysis must account for:
 
@@ -3354,7 +3354,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 β′sub is the median subsonic ballistic coefficient for the fragments in a class.
 
-\(d\) *Debris analysis products.* The products of a debris analysis that a launch operator must file with the FAA as required by §417.203(e) must include:
+\(d\) *Debris analysis products.* The products of a debris analysis that a launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e) must include:
 
 \(1\) *Debris model.* The launch operator's debris model that satisfies the requirements of this section.
 
@@ -3392,7 +3392,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # C417.9   Debris risk
 
-\(a\) *General.* A launch operator must perform a debris risk analysis that satisfies the requirements of §417.225. This section applies to the computation of the average number of casualties (Ec) to the collective members of the public exposed to inert and explosive debris hazards from the proposed flight of an unguided suborbital launch vehicle as required by §417.225 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e).
+\(a\) *General.* A launch operator must perform a debris risk analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.225   Debris risk analysis.|§417.225]]. This section applies to the computation of the average number of casualties (Ec) to the collective members of the public exposed to inert and explosive debris hazards from the proposed flight of an unguided suborbital launch vehicle as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.225   Debris risk analysis.|§417.225]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e).
 
 \(b\) *Debris risk analysis constraints.* The following constraints apply to debris risk:
 
@@ -3516,7 +3516,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 # C417.11   Collision avoidance
 
-\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that satisfies the requirements of §417.231. This section applies to a launch operator obtaining a collision avoidance assessment from United States Strategic Command as required by §417.231 and to the analysis products that the launch operator must file with the FAA as required by §417.203(e). United States Strategic Command refers to a collision avoidance analysis for a space launch as a conjunction on launch assessment.
+\(a\) *General.* A flight safety analysis must include a collision avoidance analysis that satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.231   Collision avoidance analysis.|§417.231]]. This section applies to a launch operator obtaining a collision avoidance assessment from United States Strategic Command as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.231   Collision avoidance analysis.|§417.231]] and to the analysis products that the launch operator must file with the FAA as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e). United States Strategic Command refers to a collision avoidance analysis for a space launch as a conjunction on launch assessment.
 
 \(b\) *Analysis not required.* A collision avoidance analysis is not required if the maximum altitude attainable by the launch operator's unguided suborbital launch vehicle is less than the altitude of the lowest manned or mannable orbiting object. The maximum altitude attainable means an optimized trajectory, assuming 3-sigma maximum performance, extended through fuel exhaustion of each stage, to achieve a maximum altitude.
 
@@ -3528,7 +3528,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(3\) A launch operator may use a collision avoidance analysis for 12 hours from the time that United States Strategic Command determines the state vectors of the manned or mannable orbiting objects. If a launch operator needs an updated collision avoidance analysis due to a launch delay, the launch operator must file the request with United States Strategic Command at least 12 hours prior to the beginning of the new launch window.
 
-\(4\) For every 90 minutes, or portion of 90 minutes, that pass between the time United States Strategic Command last determined the state vectors of the orbiting objects, a launch operator must expand each wait in a launch window by subtracting 15 seconds from the start of the wait in the launch window and adding 15 seconds to the end of the wait in the launch window. A launch operator must incorporate all the resulting waits in the launch window into its flight commit criteria established as required by §417.113.
+\(4\) For every 90 minutes, or portion of 90 minutes, that pass between the time United States Strategic Command last determined the state vectors of the orbiting objects, a launch operator must expand each wait in a launch window by subtracting 15 seconds from the start of the wait in the launch window and adding 15 seconds to the end of the wait in the launch window. A launch operator must incorporate all the resulting waits in the launch window into its flight commit criteria established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
 \(d\) *Information required.* A launch operator must prepare a collision avoidance analysis worksheet for each launch using a standardized format that contains the input data required by this paragraph. A launch operator must file the input data with United States Strategic Command for the purposes of completing a collision avoidance analysis.
 
@@ -3578,7 +3578,7 @@ C is the TNT equivalency coefficient of the propellant being evaluated. A launch
 
 \(9\) *Deliverable schedule/need dates.* A launch operator must identify the times before flight, referred to as “L-times,” for which the launch operator requests a collision avoidance analysis.
 
-\(e\) *Collision avoidance assessment products.* A launch operator must file its collision avoidance analysis products as required by §417.203(e) and must include the input data required by paragraph (d) of this section. A launch operator must incorporate the result of the collision avoidance analysis into its flight commit criteria established as required by §417.113.
+\(e\) *Collision avoidance assessment products.* A launch operator must file its collision avoidance analysis products as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e) and must include the input data required by paragraph (d) of this section. A launch operator must incorporate the result of the collision avoidance analysis into its flight commit criteria established as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]].
 
 ### Appendix D to Part 417—Flight Termination Systems, Components, Installation, and Monitoring
 
@@ -3588,7 +3588,7 @@ This appendix applies to each flight termination system and the components that 
 
 # D417.3   Flight termination system functional requirements
 
-\(a\) When a flight safety system terminates the flight of a vehicle because it has either violated a flight safety rule as defined in §417.113 or the vehicle inadvertently separates or destructs as described in section D417.11, a flight termination system must:
+\(a\) When a flight safety system terminates the flight of a vehicle because it has either violated a flight safety rule as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]] or the vehicle inadvertently separates or destructs as described in section D417.11, a flight termination system must:
 
 \(1\) Render each propulsion system that has the capability of reaching a populated or other protected area, incapable of propulsion, without significant lateral or longitudinal deviation in the impact point. This includes each stage and any strap on motor or propulsion system that is part of any payload;
 
@@ -3604,7 +3604,7 @@ This appendix applies to each flight termination system and the components that 
 
 # D417.5   Flight termination system design
 
-\(a\) *Reliability prediction.* A flight termination system must have a predicted reliability of 0.999 at a confidence level of 95 percent. A launch operator must demonstrate the system's predicted reliability by satisfying the requirements for system reliability analysis of §417.309(b).
+\(a\) *Reliability prediction.* A flight termination system must have a predicted reliability of 0.999 at a confidence level of 95 percent. A launch operator must demonstrate the system's predicted reliability by satisfying the requirements for system reliability analysis of [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b).
 
 \(b\) *Single fault tolerance.* A flight termination system, including monitoring and checkout circuits, must not have a single failure point that would:
 
@@ -3630,7 +3630,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(f\) *Ability to test.* A flight termination system, including each component and associated ground support and monitoring equipment, must satisfy the tests required by appendix E of this part.
 
-\(g\) *Software safety critical functions.* The requirements of §417.123 apply to any computing system, software or firmware that is associated with a flight termination system and performs a software safety critical function as defined in §417.123.
+\(g\) *Software safety critical functions.* The requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]] apply to any computing system, software or firmware that is associated with a flight termination system and performs a software safety critical function as defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]].
 
 \(h\) *Component storage, operating, and service life.* Each flight termination system component must have a specified storage life, operating life, and service life and must satisfy all of the following:
 
@@ -3714,7 +3714,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(c\) The initiation of a command destruct system must result in accomplishing all the flight termination system functions of section D417.3.
 
-\(d\) At any point along the nominal trajectory from liftoff until no longer required by §417.107, a command destruct system must operate with a radio frequency input signal that has an electromagnetic field intensity of 12 dB below the intensity provided by the command transmitter system under nominal conditions over 95 percent of the radiation sphere surrounding the launch vehicle.
+\(d\) At any point along the nominal trajectory from liftoff until no longer required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]], a command destruct system must operate with a radio frequency input signal that has an electromagnetic field intensity of 12 dB below the intensity provided by the command transmitter system under nominal conditions over 95 percent of the radiation sphere surrounding the launch vehicle.
 
 \(e\) A command destruct system must survive the breakup of the launch vehicle until the system accomplishes all its flight termination functions or until breakup of the vehicle, including the use of any automatic or inadvertent separation destruct system, accomplishes the required flight termination.
 
@@ -3752,7 +3752,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(iii\) If operation of the launch vehicle could result in satisfaction of the safing criteria for one of the two safing parameters or conditions before normal thrust termination of the stage or strap-on motor to which the parameter or condition applies, the launch operator must demonstrate that the greatest remaining thrust, assuming a three-sigma maximum engine performance, cannot result in the stage or strap-on motor reaching a populated or other protected area;
 
-\(2\) If a radio command safes a flight termination system, the command control system used for in-flight safing must be single fault tolerant against inadvertent transmission of a safing command under §417.303(d).
+\(2\) If a radio command safes a flight termination system, the command control system used for in-flight safing must be single fault tolerant against inadvertent transmission of a safing command under [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]](d).
 
 # D417.15   Flight termination system installation
 
@@ -3810,7 +3810,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(a\) *General.* All flight termination system electrical components and electronic circuitry must satisfy the requirements of this section.
 
-\(b\) *Electronic piece-parts.* Each electronic piece-part that can affect the reliability of an electrical component or electronic circuitry during flight must satisfy §417.309(b)(2) of this part.
+\(b\) *Electronic piece-parts.* Each electronic piece-part that can affect the reliability of an electrical component or electronic circuitry during flight must satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b)(2) of this part.
 
 \(c\) *Over and under input voltage protection.* A flight termination system component must satisfy all its performance specifications and not sustain any damage when subjected to a maximum input voltage of no less than the maximum open circuit voltage of the component's power source. The component must satisfy all its performance specifications and not sustain any damage when subjected to a minimum input voltage of no greater than the minimum loaded voltage of the component's power source.
 
@@ -3892,9 +3892,9 @@ This appendix applies to each flight termination system and the components that 
 
 # D417.27   Electronic components
 
-\(a\) *General.* The requirements in this section apply to each electronic component that contains piece-part circuitry and is part of a flight termination system, including each command receiver decoder. Each piece-part used in an electronic component must satisfy §417.309(b)(2) of this part.
+\(a\) *General.* The requirements in this section apply to each electronic component that contains piece-part circuitry and is part of a flight termination system, including each command receiver decoder. Each piece-part used in an electronic component must satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b)(2) of this part.
 
-\(b\) *Response time.* Each electronic component's response time must be such that the total flight termination system response time, from receipt of a destruct command sequence to initiation of destruct output, is less than or equal to the response time used in the time delay analysis required by §417.221.
+\(b\) *Response time.* Each electronic component's response time must be such that the total flight termination system response time, from receipt of a destruct command sequence to initiation of destruct output, is less than or equal to the response time used in the time delay analysis required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.221   Time delay analysis.|§417.221]].
 
 \(c\) *Wire and connectors.* All wire and connectors used in an electronic component must satisfy section D417.31.
 
@@ -4010,7 +4010,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(7\) *Noise level margin.* The receiver decoder's guaranteed input sensitivity must be no less than 6 dB higher than the maximum predicted noise-floor.
 
-\(8\) *Voltage standing wave ratio.* All radio frequency losses within the receiver decoder interface to the antenna system must satisfy the 12-dB margin of §417.9(d) and be repeatable to demonstrate in-family performance. The radio frequency receiving system and the impedance of the receiver decoder must match.
+\(8\) *Voltage standing wave ratio.* All radio frequency losses within the receiver decoder interface to the antenna system must satisfy the 12-dB margin of [[Volume 4/C Licensing/0417 Launch safety.md#§417.9   Launch site responsibility.|§417.9]](d) and be repeatable to demonstrate in-family performance. The radio frequency receiving system and the impedance of the receiver decoder must match.
 
 \(9\) *Decoder channel bandwidth.* The receiver decoder must provide for reliable recognition of the command signal when subjected to variations in ground transmitter tone frequency and frequency modulation deviation variations. The command receiver must satisfy all its performance specifications within the specified tone filter frequency bandwidth using a frequency modulation tone deviation from 2 dB to 20 dB above the measured threshold level.
 
@@ -4074,7 +4074,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(3\) Produces an open circuit.
 
-\(l\) Each connector that can affect a flight termination system component's reliability during flight must satisfy the requirements of §417.309(b)(2) of this part.
+\(l\) Each connector that can affect a flight termination system component's reliability during flight must satisfy the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b)(2) of this part.
 
 \(m\) All connectors must positively lock to prevent inadvertent disconnection during launch vehicle processing and flight.
 
@@ -4176,7 +4176,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(c\) All wiring and connectors used in a safe-and-arm device must satisfy section D417.31.
 
-\(d\) Each piece-part that is used in the firing circuit of a safe-and-arm device and that can affect the reliability of the device during flight must satisfy §417.309(b)(2) of this part.
+\(d\) Each piece-part that is used in the firing circuit of a safe-and-arm device and that can affect the reliability of the device during flight must satisfy [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]](b)(2) of this part.
 
 \(e\) A safe-and-arm device's internal electro-explosive device must satisfy the requirements for an ordnance initiator of section D417.41.
 
@@ -4406,7 +4406,7 @@ This appendix applies to each flight termination system and the components that 
 
 \(c\) When initiated, a destruct charge acceptor, where applicable, or main charge must ensure the transfer of the explosive charge with a reliability of 0.999 at a 95% confidence level.
 
-\(d\) Initiation of a destruct charge must result in a flight termination system action in accordance with the flight termination system functional requirements of §417.303.
+\(d\) Initiation of a destruct charge must result in a flight termination system action in accordance with the flight termination system functional requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.303   Command control system requirements.|§417.303]].
 
 \(e\) A destruct charge must sever or penetrate 150% of the thickness of the material that must be severed or penetrated in order for the destruct charge to accomplish its intended flight termination function. A destruct charge, when initiated to terminate the flight of a launch vehicle, must not detonate any launch vehicle or payload propellant.
 
@@ -6472,7 +6472,7 @@ This section applies to any component that is critical to the reliability of a f
 
 \(ii\) The flight termination system, except for all ordnance initiation devices, must undergo the test in its final onboard launch vehicle configuration;
 
-\(iii\) The test must use a destruct initiator simulator that satisfies §417.307(h) in place of each flight initiator to demonstrate that the command destruct and inadvertent separation destruct systems deliver the required energy to initiate the flight termination system ordnance;
+\(iii\) The test must use a destruct initiator simulator that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]](h) in place of each flight initiator to demonstrate that the command destruct and inadvertent separation destruct systems deliver the required energy to initiate the flight termination system ordnance;
 
 \(iv\) The flight termination system must undergo the test while powered by the batteries that the launch vehicle will use for flight. A flight termination system battery must not undergo recharging at any time during or after the end-to-end test. If the battery is recharged at any time before flight the system must undergo the end-to-end test again;
 
@@ -6516,7 +6516,7 @@ This section applies to any component that is critical to the reliability of a f
 
 \(iii\) The flight termination system, except for the ordnance initiation devices, must undergo the test in its final onboard launch vehicle configuration;
 
-\(iv\) The test must use a destruct initiator simulator that satisfies §417.307(h) in place of each flight initiator to demonstrate that the command destruct and inadvertent separation destruct systems deliver the energy required to initiate the flight termination system ordnance;
+\(iv\) The test must use a destruct initiator simulator that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.307   Support systems.|§417.307]](h) in place of each flight initiator to demonstrate that the command destruct and inadvertent separation destruct systems deliver the energy required to initiate the flight termination system ordnance;
 
 \(v\) The flight termination system must undergo the test while powered by the batteries that the launch vehicle will use for flight. A flight termination system battery must not undergo recharging at any time during or after the end-to-end test. If the battery is recharged at any time before flight the system must undergo the end-to-end test again;
 
@@ -6884,7 +6884,7 @@ A launch operator may not initiate flight if the flight path will carry the laun
 
 # I417.1   General
 
-This appendix provides methodologies for performing toxic release hazard analysis for the flight of a launch vehicle as required by §417.227 and for launch processing at a launch site in the United States as required by §417.407(f). The requirements of this appendix apply to a launch operator and the launch operator's toxic release hazard analysis unless the launch operator clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety.
+This appendix provides methodologies for performing toxic release hazard analysis for the flight of a launch vehicle as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.227   Toxic release hazard analysis.|§417.227]] and for launch processing at a launch site in the United States as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.407   Hazard control implementation.|§417.407]](f). The requirements of this appendix apply to a launch operator and the launch operator's toxic release hazard analysis unless the launch operator clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety.
 
 # I417.3   Identification of non-toxic and toxic propellants
 
@@ -6920,7 +6920,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 # I417.5   Toxic release hazard analysis for launch vehicle flight
 
-\(a\) *General.* For each launch, a launch operator's toxic release hazard analysis must determine all hazards to the public from any toxic release that will occur during the proposed flight of a launch vehicle or that would occur in the event of a flight mishap. A launch operator must use the results of the toxic release hazard analysis to establish for each launch, in accordance with §417.113(c), flight commit criteria that protect the public from a casualty arising out of any potential toxic release. A launch operator's toxic release hazard analysis must determine if toxic release can occur based on an evaluation of the propellants, launch vehicle materials, and estimated combustion products. This evaluation must account for both normal combustion products and the chemical composition of any unreacted propellants.
+\(a\) *General.* For each launch, a launch operator's toxic release hazard analysis must determine all hazards to the public from any toxic release that will occur during the proposed flight of a launch vehicle or that would occur in the event of a flight mishap. A launch operator must use the results of the toxic release hazard analysis to establish for each launch, in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c), flight commit criteria that protect the public from a casualty arising out of any potential toxic release. A launch operator's toxic release hazard analysis must determine if toxic release can occur based on an evaluation of the propellants, launch vehicle materials, and estimated combustion products. This evaluation must account for both normal combustion products and the chemical composition of any unreacted propellants.
 
 \(b\) *Evaluating toxic hazards for launch vehicle flight.* Each launch must satisfy either the exclusion requirements of section I417.3(b), the containment requirements of paragraph (c) of this section, or the statistical risk management requirements of paragraph (d) of this section, to prevent any casualty that could arise out of exposure to any toxic release.
 
@@ -6958,9 +6958,9 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(i\) The launch operator demonstrates that there are no populated areas contained or partially contained within the toxic hazard area; and
 
-\(ii\) The launch operator ensures that no member of the public is present within the toxic hazard area during preflight fueling, launch countdown, flight and immediate postflight operations at the launch site. To ensure the absence of the public, a launch operator must develop flight commit criteria and related provisions for implementation as part of the launch operator's flight safety plan and hazard area surveillance and clearance plan developed under §§417.111(b) and 417.111(j), respectively.
+\(ii\) The launch operator ensures that no member of the public is present within the toxic hazard area during preflight fueling, launch countdown, flight and immediate postflight operations at the launch site. To ensure the absence of the public, a launch operator must develop flight commit criteria and related provisions for implementation as part of the launch operator's flight safety plan and hazard area surveillance and clearance plan developed under §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b) and 417.111(j), respectively.
 
-\(4\) *Evacuation of populated areas within a toxic hazard area.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area, the launch operator does not have to satisfy paragraph (c)(5) of this section if the launch operator evacuates all people from all populated areas at risk and ensures that no member of the public is present within the toxic hazard area during preflight fueling and flight. A launch operator must develop flight commit criteria and provisions for implementation of the evacuations as part of the launch operator's flight safety plan, hazard area surveillance and clearance plan, and local agreements and public coordination plan developed according to §§417.111(b), 417.111(j) and 417.111(i), respectively.
+\(4\) *Evacuation of populated areas within a toxic hazard area.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area, the launch operator does not have to satisfy paragraph (c)(5) of this section if the launch operator evacuates all people from all populated areas at risk and ensures that no member of the public is present within the toxic hazard area during preflight fueling and flight. A launch operator must develop flight commit criteria and provisions for implementation of the evacuations as part of the launch operator's flight safety plan, hazard area surveillance and clearance plan, and local agreements and public coordination plan developed according to §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b), 417.111(j) and 417.111(i), respectively.
 
 \(5\) *Flight meteorological constraints.* For a launch where there is a populated area that is contained or partially contained within a toxic hazard area and that will not be evacuated under paragraph (c)(4) of this section, the launch is exempt from any further requirements of this section if the launch operator constrains the flight of a launch vehicle to favorable wind conditions or during times when atmospheric conditions result in reduced toxic hazard distances such that any potentially affected populated area is outside the toxic hazard area. A launch operator must employ wind and other meteorological constraints as follows:
 
@@ -6968,11 +6968,11 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(ii\) The launch operator must demonstrate that there are no populated areas within any arc segment toxic hazard area and that no member of the public is present within an arc segment toxic hazard area during preflight fueling, launch countdown, and immediate postflight operations at the launch site.
 
-\(iii\) A launch operator must establish wind constraints to ensure that any winds present at the time of flight will transport any toxicant into an arc segment toxic hazard area and away from any populated area. For each arc segment toxic hazard area, the wind constraints must consist of a range of downwind bearings that are within the arc segment toxic hazard area and that provide a safety buffer, in both the clockwise and counterclockwise directions, that accounts for any uncertainty in the spatial and temporal variations of the transport winds. When determining the wind uncertainty, a launch operator must account for the variance of the mean wind directions derived from measurements of the winds through the first 6000 feet in altitude at the launch point. Each clockwise and counterclockwise safety buffer must be no less than 20 degrees of arc width within the arc segment toxic hazard area. A launch operator must ensure that the wind conditions at the time of flight satisfy the wind constraints. To accomplish this, a launch operator must monitor the launch site vertical profile of winds from the altitude of the launch point to no less than 6,000 feet above ground level. The launch operator must proceed with a launch only if all wind vectors within this vertical range satisfy the wind constraints. A launch operator must develop wind constraint flight commit criteria and implementation provisions as part of the launch operator's flight safety plan and its hazard area surveillance and clearance plan developed according to §§417.111(b) and 417.111(j), respectively.
+\(iii\) A launch operator must establish wind constraints to ensure that any winds present at the time of flight will transport any toxicant into an arc segment toxic hazard area and away from any populated area. For each arc segment toxic hazard area, the wind constraints must consist of a range of downwind bearings that are within the arc segment toxic hazard area and that provide a safety buffer, in both the clockwise and counterclockwise directions, that accounts for any uncertainty in the spatial and temporal variations of the transport winds. When determining the wind uncertainty, a launch operator must account for the variance of the mean wind directions derived from measurements of the winds through the first 6000 feet in altitude at the launch point. Each clockwise and counterclockwise safety buffer must be no less than 20 degrees of arc width within the arc segment toxic hazard area. A launch operator must ensure that the wind conditions at the time of flight satisfy the wind constraints. To accomplish this, a launch operator must monitor the launch site vertical profile of winds from the altitude of the launch point to no less than 6,000 feet above ground level. The launch operator must proceed with a launch only if all wind vectors within this vertical range satisfy the wind constraints. A launch operator must develop wind constraint flight commit criteria and implementation provisions as part of the launch operator's flight safety plan and its hazard area surveillance and clearance plan developed according to §[[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b) and 417.111(j), respectively.
 
 \(iv\) A launch operator may reduce the radius of the circular toxic hazard area determined in accordance with paragraph (c)(3) of this section by imposing operational meteorological restrictions on specific parameters that mitigate potential toxic downwind concentrations levels at any potentially affected populated area to levels below the toxic concentration threshold of each toxicant in question. The launch operator must establish meteorological constraints to ensure that flight will be allowed to occur only if the specific meteorological conditions that would reduce the toxic hazard area exist and will continue to exist throughout the flight.
 
-\(d\) *Statistical toxic risk management for flight.* If a launch that involves the use of a toxic propellant does not satisfy the containment requirements of paragraph (c) of this section, the launch operator must use statistical toxic risk management to protect public safety. For each such case, a launch operator must perform a toxic risk assessment and develop launch commit criteria that protect the public from unacceptable risk due to planned and potential toxic release. A launch operator must ensure that the resultant toxic risk meets the collective and individual risk criteria requirements contained in §417.107(b). A launch operator's toxic risk assessment must account for the following:
+\(d\) *Statistical toxic risk management for flight.* If a launch that involves the use of a toxic propellant does not satisfy the containment requirements of paragraph (c) of this section, the launch operator must use statistical toxic risk management to protect public safety. For each such case, a launch operator must perform a toxic risk assessment and develop launch commit criteria that protect the public from unacceptable risk due to planned and potential toxic release. A launch operator must ensure that the resultant toxic risk meets the collective and individual risk criteria requirements contained in [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). A launch operator's toxic risk assessment must account for the following:
 
 \(1\) All credible vehicle failure and non-failure modes, along with the consequent release and combustion of propellants and other vehicle combustible materials.
 
@@ -6988,7 +6988,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(7\) Exposure duration and toxic propellant concentration or dosage that would result in casualty for all populations.
 
-\(e\) *Flight toxic release hazard analysis products.* The products of a launch operator's toxic release hazard analysis for launch vehicle flight to be filed in accordance with §417.203(e) must include the following:
+\(e\) *Flight toxic release hazard analysis products.* The products of a launch operator's toxic release hazard analysis for launch vehicle flight to be filed in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.203   Compliance.|§417.203]](e) must include the following:
 
 \(1\) For each launch, a listing of all propellants used on all launch vehicle components and any payloads.
 
@@ -7010,7 +7010,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(6\) When using the statistical toxic risk management approach of paragraph (d) of this section:
 
-\(i\) A description of the launch operator's toxic risk management process, including an explanation of how the launch operator ensures that any toxic risk from launch meets the toxic risk criteria of §417.107(b).
+\(i\) A description of the launch operator's toxic risk management process, including an explanation of how the launch operator ensures that any toxic risk from launch meets the toxic risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b).
 
 \(ii\) A listing of all models used.
 
@@ -7020,7 +7020,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 # I417.7   Toxic release hazard analysis for launch processing
 
-\(a\) *General.* A launch operator must perform a toxic release hazard analysis to determine potential public hazards from toxic releases that will occur during normal launch processing and that will occur in the event of a mishap during launch processing. This section implements the ground safety requirements of §417.407(g). A launch operator must use the results of the toxic release hazard analysis to establish hazard controls for protecting the public. A launch operator must include the toxic release hazard analysis results in the ground safety plan as required by §417.111(c).
+\(a\) *General.* A launch operator must perform a toxic release hazard analysis to determine potential public hazards from toxic releases that will occur during normal launch processing and that will occur in the event of a mishap during launch processing. This section implements the ground safety requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.407   Hazard control implementation.|§417.407]](g). A launch operator must use the results of the toxic release hazard analysis to establish hazard controls for protecting the public. A launch operator must include the toxic release hazard analysis results in the ground safety plan as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](c).
 
 \(b\) *Process hazards analysis.* A launch operator must perform an analysis on all processes to identify toxic hazards and determine the potential for release of a toxic propellant. The analysis must account for the complexity of the process and must identify and evaluate the hazards and each hazard control involved in the process. An analysis that complies with 29 CFR 1910.119(e) satisfies paragraphs (b)(1) and (b)(2) of this section. A launch operator's process hazards analysis must include the following:
 
@@ -7170,7 +7170,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 \(ii\) A launch operator may use air dispersion modeling techniques to define the meteorological conditions that, when present, would prevent a toxic hazard distance for a toxic concentration threshold from reaching populated areas. The launch operator, when employing this method, must constrain the associated launch processing operation to be conducted only when the prescribed meteorological conditions exist. A launch operator's air dispersion modeling technique must comply with paragraph (g) of this section.
 
-\(l\) *Statistical toxic risk management for launch processing.* The launch operator must use statistical toxic risk management to protect public safety if a process that involves the use of a toxic propellant does not satisfy the containment requirements of paragraph (d) of this section. A launch operator, for each such case, must perform a toxic risk assessment and develop criteria that protect the public from risks due to planned and potential toxic release. A launch operator must ensure that the resultant toxic risk meets the collective and individual risk criteria requirements defined in §417.107(b). A launch operator's toxic risk assessment must account for the following:
+\(l\) *Statistical toxic risk management for launch processing.* The launch operator must use statistical toxic risk management to protect public safety if a process that involves the use of a toxic propellant does not satisfy the containment requirements of paragraph (d) of this section. A launch operator, for each such case, must perform a toxic risk assessment and develop criteria that protect the public from risks due to planned and potential toxic release. A launch operator must ensure that the resultant toxic risk meets the collective and individual risk criteria requirements defined in [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b). A launch operator's toxic risk assessment must account for the following:
 
 \(1\) All credible equipment failure and non-failure modes, along with the consequent release and combustion of toxic propellants;
 
@@ -7232,7 +7232,7 @@ This appendix provides methodologies for performing toxic release hazard analysi
 
 # J417.1   General
 
-\(a\) This appendix provides the content and format requirements for a ground safety analysis report. A launch operator must perform a ground safety analysis as required by subpart E of part 417 and document the analysis in a ground safety analysis report that satisfies this appendix, as required by §417.402(d).
+\(a\) This appendix provides the content and format requirements for a ground safety analysis report. A launch operator must perform a ground safety analysis as required by subpart E of part 417 and document the analysis in a ground safety analysis report that satisfies this appendix, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.402   Compliance.|§417.402]](d).
 
 \(b\) A ground safety analysis report must contain hazard analyses that describe each hazard control, and describe a launch operator's hardware, software, and operations so that the FAA can assess the adequacy of the hazard analysis. A launch operator must document each hazard analysis on hazard analysis forms as required by §J417.3(d) and file each system and operation descriptions as a separate volume of the report.
 

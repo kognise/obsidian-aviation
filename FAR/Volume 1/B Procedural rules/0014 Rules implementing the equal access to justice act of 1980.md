@@ -12,7 +12,7 @@ The Equal Access to Justice Act, 5 U.S.C. 504 (the Act), provides for the award 
 
 ### §14.02   Proceedings covered.
 
-\(a\) The Act applies to certain adversary adjudications conducted by the FAA under 49 CFR part 17 and the Acquisition Management System (AMS). These are adjudications under 5 U.S.C. 554, in which the position of the FAA is represented by an attorney or other representative who enters an appearance and participates in the proceeding. This subpart applies to proceedings under 49 U.S.C. 46301, 46302, and 46303 and to the Default Adjudicative Process under part 17 of this chapter and the AMS.
+\(a\) The Act applies to certain adversary adjudications conducted by the FAA under 49 CFR part 17 and the Acquisition Management System (AMS). These are adjudications under 5 U.S.C. 554, in which the position of the FAA is represented by an attorney or other representative who enters an appearance and participates in the proceeding. This subpart applies to proceedings under 49 U.S.C. 46301, 46302, and 46303 and to the Default Adjudicative Process under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS.
 
 \(b\) If a proceeding includes both matters covered by the Act and matters specifically excluded from coverage, any award made will include only fees and expenses related to covered issues.
 
@@ -74,7 +74,7 @@ The Equal Access to Justice Act, 5 U.S.C. 504 (the Act), provides for the award 
 
 \(d\) The reasonable cost of any study, analysis, engineering report, test, project, or similar matter prepared on behalf of a party may be awarded, to the extent that the charge for the service does not exceed the prevailing rate for similar services, and the study or other matter was necessary for preparation of the applicant's case.
 
-\(e\) Fees may be awarded only for work performed after the issuance of a complaint, or in the Default Adjudicative Process for a protest or contract dispute under part 17 of this chapter and the AMS.
+\(e\) Fees may be awarded only for work performed after the issuance of a complaint, or in the Default Adjudicative Process for a protest or contract dispute under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS.
 
 \[Amdt. 13-18, 53 FR 34655, Sept. 7, 1988, as amended by Amdt. 14-1, 55 FR 15131, Apr. 20, 1990; Amdt. 14-03, 64 FR 32935, June 18, 1999\]
 
@@ -128,7 +128,7 @@ The application shall be accompanied by full documentation of the fees and expen
 
 \(c\) For purposes of this part, final disposition means the later of:
 
-\(1\) Under part 17 of this chapter and the AMS, the date on which the order of the Administrator is served;
+\(1\) Under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS, the date on which the order of the Administrator is served;
 
 \(2\) The date on which an unappealed initial decision becomes administratively final;
 
@@ -142,7 +142,7 @@ The application shall be accompanied by full documentation of the fees and expen
 
 ### §14.21   Filing and service of documents.
 
-Any application for an award or other pleading or document related to an application shall be filed and served on all parties to the proceeding in the same manner as other pleadings in the proceeding, except as provided in §14.11(b) for confidential financial information. Where the proceeding was held under part 17 of this chapter and the AMS, the application shall be filed with the FAA's attorney and with the Office of Dispute Resolution for Acquisition.
+Any application for an award or other pleading or document related to an application shall be filed and served on all parties to the proceeding in the same manner as other pleadings in the proceeding, except as provided in [[Volume 1/B Procedural rules/0014 Rules implementing the equal access to justice act of 1980.md#§14.11   Net worth exhibit.|§14.11]](b) for confidential financial information. Where the proceeding was held under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS, the application shall be filed with the FAA's attorney and with the Office of Dispute Resolution for Acquisition.
 
 \[Doc. No. FAA-1998-4379, 64 FR 32936, June 18, 1999\]
 
@@ -152,13 +152,13 @@ Any application for an award or other pleading or document related to an applica
 
 \(b\) If the FAA's counsel and the applicant believe that the issues in the fee application can be settled, they may jointly file a statement of their intent to negotiate a settlement. The filing of this statement shall extend the time for filing an answer for an additional 30 days, and further extensions may be granted by the ALJ or adjudicative officer upon request by the FAA's counsel and the applicant.
 
-\(c\) The answer shall explain in detail any objections to the award requested and identify the facts relied on in support of agency counsel's position. If the answer is based on any alleged facts not already in the record of the proceeding, agency counsel shall include with the answer either supporting affidavits or a request for further proceedings under §14.26.
+\(c\) The answer shall explain in detail any objections to the award requested and identify the facts relied on in support of agency counsel's position. If the answer is based on any alleged facts not already in the record of the proceeding, agency counsel shall include with the answer either supporting affidavits or a request for further proceedings under [[Volume 1/B Procedural rules/0014 Rules implementing the equal access to justice act of 1980.md#§14.26   Further proceedings.|§14.26]].
 
 \[54 FR 46199, Nov. 1, 1989, as amended by Amdt. 14-03, 64 FR 32936, June 18, 1999\]
 
 ### §14.23   Reply.
 
-Within 15 days after service of an answer, the applicant may file a reply. If the reply is based on any alleged facts not already in the record of the proceeding, the applicant shall include with the reply either supporting affidavits or a request for further proceedings under §14.26.
+Within 15 days after service of an answer, the applicant may file a reply. If the reply is based on any alleged facts not already in the record of the proceeding, the applicant shall include with the reply either supporting affidavits or a request for further proceedings under [[Volume 1/B Procedural rules/0014 Rules implementing the equal access to justice act of 1980.md#§14.26   Further proceedings.|§14.26]].
 
 ### §14.24   Comments by other parties.
 
@@ -182,7 +182,7 @@ The applicant and agency counsel may agree on a proposed settlement of the award
 
 \(a\) The ALJ shall issue an initial decision on the application within 60 days after completion of proceedings on the application.
 
-\(b\) An adjudicative officer in a proceeding under part 17 of this chapter and the AMS shall prepare a findings and recommendations for the Office of Dispute Resolution for Acquisition.
+\(b\) An adjudicative officer in a proceeding under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS shall prepare a findings and recommendations for the Office of Dispute Resolution for Acquisition.
 
 \(c\) A decision under paragraph (a) or (b) of this section shall include written findings and conclusions on the applicant's eligibility and status as prevailing party and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the FAA's position was substantially justified, or whether special circumstances make an award unjust.
 
@@ -190,9 +190,9 @@ The applicant and agency counsel may agree on a proposed settlement of the award
 
 ### §14.28   Review by FAA decisionmaker.
 
-\(a\) In proceedings other than those under part 17 of this chapter and the AMS, either the applicant or the FAA counsel may seek review of the initial decision on the fee application in accordance with subpart G of part 13 of this chapter, specifically §13.233. Additionally, the FAA Decisionmaker may decide to review the decision on his/her own initiative. If neither the applicant nor the FAA's counsel seeks review within 30 days after the decision is issued, it shall become final. Whether to review a decision is a matter within the discretion of the FAA Decisionmaker. If review is taken, the FAA Decisionmaker will issue a final decision on the application or remand the application to the ALJ who issue the initial fee award determination for further proceedings.
+\(a\) In proceedings other than those under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS, either the applicant or the FAA counsel may seek review of the initial decision on the fee application in accordance with subpart G of [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md|part 13 of this chapter]], specifically [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.233   Appeal from initial decision.|§13.233]]. Additionally, the FAA Decisionmaker may decide to review the decision on his/her own initiative. If neither the applicant nor the FAA's counsel seeks review within 30 days after the decision is issued, it shall become final. Whether to review a decision is a matter within the discretion of the FAA Decisionmaker. If review is taken, the FAA Decisionmaker will issue a final decision on the application or remand the application to the ALJ who issue the initial fee award determination for further proceedings.
 
-\(b\) In proceedings under part 17 of this chapter and the AMS, the adjudicative officer shall prepare findings and recommendations for the Office of Dispute Resolution for Acquisition with recommendations as to whether or not an award should be made, the amount of the award, and the reasons therefor. The Office of Dispute Resolution for Acquisition shall submit a recommended order to the Administrator after the completion of all submissions related to the EAJA application. Upon the Administrator's action, the order shall become final, and may be reviewed under 49 U.S.C. 46110.
+\(b\) In proceedings under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md|part 17 of this chapter]] and the AMS, the adjudicative officer shall prepare findings and recommendations for the Office of Dispute Resolution for Acquisition with recommendations as to whether or not an award should be made, the amount of the award, and the reasons therefor. The Office of Dispute Resolution for Acquisition shall submit a recommended order to the Administrator after the completion of all submissions related to the EAJA application. Upon the Administrator's action, the order shall become final, and may be reviewed under 49 U.S.C. 46110.
 
 \[Doc. No. FAA-1998-4379, 64 FR 32936, June 18, 1999, as amended at 70 FR 8238, Feb. 18, 2005\]
 

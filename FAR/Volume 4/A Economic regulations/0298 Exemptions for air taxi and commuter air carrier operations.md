@@ -14,7 +14,7 @@ This part establishes classifications of air carriers known as “air taxi opera
 
 As used in this part:
 
-*Air taxi operator* means an air carrier as established by §298.3(a).
+*Air taxi operator* means an air carrier as established by [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.3   Classification.|§298.3]](a).
 
 *Air transportation* means interstate air transportation, foreign air transportation, or the transportation of mail by aircraft as defined by the Statute.1
 
@@ -42,7 +42,7 @@ Air transportation also is defined to include the transportation of mail by airc
 
 \(3\) A corporation or association organized under the laws of the United States or a state, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
-*Commuter air carrier* means an air carrier as established by §298.3(b) that carries passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed.
+*Commuter air carrier* means an air carrier as established by [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.3   Classification.|§298.3]](b) that carries passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed.
 
 *Departure* means takeoff from an airport.
 
@@ -172,9 +172,9 @@ Air transportation also is defined to include the transportation of mail by airc
 
 \(2\) Do not hold a certificate of public convenience and necessity and do not engage in scheduled passenger operations as specified in paragraph (b) of this section;
 
-\(3\) Have and maintain in effect liability insurance coverage in compliance with the requirements set forth in part 205 of this chapter and have and maintain a current certificate of insurance evidencing such coverage on file with the Department;
+\(3\) Have and maintain in effect liability insurance coverage in compliance with the requirements set forth in [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]] and have and maintain a current certificate of insurance evidencing such coverage on file with the Department;
 
-\(4\) If operating in foreign air transportation or participating in an interline agreement, subscribe to Agreement 18900 (OST Form 4523 or OST Form 4507) and comply with all other requirements of part 203 of this chapter; and
+\(4\) If operating in foreign air transportation or participating in an interline agreement, subscribe to Agreement 18900 (OST Form 4523 or OST Form 4507) and comply with all other requirements of [[Volume 4/A Economic regulations/0203 Waiver of warsaw convention liability limits and defenses.md|part 203 of this chapter]]; and
 
 \(5\) Have registered with the Department in accordance with subpart C of this part.
 
@@ -186,9 +186,9 @@ Air transportation also is defined to include the transportation of mail by airc
 
 \(3\) Carry passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed;
 
-\(4\) Have and maintain in effect liability insurance coverage in compliance with the requirements set forth in part 205 of this chapter and have and maintain a current certificate of insurance evidencing such coverage on file with the Department;
+\(4\) Have and maintain in effect liability insurance coverage in compliance with the requirements set forth in [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]] and have and maintain a current certificate of insurance evidencing such coverage on file with the Department;
 
-\(5\) Have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523) and comply with all other requirements of part 203 of this chapter; and
+\(5\) Have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523) and comply with all other requirements of [[Volume 4/A Economic regulations/0203 Waiver of warsaw convention liability limits and defenses.md|part 203 of this chapter]]; and
 
 \(6\) Hold a Commuter Air Carrier Authorization issued in accordance with subpart E of this part.
 
@@ -210,7 +210,7 @@ Air taxi operators and commuter air carriers are hereby relieved from the follow
 
 \(1\) Tariffs for through rates, fares, and charges filed jointly by air taxi operators or commuter air carriers with air carriers or with foreign air carriers subject to the tariff-filing requirements of Chapter 415; and
 
-\(2\) Tariffs required to be filed by air taxi operators or commuter air carriers which embody the provisions of the counterpart to Agreement 18900 as specified in part 203 of this chapter;
+\(2\) Tariffs required to be filed by air taxi operators or commuter air carriers which embody the provisions of the counterpart to Agreement 18900 as specified in [[Volume 4/A Economic regulations/0203 Waiver of warsaw convention liability limits and defenses.md|part 203 of this chapter]];
 
 \(c\) Section 41702, except for the requirements that air taxi operators and commuter air carriers shall:
 
@@ -222,7 +222,7 @@ Air taxi operators and commuter air carriers are hereby relieved from the follow
 
 \(4\) Establish just, reasonable, and equitable divisions of such joint rates, fares, and charges as between air carriers participating therein which shall not unduly prefer or prejudice any of such participating air carriers;
 
-\(d\) Section 41310, except that the requirements of that subsection shall apply to through service provided pursuant to tariffs filed jointly by air taxi operators or commuter air carriers with certificated air carriers or with foreign air carriers and to transportation of the handicapped to the extent that that is required by part 382 of this chapter;
+\(d\) Section 41310, except that the requirements of that subsection shall apply to through service provided pursuant to tariffs filed jointly by air taxi operators or commuter air carriers with certificated air carriers or with foreign air carriers and to transportation of the handicapped to the extent that that is required by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md|part 382 of this chapter]];
 
 \(e\) Section 41902;
 
@@ -274,7 +274,7 @@ The exemption from any provision of 49 U.S.C. Subtitle VII provided by this part
 
 \(ix\) A certification that the registration is complete and accurate and that, if the carrier is engaged in foreign air transportation, or participating in an interline agreement, it subscribes to the terms of Agreement 18900 (*see* OST Form 4523).
 
-\(2\) A certificate of insurance (OST Form 6410) which is currently effective (or in case of initial registration, is to become effective), as defined in part 205 of this chapter;
+\(2\) A certificate of insurance (OST Form 6410) which is currently effective (or in case of initial registration, is to become effective), as defined in [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]];
 
 \(3\) An 8 dollar (\$8) registration filing fee in the form of a check, draft, or postal money order payable to the Department of Transportation.
 
@@ -284,7 +284,7 @@ The exemption from any provision of 49 U.S.C. Subtitle VII provided by this part
 
 ### §298.22   Processing by the Department.
 
-After examination of the OST Form 4507 submitted by the carrier, the Department will stamp the effective date of the registration on the form and return the duplicate copy to the carrier to confirm that it has registered with the Department as required by this part. The effective date of the registration shall not be earlier than the effective date of the insurance policy or policies named in the certificate of insurance filed by the carrier under §298.21(c)(2).
+After examination of the OST Form 4507 submitted by the carrier, the Department will stamp the effective date of the registration on the form and return the duplicate copy to the carrier to confirm that it has registered with the Department as required by this part. The effective date of the registration shall not be earlier than the effective date of the insurance policy or policies named in the certificate of insurance filed by the carrier under [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.21   Filing for registration by air taxi operators.|§298.21]](c)(2).
 
 ### §298.23   Notifications to the Department of change in operations.
 
@@ -302,7 +302,7 @@ The registration of an air taxi operator may be canceled by the Department if an
 
 \(b\) The operator's insurance coverage changes or lapses;
 
-\(c\) The operator fails to file an amended registration when required by §298.23;
+\(c\) The operator fails to file an amended registration when required by [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.23   Notifications to the Department of change in operations.|§298.23]];
 
 \(d\) The operator's Air Carrier Certificate and/or Operations Specifications is revoked by the Federal Aviation Administration;
 
@@ -316,7 +316,7 @@ The registration of an air taxi operator may be canceled by the Department if an
 
 \(a\) Every air taxi and commuter air carrier shall cause to be displayed continuously in a conspicuous public place at each desk, station and position in the United States that is in charge of a person employed exclusively by it, or by it jointly with another person, or by any agent employed by it to sell tickets to passengers, a sign located so as to be clearly visible and readable to the traveling public, containing a statement setting forth the air taxi and commuter air carrier's policy on baggage liability and denied boarding compensation.
 
-\(b\) An air taxi or commuter air carrier shall provide a written notice on or with a passenger's ticket concerning baggage liability as provided in §254.5 of this chapter. These ticket notices are required only for passengers whose ticket includes a flight segment that uses large aircraft (more than 60 seats).
+\(b\) An air taxi or commuter air carrier shall provide a written notice on or with a passenger's ticket concerning baggage liability as provided in [[Volume 4/A Economic regulations/0254 Domestic baggage liability.md#§254.5   Notice requirement.|§254.5]] of this chapter. These ticket notices are required only for passengers whose ticket includes a flight segment that uses large aircraft (more than 60 seats).
 
 \(c\) If the substantive terms of the counter sign and ticket notice required by this section differ, the terms contained in the required ticket notice govern.
 
@@ -344,21 +344,21 @@ An air taxi operator or commuter air carrier is not authorized to carry mail exc
 
 \(b\) Slogans shall not be considered names for the purposes of this section, and their use is not restricted hereby.
 
-\(c\) Commuter air carriers are subject to the provisions of part 215 of this chapter with regard to the use and change of air carrier names.
+\(c\) Commuter air carriers are subject to the provisions of [[Volume 4/A Economic regulations/0215 Use and change of names of air carriers, foreign air carriers and commuter air carriers.md|part 215 of this chapter]] with regard to the use and change of air carrier names.
 
 \(d\) Neither the provisions of this section nor the grant of a permission hereunder shall preclude Department intervention or enforcement action should there be evidence of a significant potential for, or of actual, public confusion.
 
 ### §298.37   Prohibition of services not covered by insurance.
 
-An air taxi operator or commuter air carrier shall not operate in air transportation or provide or offer to provide air transportation unless there is in effect liability insurance which covers such transportation and which is evidenced by a current certificate of insurance on file with the Department as required by part 205 of this chapter.
+An air taxi operator or commuter air carrier shall not operate in air transportation or provide or offer to provide air transportation unless there is in effect liability insurance which covers such transportation and which is evidenced by a current certificate of insurance on file with the Department as required by [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]].
 
 ### §298.38   Financial security arrangements for operating Public Charters.
 
-When an air taxi operator or commuter air carrier performs a Public Charter under part 380 of this chapter, either:
+When an air taxi operator or commuter air carrier performs a Public Charter under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]], either:
 
-\(a\) The air taxi operator or commuter air carrier shall meet the bonding or escrow requirements applicable to certificated air carriers as set forth in §212.8 of this chapter; or
+\(a\) The air taxi operator or commuter air carrier shall meet the bonding or escrow requirements applicable to certificated air carriers as set forth in [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.8   Protection of customers' payments.|§212.8]] of this chapter; or
 
-\(b\) The air taxi operator or commuter air carrier shall ensure that it does not receive any payments for the charter until after the charter has been completed. In this case, its contracts with the charter operator and the charter operator's depository bank, if any, shall state that the charter operator or bank, as applicable, shall retain control of and responsibility for all participant funds intended for payment for air transportation until after the charter has been completed, notwithstanding any provision of part 380 of this chapter.
+\(b\) The air taxi operator or commuter air carrier shall ensure that it does not receive any payments for the charter until after the charter has been completed. In this case, its contracts with the charter operator and the charter operator's depository bank, if any, shall state that the charter operator or bank, as applicable, shall retain control of and responsibility for all participant funds intended for payment for air transportation until after the charter has been completed, notwithstanding any provision of [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 ## Subpart E—Commuter Air Carrier Authorizations
 
@@ -368,9 +368,9 @@ When an air taxi operator or commuter air carrier performs a Public Charter unde
 
 \(1\) An application in accordance with the requirements of parts 201 and 302 of this chapter;
 
-\(2\) Data in accordance with part 204 of this chapter to support a determination by the Department that the person is “fit, willing, and able” to operate the proposed commuter service; and
+\(2\) Data in accordance with [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md|part 204 of this chapter]] to support a determination by the Department that the person is “fit, willing, and able” to operate the proposed commuter service; and
 
-\(3\) A \$670 filing fee submitted in accordance with the provisions of §389.21 of this chapter.
+\(3\) A \$670 filing fee submitted in accordance with the provisions of [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.21   Payment of fees.|§389.21]] of this chapter.
 
 \(b\) An executed original and two true copies of an application for a Commuter Air Carrier Authorization shall be filed with Docket Operations Office, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590.
 
@@ -378,23 +378,23 @@ When an air taxi operator or commuter air carrier performs a Public Charter unde
 
 ### §298.51   Processing by the Department.
 
-In processing applications filed in accordance with §298.50, the Department will generally follow the procedures set forth in §§302.207 through 302.211 of this chapter.
+In processing applications filed in accordance with [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.50   Application.|§298.50]], the Department will generally follow the procedures set forth in §[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.207   Cases to be decided on written submissions.|§302.207]] through 302.211 of this chapter.
 
 ### §298.52   Air taxi operations by commuter air carriers.
 
 \(a\) A commuter air carrier that holds an effective Commuter Air Carrier Authorization and otherwise meets the requirements of this part is also authorized to conduct air taxi operations (e.g., scheduled cargo, mail under a U.S. Postal Service contract, on-demand passenger, on-demand cargo, or other service such as air ambulance operations, firefighting or seasonal operations) without having to meet the registration requirements of subpart C of this part, except as provided in paragraph (b) of this section.
 
-\(b\) Should a commuter air carrier cease conducting all scheduled passenger operations and its Commuter Air Carrier Authorization is suspended pursuant to §§298.53 and/or 204.7 of this chapter, it may continue to conduct air taxi operations *provided that* the carrier maintains in effect liability insurance coverage as required for such operations by part 205 of this chapter and, within 10 days of the cessation of scheduled passenger operations, registers as an air taxi operator in accordance with subpart C of this part; and *provided further* that the carrier continues to hold authority from the Federal Aviation Administration to conduct such air taxi operations.
+\(b\) Should a commuter air carrier cease conducting all scheduled passenger operations and its Commuter Air Carrier Authorization is suspended pursuant to §[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.53   Suspension or revocation of authority.|§298.53]] and/or 204.7 of this chapter, it may continue to conduct air taxi operations *provided that* the carrier maintains in effect liability insurance coverage as required for such operations by [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]] and, within 10 days of the cessation of scheduled passenger operations, registers as an air taxi operator in accordance with subpart C of this part; and *provided further* that the carrier continues to hold authority from the Federal Aviation Administration to conduct such air taxi operations.
 
 ### §298.53   Suspension or revocation of authority.
 
 A Commuter Air Carrier Authorization may be suspended or revoked if any of the following occur:
 
-\(a\) The operator fails to maintain insurance coverage as required by part 205 of this chapter for commuter operations;
+\(a\) The operator fails to maintain insurance coverage as required by [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]] for commuter operations;
 
 \(b\) The scheduled passenger authority under the operator's Air Carrier Certificate is suspended or revoked by the Federal Aviation Administration;
 
-\(c\) The operator does not commence operations for which it has been found fit, or the operator ceases those operations as provided in §204.7 of this chapter;
+\(c\) The operator does not commence operations for which it has been found fit, or the operator ceases those operations as provided in [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md#§204.7   Revocation for dormancy.|§204.7]] of this chapter;
 
 \(d\) The Department finds that the carrier is not fit, willing, and able to conduct scheduled service or fails to qualify as a citizen of the United States; or
 
@@ -416,7 +416,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 \(a\) Each commuter air carrier and small certificated air carrier shall file Schedule T-100, U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market.”
 
-\(b\) Schedule T-100 shall be filed monthly as set forth in§298.60.
+\(b\) Schedule T-100 shall be filed monthly as set forth in[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.60   General reporting instructions.|§298.60]].
 
 \(1\) Schedule T-100 collects summarized flight stage data and on-flight market data from revenue flights. All traffic statistics shall be compiled in terms of each flight stage as actually performed. The detail T-100 data shall be maintained in such a manner as to permit monthly summarization and organization into two basic groupings. The first grouping, the nonstop segment information, is to be summarized by equipment type, within class of service, within pair-of-points, without regard to individual flight number. The second grouping requires that the enplanement/deplanement information be broken out into separate units called on-flight market records, which shall be summarized by class of service, within pair-of-points, without regard for equipment type or flight number.
 
@@ -516,7 +516,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 \(25\) *430 Revenue aircraft miles scheduled.* The number of revenue aircraft miles scheduled. All such data shall be maintained in conformity with the airport pairs between which service is scheduled, whether or not in accordance with actual performance.
 
-\(26\) *501 Inter-airport distance.* The great circle distance, in official statute miles as prescribed in part 247 of this chapter, between airports served by each flight stage. Official inter-airport mileage may be obtained from the Office of Airline Information.
+\(26\) *501 Inter-airport distance.* The great circle distance, in official statute miles as prescribed in [[Volume 4/A Economic regulations/0247 Direct airport-to-airport mileage records.md|part 247 of this chapter]], between airports served by each flight stage. Official inter-airport mileage may be obtained from the Office of Airline Information.
 
 \(27\) *510 Revenue aircraft departures performed.* The number of revenue aircraft departures performed.
 
@@ -534,7 +534,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 ### §298.62   Reporting of financial data.
 
-\(a\) Each commuter air carrier and each small certificated air carrier shall file BTS Form 298-C, Schedule F-1 “Report of Financial Data.” This report shall be filed quarterly as set forth in §298.60 of this part.
+\(a\) Each commuter air carrier and each small certificated air carrier shall file BTS Form 298-C, Schedule F-1 “Report of Financial Data.” This report shall be filed quarterly as set forth in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.60   General reporting instructions.|§298.60]] of this part.
 
 \(b\) Each carrier shall indicate in the space provided, its full corporate name and the quarter for which the report is filed.
 
@@ -554,7 +554,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 ### §298.63   Reporting of aircraft operating expenses and related statistics by small certificated air carriers.
 
-\(a\) Each small certificated air carrier shall file BTS Form 298-C, Schedule F-2 “Report of Aircraft Operating Expenses and Related Statistics.” This schedule shall be filed quarterly as prescribed in §298.60. Data reported on this report shall be for the overall or system operations of the air carrier.
+\(a\) Each small certificated air carrier shall file BTS Form 298-C, Schedule F-2 “Report of Aircraft Operating Expenses and Related Statistics.” This schedule shall be filed quarterly as prescribed in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.60   General reporting instructions.|§298.60]]. Data reported on this report shall be for the overall or system operations of the air carrier.
 
 \(b\) Each carrier shall indicate in the space provided its full corporate name and the quarter for which the report is filed.
 
@@ -600,7 +600,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 \(a\) If circumstances prevent the filing of BTS Form 298-C on or before the due date, a written request for an extension may be submitted. Except in cases of emergency, the request must be delivered to the BTS's Office of Airline Information in writing at least three days in advance of the due date. The request must state good and sufficient reason to justify the granting of the extension and the date when the reports can be filed. If the request is denied, the air carrier remains subject to the filing requirements to the same extent as if no request for extension of time had been made.
 
-\(b\) The Office of Airline Information may waive any reporting requirements contained in §§298.61, 298.62, 298.63 and 298.64 of this part, upon its own initiative or upon written request from any air carrier if the waiver is in the public interest and the request demonstrates that:
+\(b\) The Office of Airline Information may waive any reporting requirements contained in §[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.61   Reporting of traffic statistics.|§298.61]], 298.62, 298.63 and 298.64 of this part, upon its own initiative or upon written request from any air carrier if the waiver is in the public interest and the request demonstrates that:
 
 \(1\) Unusual circumstances warrant such a departure;
 
@@ -612,7 +612,7 @@ A Commuter Air Carrier Authorization may be suspended or revoked if any of the f
 
 ### §298.66   Reporting exemption for State collection of data.
 
-\(a\) The Office of Airline Information may exempt a commuter air carrier from the reporting requirements of §298.61 of this part if a State government collects the information specified in that section and provides it to the Department by the dates specified. The data provided to the Department in this manner must be at least as reliable as if they were collected by the Department directly.
+\(a\) The Office of Airline Information may exempt a commuter air carrier from the reporting requirements of [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.61   Reporting of traffic statistics.|§298.61]] of this part if a State government collects the information specified in that section and provides it to the Department by the dates specified. The data provided to the Department in this manner must be at least as reliable as if they were collected by the Department directly.
 
 \(b\) The Office of Airline Information will provide assistance to any State agency interested in participating in this exemption program.
 

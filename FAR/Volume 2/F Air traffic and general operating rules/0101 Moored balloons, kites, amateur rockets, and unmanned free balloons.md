@@ -10,13 +10,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.101](https://www.ecfr
 
 \(a\) This part prescribes rules governing the operation in the United States, of the following:
 
-\(1\) Except as provided for in §101.7, any balloon that is moored to the surface of the earth or an object thereon and that has a diameter of more than 6 feet or a gas capacity of more than 115 cubic feet.
+\(1\) Except as provided for in [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.7   Hazardous operations.|§101.7]], any balloon that is moored to the surface of the earth or an object thereon and that has a diameter of more than 6 feet or a gas capacity of more than 115 cubic feet.
 
-\(2\) Except as provided for in §101.7, any kite that weighs more than 5 pounds and is intended to be flown at the end of a rope or cable.
+\(2\) Except as provided for in [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.7   Hazardous operations.|§101.7]], any kite that weighs more than 5 pounds and is intended to be flown at the end of a rope or cable.
 
 \(3\) Any amateur rocket except aerial firework displays.
 
-\(4\) Except as provided for in §101.7, any unmanned free balloon that—
+\(4\) Except as provided for in [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.7   Hazardous operations.|§101.7]], any unmanned free balloon that—
 
 \(i\) Carries a payload package that weighs more than four pounds and has a weight/size ratio of more than three ounces per square inch on any surface of the package, determined by dividing the total weight in ounces of the payload package by the area in square inches of its smallest surface;
 
@@ -56,7 +56,7 @@ No person may operate a moored balloon, kite, amateur rocket, or unmanned free b
 
 ### §101.11   Applicability.
 
-This subpart applies to the operation of moored balloons and kites. However, a person operating a moored balloon or kite within a restricted area must comply only with §101.19 and with additional limitations imposed by the using or controlling agency, as appropriate.
+This subpart applies to the operation of moored balloons and kites. However, a person operating a moored balloon or kite within a restricted area must comply only with [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.19   Rapid deflation device.|§101.19]] and with additional limitations imposed by the using or controlling agency, as appropriate.
 
 ### §101.13   Operating limitations.
 
@@ -104,9 +104,9 @@ No person may operate a moored balloon unless it has a device that will automati
 
 ### §101.21   Applicability.
 
-\(a\) This subpart applies to operating unmanned rockets. However, a person operating an unmanned rocket within a restricted area must comply with §101.25(b)(7)(ii) and with any additional limitations imposed by the using or controlling agency.
+\(a\) This subpart applies to operating unmanned rockets. However, a person operating an unmanned rocket within a restricted area must comply with [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.25   Operating limitations for Class 2-High Power Rockets and Class 3-Advanced High Power Rockets.|§101.25]](b)(7)(ii) and with any additional limitations imposed by the using or controlling agency.
 
-\(b\) A person operating an unmanned rocket other than an amateur rocket as defined in §1.1 of this chapter must comply with 14 CFR Chapter III.
+\(b\) A person operating an unmanned rocket other than an amateur rocket as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of this chapter must comply with 14 CFR Chapter III.
 
 \[Doc. No. FAA-2007-27390, 73 FR 73781, Dec. 4, 2008\]
 
@@ -150,7 +150,7 @@ The following definitions apply to this subpart:
 
 ### §101.25   Operating limitations for Class 2-High Power Rockets and Class 3-Advanced High Power Rockets.
 
-When operating *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets, you must comply with the General Operating Limitations of §101.23. In addition, you must not operate *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets—
+When operating *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets, you must comply with the General Operating Limitations of [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.23   General operating limitations.|§101.23]]. In addition, you must not operate *Class 2-High Power Rockets* or *Class 3-Advanced High Power* Rockets—
 
 \(a\) At any altitude where clouds or obscuring phenomena of more than five-tenths coverage prevails;
 
@@ -242,7 +242,7 @@ No person may operate an unmanned rocket other than a Class 1—Model Rocket unl
 
 ### §101.31   Applicability.
 
-This subpart applies to the operation of unmanned free balloons. However, a person operating an unmanned free balloon within a restricted area must comply only with §101.33 (d) and (e) and with any additional limitations that are imposed by the using or controlling agency, as appropriate.
+This subpart applies to the operation of unmanned free balloons. However, a person operating an unmanned free balloon within a restricted area must comply only with [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md#§101.33   Operating limitations.|§101.33]] (d) and (e) and with any additional limitations that are imposed by the using or controlling agency, as appropriate.
 
 ### §101.33   Operating limitations.
 

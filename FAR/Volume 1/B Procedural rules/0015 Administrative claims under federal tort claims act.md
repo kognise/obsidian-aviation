@@ -120,9 +120,9 @@ A publisher that requests indemnification under this part will not be indemnifie
 
 \(4\) Was obviously defective or deficient;
 
-\(e\) The publisher does not give notice as required by §15.107 of this part and that failure is prejudicial to the Government; or
+\(e\) The publisher does not give notice as required by [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.107   Notification requirements.|§15.107]] of this part and that failure is prejudicial to the Government; or
 
-\(f\) The publisher does not appeal a lower court's decision pursuant to a request by the Administrator under §15.111(d)(2) of this part.
+\(f\) The publisher does not appeal a lower court's decision pursuant to a request by the Administrator under [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.111   Conduct of litigation.|§15.111]](d)(2) of this part.
 
 ### §15.105   Filing of requests for indemnification.
 
@@ -130,7 +130,7 @@ A request for indemnification under this part—
 
 \(a\) May be filed by—
 
-\(1\) A publisher described in §15.101 of this part; or
+\(1\) A publisher described in [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.101   Applicability.|§15.101]] of this part; or
 
 \(2\) The publisher's duly authorized agent or legal representative;
 
@@ -178,7 +178,7 @@ A request for indemnification will not be considered by the FAA unless the follo
 
 \(a\) If a lawsuit is filed against the publisher and the publisher has sought, or intends to seek, indemnification under this part, the publisher shall—
 
-\(1\) Give notice as required by §15.107 of this part;
+\(1\) Give notice as required by [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.107   Notification requirements.|§15.107]] of this part;
 
 \(2\) If requested by the United States—
 
@@ -190,11 +190,11 @@ A request for indemnification will not be considered by the FAA unless the follo
 
 \(4\) Cooperate with the United States in the defense of the lawsuit.
 
-\(b\) If the lawsuit filed against the publisher results in a proposed settlement, the publisher shall submit that proposed settlement to the FAA for approval in accordance with §15.109 of this part.
+\(b\) If the lawsuit filed against the publisher results in a proposed settlement, the publisher shall submit that proposed settlement to the FAA for approval in accordance with [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.109   Settlements.|§15.109]] of this part.
 
 \(c\) If the lawsuit filed against the publisher results in a judgment against the publisher and the publisher has sought, or intends to seek, indemnification under this part as a result of the adverse judgment, the publisher shall—
 
-\(1\) Give notice to the FAA as required by §15.107(d) of this part;
+\(1\) Give notice to the FAA as required by [[Volume 1/B Procedural rules/0015 Administrative claims under federal tort claims act.md#§15.107   Notification requirements.|§15.107]](d) of this part;
 
 \(2\) Submit a copy of the trial court's decision to the FAA Chief Counsel not more than 5 business days after the adverse judgment is rendered; and
 

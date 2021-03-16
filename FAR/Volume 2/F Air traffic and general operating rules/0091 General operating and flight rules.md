@@ -92,11 +92,11 @@ Note: \[Removed\]
 
 ### Special Federal Aviation Regulation No. 60—Air Traffic Control System Emergency Operation
 
-1\. Each person shall, before conducting any operation under the Federal Aviation Regulations (14 CFR chapter I), be familiar with all available information concerning that operation, including Notices to Airmen issued under §91.139 and, when activated, the provisions of the National Air Traffic Reduced Complement Operations Plan available for inspection at operating air traffic facilities and Regional air traffic division offices, and the General Aviation Reservation Program. No operator may change the designated airport of intended operation for any flight contained in the October 1, 1990, OAG.
+1\. Each person shall, before conducting any operation under the Federal Aviation Regulations (14 CFR chapter I), be familiar with all available information concerning that operation, including Notices to Airmen issued under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.139   Emergency air traffic rules.|§91.139]] and, when activated, the provisions of the National Air Traffic Reduced Complement Operations Plan available for inspection at operating air traffic facilities and Regional air traffic division offices, and the General Aviation Reservation Program. No operator may change the designated airport of intended operation for any flight contained in the October 1, 1990, OAG.
 
 2\. Notwithstanding any provision of the Federal Aviation Regulations to the contrary, no person may operate an aircraft in the Air Traffic Control System:
 
-a\. Contrary to any restriction, prohibition, procedure or other action taken by the Director of the Office of Air Traffic Systems Management (Director) pursuant to paragraph 3 of this regulation and announced in a Notice to Airmen pursuant to §91.139 of the Federal Aviation Regulations.
+a\. Contrary to any restriction, prohibition, procedure or other action taken by the Director of the Office of Air Traffic Systems Management (Director) pursuant to paragraph 3 of this regulation and announced in a Notice to Airmen pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.139   Emergency air traffic rules.|§91.139]] of the Federal Aviation Regulations.
 
 b\. When the National Air Traffic Reduced Complement Operations Plan is activated pursuant to paragraph 4 of this regulation, except in accordance with the pertinent provisions of the National Air Traffic Reduced Complement Operations Plan.
 
@@ -110,7 +110,7 @@ c\. Implement, at any airport, traffic management procedures, that may include r
 
 4\. The Director may activate the National Air Traffic Reduced Complement Operations Plan at any time he finds that it is necessary for the safety and efficiency of the National Airspace System. Upon activation of the RCOP and notwithstanding any provision of the FAR to the contrary, the Director is authorized to suspend or modify any airspace designation.
 
-5\. Notice of restrictions, prohibitions, procedures and other actions taken by the Director under this regulation with respect to the operation of the Air Traffic Control system will be announced in Notices to Airmen issued pursuant to §91.139 of the Federal Aviation Regulations.
+5\. Notice of restrictions, prohibitions, procedures and other actions taken by the Director under this regulation with respect to the operation of the Air Traffic Control system will be announced in Notices to Airmen issued pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.139   Emergency air traffic rules.|§91.139]] of the Federal Aviation Regulations.
 
 6\. The Director may delegate his authority under this regulation to the extent he considers necessary for the safe and efficient operation of the National Air Traffic Control System.
 
@@ -142,7 +142,7 @@ For the purposes of this SFAR, the following definitions and abbreviations apply
 
 *Area navigation (RNAV) route.* RNAV route is a published route based on RNAV that can be used by suitably equipped aircraft.
 
-*Certificate holder.* A certificate holder means a person holding a certificate issued under part 119 or part 125 of this chapter or holding operations specifications issued under part 129 of this chapter.
+*Certificate holder.* A certificate holder means a person holding a certificate issued under part 119 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]] or holding operations specifications issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md|part 129 of this chapter]].
 
 *Global Navigation Satellite System (GNSS).* GNSS is a world-wide position and time determination system that uses satellite ranging signals to determine user location. It encompasses all satellite ranging technologies, including GPS and additional satellites. Components of the GNSS include GPS, the Global Orbiting Navigation Satellite System, and WAAS satellites.
 
@@ -204,7 +204,7 @@ This Special Federal Aviation Regulation will remain in effect until rescinded.
 
 ### Special Federal Aviation Regulation No. 118-2—Relief for Certain Persons During the National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Public Health Emergency
 
-For the text of SFAR No. 118-2, see part 61 of this chapter.
+For the text of SFAR No. 118-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \[Docket No. FAA-2020-0446, Amdt. No. 91-360, 85 FR 62975, Oct. 6, 2020\]\]
 
@@ -218,17 +218,17 @@ Effective Date Note: By Docket No. FAA-2020-0446, Amdt. No. 91-360, 85 FR 62975,
 
 ### §91.1   Applicability.
 
-\(a\) Except as provided in paragraphs (b), (c), (e), and (f) of this section and §§91.701 and 91.703, this part prescribes rules governing the operation of aircraft within the United States, including the waters within 3 nautical miles of the U.S. coast.
+\(a\) Except as provided in paragraphs (b), (c), (e), and (f) of this section and §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.701   Applicability.|§91.701]] and 91.703, this part prescribes rules governing the operation of aircraft within the United States, including the waters within 3 nautical miles of the U.S. coast.
 
-\(b\) Each person operating an aircraft in the airspace overlying the waters between 3 and 12 nautical miles from the coast of the United States must comply with §§91.1 through 91.21; §§91.101 through 91.143; §§91.151 through 91.159; §§91.167 through 91.193; §91.203; §91.205; §§91.209 through 91.217; §91.221, §91.225; §§91.303 through 91.319; §§91.323 through 91.327; §91.605; §91.609; §§91.703 through 91.715; and §91.903.
+\(b\) Each person operating an aircraft in the airspace overlying the waters between 3 and 12 nautical miles from the coast of the United States must comply with §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1   Applicability.|§91.1]] through 91.21; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.101   Applicability.|§91.101]] through 91.143; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.151   Fuel requirements for flight in VFR conditions.|§91.151]] through 91.159; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.167   Fuel requirements for flight in IFR conditions.|§91.167]] through 91.193; [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.203   Civil aircraft: Certifications required.|§91.203]]; [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.205   Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.|§91.205]]; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.209   Aircraft lights.|§91.209]] through 91.217; [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.221   Traffic alert and collision avoidance system equipment and use.|§91.221]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]]; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.303   Aerobatic flight.|§91.303]] through 91.319; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.323   Increased maximum certificated weights for certain airplanes operated in Alaska.|§91.323]] through 91.327; [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.605   Transport category civil airplane weight limitations.|§91.605]]; [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.609   Flight data recorders and cockpit voice recorders.|§91.609]]; §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.703   Operations of civil aircraft of U.S. registry outside of the United States.|§91.703]] through 91.715; and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.903   Policy and procedures.|§91.903]].
 
 \(c\) This part applies to each person on board an aircraft being operated under this part, unless otherwise specified.
 
 \(d\) This part also establishes requirements for operators to take actions to support the continued airworthiness of each airplane.
 
-\(e\) This part does not apply to any aircraft or vehicle governed by part 103 of this chapter, or subparts B, C, or D of part 101 of this chapter.
+\(e\) This part does not apply to any aircraft or vehicle governed by [[Volume 2/F Air traffic and general operating rules/0103 Ultralight vehicles.md|part 103 of this chapter]], or subparts B, C, or D of [[Volume 2/F Air traffic and general operating rules/0101 Moored balloons, kites, amateur rockets, and unmanned free balloons.md|part 101 of this chapter]].
 
-\(f\) Except as provided in §§107.13, 107.27, 107.47, 107.57, and 107.59 of this chapter, this part does not apply to any aircraft governed by part 107 of this chapter.
+\(f\) Except as provided in §[[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md#§107.13   Registration.|§107.13]], 107.27, 107.47, 107.57, and 107.59 of this chapter, this part does not apply to any aircraft governed by [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]].
 
 \[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-257, 64 FR 1079, Jan. 7, 1999; Amdt. 91-282, 69 FR 44880, July 27, 2004; Amdt. 91-297, 72 FR 63410, Nov. 8, 2007; Amdt. 91-314, 75 FR 30193, May 28, 2010; Docket FAA-2015-0150, Amdt. 91-343, 81 FR 42208, June 28, 2016\]
 
@@ -244,7 +244,7 @@ Effective Date Note: By Docket No. FAA-2020-0446, Amdt. No. 91-360, 85 FR 62975,
 
 ### §91.5   Pilot in command of aircraft requiring more than one required pilot.
 
-No person may operate an aircraft that is type certificated for more than one required pilot flight crewmember unless the pilot in command meets the requirements of §61.58 of this chapter.
+No person may operate an aircraft that is type certificated for more than one required pilot flight crewmember unless the pilot in command meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.58   Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered.|§61.58]] of this chapter.
 
 ### §91.7   Civil aircraft airworthiness.
 
@@ -258,13 +258,13 @@ No person may operate an aircraft that is type certificated for more than one re
 
 \(b\) No person may operate a U.S.-registered civil aircraft—
 
-\(1\) For which an Airplane or Rotorcraft Flight Manual is required by §21.5 of this chapter unless there is available in the aircraft a current, approved Airplane or Rotorcraft Flight Manual or the manual provided for in §121.141(b); and
+\(1\) For which an Airplane or Rotorcraft Flight Manual is required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.5   Airplane or Rotorcraft Flight Manual.|§21.5]] of this chapter unless there is available in the aircraft a current, approved Airplane or Rotorcraft Flight Manual or the manual provided for in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.141   Airplane flight manual.|§121.141]](b); and
 
-\(2\) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of this chapter, unless there is available in the aircraft a current approved Airplane or Rotorcraft Flight Manual, approved manual material, markings, and placards, or any combination thereof.
+\(2\) For which an Airplane or Rotorcraft Flight Manual is not required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.5   Airplane or Rotorcraft Flight Manual.|§21.5]] of this chapter, unless there is available in the aircraft a current approved Airplane or Rotorcraft Flight Manual, approved manual material, markings, and placards, or any combination thereof.
 
-\(c\) No person may operate a U.S.-registered civil aircraft unless that aircraft is identified in accordance with part 45 of this chapter.
+\(c\) No person may operate a U.S.-registered civil aircraft unless that aircraft is identified in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md|part 45 of this chapter]].
 
-\(d\) Any person taking off or landing a helicopter certificated under part 29 of this chapter at a heliport constructed over water may make such momentary flight as is necessary for takeoff or landing through the prohibited range of the limiting height-speed envelope established for the helicopter if that flight through the prohibited range takes place over water on which a safe ditching can be accomplished and if the helicopter is amphibious or is equipped with floats or other emergency flotation gear adequate to accomplish a safe emergency ditching on open water.
+\(d\) Any person taking off or landing a helicopter certificated under [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]] at a heliport constructed over water may make such momentary flight as is necessary for takeoff or landing through the prohibited range of the limiting height-speed envelope established for the helicopter if that flight through the prohibited range takes place over water on which a safe ditching can be accomplished and if the helicopter is amphibious or is equipped with floats or other emergency flotation gear adequate to accomplish a safe emergency ditching on open water.
 
 ### §91.11   Prohibition on interference with crewmembers.
 
@@ -354,9 +354,9 @@ No pilot in command of a civil aircraft may allow any object to be dropped from 
 
 \(i\) The party to whom the aircraft is furnished is a foreign air carrier or certificate holder under part 121, 125, 135, or 141 of this chapter, or
 
-\(ii\) The party furnishing the aircraft is a foreign air carrier or a person operating under part 121, 125, and 141 of this chapter, or a person operating under part 135 of this chapter having authority to engage in on-demand operations with large aircraft.
+\(ii\) The party furnishing the aircraft is a foreign air carrier or a person operating under part 121, 125, and 141 of this chapter, or a person operating under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] having authority to engage in on-demand operations with large aircraft.
 
-\(2\) To a contract of conditional sale, when the aircraft involved has not been registered anywhere prior to the execution of the contract, except as a new aircraft under a dealer's aircraft registration certificate issued in accordance with §47.61 of this chapter.
+\(2\) To a contract of conditional sale, when the aircraft involved has not been registered anywhere prior to the execution of the contract, except as a new aircraft under a dealer's aircraft registration certificate issued in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.61   Dealer's Aircraft Registration Certificates.|§47.61]] of this chapter.
 
 \(c\) No person may operate a large civil aircraft of U.S. registry that is subject to a lease or contract of conditional sale to which paragraph (a) of this section applies, unless—
 
@@ -372,7 +372,7 @@ No pilot in command of a civil aircraft may allow any object to be dropped from 
 
 \(iii\) The registration number of the aircraft involved.
 
-\(d\) The copy of the lease or contract furnished to the FAA under paragraph (c) of this section is commercial or financial information obtained from a person. It is, therefore, privileged and confidential and will not be made available by the FAA for public inspection or copying under 5 U.S.C. 552(b)(4) unless recorded with the FAA under part 49 of this chapter.
+\(d\) The copy of the lease or contract furnished to the FAA under paragraph (c) of this section is commercial or financial information obtained from a person. It is, therefore, privileged and confidential and will not be made available by the FAA for public inspection or copying under 5 U.S.C. 552(b)(4) unless recorded with the FAA under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md|part 49 of this chapter]].
 
 \(e\) For the purpose of this section, a lease means any agreement by a person to furnish an aircraft to another person for compensation or hire, whether with or without flight crewmembers, other than an agreement for the sale of an aircraft and a contract of conditional sale under section 101 of the Federal Aviation Act of 1958. The person furnishing the aircraft is referred to as the lessor, and the person to whom it is furnished the lessee.
 
@@ -456,9 +456,9 @@ Each pilot in command shall, before beginning a flight, become familiar with all
 
 (*iii*) That the seat or child restraint device furnished by the operator was approved by the FAA through Type Certificate or Supplemental Type Certificate; or
 
-(*iv*) That the seat or child restraint device furnished by the operator, or one of the persons described in paragraph (a)(3)(iii)(A) of this section, was approved by the FAA in accordance with §21.8(d) of this chapter or Technical Standard Order C-100b or a later version. The child restraint device manufactured by AmSafe, Inc. (CARES, Part No. 4082) and approved by the FAA in accordance with §21.305(d) (2010 ed.) of this chapter may continue to bear a label or markings showing FAA approval in accordance with §21.305(d) (2010 ed.) of this chapter.
+(*iv*) That the seat or child restraint device furnished by the operator, or one of the persons described in paragraph (a)(3)(iii)(A) of this section, was approved by the FAA in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.8   Approval of articles.|§21.8]](d) of this chapter or Technical Standard Order C-100b or a later version. The child restraint device manufactured by AmSafe, Inc. (CARES, Part No. 4082) and approved by the FAA in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.305   Organization.|§21.305]](d) (2010 ed.) of this chapter may continue to bear a label or markings showing FAA approval in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.305   Organization.|§21.305]](d) (2010 ed.) of this chapter.
 
-(*4*) Except as provided in §91.107(a)(3)(iii)(B)(*3*)(*iii*) and §91.107(a)(3)(iii)(B)(*3*)(*iv*), booster-type child restraint systems (as defined in Federal Motor Vehicle Safety Standard No. 213 (49 CFR 571.213)), vest- and harness-type child restraint systems, and lap held child restraints are not approved for use in aircraft; and
+(*4*) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.107   Use of safety belts, shoulder harnesses, and child restraint systems.|§91.107]](a)(3)(iii)(B)(*3*)(*iii*) and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.107   Use of safety belts, shoulder harnesses, and child restraint systems.|§91.107]](a)(3)(iii)(B)(*3*)(*iv*), booster-type child restraint systems (as defined in Federal Motor Vehicle Safety Standard No. 213 (49 CFR 571.213)), vest- and harness-type child restraint systems, and lap held child restraints are not approved for use in aircraft; and
 
 \(C\) The operator complies with the following requirements:
 
@@ -468,7 +468,7 @@ Each pilot in command shall, before beginning a flight, become familiar with all
 
 (*3*) The restraint system must bear the appropriate label(s).
 
-\(b\) Unless otherwise stated, this section does not apply to operations conducted under part 121, 125, or 135 of this chapter. Paragraph (a)(3) of this section does not apply to persons subject to §91.105.
+\(b\) Unless otherwise stated, this section does not apply to operations conducted under part 121, 125, or 135 of this chapter. Paragraph (a)(3) of this section does not apply to persons subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.105   Flight crewmembers at stations.|§91.105]].
 
 \[Doc. No. 26142, 57 FR 42671, Sept. 15, 1992, as amended by Amdt. 91-250, 61 FR 28421, June 4, 1996; Amdt. 91-289, 70 FR 50906, Aug. 26, 2005; Amdt. 91-292, 71 FR 40009, July 14, 2006; Amdt. 91-317, 75 FR 48857, Aug. 12, 2010; Amdt. 91-332, 79 FR 28812, May 20, 2014\]
 
@@ -480,13 +480,13 @@ Each pilot in command shall, before beginning a flight, become familiar with all
 
 \(2\) The person manipulating the controls has at least a private pilot certificate with appropriate category and class ratings.
 
-\(b\) An airplane equipped with a single, functioning throwover control wheel that controls the elevator and ailerons, in place of fixed, dual controls may be used for flight instruction to conduct a flight review required by §61.56 of this chapter, or to obtain recent flight experience or an instrument proficiency check required by §61.57 when—
+\(b\) An airplane equipped with a single, functioning throwover control wheel that controls the elevator and ailerons, in place of fixed, dual controls may be used for flight instruction to conduct a flight review required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] of this chapter, or to obtain recent flight experience or an instrument proficiency check required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] when—
 
 \(1\) The airplane is equipped with operable rudder pedals at both pilot stations;
 
 \(2\) The pilot manipulating the controls is qualified to serve and serves as pilot in command during the entire flight;
 
-\(3\) The instructor is current and qualified to serve as pilot in command of the airplane, meets the requirements of §61.195(b), and has logged at least 25 hours of pilot-in-command flight time in the make and model of airplane; and
+\(3\) The instructor is current and qualified to serve as pilot in command of the airplane, meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.195   Flight instructor limitations and qualifications.|§61.195]](b), and has logged at least 25 hours of pilot-in-command flight time in the make and model of airplane; and
 
 \(4\) The pilot in command and the instructor have determined the flight can be conducted safely.
 
@@ -496,7 +496,7 @@ Each pilot in command shall, before beginning a flight, become familiar with all
 
 \(i\) A private pilot certificate with category and class ratings appropriate to the aircraft being flown; or
 
-\(ii\) For purposes of providing training for a solo cross-country endorsement under §61.93 of this chapter, a flight instructor certificate with an appropriate sport pilot rating and meets the requirements of §61.412 of this chapter.
+\(ii\) For purposes of providing training for a solo cross-country endorsement under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.93   Solo cross-country flight requirements.|§61.93]] of this chapter, a flight instructor certificate with an appropriate sport pilot rating and meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.412   Do I need additional training to provide instruction on control and maneuvering an airplane solely by reference to the instruments in a light-sport aircraft based on VH?|§61.412]] of this chapter.
 
 \(2\) The safety pilot has adequate vision forward and to each side of the aircraft, or a competent observer in the aircraft adequately supplements the vision of the safety pilot; and
 
@@ -612,7 +612,7 @@ Except when necessary for takeoff or landing, no person may operate an aircraft 
 
 </div>
 
-\(c\) To convert minimum altitude prescribed under §§91.119 and 91.177 to the minimum flight level, the pilot shall take the flight level equivalent of the minimum altitude in feet and add the appropriate number of feet specified below, according to the current reported altimeter setting:
+\(c\) To convert minimum altitude prescribed under §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.119   Minimum safe altitudes: General.|§91.119]] and 91.177 to the minimum flight level, the pilot shall take the flight level equivalent of the minimum altitude in feet and add the appropriate number of feet specified below, according to the current reported altimeter setting:
 
 <div>
 
@@ -666,23 +666,23 @@ ATC light signals have the meaning shown in the following table:
 
 \(c\) *Flap settings.* Except when necessary for training or certification, the pilot in command of a civil turbojet-powered aircraft must use, as a final flap setting, the minimum certificated landing flap setting set forth in the approved performance information in the Airplane Flight Manual for the applicable conditions. However, each pilot in command has the final authority and responsibility for the safe operation of the pilot's airplane, and may use a different flap setting for that airplane if the pilot determines that it is necessary in the interest of safety.
 
-\(d\) *Communications with control towers.* Unless otherwise authorized or required by ATC, no person may operate an aircraft to, from, through, or on an airport having an operational control tower unless two-way radio communications are maintained between that aircraft and the control tower. Communications must be established prior to 4 nautical miles from the airport, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the pilot in command may operate that aircraft and land if weather conditions are at or above basic VFR weather minimums, visual contact with the tower is maintained, and a clearance to land is received. If the aircraft radio fails while in flight under IFR, the pilot must comply with §91.185.
+\(d\) *Communications with control towers.* Unless otherwise authorized or required by ATC, no person may operate an aircraft to, from, through, or on an airport having an operational control tower unless two-way radio communications are maintained between that aircraft and the control tower. Communications must be established prior to 4 nautical miles from the airport, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the pilot in command may operate that aircraft and land if weather conditions are at or above basic VFR weather minimums, visual contact with the tower is maintained, and a clearance to land is received. If the aircraft radio fails while in flight under IFR, the pilot must comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]].
 
 \[Doc. No. 24458, 56 FR 65658, Dec. 17, 1991, as amended by Amdt. 91-239, 59 FR 11693, Mar. 11, 1994; Amdt. 91-282, 69 FR 44880, July 27, 2004\]
 
 ### §91.127   Operating on or in the vicinity of an airport in Class E airspace.
 
-\(a\) Unless otherwise required by part 93 of this chapter or unless otherwise authorized or required by the ATC facility having jurisdiction over the Class E airspace area, each person operating an aircraft on or in the vicinity of an airport in a Class E airspace area must comply with the requirements of §91.126.
+\(a\) Unless otherwise required by [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md|part 93 of this chapter]] or unless otherwise authorized or required by the ATC facility having jurisdiction over the Class E airspace area, each person operating an aircraft on or in the vicinity of an airport in a Class E airspace area must comply with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.126   Operating on or in the vicinity of an airport in Class G airspace.|§91.126]].
 
-\(b\) *Departures.* Each pilot of an aircraft must comply with any traffic patterns established for that airport in part 93 of this chapter.
+\(b\) *Departures.* Each pilot of an aircraft must comply with any traffic patterns established for that airport in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md|part 93 of this chapter]].
 
-\(c\) *Communications with control towers.* Unless otherwise authorized or required by ATC, no person may operate an aircraft to, from, through, or on an airport having an operational control tower unless two-way radio communications are maintained between that aircraft and the control tower. Communications must be established prior to 4 nautical miles from the airport, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the pilot in command may operate that aircraft and land if weather conditions are at or above basic VFR weather minimums, visual contact with the tower is maintained, and a clearance to land is received. If the aircraft radio fails while in flight under IFR, the pilot must comply with §91.185.
+\(c\) *Communications with control towers.* Unless otherwise authorized or required by ATC, no person may operate an aircraft to, from, through, or on an airport having an operational control tower unless two-way radio communications are maintained between that aircraft and the control tower. Communications must be established prior to 4 nautical miles from the airport, up to and including 2,500 feet AGL. However, if the aircraft radio fails in flight, the pilot in command may operate that aircraft and land if weather conditions are at or above basic VFR weather minimums, visual contact with the tower is maintained, and a clearance to land is received. If the aircraft radio fails while in flight under IFR, the pilot must comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]].
 
 \[Doc. No. 24458, 56 FR 65658, Dec. 17, 1991, as amended by Amdt. 91-239, 59 FR 11693, Mar. 11, 1994\]
 
 ### §91.129   Operations in Class D airspace.
 
-\(a\) *General.* Unless otherwise authorized or required by the ATC facility having jurisdiction over the Class D airspace area, each person operating an aircraft in Class D airspace must comply with the applicable provisions of this section. In addition, each person must comply with §§91.126 and 91.127. For the purpose of this section, the primary airport is the airport for which the Class D airspace area is designated. A satellite airport is any other airport within the Class D airspace area.
+\(a\) *General.* Unless otherwise authorized or required by the ATC facility having jurisdiction over the Class D airspace area, each person operating an aircraft in Class D airspace must comply with the applicable provisions of this section. In addition, each person must comply with §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.126   Operating on or in the vicinity of an airport in Class G airspace.|§91.126]] and 91.127. For the purpose of this section, the primary airport is the airport for which the Class D airspace area is designated. A satellite airport is any other airport within the Class D airspace area.
 
 \(b\) *Deviations.* An operator may deviate from any provision of this section under the provisions of an ATC authorization issued by the ATC facility having jurisdiction over the airspace concerned. ATC may authorize a deviation on a continuing basis or for an individual flight, as appropriate.
 
@@ -698,7 +698,7 @@ ATC light signals have the meaning shown in the following table:
 
 \(d\) *Communications failure.* Each person who operates an aircraft in a Class D airspace area must maintain two-way radio communications with the ATC facility having jurisdiction over that area.
 
-\(1\) If the aircraft radio fails in flight under IFR, the pilot must comply with §91.185 of the part.
+\(1\) If the aircraft radio fails in flight under IFR, the pilot must comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]] of the part.
 
 \(2\) If the aircraft radio fails in flight under VFR, the pilot in command may operate that aircraft and land if—
 
@@ -720,7 +720,7 @@ ATC light signals have the meaning shown in the following table:
 
 \(4\) Paragraphs (e)(2) and (e)(3) of this section do not prohibit normal bracketing maneuvers above or below the glide path that are conducted for the purpose of remaining on the glide path.
 
-\(f\) *Approaches.* Except when conducting a circling approach under part 97 of this chapter or unless otherwise required by ATC, each pilot must—
+\(f\) *Approaches.* Except when conducting a circling approach under [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] or unless otherwise required by ATC, each pilot must—
 
 \(1\) Circle the airport to the left, if operating an airplane; or
 
@@ -732,7 +732,7 @@ ATC light signals have the meaning shown in the following table:
 
 \(2\) Unless otherwise required by the prescribed departure procedure for that airport or the applicable distance from clouds criteria, each pilot of a turbine-powered airplane and each pilot of a large airplane must climb to an altitude of 1,500 feet above the surface as rapidly as practicable.
 
-\(h\) *Noise abatement.* Where a formal runway use program has been established by the FAA, each pilot of a large or turbine-powered airplane assigned a noise abatement runway by ATC must use that runway. However, consistent with the final authority of the pilot in command concerning the safe operation of the aircraft as prescribed in §91.3(a), ATC may assign a different runway if requested by the pilot in the interest of safety.
+\(h\) *Noise abatement.* Where a formal runway use program has been established by the FAA, each pilot of a large or turbine-powered airplane assigned a noise abatement runway by ATC must use that runway. However, consistent with the final authority of the pilot in command concerning the safe operation of the aircraft as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.3   Responsibility and authority of the pilot in command.|§91.3]](a), ATC may assign a different runway if requested by the pilot in the interest of safety.
 
 \(i\) *Takeoff, landing, taxi clearance.* No person may, at any airport with an operating control tower, operate an aircraft on a runway or taxiway, or take off or land an aircraft, unless an appropriate clearance is received from ATC.
 
@@ -740,7 +740,7 @@ ATC light signals have the meaning shown in the following table:
 
 ### §91.130   Operations in Class C airspace.
 
-\(a\) *General.* Unless otherwise authorized by ATC, each aircraft operation in Class C airspace must be conducted in compliance with this section and §91.129. For the purpose of this section, the primary airport is the airport for which the Class C airspace area is designated. A satellite airport is any other airport within the Class C airspace area.
+\(a\) *General.* Unless otherwise authorized by ATC, each aircraft operation in Class C airspace must be conducted in compliance with this section and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.129   Operations in Class D airspace.|§91.129]]. For the purpose of this section, the primary airport is the airport for which the Class C airspace area is designated. A satellite airport is any other airport within the Class C airspace area.
 
 \(b\) *Traffic patterns.* No person may take off or land an aircraft at a satellite airport within a Class C airspace area except in compliance with FAA arrival and departure traffic patterns.
 
@@ -754,7 +754,7 @@ ATC light signals have the meaning shown in the following table:
 
 \(ii\) From a satellite airport without an operating control tower, must establish and maintain two-way radio communications with the ATC facility having jurisdiction over the Class C airspace area as soon as practicable after departing.
 
-\(d\) *Equipment requirements.* Unless otherwise authorized by the ATC having jurisdiction over the Class C airspace area, no person may operate an aircraft within a Class C airspace area designated for an airport unless that aircraft is equipped with the applicable equipment specified in §91.215, and after January 1, 2020, §91.225.
+\(d\) *Equipment requirements.* Unless otherwise authorized by the ATC having jurisdiction over the Class C airspace area, no person may operate an aircraft within a Class C airspace area designated for an airport unless that aircraft is equipped with the applicable equipment specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]], and after January 1, 2020, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]].
 
 \(e\) *Deviations.* An operator may deviate from any provision of this section under the provisions of an ATC authorization issued by the ATC facility having jurisdiction over the airspace concerned. ATC may authorize a deviation on a continuing basis or for an individual flight, as appropriate.
 
@@ -762,7 +762,7 @@ ATC light signals have the meaning shown in the following table:
 
 ### §91.131   Operations in Class B airspace.
 
-\(a\) *Operating rules.* No person may operate an aircraft within a Class B airspace area except in compliance with §91.129 and the following rules:
+\(a\) *Operating rules.* No person may operate an aircraft within a Class B airspace area except in compliance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.129   Operations in Class D airspace.|§91.129]] and the following rules:
 
 \(1\) The operator must receive an ATC clearance from the ATC facility having jurisdiction for that area before operating an aircraft in that area.
 
@@ -776,17 +776,17 @@ ATC light signals have the meaning shown in the following table:
 
 \(ii\) The pilot in command holds a recreational pilot certificate and has met—
 
-\(A\) The requirements of §61.101(d) of this chapter; or
+\(A\) The requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.101   Recreational pilot privileges and limitations.|§61.101]](d) of this chapter; or
 
-\(B\) The requirements for a student pilot seeking a recreational pilot certificate in §61.94 of this chapter;
+\(B\) The requirements for a student pilot seeking a recreational pilot certificate in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.94   Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.|§61.94]] of this chapter;
 
 \(iii\) The pilot in command holds a sport pilot certificate and has met—
 
-\(A\) The requirements of §61.325 of this chapter; or
+\(A\) The requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.325   How do I obtain privileges to operate a light-sport aircraft at an airport within, or in airspace within, Class B, C, and D airspace, or in other airspace with an airport having an operational control tower?|§61.325]] of this chapter; or
 
-\(B\) The requirements for a student pilot seeking a recreational pilot certificate in §61.94 of this chapter; or
+\(B\) The requirements for a student pilot seeking a recreational pilot certificate in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.94   Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.|§61.94]] of this chapter; or
 
-\(iv\) The aircraft is operated by a student pilot who has met the requirements of §61.94 or §61.95 of this chapter, as applicable.
+\(iv\) The aircraft is operated by a student pilot who has met the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.94   Student pilot seeking a sport pilot certificate or a recreational pilot certificate: Operations at airports within, and in airspace located within, Class B, C, and D airspace, or at airports with an operational control tower in other airspace.|§61.94]] or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.95   Operations in Class B airspace and at airports located within Class B airspace.|§61.95]] of this chapter, as applicable.
 
 \(2\) Notwithstanding the provisions of paragraphs (b)(1)(ii), (b)(1)(iii) and (b)(1)(iv) of this section, no person may take off or land a civil aircraft at those airports listed in section 4 of appendix D to this part unless the pilot in command holds at least a private pilot certificate.
 
@@ -798,9 +798,9 @@ ATC light signals have the meaning shown in the following table:
 
 \(d\) *Other equipment requirements.* No person may operate an aircraft in a Class B airspace area unless the aircraft is equipped with—
 
-\(1\) The applicable operating transponder and automatic altitude reporting equipment specified in §91.215 (a), except as provided in §91.215 (e), and
+\(1\) The applicable operating transponder and automatic altitude reporting equipment specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]] (a), except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]] (e), and
 
-\(2\) After January 1, 2020, the applicable Automatic Dependent Surveillance-Broadcast Out equipment specified in §91.225.
+\(2\) After January 1, 2020, the applicable Automatic Dependent Surveillance-Broadcast Out equipment specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]].
 
 \[Doc. No. 24458, 56 FR 65658, Dec. 17, 1991, as amended by Amdt. 91-282, 69 FR 44880, July 27, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-314, 75 FR 30193, May 28, 2010\]
 
@@ -818,7 +818,7 @@ Except as provided in paragraph (d) of this section, each person operating an ai
 
 \(b\) *Communications.* Unless otherwise authorized by ATC, each aircraft operating in Class A airspace must be equipped with a two-way radio capable of communicating with ATC on a frequency assigned by ATC. Each pilot must maintain two-way radio communications with ATC while operating in Class A airspace.
 
-\(c\) *Equipment requirements.* Unless otherwise authorized by ATC, no person may operate an aircraft within Class A airspace unless that aircraft is equipped with the applicable equipment specified in §91.215, and after January 1, 2020, §91.225.
+\(c\) *Equipment requirements.* Unless otherwise authorized by ATC, no person may operate an aircraft within Class A airspace unless that aircraft is equipped with the applicable equipment specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]], and after January 1, 2020, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]].
 
 \(d\) *ATC authorizations.* An operator may deviate from any provision of this section under the provisions of an ATC authorization issued by the ATC facility having jurisdiction of the airspace concerned. In the case of an inoperative transponder, ATC may immediately approve an operation within a Class A airspace area allowing flight to continue, if desired, to the airport of ultimate destination, including any intermediate stops, or to proceed to a place where suitable repairs can be made, or both. Requests for deviation from any provision of this section must be submitted in writing, at least 4 days before the proposed operation. ATC may authorize a deviation on a continuing basis or for an individual flight.
 
@@ -1016,7 +1016,7 @@ When a Notice to Airmen (NOTAM) is issued in accordance with this section, no pe
 
 *Non-profit event* means an event that raises funds for the benefit of a non-profit organization recognized under State or Federal law, as long as one of the organization's purposes is the promotion of aviation safety.
 
-\(b\) Passenger carrying flights for the benefit of a charitable, nonprofit, or community event identified in paragraph (c) of this section are not subject to the certification requirements of part 119 or the drug and alcohol testing requirements in part 120 of this chapter, provided the following conditions are satisfied and the limitations in paragraphs (c) and (d) are not exceeded:
+\(b\) Passenger carrying flights for the benefit of a charitable, nonprofit, or community event identified in paragraph (c) of this section are not subject to the certification requirements of part 119 or the drug and alcohol testing requirements in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md|part 120 of this chapter]], provided the following conditions are satisfied and the limitations in paragraphs (c) and (d) are not exceeded:
 
 \(1\) The flight is nonstop and begins and ends at the same airport and is conducted within a 25-statute mile radius of that airport;
 
@@ -1038,7 +1038,7 @@ When a Notice to Airmen (NOTAM) is issued in accordance with this section, no pe
 
 \(10\) Each flight is conducted in accordance with the safety provisions of part 136, subpart A of this chapter; and
 
-\(11\) Flights are not conducted over a national park, unit of a national park, or abutting tribal lands, unless the operator has secured a letter of agreement from the FAA, as specified under subpart B of part 136 of this chapter, and is operating in accordance with that agreement during the flights.
+\(11\) Flights are not conducted over a national park, unit of a national park, or abutting tribal lands, unless the operator has secured a letter of agreement from the FAA, as specified under subpart B of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0136 Commercial air tours and national parks air tour management.md|part 136 of this chapter]], and is operating in accordance with that agreement during the flights.
 
 \(c\) (1) Passenger-carrying flights or series of flights are limited to a total of four charitable events or non-profit events per year, with no event lasting more than three consecutive days.
 
@@ -1050,7 +1050,7 @@ When a Notice to Airmen (NOTAM) is issued in accordance with this section, no pe
 
 \(1\) A signed letter detailing the name of the sponsor, the purpose of the event, the date and time of the event, the location of the event, all prior events under this section participated in by the sponsor in the current calendar year;
 
-\(2\) A photocopy of each pilot in command's pilot certificate, medical certificate, and logbook entries that show the pilot is current in accordance with §§61.56 and 61.57 of this chapter and that any private pilot has at least 500 hours of flight time; and
+\(2\) A photocopy of each pilot in command's pilot certificate, medical certificate, and logbook entries that show the pilot is current in accordance with §[[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] and 61.57 of this chapter and that any private pilot has at least 500 hours of flight time; and
 
 \(3\) A signed statement from each pilot that lists all prior events under this section in which the pilot has participated during the current calendar year.
 
@@ -1058,9 +1058,9 @@ When a Notice to Airmen (NOTAM) is issued in accordance with this section, no pe
 
 ### §91.147   Passenger carrying flights for compensation or hire.
 
-Each Operator conducting passenger-carrying flights for compensation or hire must meet the following requirements unless all flights are conducted under §91.146.
+Each Operator conducting passenger-carrying flights for compensation or hire must meet the following requirements unless all flights are conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.146   Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event.|§91.146]].
 
-\(a\) For the purposes of this section and for drug and alcohol testing, *Operator* means any person conducting nonstop passenger-carrying flights in an airplane or helicopter for compensation or hire in accordance with §§119.1(e)(2), 135.1(a)(5), or 121.1(d), of this chapter that begin and end at the same airport and are conducted within a 25-statute mile radius of that airport.
+\(a\) For the purposes of this section and for drug and alcohol testing, *Operator* means any person conducting nonstop passenger-carrying flights in an airplane or helicopter for compensation or hire in accordance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.1   Applicability.|§119.1]](e)(2), 135.1(a)(5), or 121.1(d), of this chapter that begin and end at the same airport and are conducted within a 25-statute mile radius of that airport.
 
 \(b\) An Operator must comply with the safety provisions of part 136, subpart A of this chapter, and apply for and receive a Letter of Authorization from the responsible Flight Standards office.
 
@@ -1080,7 +1080,7 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 \(7\) An Antidrug and Alcohol Misuse Prevention Program registration.
 
-\(d\) The Operator must register and implement its drug and alcohol testing programs in accordance with part 120 of this chapter.
+\(d\) The Operator must register and implement its drug and alcohol testing programs in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md|part 120 of this chapter]].
 
 \(e\) The Operator must comply with the provisions of the Letter of Authorization received.
 
@@ -1126,13 +1126,13 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 ### §91.155   Basic VFR weather minimums.
 
-\(a\) Except as provided in paragraph (b) of this section and §91.157, no person may operate an aircraft under VFR when the flight visibility is less, or at a distance from clouds that is less, than that prescribed for the corresponding altitude and class of airspace in the following table:
+\(a\) Except as provided in paragraph (b) of this section and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]], no person may operate an aircraft under VFR when the flight visibility is less, or at a distance from clouds that is less, than that prescribed for the corresponding altitude and class of airspace in the following table:
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">Airspace</th><th scope="col">Flight visibility</th><th scope="col">Distance from clouds</th></tr><tr class="odd"><td style="text-align: left;" scope="row">Class A</td><td style="text-align: left;">Not Applicable</td><td style="text-align: left;">Not Applicable.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class B</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">Clear of Clouds.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Class C</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class D</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Class E:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">Less than 10,000 feet MSL</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">At or above 10,000 feet MSL</td><td style="text-align: left;">5 statute miles</td><td style="text-align: left;">1,000 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1 statute mile horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class G:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">1,200 feet or less above the surface (regardless of MSL altitude)</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">For aircraft other than helicopters:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">Day, except as provided in §91.155(b)</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">Clear of clouds.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Night, except as provided in §91.155(b)</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">For helicopters:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">Day</td><td style="text-align: left;"><span>1</span>⁄<span>2</span> statute mile</td><td style="text-align: left;">Clear of clouds</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Night, except as provided in §91.155(b)</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">Clear of clouds.</td></tr><tr class="even"><td style="text-align: left;" scope="row">More than 1,200 feet above the surface but less than 10,000 feet MSL</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">Day</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">500 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Night</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">More than 1,200 feet above the surface and at or above 10,000 feet MSL</td><td style="text-align: left;">5 statute miles</td><td style="text-align: left;">1,000 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1 statute mile horizontal.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">Airspace</th><th scope="col">Flight visibility</th><th scope="col">Distance from clouds</th></tr><tr class="odd"><td style="text-align: left;" scope="row">Class A</td><td style="text-align: left;">Not Applicable</td><td style="text-align: left;">Not Applicable.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class B</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">Clear of Clouds.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Class C</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class D</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Class E:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">Less than 10,000 feet MSL</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">At or above 10,000 feet MSL</td><td style="text-align: left;">5 statute miles</td><td style="text-align: left;">1,000 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1 statute mile horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Class G:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">1,200 feet or less above the surface (regardless of MSL altitude)</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">For aircraft other than helicopters:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">Day, except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]](b)</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">Clear of clouds.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Night, except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]](b)</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">For helicopters:</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">Day</td><td style="text-align: left;"><span>1</span>⁄<span>2</span> statute mile</td><td style="text-align: left;">Clear of clouds</td></tr><tr class="odd"><td style="text-align: left;" scope="row">Night, except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]](b)</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">Clear of clouds.</td></tr><tr class="even"><td style="text-align: left;" scope="row">More than 1,200 feet above the surface but less than 10,000 feet MSL</td><td style="text-align: left;"></td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">Day</td><td style="text-align: left;">1 statute mile</td><td style="text-align: left;">500 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="even"><td style="text-align: left;" scope="row">Night</td><td style="text-align: left;">3 statute miles</td><td style="text-align: left;">500 feet below.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">2,000 feet horizontal.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">More than 1,200 feet above the surface and at or above 10,000 feet MSL</td><td style="text-align: left;">5 statute miles</td><td style="text-align: left;">1,000 feet below.</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1,000 feet above.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;"></td><td style="text-align: left;">1 statute mile horizontal.</td></tr></tbody></table>
 
 </div>
 
@@ -1144,9 +1144,9 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 \(2\) *Airplane, powered parachute, or weight-shift-control aircraft.* If the visibility is less than 3 statute miles but not less than 1 statute mile during night hours and you are operating in an airport traffic pattern within 1⁄2 mile of the runway, you may operate an airplane, powered parachute, or weight-shift-control aircraft clear of clouds.
 
-\(c\) Except as provided in §91.157, no person may operate an aircraft beneath the ceiling under VFR within the lateral boundaries of controlled airspace designated to the surface for an airport when the ceiling is less than 1,000 feet.
+\(c\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]], no person may operate an aircraft beneath the ceiling under VFR within the lateral boundaries of controlled airspace designated to the surface for an airport when the ceiling is less than 1,000 feet.
 
-\(d\) Except as provided in §91.157 of this part, no person may take off or land an aircraft, or enter the traffic pattern of an airport, under VFR, within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for an airport—
+\(d\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]] of this part, no person may take off or land an aircraft, or enter the traffic pattern of an airport, under VFR, within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for an airport—
 
 \(1\) Unless ground visibility at that airport is at least 3 statute miles; or
 
@@ -1158,7 +1158,7 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 ### §91.157   Special VFR weather minimums.
 
-\(a\) Except as provided in appendix D, section 3, of this part, special VFR operations may be conducted under the weather minimums and requirements of this section, instead of those contained in §91.155, below 10,000 feet MSL within the airspace contained by the upward extension of the lateral boundaries of the controlled airspace designated to the surface for an airport.
+\(a\) Except as provided in appendix D, section 3, of this part, special VFR operations may be conducted under the weather minimums and requirements of this section, instead of those contained in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]], below 10,000 feet MSL within the airspace contained by the upward extension of the lateral boundaries of the controlled airspace designated to the surface for an airport.
 
 \(b\) Special VFR operations may only be conducted—
 
@@ -1170,9 +1170,9 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 \(4\) Except for helicopters, between sunrise and sunset (or in Alaska, when the sun is 6 degrees or more below the horizon) unless—
 
-\(i\) The person being granted the ATC clearance meets the applicable requirements for instrument flight under part 61 of this chapter; and
+\(i\) The person being granted the ATC clearance meets the applicable requirements for instrument flight under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]]; and
 
-\(ii\) The aircraft is equipped as required in §91.205(d).
+\(ii\) The aircraft is equipped as required in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.205   Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.|§91.205]](d).
 
 \(c\) No person may take off or land an aircraft (other than a helicopter) under special VFR—
 
@@ -1218,7 +1218,7 @@ Except while holding in a holding pattern of 2 minutes or less, or while turning
 
 \(4\) An authorized representative of the Transportation Security Administration.
 
-\(d\) *Emergency declared.* The failure to complete the Special Awareness Training course on flying in and around the Washington, DC Metropolitan Area is not a violation of this section if an emergency is declared by the pilot, as described under §91.3(b), or there was a failure of two-way radio communications when operating under IFR as described under §91.185.
+\(d\) *Emergency declared.* The failure to complete the Special Awareness Training course on flying in and around the Washington, DC Metropolitan Area is not a violation of this section if an emergency is declared by the pilot, as described under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.3   Responsibility and authority of the pilot in command.|§91.3]](b), or there was a failure of two-way radio communications when operating under IFR as described under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]].
 
 \(e\) *Exceptions.* The requirements of this section do not apply if the flight is being performed in an aircraft of an air ambulance operator certificated to conduct part 135 operations under this chapter, the U.S. Armed Forces, or a law enforcement agency.
 
@@ -1240,7 +1240,7 @@ Except while holding in a holding pattern of 2 minutes or less, or while turning
 
 \(b\) Paragraph (a)(2) of this section does not apply if:
 
-\(1\) Part 97 of this chapter prescribes a standard instrument approach procedure to, or a special instrument approach procedure has been issued by the Administrator to the operator for, the first airport of intended landing; and
+\(1\) [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|Part 97 of this chapter]] prescribes a standard instrument approach procedure to, or a special instrument approach procedure has been issued by the Administrator to the operator for, the first airport of intended landing; and
 
 \(2\) Appropriate weather reports or weather forecasts, or a combination of them, indicate the following:
 
@@ -1254,13 +1254,13 @@ Except while holding in a holding pattern of 2 minutes or less, or while turning
 
 \(a\) *Information required.* Unless otherwise authorized by ATC, each person filing an IFR flight plan must include in it the following information:
 
-\(1\) Information required under §91.153 (a) of this part;
+\(1\) Information required under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|§91.153]] (a) of this part;
 
 \(2\) Except as provided in paragraph (b) of this section, an alternate airport.
 
 \(b\) Paragraph (a)(2) of this section does not apply if :
 
-\(1\) Part 97 of this chapter prescribes a standard instrument approach procedure to, or a special instrument approach procedure has been issued by the Administrator to the operator for, the first airport of intended landing; and
+\(1\) [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|Part 97 of this chapter]] prescribes a standard instrument approach procedure to, or a special instrument approach procedure has been issued by the Administrator to the operator for, the first airport of intended landing; and
 
 \(2\) Appropriate weather reports or weather forecasts, or a combination of them, indicate the following:
 
@@ -1270,7 +1270,7 @@ Except while holding in a holding pattern of 2 minutes or less, or while turning
 
 \(c\) *IFR alternate airport weather minima.* Unless otherwise authorized by the Administrator, no person may include an alternate airport in an IFR flight plan unless appropriate weather reports or weather forecasts, or a combination of them, indicate that, at the estimated time of arrival at the alternate airport, the ceiling and visibility at that airport will be at or above the following weather minima:
 
-\(1\) If an instrument approach procedure has been published in part 97 of this chapter, or a special instrument approach procedure has been issued by the Administrator to the operator, for that airport, the following minima:
+\(1\) If an instrument approach procedure has been published in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]], or a special instrument approach procedure has been issued by the Administrator to the operator, for that airport, the following minima:
 
 \(i\) *For aircraft other than helicopters:* The alternate airport minima specified in that procedure, or if none are specified the following standard approach minima:
 
@@ -1280,7 +1280,7 @@ Except while holding in a holding pattern of 2 minutes or less, or while turning
 
 \(ii\) *For helicopters:* Ceiling 200 feet above the minimum for the approach to be flown, and visibility at least 1 statute mile but never less than the minimum visibility for the approach to be flown, and
 
-\(2\) If no instrument approach procedure has been published in part 97 of this chapter and no special instrument approach procedure has been issued by the Administrator to the operator, for the alternate airport, the ceiling and visibility minima are those allowing descent from the MEA, approach, and landing under basic VFR.
+\(2\) If no instrument approach procedure has been published in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] and no special instrument approach procedure has been issued by the Administrator to the operator, for the alternate airport, the ceiling and visibility minima are those allowing descent from the MEA, approach, and landing under basic VFR.
 
 \(d\) *Cancellation.* When a flight plan has been activated, the pilot in command, upon canceling or completing the flight under the flight plan, shall notify an FAA Flight Service Station or ATC facility.
 
@@ -1326,7 +1326,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 ### §91.175   Takeoff and landing under IFR.
 
-\(a\) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
+\(a\) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] for that airport. This paragraph does not apply to United States military aircraft.
 
 \(b\) *Authorized DA/DH or MDA.* For the purpose of this section, when the approach procedure being used provides for and requires the use of a DA/DH or MDA, the authorized DA/DH or MDA is the highest of the following:
 
@@ -1336,7 +1336,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(3\) The DA/DH or MDA appropriate for the aircraft equipment available and used during the approach.
 
-\(c\) *Operation below DA/DH or MDA.* Except as provided in §91.176 of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless—
+\(c\) *Operation below DA/DH or MDA.* Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this chapter, where a DA/DH or MDA is applicable, no pilot may operate an aircraft, except a military aircraft of the United States, below the authorized MDA or continue an approach below the authorized DA/DH unless—
 
 \(1\) The aircraft is continuously in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and for operations conducted under part 121 or part 135 unless that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing;
 
@@ -1366,13 +1366,13 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(d\) *Landing.* No pilot operating an aircraft, except a military aircraft of the United States, may land that aircraft when—
 
-\(1\) For operations conducted under §91.176 of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
+\(1\) For operations conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this part, the requirements of paragraphs (a)(3)(iii) or (b)(3)(iii), as applicable, of that section are not met; or
 
 \(2\) For all other operations under this part and parts 121, 125, 129, and 135, the flight visibility is less than the visibility prescribed in the standard instrument approach procedure being used.
 
 \(e\) *Missed approach procedures.* Each pilot operating an aircraft, except a military aircraft of the United States, shall immediately execute an appropriate missed approach procedure when either of the following conditions exist:
 
-\(1\) Whenever operating an aircraft pursuant to paragraph (c) of this section or §91.176 of this part, and the requirements of that paragraph or section are not met at either of the following times:
+\(1\) Whenever operating an aircraft pursuant to paragraph (c) of this section or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this part, and the requirements of that paragraph or section are not met at either of the following times:
 
 \(i\) When the aircraft is being operated below MDA; or
 
@@ -1382,9 +1382,9 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(f\) *Civil airport takeoff minimums.* This paragraph applies to persons operating an aircraft under part 121, 125, 129, or 135 of this chapter.
 
-\(1\) Unless otherwise authorized by the FAA, no pilot may takeoff from a civil airport under IFR unless the weather conditions at time of takeoff are at or above the weather minimums for IFR takeoff prescribed for that airport under part 97 of this chapter.
+\(1\) Unless otherwise authorized by the FAA, no pilot may takeoff from a civil airport under IFR unless the weather conditions at time of takeoff are at or above the weather minimums for IFR takeoff prescribed for that airport under [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]].
 
-\(2\) If takeoff weather minimums are not prescribed under part 97 of this chapter for a particular airport, the following weather minimums apply to takeoffs under IFR:
+\(2\) If takeoff weather minimums are not prescribed under [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] for a particular airport, the following weather minimums apply to takeoffs under IFR:
 
 \(i\) For aircraft, other than helicopters, having two engines or less—1 statute mile visibility.
 
@@ -1392,7 +1392,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(iii\) For helicopters— 1⁄2 statute mile visibility.
 
-\(3\) Except as provided in paragraph (f)(4) of this section, no pilot may takeoff under IFR from a civil airport having published obstacle departure procedures (ODPs) under part 97 of this chapter for the takeoff runway to be used, unless the pilot uses such ODPs or an alternative procedure or route assigned by air traffic control.
+\(3\) Except as provided in paragraph (f)(4) of this section, no pilot may takeoff under IFR from a civil airport having published obstacle departure procedures (ODPs) under [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] for the takeoff runway to be used, unless the pilot uses such ODPs or an alternative procedure or route assigned by air traffic control.
 
 \(4\) Notwithstanding the requirements of paragraph (f)(3) of this section, no pilot may takeoff from an airport under IFR unless:
 
@@ -1416,7 +1416,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 </div>
 
-\(i\) *Operations on unpublished routes and use of radar in instrument approach procedures.* When radar is approved at certain locations for ATC purposes, it may be used not only for surveillance and precision radar approaches, as applicable, but also may be used in conjunction with instrument approach procedures predicated on other types of radio navigational aids. Radar vectors may be authorized to provide course guidance through the segments of an approach to the final course or fix. When operating on an unpublished route or while being radar vectored, the pilot, when an approach clearance is received, shall, in addition to complying with §91.177, maintain the last altitude assigned to that pilot until the aircraft is established on a segment of a published route or instrument approach procedure unless a different altitude is assigned by ATC. After the aircraft is so established, published altitudes apply to descent within each succeeding route or approach segment unless a different altitude is assigned by ATC. Upon reaching the final approach course or fix, the pilot may either complete the instrument approach in accordance with a procedure approved for the facility or continue a surveillance or precision radar approach to a landing.
+\(i\) *Operations on unpublished routes and use of radar in instrument approach procedures.* When radar is approved at certain locations for ATC purposes, it may be used not only for surveillance and precision radar approaches, as applicable, but also may be used in conjunction with instrument approach procedures predicated on other types of radio navigational aids. Radar vectors may be authorized to provide course guidance through the segments of an approach to the final course or fix. When operating on an unpublished route or while being radar vectored, the pilot, when an approach clearance is received, shall, in addition to complying with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.177   Minimum altitudes for IFR operations.|§91.177]], maintain the last altitude assigned to that pilot until the aircraft is established on a segment of a published route or instrument approach procedure unless a different altitude is assigned by ATC. After the aircraft is so established, published altitudes apply to descent within each succeeding route or approach segment unless a different altitude is assigned by ATC. Upon reaching the final approach course or fix, the pilot may either complete the instrument approach in accordance with a procedure approved for the facility or continue a surveillance or precision radar approach to a landing.
 
 \(j\) *Limitation on procedure turns.* In the case of a radar vector to a final approach course or fix, a timed approach from a holding fix, or an approach for which the procedure specifies “No PT,” no pilot may make a procedure turn unless cleared to do so by ATC.
 
@@ -1462,17 +1462,17 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(B\) Each person acting as a required pilot flightcrew member for a foreign air carrier subject to part 129, or any person serving as a required pilot flightcrew member of a foreign registered aircraft, must be qualified in accordance with the training requirements of the civil aviation authority of the State of the operator for the EFVS operation to be conducted.
 
-\(viii\) A person conducting operations under this part must conduct the operation in accordance with a letter of authorization for the use of EFVS unless the operation is conducted in an aircraft that has been issued an experimental certificate under §21.191 of this chapter for the purpose of research and development or showing compliance with regulations, or the operation is being conducted by a person otherwise authorized to conduct EFVS operations under paragraphs (a)(2)(ix) through (xii) of this section. A person applying to the FAA for a letter of authorization must submit an application in a form and manner prescribed by the Administrator.
+\(viii\) A person conducting operations under this part must conduct the operation in accordance with a letter of authorization for the use of EFVS unless the operation is conducted in an aircraft that has been issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] of this chapter for the purpose of research and development or showing compliance with regulations, or the operation is being conducted by a person otherwise authorized to conduct EFVS operations under paragraphs (a)(2)(ix) through (xii) of this section. A person applying to the FAA for a letter of authorization must submit an application in a form and manner prescribed by the Administrator.
 
 \(ix\) A person conducting operations under subpart K of this part must conduct the operation in accordance with management specifications authorizing the use of EFVS.
 
 \(x\) A person conducting operations under part 121, 129, or 135 of this chapter must conduct the operation in accordance with operations specifications authorizing the use of EFVS.
 
-\(xi\) A person conducting operations under part 125 of this chapter must conduct the operation in accordance with operations specifications authorizing the use of EFVS or, for a holder of a part 125 letter of deviation authority, a letter of authorization for the use of EFVS.
+\(xi\) A person conducting operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]] must conduct the operation in accordance with operations specifications authorizing the use of EFVS or, for a holder of a part 125 letter of deviation authority, a letter of authorization for the use of EFVS.
 
 \(xii\) A person conducting an EFVS operation during an authorized Category II or Category III operation must conduct the operation in accordance with operations specifications, management specifications, or a letter of authorization authorizing EFVS operations during authorized Category II or Category III operations.
 
-\(3\) *Visibility and visual reference requirements.* No pilot operating under this section or §§121.651, 125.381, or 135.225 of this chapter may continue an approach below the authorized DA/DH and land unless:
+\(3\) *Visibility and visual reference requirements.* No pilot operating under this section or §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.651   Takeoff and landing weather minimums: IFR: All certificate holders.|§121.651]], 125.381, or 135.225 of this chapter may continue an approach below the authorized DA/DH and land unless:
 
 \(i\) The pilot determines that the enhanced flight visibility observed by use of an EFVS is not less than the visibility prescribed in the instrument approach procedure being used.
 
@@ -1522,7 +1522,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(iv\) The aircraft must continuously be in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers.
 
-\(v\) For operations conducted under part 121 or part 135 of this chapter, the descent rate must allow touchdown to occur within the touchdown zone of the runway of intended landing.
+\(v\) For operations conducted under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], the descent rate must allow touchdown to occur within the touchdown zone of the runway of intended landing.
 
 \(vi\) Each required pilot flightcrew member must meet the following requirements—
 
@@ -1534,11 +1534,11 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(viii\) A person conducting operations under part 121, 129, or 135 of this chapter must conduct the operation in accordance with operations specifications authorizing the use of EFVS.
 
-\(ix\) A person conducting operations under part 125 of this chapter must conduct the operation in accordance with operations specifications authorizing the use of EFVS or, for a holder of a part 125 letter of deviation authority, a letter of authorization for the use of EFVS.
+\(ix\) A person conducting operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]] must conduct the operation in accordance with operations specifications authorizing the use of EFVS or, for a holder of a part 125 letter of deviation authority, a letter of authorization for the use of EFVS.
 
 \(x\) A person conducting an EFVS operation during an authorized Category II or Category III operation must conduct the operation in accordance with operations specifications, management specifications, or a letter of authorization authorizing EFVS operations during authorized Category II or Category III operations.
 
-\(3\) *Visibility and Visual Reference Requirements.* No pilot operating under this section or §121.651, §125.381, or §135.225 of this chapter may continue an approach below the authorized MDA or continue an approach below the authorized DA/DH and land unless:
+\(3\) *Visibility and Visual Reference Requirements.* No pilot operating under this section or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.651   Takeoff and landing weather minimums: IFR: All certificate holders.|§121.651]], [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.381   Takeoff and landing weather minimums: IFR.|§125.381]], or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.225   IFR: Takeoff, approach and landing minimums.|§135.225]] of this chapter may continue an approach below the authorized MDA or continue an approach below the authorized DA/DH and land unless:
 
 \(i\) The pilot determines that the enhanced flight visibility observed by use of an EFVS is not less than the visibility prescribed in the instrument approach procedure being used.
 
@@ -1578,9 +1578,9 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(1\) The aircraft meets all of the civil certification and airworthiness requirements of paragraph (a)(1) or (b)(1) of this section, as applicable to the EFVS operation to be conducted; and
 
-\(2\) The pilot flightcrew member, or any other person who manipulates the controls of an aircraft during an EFVS operation, meets the training, recent flight experience and refresher training requirements of §61.66 of this chapter applicable to EFVS operations.
+\(2\) The pilot flightcrew member, or any other person who manipulates the controls of an aircraft during an EFVS operation, meets the training, recent flight experience and refresher training requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.66   Enhanced Flight Vision System Pilot Requirements.|§61.66]] of this chapter applicable to EFVS operations.
 
-\(d\) *Exception for Experimental Aircraft.* The requirement to use an EFVS that meets the applicable airworthiness requirements specified in paragraphs (a)(1)(i), (a)(2)(iii), (b)(1)(i), and (b)(2)(iii) of this section does not apply to operations conducted in an aircraft issued an experimental certificate under §21.191 of this chapter for the purpose of research and development or showing compliance with regulations, provided the Administrator has determined that the operations can be conducted safely in accordance with operating limitations issued for that purpose.
+\(d\) *Exception for Experimental Aircraft.* The requirement to use an EFVS that meets the applicable airworthiness requirements specified in paragraphs (a)(1)(i), (a)(2)(iii), (b)(1)(i), and (b)(2)(iii) of this section does not apply to operations conducted in an aircraft issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] of this chapter for the purpose of research and development or showing compliance with regulations, provided the Administrator has determined that the operations can be conducted safely in accordance with operating limitations issued for that purpose.
 
 \[Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90172, Dec. 13, 2016; 82 FR 2193, Jan. 9, 2017\]
 
@@ -1592,7 +1592,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 \(2\) If no applicable minimum altitude is prescribed in parts 95 and 97 of this chapter, then—
 
-\(i\) In the case of operations over an area designated as a mountainous area in part 95 of this chapter, an altitude of 2,000 feet above the highest obstacle within a horizontal distance of 4 nautical miles from the course to be flown; or
+\(i\) In the case of operations over an area designated as a mountainous area in [[Volume 2/F Air traffic and general operating rules/0095 Ifr altitudes.md|part 95 of this chapter]], an altitude of 2,000 feet above the highest obstacle within a horizontal distance of 4 nautical miles from the course to be flown; or
 
 \(ii\) In any other case, an altitude of 1,000 feet above the highest obstacle within a horizontal distance of 4 nautical miles from the course to be flown.
 
@@ -1604,7 +1604,7 @@ No person may operate an aircraft in controlled airspace under IFR unless that p
 
 Unless otherwise authorized by ATC, the following rules apply—
 
-\(a\) *In controlled airspace.* Each person operating an aircraft under IFR in level cruising flight in controlled airspace shall maintain the altitude or flight level assigned that aircraft by ATC. However, if the ATC clearance assigns “VFR conditions on-top,” that person shall maintain an altitude or flight level as prescribed by §91.159.
+\(a\) *In controlled airspace.* Each person operating an aircraft under IFR in level cruising flight in controlled airspace shall maintain the altitude or flight level assigned that aircraft by ATC. However, if the ATC clearance assigns “VFR conditions on-top,” that person shall maintain an altitude or flight level as prescribed by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|§91.159]].
 
 \(b\) *In uncontrolled airspace.* Except while in a holding pattern of 2 minutes or less or while turning, each person operating an aircraft under IFR in level cruising flight in uncontrolled airspace shall maintain an appropriate altitude as follows:
 
@@ -1688,7 +1688,7 @@ Unless otherwise authorized by ATC, the pilot in command of each aircraft operat
 
 \(i\) The altitude or flight level assigned in the last ATC clearance received;
 
-\(ii\) The minimum altitude (converted, if appropriate, to minimum flight level as prescribed in §91.121(c)) for IFR operations; or
+\(ii\) The minimum altitude (converted, if appropriate, to minimum flight level as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.121   Altimeter settings.|§91.121]](c)) for IFR operations; or
 
 \(iii\) The altitude or flight level ATC has advised may be expected in a further clearance.
 
@@ -1716,7 +1716,7 @@ Unless otherwise authorized by ATC, the pilot in command of each aircraft operat
 
 \(a\) No person may operate a civil aircraft in a Category II or III operation unless—
 
-\(1\) The flight crew of the aircraft consists of a pilot in command and a second in command who hold the appropriate authorizations and ratings prescribed in §61.3 of this chapter;
+\(1\) The flight crew of the aircraft consists of a pilot in command and a second in command who hold the appropriate authorizations and ratings prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.3   Requirement for certificates, ratings, and authorizations.|§61.3]] of this chapter;
 
 \(2\) Each flight crewmember has adequate knowledge of, and familiarity with, the aircraft and the procedures to be used; and
 
@@ -1732,7 +1732,7 @@ Unless otherwise authorized by ATC, the pilot in command of each aircraft operat
 
 \(3\) The DA/DH for which the aircraft is equipped.
 
-\(d\) Except as provided in §91.176 of this part or unless otherwise authorized by the Administrator, no pilot operating an aircraft in a Category II or Category III approach that provides and requires the use of a DA/DH may continue the approach below the authorized decision height unless the following conditions are met:
+\(d\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this part or unless otherwise authorized by the Administrator, no pilot operating an aircraft in a Category II or Category III approach that provides and requires the use of a DA/DH may continue the approach below the authorized decision height unless the following conditions are met:
 
 \(1\) The aircraft is in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers, and where that descent rate will allow touchdown to occur within the touchdown zone of the runway of intended landing.
 
@@ -1750,7 +1750,7 @@ Unless otherwise authorized by ATC, the pilot in command of each aircraft operat
 
 \(vi\) The touchdown zone lights.
 
-\(e\) Except as provided in §91.176 of this part or unless otherwise authorized by the Administrator, each pilot operating an aircraft shall immediately execute an appropriate missed approach whenever, prior to touchdown, the requirements of paragraph (d) of this section are not met.
+\(e\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this part or unless otherwise authorized by the Administrator, each pilot operating an aircraft shall immediately execute an appropriate missed approach whenever, prior to touchdown, the requirements of paragraph (d) of this section are not met.
 
 \(f\) No person operating an aircraft using a Category III approach without decision height may land that aircraft except in accordance with the provisions of the letter of authorization issued by the Administrator.
 
@@ -1770,13 +1770,13 @@ Unless otherwise authorized by ATC, the pilot in command of each aircraft operat
 
 \(b\) Each operator must keep a current copy of each approved manual at its principal base of operations and must make each manual available for inspection upon request by the Administrator.
 
-\(c\) This section does not apply to operations conducted by a certificate holder operating under part 121 or part 135 of this chapter or a holder of management specifications issued in accordance with subpart K of this part.
+\(c\) This section does not apply to operations conducted by a certificate holder operating under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] or a holder of management specifications issued in accordance with subpart K of this part.
 
 \[Doc. No. 26933, 61 FR 34560, July 2, 1996, as amended by Amdt. 91-280, 68 FR 54560, Sept. 17, 2003\]
 
 ### §91.193   Certificate of authorization for certain Category II operations.
 
-The Administrator may issue a certificate of authorization authorizing deviations from the requirements of §§91.189, 91.191, and 91.205(f) for the operation of small aircraft identified as Category A aircraft in §97.3 of this chapter in Category II operations if the Administrator finds that the proposed operation can be safely conducted under the terms of the certificate. Such authorization does not permit operation of the aircraft carrying persons or property for compensation or hire.
+The Administrator may issue a certificate of authorization authorizing deviations from the requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.189   Category II and III operations: General operating rules.|§91.189]], 91.191, and 91.205(f) for the operation of small aircraft identified as Category A aircraft in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md#§97.3   Symbols and terms used in procedures.|§97.3]] of this chapter in Category II operations if the Administrator finds that the proposed operation can be safely conducted under the terms of the certificate. Such authorization does not permit operation of the aircraft carrying persons or property for compensation or hire.
 
 ### §§91.195-91.199   \[Reserved\]
 
@@ -1786,17 +1786,17 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 ### §91.203   Civil aircraft: Certifications required.
 
-\(a\) Except as provided in §91.715, no person may operate a civil aircraft unless it has within it the following:
+\(a\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.715   Special flight authorizations for foreign civil aircraft.|§91.715]], no person may operate a civil aircraft unless it has within it the following:
 
-\(1\) An appropriate and current airworthiness certificate. Each U.S. airworthiness certificate used to comply with this subparagraph (except a special flight permit, a copy of the applicable operations specifications issued under §21.197(c) of this chapter, appropriate sections of the air carrier manual required by parts 121 and 135 of this chapter containing that portion of the operations specifications issued under §21.197(c), or an authorization under §91.611) must have on it the registration number assigned to the aircraft under part 47 of this chapter. However, the airworthiness certificate need not have on it an assigned special identification number before 10 days after that number is first affixed to the aircraft. A revised airworthiness certificate having on it an assigned special identification number, that has been affixed to an aircraft, may only be obtained upon application to the responsible Flight Standards office.
+\(1\) An appropriate and current airworthiness certificate. Each U.S. airworthiness certificate used to comply with this subparagraph (except a special flight permit, a copy of the applicable operations specifications issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c) of this chapter, appropriate sections of the air carrier manual required by parts 121 and 135 of this chapter containing that portion of the operations specifications issued under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]](c), or an authorization under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.611   Authorization for ferry flight with one engine inoperative.|§91.611]]) must have on it the registration number assigned to the aircraft under [[Volume 1/C Aircraft/0047 Aircraft registration.md|part 47 of this chapter]]. However, the airworthiness certificate need not have on it an assigned special identification number before 10 days after that number is first affixed to the aircraft. A revised airworthiness certificate having on it an assigned special identification number, that has been affixed to an aircraft, may only be obtained upon application to the responsible Flight Standards office.
 
-\(2\) An effective U.S. registration certificate issued to its owner or, for operation within the United States, the second copy of the Aircraft registration Application as provided for in §47.31(c), a Certificate of Aircraft registration as provided in part 48, or a registration certification issued under the laws of a foreign country.
+\(2\) An effective U.S. registration certificate issued to its owner or, for operation within the United States, the second copy of the Aircraft registration Application as provided for in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.31   Application.|§47.31]](c), a Certificate of Aircraft registration as provided in part 48, or a registration certification issued under the laws of a foreign country.
 
-\(b\) No person may operate a civil aircraft unless the airworthiness certificate required by paragraph (a) of this section or a special flight authorization issued under §91.715 is displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+\(b\) No person may operate a civil aircraft unless the airworthiness certificate required by paragraph (a) of this section or a special flight authorization issued under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.715   Special flight authorizations for foreign civil aircraft.|§91.715]] is displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
 
-\(c\) No person may operate an aircraft with a fuel tank installed within the passenger compartment or a baggage compartment unless the installation was accomplished pursuant to part 43 of this chapter, and a copy of FAA Form 337 authorizing that installation is on board the aircraft.
+\(c\) No person may operate an aircraft with a fuel tank installed within the passenger compartment or a baggage compartment unless the installation was accomplished pursuant to [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]], and a copy of FAA Form 337 authorizing that installation is on board the aircraft.
 
-\(d\) No person may operate a civil airplane (domestic or foreign) into or out of an airport in the United States unless it complies with the fuel venting and exhaust emissions requirements of part 34 of this chapter.
+\(d\) No person may operate a civil airplane (domestic or foreign) into or out of an airport in the United States unless it complies with the fuel venting and exhaust emissions requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]].
 
 \[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-218, 55 FR 32861, Aug. 10, 1990; Amdt. 91-318, 75 FR 41983, July 20, 2010; Amdt. 91-338, 80 FR 78648, Dec. 16, 2015; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018\]
 
@@ -1826,7 +1826,7 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 \(10\) Landing gear position indicator, if the aircraft has a retractable landing gear.
 
-\(11\) For small civil airplanes certificated after March 11, 1996, in accordance with part 23 of this chapter, an approved aviation red or aviation white anticollision light system. In the event of failure of any light of the anticollision light system, operation of the aircraft may continue to a location where repairs or replacement can be made.
+\(11\) For small civil airplanes certificated after March 11, 1996, in accordance with [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md|part 23 of this chapter]], an approved aviation red or aviation white anticollision light system. In the event of failure of any light of the anticollision light system, operation of the aircraft may continue to a location where repairs or replacement can be made.
 
 \(12\) If the aircraft is operated for hire over water and beyond power-off gliding distance from shore, approved flotation gear readily available to each occupant and, unless the aircraft is operating under part 121 of this subchapter, at least one pyrotechnic signaling device. As used in this section, “shore” means that area of the land adjacent to the water which is above the high water mark and excludes land areas which are intermittently under water.
 
@@ -1838,11 +1838,11 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 \(ii\) A front seat is a seat located at a flightcrew member station or any seat located alongside such a seat.
 
-\(15\) An emergency locator transmitter, if required by §91.207.
+\(15\) An emergency locator transmitter, if required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.207   Emergency locator transmitters.|§91.207]].
 
 \(16\) \[Reserved\]
 
-\(17\) For rotorcraft manufactured after September 16, 1992, a shoulder harness for each seat that meets the requirements of §27.2 or §29.2 of this chapter in effect on September 16, 1991.
+\(17\) For rotorcraft manufactured after September 16, 1992, a shoulder harness for each seat that meets the requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.2   Special retroactive requirements.|§27.2]] or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.2   Special retroactive requirements.|§29.2]] of this chapter in effect on September 16, 1991.
 
 \(c\) *Visual flight rules (night).* For VFR flight at night, the following instruments and equipment are required:
 
@@ -1866,9 +1866,9 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 \(3\) Gyroscopic rate-of-turn indicator, except on the following aircraft:
 
-\(i\) Airplanes with a third attitude instrument system usable through flight attitudes of 360 degrees of pitch and roll and installed in accordance with the instrument requirements prescribed in §121.305(j) of this chapter; and
+\(i\) Airplanes with a third attitude instrument system usable through flight attitudes of 360 degrees of pitch and roll and installed in accordance with the instrument requirements prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.305   Flight and navigational equipment.|§121.305]](j) of this chapter; and
 
-\(ii\) Rotorcraft with a third attitude instrument system usable through flight attitudes of ±80 degrees of pitch and ±120 degrees of roll and installed in accordance with §29.1303(g) of this chapter.
+\(ii\) Rotorcraft with a third attitude instrument system usable through flight attitudes of ±80 degrees of pitch and ±120 degrees of roll and installed in accordance with [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g) of this chapter.
 
 \(4\) Slip-skid indicator.
 
@@ -1908,7 +1908,7 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 \(7\) Radar altimeter.
 
-\(i\) *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
+\(i\) *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
 \[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-220, 55 FR 43310, Oct. 26, 1990; Amdt. 91-223, 56 FR 41052, Aug. 16, 1991; Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-248, 61 FR 5171, Feb. 9, 1996; Amdt. 91-251, 61 FR 34560, July 2, 1996; Amdt. 91-285, 69 FR 77599, Dec. 27, 2004; Amdt. 91-296, 72 FR 31679, June 7, 2007; Amdt. 91-309, 74 FR 42563, Aug. 21, 2009; Docket FAA-2015-1621, Amdt. 91-346, 81 FR 96700, Dec. 30, 2016\]
 
@@ -1920,9 +1920,9 @@ The Administrator may issue a certificate of authorization authorizing deviation
 
 \(i\) Those operations governed by the supplemental air carrier and commercial operator rules of parts 121 and 125;
 
-\(ii\) Charter flights governed by the domestic and flag air carrier rules of part 121 of this chapter; and
+\(ii\) Charter flights governed by the domestic and flag air carrier rules of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]; and
 
-\(iii\) Operations governed by part 135 of this chapter; or
+\(iii\) Operations governed by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]]; or
 
 \(2\) For operations other than those specified in paragraph (a)(1) of this section, there must be attached to the airplane an approved personal type or an approved automatic type emergency locator transmitter that is in operable condition, except that after June 21, 1995, an emergency locator transmitter that meets the requirements of TSO-C91 may not be used for new installations.
 
@@ -2066,21 +2066,21 @@ No person may:
 
 \(ii\) Indicated as required on the aircraft's equipment list, or on the Kinds of Operations Equipment List for the kind of flight operation being conducted;
 
-\(iii\) Required by §91.205 or any other rule of this part for the specific kind of flight operation being conducted; or
+\(iii\) Required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.205   Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.|§91.205]] or any other rule of this part for the specific kind of flight operation being conducted; or
 
 \(iv\) Required to be operational by an airworthiness directive; and
 
 \(3\) The inoperative instruments and equipment are—
 
-\(i\) Removed from the aircraft, the cockpit control placarded, and the maintenance recorded in accordance with §43.9 of this chapter; or
+\(i\) Removed from the aircraft, the cockpit control placarded, and the maintenance recorded in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).|§43.9]] of this chapter; or
 
-\(ii\) Deactivated and placarded “Inoperative.” If deactivation of the inoperative instrument or equipment involves maintenance, it must be accomplished and recorded in accordance with part 43 of this chapter; and
+\(ii\) Deactivated and placarded “Inoperative.” If deactivation of the inoperative instrument or equipment involves maintenance, it must be accomplished and recorded in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]]; and
 
-\(4\) A determination is made by a pilot, who is certificated and appropriately rated under part 61 of this chapter, or by a person, who is certificated and appropriately rated to perform maintenance on the aircraft, that the inoperative instrument or equipment does not constitute a hazard to the aircraft.
+\(4\) A determination is made by a pilot, who is certificated and appropriately rated under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]], or by a person, who is certificated and appropriately rated to perform maintenance on the aircraft, that the inoperative instrument or equipment does not constitute a hazard to the aircraft.
 
 An aircraft with inoperative instruments or equipment as provided in paragraph (d) of this section is considered to be in a properly altered condition acceptable to the Administrator.
 
-\(e\) Notwithstanding any other provision of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit issued in accordance with §§21.197 and 21.199 of this chapter.
+\(e\) Notwithstanding any other provision of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit issued in accordance with §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]] and 21.199 of this chapter.
 
 \[Doc. No. 18334, 54 FR 34304, Aug. 18, 1989, as amended by Amdt. 91-280, 68 FR 54560, Sept. 17, 2003; Amdt. 91-282, 69 FR 44880, July 27, 2004; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018\]
 
@@ -2112,7 +2112,7 @@ An aircraft with inoperative instruments or equipment as provided in paragraph (
 
 \(ii\) In the airspace from the surface to 10,000 feet MSL within a 10-nautical-mile radius of any airport listed in appendix D, section 2 of this part, excluding the airspace below 1,200 feet outside of the lateral boundaries of the surface area of the airspace designated for that airport.
 
-\(c\) *Transponder-on operation.* While in the airspace as specified in paragraph (b) of this section or in all controlled airspace, each person operating an aircraft equipped with an operable ATC transponder maintained in accordance with §91.413 of this part shall operate the transponder, including Mode C equipment if installed, and shall reply on the appropriate code or as assigned by ATC, unless otherwise directed by ATC when transmitting would jeopardize the safe execution of air traffic control functions.
+\(c\) *Transponder-on operation.* While in the airspace as specified in paragraph (b) of this section or in all controlled airspace, each person operating an aircraft equipped with an operable ATC transponder maintained in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.413   ATC transponder tests and inspections.|§91.413]] of this part shall operate the transponder, including Mode C equipment if installed, and shall reply on the appropriate code or as assigned by ATC, unless otherwise directed by ATC when transmitting would jeopardize the safe execution of air traffic control functions.
 
 \(d\) *ATC authorized deviations.* Requests for ATC authorized deviations must be made to the ATC facility having jurisdiction over the concerned airspace within the time periods specified as follows:
 
@@ -2220,7 +2220,7 @@ An aircraft with inoperative instruments or equipment as provided in paragraph (
 
 \(1\) Meets the performance requirements in TSO-C166b, Extended Squitter Automatic Dependent Surveillance-Broadcast (ADS-B) and Traffic Information Service-Broadcast (TIS-B) Equipment Operating on the Radio Frequency of 1090 Megahertz (MHz); and
 
-\(2\) Meets the requirements of §91.227.
+\(2\) Meets the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.227   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment performance requirements.|§91.227]].
 
 \(b\) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft below 18,000 feet MSL and in airspace described in paragraph (d) of this section unless the aircraft has equipment installed that—
 
@@ -2230,9 +2230,9 @@ An aircraft with inoperative instruments or equipment as provided in paragraph (
 
 \(ii\) TSO-C154c, Universal Access Transceiver (UAT) Automatic Dependent Surveillance-Broadcast (ADS-B) Equipment Operating on the Frequency of 978 MHz;
 
-\(2\) Meets the requirements of §91.227.
+\(2\) Meets the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.227   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment performance requirements.|§91.227]].
 
-\(c\) Operators with equipment installed with an approved deviation under §21.618 of this chapter also are in compliance with this section.
+\(c\) Operators with equipment installed with an approved deviation under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.618   Approval for deviation.|§21.618]] of this chapter also are in compliance with this section.
 
 \(d\) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft in the following airspace unless the aircraft has equipment installed that meets the requirements in paragraph (b) of this section:
 
@@ -2306,7 +2306,7 @@ An aircraft with inoperative instruments or equipment as provided in paragraph (
 
 \(c\) *ADS-B Out Performance Requirements for NAC* *P,* *NACV, NIC, SDA*, *and SIL*—
 
-\(1\) For aircraft broadcasting ADS-B Out as required under §91.225 (a) and (b)—
+\(1\) For aircraft broadcasting ADS-B Out as required under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]] (a) and (b)—
 
 \(i\) The aircraft's NACP must be less than 0.05 nautical miles;
 
@@ -2372,7 +2372,7 @@ An aircraft with inoperative instruments or equipment as provided in paragraph (
 
 \(4\) The aircraft must transmit its position at least once every 5 seconds while stationary on the airport surface.
 
-\(f\) *Equipment with an approved deviation.* Operators with equipment installed with an approved deviation under §21.618 of this chapter also are in compliance with this section.
+\(f\) *Equipment with an approved deviation.* Operators with equipment installed with an approved deviation under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.618   Approval for deviation.|§21.618]] of this chapter also are in compliance with this section.
 
 \(g\) *Incorporation by Reference.* The standards required in this section are incorporated by reference with the approval of the Director of the Office of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved materials are available for inspection at the FAA's Office of Rulemaking (ARM-1), 800 Independence Avenue, SW., Washington, DC 20590 (telephone 202-267-9677), or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_\_register/code\_\_of\_\_federal\_\_regulations/ibr\_\_locations.html.* This material is also available from the sources indicated in paragraphs (g)(1) and (g)(2) of this section.
 
@@ -2418,7 +2418,7 @@ No person may flight test an aircraft except over open water, or sparsely popula
 
 \(2\) Within the preceding 60 days, if any part of the parachute is composed of silk, pongee, or other natural fiber or materials not specified in paragraph (a)(1) of this section.
 
-\(b\) Except in an emergency, no pilot in command may allow, and no person may conduct, a parachute operation from an aircraft within the United States except in accordance with part 105 of this chapter.
+\(b\) Except in an emergency, no pilot in command may allow, and no person may conduct, a parachute operation from an aircraft within the United States except in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md|part 105 of this chapter]].
 
 \(c\) Unless each occupant of the aircraft is wearing an approved parachute, no pilot of a civil aircraft carrying any person (other than a crewmember) may execute any intentional maneuver that exceeds—
 
@@ -2434,7 +2434,7 @@ No person may flight test an aircraft except over open water, or sparsely popula
 
 \(i\) A certificated flight instructor; or
 
-\(ii\) An airline transport pilot instructing in accordance with §61.67 of this chapter.
+\(ii\) An airline transport pilot instructing in accordance with [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.67   Category II pilot authorization requirements.|§61.67]] of this chapter.
 
 \(e\) For the purposes of this section, *approved parachute* means—
 
@@ -2448,7 +2448,7 @@ No person may flight test an aircraft except over open water, or sparsely popula
 
 \(a\) No person may operate a civil aircraft towing a glider or unpowered ultralight vehicle unless—
 
-\(1\) The pilot in command of the towing aircraft is qualified under §61.69 of this chapter;
+\(1\) The pilot in command of the towing aircraft is qualified under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.69   Glider and unpowered ultralight vehicle towing: Experience and training requirements.|§61.69]] of this chapter;
 
 \(2\) The towing aircraft is equipped with a tow-hitch of a kind, and installed in a manner, that is approved by the Administrator;
 
@@ -2466,9 +2466,9 @@ No person may flight test an aircraft except over open water, or sparsely popula
 
 \[Doc. No. 18834, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-227, 56 FR 65661, Dec. 17, 1991; Amdt. 91-282, 69 FR 44880, July 27, 2004\]
 
-### §91.311   Towing: Other than under §91.309.
+### §91.311   Towing: Other than under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.309   Towing: Gliders and unpowered ultralight vehicles.|§91.309]].
 
-No pilot of a civil aircraft may tow anything with that aircraft (other than under §91.309) except in accordance with the terms of a certificate of waiver issued by the Administrator.
+No pilot of a civil aircraft may tow anything with that aircraft (other than under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.309   Towing: Gliders and unpowered ultralight vehicles.|§91.309]]) except in accordance with the terms of a certificate of waiver issued by the Administrator.
 
 ### §91.313   Restricted category civil aircraft: Operating limitations.
 
@@ -2482,7 +2482,7 @@ No pilot of a civil aircraft may tow anything with that aircraft (other than und
 
 \(1\) Flights conducted for flight crewmember training in a special purpose operation for which the aircraft is certificated.
 
-\(2\) Flights conducted to satisfy proficiency check and recent flight experience requirements under part 61 of this chapter provided the flight crewmember holds the appropriate category, class, and type ratings and is employed by the operator to perform the appropriate special purpose operation.
+\(2\) Flights conducted to satisfy proficiency check and recent flight experience requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] provided the flight crewmember holds the appropriate category, class, and type ratings and is employed by the operator to perform the appropriate special purpose operation.
 
 \(3\) Flights conducted to relocate the aircraft for delivery, repositioning, or maintenance.
 
@@ -2508,7 +2508,7 @@ No pilot of a civil aircraft may tow anything with that aircraft (other than und
 
 \(3\) Near a busy airport where passenger transport operations are conducted.
 
-\(f\) This section does not apply to nonpassenger-carrying civil rotorcraft external-load operations conducted under part 133 of this chapter.
+\(f\) This section does not apply to nonpassenger-carrying civil rotorcraft external-load operations conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]].
 
 \(g\) No person may operate a small restricted-category civil airplane manufactured after July 18, 1978, unless an approved shoulder harness or restraint system is installed for each front seat. The shoulder harness or restraint system installation at each flightcrew station must permit the flightcrew member, when seated and with the safety belt and shoulder harness fastened or the restraint system engaged, to perform all functions necessary for flight operation. For purposes of this paragraph—
 
@@ -2542,7 +2542,7 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 ### §91.317   Provisionally certificated civil aircraft: Operating limitations.
 
-\(a\) No person may operate a provisionally certificated civil aircraft unless that person is eligible for a provisional airworthiness certificate under §21.213 of this chapter.
+\(a\) No person may operate a provisionally certificated civil aircraft unless that person is eligible for a provisional airworthiness certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.213   Eligibility.|§21.213]] of this chapter.
 
 \(b\) No person may operate a provisionally certificated civil aircraft outside the United States unless that person has specific authority to do so from the Administrator and each foreign country involved.
 
@@ -2562,7 +2562,7 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(6\) Service testing of the aircraft.
 
-\(e\) Each person operating a provisionally certificated civil aircraft shall operate within the prescribed limitations displayed in the aircraft or set forth in the provisional aircraft flight manual or other appropriate document. However, when operating in direct conjunction with the type or supplemental type certification of the aircraft, that person shall operate under the experimental aircraft limitations of §21.191 of this chapter and when flight testing, shall operate under the requirements of §91.305 of this part.
+\(e\) Each person operating a provisionally certificated civil aircraft shall operate within the prescribed limitations displayed in the aircraft or set forth in the provisional aircraft flight manual or other appropriate document. However, when operating in direct conjunction with the type or supplemental type certification of the aircraft, that person shall operate under the experimental aircraft limitations of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]] of this chapter and when flight testing, shall operate under the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.305   Flight test areas.|§91.305]] of this part.
 
 \(f\) Each person operating a provisionally certificated civil aircraft shall establish approved procedures for—
 
@@ -2612,19 +2612,19 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(3\) Notify the control tower of the experimental nature of the aircraft when operating the aircraft into or out of airports with operating control towers.
 
-\(e\) No person may operate an aircraft that is issued an experimental certificate under §21.191(i) of this chapter for compensation or hire, except a person may operate an aircraft issued an experimental certificate under §21.191(i)(1) for compensation or hire to—
+\(e\) No person may operate an aircraft that is issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i) of this chapter for compensation or hire, except a person may operate an aircraft issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i)(1) for compensation or hire to—
 
-\(1\) Tow a glider that is a light-sport aircraft or unpowered ultralight vehicle in accordance with §91.309; or
+\(1\) Tow a glider that is a light-sport aircraft or unpowered ultralight vehicle in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.309   Towing: Gliders and unpowered ultralight vehicles.|§91.309]]; or
 
 \(2\) Conduct flight training in an aircraft which that person provides prior to January 31, 2010.
 
-\(f\) No person may lease an aircraft that is issued an experimental certificate under §21.191(i) of this chapter, except in accordance with paragraph (e)(1) of this section.
+\(f\) No person may lease an aircraft that is issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i) of this chapter, except in accordance with paragraph (e)(1) of this section.
 
-\(g\) No person may operate an aircraft issued an experimental certificate under §21.191(i)(1) of this chapter to tow a glider that is a light-sport aircraft or unpowered ultralight vehicle for compensation or hire or to conduct flight training for compensation or hire in an aircraft which that persons provides unless within the preceding 100 hours of time in service the aircraft has—
+\(g\) No person may operate an aircraft issued an experimental certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i)(1) of this chapter to tow a glider that is a light-sport aircraft or unpowered ultralight vehicle for compensation or hire or to conduct flight training for compensation or hire in an aircraft which that persons provides unless within the preceding 100 hours of time in service the aircraft has—
 
 \(1\) Been inspected by a certificated repairman (light-sport aircraft) with a maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA; or
 
-\(2\) Received an inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter.
+\(2\) Received an inspection for the issuance of an airworthiness certificate in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
 \(h\) The FAA may issue deviation authority providing relief from the provisions of paragraph (a) of this section for the purpose of conducting flight training. The FAA will issue this deviation authority as a letter of deviation authority.
 
@@ -2634,7 +2634,7 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(i\) The Administrator may prescribe additional limitations that the Administrator considers necessary, including limitations on the persons that may be carried in the aircraft.
 
-\(j\) No person may operate an aircraft that has an experimental certificate under §61.113(i) of this chapter unless the aircraft is carrying not more than 6 occupants.
+\(j\) No person may operate an aircraft that has an experimental certificate under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.113   Private pilot privileges and limitations: Pilot in command.|§61.113]](i) of this chapter unless the aircraft is carrying not more than 6 occupants.
 
 (Approved by the Office of Management and Budget under control number 2120-0005)
 
@@ -2658,7 +2658,7 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(a\) Notwithstanding any other provision of the Federal Aviation Regulations, the Administrator will approve, as provided in this section, an increase in the maximum certificated weight of an airplane type certificated under Aeronautics Bulletin No. 7-A of the U.S. Department of Commerce dated January 1, 1931, as amended, or under the normal category of part 4a of the former Civil Air Regulations (14 CFR part 4a, 1964 ed.) if that airplane is operated in the State of Alaska by—
 
-\(1\) A certificate holder conducting operations under part 121 or part 135 of this chapter; or
+\(1\) A certificate holder conducting operations under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]]; or
 
 \(2\) The U.S. Department of Interior in conducting its game and fish law enforcement activities or its management, fire detection, and fire suppression activities concerning public lands.
 
@@ -2694,13 +2694,13 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(a\) No person may operate an aircraft that has a special airworthiness certificate in the light-sport category for compensation or hire except—
 
-\(1\) To tow a glider or an unpowered ultralight vehicle in accordance with §91.309 of this chapter; or
+\(1\) To tow a glider or an unpowered ultralight vehicle in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.309   Towing: Gliders and unpowered ultralight vehicles.|§91.309]] of this chapter; or
 
 \(2\) To conduct flight training.
 
 \(b\) No person may operate an aircraft that has a special airworthiness certificate in the light-sport category unless—
 
-\(1\) The aircraft is maintained by a certificated repairman with a light-sport aircraft maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with the applicable provisions of part 43 of this chapter and maintenance and inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA;
+\(1\) The aircraft is maintained by a certificated repairman with a light-sport aircraft maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with the applicable provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]] and maintenance and inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA;
 
 \(2\) A condition inspection is performed once every 12 calendar months by a certificated repairman (light-sport aircraft) with a maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA;
 
@@ -2716,13 +2716,13 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(6\) Each major alteration to an aircraft product produced under a consensus standard is authorized, performed and inspected in accordance with maintenance and inspection procedures developed by the manufacturer or a person acceptable to the FAA; and
 
-\(7\) The owner or operator complies with the requirements for the recording of major repairs and major alterations performed on type-certificated products in accordance with §43.9(d) of this chapter, and with the retention requirements in §91.417.
+\(7\) The owner or operator complies with the requirements for the recording of major repairs and major alterations performed on type-certificated products in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).|§43.9]](d) of this chapter, and with the retention requirements in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]].
 
 \(c\) No person may operate an aircraft issued a special airworthiness certificate in the light-sport category to tow a glider or unpowered ultralight vehicle for compensation or hire or conduct flight training for compensation or hire in an aircraft which that persons provides unless within the preceding 100 hours of time in service the aircraft has—
 
-\(1\) Been inspected by a certificated repairman with a light-sport aircraft maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA and been approved for return to service in accordance with part 43 of this chapter; or
+\(1\) Been inspected by a certificated repairman with a light-sport aircraft maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA and been approved for return to service in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]]; or
 
-\(2\) Received an inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter.
+\(2\) Received an inspection for the issuance of an airworthiness certificate in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
 \(d\) Each person operating an aircraft issued a special airworthiness certificate in the light-sport category must operate the aircraft in accordance with the aircraft's operating instructions, including any provisions for necessary operating equipment specified in the aircraft's equipment list.
 
@@ -2740,19 +2740,19 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 \(a\) This subpart prescribes rules governing the maintenance, preventive maintenance, and alterations of U.S.-registered civil aircraft operating within or outside of the United States.
 
-\(b\) Sections 91.405, 91.409, 91.411, 91.417, and 91.419 of this subpart do not apply to an aircraft maintained in accordance with a continuous airworthiness maintenance program as provided in part 121, 129, or §§91.1411 or 135.411(a)(2) of this chapter.
+\(b\) Sections 91.405, 91.409, 91.411, 91.417, and 91.419 of this subpart do not apply to an aircraft maintained in accordance with a continuous airworthiness maintenance program as provided in part 121, 129, or §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1411   Continuous airworthiness maintenance program use by fractional ownership program manager.|§91.1411]] or 135.411(a)(2) of this chapter.
 
-\(c\) Sections 91.405 and 91.409 of this part do not apply to an airplane inspected in accordance with part 125 of this chapter.
+\(c\) Sections 91.405 and 91.409 of this part do not apply to an airplane inspected in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]].
 
 \[Doc. No. 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-280, 68 FR 54560, Sept. 17, 2003\]
 
 ### §91.403   General.
 
-\(a\) The owner or operator of an aircraft is primarily responsible for maintaining that aircraft in an airworthy condition, including compliance with part 39 of this chapter.
+\(a\) The owner or operator of an aircraft is primarily responsible for maintaining that aircraft in an airworthy condition, including compliance with [[Volume 1/C Aircraft/0039 Airworthiness directives.md|part 39 of this chapter]].
 
-\(b\) No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.
+\(b\) No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
-\(c\) No person may operate an aircraft for which a manufacturer's maintenance manual or instructions for continued airworthiness has been issued that contains an airworthiness limitations section unless the mandatory replacement times, inspection intervals, and related procedures specified in that section or alternative inspection intervals and related procedures set forth in an operations specification approved by the Administrator under part 121 or 135 of this chapter or in accordance with an inspection program approved under §91.409(e) have been complied with.
+\(c\) No person may operate an aircraft for which a manufacturer's maintenance manual or instructions for continued airworthiness has been issued that contains an airworthiness limitations section unless the mandatory replacement times, inspection intervals, and related procedures specified in that section or alternative inspection intervals and related procedures set forth in an operations specification approved by the Administrator under part 121 or 135 of this chapter or in accordance with an inspection program approved under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](e) have been complied with.
 
 \(d\) A person must not alter an aircraft based on a supplemental type certificate unless the owner or operator of the aircraft is the holder of the supplemental type certificate, or has written permission from the holder.
 
@@ -2762,21 +2762,21 @@ No person may operate a limited category civil aircraft carrying persons or prop
 
 Each owner or operator of an aircraft—
 
-\(a\) Shall have that aircraft inspected as prescribed in subpart E of this part and shall between required inspections, except as provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this chapter;
+\(a\) Shall have that aircraft inspected as prescribed in subpart E of this part and shall between required inspections, except as provided in paragraph (c) of this section, have discrepancies repaired as prescribed in [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]];
 
 \(b\) Shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service;
 
-\(c\) Shall have any inoperative instrument or item of equipment, permitted to be inoperative by §91.213(d)(2) of this part, repaired, replaced, removed, or inspected at the next required inspection; and
+\(c\) Shall have any inoperative instrument or item of equipment, permitted to be inoperative by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.213   Inoperative instruments and equipment.|§91.213]](d)(2) of this part, repaired, replaced, removed, or inspected at the next required inspection; and
 
-\(d\) When listed discrepancies include inoperative instruments or equipment, shall ensure that a placard has been installed as required by §43.11 of this chapter.
+\(d\) When listed discrepancies include inoperative instruments or equipment, shall ensure that a placard has been installed as required by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) and 135.419 of this chapter.|§43.11]] of this chapter.
 
 ### §91.407   Operation after maintenance, preventive maintenance, rebuilding, or alteration.
 
 \(a\) No person may operate any aircraft that has undergone maintenance, preventive maintenance, rebuilding, or alteration unless—
 
-\(1\) It has been approved for return to service by a person authorized under §43.7 of this chapter; and
+\(1\) It has been approved for return to service by a person authorized under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.7   Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.7]] of this chapter; and
 
-\(2\) The maintenance record entry required by §43.9 or §43.11, as applicable, of this chapter has been made.
+\(2\) The maintenance record entry required by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).|§43.9]] or [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) and 135.419 of this chapter.|§43.11]], as applicable, of this chapter has been made.
 
 \(b\) No person may carry any person (other than crewmembers) in an aircraft that has been maintained, rebuilt, or altered in a manner that may have appreciably changed its flight characteristics or substantially affected its operation in flight until an appropriately rated pilot with at least a private pilot certificate flies the aircraft, makes an operational check of the maintenance performed or alteration made, and logs the flight in the aircraft records.
 
@@ -2788,11 +2788,11 @@ Each owner or operator of an aircraft—
 
 \(a\) Except as provided in paragraph (c) of this section, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had—
 
-\(1\) An annual inspection in accordance with part 43 of this chapter and has been approved for return to service by a person authorized by §43.7 of this chapter; or
+\(1\) An annual inspection in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]] and has been approved for return to service by a person authorized by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.7   Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.7]] of this chapter; or
 
-\(2\) An inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter.
+\(2\) An inspection for the issuance of an airworthiness certificate in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
-\(b\) Except as provided in paragraph (c) of this section, no person may operate an aircraft carrying any person (other than a crewmember) for hire, and no person may give flight instruction for hire in an aircraft which that person provides, unless within the preceding 100 hours of time in service the aircraft has received an annual or 100-hour inspection and been approved for return to service in accordance with part 43 of this chapter or has received an inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter. The 100-hour limitation may be exceeded by not more than 10 hours while en route to reach a place where the inspection can be done. The excess time used to reach a place where the inspection can be done must be included in computing the next 100 hours of time in service.
+\(b\) Except as provided in paragraph (c) of this section, no person may operate an aircraft carrying any person (other than a crewmember) for hire, and no person may give flight instruction for hire in an aircraft which that person provides, unless within the preceding 100 hours of time in service the aircraft has received an annual or 100-hour inspection and been approved for return to service in accordance with [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]] or has received an inspection for the issuance of an airworthiness certificate in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]]. The 100-hour limitation may be exceeded by not more than 10 hours while en route to reach a place where the inspection can be done. The excess time used to reach a place where the inspection can be done must be included in computing the next 100 hours of time in service.
 
 \(c\) Paragraphs (a) and (b) of this section do not apply to—
 
@@ -2822,17 +2822,17 @@ Each owner or operator of an aircraft—
 
 \(4\) Appropriate current technical information for the aircraft.
 
-\(e\) *Large airplanes (to which part 125 is not applicable), turbojet multiengine airplanes, turbopropeller-powered multiengine airplanes, and turbine-powered rotorcraft.* No person may operate a large airplane, turbojet multiengine airplane, turbopropeller-powered multiengine airplane, or turbine-powered rotorcraft unless the replacement times for life-limited parts specified in the aircraft specifications, type data sheets, or other documents approved by the Administrator are complied with and the airplane or turbine-powered rotorcraft, including the airframe, engines, propellers, rotors, appliances, survival equipment, and emergency equipment, is inspected in accordance with an inspection program selected under the provisions of paragraph (f) of this section, except that, the owner or operator of a turbine-powered rotorcraft may elect to use the inspection provisions of §91.409(a), (b), (c), or (d) in lieu of an inspection option of §91.409(f).
+\(e\) *Large airplanes (to which part 125 is not applicable), turbojet multiengine airplanes, turbopropeller-powered multiengine airplanes, and turbine-powered rotorcraft.* No person may operate a large airplane, turbojet multiengine airplane, turbopropeller-powered multiengine airplane, or turbine-powered rotorcraft unless the replacement times for life-limited parts specified in the aircraft specifications, type data sheets, or other documents approved by the Administrator are complied with and the airplane or turbine-powered rotorcraft, including the airframe, engines, propellers, rotors, appliances, survival equipment, and emergency equipment, is inspected in accordance with an inspection program selected under the provisions of paragraph (f) of this section, except that, the owner or operator of a turbine-powered rotorcraft may elect to use the inspection provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](a), (b), (c), or (d) in lieu of an inspection option of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](f).
 
 \(f\) *Selection of inspection program under paragraph (e) of this section.* The registered owner or operator of each airplane or turbine-powered rotorcraft described in paragraph (e) of this section must select, identify in the aircraft maintenance records, and use one of the following programs for the inspection of the aircraft:
 
-\(1\) A continuous airworthiness inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier operating certificate or an operating certificate issued under part 121 or 135 of this chapter and operating that make and model aircraft under part 121 of this chapter or operating that make and model under part 135 of this chapter and maintaining it under §135.411(a)(2) of this chapter.
+\(1\) A continuous airworthiness inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier operating certificate or an operating certificate issued under part 121 or 135 of this chapter and operating that make and model aircraft under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] or operating that make and model under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] and maintaining it under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(2) of this chapter.
 
-\(2\) An approved aircraft inspection program approved under §135.419 of this chapter and currently in use by a person holding an operating certificate issued under part 135 of this chapter.
+\(2\) An approved aircraft inspection program approved under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter and currently in use by a person holding an operating certificate issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
 \(3\) A current inspection program recommended by the manufacturer.
 
-\(4\) Any other inspection program established by the registered owner or operator of that airplane or turbine-powered rotorcraft and approved by the Administrator under paragraph (g) of this section. However, the Administrator may require revision of this inspection program in accordance with the provisions of §91.415.
+\(4\) Any other inspection program established by the registered owner or operator of that airplane or turbine-powered rotorcraft and approved by the Administrator under paragraph (g) of this section. However, the Administrator may require revision of this inspection program in accordance with the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.415   Changes to aircraft inspection programs.|§91.415]].
 
 \(g\) *Inspection program approved under paragraph (e) of this section.* Each operator of an airplane or turbine-powered rotorcraft desiring to establish or change an approved inspection program under paragraph (f)(4) of this section must submit the program for approval to the responsible Flight Standards office. The program must be in writing and include at least the following information:
 
@@ -2852,11 +2852,11 @@ Each owner or operator of an aircraft—
 
 \(a\) No person may operate an airplane, or helicopter, in controlled airspace under IFR unless—
 
-\(1\) Within the preceding 24 calendar months, each static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system has been tested and inspected and found to comply with appendices E and F of part 43 of this chapter;
+\(1\) Within the preceding 24 calendar months, each static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system has been tested and inspected and found to comply with appendices E and F of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]];
 
-\(2\) Except for the use of system drain and alternate static pressure valves, following any opening and closing of the static pressure system, that system has been tested and inspected and found to comply with paragraph (a), appendix E, of part 43 of this chapter; and
+\(2\) Except for the use of system drain and alternate static pressure valves, following any opening and closing of the static pressure system, that system has been tested and inspected and found to comply with paragraph (a), appendix E, of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]]; and
 
-\(3\) Following installation or maintenance on the automatic pressure altitude reporting system of the ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of part 43 of this chapter.
+\(3\) Following installation or maintenance on the automatic pressure altitude reporting system of the ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 \(b\) The tests required by paragraph (a) of this section must be conducted by—
 
@@ -2882,9 +2882,9 @@ Each owner or operator of an aircraft—
 
 ### §91.413   ATC transponder tests and inspections.
 
-\(a\) No persons may use an ATC transponder that is specified in 91.215(a), 121.345(c), or §135.143(c) of this chapter unless, within the preceding 24 calendar months, the ATC transponder has been tested and inspected and found to comply with appendix F of part 43 of this chapter; and
+\(a\) No persons may use an ATC transponder that is specified in 91.215(a), 121.345(c), or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.143   General requirements.|§135.143]](c) of this chapter unless, within the preceding 24 calendar months, the ATC transponder has been tested and inspected and found to comply with appendix F of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]]; and
 
-\(b\) Following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of part 43 of this chapter.
+\(b\) Following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 \(c\) The tests and inspections specified in this section must be conducted by—
 
@@ -2896,7 +2896,7 @@ Each owner or operator of an aircraft—
 
 \(iii\) A limited rating appropriate to the test to be performed;
 
-\(2\) A holder of a continuous airworthiness maintenance program as provided in part 121 or §135.411(a)(2) of this chapter; or
+\(2\) A holder of a continuous airworthiness maintenance program as provided in part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(2) of this chapter; or
 
 \(3\) The manufacturer of the aircraft on which the transponder to be tested is installed, if the transponder was installed by that manufacturer.
 
@@ -2904,7 +2904,7 @@ Each owner or operator of an aircraft—
 
 ### §91.415   Changes to aircraft inspection programs.
 
-\(a\) Whenever the Administrator finds that revisions to an approved aircraft inspection program under §91.409(f)(4) or §91.1109 are necessary for the continued adequacy of the program, the owner or operator must, after notification by the Administrator, make any changes in the program found to be necessary by the Administrator.
+\(a\) Whenever the Administrator finds that revisions to an approved aircraft inspection program under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](f)(4) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1109   Aircraft maintenance: Inspection program.|§91.1109]] are necessary for the continued adequacy of the program, the owner or operator must, after notification by the Administrator, make any changes in the program found to be necessary by the Administrator.
 
 \(b\) The owner or operator may petition the Administrator to reconsider the notice to make any changes in a program in accordance with paragraph (a) of this section.
 
@@ -2916,7 +2916,7 @@ Each owner or operator of an aircraft—
 
 ### §91.417   Maintenance records.
 
-\(a\) Except for work performed in accordance with §§91.411 and 91.413, each registered owner or operator shall keep the following records for the periods specified in paragraph (b) of this section:
+\(a\) Except for work performed in accordance with §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.411   Altimeter system and altitude reporting equipment tests and inspections.|§91.411]] and 91.413, each registered owner or operator shall keep the following records for the periods specified in paragraph (b) of this section:
 
 \(1\) Records of the maintenance, preventive maintenance, and alteration and records of the 100-hour, annual, progressive, and other required or approved inspections, as appropriate, for each aircraft (including the airframe) and each engine, propeller, rotor, and appliance of an aircraft. The records must include—
 
@@ -2938,7 +2938,7 @@ Each owner or operator of an aircraft—
 
 \(v\) The current status of applicable airworthiness directives (AD) and safety directives including, for each, the method of compliance, the AD or safety directive number and revision date. If the AD or safety directive involves recurring action, the time and date when the next action is required.
 
-\(vi\) Copies of the forms prescribed by §43.9(d) of this chapter for each major alteration to the airframe and currently installed engines, rotors, propellers, and appliances.
+\(vi\) Copies of the forms prescribed by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).|§43.9]](d) of this chapter for each major alteration to the airframe and currently installed engines, rotors, propellers, and appliances.
 
 \(b\) The owner or operator shall retain the following records for the periods prescribed:
 
@@ -2946,11 +2946,11 @@ Each owner or operator of an aircraft—
 
 \(2\) The records specified in paragraph (a)(2) of this section shall be retained and transferred with the aircraft at the time the aircraft is sold.
 
-\(3\) A list of defects furnished to a registered owner or operator under §43.11 of this chapter shall be retained until the defects are repaired and the aircraft is approved for return to service.
+\(3\) A list of defects furnished to a registered owner or operator under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) and 135.419 of this chapter.|§43.11]] of this chapter shall be retained until the defects are repaired and the aircraft is approved for return to service.
 
 \(c\) The owner or operator shall make all maintenance records required to be kept by this section available for inspection by the Administrator or any authorized representative of the National Transportation Safety Board (NTSB). In addition, the owner or operator shall present Form 337 described in paragraph (d) of this section for inspection upon request of any law enforcement officer.
 
-\(d\) When a fuel tank is installed within the passenger compartment or a baggage compartment pursuant to part 43 of this chapter, a copy of FAA Form 337 shall be kept on board the modified aircraft by the owner or operator.
+\(d\) When a fuel tank is installed within the passenger compartment or a baggage compartment pursuant to [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]], a copy of FAA Form 337 shall be kept on board the modified aircraft by the owner or operator.
 
 (Approved by the Office of Management and Budget under control number 2120-0005)
 
@@ -2960,9 +2960,9 @@ Each owner or operator of an aircraft—
 
 Any owner or operator who sells a U.S.-registered aircraft shall transfer to the purchaser, at the time of sale, the following records of that aircraft, in plain language form or in coded form at the election of the purchaser, if the coded form provides for the preservation and retrieval of information in a manner acceptable to the Administrator:
 
-\(a\) The records specified in §91.417(a)(2).
+\(a\) The records specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](a)(2).
 
-\(b\) The records specified in §91.417(a)(1) which are not included in the records covered by paragraph (a) of this section, except that the purchaser may permit the seller to keep physical custody of such records. However, custody of records by the seller does not relieve the purchaser of the responsibility under §91.417(c) to make the records available for inspection by the Administrator or any authorized representative of the National Transportation Safety Board (NTSB).
+\(b\) The records specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](a)(1) which are not included in the records covered by paragraph (a) of this section, except that the purchaser may permit the seller to keep physical custody of such records. However, custody of records by the seller does not relieve the purchaser of the responsibility under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](c) to make the records available for inspection by the Administrator or any authorized representative of the National Transportation Safety Board (NTSB).
 
 ### §91.421   Rebuilt engine maintenance records.
 
@@ -3088,13 +3088,13 @@ Any owner or operator who sells a U.S.-registered aircraft shall transfer to the
 
 ### §91.505   Familiarity with operating limitations and emergency equipment.
 
-\(a\) Each pilot in command of an airplane shall, before beginning a flight, become familiar with the Airplane Flight Manual for that airplane, if one is required, and with any placards, listings, instrument markings, or any combination thereof, containing each operating limitation prescribed for that airplane by the Administrator, including those specified in §91.9(b).
+\(a\) Each pilot in command of an airplane shall, before beginning a flight, become familiar with the Airplane Flight Manual for that airplane, if one is required, and with any placards, listings, instrument markings, or any combination thereof, containing each operating limitation prescribed for that airplane by the Administrator, including those specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.9   Civil aircraft flight manual, marking, and placard requirements.|§91.9]](b).
 
 \(b\) Each required member of the crew shall, before beginning a flight, become familiar with the emergency equipment installed on the airplane to which that crewmember is assigned and with the procedures to be followed for the use of that equipment in an emergency situation.
 
 ### §91.507   Equipment requirements: Over-the-top or night VFR operations.
 
-No person may operate an airplane over-the-top or at night under VFR unless that airplane is equipped with the instruments and equipment required for IFR operations under §91.205(d) and one electric landing light for night operations. Each required instrument and item of equipment must be in operable condition.
+No person may operate an airplane over-the-top or at night under VFR unless that airplane is equipped with the instruments and equipment required for IFR operations under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.205   Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.|§91.205]](d) and one electric landing light for night operations. Each required instrument and item of equipment must be in operable condition.
 
 ### §91.509   Survival equipment for overwater operations.
 
@@ -3110,7 +3110,7 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(4\) One self-buoyant, water-resistant, portable emergency radio signaling device that is capable of transmission on the appropriate emergency frequency or frequencies and not dependent upon the airplane power supply.
 
-\(5\) A lifeline stored in accordance with §25.1411(g) of this chapter.
+\(5\) A lifeline stored in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1411   General.|§25.1411]](g) of this chapter.
 
 \(c\) A fractional ownership program manager under subpart K of this part may apply for a deviation from paragraphs (b)(2) through (5) of this section for a particular over water operation or the Administrator may amend the management specifications to require the carriage of all or any specific items of the equipment listed in paragraphs (b)(2) through (5) of this section.
 
@@ -3160,7 +3160,7 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(b\) Each item of equipment—
 
-\(1\) Must be inspected in accordance with §91.409 to ensure its continued serviceability and immediate readiness for its intended purposes;
+\(1\) Must be inspected in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]] to ensure its continued serviceability and immediate readiness for its intended purposes;
 
 \(2\) Must be readily accessible to the crew;
 
@@ -3190,11 +3190,11 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 ### §91.515   Flight altitude rules.
 
-\(a\) Notwithstanding §91.119, and except as provided in paragraph (b) of this section, no person may operate an airplane under VFR at less than—
+\(a\) Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.119   Minimum safe altitudes: General.|§91.119]], and except as provided in paragraph (b) of this section, no person may operate an airplane under VFR at less than—
 
 \(1\) One thousand feet above the surface, or 1,000 feet from any mountain, hill, or other obstruction to flight, for day operations; and
 
-\(2\) The altitudes prescribed in §91.177, for night operations.
+\(2\) The altitudes prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.177   Minimum altitudes for IFR operations.|§91.177]], for night operations.
 
 \(b\) This section does not apply—
 
@@ -3202,7 +3202,7 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(2\) When a different altitude is authorized by a waiver to this section under subpart J of this part; or
 
-\(3\) When a flight is conducted under the special VFR weather minimums of §91.157 with an appropriate clearance from ATC.
+\(3\) When a flight is conducted under the special VFR weather minimums of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]] with an appropriate clearance from ATC.
 
 ### §91.517   Passenger information.
 
@@ -3212,7 +3212,7 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(c\) If passenger information signs are installed, no passenger or crewmember may smoke while any “no smoking” sign is lighted nor may any passenger or crewmember smoke in any lavatory.
 
-\(d\) Each passenger required by §91.107(a)(3) to occupy a seat or berth shall fasten his or her safety belt about him or her and keep it fastened while any “fasten seat belt” sign is lighted.
+\(d\) Each passenger required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.107   Use of safety belts, shoulder harnesses, and child restraint systems.|§91.107]](a)(3) to occupy a seat or berth shall fasten his or her safety belt about him or her and keep it fastened while any “fasten seat belt” sign is lighted.
 
 \(e\) Each passenger shall comply with instructions given him or her by crewmembers regarding compliance with paragraphs (b), (c), and (d) of this section.
 
@@ -3230,7 +3230,7 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(4\) Location of survival equipment;
 
-\(5\) Ditching procedures and the use of flotation equipment required under §91.509 for a flight over water; and
+\(5\) Ditching procedures and the use of flotation equipment required under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.509   Survival equipment for overwater operations.|§91.509]] for a flight over water; and
 
 \(6\) The normal and emergency use of oxygen equipment installed on the airplane.
 
@@ -3242,19 +3242,19 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 \(c\) Each card used under paragraph (b) must be carried in convenient locations on the airplane for the use of each passenger and must contain information that is pertinent only to the type and model airplane on which it is used.
 
-\(d\) For operations under subpart K of this part, the passenger briefing requirements of §91.1035 apply, instead of the requirements of paragraphs (a) through (c) of this section.
+\(d\) For operations under subpart K of this part, the passenger briefing requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1035   Passenger awareness.|§91.1035]] apply, instead of the requirements of paragraphs (a) through (c) of this section.
 
 \[Doc. No. 18334, 54 FR 34314, Aug. 18, 1989, as amended by Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-280, 68 FR 54561, Sept. 17, 2003\]
 
 ### §91.521   Shoulder harness.
 
-\(a\) No person may operate a transport category airplane that was type certificated after January 1, 1958, unless it is equipped at each seat at a flight deck station with a combined safety belt and shoulder harness that meets the applicable requirements specified in §25.785 of this chapter, except that—
+\(a\) No person may operate a transport category airplane that was type certificated after January 1, 1958, unless it is equipped at each seat at a flight deck station with a combined safety belt and shoulder harness that meets the applicable requirements specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]] of this chapter, except that—
 
 \(1\) Shoulder harnesses and combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
 
 \(2\) Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the airplane.
 
-\(b\) No person may operate a transport category airplane unless it is equipped at each required flight attendant seat in the passenger compartment with a combined safety belt and shoulder harness that meets the applicable requirements specified in §25.785 of this chapter, except that—
+\(b\) No person may operate a transport category airplane unless it is equipped at each required flight attendant seat in the passenger compartment with a combined safety belt and shoulder harness that meets the applicable requirements specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]] of this chapter, except that—
 
 \(1\) Shoulder harnesses and combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
 
@@ -3264,9 +3264,9 @@ No person may operate an airplane over-the-top or at night under VFR unless that
 
 No pilot in command of an airplane having a seating capacity of more than 19 passengers may permit a passenger to stow baggage aboard that airplane except—
 
-\(a\) In a suitable baggage or cargo storage compartment, or as provided in §91.525; or
+\(a\) In a suitable baggage or cargo storage compartment, or as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.525   Carriage of cargo.|§91.525]]; or
 
-\(b\) Under a passenger seat in such a way that it will not slide forward under crash impacts severe enough to induce the ultimate inertia forces specified in §25.561(b)(3) of this chapter, or the requirements of the regulations under which the airplane was type certificated. Restraining devices must also limit sideward motion of under-seat baggage and be designed to withstand crash impacts severe enough to induce sideward forces specified in §25.561(b)(3) of this chapter.
+\(b\) Under a passenger seat in such a way that it will not slide forward under crash impacts severe enough to induce the ultimate inertia forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3) of this chapter, or the requirements of the regulations under which the airplane was type certificated. Restraining devices must also limit sideward motion of under-seat baggage and be designed to withstand crash impacts severe enough to induce sideward forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3) of this chapter.
 
 ### §91.525   Carriage of cargo.
 
@@ -3338,7 +3338,7 @@ No pilot in command of an airplane having a seating capacity of more than 19 pas
 
 \(ii\) The airplane was originally designed with more than one pilot station, but single pilot operations were permitted by the airplane flight manual or were otherwise permitted by a branch of the United States Armed Forces or the armed forces of a foreign contracting State to the Convention on International Civil Aviation.
 
-\(c\) No person may designate a pilot to serve as second in command, nor may any pilot serve as second in command, of an airplane required under this section to have two pilots unless that pilot meets the qualifications for second in command prescribed in §61.55 of this chapter.
+\(c\) No person may designate a pilot to serve as second in command, nor may any pilot serve as second in command, of an airplane required under this section to have two pilots unless that pilot meets the qualifications for second in command prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.55   Second-in-command qualifications.|§61.55]] of this chapter.
 
 \[Docket FAA-2016-6142, Amdt. 91-351, 83 FR 30282, June 27, 2018\]
 
@@ -3378,7 +3378,7 @@ This subpart applies to operation of large and transport category U.S.-registere
 
 ### §91.603   Aural speed warning device.
 
-No person may operate a transport category airplane in air commerce unless that airplane is equipped with an aural speed warning device that complies with §25.1303(c)(1).
+No person may operate a transport category airplane in air commerce unless that airplane is equipped with an aural speed warning device that complies with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1303   Flight and navigation instruments.|§25.1303]](c)(1).
 
 ### §91.605   Transport category civil airplane weight limitations.
 
@@ -3454,7 +3454,7 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(4\) No person may remove any exit that would result in a ratio of maximum number of occupants to approved exits greater than 14:1.
 
-\(d\) This section does not relieve any person operating under part 121 of this chapter from complying with §121.291.
+\(d\) This section does not relieve any person operating under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] from complying with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.291   Demonstration of emergency evacuation procedures.|§121.291]].
 
 ### §91.609   Flight data recorders and cockpit voice recorders.
 
@@ -3482,19 +3482,19 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(i\) For not more than 15 days while the flight recorder and/or cockpit voice recorder is inoperative and/or removed for repair provided that the aircraft maintenance records contain an entry that indicates the date of failure, and a placard is located in view of the pilot to show that the flight recorder or cockpit voice recorder is inoperative.
 
-\(ii\) For not more than an additional 15 days, provided that the requirements in paragraph (b)(5)(i) are met and that a certificated pilot, or a certificated person authorized to return an aircraft to service under §43.7 of this chapter, certifies in the aircraft maintenance records that additional time is required to complete repairs or obtain a replacement unit.
+\(ii\) For not more than an additional 15 days, provided that the requirements in paragraph (b)(5)(i) are met and that a certificated pilot, or a certificated person authorized to return an aircraft to service under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.7   Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.7]] of this chapter, certifies in the aircraft maintenance records that additional time is required to complete repairs or obtain a replacement unit.
 
 (c)(1) No person may operate a U.S. civil registered, multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seats of 10 or more that has been manufactured after October 11, 1991, unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium, that are capable of recording the data specified in appendix E to this part, for an airplane, or appendix F to this part, for a rotorcraft, of this part within the range, accuracy, and recording interval specified, and that are capable of retaining no less than 8 hours of aircraft operation.
 
-\(2\) All airplanes subject to paragraph (c)(1) of this section that are manufactured before April 7, 2010, by April 7, 2012, must meet the requirements of §23.1459(a)(7) or §25.1459(a)(8) of this chapter, as applicable.
+\(2\) All airplanes subject to paragraph (c)(1) of this section that are manufactured before April 7, 2010, by April 7, 2012, must meet the requirements of [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1459   Flight data recorders.|§23.1459]](a)(7) or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1459   Flight data recorders.|§25.1459]](a)(8) of this chapter, as applicable.
 
-\(3\) All airplanes and rotorcraft subject to paragraph (c)(1) of this section that are manufactured on or after April 7, 2010, must meet the flight data recorder requirements of §23.1459, §25.1459, §27.1459, or §29.1459 of this chapter, as applicable, and retain at least the last 25 hours of recorded information using a recorder that meets the standards of TSO-C124a, or later revision.
+\(3\) All airplanes and rotorcraft subject to paragraph (c)(1) of this section that are manufactured on or after April 7, 2010, must meet the flight data recorder requirements of [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1459   Flight data recorders.|§23.1459]], [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1459   Flight data recorders.|§25.1459]], [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1459   Flight data recorders.|§27.1459]], or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1459   Flight data recorders.|§29.1459]] of this chapter, as applicable, and retain at least the last 25 hours of recorded information using a recorder that meets the standards of TSO-C124a, or later revision.
 
 \(d\) Whenever a flight recorder, required by this section, is installed, it must be operated continuously from the instant the airplane begins the takeoff roll or the rotorcraft begins lift-off until the airplane has completed the landing roll or the rotorcraft has landed at its destination.
 
 \(e\) Unless otherwise authorized by the Administrator, after October 11, 1991, no person may operate a U.S. civil registered multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six passengers or more and for which two pilots are required by type certification or operating rule unless it is equipped with an approved cockpit voice recorder that:
 
-\(1\) Is installed in compliance with §23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); §25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); §27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or §29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
+\(1\) Is installed in compliance with [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1457   Cockpit voice recorders.|§23.1457]](a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]](a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1457   Cockpit voice recorders.|§27.1457]](a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1457   Cockpit voice recorders.|§29.1457]](a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
 
 \(2\) Is operated continuously from the use of the checklist before the flight to completion of the final checklist at the end of the flight.
 
@@ -3504,21 +3504,21 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(h\) All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before April 7, 2010, must by April 7, 2012, have a cockpit voice recorder that also—
 
-\(1\) Meets the requirements of §23.1457(d)(6) or §25.1457(d)(6) of this chapter, as applicable; and
+\(1\) Meets the requirements of [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1457   Cockpit voice recorders.|§23.1457]](d)(6) or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]](d)(6) of this chapter, as applicable; and
 
-\(2\) If transport category, meets the requirements of §25.1457(a)(3), (a)(4), and (a)(5) of this chapter.
+\(2\) If transport category, meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]](a)(3), (a)(4), and (a)(5) of this chapter.
 
 \(i\) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and flight data recorder, that are manufactured on or after April 7, 2010, must have a cockpit voice recorder installed that also—
 
-\(1\) Is installed in accordance with the requirements of §23.1457 (except for paragraphs (a)(6) and (d)(5)); §25.1457 (except for paragraphs (a)(6) and (d)(5)); §27.1457 (except for paragraphs (a)(6) and (d)(5)); or §29.1457 (except for paragraphs (a)(6) and (d)(5)) of this chapter, as applicable; and
+\(1\) Is installed in accordance with the requirements of [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1457   Cockpit voice recorders.|§23.1457]] (except for paragraphs (a)(6) and (d)(5)); [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]] (except for paragraphs (a)(6) and (d)(5)); [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1457   Cockpit voice recorders.|§27.1457]] (except for paragraphs (a)(6) and (d)(5)); or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1457   Cockpit voice recorders.|§29.1457]] (except for paragraphs (a)(6) and (d)(5)) of this chapter, as applicable; and
 
 \(2\) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision.
 
-\(3\) For all airplanes or rotorcraft manufactured on or after April 6, 2012, also meets the requirements of §23.1457(a)(6) and (d)(5); §25.1457(a)(6) and (d)(5); §27.1457(a)(6) and (d)(5); or §29.1457(a)(6) and (d)(5) of this chapter, as applicable.
+\(3\) For all airplanes or rotorcraft manufactured on or after April 6, 2012, also meets the requirements of [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1457   Cockpit voice recorders.|§23.1457]](a)(6) and (d)(5); [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]](a)(6) and (d)(5); [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1457   Cockpit voice recorders.|§27.1457]](a)(6) and (d)(5); or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1457   Cockpit voice recorders.|§29.1457]](a)(6) and (d)(5) of this chapter, as applicable.
 
 \(j\) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and a flight data recorder, that install datalink communication equipment on or after April 6, 2012, must record all datalink messages as required by the certification rule applicable to the aircraft.
 
-\(k\) An aircraft operated under this part under deviation authority from part 125 of this chapter must comply with all of the applicable flight data recorder requirements of part 125 applicable to the aircraft, notwithstanding such deviation authority.
+\(k\) An aircraft operated under this part under deviation authority from [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]] must comply with all of the applicable flight data recorder requirements of part 125 applicable to the aircraft, notwithstanding such deviation authority.
 
 \[Doc. No. 18334, 54 FR 34318, Aug. 18, 1989, as amended by Amdt. 91-226, 56 FR 51621, Oct. 11, 1991; Amdt. 91-228, 57 FR 19353, May 5, 1992; Amdt. 91-300, 73 FR 12564, Mar. 7, 2008; Amdt. 91-304, 73 FR 73178, Dec. 2, 2008; Amdt. 91-300, 74 FR 32800, July 9, 2009; Amdt. 91-313, 75 FR 17045, Apr. 5, 2010\]
 
@@ -3582,13 +3582,13 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(3\) The takeoff, flight and landing procedures, such as the approximate trim settings, method of power application, maximum power, and speed must be established.
 
-\(4\) The performance must be determined at a maximum weight not greater than the weight that allows a rate of climb of at least 400 feet per minute in the en route configuration set forth in §25.67(d) of this chapter in effect on January 31, 1977, at an altitude of 5,000 feet.
+\(4\) The performance must be determined at a maximum weight not greater than the weight that allows a rate of climb of at least 400 feet per minute in the en route configuration set forth in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.671   General.|§25.67]](d) of this chapter in effect on January 31, 1977, at an altitude of 5,000 feet.
 
-\(5\) The performance must be determined using temperature accountability for the takeoff field length, computed in accordance with §25.61 of this chapter in effect on January 31, 1977.
+\(5\) The performance must be determined using temperature accountability for the takeoff field length, computed in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.611   Accessibility provisions.|§25.61]] of this chapter in effect on January 31, 1977.
 
 \(c\) *Flight tests: Turbine-engine-powered airplanes.* The airplane performance of a turbine-engine-powered airplane with one engine inoperative must be determined by flight tests, including at least three takeoff tests, in accordance with the following:
 
-\(1\) Takeoff speeds VR and V2, not less than the corresponding speeds under which the airplane was type certificated under §25.107 of this chapter, must be chosen at which the airplane may be controlled satisfactorily with the critical engine inoperative (with its propeller removed or in a configuration desired by the operator, if applicable) and with all other engines operating at not more than the power selected for type certification as set forth in §25.101 of this chapter.
+\(1\) Takeoff speeds VR and V2, not less than the corresponding speeds under which the airplane was type certificated under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.107   Takeoff speeds.|§25.107]] of this chapter, must be chosen at which the airplane may be controlled satisfactorily with the critical engine inoperative (with its propeller removed or in a configuration desired by the operator, if applicable) and with all other engines operating at not more than the power selected for type certification as set forth in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]] of this chapter.
 
 \(2\) The minimum takeoff field length must be the horizontal distance required to accelerate and climb to the 35-foot height at V2 speed (including any additional speed increment obtained in the tests) multiplied by 115 percent and determined with—
 
@@ -3596,11 +3596,11 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(ii\) The critical engine inoperative and its propeller removed or in a configuration desired by the operator (if applicable); and
 
-\(iii\) The other engine operating at not more than the power selected for type certification as set forth in §25.101 of this chapter.
+\(iii\) The other engine operating at not more than the power selected for type certification as set forth in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]] of this chapter.
 
 \(3\) The takeoff, flight, and landing procedures such as the approximate trim setting, method of power application, maximum power, and speed must be established. The airplane must be satisfactorily controllable during the entire takeoff run when operated according to these procedures.
 
-\(4\) The performance must be determined at a maximum weight not greater than the weight determined under §25.121(c) of this chapter but with—
+\(4\) The performance must be determined at a maximum weight not greater than the weight determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](c) of this chapter but with—
 
 \(i\) The actual steady gradient of the final takeoff climb requirement not less than 1.2 percent at the end of the takeoff path with two critical engines inoperative; and
 
@@ -3608,21 +3608,21 @@ No person may operate a transport category airplane in air commerce unless that 
 
 \(5\) The airplane must be satisfactorily controllable in a climb with two critical engines inoperative. Climb performance may be shown by calculations based on, and equal in accuracy to, the results of testing.
 
-\(6\) The performance must be determined using temperature accountability for takeoff distance and final takeoff climb computed in accordance with §25.101 of this chapter.
+\(6\) The performance must be determined using temperature accountability for takeoff distance and final takeoff climb computed in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]] of this chapter.
 
 ### §91.613   Materials for compartment interiors.
 
-\(a\) No person may operate an airplane that conforms to an amended or supplemental type certificate issued in accordance with SFAR No. 41 for a maximum certificated takeoff weight in excess of 12,500 pounds unless within 1 year after issuance of the initial airworthiness certificate under that SFAR the airplane meets the compartment interior requirements set forth in §25.853 (a), (b), (b-1), (b-2), and (b-3) of this chapter in effect on September 26, 1978.
+\(a\) No person may operate an airplane that conforms to an amended or supplemental type certificate issued in accordance with SFAR No. 41 for a maximum certificated takeoff weight in excess of 12,500 pounds unless within 1 year after issuance of the initial airworthiness certificate under that SFAR the airplane meets the compartment interior requirements set forth in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.853   Compartment interiors.|§25.853]] (a), (b), (b-1), (b-2), and (b-3) of this chapter in effect on September 26, 1978.
 
 \(b\) Thermal/acoustic insulation materials. For transport category airplanes type certificated after January 1, 1958:
 
-\(1\) For airplanes manufactured before September 2, 2005, when thermal/acoustic insulation is installed in the fuselage as replacements after September 2, 2005, the insulation must meet the flame propagation requirements of §25.856 of this chapter, effective September 2, 2003, if it is:
+\(1\) For airplanes manufactured before September 2, 2005, when thermal/acoustic insulation is installed in the fuselage as replacements after September 2, 2005, the insulation must meet the flame propagation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.856   Thermal/Acoustic insulation materials.|§25.856]] of this chapter, effective September 2, 2003, if it is:
 
 \(i\) Of a blanket construction or
 
 \(ii\) Installed around air ducting.
 
-\(2\) For airplanes manufactured after September 2, 2005, thermal/acoustic insulation materials installed in the fuselage must meet the flame propagation requirements of §25.856 of this chapter, effective September 2, 2003.
+\(2\) For airplanes manufactured after September 2, 2005, thermal/acoustic insulation materials installed in the fuselage must meet the flame propagation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.856   Thermal/Acoustic insulation materials.|§25.856]] of this chapter, effective September 2, 2003.
 
 \[Doc. No. 18334, 54 FR 34318, Aug. 18, 1989, as amended by Amdt. 91-279, 68 FR 45083, July 31, 2003; Amdt. 91-290, 70 FR 77752, Dec. 30, 2005\]
 
@@ -3656,15 +3656,15 @@ Section 91.11 of this part (Prohibitions on interference with crewmembers) appli
 
 \(a\) Each person operating a civil aircraft of U.S. registry outside of the United States shall—
 
-\(1\) When over the high seas, comply with Annex 2 (Rules of the Air) to the Convention on International Civil Aviation and with §§91.117(c), 91.127, 91.129, and 91.131;
+\(1\) When over the high seas, comply with Annex 2 (Rules of the Air) to the Convention on International Civil Aviation and with §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|§91.117]](c), 91.127, 91.129, and 91.131;
 
 \(2\) When within a foreign country, comply with the regulations relating to the flight and maneuver of aircraft there in force;
 
-\(3\) Except for §§91.117(a), 91.307(b), 91.309, 91.323, and 91.711, comply with this part so far as it is not inconsistent with applicable regulations of the foreign country where the aircraft is operated or Annex 2 of the Convention on International Civil Aviation; and
+\(3\) Except for §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|§91.117]](a), 91.307(b), 91.309, 91.323, and 91.711, comply with this part so far as it is not inconsistent with applicable regulations of the foreign country where the aircraft is operated or Annex 2 of the Convention on International Civil Aviation; and
 
-\(4\) When operating within airspace designated as Reduced Vertical Separation Minimum (RVSM) airspace, comply with §91.706.
+\(4\) When operating within airspace designated as Reduced Vertical Separation Minimum (RVSM) airspace, comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.706   Operations within airspace designed as Reduced Vertical Separation Minimum Airspace.|§91.706]].
 
-\(5\) For aircraft subject to ICAO Annex 16, carry on board the aircraft documents that summarize the noise operating characteristics and certifications of the aircraft that demonstrate compliance with this part and part 36 of this chapter.
+\(5\) For aircraft subject to ICAO Annex 16, carry on board the aircraft documents that summarize the noise operating characteristics and certifications of the aircraft that demonstrate compliance with this part and [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
 \(b\) Annex 2 to the Convention on International Civil Aviation, Rules of the Air, Tenth Edition—July 2005, with Amendments through Amendment 45, applicable November 10, 2016, is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FAA must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Transportation, Docket Operations, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590 and is available from the International Civil Aviation Organization (ICAO), Marketing and Customer Relations Unit, 999 Robert Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada; *http://store1.icao.int/;* or by contacting the ICAO Marketing and Customer Relations Unit by telephone at 514-954-8022 or by email at *sales\@icao.int.* For questions about ICAO Annex 2, contact the FAA's Office of International Affairs at (202) 267-1000. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_\_register/code\_\_of\_\_federal\_\_regulations/ibr\_\_locations.html.*
 
@@ -3696,7 +3696,7 @@ No person may operate a civil aircraft from the United States to Cuba unless—
 
 \(b\) In the case of departure from any of the 48 contiguous States or the District of Columbia, the pilot in command of the aircraft has filed—
 
-\(1\) A DVFR or IFR flight plan as prescribed in §99.11 or §99.13 of this chapter; and
+\(1\) A DVFR or IFR flight plan as prescribed in [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.11   ADIZ flight plan requirements.|§99.11]] or [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.13   Transponder-on requirements.|§99.13]] of this chapter; and
 
 \(2\) A written statement, within 1 hour before departure, with the Office of Immigration and Naturalization Service at the airport of departure, containing—
 
@@ -3758,7 +3758,7 @@ No person may operate a civil aircraft of Cuban registry except in controlled ai
 
 ### §91.715   Special flight authorizations for foreign civil aircraft.
 
-\(a\) Foreign civil aircraft may be operated without airworthiness certificates required under §91.203 if a special flight authorization for that operation is issued under this section. Application for a special flight authorization must be made to the appropriate Flight Standards Division Manager, or Aircraft Certification Service Division Director. However, in the case of an aircraft to be operated in the U.S. for the purpose of demonstration at an airshow, the application may be made to the appropriate Flight Standards Division Manager or Aircraft Certification Service Division Director responsible for the airshow location.
+\(a\) Foreign civil aircraft may be operated without airworthiness certificates required under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.203   Civil aircraft: Certifications required.|§91.203]] if a special flight authorization for that operation is issued under this section. Application for a special flight authorization must be made to the appropriate Flight Standards Division Manager, or Aircraft Certification Service Division Director. However, in the case of an aircraft to be operated in the U.S. for the purpose of demonstration at an airshow, the application may be made to the appropriate Flight Standards Division Manager or Aircraft Certification Service Division Director responsible for the airshow location.
 
 \(b\) The Administrator may issue a special flight authorization for a foreign civil aircraft subject to any conditions and limitations that the Administrator considers necessary for safe operation in the U.S. airspace.
 
@@ -3782,11 +3782,11 @@ No person may operate a civil aircraft of Cuban registry except in controlled ai
 
 \(ii\) If foreign registered, that would be required by this chapter to have a U.S. standard airworthiness certificate in order to conduct the operations intended for the airplane were it registered in the United States. Those sections apply to operations to or from airports in the United States under this part and parts 121, 125, 129, and 135 of this chapter.
 
-\(2\) Section 91.813 applies to U.S. operators of civil subsonic jet (turbojet) airplanes covered by this subpart. This section applies to operators operating to or from airports in the United States under this part and parts 121, 125, and 135, but not to those operating under part 129 of this chapter.
+\(2\) Section 91.813 applies to U.S. operators of civil subsonic jet (turbojet) airplanes covered by this subpart. This section applies to operators operating to or from airports in the United States under this part and parts 121, 125, and 135, but not to those operating under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md|part 129 of this chapter]].
 
 \(3\) Sections 91.803, 91.819, and 91.821 apply to U.S.-registered civil supersonic airplanes having standard airworthiness certificates and to foreign-registered civil supersonic airplanes that, if registered in the United States, would be required by this chapter to have U.S. standard airworthiness certificates in order to conduct the operations intended for the airplane. Those sections apply to operations under this part and under parts 121, 125, 129, and 135 of this chapter.
 
-\(b\) Unless otherwise specified, as used in this subpart “part 36” refers to [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|14 CFR part 36]], including the noise levels under appendix C of that part, notwithstanding the provisions of that part excepting certain airplanes from the specified noise requirements. For purposes of this subpart, the various stages of noise levels, the terms used to describe airplanes with respect to those levels, and the terms “subsonic airplane” and “supersonic airplane” have the meanings specified under part 36 of this chapter. For purposes of this subpart, for subsonic airplanes operated in foreign air commerce in the United States, the Administrator may accept compliance with the noise requirements under annex 16 of the International Civil Aviation Organization when those requirements have been shown to be substantially compatible with, and achieve results equivalent to those achievable under, part 36 for that airplane. Determinations made under these provisions are subject to the limitations of §36.5 of this chapter as if those noise levels were part 36 noise levels.
+\(b\) Unless otherwise specified, as used in this subpart “part 36” refers to [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|14 CFR part 36]], including the noise levels under appendix C of that part, notwithstanding the provisions of that part excepting certain airplanes from the specified noise requirements. For purposes of this subpart, the various stages of noise levels, the terms used to describe airplanes with respect to those levels, and the terms “subsonic airplane” and “supersonic airplane” have the meanings specified under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]]. For purposes of this subpart, for subsonic airplanes operated in foreign air commerce in the United States, the Administrator may accept compliance with the noise requirements under annex 16 of the International Civil Aviation Organization when those requirements have been shown to be substantially compatible with, and achieve results equivalent to those achievable under, part 36 for that airplane. Determinations made under these provisions are subject to the limitations of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.5   Limitation of part.|§36.5]] of this chapter as if those noise levels were part 36 noise levels.
 
 \(c\) Sections 91.851 through 91.877 of this subpart prescribe operating noise limits and related requirements that apply to any civil subsonic jet (turbojet) airplane (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum certificated takeoff weight of more than 75,000 pounds operating to or from an airport in the 48 contiguous United States and the District of Columbia under this part, parts 121, 125, 129, or 135 of this chapter on and after September 25, 1991.
 
@@ -3798,13 +3798,13 @@ No person may operate a civil aircraft of Cuban registry except in controlled ai
 
 ### §91.803   Part 125 operators: Designation of applicable regulations.
 
-For airplanes covered by this subpart and operated under part 125 of this chapter, the following regulations apply as specified:
+For airplanes covered by this subpart and operated under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]], the following regulations apply as specified:
 
 \(a\) For each airplane operation to which requirements prescribed under this subpart applied before November 29, 1980, those requirements of this subpart continue to apply.
 
-\(b\) For each subsonic airplane operation to which requirements prescribed under this subpart did not apply before November 29, 1980, because the airplane was not operated in the United States under this part or part 121, 129, or 135 of this chapter, the requirements prescribed under §91.805 of this subpart apply.
+\(b\) For each subsonic airplane operation to which requirements prescribed under this subpart did not apply before November 29, 1980, because the airplane was not operated in the United States under this part or part 121, 129, or 135 of this chapter, the requirements prescribed under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.805   Final compliance: Subsonic airplanes.|§91.805]] of this subpart apply.
 
-\(c\) For each supersonic airplane operation to which requirements prescribed under this subpart did not apply before November 29, 1980, because the airplane was not operated in the United States under this part or part 121, 129, or 135 of this chapter, the requirements of §§91.819 and 91.821 of this subpart apply.
+\(c\) For each supersonic airplane operation to which requirements prescribed under this subpart did not apply before November 29, 1980, because the airplane was not operated in the United States under this part or part 121, 129, or 135 of this chapter, the requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.819   Civil supersonic airplanes that do not comply with part 36.|§91.819]] and 91.821 of this subpart apply.
 
 \(d\) For each airplane required to operate under part 125 for which a deviation under that part is approved to operate, in whole or in part, under this part or part 121, 129, or 135 of this chapter, notwithstanding the approval, the requirements prescribed under paragraphs (a), (b), and (c) of this section continue to apply.
 
@@ -3812,31 +3812,31 @@ For airplanes covered by this subpart and operated under part 125 of this chapte
 
 ### §91.805   Final compliance: Subsonic airplanes.
 
-Except as provided in §§91.809 and 91.811, on and after January 1, 1985, no person may operate to or from an airport in the United States any subsonic airplane covered by this subpart unless that airplane has been shown to comply with Stage 2 or Stage 3 noise levels under part 36 of this chapter.
+Except as provided in §§91.809 and 91.811, on and after January 1, 1985, no person may operate to or from an airport in the United States any subsonic airplane covered by this subpart unless that airplane has been shown to comply with Stage 2 or Stage 3 noise levels under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
 ### §§91.807-91.813   \[Reserved\]
 
 ### §91.815   Agricultural and fire fighting airplanes: Noise operating limitations.
 
-\(a\) This section applies to propeller-driven, small airplanes having standard airworthiness certificates that are designed for “agricultural aircraft operations” (as defined in §137.3 of this chapter, as effective on January 1, 1966) or for dispensing fire fighting materials.
+\(a\) This section applies to propeller-driven, small airplanes having standard airworthiness certificates that are designed for “agricultural aircraft operations” (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.3   Definition of terms.|§137.3]] of this chapter, as effective on January 1, 1966) or for dispensing fire fighting materials.
 
-\(b\) If the Airplane Flight Manual, or other approved manual material information, markings, or placards for the airplane indicate that the airplane has not been shown to comply with the noise limits under part 36 of this chapter, no person may operate that airplane, except—
+\(b\) If the Airplane Flight Manual, or other approved manual material information, markings, or placards for the airplane indicate that the airplane has not been shown to comply with the noise limits under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]], no person may operate that airplane, except—
 
 \(1\) To the extent necessary to accomplish the work activity directly associated with the purpose for which it is designed;
 
 \(2\) To provide flight crewmember training in the special purpose operation for which the airplane is designed; and
 
-\(3\) To conduct “nondispensing aerial work operations” in accordance with the requirements under §137.29(c) of this chapter.
+\(3\) To conduct “nondispensing aerial work operations” in accordance with the requirements under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.29   General.|§137.29]](c) of this chapter.
 
 ### §91.817   Civil aircraft sonic boom.
 
-\(a\) No person may operate a civil aircraft in the United States at a true flight Mach number greater than 1 except in compliance with conditions and limitations in an authorization to exceed Mach 1 issued to the operator in accordance with §91.818.
+\(a\) No person may operate a civil aircraft in the United States at a true flight Mach number greater than 1 except in compliance with conditions and limitations in an authorization to exceed Mach 1 issued to the operator in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.818   Special flight authorization to exceed Mach 1.|§91.818]].
 
 \(b\) In addition, no person may operate a civil aircraft for which the maximum operating limit speed MM0 exceeds a Mach number of 1, to or from an airport in the United States, unless—
 
 \(1\) Information available to the flight crew includes flight limitations that ensure that flights entering or leaving the United States will not cause a sonic boom to reach the surface within the United States; and
 
-\(2\) The operator complies with the flight limitations prescribed in paragraph (b)(1) of this section or complies with conditions and limitations in an authorization to exceed Mach 1 issued in accordance with §91.818.
+\(2\) The operator complies with the flight limitations prescribed in paragraph (b)(1) of this section or complies with conditions and limitations in an authorization to exceed Mach 1 issued in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.818   Special flight authorization to exceed Mach 1.|§91.818]].
 
 (Approved by the Office of Management and Budget under control number 2120-0005)
 
@@ -3872,7 +3872,7 @@ For all civil aircraft, any operation that exceeds Mach 1 may be conducted only 
 
 \(iv\) Demonstrate the conditions and limitations under which speeds in excess of Mach 1 will not cause a measurable sonic boom overpressure to reach the surface; or
 
-\(v\) Measure the noise characteristics of an aircraft to demonstrate compliance with noise requirements imposed under this chapter, or to determine the limits for operation in accordance with §91.817(b).
+\(v\) Measure the noise characteristics of an aircraft to demonstrate compliance with noise requirements imposed under this chapter, or to determine the limits for operation in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.817   Civil aircraft sonic boom.|§91.817]](b).
 
 \(9\) For any purpose listed in paragraph (a)(8) of this section, each applicant must indicate why its intended operation cannot be safely or properly accomplished over the ocean at a distance ensuring that no sonic boom overpressure reaches any land surface in the United States.
 
@@ -3908,7 +3908,7 @@ For all civil aircraft, any operation that exceeds Mach 1 may be conducted only 
 
 \(b\) *Airport use.* Except in an emergency, the following apply to each person who operates a civil supersonic airplane to or from an airport in the United States:
 
-\(1\) Regardless of whether a type design change approval is applied for under part 21 of this chapter, no person may land or take off an airplane covered by this section for which the type design is changed, after July 31, 1978, in a manner constituting an “acoustical change” under §21.93 unless the acoustical change requirements of part 36 are complied with.
+\(1\) Regardless of whether a type design change approval is applied for under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]], no person may land or take off an airplane covered by this section for which the type design is changed, after July 31, 1978, in a manner constituting an “acoustical change” under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]] unless the acoustical change requirements of part 36 are complied with.
 
 \(2\) No flight may be scheduled, or otherwise planned, for takeoff or landing after 10 p.m. and before 7 a.m. local time.
 
@@ -3920,7 +3920,7 @@ Except for Concorde airplanes having flight time before January 1, 1980, no pers
 
 ### §91.851   Definitions.
 
-For the purposes of §§91.851 through 91.877 of this subpart:
+For the purposes of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.851   Definitions.|§91.851]] through 91.877 of this subpart:
 
 *Chapter 4 noise level* means a noise level at or below the maximum noise level prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Volume I, Amendment 7, effective March 21, 2002. The Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 approved the incorporation by reference of this document, which can be obtained from the International Civil Aviation Organization (ICAO), Document Sales Unit, 999 University Street, Montreal, Quebec H3C 5H7, Canada. Also, you may obtain documents on the Internet at *http://www.ICAO.int/eshop/index.cfm.* Copies may be reviewed at the U.S. Department of Transportation, Docket Operations, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_\_register/code\_\_of\_\_federal\_\_regulations/ibr\_\_locations.html.*
 
@@ -3932,37 +3932,37 @@ For the purposes of §§91.851 through 91.877 of this subpart:
 
 *Operations specifications* means an enumeration of airplanes by type, model, series, and serial number operated by the operator or foreign air carrier on a given day, regardless of how or whether such airplanes are formally listed or designated by the operator.
 
-*Owner* means any person that has indicia of ownership sufficient to register the airplane in the United States pursuant to part 47 of this chapter.
+*Owner* means any person that has indicia of ownership sufficient to register the airplane in the United States pursuant to [[Volume 1/C Aircraft/0047 Aircraft registration.md|part 47 of this chapter]].
 
 *New entrant* means an air carrier or foreign air carrier that, on or before November 5, 1990, did not conduct operations under part 121 or 129 of this chapter using an airplane covered by this subpart to or from any airport in the contiguous United States, but that initiates such operation after that date.
 
-*Stage 2 noise levels* mean the requirements for Stage 2 noise levels as defined in part 36 of this chapter in effect on November 5, 1990.
+*Stage 2 noise levels* mean the requirements for Stage 2 noise levels as defined in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]] in effect on November 5, 1990.
 
-*Stage 3 noise levels* mean the requirements for Stage 3 noise levels as defined in part 36 of this chapter in effect on November 5, 1990.
+*Stage 3 noise levels* mean the requirements for Stage 3 noise levels as defined in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]] in effect on November 5, 1990.
 
-*Stage 4 noise level* means a noise level at or below the Stage 4 noise limit prescribed in part 36 of this chapter.
+*Stage 4 noise level* means a noise level at or below the Stage 4 noise limit prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
-*Stage 2 airplane* means a civil subsonic jet (turbojet) airplane with a maximum certificated weight of 75,000 pounds or more that complies with Stage 2 noise levels as defined in part 36 of this chapter.
+*Stage 2 airplane* means a civil subsonic jet (turbojet) airplane with a maximum certificated weight of 75,000 pounds or more that complies with Stage 2 noise levels as defined in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
-*Stage 3 airplane* means a civil subsonic jet (turbojet) airplane with a maximum certificated weight of 75,000 pounds or more that complies with Stage 3 noise levels as defined in part 36 of this chapter.
+*Stage 3 airplane* means a civil subsonic jet (turbojet) airplane with a maximum certificated weight of 75,000 pounds or more that complies with Stage 3 noise levels as defined in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
-*Stage 4 airplane* means an airplane that has been shown not to exceed the Stage 4 noise limit prescribed in part 36 of this chapter. A Stage 4 airplane complies with all of the noise operating rules of this part.
+*Stage 4 airplane* means an airplane that has been shown not to exceed the Stage 4 noise limit prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]]. A Stage 4 airplane complies with all of the noise operating rules of this part.
 
-*Stage 5 airplane* means an airplane that has been shown not to exceed the Stage 5 noise limit prescribed in part 36 of this chapter. A Stage 5 airplane complies with all of the noise operating rules of this part.
+*Stage 5 airplane* means an airplane that has been shown not to exceed the Stage 5 noise limit prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]]. A Stage 5 airplane complies with all of the noise operating rules of this part.
 
-*Stage 5 noise level* means a noise level at or below the Stage 5 noise limit prescribed in part 36 of this chapter.
+*Stage 5 noise level* means a noise level at or below the Stage 5 noise limit prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
 \[Doc. No. 26433, 56 FR 48658, Sept. 25, 1991, as amended by Amdt. 91-252, 61 FR 66185, Dec. 16, 1996; Amdt. 91-275, 67 FR 45237, July 8, 2002; Amdt. 91-288, 70 FR 38749, July 5, 2005; 72 FR 68475, Dec. 5, 2007; Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017\]
 
 ### §91.853   Final compliance: Civil subsonic airplanes.
 
-Except as provided in §91.873, after December 31, 1999, no person shall operate to or from any airport in the contiguous United States any airplane subject to §91.801(c), unless that airplane has been shown to comply with Stage 3, Stage 4, or Stage 5 noise levels.
+Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.873   Waivers from final compliance.|§91.873]], after December 31, 1999, no person shall operate to or from any airport in the contiguous United States any airplane subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](c), unless that airplane has been shown to comply with Stage 3, Stage 4, or Stage 5 noise levels.
 
 \[Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017\]
 
 ### §91.855   Entry and nonaddition rule.
 
-No person may operate any airplane subject to §91.801(c) of this subpart to or from an airport in the contiguous United States unless one or more of the following apply:
+No person may operate any airplane subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](c) of this subpart to or from an airport in the contiguous United States unless one or more of the following apply:
 
 \(a\) The airplane complies with Stage 3, Stage 4, or Stage 5 noise levels.
 
@@ -3988,7 +3988,7 @@ No person may operate any airplane subject to §91.801(c) of this subpart to or 
 
 \(g\) The airplane complies with Stage 2 noise levels and was purchased by the importer under a written contract executed before November 5, 1990.
 
-\(h\) Any Stage 2 airplane described in this section is eligible for operation in the contiguous United States only as provided under §91.865 or 91.867.
+\(h\) Any Stage 2 airplane described in this section is eligible for operation in the contiguous United States only as provided under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or 91.867.
 
 \[Doc. No. 26433, 56 FR 48658, Sept. 25, 1991; 56 FR 51167, Oct. 10, 1991, as amended by Amdt. 91-288, 70 FR 38750, July 5, 2005; Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017\]
 
@@ -4020,29 +4020,29 @@ An operator of a Stage 2 airplane that is operating only between points outside 
 
 ### §91.859   Modification to meet Stage 3, Stage 4, or Stage 5 noise levels.
 
-For an airplane subject to §91.801(c) of this subpart and otherwise prohibited from operation to or from an airport in the contiguous United States by §91.855, any person may apply for a special flight authorization for that airplane to operate in the contiguous United States for the purpose of obtaining modifications to meet Stage 3, Stage 4, or Stage 5 noise levels.
+For an airplane subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](c) of this subpart and otherwise prohibited from operation to or from an airport in the contiguous United States by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.855   Entry and nonaddition rule.|§91.855]], any person may apply for a special flight authorization for that airplane to operate in the contiguous United States for the purpose of obtaining modifications to meet Stage 3, Stage 4, or Stage 5 noise levels.
 
 \[Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017\]
 
 ### §91.861   Base level.
 
-\(a\) *U.S. Operators.* The base level of a U.S. operator is equal to the number of owned or leased Stage 2 airplanes subject to §91.801(c) of this subpart that were listed on that operator's operations specifications for operations to or from airports in the contiguous United States on any one day selected by the operator during the period January 1, 1990, through July 1, 1991, plus or minus adjustments made pursuant to paragraphs (a) (1) and (2).
+\(a\) *U.S. Operators.* The base level of a U.S. operator is equal to the number of owned or leased Stage 2 airplanes subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](c) of this subpart that were listed on that operator's operations specifications for operations to or from airports in the contiguous United States on any one day selected by the operator during the period January 1, 1990, through July 1, 1991, plus or minus adjustments made pursuant to paragraphs (a) (1) and (2).
 
 \(1\) The base level of a U.S. operator shall be increased by a number equal to the total of the following—
 
-\(i\) The number of Stage 2 airplanes returned to service in the United States pursuant to §91.855(f);
+\(i\) The number of Stage 2 airplanes returned to service in the United States pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.855   Entry and nonaddition rule.|§91.855]](f);
 
-\(ii\) The number of Stage 2 airplanes purchased pursuant to §91.855(g); and
+\(ii\) The number of Stage 2 airplanes purchased pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.855   Entry and nonaddition rule.|§91.855]](g); and
 
-\(iii\) Any U.S. operator base level acquired with a Stage 2 airplane transferred from another person under §91.863.
+\(iii\) Any U.S. operator base level acquired with a Stage 2 airplane transferred from another person under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.863   Transfers of Stage 2 airplanes with base level.|§91.863]].
 
-\(2\) The base level of a U.S. operator shall be decreased by the amount of U.S. operator base level transferred with the corresponding number of Stage 2 airplanes to another person under §91.863.
+\(2\) The base level of a U.S. operator shall be decreased by the amount of U.S. operator base level transferred with the corresponding number of Stage 2 airplanes to another person under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.863   Transfers of Stage 2 airplanes with base level.|§91.863]].
 
 \(b\) Foreign air carriers. The base level of a foreign air carrier is equal to the number of owned or leased Stage 2 airplanes that were listed on that carrier's U.S. operations specifications on any one day during the period January 1, 1990, through July 1, 1991, plus or minus any adjustments to the base levels made pursuant to paragraphs (b) (1) and (2).
 
-\(1\) The base level of a foreign air carrier shall be increased by the amount of foreign air carrier base level acquired with a Stage 2 airplane from another person under §91.863.
+\(1\) The base level of a foreign air carrier shall be increased by the amount of foreign air carrier base level acquired with a Stage 2 airplane from another person under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.863   Transfers of Stage 2 airplanes with base level.|§91.863]].
 
-\(2\) The base level of a foreign air carrier shall be decreased by the amount of foreign air carrier base level transferred with a Stage 2 airplane to another person under §91.863.
+\(2\) The base level of a foreign air carrier shall be decreased by the amount of foreign air carrier base level transferred with a Stage 2 airplane to another person under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.863   Transfers of Stage 2 airplanes with base level.|§91.863]].
 
 \(c\) New entrants do not have a base level.
 
@@ -4052,7 +4052,7 @@ For an airplane subject to §91.801(c) of this subpart and otherwise prohibited 
 
 \(a\) Stage 2 airplanes may be transferred with or without the corresponding amount of base level. Base level may not be transferred without the corresponding number of Stage 2 airplanes.
 
-\(b\) No portion of a U.S. operator's base level established under §91.861(a) may be used for operations by a foreign air carrier. No portion of a foreign air carrier's base level established under §91.861(b) may be used for operations by a U.S. operator.
+\(b\) No portion of a U.S. operator's base level established under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]](a) may be used for operations by a foreign air carrier. No portion of a foreign air carrier's base level established under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]](b) may be used for operations by a U.S. operator.
 
 \(c\) Whenever a transfer of Stage 2 airplanes with base level occurs, the transferring and acquiring parties shall, within 10 days, jointly submit written notification of the transfer to the FAA, Office of Environment and Energy. Such notification shall state:
 
@@ -4066,15 +4066,15 @@ For an airplane subject to §91.801(c) of this subpart and otherwise prohibited 
 
 \(5\) The effective date of the transaction.
 
-\(d\) If, taken as a whole, a transaction or series of transactions made pursuant to this section does not produce an increase or decrease in the number of Stage 2 airplanes for either the acquiring or transferring operator, such transaction or series of transactions may not be used to establish compliance with the requirements of §91.865.
+\(d\) If, taken as a whole, a transaction or series of transactions made pursuant to this section does not produce an increase or decrease in the number of Stage 2 airplanes for either the acquiring or transferring operator, such transaction or series of transactions may not be used to establish compliance with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]].
 
 \[Doc. No. 26433, 56 FR 48659, Sept. 25, 1991\]
 
 ### §91.865   Phased compliance for operators with base level.
 
-Except as provided in paragraph (a) of this section, each operator that operates an airplane under part 91, 121, 125, 129, or 135 of this chapter, regardless of the national registry of the airplane, shall comply with paragraph (b) or (d) of this section at each interim compliance date with regard to its subsonic airplane fleet covered by §91.801(c) of this subpart.
+Except as provided in paragraph (a) of this section, each operator that operates an airplane under part 91, 121, 125, 129, or 135 of this chapter, regardless of the national registry of the airplane, shall comply with paragraph (b) or (d) of this section at each interim compliance date with regard to its subsonic airplane fleet covered by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](c) of this subpart.
 
-\(a\) This section does not apply to new entrants covered by §91.867 or to foreign operators not engaged in foreign air commerce.
+\(a\) This section does not apply to new entrants covered by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] or to foreign operators not engaged in foreign air commerce.
 
 \(b\) Each operator that chooses to comply with this paragraph pursuant to any interim compliance requirement shall reduce the number of Stage 2 airplanes it operates that are eligible for operation in the contiguous United States to a maximum of:
 
@@ -4084,7 +4084,7 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 \(3\) After December 31, 1998, 25 percent of the base level held by the operator.
 
-\(c\) Except as provided under §91.871, the number of Stage 2 airplanes that must be reduced at each compliance date contained in paragraph (b) of this section shall be determined by reference to the amount of base level held by the operator on that compliance date, as calculated under §91.861.
+\(c\) Except as provided under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.871   Waivers from interim compliance requirements.|§91.871]], the number of Stage 2 airplanes that must be reduced at each compliance date contained in paragraph (b) of this section shall be determined by reference to the amount of base level held by the operator on that compliance date, as calculated under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]].
 
 \(d\) Each operator that chooses to comply with this paragraph pursuant to any interim compliance requirement shall operate a fleet that consists of:
 
@@ -4102,7 +4102,7 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 \(a\) New entrant U.S. air carriers.
 
-\(1\) A new entrant initiating operations under part 121 of this chapter on or before December 31, 1994, may initiate service without regard to the percentage of its fleet composed of Stage 3 airplanes.
+\(1\) A new entrant initiating operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] on or before December 31, 1994, may initiate service without regard to the percentage of its fleet composed of Stage 3 airplanes.
 
 \(2\) After December 31, 1994, at least 25 percent of the fleet of a new entrant must comply with Stage 3 noise levels.
 
@@ -4126,23 +4126,23 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 ### §91.869   Carry-forward compliance.
 
-\(a\) Any operator that exceeds the requirements of paragraph (b) of §91.865 of this part on or before December 31, 1994, or on or before December 31, 1996, may claim a credit that may be applied at a subsequent interim compliance date.
+\(a\) Any operator that exceeds the requirements of paragraph (b) of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] of this part on or before December 31, 1994, or on or before December 31, 1996, may claim a credit that may be applied at a subsequent interim compliance date.
 
-\(b\) Any operator that eliminates or modifies more Stage 2 airplanes pursuant to §91.865(b) than required as of December 31, 1994, or December 31, 1996, may count the number of additional Stage 2 airplanes reduced as a credit toward—
+\(b\) Any operator that eliminates or modifies more Stage 2 airplanes pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]](b) than required as of December 31, 1994, or December 31, 1996, may count the number of additional Stage 2 airplanes reduced as a credit toward—
 
-\(1\) The number of Stage 2 airplanes it would otherwise be required to reduce following a subsequent interim compliance date specified in §91.865(b); or
+\(1\) The number of Stage 2 airplanes it would otherwise be required to reduce following a subsequent interim compliance date specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]](b); or
 
-\(2\) The number of Stage 3 airplanes it would otherwise be required to operate in its fleet following a subsequent interim compliance date to meet the percentage requirements specified in §91.865(d).
+\(2\) The number of Stage 3 airplanes it would otherwise be required to operate in its fleet following a subsequent interim compliance date to meet the percentage requirements specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]](d).
 
 \[Doc. No. 26433, 56 FR 48659, Sept. 25, 1991; 56 FR 65783, Dec. 18, 1991\]
 
 ### §91.871   Waivers from interim compliance requirements.
 
-\(a\) Any U.S. operator or foreign air carrier subject to the requirements of §91.865 or 91.867 of this subpart may request a waiver from any individual compliance requirement.
+\(a\) Any U.S. operator or foreign air carrier subject to the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or 91.867 of this subpart may request a waiver from any individual compliance requirement.
 
 \(b\) Applications must be filed with the Secretary of Transportation at least 120 days prior to the compliance date from which the waiver is requested.
 
-\(c\) Applicants must show that a grant of waiver would be in the public interest, and must include in its application its plans and activities for modifying its fleet, including evidence of good faith efforts to comply with the requirements of §91.865 or §91.867. The application should contain all information the applicant considers relevant, including, as appropriate, the following:
+\(c\) Applicants must show that a grant of waiver would be in the public interest, and must include in its application its plans and activities for modifying its fleet, including evidence of good faith efforts to comply with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]]. The application should contain all information the applicant considers relevant, including, as appropriate, the following:
 
 \(1\) The applicant's balance sheet and cash flow positions;
 
@@ -4150,7 +4150,7 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 \(3\) The applicant's delivery position with respect to new airplanes or noise-abatement equipment.
 
-\(d\) Waivers will be granted only upon a showing by the applicant that compliance with the requirements of §91.865 or 91.867 at a particular interim compliance date is financially onerous, physically impossible, or technologically infeasible, or that it would have an adverse effect on competition or on service to small communities.
+\(d\) Waivers will be granted only upon a showing by the applicant that compliance with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or 91.867 at a particular interim compliance date is financially onerous, physically impossible, or technologically infeasible, or that it would have an adverse effect on competition or on service to small communities.
 
 \(e\) The conditions of any waiver granted under this section shall be determined by the circumstances presented in the application, but in no case may the term extend beyond the next interim compliance date.
 
@@ -4160,7 +4160,7 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 ### §91.873   Waivers from final compliance.
 
-\(a\) A U.S. air carrier or a foreign air carrier may apply for a waiver from the prohibition contained in §91.853 of this part for its remaining Stage 2 airplanes, provided that, by July 1, 1999, at least 85 percent of the airplanes used by the carrier to provide service to or from an airport in the contiguous United States will comply with the Stage 3 noise levels.
+\(a\) A U.S. air carrier or a foreign air carrier may apply for a waiver from the prohibition contained in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.853   Final compliance: Civil subsonic airplanes.|§91.853]] of this part for its remaining Stage 2 airplanes, provided that, by July 1, 1999, at least 85 percent of the airplanes used by the carrier to provide service to or from an airport in the contiguous United States will comply with the Stage 3 noise levels.
 
 \(b\) An application for the waiver described in paragraph (a) of this section must be filed with the Secretary of Transportation no later than January 1, 1999, or, in the case of a foreign air carrier, no later than April 20, 2000. Such application must include a plan with firm orders for replacing or modifying all airplanes to comply with Stage 3 noise levels at the earliest practicable time.
 
@@ -4176,13 +4176,13 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 ### §91.875   Annual progress reports.
 
-\(a\) Each operator subject to §91.865 or §91.867 of this chapter shall submit an annual report to the FAA, Office of Environment and Energy, on the progress it has made toward complying with the requirements of that section. Such reports shall be submitted no later than 45 days after the end of a calendar year. All progress reports must provide the information through the end of the calendar year, be certified by the operator as true and complete (under penalty of 18 U.S.C. 1001), and include the following information:
+\(a\) Each operator subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] of this chapter shall submit an annual report to the FAA, Office of Environment and Energy, on the progress it has made toward complying with the requirements of that section. Such reports shall be submitted no later than 45 days after the end of a calendar year. All progress reports must provide the information through the end of the calendar year, be certified by the operator as true and complete (under penalty of 18 U.S.C. 1001), and include the following information:
 
 \(1\) The name and address of the operator;
 
 \(2\) The name, title, and telephone number of the person designated by the operator to be responsible for ensuring the accuracy of the information in the report;
 
-\(3\) The operator's progress during the reporting period toward compliance with the requirements of §91.853, §91.865 or §91.867. For airplanes on U.S. operations specifications, each operator shall identify the airplanes by type, model, series, and serial number.
+\(3\) The operator's progress during the reporting period toward compliance with the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.853   Final compliance: Civil subsonic airplanes.|§91.853]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]]. For airplanes on U.S. operations specifications, each operator shall identify the airplanes by type, model, series, and serial number.
 
 \(i\) Each Stage 2 airplane added or removed from operation or U.S. operations specifications (grouped separately by those airplanes acquired with and without base level);
 
@@ -4192,31 +4192,31 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 \(iv\) For each Stage 2 airplane transferred or acquired, the name and address of the recipient or transferor; and, if base level was transferred, the person to or from whom base level was transferred or acquired pursuant to Section 91.863 along with the effective date of each base level transaction, and the type of base level transferred or acquired.
 
-\(b\) Each operator subject to §91.865 or §91.867 of this chapter shall submit an initial progress report covering the period from January 1, 1990, through December 31, 1991, and provide:
+\(b\) Each operator subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] of this chapter shall submit an initial progress report covering the period from January 1, 1990, through December 31, 1991, and provide:
 
-\(1\) For each operator subject to §91.865:
+\(1\) For each operator subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]]:
 
-\(i\) The date used to establish its base level pursuant to §91.861(a); and
+\(i\) The date used to establish its base level pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]](a); and
 
-\(ii\) A list of those Stage 2 airplanes (by type, model, series and serial number) in its base level, including adjustments made pursuant to §91.861 after the date its base level was established.
+\(ii\) A list of those Stage 2 airplanes (by type, model, series and serial number) in its base level, including adjustments made pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]] after the date its base level was established.
 
 \(2\) For each U.S. operator:
 
-\(i\) A plan to meet the compliance schedules in §91.865 or §91.867 and the final compliance date of §91.853, including the schedule for delivery of replacement Stage 3 airplanes or the installation of noise abatement retrofit equipment; and
+\(i\) A plan to meet the compliance schedules in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] and the final compliance date of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.853   Final compliance: Civil subsonic airplanes.|§91.853]], including the schedule for delivery of replacement Stage 3 airplanes or the installation of noise abatement retrofit equipment; and
 
-\(ii\) A separate list (by type, model, series, and serial number) of those airplanes included in the operator's base level, pursuant to §91.861(a)(1) (i) and (ii), under the categories “returned” or “purchased,” along with the date each was added to its operations specifications.
+\(ii\) A separate list (by type, model, series, and serial number) of those airplanes included in the operator's base level, pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.861   Base level.|§91.861]](a)(1) (i) and (ii), under the categories “returned” or “purchased,” along with the date each was added to its operations specifications.
 
-\(c\) Each operator subject to §91.865 or §91.867 of this chapter shall submit subsequent annual progress reports covering the calendar year preceding the report and including any changes in the information provided in paragraphs (a) and (b) of this section; including the use of any carry-forward credits pursuant to §91.869.
+\(c\) Each operator subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] of this chapter shall submit subsequent annual progress reports covering the calendar year preceding the report and including any changes in the information provided in paragraphs (a) and (b) of this section; including the use of any carry-forward credits pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.869   Carry-forward compliance.|§91.869]].
 
 \(d\) An operator may request, in any report, that specific planning data be considered proprietary.
 
-\(e\) If an operator's actions during any reporting period cause it to achieve compliance with §91.853, the report should include a statement to that effect. Further progress reports are not required unless there is any change in the information reported pursuant to paragraph (a) of this section.
+\(e\) If an operator's actions during any reporting period cause it to achieve compliance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.853   Final compliance: Civil subsonic airplanes.|§91.853]], the report should include a statement to that effect. Further progress reports are not required unless there is any change in the information reported pursuant to paragraph (a) of this section.
 
-\(f\) For each U.S. operator subject to §91.865, progress reports submitted for calendar years 1994, 1996, and 1998, shall also state how the operator achieved compliance with the requirements of that section, i.e.—
+\(f\) For each U.S. operator subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]], progress reports submitted for calendar years 1994, 1996, and 1998, shall also state how the operator achieved compliance with the requirements of that section, i.e.—
 
-\(1\) By reducing the number of Stage 2 airplanes in its fleet to no more than the maximum permitted percentage of its base level under §91.865(b), or
+\(1\) By reducing the number of Stage 2 airplanes in its fleet to no more than the maximum permitted percentage of its base level under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]](b), or
 
-\(2\) By operating a fleet that consists of at least the minimum required percentage of Stage 3 airplanes under §91.865(d).
+\(2\) By operating a fleet that consists of at least the minimum required percentage of Stage 3 airplanes under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]](d).
 
 (Approved by the Office of Management and Budget under control number 2120-0553)
 
@@ -4224,9 +4224,9 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 ### §91.877   Annual reporting of Hawaiian operations.
 
-\(a\) Each air carrier or foreign air carrier subject to §91.865 or §91.867 of this part that conducts operations between the contiguous United States and the State of Hawaii, between the State of Hawaii and any point outside of the contiguous United States, or between the islands of Hawaii in turnaround service, on or since November 5, 1990, shall include in its annual report the information described in paragraph (c) of this section.
+\(a\) Each air carrier or foreign air carrier subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] of this part that conducts operations between the contiguous United States and the State of Hawaii, between the State of Hawaii and any point outside of the contiguous United States, or between the islands of Hawaii in turnaround service, on or since November 5, 1990, shall include in its annual report the information described in paragraph (c) of this section.
 
-\(b\) Each air carrier or foreign air carrier not subject to §91.865 or §91.867 of this part that conducts operations between the contiguous U.S. and the State of Hawaii, between the State of Hawaii and any point outside of the contiguous United States, or between the islands of Hawaii in turnaround service, on or since November 5, 1990, shall submit an annual report to the FAA, Office of Environment and Energy, on its compliance with the Hawaiian operations provisions of 49 U.S.C. 47528. Such reports shall be submitted no later than 45 days after the end of a calendar year. All progress reports must provide the information through the end of the calendar year, be certified by the operator as true and complete (under penalty of 18 U.S.C. 1001), and include the following information—
+\(b\) Each air carrier or foreign air carrier not subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.865   Phased compliance for operators with base level.|§91.865]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.867   Phased compliance for new entrants.|§91.867]] of this part that conducts operations between the contiguous U.S. and the State of Hawaii, between the State of Hawaii and any point outside of the contiguous United States, or between the islands of Hawaii in turnaround service, on or since November 5, 1990, shall submit an annual report to the FAA, Office of Environment and Energy, on its compliance with the Hawaiian operations provisions of 49 U.S.C. 47528. Such reports shall be submitted no later than 45 days after the end of a calendar year. All progress reports must provide the information through the end of the calendar year, be certified by the operator as true and complete (under penalty of 18 U.S.C. 1001), and include the following information—
 
 \(1\) The name and address of the air carrier or foreign air carrier;
 
@@ -4264,7 +4264,7 @@ Except as provided in paragraph (a) of this section, each operator that operates
 
 ### §91.881   Final compliance: Civil subsonic jet airplanes weighing 75,000 pounds or less.
 
-Except as provided in §91.883, after December 31, 2015, a person may not operate to or from an airport in the contiguous United States a civil subsonic jet airplane subject to §91.801(e) of this subpart that weighs less than 75,000 pounds unless that airplane has been shown to comply with Stage 3, Stage 4, or Stage 5 noise levels.
+Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.883   Special flight authorizations for jet airplanes weighing 75,000 pounds or less.|§91.883]], after December 31, 2015, a person may not operate to or from an airport in the contiguous United States a civil subsonic jet airplane subject to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.801   Applicability: Relation to part 36.|§91.801]](e) of this subpart that weighs less than 75,000 pounds unless that airplane has been shown to comply with Stage 3, Stage 4, or Stage 5 noise levels.
 
 \[Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017\]
 
@@ -4394,7 +4394,7 @@ Except as provided in §91.883, after December 31, 2015, a person may not operat
 
 ### §91.1002   Compliance date.
 
-No person that conducted flights before November 17, 2003 under a program that meets the definition of fractional ownership program in §91.1001 may conduct such flights after February 17, 2005 unless it has obtained management specifications under this subpart.
+No person that conducted flights before November 17, 2003 under a program that meets the definition of fractional ownership program in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1001   Applicability.|§91.1001]] may conduct such flights after February 17, 2005 unless it has obtained management specifications under this subpart.
 
 \[Doc. No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003; 69 FR 74413, Dec. 14, 2004\]
 
@@ -4412,19 +4412,19 @@ Each owner must have a contract with the program manager that—
 
 ### §91.1005   Prohibitions and limitations.
 
-\(a\) Except as provided in §91.321 or §91.501, no owner may carry persons or property for compensation or hire on a program flight.
+\(a\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.321   Carriage of candidates in elections.|§91.321]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.501   Applicability.|§91.501]], no owner may carry persons or property for compensation or hire on a program flight.
 
 \(b\) During the term of the multi-year program agreements under which a fractional owner has obtained a minimum fractional ownership interest in a program aircraft, the flight hours used during that term by the owner on program aircraft must not exceed the total hours associated with the fractional owner's share of ownership.
 
-\(c\) No person may sell or lease an aircraft interest in a fractional ownership program that is smaller than that prescribed in the definition of “minimum fractional ownership interest” in §91.1001(b)(10) unless flights associated with that interest are operated under part 121 or 135 of this chapter and are conducted by an air carrier or commercial operator certificated under part 119 of this chapter.
+\(c\) No person may sell or lease an aircraft interest in a fractional ownership program that is smaller than that prescribed in the definition of “minimum fractional ownership interest” in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1001   Applicability.|§91.1001]](b)(10) unless flights associated with that interest are operated under part 121 or 135 of this chapter and are conducted by an air carrier or commercial operator certificated under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]].
 
-### §91.1007   Flights conducted under part 121 or part 135 of this chapter.
+### §91.1007   Flights conducted under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
-\(a\) Except as provided in §91.501(b), when a nonprogram aircraft is used to substitute for a program flight, the flight must be operated in compliance with part 121 or part 135 of this chapter, as applicable.
+\(a\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.501   Applicability.|§91.501]](b), when a nonprogram aircraft is used to substitute for a program flight, the flight must be operated in compliance with part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], as applicable.
 
-\(b\) A program manager who holds a certificate under part 119 of this chapter may conduct a flight for the use of a fractional owner under part 121 or part 135 of this chapter if the aircraft is listed on that certificate holder's operations specifications for part 121 or part 135, as applicable.
+\(b\) A program manager who holds a certificate under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]] may conduct a flight for the use of a fractional owner under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] if the aircraft is listed on that certificate holder's operations specifications for part 121 or part 135, as applicable.
 
-\(c\) The fractional owner must be informed when a flight is being conducted as a program flight or is being conducted under part 121 or part 135 of this chapter.
+\(c\) The fractional owner must be informed when a flight is being conducted as a program flight or is being conducted under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
 ### Operational Control
 
@@ -4432,7 +4432,7 @@ Each owner must have a contract with the program manager that—
 
 \(a\) An owner is in operational control of a program flight when the owner—
 
-\(1\) Has the rights and is subject to the limitations set forth in §§91.1003 through 91.1013;
+\(1\) Has the rights and is subject to the limitations set forth in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1003   Management contract between owner and program manager.|§91.1003]] through 91.1013;
 
 \(2\) Has directed that a program aircraft carry passengers or property designated by that owner; and
 
@@ -4478,7 +4478,7 @@ Each owner must have a contract with the program manager that—
 
 \(1\) Meets the applicable requirements of this subpart; and
 
-\(2\) Is properly and adequately equipped in accordance with the requirements of this chapter and is able to conduct safe operations under appropriate provisions of part 91 of this chapter and management specifications issued under this subpart.
+\(2\) Is properly and adequately equipped in accordance with the requirements of this chapter and is able to conduct safe operations under appropriate provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] and management specifications issued under this subpart.
 
 \(c\) An application for management specifications will be denied if the Administrator finds that the applicant is not properly or adequately equipped or is not able to conduct safe operations under this part.
 
@@ -4492,7 +4492,7 @@ Each owner must have a contract with the program manager that—
 
 \(3\) Certain other procedures under which each class and size of aircraft is to be operated;
 
-\(4\) Authorization for an inspection program approved under §91.1109, including the type of aircraft, the registration markings and serial numbers of each aircraft to be operated under the program. No person may conduct any program flight using any aircraft not listed.
+\(4\) Authorization for an inspection program approved under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1109   Aircraft maintenance: Inspection program.|§91.1109]], including the type of aircraft, the registration markings and serial numbers of each aircraft to be operated under the program. No person may conduct any program flight using any aircraft not listed.
 
 \(5\) Time limitations, or standards for determining time limitations, for overhauls, inspections, and checks for airframes, engines, propellers, rotors, appliances, and emergency equipment of aircraft.
 
@@ -4510,7 +4510,7 @@ Each owner must have a contract with the program manager that—
 
 \(c\) Management specifications issued under this subpart are effective unless—
 
-\(1\) The management specifications are amended as provided in §91.1017; or
+\(1\) The management specifications are amended as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1017   Amending program manager's management specifications.|§91.1017]]; or
 
 \(2\) The Administrator suspends or revokes the management specifications.
 
@@ -4664,11 +4664,11 @@ Each program operating manual must have the date of the last revision on each re
 
 \(g\) Procedures to be followed by the pilot in command to obtain maintenance, preventive maintenance, and servicing of the aircraft at a place where previous arrangements have not been made by the program manager or owner, when the pilot is authorized to so act for the operator;
 
-\(h\) Procedures under §91.213 for the release of, and continuation of flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route;
+\(h\) Procedures under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.213   Inoperative instruments and equipment.|§91.213]] for the release of, and continuation of flight if any item of equipment required for the particular type of operation becomes inoperative or unserviceable en route;
 
 \(i\) Procedures for refueling aircraft, eliminating fuel contamination, protecting from fire (including electrostatic protection), and supervising and protecting passengers during refueling;
 
-\(j\) Procedures to be followed by the pilot in command in the briefing under §91.1035.
+\(j\) Procedures to be followed by the pilot in command in the briefing under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1035   Passenger awareness.|§91.1035]].
 
 \(k\) Procedures for ensuring compliance with emergency procedures, including a list of the functions assigned each category of required crewmembers in connection with an emergency and emergency evacuation duties;
 
@@ -4678,7 +4678,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(n\) Procedures for performance planning that take into account take off, landing and en route conditions;
 
-\(o\) An approved Destination Airport Analysis, when required by §91.1037(c), that includes the following elements, supported by aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
+\(o\) An approved Destination Airport Analysis, when required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1037   Large transport category airplanes: Turbine engine powered; Limitations; Destination and alternate airports.|§91.1037]](c), that includes the following elements, supported by aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
 
 \(1\) Pilot qualifications and experience;
 
@@ -4698,7 +4698,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(9\) Other criteria that affect aircraft performance.
 
-\(p\) A suitable system (which may include a coded or electronic system) that provides for preservation and retrieval of maintenance recordkeeping information required by §91.1113 in a manner acceptable to the Administrator that provides—
+\(p\) A suitable system (which may include a coded or electronic system) that provides for preservation and retrieval of maintenance recordkeeping information required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1113   Maintenance recordkeeping.|§91.1113]] in a manner acceptable to the Administrator that provides—
 
 \(1\) A description (or reference to date acceptable to the Administrator) of the work performed:
 
@@ -4744,7 +4744,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(i\) The full name of the flight attendant, and
 
-\(ii\) The date and result of training required by §91.1063, as applicable.
+\(ii\) The date and result of training required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1063   Testing and training: Applicability and terms used.|§91.1063]], as applicable.
 
 \(5\) A current list of all fractional owners and associated aircraft. This list or a reference to its location must be included in the management specifications and should be of sufficient detail to determine the minimum fractional ownership interest of each aircraft.
 
@@ -4774,7 +4774,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(f\) Records may be kept either in paper or other form acceptable to the Administrator.
 
-\(g\) Program managers that are also certificated to operate under part 121 or 135 of this chapter may satisfy the recordkeeping requirements of this section and of §91.1113 with records maintained to fulfill equivalent obligations under part 121 or 135 of this chapter.
+\(g\) Program managers that are also certificated to operate under part 121 or 135 of this chapter may satisfy the recordkeeping requirements of this section and of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1113   Maintenance recordkeeping.|§91.1113]] with records maintained to fulfill equivalent obligations under part 121 or 135 of this chapter.
 
 \[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2016-9154, Amdt. 91-348, 82 FR 39664, Aug. 22, 2017\]
 
@@ -4854,7 +4854,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(5\) Location of survival equipment;
 
-\(6\) Ditching procedures and the use of flotation equipment required under §91.509 for a flight over water;
+\(6\) Ditching procedures and the use of flotation equipment required under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.509   Survival equipment for overwater operations.|§91.509]] for a flight over water;
 
 \(7\) The normal and emergency use of oxygen installed in the aircraft; and
 
@@ -4888,7 +4888,7 @@ Each program operating manual must have the date of the last revision on each re
 
 \(c\) A program manager or other person flying a turbine engine powered large transport category airplane on a program flight may permit that airplane to take off at a weight in excess of that allowed by paragraph (b) of this section if all of the following conditions exist:
 
-\(1\) The operation is conducted in accordance with an approved Destination Airport Analysis in that person's program operating manual that contains the elements listed in §91.1025(o).
+\(1\) The operation is conducted in accordance with an approved Destination Airport Analysis in that person's program operating manual that contains the elements listed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1025   Program operating manual contents.|§91.1025]](o).
 
 \(2\) The airplane's weight on arrival, allowing for normal consumption of fuel and oil in flight (in accordance with the landing distance in the Airplane Flight Manual for the elevation of the destination airport and the wind conditions expected there at the time of landing), would allow a full stop landing at the intended destination airport within 80 percent of the effective length of each runway described below from a point 50 feet above the intersection of the obstruction clearance plane and the runway. For the purpose of determining the allowable landing weight at the destination airport, the following is assumed:
 
@@ -4912,11 +4912,11 @@ Each program operating manual must have the date of the last revision on each re
 
 \(b\) For flight planning purposes, if the destination airport does not have a weather reporting facility described in paragraph (a)(1) of this section, the pilot must designate as an alternate an airport that has a weather reporting facility meeting that criteria.
 
-\(c\) The MDA or Decision Altitude and visibility landing minimums prescribed in part 97 of this chapter or in the program manager's management specifications are increased by 100 feet and 1⁄2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered aircraft who has not served at least 100 hours as pilot in command in that type of aircraft.
+\(c\) The MDA or Decision Altitude and visibility landing minimums prescribed in [[Volume 2/F Air traffic and general operating rules/0097 Standard instrument procedures.md|part 97 of this chapter]] or in the program manager's management specifications are increased by 100 feet and 1⁄2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered aircraft who has not served at least 100 hours as pilot in command in that type of aircraft.
 
 \(d\) No person may take off an aircraft under IFR from an airport where weather conditions are at or above takeoff minimums but are below authorized IFR landing minimums unless there is an alternate airport within one hour's flying time (at normal cruising speed, in still air) of the airport of departure.
 
-\(e\) Except as provided in §91.176 of this chapter, each pilot making an IFR takeoff or approach and landing at an airport must comply with applicable instrument approach procedures and takeoff and landing weather minimums prescribed by the authority having jurisdiction over the airport. In addition, no pilot may take off at that airport when the visibility is less than 600 feet, unless otherwise authorized in the program manager's management specifications for EFVS operations.
+\(e\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.176   Straight-in landing operations below DA/DH or MDA using an enhanced flight vision system (EFVS) under IFR.|§91.176]] of this chapter, each pilot making an IFR takeoff or approach and landing at an airport must comply with applicable instrument approach procedures and takeoff and landing weather minimums prescribed by the authority having jurisdiction over the airport. In addition, no pilot may take off at that airport when the visibility is less than 600 feet, unless otherwise authorized in the program manager's management specifications for EFVS operations.
 
 \[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90175, Dec. 13, 2016\]
 
@@ -4964,31 +4964,31 @@ No person may operate a program aircraft on a program flight unless the aircraft
 
 \(a\) Airplanes having a passenger-seat configuration of more than 30 seats or a payload capacity of more than 7,500 pounds:
 
-\(1\) A cockpit voice recorder as required by §121.359 of this chapter as applicable to the aircraft specified in that section.
+\(1\) A cockpit voice recorder as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.359   Cockpit voice recorders.|§121.359]] of this chapter as applicable to the aircraft specified in that section.
 
-\(2\) A flight recorder as required by §121.343 or §121.344 of this chapter as applicable to the aircraft specified in that section.
+\(2\) A flight recorder as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.343   Flight data recorders.|§121.343]] or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.344   Digital flight data recorders for transport category airplanes.|§121.344]] of this chapter as applicable to the aircraft specified in that section.
 
-\(3\) A terrain awareness and warning system as required by §121.354 of this chapter as applicable to the aircraft specified in that section.
+\(3\) A terrain awareness and warning system as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.354   Terrain awareness and warning system.|§121.354]] of this chapter as applicable to the aircraft specified in that section.
 
-\(4\) A traffic alert and collision avoidance system as required by §121.356 of this chapter as applicable to the aircraft specified in that section.
+\(4\) A traffic alert and collision avoidance system as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.356   Collision avoidance system.|§121.356]] of this chapter as applicable to the aircraft specified in that section.
 
-\(5\) Airborne weather radar as required by §121.357 of this chapter, as applicable to the aircraft specified in that section.
+\(5\) Airborne weather radar as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.357   Airborne weather radar equipment requirements.|§121.357]] of this chapter, as applicable to the aircraft specified in that section.
 
 \(b\) Airplanes having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember, and a payload capacity of 7,500 pounds or less, and any rotorcraft (as applicable):
 
-\(1\) A cockpit voice recorder as required by §135.151 of this chapter as applicable to the aircraft specified in that section.
+\(1\) A cockpit voice recorder as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.151   Cockpit voice recorders.|§135.151]] of this chapter as applicable to the aircraft specified in that section.
 
-\(2\) A flight recorder as required by §135.152 of this chapter as applicable to the aircraft specified in that section.
+\(2\) A flight recorder as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.152   Flight data recorders.|§135.152]] of this chapter as applicable to the aircraft specified in that section.
 
-\(3\) A terrain awareness and warning system as required by §135.154 of this chapter as applicable to the aircraft specified in that section.
+\(3\) A terrain awareness and warning system as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.154   Terrain awareness and warning system.|§135.154]] of this chapter as applicable to the aircraft specified in that section.
 
-\(4\) A traffic alert and collision avoidance system as required by §135.180 of this chapter as applicable to the aircraft specified in that section.
+\(4\) A traffic alert and collision avoidance system as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.180   Traffic Alert and Collision Avoidance System.|§135.180]] of this chapter as applicable to the aircraft specified in that section.
 
 \(5\) As applicable to the aircraft specified in that section, either:
 
-\(i\) Airborne thunderstorm detection equipment as required by §135.173 of this chapter; or
+\(i\) Airborne thunderstorm detection equipment as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.173   Airborne thunderstorm detection equipment requirements.|§135.173]] of this chapter; or
 
-\(ii\) Airborne weather radar as required by §135.175 of this chapter.
+\(ii\) Airborne weather radar as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.175   Airborne weather radar equipment requirements.|§135.175]] of this chapter.
 
 ### §91.1047   Drug and alcohol misuse education program.
 
@@ -5002,7 +5002,7 @@ No person may operate a program aircraft on a program flight unless the aircraft
 
 \(2\) The categories of employees tested, the types of tests, for example, pre-employment, random, reasonable cause/suspicion, post accident, return to duty and follow-up; and
 
-\(3\) The degree to which the program manager's company testing program is comparable to the federally mandated drug and alcohol testing program required under part 120 of this chapter regarding the information in paragraphs (c)(1) and (c)(2) of this section.
+\(3\) The degree to which the program manager's company testing program is comparable to the federally mandated drug and alcohol testing program required under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md|part 120 of this chapter]] regarding the information in paragraphs (c)(1) and (c)(2) of this section.
 
 \(d\) If a program aircraft is operated on a program flight into an airport at which no maintenance personnel are available that are subject to the requirements of paragraphs (a) or (b) of this section and emergency maintenance is required, the program manager may use persons not meeting the requirements of paragraphs (a) or (b) of this section to provide such emergency maintenance under both of the following conditions:
 
@@ -5022,13 +5022,13 @@ No person may operate a program aircraft on a program flight unless the aircraft
 
 ### §91.1049   Personnel.
 
-\(a\) Each program manager and each fractional owner must use in program operations on program aircraft flight crews meeting §91.1053 criteria and qualified under the appropriate regulations. The program manager must provide oversight of those crews.
+\(a\) Each program manager and each fractional owner must use in program operations on program aircraft flight crews meeting [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1053   Crewmember experience.|§91.1053]] criteria and qualified under the appropriate regulations. The program manager must provide oversight of those crews.
 
 \(b\) Each program manager must employ (either directly or by contract) an adequate number of pilots per program aircraft. Flight crew staffing must be determined based on the following factors, at a minimum:
 
 \(1\) Number of program aircraft.
 
-\(2\) Program manager flight, duty, and rest time considerations, and in all cases within the limits set forth in §§91.1057 through 91.1061.
+\(2\) Program manager flight, duty, and rest time considerations, and in all cases within the limits set forth in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1057   Flight, duty and rest time requirements: All crewmembers.|§91.1057]] through 91.1061.
 
 \(3\) Vacations.
 
@@ -5038,7 +5038,7 @@ No person may operate a program aircraft on a program flight unless the aircraft
 
 \(6\) Single pilot operations, if authorized by deviation under paragraph (d) of this section.
 
-\(c\) Each program manager must publish pilot and flight attendant duty schedules sufficiently in advance to follow the flight, duty, and rest time limits in §§91.1057 through 91.1061 in program operations.
+\(c\) Each program manager must publish pilot and flight attendant duty schedules sufficiently in advance to follow the flight, duty, and rest time limits in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1057   Flight, duty and rest time requirements: All crewmembers.|§91.1057]] through 91.1061 in program operations.
 
 \(d\) Unless otherwise authorized by the Administrator, when any program aircraft is flown in program operations with passengers onboard, the crew must consist of at least two qualified pilots employed or contracted by the program manager or the fractional owner.
 
@@ -5082,7 +5082,7 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 ### §91.1053   Crewmember experience.
 
-\(a\) No program manager or owner may use any person, nor may any person serve, as a pilot in command or second in command of a program aircraft, or as a flight attendant on a program aircraft, in program operations under this subpart unless that person has met the applicable requirements of part 61 of this chapter and has the following experience and ratings:
+\(a\) No program manager or owner may use any person, nor may any person serve, as a pilot in command or second in command of a program aircraft, or as a flight attendant on a program aircraft, in program operations under this subpart unless that person has met the applicable requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and has the following experience and ratings:
 
 \(1\) Total flight time for all pilots:
 
@@ -5106,7 +5106,7 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(iii\) Flight attendant (if required or used)—Appropriately trained personnel.
 
-\(b\) The Administrator may authorize deviations from paragraph (a)(1) of this section if the Flight Standards office that issued the program manager's management specifications finds that the crewmember has comparable experience, and can effectively perform the functions associated with the position in accordance with the requirements of this chapter. Grants of deviation under this paragraph may be granted after consideration of the size and scope of the operation, the qualifications of the intended personnel and the circumstances set forth in §91.1055(b)(1) through (3). The Administrator may, at any time, terminate any grant of deviation authority issued under this paragraph.
+\(b\) The Administrator may authorize deviations from paragraph (a)(1) of this section if the Flight Standards office that issued the program manager's management specifications finds that the crewmember has comparable experience, and can effectively perform the functions associated with the position in accordance with the requirements of this chapter. Grants of deviation under this paragraph may be granted after consideration of the size and scope of the operation, the qualifications of the intended personnel and the circumstances set forth in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1055   Pilot operating limitations and pairing requirement.|§91.1055]](b)(1) through (3). The Administrator may, at any time, terminate any grant of deviation authority issued under this paragraph.
 
 \[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018\]
 
@@ -5114,7 +5114,7 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(a\) If the second in command of a fixed-wing program aircraft has fewer than 100 hours of flight time as second in command flying in the aircraft make and model and, if a type rating is required, in the type aircraft being flown, and the pilot in command is not an appropriately qualified check pilot, the pilot in command shall make all takeoffs and landings in any of the following situations:
 
-\(1\) Landings at the destination airport when a Destination Airport Analysis is required by §91.1037(c); and
+\(1\) Landings at the destination airport when a Destination Airport Analysis is required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1037   Large transport category airplanes: Turbine engine powered; Limitations; Destination and alternate airports.|§91.1037]](c); and
 
 \(2\) In any of the following conditions:
 
@@ -5164,13 +5164,13 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 *Standby* means that portion of a duty period during which a flight crewmember is subject to the control of the program manager and holds himself or herself in a condition of readiness to undertake a flight. Standby is not part of any rest period.
 
-\(b\) A program manager may assign a crewmember and a crewmember may accept an assignment for flight time only when the applicable requirements of this section and §§91.1059-91.1062 are met.
+\(b\) A program manager may assign a crewmember and a crewmember may accept an assignment for flight time only when the applicable requirements of this section and §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1059   Flight time limitations and rest requirements: One or two pilot crews.|§91.1059]]-91.1062 are met.
 
 \(c\) No program manager may assign any crewmember to any duty during any required rest period.
 
 \(d\) Time spent in transportation, not local in character, that a program manager requires of a crewmember and provides to transport the crewmember to an airport at which he or she is to serve on a flight as a crewmember, or from an airport at which he or she was relieved from duty to return to his or her home station, is not considered part of a rest period.
 
-\(e\) A flight crewmember may continue a flight assignment if the flight to which he or she is assigned would normally terminate within the flight time limitations, but because of circumstances beyond the control of the program manager or flight crewmember (such as adverse weather conditions), is not at the time of departure expected to reach its destination within the planned flight time. The extension of flight time under this paragraph may not exceed the maximum time limits set forth in §91.1059.
+\(e\) A flight crewmember may continue a flight assignment if the flight to which he or she is assigned would normally terminate within the flight time limitations, but because of circumstances beyond the control of the program manager or flight crewmember (such as adverse weather conditions), is not at the time of departure expected to reach its destination within the planned flight time. The extension of flight time under this paragraph may not exceed the maximum time limits set forth in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1059   Flight time limitations and rest requirements: One or two pilot crews.|§91.1059]].
 
 \(f\) Each flight assignment must provide for at least 10 consecutive hours of rest during the 24-hour period that precedes the completion time of the assignment.
 
@@ -5180,7 +5180,7 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(i\) Any rest period required by this subpart may occur concurrently with any other rest period.
 
-\(j\) If authorized by the Administrator, a program manager may use the applicable unscheduled flight time limitations, duty period limitations, and rest requirements of part 121 or part 135 of this chapter instead of the flight time limitations, duty period limitations, and rest requirements of this subpart.
+\(j\) If authorized by the Administrator, a program manager may use the applicable unscheduled flight time limitations, duty period limitations, and rest requirements of part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] instead of the flight time limitations, duty period limitations, and rest requirements of this subpart.
 
 ### §91.1059   Flight time limitations and rest requirements: One or two pilot crews.
 
@@ -5228,13 +5228,13 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(3\) For a three-pilot crew, the crew must consist of at least the following:
 
-\(i\) A pilot in command (PIC) who meets the applicable flight crewmember requirements of this subpart and §61.57 of this chapter.
+\(i\) A pilot in command (PIC) who meets the applicable flight crewmember requirements of this subpart and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter.
 
-\(ii\) A PIC qualified pilot who meets the applicable flight crewmember requirements of this subpart and §61.57(c) and (d) of this chapter.
+\(ii\) A PIC qualified pilot who meets the applicable flight crewmember requirements of this subpart and [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]](c) and (d) of this chapter.
 
-\(iii\) A second in command (SIC) who meets the SIC qualifications of this subpart. For flight under IFR, that person must also meet the recent instrument experience requirements of part 61 of this chapter.
+\(iii\) A second in command (SIC) who meets the SIC qualifications of this subpart. For flight under IFR, that person must also meet the recent instrument experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
-\(4\) For a four-pilot crew, at least three pilots who meet the conditions of paragraph (b)(3) of this section, plus a fourth pilot who meets the SIC qualifications of this subpart. For flight under IFR, that person must also meet the recent instrument experience requirements of part 61 of this chapter.
+\(4\) For a four-pilot crew, at least three pilots who meet the conditions of paragraph (b)(3) of this section, plus a fourth pilot who meets the SIC qualifications of this subpart. For flight under IFR, that person must also meet the recent instrument experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \(c\) No program manager may assign any flight crewmember, and no flight crewmember may accept an assignment, if that crewmember's flight time or duty period will exceed, or rest time will be less than—
 
@@ -5274,9 +5274,9 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(1\) Apply to all flight attendants used in the program manager's operation;
 
-\(2\) Include the flight crewmember rest and duty requirements of §§91.1057, 91.1059, and 91.1061, as appropriate to the operation being conducted, except that rest facilities on board the aircraft are not required;
+\(2\) Include the flight crewmember rest and duty requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1057   Flight, duty and rest time requirements: All crewmembers.|§91.1057]], 91.1059, and 91.1061, as appropriate to the operation being conducted, except that rest facilities on board the aircraft are not required;
 
-\(3\) Include provisions to add one flight attendant to the minimum flight attendant complement for each flight crewmember who is in excess of the minimum number required in the aircraft type certificate data sheet and who is assigned to the aircraft under the provisions of §91.1061; and
+\(3\) Include provisions to add one flight attendant to the minimum flight attendant complement for each flight crewmember who is in excess of the minimum number required in the aircraft type certificate data sheet and who is assigned to the aircraft under the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1061   Augmented flight crews.|§91.1061]]; and
 
 \(4\) Are approved by the Administrator and described or referenced in the program manager's management specifications.
 
@@ -5290,21 +5290,21 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(3\) Prescribe the requirements for the qualification, approval and use of aircraft simulators and flight training devices in the conduct of an approved training program; and
 
-\(4\) Permits training center personnel authorized under part 142 of this chapter who meet the requirements of §91.1075 to conduct training, testing and checking under contract or other arrangements to those persons subject to the requirements of this subpart.
+\(4\) Permits training center personnel authorized under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] who meet the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1075   Training program: Special rules.|§91.1075]] to conduct training, testing and checking under contract or other arrangements to those persons subject to the requirements of this subpart.
 
-\(b\) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of part 121, subparts N and O of this chapter instead of §§91.1065 through 91.1107, provided that the following additional limitations and allowances apply to program managers so authorized:
+\(b\) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of part 121, subparts N and O of this chapter instead of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]] through 91.1107, provided that the following additional limitations and allowances apply to program managers so authorized:
 
-\(1\) *Operating experience and operations familiarization.* Program managers are not required to comply with the operating experience requirements of §121.434 or the operations familiarization requirements of §121.435 of this chapter.
+\(1\) *Operating experience and operations familiarization.* Program managers are not required to comply with the operating experience requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.434   Operating experience, operating cycles, and consolidation of knowledge and skills.|§121.434]] or the operations familiarization requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.435   Pilots: Operations Familiarization.|§121.435]] of this chapter.
 
-\(2\) *Upgrade training.* (i) Each program manager must include in upgrade ground training for pilots, instruction in at least the subjects identified in §121.419(a) of this chapter, as applicable to their assigned duties; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, instruction and facilitated discussion in the subjects identified in §121.419(c) of this chapter.
+\(2\) *Upgrade training.* (i) Each program manager must include in upgrade ground training for pilots, instruction in at least the subjects identified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.419   Pilots and flight engineers: Initial, transition, conversion and upgrade ground training.|§121.419]](a) of this chapter, as applicable to their assigned duties; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, instruction and facilitated discussion in the subjects identified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.419   Pilots and flight engineers: Initial, transition, conversion and upgrade ground training.|§121.419]](c) of this chapter.
 
-\(ii\) Each program manager must include in upgrade flight training for pilots, flight training for the maneuvers and procedures required in §121.424(a), (c), (e), and (f) of this chapter; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, the flight training required in §121.424(b) of this chapter.
+\(ii\) Each program manager must include in upgrade flight training for pilots, flight training for the maneuvers and procedures required in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.424   Pilots: Initial, transition, conversion, and upgrade flight training.|§121.424]](a), (c), (e), and (f) of this chapter; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, the flight training required in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.424   Pilots: Initial, transition, conversion, and upgrade flight training.|§121.424]](b) of this chapter.
 
-\(3\) *Initial and recurrent leadership and command and mentoring training.* Program managers are not required to include leadership and command training in §§121.409(b)(2)(ii)(B)(*6*), 121.419(c)(1), 121.424(b) and 121.427(d)(1) of this chapter, and mentoring training in §§121.419(c)(2) and 121.427(d)(1) of this chapter in initial and recurrent training for pilots in command who serve in operations that use only one pilot.
+\(3\) *Initial and recurrent leadership and command and mentoring training.* Program managers are not required to include leadership and command training in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.409   Training courses using flight simulation training devices.|§121.409]](b)(2)(ii)(B)(*6*), 121.419(c)(1), 121.424(b) and 121.427(d)(1) of this chapter, and mentoring training in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.419   Pilots and flight engineers: Initial, transition, conversion and upgrade ground training.|§121.419]](c)(2) and 121.427(d)(1) of this chapter in initial and recurrent training for pilots in command who serve in operations that use only one pilot.
 
 \(4\) *One-time leadership and command and mentoring training.* Section 121.429 of this chapter does not apply to program managers conducting operations under this subpart when those operations use only one pilot.
 
-\(c\) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts G and H of part 135 of this chapter instead of §§91.1065 through 91.1107, except for the operating experience requirements of §135.244 of this chapter.
+\(c\) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts G and H of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] instead of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]] through 91.1107, except for the operating experience requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.244   Operating experience.|§135.244]] of this chapter.
 
 \(d\) For the purposes of this subpart, the following terms and definitions apply:
 
@@ -5320,17 +5320,17 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(6\) *In flight.* The maneuvers, procedures, or functions that will be conducted in the aircraft.
 
-\(7\) *Training center.* An organization governed by the applicable requirements of part 142 of this chapter that conducts training, testing, and checking under contract or other arrangement to program managers subject to the requirements of this subpart.
+\(7\) *Training center.* An organization governed by the applicable requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] that conducts training, testing, and checking under contract or other arrangement to program managers subject to the requirements of this subpart.
 
 \(8\) *Requalification training.* The training required for crewmembers previously trained and qualified, but who have become unqualified because of not having met within the required period any of the following:
 
-\(i\) Recurrent crewmember training requirements of §91.1107.
+\(i\) Recurrent crewmember training requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1107   Recurrent training.|§91.1107]].
 
-\(ii\) Instrument proficiency check requirements of §91.1069.
+\(ii\) Instrument proficiency check requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]].
 
-\(iii\) Testing requirements of §91.1065.
+\(iii\) Testing requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]].
 
-\(iv\) Recurrent flight attendant testing requirements of §91.1067.
+\(iv\) Recurrent flight attendant testing requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1067   Initial and recurrent flight attendant crewmember testing requirements.|§91.1067]].
 
 \[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Amdt. 61-144, 85 FR 10920, Feb. 25, 2020\]
 
@@ -5362,7 +5362,7 @@ Within 90 days of an individual beginning service as a pilot, the program manage
 
 \(b\) No program manager or owner may use a pilot, nor may any person serve as a pilot, in any aircraft unless, since the beginning of the 12th month before that service, that pilot has passed a competency check given by the Administrator or an authorized check pilot in that class of aircraft, if single-engine aircraft other than turbojet, or that type of aircraft, if rotorcraft, multiengine aircraft, or turbojet airplane, to determine the pilot's competence in practical skills and techniques in that aircraft or class of aircraft. The extent of the competency check will be determined by the Administrator or authorized check pilot conducting the competency check. The competency check may include any of the maneuvers and procedures currently required for the original issuance of the particular pilot certificate required for the operations authorized and appropriate to the category, class and type of aircraft involved. For the purposes of this paragraph, type, as to an airplane, means any one of a group of airplanes determined by the Administrator to have a similar means of propulsion, the same manufacturer, and no significantly different handling or flight characteristics. For the purposes of this paragraph, type, as to a rotorcraft, means a basic make and model.
 
-\(c\) The instrument proficiency check required by §91.1069 may be substituted for the competency check required by this section for the type of aircraft used in the check.
+\(c\) The instrument proficiency check required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1069   Flight crew: Instrument proficiency check requirements.|§91.1069]] may be substituted for the competency check required by this section for the type of aircraft used in the check.
 
 \(d\) For the purpose of this subpart, competent performance of a procedure or maneuver by a person to be used as a pilot requires that the pilot be the obvious master of the aircraft, with the successful outcome of the maneuver never in doubt.
 
@@ -5406,7 +5406,7 @@ No program manager or owner may use a flight attendant crewmember, nor may any p
 
 \(d\) The instrument proficiency checks required by paragraphs (a) and (b) of this section consists of either an oral or written equipment test (or a combination) and a flight check under simulated or actual IFR conditions. The equipment test includes questions on emergency procedures, engine operation, fuel and lubrication systems, power settings, stall speeds, best engine-out speed, propeller and supercharger operations, and hydraulic, mechanical, and electrical systems, as appropriate. The flight check includes navigation by instruments, recovery from simulated emergencies, and standard instrument approaches involving navigational facilities which that pilot is to be authorized to use.
 
-\(e\) Each pilot taking the instrument proficiency check must show that standard of competence required by §91.1065(d).
+\(e\) Each pilot taking the instrument proficiency check must show that standard of competence required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]](d).
 
 \(1\) The instrument proficiency check must—
 
@@ -5460,19 +5460,19 @@ Other than the program manager, only the following are eligible under this subpa
 
 \(a\) Another program manager operating under this subpart:
 
-\(b\) A training center certificated under part 142 of this chapter to conduct training, testing, and checking required by this subpart if the training center—
+\(b\) A training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] to conduct training, testing, and checking required by this subpart if the training center—
 
-\(1\) Holds applicable training specifications issued under part 142 of this chapter;
+\(1\) Holds applicable training specifications issued under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]];
 
-\(2\) Has facilities, training equipment, and courseware meeting the applicable requirements of part 142 of this chapter;
+\(2\) Has facilities, training equipment, and courseware meeting the applicable requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]];
 
 \(3\) Has approved curriculums, curriculum segments, and portions of curriculum segments applicable for use in training courses required by this subpart; and
 
-\(4\) Has sufficient instructors and check pilots qualified under the applicable requirements of §§91.1089 through 91.1095 to conduct training, testing, and checking to persons subject to the requirements of this subpart.
+\(4\) Has sufficient instructors and check pilots qualified under the applicable requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).|§91.1089]] through 91.1095 to conduct training, testing, and checking to persons subject to the requirements of this subpart.
 
-\(c\) A part 119 certificate holder operating under part 121 or part 135 of this chapter.
+\(c\) A part 119 certificate holder operating under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]].
 
-\(d\) As authorized by the Administrator, a training center that is not certificated under part 142 of this chapter.
+\(d\) As authorized by the Administrator, a training center that is not certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 ### §91.1077   Training program and revision: Initial and final approval.
 
@@ -5514,15 +5514,15 @@ Other than the program manager, only the following are eligible under this subpa
 
 \(iv\) Appropriate portions of the program manager's operating manual.
 
-\(2\) The initial and transition ground training in §§91.1101 and 91.1105, as applicable.
+\(2\) The initial and transition ground training in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1101   Pilots: Initial, transition, and upgrade ground training.|§91.1101]] and 91.1105, as applicable.
 
-\(3\) Emergency training in §91.1083.
+\(3\) Emergency training in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1083   Crewmember emergency training.|§91.1083]].
 
-\(b\) Each training program must provide the initial and transition flight training in §91.1103, as applicable.
+\(b\) Each training program must provide the initial and transition flight training in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1103   Pilots: Initial, transition, upgrade, requalification, and differences flight training.|§91.1103]], as applicable.
 
-\(c\) Each training program must provide recurrent ground and flight training as provided in §91.1107.
+\(c\) Each training program must provide recurrent ground and flight training as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1107   Recurrent training.|§91.1107]].
 
-\(d\) Upgrade training in §§91.1101 and 91.1103 for a particular type aircraft may be included in the training program for crewmembers who have qualified and served as second in command on that aircraft.
+\(d\) Upgrade training in §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1101   Pilots: Initial, transition, and upgrade ground training.|§91.1101]] and 91.1103 for a particular type aircraft may be included in the training program for crewmembers who have qualified and served as second in command on that aircraft.
 
 \(e\) In addition to initial, transition, upgrade and recurrent training, each training program must provide ground and flight training, instruction, and practice necessary to ensure that each crewmember—
 
@@ -5616,17 +5616,17 @@ No program manager may use any person to perform, and no person may perform, any
 
 \(c\) A particular aircraft simulator or other training device may be used by more than one program manager.
 
-\(d\) In granting initial and final approval of training programs or revisions to them, the Administrator considers the training devices, methods, and procedures listed in the program manager's curriculum under §91.1079.
+\(d\) In granting initial and final approval of training programs or revisions to them, the Administrator considers the training devices, methods, and procedures listed in the program manager's curriculum under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1079   Training program: Curriculum.|§91.1079]].
 
 ### §91.1089   Qualifications: Check pilots (aircraft) and check pilots (simulator).
 
-\(a\) For the purposes of this section and §91.1093:
+\(a\) For the purposes of this section and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]]:
 
 \(1\) A check pilot (aircraft) is a person who is qualified to conduct flight checks in an aircraft, in a flight simulator, or in a flight training device for a particular type aircraft.
 
 \(2\) A check pilot (simulator) is a person who is qualified to conduct flight checks, but only in a flight simulator, in a flight training device, or both, for a particular type aircraft.
 
-\(3\) Check pilots (aircraft) and check pilots (simulator) are those check pilots who perform the functions described in §91.1073(a)(4) and (c).
+\(3\) Check pilots (aircraft) and check pilots (simulator) are those check pilots who perform the functions described in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1073   Training program: General.|§91.1073]](a)(4) and (c).
 
 \(b\) No program manager may use a person, nor may any person serve as a check pilot (aircraft) in a training program established under this subpart unless, with respect to the aircraft type involved, that person—
 
@@ -5636,7 +5636,7 @@ No program manager may use any person to perform, and no person may perform, any
 
 \(3\) Has satisfactorily completed the proficiency or competency checks that are required to serve as a pilot in command in operations under this subpart;
 
-\(4\) Has satisfactorily completed the applicable training requirements of §91.1093;
+\(4\) Has satisfactorily completed the applicable training requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]];
 
 \(5\) Holds at least a Class III medical certificate unless serving as a required crewmember, in which case holds a Class I or Class II medical certificate as appropriate; and
 
@@ -5650,7 +5650,7 @@ No program manager may use any person to perform, and no person may perform, any
 
 \(3\) Has satisfactorily completed the appropriate proficiency or competency checks that are required to serve as a pilot in command in operations under this subpart;
 
-\(4\) Has satisfactorily completed the applicable training requirements of §91.1093; and
+\(4\) Has satisfactorily completed the applicable training requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1093   Initial and transition training and checking: Check pilots (aircraft), check pilots (simulator).|§91.1093]]; and
 
 \(5\) Has been approved by the Administrator for the check pilot (simulator) duties involved.
 
@@ -5668,13 +5668,13 @@ No program manager may use any person to perform, and no person may perform, any
 
 ### §91.1091   Qualifications: Flight instructors (aircraft) and flight instructors (simulator).
 
-\(a\) For the purposes of this section and §91.1095:
+\(a\) For the purposes of this section and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1095   Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).|§91.1095]]:
 
 \(1\) A flight instructor (aircraft) is a person who is qualified to instruct in an aircraft, in a flight simulator, or in a flight training device for a particular type, class, or category aircraft.
 
 \(2\) A flight instructor (simulator) is a person who is qualified to instruct in a flight simulator, in a flight training device, or in both, for a particular type, class, or category aircraft.
 
-\(3\) Flight instructors (aircraft) and flight instructors (simulator) are those instructors who perform the functions described in §91.1073(a)(4) and (c).
+\(3\) Flight instructors (aircraft) and flight instructors (simulator) are those instructors who perform the functions described in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1073   Training program: General.|§91.1073]](a)(4) and (c).
 
 \(b\) No program manager may use a person, nor may any person serve as a flight instructor (aircraft) in a training program established under this subpart unless, with respect to the type, class, or category aircraft involved, that person—
 
@@ -5684,7 +5684,7 @@ No program manager may use any person to perform, and no person may perform, any
 
 \(3\) Has satisfactorily completed the proficiency or competency checks that are required to serve as a pilot in command in operations under this subpart;
 
-\(4\) Has satisfactorily completed the applicable training requirements of §91.1095; and
+\(4\) Has satisfactorily completed the applicable training requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1095   Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).|§91.1095]]; and
 
 \(5\) Holds at least a Class III medical certificate.
 
@@ -5696,7 +5696,7 @@ No program manager may use any person to perform, and no person may perform, any
 
 \(3\) Has satisfactorily completed the appropriate proficiency or competency checks that are required to serve as a pilot in command in operations under this subpart; and
 
-\(4\) Has satisfactorily completed the applicable training requirements of §91.1095.
+\(4\) Has satisfactorily completed the applicable training requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1095   Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator).|§91.1095]].
 
 \(d\) Completion of the requirements in paragraphs (b)(2), (3), and (4) or (c)(2), (3), and (4) of this section, as applicable, must be entered in the individual's training record maintained by the program manager.
 
@@ -5818,7 +5818,7 @@ No program manager may use any person to perform, and no person may perform, any
 
 ### §91.1097   Pilot and flight attendant crewmember training programs.
 
-\(a\) Each program manager must establish and maintain an approved pilot training program, and each program manager who uses a flight attendant crewmember must establish and maintain an approved flight attendant training program, that is appropriate to the operations to which each pilot and flight attendant is to be assigned, and will ensure that they are adequately trained to meet the applicable knowledge and practical testing requirements of §§91.1065 through 91.1071.
+\(a\) Each program manager must establish and maintain an approved pilot training program, and each program manager who uses a flight attendant crewmember must establish and maintain an approved flight attendant training program, that is appropriate to the operations to which each pilot and flight attendant is to be assigned, and will ensure that they are adequately trained to meet the applicable knowledge and practical testing requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]] through 91.1071.
 
 \(b\) Each program manager required to have a training program by paragraph (a) of this section must include in that program ground and flight training curriculums for—
 
@@ -5948,9 +5948,9 @@ Initial and transition ground training for flight attendants must include instru
 
 \(1\) A quiz or other review to determine the crewmember's knowledge of the aircraft and crewmember position involved.
 
-\(2\) Instruction as necessary in the subjects required for initial ground training by this subpart, as appropriate, including low-altitude windshear training and training on operating during ground icing conditions, as prescribed in §91.1097 and described in §91.1101, and emergency training.
+\(2\) Instruction as necessary in the subjects required for initial ground training by this subpart, as appropriate, including low-altitude windshear training and training on operating during ground icing conditions, as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1097   Pilot and flight attendant crewmember training programs.|§91.1097]] and described in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1101   Pilots: Initial, transition, and upgrade ground training.|§91.1101]], and emergency training.
 
-\(c\) Recurrent flight training for pilots must include, at least, flight training in the maneuvers or procedures in this subpart, except that satisfactory completion of the check required by §91.1065 within the preceding 12 months may be substituted for recurrent flight training.
+\(c\) Recurrent flight training for pilots must include, at least, flight training in the maneuvers or procedures in this subpart, except that satisfactory completion of the check required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1065   Initial and recurrent pilot testing requirements.|§91.1065]] within the preceding 12 months may be substituted for recurrent flight training.
 
 ### §91.1109   Aircraft maintenance: Inspection program.
 
@@ -5968,15 +5968,15 @@ Each program manager must establish an aircraft inspection program for each make
 
 \(1\) An inspection program currently recommended by the manufacturer of the aircraft, aircraft engines, propellers, appliances, and survival and emergency equipment;
 
-\(2\) An inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier or operating certificate issued under part 119 of this chapter and operating that make and model aircraft under part 121 or 135 of this chapter;
+\(2\) An inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier or operating certificate issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]] and operating that make and model aircraft under part 121 or 135 of this chapter;
 
-\(3\) An aircraft inspection program approved under §135.419 of this chapter and currently in use under part 135 of this chapter by a person holding a certificate issued under part 119 of this chapter; or
+\(3\) An aircraft inspection program approved under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter and currently in use under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] by a person holding a certificate issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]]; or
 
-\(4\) An airplane inspection program approved under §125.247 of this chapter and currently in use under part 125 of this chapter.
+\(4\) An airplane inspection program approved under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md#§125.247   Inspection programs and maintenance.|§125.247]] of this chapter and currently in use under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]].
 
-\(5\) An inspection program that is part of the program manager's continuous airworthiness maintenance program under §§91.1411 through 91.1443.
+\(5\) An inspection program that is part of the program manager's continuous airworthiness maintenance program under §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1411   Continuous airworthiness maintenance program use by fractional ownership program manager.|§91.1411]] through 91.1443.
 
-\(c\) The Administrator may require revision of the inspection program approved under this section in accordance with the provisions of §91.415.
+\(c\) The Administrator may require revision of the inspection program approved under this section in accordance with the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.415   Changes to aircraft inspection programs.|§91.415]].
 
 \[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018\]
 
@@ -5986,7 +5986,7 @@ The program manager must ensure that all employees who are responsible for maint
 
 ### §91.1113   Maintenance recordkeeping.
 
-Each fractional ownership program manager must keep (using the system specified in the manual required in §91.1025) the records specified in §91.417(a) for the periods specified in §91.417(b).
+Each fractional ownership program manager must keep (using the system specified in the manual required in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1025   Program operating manual contents.|§91.1025]]) the records specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](a) for the periods specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]](b).
 
 ### §91.1115   Inoperable instruments and equipment.
 
@@ -6014,13 +6014,13 @@ Each fractional ownership program manager must keep (using the system specified 
 
 \(3\) Instruments and equipment required for specific operations by this part.
 
-\(c\) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit under §§21.197 and 21.199 of this chapter.
+\(c\) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit under §[[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.197   Special flight permits.|§21.197]] and 21.199 of this chapter.
 
 \(d\) A person authorized to use an approved Minimum Equipment List issued for a specific aircraft under part 121, 125, or 135 of this chapter must use that Minimum Equipment List to comply with this section.
 
 ### §91.1411   Continuous airworthiness maintenance program use by fractional ownership program manager.
 
-Fractional ownership program aircraft may be maintained under a continuous airworthiness maintenance program (CAMP) under §§91.1413 through 91.1443. Any program manager who elects to maintain the program aircraft using a continuous airworthiness maintenance program must comply with §§91.1413 through 91.1443.
+Fractional ownership program aircraft may be maintained under a continuous airworthiness maintenance program (CAMP) under §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1413   CAMP: Responsibility for airworthiness.|§91.1413]] through 91.1443. Any program manager who elects to maintain the program aircraft using a continuous airworthiness maintenance program must comply with §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1413   CAMP: Responsibility for airworthiness.|§91.1413]] through 91.1443.
 
 ### §91.1413   CAMP: Responsibility for airworthiness.
 
@@ -6030,7 +6030,7 @@ Fractional ownership program aircraft may be maintained under a continuous airwo
 
 \(2\) Maintaining its aircraft in accordance with the requirements of this chapter.
 
-\(3\) Repairing defects that occur between regularly scheduled maintenance required under part 43 of this chapter.
+\(3\) Repairing defects that occur between regularly scheduled maintenance required under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 \(b\) Each program manager who maintains program aircraft under a CAMP must—
 
@@ -6098,7 +6098,7 @@ Fractional ownership program aircraft may be maintained under a continuous airwo
 
 \(7\) Other pertinent information necessary for more complete identification, determination of seriousness, or corrective action.
 
-\(f\) A program manager that is also the holder of a type certificate (including a supplemental type certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under §21.3 of this chapter or under the accident reporting provisions of part 830 of the regulations of the National Transportation Safety Board.
+\(f\) A program manager that is also the holder of a type certificate (including a supplemental type certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.3   Reporting of failures, malfunctions, and defects.|§21.3]] of this chapter or under the accident reporting provisions of part 830 of the regulations of the National Transportation Safety Board.
 
 \(g\) No person may withhold a report required by this section even when not all information required by this section is available.
 
@@ -6110,7 +6110,7 @@ Fractional ownership program aircraft may be maintained under a continuous airwo
 
 Each program manager who maintains program aircraft under a CAMP must mail or deliver, before the end of the 10th day of the following month, a summary report of the following occurrences in multiengine aircraft for the preceding month to the Flight Standards office that issued the management specifications:
 
-\(a\) Each interruption to a flight, unscheduled change of aircraft en route, or unscheduled stop or diversion from a route, caused by known or suspected mechanical difficulties or malfunctions that are not required to be reported under §91.1415.
+\(a\) Each interruption to a flight, unscheduled change of aircraft en route, or unscheduled stop or diversion from a route, caused by known or suspected mechanical difficulties or malfunctions that are not required to be reported under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1415   CAMP: Mechanical reliability reports.|§91.1415]].
 
 \(b\) The number of propeller featherings in flight, listed by type of propeller and engine and aircraft on which it was installed. Propeller featherings for training, demonstration, or flight check purposes need not be reported.
 
@@ -6120,7 +6120,7 @@ Each program manager who maintains program aircraft under a CAMP must mail or de
 
 \(a\) Each program manager who maintains program aircraft under a CAMP that has its personnel perform any of its maintenance (other than required inspections), preventive maintenance, or alterations, and each person with whom it arranges for the performance of that work, must have an organization adequate to perform the work.
 
-\(b\) Each program manager who has personnel perform any inspections required by the program manager's manual under §91.1427(b) (2) or (3), (in this subpart referred to as required inspections), and each person with whom the program manager arranges for the performance of that work, must have an organization adequate to perform that work.
+\(b\) Each program manager who has personnel perform any inspections required by the program manager's manual under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1427   CAMP: Manual requirements.|§91.1427]](b) (2) or (3), (in this subpart referred to as required inspections), and each person with whom the program manager arranges for the performance of that work, must have an organization adequate to perform that work.
 
 \(c\) Each person performing required inspections in addition to other maintenance, preventive maintenance, or alterations, must organize the performance of those functions so as to separate the required inspection functions from the other maintenance, preventive maintenance, or alteration functions. The separation must be below the level of administrative control at which overall responsibility for the required inspection functions and other maintenance, preventive maintenance, or alterations is exercised.
 
@@ -6136,9 +6136,9 @@ Each program manager who maintains program aircraft under a CAMP must have an in
 
 ### §91.1427   CAMP: Manual requirements.
 
-\(a\) Each program manager who maintains program aircraft under a CAMP must put in the operating manual the chart or description of the program manager's organization required by §91.1423 and a list of persons with whom it has arranged for the performance of any of its required inspections, and other maintenance, preventive maintenance, or alterations, including a general description of that work.
+\(a\) Each program manager who maintains program aircraft under a CAMP must put in the operating manual the chart or description of the program manager's organization required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1423   CAMP: Maintenance organization.|§91.1423]] and a list of persons with whom it has arranged for the performance of any of its required inspections, and other maintenance, preventive maintenance, or alterations, including a general description of that work.
 
-\(b\) Each program manager must put in the operating manual the programs required by §91.1425 that must be followed in performing maintenance, preventive maintenance, or alterations of that program manager's aircraft, including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment, and parts, and must include at least the following:
+\(b\) Each program manager must put in the operating manual the programs required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1425   CAMP: Maintenance, preventive maintenance, and alteration programs.|§91.1425]] that must be followed in performing maintenance, preventive maintenance, or alterations of that program manager's aircraft, including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment, and parts, and must include at least the following:
 
 \(1\) The method of performing routine and nonroutine maintenance (other than required inspections), preventive maintenance, or alterations.
 
@@ -6194,7 +6194,7 @@ Each program manager who maintains program aircraft under a CAMP or a person per
 
 ### §91.1435   CAMP: Certificate requirements.
 
-\(a\) Except for maintenance, preventive maintenance, alterations, and required inspections performed by repair stations located outside the United States certificated under the provisions of part 145 of this chapter, each person who is directly in charge of maintenance, preventive maintenance, or alterations for a CAMP, and each person performing required inspections for a CAMP must hold an appropriate airman certificate.
+\(a\) Except for maintenance, preventive maintenance, alterations, and required inspections performed by repair stations located outside the United States certificated under the provisions of [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md|part 145 of this chapter]], each person who is directly in charge of maintenance, preventive maintenance, or alterations for a CAMP, and each person performing required inspections for a CAMP must hold an appropriate airman certificate.
 
 \(b\) For the purpose of this section, a person “directly in charge” is each person assigned to a position in which that person is responsible for the work of a shop or station that performs maintenance, preventive maintenance, alterations, or other functions affecting airworthiness. A person who is directly in charge need not physically observe and direct each worker constantly but must be available for consultation and decision on matters requiring instruction or decision from higher authority than that of the person performing the work.
 
@@ -6204,9 +6204,9 @@ A program manager who maintains program aircraft under a CAMP may employ mainten
 
 ### §91.1439   CAMP: Maintenance recording requirements.
 
-\(a\) Each program manager who maintains program aircraft under a CAMP must keep (using the system specified in the manual required in §91.1427) the following records for the periods specified in paragraph (b) of this section:
+\(a\) Each program manager who maintains program aircraft under a CAMP must keep (using the system specified in the manual required in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1427   CAMP: Manual requirements.|§91.1427]]) the following records for the periods specified in paragraph (b) of this section:
 
-\(1\) All the records necessary to show that all requirements for the issuance of an airworthiness release under §91.1443 have been met.
+\(1\) All the records necessary to show that all requirements for the issuance of an airworthiness release under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1443   CAMP: Airworthiness release or aircraft maintenance log entry.|§91.1443]] have been met.
 
 \(2\) Records containing the following information:
 
@@ -6236,9 +6236,9 @@ A program manager who maintains program aircraft under a CAMP may employ mainten
 
 When a U.S.-registered fractional ownership program aircraft maintained under a CAMP is removed from the list of program aircraft in the management specifications, the program manager must transfer to the purchaser, at the time of the sale, the following records of that aircraft, in plain language form or in coded form that provides for the preservation and retrieval of information in a manner acceptable to the Administrator:
 
-\(a\) The records specified in §91.1439(a)(2).
+\(a\) The records specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1439   CAMP: Maintenance recording requirements.|§91.1439]](a)(2).
 
-\(b\) The records specified in §91.1439(a)(1) that are not included in the records covered by paragraph (a) of this section, except that the purchaser may allow the program manager to keep physical custody of such records. However, custody of records by the program manager does not relieve the purchaser of its responsibility under §91.1439(c) to make the records available for inspection by the Administrator or any representative of the National Transportation Safety Board.
+\(b\) The records specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1439   CAMP: Maintenance recording requirements.|§91.1439]](a)(1) that are not included in the records covered by paragraph (a) of this section, except that the purchaser may allow the program manager to keep physical custody of such records. However, custody of records by the program manager does not relieve the purchaser of its responsibility under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1439   CAMP: Maintenance recording requirements.|§91.1439]](c) to make the records available for inspection by the Administrator or any representative of the National Transportation Safety Board.
 
 ### §91.1443   CAMP: Airworthiness release or aircraft maintenance log entry.
 
@@ -6264,7 +6264,7 @@ When a U.S.-registered fractional ownership program aircraft maintained under a 
 
 \(3\) Be signed by an authorized certificated mechanic.
 
-\(c\) Notwithstanding paragraph (b)(3) of this section, after maintenance, preventive maintenance, or alterations performed by a repair station certificated under the provisions of part 145 of this chapter, the approval for return to service or log entry required by paragraph (a) of this section may be signed by a person authorized by that repair station.
+\(c\) Notwithstanding paragraph (b)(3) of this section, after maintenance, preventive maintenance, or alterations performed by a repair station certificated under the provisions of [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md|part 145 of this chapter]], the approval for return to service or log entry required by paragraph (a) of this section may be signed by a person authorized by that repair station.
 
 \(d\) Instead of restating each of the conditions of the certification required by paragraph (b) of this section, the program manager may state in its manual that the signature of an authorized certificated mechanic or repairman constitutes that certification.
 
@@ -6330,9 +6330,9 @@ When a U.S.-registered fractional ownership program aircraft maintained under a 
 
 \(c\) After December 16, 2008, no operator may operate an airplane identified in paragraph (a) of this section unless the inspection program for that airplane has been revised to include applicable inspections, procedures, and limitations for fuel tank systems.
 
-\(d\) The proposed fuel tank system inspection program revisions specified in paragraph (c) of this section must be based on fuel tank system Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the applicable provisions of SFAR 88 of this chapter or §25.1529 and part 25, Appendix H, of this chapter, in effect on June 6, 2001 (including those developed for auxiliary fuel tanks, if any, installed under supplemental type certificates or other design approval) and that have been approved by the responsible Aircraft Certification Service Office.
+\(d\) The proposed fuel tank system inspection program revisions specified in paragraph (c) of this section must be based on fuel tank system Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the applicable provisions of SFAR 88 of this chapter or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] and part 25, Appendix H, of this chapter, in effect on June 6, 2001 (including those developed for auxiliary fuel tanks, if any, installed under supplemental type certificates or other design approval) and that have been approved by the responsible Aircraft Certification Service Office.
 
-\(e\) After December 16, 2008, before returning an airplane to service after any alterations for which fuel tank ICA are developed under SFAR 88, or under §25.1529 in effect on June 6, 2001, the operator must include in the inspection program for the airplane inspections and procedures for the fuel tank system based on those ICA.
+\(e\) After December 16, 2008, before returning an airplane to service after any alterations for which fuel tank ICA are developed under SFAR 88, or under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] in effect on June 6, 2001, the operator must include in the inspection program for the airplane inspections and procedures for the fuel tank system based on those ICA.
 
 \(f\) The fuel tank system inspection program changes identified in paragraphs (d) and (e) of this section and any later fuel tank system revisions must be submitted to the Flight Standards office responsible for review and approval.
 
@@ -6572,7 +6572,7 @@ When a U.S.-registered fractional ownership program aircraft maintained under a 
 
 \(2\) The pilot in command is conducting a maintenance test flight with a second pilot or certificated mechanic; or
 
-\(3\) The pilot in command is conducting simulated instrument flight and is using a safety pilot other than the pilot in command who manipulates the controls for the purposes of §91.109(b).
+\(3\) The pilot in command is conducting simulated instrument flight and is using a safety pilot other than the pilot in command who manipulates the controls for the purposes of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.109   Flight instruction; Simulated instrument flight and certain flight tests.|§91.109]](b).
 
 \(c\) A person is required to complete *Initial/transition training* if that person has fewer than—
 
@@ -6590,35 +6590,35 @@ When a U.S.-registered fractional ownership program aircraft maintained under a 
 
 \(f\) Successful completion of Initial/transition training or Requalification training is a one-time requirement. A person may elect to retake Initial/transition training or Requalification training in lieu of Recurrent training.
 
-\(g\) A person is required to complete Differences training in accordance with an FAA approved MU-2B training program if that person operates more than one MU-2B model as specified in §91.1707(c).
+\(g\) A person is required to complete Differences training in accordance with an FAA approved MU-2B training program if that person operates more than one MU-2B model as specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](c).
 
 ### §91.1705   Required pilot training.
 
-\(a\) Except as provided in §91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
+\(a\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1703   Compliance and eligibility.|§91.1703]](b), no person may manipulate the controls, act as pilot in command, or act as second-in-command of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
 
 \(1\) The requirements for ground and flight training on Initial/transition, Requalification, Recurrent, and Differences training have been completed in accordance with an FAA approved MU-2B training program that meets the standards of this subpart; and
 
 \(2\) That person's logbook has been endorsed in accordance with paragraph (f) of this section.
 
-\(b\) Except as provided in §91.1703(b), no person may manipulate the controls, act as pilot in command, or act as second-in-command, of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
+\(b\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1703   Compliance and eligibility.|§91.1703]](b), no person may manipulate the controls, act as pilot in command, or act as second-in-command, of a Mitsubishi MU-2B series airplane for the purpose of flight unless—
 
 \(1\) That person satisfactorily completes, if applicable, annual Recurrent pilot training on the *Special Emphasis Items,* and all items listed in the *Training Course Final Phase Check* in accordance with an FAA approved MU-2B training program that meets the standards of this subpart; and
 
 \(2\) That person's logbook has been endorsed in accordance with paragraph (f) of this section.
 
-\(c\) Satisfactory completion of the competency check required by §135.293 of this chapter within the preceding 12 calendar months may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
+\(c\) Satisfactory completion of the competency check required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.293   Initial and recurrent pilot testing requirements.|§135.293]] of this chapter within the preceding 12 calendar months may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
 
-\(d\) Satisfactory completion of a Federal Aviation Administration sponsored pilot proficiency program, as described in §61.56(e) of this chapter may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
+\(d\) Satisfactory completion of a Federal Aviation Administration sponsored pilot proficiency program, as described in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]](e) of this chapter may not be substituted for the Mitsubishi MU-2B series airplane annual recurrent flight training of this section.
 
 \(e\) If a person complies with the requirements of paragraph (a) or (b) of this section in the calendar month before or the calendar month after the month in which compliance with these paragraphs are required, that person is considered to have accomplished the training requirement in the month the training is due.
 
 \(f\) The endorsement required under paragraph (a) and (b) of this section must be made by—
 
-\(1\) A certificated flight instructor or a simulator instructor authorized by a Training Center certificated under part 142 of this chapter and meeting the qualifications of §91.1713; or
+\(1\) A certificated flight instructor or a simulator instructor authorized by a Training Center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] and meeting the qualifications of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1713   Instruction, checking, and evaluation.|§91.1713]]; or
 
-\(2\) For persons operating the Mitsubishi MU-2B series airplane for a [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|14 CFR part 119]] certificate holder within the last 12 calendar months, the part 119 certificate holder's flight instructor if authorized by the FAA and if that flight instructor meets the requirements of §91.1713.
+\(2\) For persons operating the Mitsubishi MU-2B series airplane for a [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|14 CFR part 119]] certificate holder within the last 12 calendar months, the part 119 certificate holder's flight instructor if authorized by the FAA and if that flight instructor meets the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1713   Instruction, checking, and evaluation.|§91.1713]].
 
-\(g\) All training conducted for a Mitsubishi MU-2B series airplane must be completed in accordance with an MU-2B series airplane checklist that has been accepted by the Federal Aviation Administration's MU-2B Flight Standardization Board or the applicable MU-2B series checklist (incorporated by reference, see §91.1721).
+\(g\) All training conducted for a Mitsubishi MU-2B series airplane must be completed in accordance with an MU-2B series airplane checklist that has been accepted by the Federal Aviation Administration's MU-2B Flight Standardization Board or the applicable MU-2B series checklist (incorporated by reference, see [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1721   Incorporation by reference.|§91.1721]]).
 
 \(h\) MU-2B training programs must contain ground training and flight training sufficient to ensure pilot proficiency for the safe operation of MU-2B aircraft, including:
 
@@ -6688,15 +6688,15 @@ When a U.S.-registered fractional ownership program aircraft maintained under a 
 
 \(3\) Flight training must include a final phase check sufficient to document pilot proficiency in the flight training maneuver profiles at the completion of training; and
 
-\(4\) Differences training for applicable MU-2B model variants sufficient to ensure pilot proficiency in each model operated. Current MU-2B differences requirements are specified in §91.1707(c). A person must complete Differences training if a person operates more than one MU-2B model as specified in §91.1707(c). Differences training between the factory type design K and M models of the MU-2B airplane, and the factory type design J and L models of the MU-2B airplane, may be accomplished with Level A training. All other factory type design differences training must be accomplished with Level B training unless otherwise specified in §91.1707(c) . A Level A or B differences training is not a recurring annual requirement. Once a person has completed Initial Level A or B Differences training between the applicable different models, no additional differences training between those models is required.
+\(4\) Differences training for applicable MU-2B model variants sufficient to ensure pilot proficiency in each model operated. Current MU-2B differences requirements are specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](c). A person must complete Differences training if a person operates more than one MU-2B model as specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](c). Differences training between the factory type design K and M models of the MU-2B airplane, and the factory type design J and L models of the MU-2B airplane, may be accomplished with Level A training. All other factory type design differences training must be accomplished with Level B training unless otherwise specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](c) . A Level A or B differences training is not a recurring annual requirement. Once a person has completed Initial Level A or B Differences training between the applicable different models, no additional differences training between those models is required.
 
 \(5\) Icing training sufficient to ensure pilot knowledge and safe operation of the MU-2B aircraft in icing conditions as established by the FAA;
 
-\(6\) Ground and flight training programs must include training hours identified by §91.1707(a) for ground instruction, §91.1707(b) for flight instruction, and §91.1707(c) for differences training.
+\(6\) Ground and flight training programs must include training hours identified by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](a) for ground instruction, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](b) for flight instruction, and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]](c) for differences training.
 
 \(i\) No training credit is given for second-in-command training and no credit is given for right seat time under this program. Only the sole manipulator of the controls of the MU-2B airplane, flight training device, or Level C or D simulator can receive training credit under this program;
 
-\(ii\) An MU-2B airplane must be operated in accordance with an FAA approved MU-2B training program that meets the standards of this subpart and the training hours in §91.1707.
+\(ii\) An MU-2B airplane must be operated in accordance with an FAA approved MU-2B training program that meets the standards of this subpart and the training hours in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1707   Training program hours.|§91.1707]].
 
 \(7\) Endorsements given for compliance with paragraph (f) of this section must be appropriate to the content of that specific MU-2B training program's compliance with standards of this subpart.
 
@@ -6768,9 +6768,9 @@ No person may act as a pilot in command of a Mitsubishi MU-2B series airplane fo
 
 \(a\) *Flight Instructor (Airplane).* No flight instructor may provide instruction or conduct a flight review in a Mitsubishi MU-2B series airplane unless that flight instructor
 
-\(1\) Meets the pilot training and documentation requirements of §91.1705 before giving flight instruction in the Mitsubishi MU-2B series airplane;
+\(1\) Meets the pilot training and documentation requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]] before giving flight instruction in the Mitsubishi MU-2B series airplane;
 
-\(2\) Meets the currency requirements of §§91.1715(a) and 91.1715(c)
+\(2\) Meets the currency requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1715   Currency requirements and flight review.|§91.1715]](a) and 91.1715(c)
 
 \(3\) Has a minimum total pilot time of 2,000 pilot-in-command hours and 800 pilot-in-command hours in multiengine airplanes; and
 
@@ -6782,9 +6782,9 @@ No person may act as a pilot in command of a Mitsubishi MU-2B series airplane fo
 
 \(b\) *Flight Instructor (Simulator/Flight Training Device).* No flight instructor may provide instruction for the Mitsubishi MU-2B series airplane unless that instructor meets the requirements of this paragraph—
 
-\(1\) Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the pilot training and documentation requirements of §91.1705 before giving flight instruction for the Mitsubishi MU-2B series airplane;
+\(1\) Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the pilot training and documentation requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]] before giving flight instruction for the Mitsubishi MU-2B series airplane;
 
-\(2\) Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the currency requirements of §91.1715(c) before giving flight instruction for the Mitsubishi MU-2B series airplane;
+\(2\) Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must meet the currency requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1715   Currency requirements and flight review.|§91.1715]](c) before giving flight instruction for the Mitsubishi MU-2B series airplane;
 
 \(3\) Each flight instructor who provides flight training for the Mitsubishi MU-2B series airplane must have:
 
@@ -6794,19 +6794,19 @@ No person may act as a pilot in command of a Mitsubishi MU-2B series airplane fo
 
 \(c\) *Checking and evaluation.* No person may provide checking or evaluation for the Mitsubishi MU-2B series airplane unless that person meets the requirements of this paragraph—
 
-\(1\) For the purpose of checking, designated pilot examiners, training center evaluators, and check airmen must have completed the appropriate training in the Mitsubishi MU-2B series airplane in accordance with §91.1705;
+\(1\) For the purpose of checking, designated pilot examiners, training center evaluators, and check airmen must have completed the appropriate training in the Mitsubishi MU-2B series airplane in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]];
 
-\(2\) For checking conducted in the Mitsubishi MU-2B series airplane, each designated pilot examiner and check airman must have 100 hours pilot-in-command flight time in the Mitsubishi MU-2B series airplane and maintain currency in accordance with §91.1715.
+\(2\) For checking conducted in the Mitsubishi MU-2B series airplane, each designated pilot examiner and check airman must have 100 hours pilot-in-command flight time in the Mitsubishi MU-2B series airplane and maintain currency in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1715   Currency requirements and flight review.|§91.1715]].
 
 ### §91.1715   Currency requirements and flight review.
 
-\(a\) The takeoff and landing currency requirements of §61.57 of this chapter must be maintained in the Mitsubishi MU-2B series airplane. Takeoff and landings in other multiengine airplanes do not meet the takeoff and landing currency requirements for the Mitsubishi MU-2B series plane. Takeoff and landings in either the short-body or long-body Mitsubishi MU-2B model airplane may be credited toward takeoff and landing currency for both Mitsubishi MU-2B model groups.
+\(a\) The takeoff and landing currency requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter must be maintained in the Mitsubishi MU-2B series airplane. Takeoff and landings in other multiengine airplanes do not meet the takeoff and landing currency requirements for the Mitsubishi MU-2B series plane. Takeoff and landings in either the short-body or long-body Mitsubishi MU-2B model airplane may be credited toward takeoff and landing currency for both Mitsubishi MU-2B model groups.
 
-\(b\) Instrument experience obtained in other category and class of aircraft may be used to satisfy the instrument currency requirements of §61.57 of this chapter for the Mitsubishi MU-2B series airplane.
+\(b\) Instrument experience obtained in other category and class of aircraft may be used to satisfy the instrument currency requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter for the Mitsubishi MU-2B series airplane.
 
-\(c\) Satisfactory completion of a flight review to satisfy the requirements of §61.56 of this chapter is valid for operation of a Mitsubishi MU-2B series airplane only if that flight review is conducted in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter. The flight review for Mitsubishi MU-2B series airplanes must include the *Special Emphasis Items,* and all items listed in the *Training Course Final Phase Check* in accordance with an approved MU-2B Training Program.
+\(c\) Satisfactory completion of a flight review to satisfy the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] of this chapter is valid for operation of a Mitsubishi MU-2B series airplane only if that flight review is conducted in a Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]]. The flight review for Mitsubishi MU-2B series airplanes must include the *Special Emphasis Items,* and all items listed in the *Training Course Final Phase Check* in accordance with an approved MU-2B Training Program.
 
-\(d\) A person who successfully completes the Initial/transition, Requalification, or Recurrent training requirements under §91.1705 of this chapter also meet the requirements of §61.56 of this chapter and need not accomplish a separate flight review provided that at least 1 hour of the flight training was conducted in the Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under part 142 of this chapter.
+\(d\) A person who successfully completes the Initial/transition, Requalification, or Recurrent training requirements under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1705   Required pilot training.|§91.1705]] of this chapter also meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.56   Flight review.|§61.56]] of this chapter and need not accomplish a separate flight review provided that at least 1 hour of the flight training was conducted in the Mitsubishi MU-2B series airplane or an MU-2B Simulator approved for landings with an approved course conducted under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]].
 
 \[Docket FAA-2006-24981, Amdt. 91-344, 81 FR 61591, Sept. 7, 2016; Amdt. 91-344A, 82 FR 21472, May 9, 2017\]
 
@@ -6826,7 +6826,7 @@ No person may act as a pilot in command of a Mitsubishi MU-2B series airplane fo
 
 \(e\) No person may operate a Mitsubishi MU-2B series airplane contrary to the standards of this subpart.
 
-\(f\) If there are any differences between the training and operating requirements of this subpart and the MU-2B Airplane Flight Manual's procedures sections (Normal, Abnormal, and Emergency) and the MU-2B airplane series checklist incorporated by reference in §91.1721, the person operating the airplane must operate the airplane in accordance with the training specified in this subpart.
+\(f\) If there are any differences between the training and operating requirements of this subpart and the MU-2B Airplane Flight Manual's procedures sections (Normal, Abnormal, and Emergency) and the MU-2B airplane series checklist incorporated by reference in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1721   Incorporation by reference.|§91.1721]], the person operating the airplane must operate the airplane in accordance with the training specified in this subpart.
 
 ### §91.1719   Credit for prior training.
 
@@ -6898,7 +6898,7 @@ Initial/transition, requalification, recurrent or Level B differences training c
 
 ### 2. Required Instruments and Equipment
 
-The instruments and equipment listed in this section must be installed in each aircraft operated in a Category II operation. This section does not require duplication of instruments and equipment required by §91.205 or any other provisions of this chapter.
+The instruments and equipment listed in this section must be installed in each aircraft operated in a Category II operation. This section does not require duplication of instruments and equipment required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.205   Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.|§91.205]] or any other provisions of this chapter.
 
 \(a\) *Group I.* (1) Two localizer and glide slope receiving systems. Each system must provide a basic ILS display and each side of the instrument panel must have a basic ILS display. However, a single localizer antenna and a single glide slope antenna may be used.
 
@@ -6936,7 +6936,7 @@ The instruments and equipment listed in this section must be installed in each a
 
 \(1\) The ILS localizer and glide slope equipment were bench checked according to the manufacturer's instructions and found to meet those standards specified in RTCA Paper 23-63/DO-117 dated March 14, 1963, “Standard Adjustment Criteria for Airborne Localizer and Glide Slope Receivers,” which may be obtained from the RTCA Secretariat, 1425 K St., NW., Washington, DC 20005.
 
-\(2\) The altimeters and the static pressure systems were tested and inspected in accordance with appendix E to part 43 of this chapter; and
+\(2\) The altimeters and the static pressure systems were tested and inspected in accordance with appendix E to [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]]; and
 
 \(3\) All other instruments and items of equipment specified in section 2(a) of this appendix that are listed in the proposed maintenance program were bench checked and found to meet the manufacturer's specifications.
 
@@ -7004,11 +7004,11 @@ The instruments and equipment listed in this section must be installed in each a
 
 \(1\) A list of each instrument and item of equipment specified in §2 of this appendix that is installed in the aircraft and approved for Category II operations, including the make and model of those specified in §2(a).
 
-\(2\) A schedule that provides for the performance of inspections under subparagraph (5) of this paragraph within 3 calendar months after the date of the previous inspection. The inspection must be performed by a person authorized by part 43 of this chapter, except that each alternate inspection may be replaced by a functional flight check. This functional flight check must be performed by a pilot holding a Category II pilot authorization for the type aircraft checked.
+\(2\) A schedule that provides for the performance of inspections under subparagraph (5) of this paragraph within 3 calendar months after the date of the previous inspection. The inspection must be performed by a person authorized by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]], except that each alternate inspection may be replaced by a functional flight check. This functional flight check must be performed by a pilot holding a Category II pilot authorization for the type aircraft checked.
 
 \(3\) A schedule that provides for the performance of bench checks for each listed instrument and item of equipment that is specified in section 2(a) within 12 calendar months after the date of the previous bench check.
 
-\(4\) A schedule that provides for the performance of a test and inspection of each static pressure system in accordance with appendix E to part 43 of this chapter within 12 calendar months after the date of the previous test and inspection.
+\(4\) A schedule that provides for the performance of a test and inspection of each static pressure system in accordance with appendix E to [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]] within 12 calendar months after the date of the previous test and inspection.
 
 \(5\) The procedures for the performance of the periodic inspections and functional flight checks to determine the ability of each listed instrument and item of equipment specified in section 2(a) of this appendix to perform as approved for Category II operations including a procedure for recording functional flight checks.
 
@@ -7016,7 +7016,7 @@ The instruments and equipment listed in this section must be installed in each a
 
 \(7\) A procedure for assuring that the condition of each listed instrument and item of equipment upon which maintenance is performed is at least equal to its Category II approval condition before it is returned to service for Category II operations.
 
-\(8\) A procedure for an entry in the maintenance records required by §43.9 of this chapter that shows the date, airport, and reasons for each discontinued Category II operation because of a malfunction of a listed instrument or item of equipment.
+\(8\) A procedure for an entry in the maintenance records required by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).|§43.9]] of this chapter that shows the date, airport, and reasons for each discontinued Category II operation because of a malfunction of a listed instrument or item of equipment.
 
 \(b\) *Bench check.* A bench check required by this section must comply with this paragraph.
 
@@ -7042,7 +7042,7 @@ The instruments and equipment listed in this section must be installed in each a
 
 ### Appendix D to Part 91—Airports/Locations: Special Operating Restrictions
 
-*Section 1.* Locations at which the requirements of §91.215(b)(2) and §91.225(d)(2) apply. The requirements of §§91.215(b)(2) and 91.225(d)(2) apply below 10,000 feet MSL within a 30-nautical-mile radius of each location in the following list.
+*Section 1.* Locations at which the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]](b)(2) and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|§91.225]](d)(2) apply. The requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]](b)(2) and 91.225(d)(2) apply below 10,000 feet MSL within a 30-nautical-mile radius of each location in the following list.
 
 Atlanta, GA (Hartsfield-Jackson Atlanta International Airport)
 
@@ -7118,11 +7118,11 @@ Tampa, FL (Tampa International Airport)
 
 Washington, DC (Ronald Reagan Washington National Airport)
 
-*Section 2.* Airports at which the requirements of §91.215(b)(5)(ii) apply. \[Reserved\]
+*Section 2.* Airports at which the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]](b)(5)(ii) apply. \[Reserved\]
 
 *Section 3.* Locations at which fixed-wing Special VFR operations are prohibited.
 
-The Special VFR weather minimums of §91.157 do not apply to the following airports:
+The Special VFR weather minimums of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]] do not apply to the following airports:
 
 Atlanta, GA (Hartsfield-Jackson Atlanta International Airport)
 
@@ -7192,7 +7192,7 @@ Washington, DC (Ronald Reagan Washington National Airport)
 
 *Section 4.* Locations at which solo student, sport, and recreational pilot activity is not permitted.
 
-Pursuant to §91.131(b)(2), solo student, sport, and recreational pilot operations are not permitted at any of the following airports.
+Pursuant to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.131   Operations in Class B airspace.|§91.131]](b)(2), solo student, sport, and recreational pilot operations are not permitted at any of the following airports.
 
 Atlanta, GA (Hartsfield-Jackson Atlanta International Airport)
 
@@ -7428,7 +7428,7 @@ Effective Date Note: By Amdt. 91-236, 59 FR 2918, Jan. 19, 1994, as corrected by
 
 ### Section 5. Deviation Authority Approval
 
-The Administrator may authorize an aircraft operator to deviate from the requirements of §§91.180 or 91.706 for a specific flight in RVSM airspace if—
+The Administrator may authorize an aircraft operator to deviate from the requirements of §[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.180   Operations within airspace designated as Reduced Vertical Separation Minimum airspace.|§91.180]] or 91.706 for a specific flight in RVSM airspace if—
 
 \(a\) The operator submits a request in a time and manner acceptable to the Administrator; and
 
@@ -7480,7 +7480,7 @@ An operator is authorized to conduct flight in airspace in which RVSM is applied
 
 \(4\) A TCAS II that meets TSO C-119b (Version 7.0), or a later version, if equipped with TCAS II, unless otherwise authorized by the Administrator.
 
-\(5\) Unless authorized by ATC or the foreign country where the aircraft is operated, an ADS-B Out system that meets the equipment performance requirements of §91.227 of this part. The aircraft must have its height-keeping performance monitored in a form and manner acceptable to the Administrator.
+\(5\) Unless authorized by ATC or the foreign country where the aircraft is operated, an ADS-B Out system that meets the equipment performance requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.227   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment performance requirements.|§91.227]] of this part. The aircraft must have its height-keeping performance monitored in a form and manner acceptable to the Administrator.
 
 \(b\) The altimetry system error (ASE) of the aircraft does not exceed 200 feet when operating in RVSM airspace.
 

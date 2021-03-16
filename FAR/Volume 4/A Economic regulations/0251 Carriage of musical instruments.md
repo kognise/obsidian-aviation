@@ -10,7 +10,7 @@ As used in this part:
 
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 40109.
 
-*Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.2   Definitions.|14 CFR 298.2]].
+*Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in 14 CFR 298.2.
 
 *Covered carrier* means a certificated carrier, a commuter carrier, an air taxi, or a U.S. indirect carrier operating to, from, or within the United States, conducting scheduled passenger service or public charter service.
 
@@ -32,7 +32,7 @@ Each covered carrier shall permit a passenger to carry a violin, guitar, or othe
 
 ### §251.4   Large musical instruments as carry-on baggage.
 
-Each covered carrier shall permit a passenger to carry a musical instrument that is too large to meet the requirements of §251.3 in the aircraft cabin, without charging the passenger a fee in addition to the cost of an additional ticket described in paragraph (e) of this section, if:
+Each covered carrier shall permit a passenger to carry a musical instrument that is too large to meet the requirements of [[Volume 4/A Economic regulations/0251 Carriage of musical instruments.md#§251.3   Small musical instruments as carry-on baggage.|§251.3]] in the aircraft cabin, without charging the passenger a fee in addition to the cost of an additional ticket described in paragraph (e) of this section, if:
 
 \(a\) The instrument is contained in a case or covered so as to avoid injury to other passengers;
 

@@ -44,7 +44,7 @@ Fees for services and resources described in this subpart and subpart C of this 
 
 ### §389.21   Payment of fees.
 
-\(a\) Except as provided in paragraph (b) of this section, any document for which a filing fee is required by §389.25 shall be paid for electronically at *http://www.pay.gov,* a secure government-wide collection portal, unless a waiver or modification of the filing fee has been requested and approved. Payments can be made directly from a bank account or by credit/debit card.
+\(a\) Except as provided in paragraph (b) of this section, any document for which a filing fee is required by [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.25   Schedule of processing fees.|§389.25]] shall be paid for electronically at *http://www.pay.gov,* a secure government-wide collection portal, unless a waiver or modification of the filing fee has been requested and approved. Payments can be made directly from a bank account or by credit/debit card.
 
 \(b\) Registration for all air taxi operators shall be accompanied by an 8 dollar (\$8) registration filing fee in the form of a check, draft, or postal money order payable to the U.S. Department of Transportation.
 
@@ -52,7 +52,7 @@ Fees for services and resources described in this subpart and subpart C of this 
 
 \(d\) Where a document relating to a single transaction or matter seeks multiple authorities or relief and therefore would otherwise be subject to more than one filing fee, only the highest fee shall be required. Where a document relating to more than one transaction or matter seeks multiple authorities or relief, the required filing fee shall be determined by combining the highest fees for each transaction or matter. For purposes of this paragraph (d), a specific number of charters or inclusive tours described in one application will be regarded as a single transaction or matter.
 
-\(e\) No fee shall be returned after the document has been filed with the Department, except as provided in §§389.23 and 389.27.
+\(e\) No fee shall be returned after the document has been filed with the Department, except as provided in §[[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.23   Application for waiver or modification of fees.|§389.23]] and 389.27.
 
 ### §389.22   Failure to make proper payment.
 
@@ -62,7 +62,7 @@ In accordance with 49 CFR part 7, subpart F, §7.42, the Department will assess 
 
 \(a\) Applications may be filed asking for waiver or modification of any fee paid under this subpart. Each applicant shall set forth the reasons why a waiver or modification should be granted, and by what legal authority.
 
-\(b\) Applications asking for a waiver or modification of fees shall be sent to the Director, Office of Aviation Analysis, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590. This provision is in accordance §385.30 of this chapter. When no petition for review is filed with the Department, or when the Department reviews the Director's decision, if the amount found due is not paid within 10 days after receipt of notification of the final determination, the document shall be returned to the filing party.
+\(b\) Applications asking for a waiver or modification of fees shall be sent to the Director, Office of Aviation Analysis, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590. This provision is in accordance [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.30   Persons who may petition for review.|§385.30]] of this chapter. When no petition for review is filed with the Department, or when the Department reviews the Director's decision, if the amount found due is not paid within 10 days after receipt of notification of the final determination, the document shall be returned to the filing party.
 
 ### §389.24   Foreign air carriers.
 
@@ -92,7 +92,7 @@ A foreign air carrier, or such carriers, if from the same country, acting jointl
 
 ### §389.26   Special rules for tariff page filings.
 
-\(a\) *Tariffs issued by carriers.* The filing fee for tariff pages filed by U.S. air carriers will be charged even if the tariff includes matters involving participating foreign air carriers. It will also be charged if the tariff is issued by a foreign air carrier and includes matters i[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.500   Transmission of electronic tariffs to subscribers.|14 CFR 221.500]]cipating U.S. air carriers, unless the foreign air carrier has obtained a waiver under §389.24. The fee will not be charged for a blank looseleaf page unless it cancels matter in the preceding issue of the page.
+\(a\) *Tariffs issued by carriers.* The filing fee for tariff pages filed by U.S. air carriers will be charged even if the tariff includes matters involving participating foreign air carriers. It will also be charged if the tariff is issued by a foreign air carrier and includes matters involving participating U.S. air carriers, unless the foreign air carrier has obtained a waiver under [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.24   Foreign air carriers.|§389.24]]. The fee will not be charged for a blank looseleaf page unless it cancels matter in the preceding issue of the page.
 
 \(b\) *Tariffs issued by publishing agents.* (1) If the tariff is issued for one or more air carriers exclusively, the fee will be charged for each page.
 
@@ -110,6 +110,6 @@ A foreign air carrier, or such carriers, if from the same country, acting jointl
 
 ### §389.27   Refund of fee.
 
-Any fee charged under this part may be refunded in full or in part upon request if the document for which it is charged is withdrawn before final action is taken. Such requests shall be filed in accordance with §389.23.
+Any fee charged under this part may be refunded in full or in part upon request if the document for which it is charged is withdrawn before final action is taken. Such requests shall be filed in accordance with [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.23   Application for waiver or modification of fees.|§389.23]].
 
 </div>

@@ -28,13 +28,13 @@ As used in this part:
 
 ### §323.3   Who shall file notices.
 
-\(a\) *Terminations, suspensions, or reductions by certificated carriers.* The notice described in §323.4(a) shall be filed by any certificated carrier that intends to:
+\(a\) *Terminations, suspensions, or reductions by certificated carriers.* The notice described in [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.4   Contents of notices.|§323.4]](a) shall be filed by any certificated carrier that intends to:
 
 \(1\) Terminate or suspend all passenger air transportation that it is providing to any eligible place in the United States when that termination or suspension will leave no certificated carriers serving that place. Service shall be considered to be terminated or suspended whenever it is operated less than 5 days per week, with three or more intermediate stops, or in one direction only between the two places;
 
 \(2\) Reduce passenger air transportation so that any eligible place receives less than the level of essential air service determined by DOT;
 
-\(3\) Terminate or suspend all passenger air transportation that it is providing to any eligible place in the United States for which DOT has not issued an essential air service determination under either §325.5 or §325.7 of this chapter, when that termination or suspension will leave only one certificated carrier serving that place. Service shall be considered to be terminated or suspended whenever it is operated less than 5 days per week, with three or more intermediate stops, or in one direction only between the two places;
+\(3\) Terminate or suspend all passenger air transportation that it is providing to any eligible place in the United States for which DOT has not issued an essential air service determination under either [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.5   Determinations and designations.|§325.5]] or §325.7 of this chapter, when that termination or suspension will leave only one certificated carrier serving that place. Service shall be considered to be terminated or suspended whenever it is operated less than 5 days per week, with three or more intermediate stops, or in one direction only between the two places;
 
 \(4\) Reduce passenger air transportation to any eligible place in Alaska for which DOT has not determined the level of essential air service so that the service between that place and every other place served by a certificated carrier is either:
 
@@ -48,7 +48,7 @@ As used in this part:
 
 \(b\) \[Reserved\]
 
-\(c\) *Uncertificated carriers.* The notice described in §323.4(a) shall be filed by any uncertificated carrier that intends to terminate, suspend, or reduce:
+\(c\) *Uncertificated carriers.* The notice described in [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.4   Contents of notices.|§323.4]](a) shall be filed by any uncertificated carrier that intends to terminate, suspend, or reduce:
 
 \(1\) Air transportation so that any eligible place receives less than the level of essential air service determined by the DOT;
 
@@ -72,7 +72,7 @@ As used in this part:
 
 ### §323.4   Contents of notices.
 
-\(a\) The notice required under §323.3 (a) and (c) shall contain:
+\(a\) The notice required under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] (a) and (c) shall contain:
 
 \(1\) Identification of the carrier, including address and telephone number.
 
@@ -96,9 +96,9 @@ As used in this part:
 
 \(ii\) If such a determination has not been made, and the place is an eligible place, a statement whether the intended termination, suspension, or reduction reasonably appears to deprive the place of essential air service, and an explanation.
 
-\(6\) If the place is an eligible place, the calendar date when objections are due under §323.10.
+\(6\) If the place is an eligible place, the calendar date when objections are due under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.10   Time for filing objections.|§323.10]].
 
-\(7\) Proof of service upon all persons specified in §323.7(a). The proof of service shall include the names of all carriers served and the names and addresses of all other persons served.
+\(7\) Proof of service upon all persons specified in [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.7   Service of notices.|§323.7]](a). The proof of service shall include the names of all carriers served and the names and addresses of all other persons served.
 
 \(b\) \[Reserved\]
 
@@ -110,19 +110,19 @@ As used in this part:
 
 ### §323.5   Time for filing notices.
 
-\(a\) Except as specified by paragraph (b) of this section, a notice required by §323.3 shall be filed at least:
+\(a\) Except as specified by paragraph (b) of this section, a notice required by [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] shall be filed at least:
 
 \(1\) 90 days before the intended termination, suspension, or reduction, if it is filed by a certificated carrier or by an uncertificated carrier receiving compensation under 49 U.S.C. 41731-41742 for service to the place;
 
 \(2\) 30 days before the intended termination, suspension, or reduction, if it is filed by an uncertificated carrier not receiving compensation under section 419 of the Act for service to the place.
 
-\(b\) The notice required by §323.3(a)(3) shall be filed at least 30 days, and the notice required by §323.3(a)(1) shall be filed at least 60 days, before the intended termination or suspension.
+\(b\) The notice required by [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]](a)(3) shall be filed at least 30 days, and the notice required by [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]](a)(1) shall be filed at least 60 days, before the intended termination or suspension.
 
 \[Doc. No. 82, 50 FR 2430, Jan. 16, 1985, as amended by Doc. No. OST-96-1269, 61 FR 19165, 19166, May 1, 1996\]
 
 ### §323.6   General requirements for notices.
 
-\(a\) Each notice filed under this part shall, unless otherwise specified, conform to the procedural rules of general applicability in subpart A of part 302 of this chapter.
+\(a\) Each notice filed under this part shall, unless otherwise specified, conform to the procedural rules of general applicability in subpart A of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]].
 
 \(b\) Each notice filed under this part shall be titled to indicate the place(s) involved, and to indicate whether it is a 30-, 60-, or 90-day notice and whether it involves a termination, a suspension, or a reduction of air transportation.
 
@@ -130,7 +130,7 @@ As used in this part:
 
 ### §323.7   Service of notices.
 
-\(a\) A copy of each notice required by §323.3 shall be served upon:
+\(a\) A copy of each notice required by [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] shall be served upon:
 
 \(1\) The chief executive of the principal city or other unit of local government at the affected place. The principal city is the one named, or previously named, in the section 41102 certificate by virtue of which the place qualifies as an eligible place. For places in Alaska or Hawaii that are designated as eligible places without having been listed on a section 41102 certificate, the principal city is the most populous municipality at the place.
 
@@ -156,7 +156,7 @@ As used in this part:
 
 ### §323.8   Exemptions.
 
-Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to the extent that those provisions require them to file a notice when terminating or suspending the domestic leg of an international flight (fill-up service).
+Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] to the extent that those provisions require them to file a notice when terminating or suspending the domestic leg of an international flight (fill-up service).
 
 \[Doc. No. OST-96-1269, 61 FR 19166, May 1, 1996\]
 
@@ -198,7 +198,7 @@ Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to t
 
 \(b\) The Department may accept late-filed objections, upon motion, for good cause shown.
 
-\(c\) Whenever a notice has been filed earlier than required under §323.5, the Department may extend the time for filing an objection to that notice.
+\(c\) Whenever a notice has been filed earlier than required under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.5   Time for filing notices.|§323.5]], the Department may extend the time for filing an objection to that notice.
 
 ### §323.11   Answers to objections.
 
@@ -216,7 +216,7 @@ Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to t
 
 ### §323.12   General requirements for objections and answers.
 
-\(a\) Each objection and answer filed under this part shall, unless otherwise specified, conform to the procedural rules of general applicability in subpart A of part 302 of this chapter.
+\(a\) Each objection and answer filed under this part shall, unless otherwise specified, conform to the procedural rules of general applicability in subpart A of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]].
 
 \(b\) Each objection shall be titled “Objection to Termination, Suspension, or Reduction of Air Service,” and shall identify the notice to which it responds. Each answer shall be titled “Answer to Objection to Termination, Suspension, or Reduction of Air Service,” and shall identify the objection to which it responds.
 
@@ -224,11 +224,11 @@ Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to t
 
 \(a\) If an objection has been filed under this part, DOT will dispose of the objection by order.
 
-\(b\) If no objection has been filed within the time allowed by §323.10(a), DOT may:
+\(b\) If no objection has been filed within the time allowed by [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.10   Time for filing objections.|§323.10]](a), DOT may:
 
 \(1\) By order prohibit a termination, suspension, or reduction that reasonably appears to deprive any eligible place of essential air transportation;
 
-\(2\) Issue a notice or a final order that it will take no action on a notice filed under §323.3; or
+\(2\) Issue a notice or a final order that it will take no action on a notice filed under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]]; or
 
 \(3\) Take no action.
 
@@ -236,7 +236,7 @@ Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to t
 
 ### §323.14   Temporary suspension authority for involuntary interruption of service.
 
-\(a\) Any air carrier may temporarily suspend service without filing a notice under §323.3 for any interruption of service that the carrier cannot reasonably be expected to foresee or control, such as rules, standards, or other action, or inaction, of the Administrator of the Federal Aviation Administration or of a foreign government, emergency measures, strikes, weather conditions, construction work on airports, or disasters. However, the provisions of this paragraph shall apply to interruptions due to airport inadequacies only if the carrier is unable to serve the place through any airport convenient to the place with the type of equipment last regularly used to serve the place.
+\(a\) Any air carrier may temporarily suspend service without filing a notice under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] for any interruption of service that the carrier cannot reasonably be expected to foresee or control, such as rules, standards, or other action, or inaction, of the Administrator of the Federal Aviation Administration or of a foreign government, emergency measures, strikes, weather conditions, construction work on airports, or disasters. However, the provisions of this paragraph shall apply to interruptions due to airport inadequacies only if the carrier is unable to serve the place through any airport convenient to the place with the type of equipment last regularly used to serve the place.
 
 \(b\) In the case of an interruption of service caused by a strike, the carrier shall give immediate notice of the interruption to DOT. Suspension authority under this section due to a strike shall expire 90 days after employees return to work.
 
@@ -260,7 +260,7 @@ Carriers are exempted from paragraphs (a)(1), (a)(3), and (a)(5) of §323.3 to t
 
 ### §323.16   Listings in schedule publications.
 
-Each air carrier filing a notice under §323.3 (a)(2), (a)(4), (a)(5), or (c) shall continue to list the affected flights in all generally-distributed schedule publications in which the flight was listed before the notice. The listings shall continue until DOT permits the flights to be discontinued. The listings may include a notice stating that the flights are “to be discontinued as of (date) subject to government approval.”
+Each air carrier filing a notice under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.3   Who shall file notices.|§323.3]] (a)(2), (a)(4), (a)(5), or (c) shall continue to list the affected flights in all generally-distributed schedule publications in which the flight was listed before the notice. The listings shall continue until DOT permits the flights to be discontinued. The listings may include a notice stating that the flights are “to be discontinued as of (date) subject to government approval.”
 
 ### §323.17   Delays in discontinuing service.
 

@@ -72,9 +72,9 @@ The holding out or sale of scheduled passenger air transportation involving a co
 
 \(b\) Compliance with the following sections is mandatory as of August 25, 1999:
 
-\(1\) §257.1, §257.2, §257.3, §257.4, §257.5(d), and §257.6.
+\(1\) [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.1   Purpose.|§257.1]], [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.2   Applicability.|§257.2]], [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.3   Definitions.|§257.3]], [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.4   Unfair and deceptive practice.|§257.4]], [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.5   Notice requirement.|§257.5]](d), and [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.6   Effective and compliance dates.|§257.6]].
 
-\(2\) §257.5(b) to the extent that it requires sellers of air transportation to give consumers oral notice before booking transportation involving a code-share arrangement
+\(2\) [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.5   Notice requirement.|§257.5]](b) to the extent that it requires sellers of air transportation to give consumers oral notice before booking transportation involving a code-share arrangement
 
 \(i\) Of the fact that the selling carrier is not the transporting carrier and
 
@@ -82,9 +82,9 @@ The holding out or sale of scheduled passenger air transportation involving a co
 
 \(c\) Compliance with the following sections is mandatory as of March 15, 2000:
 
-\(1\) §257.5(a) and §257.5(c) in their entirety.
+\(1\) [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.5   Notice requirement.|§257.5]](a) and [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.5   Notice requirement.|§257.5]](c) in their entirety.
 
-\(2\) §257.5(b) insofar as it requires sellers of air transportation to give consumers
+\(2\) [[Volume 4/A Economic regulations/0257 Disclosure of code-sharing arrangements and long-term wet leases.md#§257.5   Notice requirement.|§257.5]](b) insofar as it requires sellers of air transportation to give consumers
 
 \(i\) Oral notice before booking transportation involving a code-share arrangement of the transporting carrier's corporate name and any other name under which the service is held out to the public and
 

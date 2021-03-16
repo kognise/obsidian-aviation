@@ -42,7 +42,7 @@ Direct air carriers are exempted from the requirement to file cargo tariffs with
 
 ### §292.20   Rule of construction.
 
-Carriers holding an effective exemption from the duty to file tariffs under this part shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], *except* as provided in §292.21 of this part.
+Carriers holding an effective exemption from the duty to file tariffs under this part shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], *except* as provided in [[Volume 4/A Economic regulations/0292 International cargo transportation.md#§292.21   Incorporation of contract terms by reference.|§292.21]] of this part.
 
 ### §292.21   Incorporation of contract terms by reference.
 
@@ -60,6 +60,6 @@ Carriers holding an effective exemption from the duty to file tariffs under this
 
 \(b\) As of March 1, 1996, all remaining cargo tariffs on file with the Department cease to be effective as tariffs under 49 U.S.C. 41504 and the provisions of [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], and are cancelled by operation of law. Any such tariffs may be cancelled voluntarily prior to that date. With respect to terms expressly agreed in the contract of carriage, carriers, agents and other persons are relieved from the requirement of adherence to filed tariffs in 49 U.S.C. 41510 and the related provisions of [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]] as of November 30, 1995.
 
-\(c\) Applications for filing and/or effectiveness of any cargo tariffs pending on November 30, 1995 are dismissed by operation of law. No new filings or applications will be permitted except as provided under §292.11.
+\(c\) Applications for filing and/or effectiveness of any cargo tariffs pending on November 30, 1995 are dismissed by operation of law. No new filings or applications will be permitted except as provided under [[Volume 4/A Economic regulations/0292 International cargo transportation.md#§292.11   Revocation of exemption.|§292.11]].
 
 </div>

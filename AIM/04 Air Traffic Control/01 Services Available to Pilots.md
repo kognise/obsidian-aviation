@@ -158,7 +158,7 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
 
         <em>**CAUTION-**</em>
 
-        <em> **All aircraft in the vicinity of an airport may not be in communication with the FSS.**</em>
+        <em> ****All aircraft in the vicinity of an airport may not be in communication with the FSS.****</em>
 
         </div>
 5.  **Information Provided by Aeronautical Advisory Stations (UNICOM)**
@@ -557,8 +557,8 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
         2.  Visual separation.
         3.  Target resolution (a process to ensure that correlated radar targets do not touch).
     7.  Participating pilots operating VFR in a TRSA:
-        1.  Must maintain an altitude when assigned by ATC unless the altitude assignment is to maintain at or below a specified altitude. ATC may assign altitudes for separation that do not conform to 14 CFR Section 91.159. When the altitude assignment is no longer needed for separation or when leaving the TRSA, the instruction will be broadcast, “RESUME APPROPRIATE VFR ALTITUDES.” Pilots must then return to an altitude that conforms to 14 CFR Section 91.159 as soon as practicable.
-        2.  When not assigned an altitude,[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]]rdinate with ATC prior to any altitude change.
+        1.  Must maintain an altitude when assigned by ATC unless the altitude assignment is to maintain at or below a specified altitude. ATC may assign altitudes for separation that do not conform to 14 CFR Section 91.159. When the altitude assignment is no longer needed for separation or when leaving the TRSA, the instruction will be broadcast, “RESUME APPROPRIATE VFR ALTITUDES.” Pilots must then return to an altitude that conforms to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]] as soon as practicable.
+        2.  When not assigned an altitude, the pilot should coordinate with ATC prior to any altitude change.
     8.  Within the TRSA, traffic information on observed but unidentified targets will, to the extent possible, be provided to all IFR and participating VFR aircraft. The pilot will be vectored upon request to avoid the observed traffic, provided the aircraft to be vectored is within the airspace under the jurisdiction of the controller.
     9.  Departing aircraft should inform ATC of their intended destination and/or route of flight and proposed cruising altitude.
     10. ATC will normally advise participating VFR aircraft when leaving the geographical limits of the TRSA. Radar service is not automatically terminated with this advisory unless specifically stated by the controller.
@@ -590,7 +590,7 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
         1.  **Departures.** Select the transponder mode which allows altitude reporting and enable ADS-B during pushback or taxi-out from parking spot. Select TA or TA/RA (if equipped with TCAS) when taking the active runway.
         2.  **Arrivals.** If TCAS equipped, deselect TA or TA/RA upon leaving the active runway, but continue transponder and ADS-B transmissions in the altitude reporting mode. Select STBY or OFF for transponder and ADS-B upon arriving at the aircraft's parking spot or gate.
     4.  **Transponder and ADS-B Operations While Airborne.**
-        1.  Unless otherwise requested by ATC, aircraft equipped with an ATC transponder maintained in accordance with 14 CFR Section 91.413 MUST operate with this equipment on the appropriate Mode 3/A code, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.413   ATC transponder tests and inspections.|14 CFR Section 91.413]]gned by ATC, and with altitude reporting enabled whenever in controlled airspace. If practicable, aircraft SHOULD operate with the transponder enabled in uncontrolled airspace.
+        1.  Unless otherwise requested by ATC, aircraft equipped with an ATC transponder maintained in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.413   ATC transponder tests and inspections.|14 CFR Section 91.413]] MUST operate with this equipment on the appropriate Mode 3/A code, or other code as assigned by ATC, and with altitude reporting enabled whenever in controlled airspace. If practicable, aircraft SHOULD operate with the transponder enabled in uncontrolled airspace.
         2.  Aircraft equipped with ADS-B Out MUST operate with this equipment in the transmit mode at all times, unless otherwise requested by ATC.
         3.  When participating in a VFR formation flight that is not receiving ATC services, only the lead aircraft should operate their transponder and ADS-B Out. All other aircraft should disable transponder and ADS-B transmissions once established within the formation.
             <div>
@@ -629,7 +629,7 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
         </div>
 3.  **Automatic Altitude Reporting**
     1.  Most transponders (Modes C and S) and all ADS-B Out systems are capable of automatic altitude reporting. This system converts aircraft altitude in 100-foot increments to coded digital information that is transmitted to the appropriate surveillance facility as well as to ADS-B In and TCAS systems.
-    2.  Adjust the transponder/ADS-B to reply on the Mode 3/A code specified by ATC and with altitude reporting enabled, unless otherwise directed by ATC or unless the altitude reporting equipment has not been tested and calibrated as required by 14 CFR Section 91.217. If deactivation is required by ATC, turn off the altitude reportin[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.217   Data correspondence between automatically reported pressure altitude data and the pilot's altitude reference.|14 CFR Section 91.217]]nsponder/ADS-B. An instruction by ATC to “STOP ALTITUDE SQUAWK, ALTITUDE DIFFERS BY (number of feet) FEET,” may be an indication that the transmitted altitude information is incorrect, or that the aircraft's altimeter setting is incorrect. While an incorrect altimeter setting has no effect on the transmitted altitude information, it will cause the aircraft to fly at a true altitude different from the assigned altitude. When a controller indicates that an altitude readout is invalid, the pilot should verify that the aircraft altimeter is set correctly.
+    2.  Adjust the transponder/ADS-B to reply on the Mode 3/A code specified by ATC and with altitude reporting enabled, unless otherwise directed by ATC or unless the altitude reporting equipment has not been tested and calibrated as required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.217   Data correspondence between automatically reported pressure altitude data and the pilot's altitude reference.|14 CFR Section 91.217]]. If deactivation is required by ATC, turn off the altitude reporting feature of your transponder/ADS-B. An instruction by ATC to “STOP ALTITUDE SQUAWK, ALTITUDE DIFFERS BY (number of feet) FEET,” may be an indication that the transmitted altitude information is incorrect, or that the aircraft's altimeter setting is incorrect. While an incorrect altimeter setting has no effect on the transmitted altitude information, it will cause the aircraft to fly at a true altitude different from the assigned altitude. When a controller indicates that an altitude readout is invalid, the pilot should verify that the aircraft altimeter is set correctly.
         <div>
 
         <em>**NOTE-**</em>
@@ -656,13 +656,13 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
 
             <em>**NOTE-**</em>
 
-            <em>The airspace described in (e) above is specified in 14 CFR § 91.225 for ADS-B Out requirements. However, 14 CFR § 91.215 does not include thi[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|14 CFR § 91.225]]ATC transponder requirements.</em>
+            <em>The airspace described in (e) above is specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.225   Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use.|14 CFR § 91.225]] for ADS-B Out requirements. However, [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|14 CFR § 91.215]] does not include this airspace for ATC transponder requirements.</em>
 
-[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|14 CFR § 91.215]]iv>
+            </div>
         6.  Transponder and ADS-B Out requirements do not apply to any aircraft that was not originally certificated with an electrical system, or that has not subsequently been certified with such a system installed, including balloons and gliders. These aircraft may conduct operations without a transponder or ADS-B Out when operating:
             1.  Outside any Class B or Class C airspace area; and
             2.  Below the altitude of the ceiling of a Class B or Class C airspace area designated for an airport, or 10,000 feet MSL, whichever is lower.
-    3.  14 CFR Section 99.13 requires all aircraft flying into, within, or across the contiguous [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.13   Transponder-on requirements.|14 CFR Section 99.13]]d with a Mode C or Mode S transponder. Balloons, gliders and aircraft not equipped with an engine-driven electrical system are excepted from this requirement.
+    3.  [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.13   Transponder-on requirements.|14 CFR Section 99.13]] requires all aircraft flying into, within, or across the contiguous U.S. ADIZ be equipped with a Mode C or Mode S transponder. Balloons, gliders and aircraft not equipped with an engine-driven electrical system are excepted from this requirement.
         <div>
 
         <em>**REFERENCE-**</em>

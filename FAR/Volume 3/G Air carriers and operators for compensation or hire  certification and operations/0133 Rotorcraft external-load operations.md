@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.133](https://www.ecfr
 
 ### §133.1   Applicability.
 
-Except for aircraft subject to part 107 of this chapter, this part prescribes—
+Except for aircraft subject to [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]], this part prescribes—
 
 \(a\) Airworthiness certification rules for rotorcraft used in; and
 
@@ -34,7 +34,7 @@ Except for aircraft subject to part 107 of this chapter, this part prescribes—
 
 ### §133.11   Certificate required.
 
-\(a\) No person subject to this part may conduct rotorcraft external-load operations within the United States without, or in violation of the terms of, a Rotorcraft External-Load Operator Certificate issued by the Administrator under §133.17.
+\(a\) No person subject to this part may conduct rotorcraft external-load operations within the United States without, or in violation of the terms of, a Rotorcraft External-Load Operator Certificate issued by the Administrator under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.17   Requirements for issuance of a rotorcraft external-load operator certificate.|§133.17]].
 
 \(b\) No person holding a Rotorcraft External-Load Operator Certificate may conduct rotorcraft external-load operations subject to this part under a business name that is not on that certificate.
 
@@ -48,7 +48,7 @@ Unless sooner surrendered, suspended, or revoked, a Rotorcraft External-Load Ope
 
 ### §133.14   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
 
-If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of §91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter, that operation is a basis for suspending or revoking the certificate.
 
 \[Doc. No. 12035, 38 FR 17493, July 2, 1973, as amended by Amdt. 133-10, 54 FR 34332, Aug. 18, 1989\]
 
@@ -60,13 +60,13 @@ Application for an original certificate or renewal of a certificate issued under
 
 ### §133.17   Requirements for issuance of a rotorcraft external-load operator certificate.
 
-If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.
+If an applicant shows that he complies with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]], 133.21, and 133.23, the Administrator issues a Rotorcraft External-Load Operator Certificate to him with an authorization to operate specified rotorcraft with those classes of rotorcraft-load combinations for which he complies with the applicable provisions of subpart D of this part.
 
 ### §133.19   Rotorcraft.
 
 \(a\) The applicant must have the exclusive use of at least one rotorcraft that—
 
-\(1\) Was type certificated under, and meets the requirements of, part 27 or 29 of this chapter (but not necessarily with external-load-carrying attaching means installed) or of §21.25 of this chapter for the special purpose of rotorcraft external-load operations;
+\(1\) Was type certificated under, and meets the requirements of, part 27 or 29 of this chapter (but not necessarily with external-load-carrying attaching means installed) or of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.25   Issue of type certificate: Restricted category aircraft.|§21.25]] of this chapter for the special purpose of rotorcraft external-load operations;
 
 \(2\) Complies with the certification provisions in subpart D of this part that apply to the rotorcraft-load combinations for which authorization is requested; and
 
@@ -78,11 +78,11 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 ### §133.21   Personnel.
 
-\(a\) The applicant must hold, or have available the services of at least one person who holds, a current commercial or airline transport pilot certificate, with a rating appropriate for the rotorcraft prescribed in §133.19, issued by the Administrator.
+\(a\) The applicant must hold, or have available the services of at least one person who holds, a current commercial or airline transport pilot certificate, with a rating appropriate for the rotorcraft prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]], issued by the Administrator.
 
-\(b\) The applicant must designate one pilot, who may be the applicant, as chief pilot for rotorcraft external-load operations. The applicant also may designate qualified pilots as assistant chief pilots to perform the functions of the chief pilot when the chief pilot is not readily available. The chief pilot and assistant chief pilots must be acceptable to the Administrator and each must hold a current Commercial or Airline Transport Pilot Certificate, with a rating appropriate for the rotorcraft prescribed in §133.19.
+\(b\) The applicant must designate one pilot, who may be the applicant, as chief pilot for rotorcraft external-load operations. The applicant also may designate qualified pilots as assistant chief pilots to perform the functions of the chief pilot when the chief pilot is not readily available. The chief pilot and assistant chief pilots must be acceptable to the Administrator and each must hold a current Commercial or Airline Transport Pilot Certificate, with a rating appropriate for the rotorcraft prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]].
 
-\(c\) The holder of a Rotorcraft External-Load Operator Certificate shall report any change in designation of chief pilot or assistant chief pilot immediately to the responsible Flight Standards office. The new chief pilot must be designated and must comply with §133.23 within 30 days or the operator may not conduct further operations under the Rotorcraft External-Load Operator Certificate unless otherwise authorized by the responsible Flight Standards office.
+\(c\) The holder of a Rotorcraft External-Load Operator Certificate shall report any change in designation of chief pilot or assistant chief pilot immediately to the responsible Flight Standards office. The new chief pilot must be designated and must comply with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.23   Knowledge and skill.|§133.23]] within 30 days or the operator may not conduct further operations under the Rotorcraft External-Load Operator Certificate unless otherwise authorized by the responsible Flight Standards office.
 
 \[Doc. No. 1529, 29 FR 603, Jan. 24, 1964, as amended by Amdt. 133-9, 51 FR 40707, Nov. 7, 1986; Docket FAA-2018-0119, Amdt. 133-16, 83 FR 9174, Mar. 5, 2018\]
 
@@ -102,7 +102,7 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 ### §133.23   Knowledge and skill.
 
-\(a\) Except as provided in paragraph (d) of this section, the applicant, or the chief pilot designated in accordance with §133.21(b), must demonstrate to the Administrator satisfactory knowledge and skill regarding rotorcraft external-load operations as set forth in paragraphs (b) and (c) of this section.
+\(a\) Except as provided in paragraph (d) of this section, the applicant, or the chief pilot designated in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.21   Personnel.|§133.21]](b), must demonstrate to the Administrator satisfactory knowledge and skill regarding rotorcraft external-load operations as set forth in paragraphs (b) and (c) of this section.
 
 \(b\) The test of knowledge (which may be oral or written, at the option of the applicant) covers the following subjects:
 
@@ -116,7 +116,7 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 \(5\) Appropriate rotorcraft-load combination flight manual.
 
-\(c\) The test of skill requires appropriate maneuvers for each class requested. The appropriate maneuvers for each load class must be demonstrated in the rotorcraft prescribed in §133.19.
+\(c\) The test of skill requires appropriate maneuvers for each class requested. The appropriate maneuvers for each load class must be demonstrated in the rotorcraft prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]].
 
 \(1\) Takeoffs and landings.
 
@@ -138,7 +138,7 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 ### §133.25   Amendment of certificate.
 
-\(a\) The holder of a Rotorcraft External-Load Certificate may apply to the responsible Flight Standards office for the area in which the applicant's home base of operation is located, or to the responsible Flight Standards office for the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with §§133.19 and 133.49, the responsible Flight Standards office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
+\(a\) The holder of a Rotorcraft External-Load Certificate may apply to the responsible Flight Standards office for the area in which the applicant's home base of operation is located, or to the responsible Flight Standards office for the area in which operations are to be conducted, for an amendment of the applicant's certificate, to add or delete a rotorcraft-load combination authorization, by executing the appropriate portion of the form used in applying for a Rotorcraft External-Load Operator Certificate. If the applicant for the amendment shows compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]] and 133.49, the responsible Flight Standards office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
 
 \(b\) The holder of a rotorcraft external-load certificate may apply for an amendment to add or delete a rotorcraft authorization by submitting to the responsible Flight Standards office a new list of rotorcraft, by registration number, with the classes of rotorcraft-load combinations for which authorization is requested.
 
@@ -166,11 +166,11 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 ### §133.33   Operating rules.
 
-\(a\) No person may conduct a rotorcraft external-load operation without, or contrary to, the Rotorcraft-Load Combination Flight Manual prescribed in §133.47.
+\(a\) No person may conduct a rotorcraft external-load operation without, or contrary to, the Rotorcraft-Load Combination Flight Manual prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.47   Rotorcraft-load combination flight manual.|§133.47]].
 
 \(b\) No person may conduct a rotorcraft external-load operation unless—
 
-\(1\) The rotorcraft complies with §133.19; and
+\(1\) The rotorcraft complies with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.19   Rotorcraft.|§133.19]]; and
 
 \(2\) The rotorcraft and rotorcraft-load combination is authorized under the Rotorcraft External-Load Operator Certificate.
 
@@ -188,13 +188,13 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 \(6\) Increase the forward airspeed and determine an operational airspeed at which no hazardous oscillation or hazardous aerodynamic turbulence is encountered.
 
-\(d\) Notwithstanding the provisions of part 91 of this chapter, the holder of a Rotorcraft External-Load Operator Certificate may conduct (in rotorcraft type certificated under and meeting the requirements of part 27 or 29 of this chapter, including the external-load attaching means) rotorcraft external-load operations over congested areas if those operations are conducted without hazard to persons or property on the surface and comply with the following:
+\(d\) Notwithstanding the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], the holder of a Rotorcraft External-Load Operator Certificate may conduct (in rotorcraft type certificated under and meeting the requirements of part 27 or 29 of this chapter, including the external-load attaching means) rotorcraft external-load operations over congested areas if those operations are conducted without hazard to persons or property on the surface and comply with the following:
 
 \(1\) The operator must develop a plan for each complete operation, coordinate this plan with the responsible Flight Standards office for the area in which the operation will be conducted, and obtain approval for the operation from that office. The plan must include an agreement with the appropriate political subdivision that local officials will exclude unauthorized persons from the area in which the operation will be conducted, coordination with air traffic control, if necessary, and a detailed chart depicting the flight routes and altitudes.
 
 \(2\) Each flight must be conducted at an altitude, and on a route, that will allow a jettisonable external load to be released, and the rotorcraft landed, in an emergency without hazard to persons or property on the surface.
 
-\(e\) Notwithstanding the provisions of part 91 of this chapter, and except as provided in §133.45(d), the holder of a Rotorcraft External-Load Operator Certificate may conduct external-load operations, including approaches, departures, and load positioning maneuvers necessary for the operation, below 500 feet above the surface and closer than 500 feet to persons, vessels, vehicles, and structures, if the operations are conducted without creating a hazard to persons or property on the surface.
+\(e\) Notwithstanding the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], and except as provided in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.45   Operating limitations.|§133.45]](d), the holder of a Rotorcraft External-Load Operator Certificate may conduct external-load operations, including approaches, departures, and load positioning maneuvers necessary for the operation, below 500 feet above the surface and closer than 500 feet to persons, vessels, vehicles, and structures, if the operations are conducted without creating a hazard to persons or property on the surface.
 
 \(f\) No person may conduct rotorcraft external-load operations under IFR unless specifically approved by the Administrator. However, under no circumstances may a person be carried as part of the external-load under IFR.
 
@@ -220,7 +220,7 @@ If an applicant shows that he complies with §§133.19, 133.21, and 133.23, the 
 
 \(a\) No certificate holder may use, nor may any person serve, as a pilot in operations conducted under this part unless that person—
 
-\(1\) Has successfully demonstrated, to the Administrator knowledge and skill with respect to the rotorcraft-load combination in accordance with §133.23 (in the case of a pilot other than the chief pilot or an assistant chief pilot who has been designated in accordance with §133.21(b), this demonstration may be made to the chief pilot or assistant chief pilot); and
+\(1\) Has successfully demonstrated, to the Administrator knowledge and skill with respect to the rotorcraft-load combination in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.23   Knowledge and skill.|§133.23]] (in the case of a pilot other than the chief pilot or an assistant chief pilot who has been designated in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.21   Personnel.|§133.21]](b), this demonstration may be made to the chief pilot or assistant chief pilot); and
 
 \(2\) Has in his or her personal possession a letter of competency or an appropriate logbook entry indicating compliance with paragraph (a)(1) of this section.
 
@@ -288,7 +288,7 @@ Each person conducting an operation under this part shall allow the Administrato
 
 \(2\) Part 133, before February 1, 1977; or
 
-\(3\) Section 21.25 of this chapter, except the device must comply with §§27.865(b) and 29.865(b), as applicable, of this chapter.
+\(3\) Section 21.25 of this chapter, except the device must comply with §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.865   External loads.|§27.865]](b) and 29.865(b), as applicable, of this chapter.
 
 \(c\) *Weight and center of gravity*—
 
@@ -302,13 +302,13 @@ Each person conducting an operation under this part shall allow the Administrato
 
 In addition to the operating limitations set forth in the approved Rotorcraft Flight Manual, and to any other limitations the Administrator may prescribe, the operator shall establish at least the following limitations and set them forth in the Rotorcraft-Load Combination Flight Manual for rotorcraft-load combination operations:
 
-\(a\) The rotorcraft-load combination may be operated only within the weight and center of gravity limitations established in accordance with §133.43(c).
+\(a\) The rotorcraft-load combination may be operated only within the weight and center of gravity limitations established in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.43   Structures and design.|§133.43]](c).
 
-\(b\) The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with §§133.41 and 133.43.
+\(b\) The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] and 133.43.
 
-\(c\) The rotorcraft-load combination may not be operated at airspeeds greater than those established in accordance with §133.41 (b), (c), and (d).
+\(c\) The rotorcraft-load combination may not be operated at airspeeds greater than those established in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] (b), (c), and (d).
 
-\(d\) No person may conduct an external-load operation under this part with a rotorcraft type certificated in the restricted category under §21.25 of this chapter over a densely populated area, in a congested airway, or near a busy airport where passenger transport operations are conducted.
+\(d\) No person may conduct an external-load operation under this part with a rotorcraft type certificated in the restricted category under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.25   Issue of type certificate: Restricted category aircraft.|§21.25]] of this chapter over a densely populated area, in a congested airway, or near a busy airport where passenger transport operations are conducted.
 
 \(e\) The rotorcraft-load combination of Class D may be conducted only in accordance with the following:
 
@@ -328,7 +328,7 @@ The applicant must prepare a Rotorcraft-Load Combination Flight Manual and submi
 
 \(a\) Operating limitations, procedures (normal and emergency), performance, and other information established under this subpart;
 
-\(b\) The class of rotorcraft-load combinations for which the airworthiness of the rotorcraft has been demonstrated in accordance with §§133.41 and 133.43; and
+\(b\) The class of rotorcraft-load combinations for which the airworthiness of the rotorcraft has been demonstrated in accordance with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.41   Flight characteristics requirements.|§133.41]] and 133.43; and
 
 \(c\) In the information section of the Rotorcraft-Load Combination Flight Manual—
 
@@ -344,9 +344,9 @@ The applicant must prepare a Rotorcraft-Load Combination Flight Manual and submi
 
 The following markings and placards must be displayed conspicuously and must be such that they cannot be easily erased, disfigured, or obscured:
 
-\(a\) A placard (displayed in the cockpit or cabin) stating the class of rotorcraft-load combination for which the rotorcraft has been approved and the occupancy limitation prescribed in §133.35(a).
+\(a\) A placard (displayed in the cockpit or cabin) stating the class of rotorcraft-load combination for which the rotorcraft has been approved and the occupancy limitation prescribed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.35   Carriage of persons.|§133.35]](a).
 
-\(b\) A placard, marking, or instruction (displayed next to the external-load attaching means) stating the maximum external load prescribed as an operating limitation in §133.45(b).
+\(b\) A placard, marking, or instruction (displayed next to the external-load attaching means) stating the maximum external load prescribed as an operating limitation in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.45   Operating limitations.|§133.45]](b).
 
 \[Docket 1529, Amdt. 133-9A, 81 FR 85138, Nov. 25, 2016\]
 

@@ -46,7 +46,7 @@ This part applies to cargo operations in interstate air transportation by air ca
 
 ### §291.10   Applications.
 
-Applications for all-cargo air service certificates shall comply with the provisions of part 201 and subpart B of part 302 of this chapter with regard to filing procedures, and with the provisions of part 204 of this chapter with regard to evidentiary requirements.
+Applications for all-cargo air service certificates shall comply with the provisions of part 201 and subpart B of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] with regard to filing procedures, and with the provisions of [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md|part 204 of this chapter]] with regard to evidentiary requirements.
 
 (Approved by the Office of Management and Budget under control number 2106-0023)
 
@@ -56,13 +56,13 @@ Applications for all-cargo air service certificates shall comply with the provis
 
 ### §291.20   Applicability.
 
-The rules in this subpart apply to cargo operations in interstate air transportation performed by air carriers certificated under sections 41102 or 41103 of 49 U.S.C. Subtitle VII. Section 41103 carriers that operate passenger-only or combination aircraft under section 41102, part 298 of this chapter, or other Department authority, must comply with the rules in this subpart in connection with cargo operations in interstate air transportation, whether provided on all-cargo or combination aircraft, operated pursuant to this authority or otherwise. In case a carrier may operate a particular flight under either a section 41102 certificate or a section 41103 certificate, the flight is presumed to be operated under the carrier's section 41103 authority.
+The rules in this subpart apply to cargo operations in interstate air transportation performed by air carriers certificated under sections 41102 or 41103 of 49 U.S.C. Subtitle VII. Section 41103 carriers that operate passenger-only or combination aircraft under section 41102, [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]], or other Department authority, must comply with the rules in this subpart in connection with cargo operations in interstate air transportation, whether provided on all-cargo or combination aircraft, operated pursuant to this authority or otherwise. In case a carrier may operate a particular flight under either a section 41102 certificate or a section 41103 certificate, the flight is presumed to be operated under the carrier's section 41103 authority.
 
 \[60 FR 43526, Aug. 22, 1995 as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15933, Apr. 16, 2019\]
 
 ### §291.22   Aircraft accident liability insurance requirement.
 
-No air carrier shall operate all-cargo aircraft or provide all-cargo air transportation unless such carrier has and maintains in effect aircraft accident liability coverage that meets the requirements of part 205 of this chapter.
+No air carrier shall operate all-cargo aircraft or provide all-cargo air transportation unless such carrier has and maintains in effect aircraft accident liability coverage that meets the requirements of [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]].
 
 \[ER-1255, 46 FR 52583, Oct. 27, 1981, as amended at 60 FR 43526, Aug. 22, 1995\]
 
@@ -114,15 +114,15 @@ The following exemptions, except as otherwise specifically noted, apply only to 
 
 \(a\) Carriers providing cargo operations in interstate air transportation that also conduct other operations under section 41102 shall comply with the provisions of part 241 of this title.
 
-\(b\) Carriers providing cargo operations in interstate air transportation under section 41103 certificates shall comply with §291.42.
+\(b\) Carriers providing cargo operations in interstate air transportation under section 41103 certificates shall comply with [[Volume 4/A Economic regulations/0291 Cargo operations in interstate air transportation.md#§291.42   Section 41103 financial and traffic reporting.|§291.42]].
 
-\(c\) Carriers providing cargo operations in interstate air transportation under section 41103, and also providing other services under part 298 of this title, shall report their cargo operations in interstate air transportation operations in accordance with §291.42, and shall report all other traffic in accordance with the provisions of subpart F of part 298.
+\(c\) Carriers providing cargo operations in interstate air transportation under section 41103, and also providing other services under part 298 of this title, shall report their cargo operations in interstate air transportation operations in accordance with [[Volume 4/A Economic regulations/0291 Cargo operations in interstate air transportation.md#§291.42   Section 41103 financial and traffic reporting.|§291.42]], and shall report all other traffic in accordance with the provisions of subpart F of part 298.
 
 \[ER-1080, 43 FR 53635, Nov. 16, 1978, as amended at 60 FR 43526, Aug. 22, 1995\]
 
 ### §291.42   Section 41103 financial and traffic reporting.
 
-\(a\) *General instructions.* Carriers operating under section 41103 certificates that are not subject to part 241 of this chapter shall file Form 291-A, “Statement of Operations for Section 41103 Operations”, Schedule T-100, “U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market”, and Schedule P-12(a), “Fuel Consumption by Type of Service and Entity” with the Department's Bureau of Transportation Statistics (BTS).
+\(a\) *General instructions.* Carriers operating under section 41103 certificates that are not subject to [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]] shall file Form 291-A, “Statement of Operations for Section 41103 Operations”, Schedule T-100, “U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market”, and Schedule P-12(a), “Fuel Consumption by Type of Service and Entity” with the Department's Bureau of Transportation Statistics (BTS).
 
 \(1\) A single copy of the BTS Form 291-A report shall be filed annually with the Office of Airline Information (OAI) for the year ended December 31, to be received on or before February 10 of the immediately following year. A single copy of the monthly BTS Schedule P-12(a) is due at OAI within 20 days after the end of each month. An electronic filing of the monthly Schedule T-100 is due at OAI within 30 days after the end of each month. Due dates falling on a Saturday, Sunday or Federal holiday will become effective on the next work day.
 
@@ -186,7 +186,7 @@ Form 291-A contains the following data elements:
 
 ### §291.44   BTS Schedule P-12(a), Fuel Consumption by Type of Service and Entity.
 
-\(a\) For the purposes of BTS schedule P-12(a), type of service shall be either scheduled service or nonscheduled service as those terms are defined in §291.45(c)(2) and (3).
+\(a\) For the purposes of BTS schedule P-12(a), type of service shall be either scheduled service or nonscheduled service as those terms are defined in [[Volume 4/A Economic regulations/0291 Cargo operations in interstate air transportation.md#§291.45   BTS Schedule T-100, U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market.|§291.45]](c)(2) and (3).
 
 \(b\) For the purpose of this schedule, scheduled service shall be reported separately for:
 
@@ -318,7 +318,7 @@ Form 291-A contains the following data elements:
 
 \(25\) *430 Revenue aircraft miles scheduled.* The number of revenue aircraft miles scheduled. All such data shall be maintained in conformity with the airport pairs between which service is scheduled, whether or not in accordance with actual performance.
 
-\(26\) *501 Inter-airport distance.* The great circle distance, in official statute miles as prescribed in part 247 of this chapter, between airports served by each flight stage. Official inter-airport mileage may be obtained from the Office of Airline Information.
+\(26\) *501 Inter-airport distance.* The great circle distance, in official statute miles as prescribed in [[Volume 4/A Economic regulations/0247 Direct airport-to-airport mileage records.md|part 247 of this chapter]], between airports served by each flight stage. Official inter-airport mileage may be obtained from the Office of Airline Information.
 
 \(27\) *510 Revenue aircraft departures performed.* The number of revenue aircraft departures performed.
 

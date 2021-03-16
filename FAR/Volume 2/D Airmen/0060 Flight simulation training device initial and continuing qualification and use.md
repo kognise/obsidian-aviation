@@ -10,7 +10,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.60](https://www.ecfr.
 
 \(b\) The rules of this part apply to each person using or applying to use an FSTD to meet any requirement of this chapter.
 
-\(c\) The requirements of §60.33 regarding falsification of applications, records, or reports also apply to each person who uses an FSTD for training, evaluation, or obtaining flight experience required for flight crewmember certification or qualification under this chapter.
+\(c\) The requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]] regarding falsification of applications, records, or reports also apply to each person who uses an FSTD for training, evaluation, or obtaining flight experience required for flight crewmember certification or qualification under this chapter.
 
 ### §60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.
 
@@ -32,7 +32,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.60](https://www.ecfr.
 
 ### §60.3   Definitions.
 
-In addition to the definitions in part 1 of this chapter, other terms and definitions applicable to this part are found in appendix F of this part.
+In addition to the definitions in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md|part 1 of this chapter]], other terms and definitions applicable to this part are found in appendix F of this part.
 
 ### §60.4   Qualification Performance Standards.
 
@@ -66,13 +66,13 @@ The Qualification Performance Standards (QPS) are published in appendices to thi
 
 \(a\) A person is eligible to apply to be a sponsor of an FSTD if the following conditions are met:
 
-\(1\) The person holds, or is an applicant for, a certificate under part 119, 141, or 142 of this chapter; or holds, or is an applicant for, an approved flight engineer course in accordance with part 63 of this chapter.
+\(1\) The person holds, or is an applicant for, a certificate under part 119, 141, or 142 of this chapter; or holds, or is an applicant for, an approved flight engineer course in accordance with [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]].
 
 \(2\) The FSTD will be used, or will be offered for use, in the sponsor's FAA-approved flight training program for the aircraft being simulated as evidenced in a request for evaluation submitted to the NSPM.
 
 \(b\) A person is a sponsor if the following conditions are met:
 
-\(1\) The person is a certificate holder under part 119, 141, or 142 of this chapter or has an approved flight engineer course in accordance with part 63 of this chapter.
+\(1\) The person is a certificate holder under part 119, 141, or 142 of this chapter or has an approved flight engineer course in accordance with [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]].
 
 \(2\) The person has—
 
@@ -80,7 +80,7 @@ The Qualification Performance Standards (QPS) are published in appendices to thi
 
 \(ii\) Training specifications or an FAA-approved course of training under which at least one FSTD, simulating that aircraft or set of aircraft and for which the person is the sponsor, is used by the sponsor as described in paragraphs (b)(5) or (b)(6) of this section.
 
-\(3\) The person has a quality management system currently approved by the NSPM in accordance with §60.5.
+\(3\) The person has a quality management system currently approved by the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]].
 
 \(4\) The NSPM has accepted the person as the sponsor of the FSTD and that acceptance has not been withdrawn by the FAA.
 
@@ -128,15 +128,15 @@ The Qualification Performance Standards (QPS) are published in appendices to thi
 
 No person may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience to meet any of the requirements under this chapter unless, in accordance with the QPS for the specific device, the FSTD meets all of the following:
 
-\(a\) Has a single sponsor who is qualified under §60.7. The sponsor may arrange with another person for services of document preparation and presentation, as well as FSTD inspection, maintenance, repair, and servicing; however, the sponsor remains responsible for ensuring that these functions are conducted in a manner and with a result of continually meeting the requirements of this part.
+\(a\) Has a single sponsor who is qualified under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]. The sponsor may arrange with another person for services of document preparation and presentation, as well as FSTD inspection, maintenance, repair, and servicing; however, the sponsor remains responsible for ensuring that these functions are conducted in a manner and with a result of continually meeting the requirements of this part.
 
 \(b\) Is qualified as described in the Statement of Qualification.
 
 \(c\) Remains qualified, through satisfactory inspection, continuing qualification evaluations, appropriate maintenance, and use requirements in accordance with this part and the applicable QPS.
 
-\(d\) Functions during day-to-day training, evaluation, or flight experience activities with the software and hardware that was evaluated as satisfactory by the NSPM and, if modified, modified only in accordance with the provisions of this part. However, this section does not apply to routine software or hardware changes that do not fall under the requirements of §60.23.
+\(d\) Functions during day-to-day training, evaluation, or flight experience activities with the software and hardware that was evaluated as satisfactory by the NSPM and, if modified, modified only in accordance with the provisions of this part. However, this section does not apply to routine software or hardware changes that do not fall under the requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]].
 
-\(e\) Is operated in accordance with the provisions and limitations of §60.25.
+\(e\) Is operated in accordance with the provisions and limitations of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]].
 
 ### §60.13   FSTD objective data requirements.
 
@@ -160,7 +160,7 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(a\) For each FSTD, the sponsor must submit a request to the NSPM to evaluate the FSTD for initial qualification at a specific level and simultaneously request the Training Program Approval Authority (TPAA) forward a concurring letter to the NSPM. The request must be submitted in the form and manner described in the applicable QPS.
 
-\(b\) The management representative described in §60.9(c) must sign a statement (electronic signature is acceptable for electronic transmissions) after confirming the following:
+\(b\) The management representative described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](c) must sign a statement (electronic signature is acceptable for electronic transmissions) after confirming the following:
 
 \(1\) The performance and handling qualities of the FSTD represent those of the aircraft or set of aircraft within the normal operating envelope. This determination must be made by a pilot(s) meeting the requirements of paragraph (d) of this section after having flown all of the Operations Tasks listed in the applicable QPS appendix relevant to the qualification level of the FSTD. Exceptions, if any, must be noted. The name of the person(s) making this determination must be available to the NSPM upon request.
 
@@ -168,7 +168,7 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(3\) The cockpit represents the configuration of the specific type; or aircraft make, model, and series aircraft being simulated, as appropriate. This determination must be made by the pilot(s) described in paragraph (b)(1) of this section, or by a person(s) trained on the configuration and operation of the aircraft simulated. Exceptions, if any, must be noted. The name of the person(s) making this determination must be available to the NSPM upon request.
 
-\(c\) Except for those FSTDs previously qualified and described in §60.17, each FSTD evaluated for initial qualification must meet the standard that is in effect at the time of the evaluation. However—
+\(c\) Except for those FSTDs previously qualified and described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]], each FSTD evaluated for initial qualification must meet the standard that is in effect at the time of the evaluation. However—
 
 \(1\) If the FAA publishes a change to the existing standard or publishes a new standard for the evaluation for initial qualification, a sponsor may request that the NSPM apply the standard that was in effect when an FSTD was ordered for delivery if the sponsor—
 
@@ -192,7 +192,7 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(iii\) Deviations may be issued to an FSTD manufacturer for the initial qualification of multiple FSTDs, subject to terms and limitations as determined by Administrator. Approved deviations will become a part of the permanent qualification basis of the individual FSTD and will be noted in the FSTD's Statement of Qualification.
 
-\(iv\) If the FAA publishes a change to the existing part 60 standards as described in paragraph (c)(1) of this section or issues an FSTD Directive as described in §60.23(b), which conflicts with or supersedes an approved deviation, the Administrator may terminate or revise a grant of deviation authority issued under this paragraph.
+\(iv\) If the FAA publishes a change to the existing part 60 standards as described in paragraph (c)(1) of this section or issues an FSTD Directive as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](b), which conflicts with or supersedes an approved deviation, the Administrator may terminate or revise a grant of deviation authority issued under this paragraph.
 
 \(d\) The pilot(s) who contributes to the confirmation statement required by paragraph (b) of this section must—
 
@@ -240,7 +240,7 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(ii\) Must describe to the NSPM all modifications to the FSTD that are required to support the additional qualification.
 
-\(iii\) Must submit to the NSPM a confirmation statement as described in §60.15(c) that a pilot, designated by the sponsor in accordance with §60.15(d), has subjectively evaluated the FSTD in those areas not previously evaluated.
+\(iii\) Must submit to the NSPM a confirmation statement as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](c) that a pilot, designated by the sponsor in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](d), has subjectively evaluated the FSTD in those areas not previously evaluated.
 
 \(2\) The FSTD must successfully pass an evaluation—
 
@@ -250,9 +250,9 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(b\) In making the determinations described in paragraph (a)(2) of this section, the NSPM considers factors including the existing qualification of the FSTD, any modifications to the FSTD hardware or software that are involved, and any additions or modifications to the MQTG.
 
-\(c\) The FSTD is qualified for the additional uses when the NSPM issues an amended Statement of Qualification in accordance with §60.15(h).
+\(c\) The FSTD is qualified for the additional uses when the NSPM issues an amended Statement of Qualification in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](h).
 
-\(d\) The sponsor may not modify the FSTD except as described in §60.23.
+\(d\) The sponsor may not modify the FSTD except as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]].
 
 ### §60.17   Previously qualified FSTDs.
 
@@ -260,11 +260,11 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(b\) For each FSTD qualified before May 30, 2008, no sponsor may use or allow the use of or offer the use of such an FSTD after May 30, 2014 for flight crewmember training, evaluation or flight experience to meet any of the requirements of this chapter, unless that FSTD has been issued a Statement of Qualification, including the Configuration List and the List of Qualified Tasks in accordance with the procedures set out in the applicable QPS.
 
-\(c\) If the FSTD qualification is lost under §60.27 and—
+\(c\) If the FSTD qualification is lost under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]] and—
 
-\(i\) Restored under §60.27 in less than (2) years, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those against which the FSTD was originally evaluated and qualified.
+\(i\) Restored under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]] in less than (2) years, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those against which the FSTD was originally evaluated and qualified.
 
-\(ii\) Not restored under §60.27 for two (2) years or more, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those standards in effect and current at the time of re-qualification application.
+\(ii\) Not restored under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]] for two (2) years or more, then the qualification basis (in terms of objective tests and subjective tests) for the re-qualification will be those standards in effect and current at the time of re-qualification application.
 
 \(d\) Except as provided in paragraph (e) of this section, any change in FSTD qualification level initiated on or after May 30, 2008 requires an evaluation for initial qualification in accordance with this part.
 
@@ -300,7 +300,7 @@ When notified by the NSPM, the sponsor must make available all special equipment
 
 \(2\) Ensures that, when a discrepancy is discovered, the following requirements are met:
 
-\(i\) A description of each discrepancy is entered in the log and remains in the log until the discrepancy is corrected as specified in §60.25(b).
+\(i\) A description of each discrepancy is entered in the log and remains in the log until the discrepancy is corrected as specified in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b).
 
 \(ii\) A description of the corrective action taken for each discrepancy, the identity of the individual taking the action, and the date that action is taken is entered in the log.
 
@@ -324,9 +324,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(b\) An FSTD that has been issued interim qualification is deemed to have been issued initial qualification unless the NSPM rescinds the qualification. Interim qualification terminates two years after its issuance, unless the NSPM determines that specific conditions warrant otherwise.
 
-\(c\) Within twelve months of the release of the final aircraft data package by the aircraft manufacturer, but no later than two years after the issuance of the interim qualification status, the sponsor must apply for initial qualification in accordance with §60.15 based on the final aircraft data package approved by the aircraft manufacturer, unless the NSPM determines that specific conditions warrant otherwise.
+\(c\) Within twelve months of the release of the final aircraft data package by the aircraft manufacturer, but no later than two years after the issuance of the interim qualification status, the sponsor must apply for initial qualification in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] based on the final aircraft data package approved by the aircraft manufacturer, unless the NSPM determines that specific conditions warrant otherwise.
 
-\(d\) An FSTD with interim qualification may be modified only in accordance with §60.23.
+\(d\) An FSTD with interim qualification may be modified only in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]].
 
 ### §60.23   Modifications to FSTDs.
 
@@ -354,7 +354,7 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(d\) *User notification.* When a modification is made to an FSTD that affects the Statement of Qualification, the sponsor must post an addendum to the Statement of Qualification until such time as a permanent, updated statement is posted.
 
-\(e\) *MQTG update.* The MQTG must be updated with current objective test results in accordance with §60.15(h) and (i) and appropriate objective data in accordance with §60.13, each time an FSTD is modified and an objective test or other MQTG section is affected by the modification. If an FSTD Directive is the cause of this update, the direction to make the modification and the record of the modification completion must be filed in the MQTG.
+\(e\) *MQTG update.* The MQTG must be updated with current objective test results in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](h) and (i) and appropriate objective data in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]], each time an FSTD is modified and an objective test or other MQTG section is affected by the modification. If an FSTD Directive is the cause of this update, the direction to make the modification and the record of the modification completion must be filed in the MQTG.
 
 \[Docket No. FAA-2002-12461, 71 FR 63426, Oct. 30, 2006, as amended by Docket FAA-2014-0391, Amdt. 60-4, 81 FR 18218, Mar. 30, 2016\]
 
@@ -370,9 +370,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(a\) An FSTD qualification is automatically lost when any of the following occurs:
 
-\(1\) The FSTD is not used in the sponsor's FAA-approved flight training program in accordance with §60.7(b)(5) or (b)(6) and the sponsor does not obtain and maintain the written statement as described in §60.7(d)(2).
+\(1\) The FSTD is not used in the sponsor's FAA-approved flight training program in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b)(5) or (b)(6) and the sponsor does not obtain and maintain the written statement as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2).
 
-\(2\) The FSTD is not inspected in accordance with §60.19.
+\(2\) The FSTD is not inspected in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]].
 
 \(3\) The FSTD is physically moved from one location and installed in a different location, regardless of distance.
 
@@ -382,9 +382,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(1\) The FSTD successfully passes an evaluation:
 
-\(i\) For initial qualification, in accordance with §§60.15 and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+\(i\) For initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
 
-\(ii\) For those elements of an evaluation for initial qualification, in accordance with §§60.15 and 60.17(c), as determined to be necessary by the NSPM.
+\(ii\) For those elements of an evaluation for initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
 
 \(2\) The NSPM advises the sponsor that an evaluation is not necessary.
 
@@ -422,9 +422,9 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(d\) FSTD qualification lost under paragraph (a) or (c) of this section may be restored when either of the following provisions are met:
 
-\(1\) The FSTD successfully passes an evaluation for initial qualification, in accordance with §§60.15 and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+\(1\) The FSTD successfully passes an evaluation for initial qualification, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
 
-\(2\) The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with §§60.15 and 60.17(c), as determined to be necessary by the NSPM.
+\(2\) The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with §[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]] and 60.17(c), as determined to be necessary by the NSPM.
 
 \(e\) In making the determinations described in paragraph (d) of this section, the NSPM considers factors including the reason for the loss of qualification, any repairs or replacements that may have to have been completed, the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the loss of qualification.
 
@@ -436,17 +436,17 @@ Each instructor, check airman, or representative of the Administrator conducting
 
 \(1\) The MQTG and each amendment thereto.
 
-\(2\) A record of all FSTD modifications affected under §60.23 since the issuance of the original Statement of Qualification.
+\(2\) A record of all FSTD modifications affected under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] since the issuance of the original Statement of Qualification.
 
 \(3\) A copy of all of the following:
 
 \(i\) Results of the qualification evaluations (initial and each upgrade) since the issuance of the original Statement of Qualification.
 
-\(ii\) Results of the objective tests conducted in accordance with §60.19(a) for a period of 2 years.
+\(ii\) Results of the objective tests conducted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a) for a period of 2 years.
 
 \(iii\) Results of the previous three continuing qualification evaluations, or the continuing qualification evaluations from the previous 2 years, whichever covers a longer period.
 
-\(iv\) Comments obtained in accordance with §60.9(b) for a period of at least 90 days.
+\(iv\) Comments obtained in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](b) for a period of at least 90 days.
 
 \(4\) A record of all discrepancies entered in the discrepancy log over the previous 2 years, including the following:
 
@@ -516,53 +516,53 @@ This appendix establishes the standards for Airplane FFS evaluation and qualific
 
 1\. Introduction.
 
-2\. Applicability (§§60.1 and 60.2).
+2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2).
 
-3\. Definitions (§60.3).
+3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
-4\. Qualification Performance Standards (§60.4).
+4\. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]]).
 
-5\. Quality Management System (§60.5).
+5\. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]]).
 
-6\. Sponsor Qualification Requirements (§60.7).
+6\. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]).
 
-7\. Additional Responsibilities of the Sponsor (§60.9).
+7\. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]]).
 
-8\. FFS Use (§60.11).
+8\. FFS Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]]).
 
-9\. FFS Objective Data Requirements (§60.13).
+9\. FFS Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]]).
 
-10\. Special Equipment and Personnel Requirements for Qualification of the FFS (§60.14).
+10\. Special Equipment and Personnel Requirements for Qualification of the FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
-11\. Initial (and Upgrade) Qualification Requirements (§60.15).
+11\. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
-12\. Additional Qualifications for a Currently Qualified FFS (§60.16).
+12\. Additional Qualifications for a Currently Qualified FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]]).
 
-13\. Previously Qualified FFSs (§60.17).
+13\. Previously Qualified FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]]).
 
-14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19).
+14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]).
 
-15\. Logging FFS Discrepancies (§60.20).
+15\. Logging FFS Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]).
 
-16\. Interim Qualification of FFSs for New Airplane Types or Models (§60.21).
+16\. Interim Qualification of FFSs for New Airplane Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]]).
 
-17\. Modifications to FFSs (§60.23).
+17\. Modifications to FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]).
 
-18\. Operations With Missing, Malfunctioning, or Inoperative Components (§60.25).
+18\. Operations With Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]]).
 
-19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27).
+19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]]).
 
-20\. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29).
+20\. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]]).
 
-21\. Record Keeping and Reporting (§60.31).
+21\. Record Keeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]]).
 
-22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33).
+22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]]).
 
-23\. Specific FFS Compliance Requirements (§60.35).
+23\. Specific FFS Compliance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.35   Specific full flight simulator compliance requirements.|§60.35]]).
 
 24\. \[Reserved\]
 
-25\. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37).
+25\. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]]).
 
 Attachment 1 to Appendix A to Part 60—General Simulator Requirements.
 
@@ -670,7 +670,7 @@ d\. Related Reading References.
 
 </div>
 
-# 2. Applicability (§§60.1 and 60.2)
+# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
 
 <div>
 
@@ -680,7 +680,7 @@ d\. Related Reading References.
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.1, Applicability, or to §60.2, Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], Applicability, or to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.|§60.2]], Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.
 
 # End Information
 
@@ -690,7 +690,7 @@ No additional regulatory or informational material applies to §60.1, Applicabil
 
 </div>
 
-# 3. Definitions (§60.3)
+# 3. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]])
 
 <div>
 
@@ -710,7 +710,7 @@ See Appendix F of this part for a list of definitions and abbreviations from par
 
 </div>
 
-# 4. Qualification Performance Standards (§60.4)
+# 4. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]])
 
 <div>
 
@@ -720,7 +720,7 @@ See Appendix F of this part for a list of definitions and abbreviations from par
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.4, Qualification Performance Standards.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]], Qualification Performance Standards.
 
 # End Information
 
@@ -730,7 +730,7 @@ No additional regulatory or informational material applies to §60.4, Qualificat
 
 </div>
 
-# 5. Quality Management System (§60.5)
+# 5. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]])
 
 <div>
 
@@ -750,7 +750,7 @@ See Appendix E of this part for additional regulatory and informational material
 
 </div>
 
-# 6. Sponsor Qualification Requirements (§60.7)
+# 6. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]])
 
 <div>
 
@@ -760,7 +760,7 @@ See Appendix E of this part for additional regulatory and informational material
 
 # Begin Information
 
-a\. The intent of the language in §60.7(b) is to have a specific FFS, identified by the sponsor, used at least once in an FAA-approved flight training program for the airplane simulated during the 12-month period described. The identification of the specific FFS may change from one 12-month period to the next 12-month period as long as the sponsor sponsors and uses at least one FFS at least once during the prescribed period. No minimum number of hours or minimum FFS periods are required.
+a\. The intent of the language in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b) is to have a specific FFS, identified by the sponsor, used at least once in an FAA-approved flight training program for the airplane simulated during the 12-month period described. The identification of the specific FFS may change from one 12-month period to the next 12-month period as long as the sponsor sponsors and uses at least one FFS at least once during the prescribed period. No minimum number of hours or minimum FFS periods are required.
 
 b\. The following examples describe acceptable operational practices:
 
@@ -768,9 +768,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor is sponsoring a single, specific FFS for its own use, in its own facility or elsewhere—this single FFS forms the basis for the sponsorship. The sponsor uses that FFS at least once in each 12-month period in the sponsor's FAA-approved flight training program for the airplane simulated. This 12-month period is established according to the following schedule:
 
-\(i\) If the FFS was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with §60.19 after May 30, 2008, and continues for each subsequent 12-month period;
+\(i\) If the FFS was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]] after May 30, 2008, and continues for each subsequent 12-month period;
 
-\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with §60.15. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12-month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
+\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12-month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
 
 \(b\) There is no minimum number of hours of FFS use required.
 
@@ -780,15 +780,15 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor sponsors an additional number of FFSs, in its facility or elsewhere. Each additionally sponsored FFS must be—
 
-\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the airplane simulated (as described in §60.7(d)(1));
+\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the airplane simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1));
 
       OR
 
-\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane simulated (as described in §60.7(d)(1)). This 12-month period is established in the same manner as in example one;
+\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)). This 12-month period is established in the same manner as in example one;
 
       OR
 
-\(iii\) Provided a statement each year from a qualified pilot (after having flown the airplane, not the subject FFS or another FFS, during the preceding 12-month period), stating that the subject FFS's performance and handling qualities represent the airplane (as described in §60.7(d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
+\(iii\) Provided a statement each year from a qualified pilot (after having flown the airplane, not the subject FFS or another FFS, during the preceding 12-month period), stating that the subject FFS's performance and handling qualities represent the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
 
 \(b\) No minimum number of hours of FFS use is required.
 
@@ -800,11 +800,11 @@ b\. The following examples describe acceptable operational practices:
 
 \(c\) All of the FFSs in the Chicago and Moscow centers could be dry-leased (i.e., the certificate holder does not have and use FAA-approved flight training programs for the FFSs in the Chicago and Moscow centers) because—
 
-\(i\) Each FFS in the Chicago center and each FFS in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane (as described in §60.7(d)(1));
+\(i\) Each FFS in the Chicago center and each FFS in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1));
 
       OR
 
-\(ii\) A statement is obtained from a qualified pilot (having flown the airplane, not the subject FFS or another FFS, during the preceding 12-month period) stating that the performance and handling qualities of each FFS in the Chicago and Moscow centers represents the airplane (as described in §60.7(d)(2)).
+\(ii\) A statement is obtained from a qualified pilot (having flown the airplane, not the subject FFS or another FFS, during the preceding 12-month period) stating that the performance and handling qualities of each FFS in the Chicago and Moscow centers represents the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)).
 
 # End Information
 
@@ -814,7 +814,7 @@ b\. The following examples describe acceptable operational practices:
 
 </div>
 
-# 7. Additional Responsibilities of the Sponsor (§60.9)
+# 7. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]])
 
 <div>
 
@@ -824,7 +824,7 @@ b\. The following examples describe acceptable operational practices:
 
 # Begin Information
 
-The phrase “as soon as practicable” in §60.9(a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FFS.
+The phrase “as soon as practicable” in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FFS.
 
 # End Information
 
@@ -834,7 +834,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 </div>
 
-# 8. FFS Use (§60.11)
+# 8. FFS Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]])
 
 <div>
 
@@ -844,7 +844,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.11, Simulator Use.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]], Simulator Use.
 
 # End Information
 
@@ -854,7 +854,7 @@ No additional regulatory or informational material applies to §60.11, Simulator
 
 </div>
 
-# 9. FFS Objective Data Requirements (§60.13)
+# 9. FFS Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]])
 
 <div>
 
@@ -904,7 +904,7 @@ b\. The data, regardless of source, must be presented as follows:
 
 c\. After completion of any additional flight test, a flight test report must be submitted in support of the validation data. The report must contain sufficient data and rationale to support qualification of the FFS at the level requested.
 
-d\. As required by §60.13(f), the sponsor must notify the NSPM when it becomes aware that an addition to, an amendment to, or a revision of data that may relate to FFS performance or handling characteristics is available. The data referred to in this paragraph is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certificate was issued. The sponsor must—
+d\. As required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f), the sponsor must notify the NSPM when it becomes aware that an addition to, an amendment to, or a revision of data that may relate to FFS performance or handling characteristics is available. The data referred to in this paragraph is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certificate was issued. The sponsor must—
 
 \(1\) Within 10 calendar days, notify the NSPM of the existence of this data; and
 
@@ -926,7 +926,7 @@ e\. In those cases where the objective test results authorize a “snapshot test
 
 # Begin Information
 
-f\. The FFS sponsor is encouraged to maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and, if appropriate, with the person having supplied the aircraft data package for the FFS in order to facilitate the notification required by §60.13(f).
+f\. The FFS sponsor is encouraged to maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and, if appropriate, with the person having supplied the aircraft data package for the FFS in order to facilitate the notification required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f).
 
 g\. It is the intent of the NSPM that for new aircraft entering service, at a point well in advance of preparation of the Qualification Test Guide (QTG), the sponsor should submit to the NSPM for approval, a descriptive document (see Table A2C, Sample Validation Data Roadmap for Airplanes) containing the plan for acquiring the validation data, including data sources. This document should clearly identify sources of data for all required tests, a description of the validity of these data for a specific engine type and thrust rating configuration, and the revision levels of all avionics affecting the performance or flying qualities of the aircraft. Additionally, this document should provide other information, such as the rationale or explanation for cases where data or data parameters are missing, instances where engineering simulation data are used or where flight test methods require further explanations. It should also provide a brief narrative describing the cause and effect of any deviation from data requirements. The aircraft manufacturer may provide this document.
 
@@ -942,7 +942,7 @@ i\. The NSPM will consider, on a case-by-case basis, whether to approve suppleme
 
 </div>
 
-# 10. Special Equipment and Personnel Requirements for Qualification of the FFSs (§60.14)
+# 10. Special Equipment and Personnel Requirements for Qualification of the FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]])
 
 <div>
 
@@ -964,7 +964,7 @@ b\. Examples of a special evaluation include an evaluation conducted after an FF
 
 </div>
 
-# 11. Initial (and Upgrade) Qualification Requirements (§60.15)
+# 11. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]])
 
 <div>
 
@@ -982,11 +982,11 @@ a\. In order to be qualified at a particular qualification level, the FFS must:
 
 \(3\) Satisfactorily accomplish the subjective tests listed in Attachment 3 of this appendix.
 
-b\. The request described in §60.15(a) must include all of the following:
+b\. The request described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](a) must include all of the following:
 
 \(1\) A statement that the FFS meets all of the applicable provisions of this part and all applicable provisions of the QPS.
 
-\(2\) Unless otherwise authorized through prior coordination with the NSPM, a confirmation that the sponsor will forward to the NSPM the statement described in §60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
+\(2\) Unless otherwise authorized through prior coordination with the NSPM, a confirmation that the sponsor will forward to the NSPM the statement described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
 
 \(3\) A QTG, acceptable to the NSPM, that includes all of the following:
 
@@ -1166,9 +1166,9 @@ t\. Under normal circumstances, the NSPM establishes a date for the initial or u
 
 u\. The numbering system used for objective test results in the QTG should closely follow the numbering system set out in Attachment 2 of this appendix, FFS Objective Tests, Table A2A.
 
-v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of §60.15(d).
+v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](d).
 
-w\. Examples of the exclusions for which the FFS might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in §60.15(g)(6), include windshear training and circling approaches.
+w\. Examples of the exclusions for which the FFS might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](g)(6), include windshear training and circling approaches.
 
 # End Information
 
@@ -1178,7 +1178,7 @@ w\. Examples of the exclusions for which the FFS might not have been subjectivel
 
 </div>
 
-# 12. Additional Qualifications for a Currently Qualified FFS (§60.16)
+# 12. Additional Qualifications for a Currently Qualified FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]])
 
 <div>
 
@@ -1188,7 +1188,7 @@ w\. Examples of the exclusions for which the FFS might not have been subjectivel
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.16, Additional Qualifications for a Currently Qualified FFS.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]], Additional Qualifications for a Currently Qualified FFS.
 
 # End Information
 
@@ -1198,7 +1198,7 @@ No additional regulatory or informational material applies to §60.16, Additiona
 
 </div>
 
-# 13. Previously Qualified FFSs (§60.17)
+# 13. Previously Qualified FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]])
 
 <div>
 
@@ -1226,11 +1226,11 @@ c\. After May 30, 2009, each visual scene or airport model beyond the minimum re
 
 d\. Simulators qualified prior to May 31, 2016, may be updated. If an evaluation is deemed appropriate or necessary by the NSPM after such an update, the evaluation will not require an evaluation to standards beyond those against which the simulator was originally qualified.
 
-e\. Other certificate holders or persons desiring to use an FFS may contract with FFS sponsors to use FFSs previously qualified at a particular level for an airplane type and approved for use within an FAA-approved flight training program. Such FFSs are not required to undergo an additional qualification process, except as described in §60.16.
+e\. Other certificate holders or persons desiring to use an FFS may contract with FFS sponsors to use FFSs previously qualified at a particular level for an airplane type and approved for use within an FAA-approved flight training program. Such FFSs are not required to undergo an additional qualification process, except as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]].
 
 f\. Each FFS user must obtain approval from the appropriate TPAA to use any FFS in an FAA-approved flight training program.
 
-g\. The intent of the requirement listed in §60.17(b), for each FFS to have a SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FFS inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FFS.
+g\. The intent of the requirement listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]](b), for each FFS to have a SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FFS inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FFS.
 
 h\. Downgrading of an FFS is a permanent change in qualification level and will necessitate the issuance of a revised SOQ to reflect the revised qualification level, as appropriate. If a temporary restriction is placed on an FFS because of a missing, malfunctioning, or inoperative component or on-going repairs, the restriction is not a permanent change in qualification level. Instead, the restriction is temporary and is removed when the reason for the restriction has been resolved.
 
@@ -1246,7 +1246,7 @@ j\. The FFS will normally be requalified using the FAA-approved MQTG and the cri
 
 </div>
 
-# 14. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19)
+# 14. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]])
 
 <div>
 
@@ -1280,7 +1280,7 @@ e\. The NSPM will conduct continuing qualification evaluations every 12 months u
 
 # Begin Information
 
-f\. The sponsor's test sequence and the content of each quarterly inspection required in §60.19(a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
+f\. The sponsor's test sequence and the content of each quarterly inspection required in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
 
 \(1\) Performance.
 
@@ -1296,7 +1296,7 @@ f\. The sponsor's test sequence and the content of each quarterly inspection req
 
 g\. If the NSP evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies, control dynamics, sounds and vibrations, motion, and/or some visual system tests.
 
-h\. The continuing qualification evaluations, described in §60.19(b), will normally require 4 hours of FFS time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
+h\. The continuing qualification evaluations, described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b), will normally require 4 hours of FFS time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
 
 \(1\) Review of the results of the quarterly inspections conducted by the sponsor since the last scheduled continuing qualification evaluation.
 
@@ -1314,11 +1314,11 @@ h\. The continuing qualification evaluations, described in §60.19(b), will norm
 
 </div>
 
-# 15. Logging FFS Discrepancies (§60.20)
+# 15. Logging FFS Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]])
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.20. Logging FFS Discrepancies.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]. Logging FFS Discrepancies.
 
 # End Information
 
@@ -1328,7 +1328,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 </div>
 
-# 16. Interim Qualification of FFSs for New Airplane Types or Models (§60.21)
+# 16. Interim Qualification of FFSs for New Airplane Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]])
 
 <div>
 
@@ -1338,7 +1338,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.21, Interim Qualification of FFSs for New Airplane Types or Models.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]], Interim Qualification of FFSs for New Airplane Types or Models.
 
 # End Information
 
@@ -1348,17 +1348,17 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 </div>
 
-# 17. Modifications to FFSs (§60.23)
+# 17. Modifications to FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]])
 
 # Begin QPS Requirements
 
-a\. The notification described in §60.23(c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FFS and the results that are expected with the modification incorporated.
+a\. The notification described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FFS and the results that are expected with the modification incorporated.
 
 b\. Prior to using the modified FFS:
 
 \(1\) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (e.g., accomplishment of FSTD Directives) must be acceptable to the NSPM; and
 
-\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in §60.15(b) are addressed by the appropriate personnel as described in that section.
+\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) are addressed by the appropriate personnel as described in that section.
 
 # End QPS Requirements
 
@@ -1380,17 +1380,17 @@ FSTD Directives are considered modifications of an FFS. See Attachment 4 of this
 
 </div>
 
-# 18. Operation with Missing, Malfunctioning, or Inoperative Components (§60.25)
+# 18. Operation with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]])
 
 # Begin Information
 
-a\. The sponsor's responsibility with respect to §60.25(a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FFS, including any missing, malfunctioning, or inoperative (MMI) component(s).
+a\. The sponsor's responsibility with respect to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FFS, including any missing, malfunctioning, or inoperative (MMI) component(s).
 
 b\. It is the responsibility of the instructor, check airman, or representative of the administrator conducting training, testing, or checking to exercise reasonable and prudent judgment to determine if any MMI component is necessary for the satisfactory completion of a specific maneuver, procedure, or task.
 
-c\. If the 29th or 30th day of the 30-day period described in §60.25(b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
+c\. If the 29th or 30th day of the 30-day period described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
 
-d\. In accordance with the authorization described in §60.25(b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FFS. Repairs having a larger impact on FFS capability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
+d\. In accordance with the authorization described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FFS. Repairs having a larger impact on FFS capability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
 
 # End Information
 
@@ -1400,7 +1400,7 @@ d\. In accordance with the authorization described in §60.25(b), the sponsor ma
 
 </div>
 
-# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27)
+# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]])
 
 <div>
 
@@ -1420,7 +1420,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 </div>
 
-# 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29)
+# 20. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]])
 
 <div>
 
@@ -1440,7 +1440,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 </div>
 
-# 21. Recordkeeping and Reporting (§60.31)
+# 21. Recordkeeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]])
 
 <div>
 
@@ -1450,7 +1450,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 # Begin QPS Requirements
 
-a\. FFS modifications can include hardware or software changes. For FFS modifications involving software programming changes, the record required by §60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
+a\. FFS modifications can include hardware or software changes. For FFS modifications involving software programming changes, the record required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]](a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 
 b\. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 
@@ -1462,7 +1462,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 </div>
 
-# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33)
+# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]])
 
 <div>
 
@@ -1472,17 +1472,17 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]], Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
 
-# 23. Specific FFS Compliance Requirements (§60.35)
+# 23. Specific FFS Compliance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.35   Specific full flight simulator compliance requirements.|§60.35]])
 
-No additional regulatory or informational material applies to §60.35, Specific FFS Compliance Requirements.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.35   Specific full flight simulator compliance requirements.|§60.35]], Specific FFS Compliance Requirements.
 
 # 24. \[Reserved\]
 
-# 25. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37)
+# 25. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]])
 
-No additional regulatory or informational material applies to §60.37, FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]], FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
 
 # End Information
 
@@ -1736,7 +1736,7 @@ d\. If relevant winds are present in the objective data, the wind vector should 
 
 # 2. Test Requirements
 
-a\. The ground and flight tests required for qualification are listed in Table A2A, FFS Objective Tests. Computer generated simulator test results must be provided for each test except where an alternative test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane or a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in §60.13 and in this appendix. Although use of a driver program designed to automatically accomplish the tests is encouraged for all simulators and required for Level C and Level D simulators, it must be possible to conduct each test manually while recording all appropriate parameters. The results must be produced on an appropriate recording device acceptable to the NSPM and must include simulator number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table A2A. All results must be labeled using the tolerances and units given.
+a\. The ground and flight tests required for qualification are listed in Table A2A, FFS Objective Tests. Computer generated simulator test results must be provided for each test except where an alternative test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane or a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]] and in this appendix. Although use of a driver program designed to automatically accomplish the tests is encouraged for all simulators and required for Level C and Level D simulators, it must be possible to conduct each test manually while recording all appropriate parameters. The results must be produced on an appropriate recording device acceptable to the NSPM and must include simulator number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table A2A. All results must be labeled using the tolerances and units given.
 
 b\. Table A2A in this attachment sets out the test results required, including the parameters, tolerances, and flight conditions for simulator validation. Tolerances are provided for the listed tests because mathematical modeling and acquisition and development of reference data are often inexact. All tolerances listed in the following tables are applied to simulator performance. When two tolerance values are given for a parameter, the less restrictive may be used unless otherwise indicated. In those cases where a tolerance is expressed only as a percentage, the tolerance percentage applies to the maximum value of that parameter within its normal operating range as measured from the neutral or zero position unless otherwise indicated.
 
@@ -2855,7 +2855,7 @@ i\. Previously qualified simulators with certain early generation Computer Gener
 
 [View or download PDF](https://www.ecfr.gov/graphics/pdfs/er20my16.055.pdf)
 
-![eCFR graphic er20my16[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.175   Takeoff and landing under IFR.|14 CFR 91.175]]ps://www.ecfr.gov/graphics/er20my16.056.gif)
+![eCFR graphic er20my16.056.gif](https://www.ecfr.gov/graphics/er20my16.056.gif)
 
 [View or download PDF](https://www.ecfr.gov/graphics/pdfs/er20my16.056.pdf)
 
@@ -3933,7 +3933,7 @@ Agency: Federal Aviation Administration (FAA), DOT.
 
 Action: This is a retroactive requirement for any FSTD being used to obtain training, testing, or checking credit in an FAA approved flight training program for the specific training maneuvers as defined in this Directive.
 
-Summary: Notwithstanding the authorization listed in paragraph 13b in Appendix A of this Part, this FSTD Directive requires that each FSTD sponsor conduct additional subjective and objective testing, conduct required modifications, and apply for additional FSTD qualification under §60.16 to support continued qualification of the following flight training tasks where training, testing, or checking credit is being sought in a selected FSTD being used in an FAA approved flight training program:
+Summary: Notwithstanding the authorization listed in paragraph 13b in Appendix A of this Part, this FSTD Directive requires that each FSTD sponsor conduct additional subjective and objective testing, conduct required modifications, and apply for additional FSTD qualification under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]] to support continued qualification of the following flight training tasks where training, testing, or checking credit is being sought in a selected FSTD being used in an FAA approved flight training program:
 
 a\. Recognition of and Recovery from a Full Stall
 
@@ -3959,7 +3959,7 @@ b\. Evaluated and issued a Statement of Qualification (SOQ) for a specific FSTD 
 
 2\. The evaluation criteria contained in this Directive is intended to address specific training tasks that require additional evaluation to ensure adequate FSTD fidelity.
 
-3\. The requirements described in this Directive define additional qualification criteria for specific training tasks that are applicable only to those FSTDs that will be utilized to obtain training, testing, or checking credit in an FAA approved flight training program. In order to obtain additional qualification for the tasks described in this Directive, FSTD sponsors must request additional qualification in accordance with §60.16 and the requirements of this Directive. FSTDs that are found to meet the requirements of this Directive will have their Statement of Qualification (SOQ) amended to reflect the additional training tasks that the FSTD has been qualified to conduct. The additional qualification requirements as defined in this Directive are divided into the following training tasks:
+3\. The requirements described in this Directive define additional qualification criteria for specific training tasks that are applicable only to those FSTDs that will be utilized to obtain training, testing, or checking credit in an FAA approved flight training program. In order to obtain additional qualification for the tasks described in this Directive, FSTD sponsors must request additional qualification in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]] and the requirements of this Directive. FSTDs that are found to meet the requirements of this Directive will have their Statement of Qualification (SOQ) amended to reflect the additional training tasks that the FSTD has been qualified to conduct. The additional qualification requirements as defined in this Directive are divided into the following training tasks:
 
 a\. Section I—Additional Qualification Requirements for Full Stall Training Tasks
 
@@ -3995,7 +3995,7 @@ f\. Table A3A, Functions and Subjective Testing Requirements, Test 5.b.1.b. (Hig
 
 g\. Attachment 7, Additional Simulator Qualification Requirements for Stall, Upset Prevention and Recovery, and Engine and Airframe Icing Training Tasks (High Angle of Attack Model Evaluation)
 
-4\. For FSTDs initially qualified before May 31, 2016, including FSTDs that are initially qualified under the grace period conditions as defined in §60.15(c):
+4\. For FSTDs initially qualified before May 31, 2016, including FSTDs that are initially qualified under the grace period conditions as defined in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](c):
 
 a\. Objective testing for stall characteristics (Table A2A, test 2.c.8.a.) will only be required for the (wings level) second segment climb and approach or landing flight conditions. In lieu of objective testing for the high altitude cruise and turning flight stall conditions, these maneuvers may be subjectively evaluated by a qualified subject matter expert (SME) pilot and addressed in the required statement of compliance.
 
@@ -4005,9 +4005,9 @@ c\. Objective testing for characteristic motion vibrations (Stall buffet—Table
 
 d\. As described in Attachment 7 of this Appendix, the FAA may accept a statement of compliance from the data provider which confirms the stall characteristics have been subjectively evaluated by an SME pilot on an engineering simulator or development simulator that is acceptable to the FAA. Where this evaluation takes place on an engineering or development simulator, additional objective “proof-of-match” testing for all flight conditions as described in tests 2.c.8.a. and 3.f.5.will be required to verify the implementation of the stall model and stall buffets on the training FSTD.
 
-5\. Where qualification is being sought to conduct full stall training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with §60.23 using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
+5\. Where qualification is being sought to conduct full stall training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
 
-a\. A description of any modifications to the FSTD (in accordance with §60.23) necessary to meet the requirements of this Directive.
+a\. A description of any modifications to the FSTD (in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]) necessary to meet the requirements of this Directive.
 
 b\. Statements of Compliance (High Angle of Attack Modeling/Stick Pusher System)—See Table A1A, Section 2.m., 3.f., and Attachment 7
 
@@ -4015,7 +4015,7 @@ c\. Statement of Compliance (SME Pilot Evaluation)—See Table A1A, Section 2.m.
 
 d\. Copies of the required objective test results as described above in sections 3.c., 3.d., and 3.e.
 
-6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in §60.23(c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as interim qualification for full stall training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
+6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as interim qualification for full stall training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
 
 # Section II—Evaluation Requirements for Upset Prevention and Recovery Training Tasks
 
@@ -4033,15 +4033,15 @@ b\. Table A3A, Functions and Subjective Testing, Test 5.b.3. (Upset Prevention a
 
 c\. Attachment 7, Additional Simulator Qualification Requirements for Stall, Upset Prevention and Recovery, and Engine and Airframe Icing Training Tasks (Upset Prevention and Recovery Training Maneuver Evaluation)
 
-5\. Where qualification is being sought to conduct upset prevention and recovery training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with §60.23 using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
+5\. Where qualification is being sought to conduct upset prevention and recovery training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
 
-a\. A description of any modifications to the FSTD (in accordance with §60.23) necessary to meet the requirements of this Directive.
+a\. A description of any modifications to the FSTD (in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]) necessary to meet the requirements of this Directive.
 
 b\. Statement of Compliance (FSTD Validation Envelope)—See Table A1A, Section 2.n. and Attachment 7
 
-c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in §60.16(a)(1)(iii).
+c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(iii).
 
-6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in §60.23(c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for upset prevention and recovery training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
+6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for upset prevention and recovery training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
 
 # Section III—Evaluation Requirements for Engine and Airframe Icing Training Tasks
 
@@ -4057,15 +4057,15 @@ a\. Table A1A, General Requirements, Section 2.j. (Engine and Airframe Icing)
 
 b\. Attachment 7, Additional Simulator Qualification Requirements for Stall, Upset Prevention and Recovery, and Engine and Airframe Icing Training Tasks (Engine and Airframe Icing Evaluation; Paragraphs 1, 2, and 3). Objective demonstration tests of engine and airframe icing effects (Attachment 2, Table A2A, test 2.i. of this Appendix) are not required for previously qualified FSTDs.
 
-5\. Where continued qualification is being sought to conduct engine and airframe icing training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with §60.23 using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
+5\. Where continued qualification is being sought to conduct engine and airframe icing training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
 
-a\. A description of any modifications to the FSTD (in accordance with §60.23) necessary to meet the requirements of this Directive;
+a\. A description of any modifications to the FSTD (in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]) necessary to meet the requirements of this Directive;
 
 b\. Statement of Compliance (Ice Accretion Model)—See Table A1A, Section 2.j., and Attachment 7; and
 
-c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in §60.16(a)(1)(iii).
+c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(iii).
 
-6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in §60.23(c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim update to the FSTD's Statement of Qualification (SOQ) until such time that a permanent change is made to the SOQ at the FSTD's next scheduled evaluation.
+6\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim update to the FSTD's Statement of Qualification (SOQ) until such time that a permanent change is made to the SOQ at the FSTD's next scheduled evaluation.
 
 # Section IV—Evaluation Requirements for Takeoff and Landing in Gusting Crosswind
 
@@ -4081,15 +4081,15 @@ b\. Table A3A, Functions and Subjective Testing Requirements, test 3.a.3 (Takeof
 
 c\. Table A3A, Functions and Subjective Testing Requirements, test 8.d. (Approach and landing with crosswind—Maximum Demonstrated and Gusting Crosswind).
 
-4\. Where qualification is being sought to conduct gusting crosswind training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with §60.23 using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
+4\. Where qualification is being sought to conduct gusting crosswind training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
 
-a\. A description of any modifications to the FSTD (in accordance with §60.23) necessary to meet the requirements of this Directive.
+a\. A description of any modifications to the FSTD (in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]) necessary to meet the requirements of this Directive.
 
 b\. Statement of Compliance (Gusting Crosswind Profiles)—See Table A1A, Section 2.d.3.
 
-c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in §60.16(a)(1)(iii).
+c\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(iii).
 
-5\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in §60.23(c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for gusting crosswind training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
+5\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for gusting crosswind training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
 
 # Section V—Evaluation Requirements for Bounced Landing Recovery Training Tasks
 
@@ -4103,13 +4103,13 @@ a\. Table A1A, General Requirements, Section 2.d.2. (Ground Reaction Characteris
 
 b\. Table A3A, Functions and Subjective Testing Requirements, test 9.e. (Missed Approach—Bounced Landing)
 
-4\. Where qualification is being sought to conduct bounced landing training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with §60.23 using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
+4\. Where qualification is being sought to conduct bounced landing training tasks in accordance with this Directive, the FSTD Sponsor must conduct the required evaluations and modifications as prescribed in this Directive and report compliance to the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]] using the NSP's standardized FSTD Sponsor Notification Form. At a minimum, this form must be accompanied with the following information:
 
-a\. A description of any modifications to the FSTD (in accordance with §60.23) necessary to meet the requirements of this Directive; and
+a\. A description of any modifications to the FSTD (in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]) necessary to meet the requirements of this Directive; and
 
-b\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in §60.16(a)(1)(iii).
+b\. A confirmation statement that the modified FSTD has been subjectively evaluated by a qualified pilot as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(iii).
 
-5\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in §60.23(c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for bounced landing recovery training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
+5\. The NSPM will review each submission to determine if the requirements of this Directive have been met and respond to the FSTD Sponsor as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c). Additional NSPM conducted FSTD evaluations may be required before the modified FSTD is placed into service. This response, along with any noted restrictions, will serve as an interim qualification for bounced landing recovery training tasks until such time that a permanent change is made to the Statement of Qualification (SOQ) at the FSTD's next scheduled evaluation.
 
 # Attachment 7 to Appendix A to Part 60—Additional Simulator Qualification Requirements for Stall, Upset Prevention and Recovery, and Engine and Airframe Icing Training Tasks
 
@@ -4315,53 +4315,53 @@ This appendix establishes the standards for Airplane FTD evaluation and qualific
 
 1\. Introduction
 
-2\. Applicability (§§60.1 and 60.2).
+2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2).
 
-3\. Definitions (§60.3).
+3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
-4\. Qualification Performance Standards (§60.4).
+4\. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]]).
 
-5\. Quality Management System (§60.5).
+5\. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]]).
 
-6\. Sponsor Qualification Requirements (§60.7).
+6\. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]).
 
-7\. Additional Responsibilities of the Sponsor (§60.9).
+7\. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]]).
 
-8\. FTD Use (§60.11).
+8\. FTD Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]]).
 
-9\. FTD Objective Data Requirements (§60.13).
+9\. FTD Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]]).
 
-10\. Special Equipment and Personnel Requirements for Qualification of the FTD (§60.14).
+10\. Special Equipment and Personnel Requirements for Qualification of the FTD ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
-11\. Initial (and Upgrade) Qualification Requirements (§60.15).
+11\. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
-12\. Additional Qualifications for Currently Qualified FTDs (§60.16).
+12\. Additional Qualifications for Currently Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]]).
 
-13\. Previously Qualified FTDs (§60.17).
+13\. Previously Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]]).
 
-14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19).
+14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]).
 
-15\. Logging FTD Discrepancies (§60.20).
+15\. Logging FTD Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]).
 
-16\. Interim Qualification of FTDs for New Airplane Types or Models (§60.21).
+16\. Interim Qualification of FTDs for New Airplane Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]]).
 
-17\. Modifications to FTDs (§60.23).
+17\. Modifications to FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]).
 
-18\. Operations with Missing, Malfunctioning, or Inoperative Components (§60.25).
+18\. Operations with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]]).
 
-19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27).
+19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]]).
 
-20\. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29).
+20\. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]]).
 
-21\. Record Keeping and Reporting (§60.31).
+21\. Record Keeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]]).
 
-22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33).
+22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]]).
 
 23\. \[Reserved\]
 
 24\. Levels of FTD.
 
-25\. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37).
+25\. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]]).
 
 Attachment 1 to Appendix B to Part 60—General FTD Requirements.
 
@@ -4465,7 +4465,7 @@ d\. Related Reading References.
 
 # End Information
 
-# 2. Applicability (§§60.1 and 60.2)
+# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
 
 <div>
 
@@ -4475,17 +4475,17 @@ d\. Related Reading References.
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.1, Applicability, or to §60.2, Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], Applicability, or to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.|§60.2]], Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
 
-# 3. Definitions (§60.3)
+# 3. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]])
 
 See appendix F of this part for a list of definitions and abbreviations from part 1, part 60, and the QPS appendices of part 60.
 
-# 4. Qualification Performance Standards (§60.4)
+# 4. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]])
 
-No additional regulatory or informational material applies to §60.4, Qualification Performance Standards.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]], Qualification Performance Standards.
 
-# 5. Quality Management System (§60.5)
+# 5. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]])
 
 Additional regulatory material and informational material regarding Quality Management Systems for FTDs may be found in appendix E of this part.
 
@@ -4497,7 +4497,7 @@ Additional regulatory material and informational material regarding Quality Mana
 
 </div>
 
-# 6. Sponsor Qualification Requirements. (§60.7).
+# 6. Sponsor Qualification Requirements. ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]).
 
 <div>
 
@@ -4507,7 +4507,7 @@ Additional regulatory material and informational material regarding Quality Mana
 
 # Begin Information
 
-a\. The intent of the language in §60.7(b) is to have a specific FTD, identified by the sponsor, used at least once in an FAA-approved flight training program for the airplane simulated during the 12-month period described. The identification of the specific FTD may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FTD at least once during the prescribed period. There is no minimum number of hours or minimum FTD periods required.
+a\. The intent of the language in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b) is to have a specific FTD, identified by the sponsor, used at least once in an FAA-approved flight training program for the airplane simulated during the 12-month period described. The identification of the specific FTD may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FTD at least once during the prescribed period. There is no minimum number of hours or minimum FTD periods required.
 
 b\. The following examples describe acceptable operational practices:
 
@@ -4515,9 +4515,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor is sponsoring a single, specific FTD for its own use, in its own facility or elsewhere— this single FTD forms the basis for the sponsorship. The sponsor uses that FTD at least once in each 12-month period in that sponsor's FAA-approved flight training program for the airplane simulated. This 12-month period is established according to the following schedule:
 
-\(i\) If the FTD was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with §60.19 after May 30, 2008, and continues for each subsequent 12-month period;
+\(i\) If the FTD was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]] after May 30, 2008, and continues for each subsequent 12-month period;
 
-\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with §60.15. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
+\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
 
 \(b\) There is no minimum number of hours of FTD use required.
 
@@ -4527,11 +4527,11 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor sponsors an additional number of FTDs, in its facility or elsewhere. Each additionally sponsored FTD must be—
 
-\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the airplane simulated (as described in §60.7(d)(1)); or
+\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the airplane simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); or
 
-\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane simulated (as described in §60.7(d)(1)). This 12-month period is established in the same manner as in example one; or
+\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)). This 12-month period is established in the same manner as in example one; or
 
-\(iii\) Provided a statement each year from a qualified pilot, (after having flown the airplane, not the subject FTD or another FTD, during the preceding 12-month period) stating that the subject FTD's performance and handling qualities represent the airplane (as described in §60.7(d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
+\(iii\) Provided a statement each year from a qualified pilot, (after having flown the airplane, not the subject FTD or another FTD, during the preceding 12-month period) stating that the subject FTD's performance and handling qualities represent the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
 
 \(b\) There is no minimum number of hours of FTD use required.
 
@@ -4543,9 +4543,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(c\) All of the FTDs in the Chicago and Moscow centers could be dry-leased (i.e., the certificate holder does not have and use FAA-approved flight training programs for the FTDs in the Chicago and Moscow centers) because—
 
-\(i\) Each FTD in the Chicago center and each FTD in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane (as described in §60.7(d)(1)); or
+\(i\) Each FTD in the Chicago center and each FTD in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); or
 
-\(ii\) A statement is obtained from a qualified pilot (having flown the airplane, not the subject FTD or another FTD during the preceding 12-month period) stating that the performance and handling qualities of each FTD in the Chicago and Moscow centers represents the airplane (as described in §60.7(d)(2)).
+\(ii\) A statement is obtained from a qualified pilot (having flown the airplane, not the subject FTD or another FTD during the preceding 12-month period) stating that the performance and handling qualities of each FTD in the Chicago and Moscow centers represents the airplane (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)).
 
 # End Information
 
@@ -4555,7 +4555,7 @@ b\. The following examples describe acceptable operational practices:
 
 </div>
 
-# 7. Additional Responsibilities of the Sponsor (§60.9)
+# 7. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]])
 
 <div>
 
@@ -4565,11 +4565,11 @@ b\. The following examples describe acceptable operational practices:
 
 # Begin Information
 
-The phrase “as soon as practicable” in §60.9(a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FTD.
+The phrase “as soon as practicable” in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FTD.
 
-# 8. FTD Use (§60.11)
+# 8. FTD Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]])
 
-No additional regulatory or informational material applies to §60.11, FTD use.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]], FTD use.
 
 # End Information
 
@@ -4579,7 +4579,7 @@ No additional regulatory or informational material applies to §60.11, FTD use.
 
 </div>
 
-9\. FTD Objective Data Requirements (§60.13)
+9\. FTD Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]])
 
 <div>
 
@@ -4629,7 +4629,7 @@ b\. The data, regardless of source, must be presented:
 
 c\. After completion of any additional flight test, a flight test report must be submitted in support of the validation data. The report must contain sufficient data and rationale to support qualification of the FTD at the level requested.
 
-d\. As required by §60.13(f), the sponsor must notify the NSPM when it becomes aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section are those data that are used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
+d\. As required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f), the sponsor must notify the NSPM when it becomes aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section are those data that are used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
 
 \(1\) Within 10 calendar days, notify the NSPM of the existence of this data; and
 
@@ -4667,7 +4667,7 @@ i\. The NSPM will consider, on a case-by-case basis, whether to approve suppleme
 
 </div>
 
-# 10. Special Equipment and Personnel Requirements for Qualification of the FTD (§60.14).
+# 10. Special Equipment and Personnel Requirements for Qualification of the FTD ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
 <div>
 
@@ -4689,7 +4689,7 @@ b\. Examples of a special evaluation include an evaluation conducted after: An F
 
 </div>
 
-# 11. Initial (and Upgrade) Qualification Requirements (§60.15).
+# 11. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
 <div>
 
@@ -4707,11 +4707,11 @@ a\. In order to be qualified at a particular qualification level, the FTD must:
 
 \(3\) Satisfactorily accomplish the subjective tests listed in Attachment 3 of this appendix.
 
-b\. The request described in §60.15(a) must include all of the following:
+b\. The request described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](a) must include all of the following:
 
 \(1\) A statement that the FTD meets all of the applicable provisions of this part and all applicable provisions of the QPS.
 
-\(2\) Unless otherwise authorized through prior coordination with the NSPM, a confirmation that the sponsor will forward to the NSPM the statement described in §60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
+\(2\) Unless otherwise authorized through prior coordination with the NSPM, a confirmation that the sponsor will forward to the NSPM the statement described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
 
 \(3\) Except for a Level 4 FTD, a QTG, acceptable to the NSPM, that includes all of the following:
 
@@ -4891,13 +4891,13 @@ t\. Under normal circumstances, the NSPM establishes a date for the initial or u
 
 u\. The numbering system used for objective test results in the QTG should closely follow the numbering system set out in Attachment 2, FTD Objective Tests, Table B2A, of this appendix.
 
-v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of §60.15(d).
+v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](d).
 
-w\. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in §60.15(g)(6), include engine out maneuvers or circling approaches.
+w\. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](g)(6), include engine out maneuvers or circling approaches.
 
-# 12. Additional Qualifications for Currently Qualified FTDs (§60.16).
+# 12. Additional Qualifications for Currently Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]]).
 
-No additional regulatory or informational material applies to §60.16, Additional Qualifications for a Currently Qualified FTD.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]], Additional Qualifications for a Currently Qualified FTD.
 
 # End Information
 
@@ -4907,7 +4907,7 @@ No additional regulatory or informational material applies to §60.16, Additiona
 
 </div>
 
-# 13. Previously Qualified FTDs (§60.17).
+# 13. Previously Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]]).
 
 <div>
 
@@ -4935,11 +4935,11 @@ c\. \[Reserved\]
 
 d\. FTDs qualified prior to May 31, 2016, may be updated. If an evaluation is deemed appropriate or necessary by the NSPM after such an update, the evaluation will not require an evaluation to standards beyond those against which the FTD was originally qualified.
 
-e\. Other certificate holders or persons desiring to use an FTD may contract with FTD sponsors to use FTDs previously qualified at a particular level for an airplane type and approved for use within an FAA-approved flight training program. Such FTDs are not required to undergo an additional qualification process, except as described in §60.16.
+e\. Other certificate holders or persons desiring to use an FTD may contract with FTD sponsors to use FTDs previously qualified at a particular level for an airplane type and approved for use within an FAA-approved flight training program. Such FTDs are not required to undergo an additional qualification process, except as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]].
 
 f\. Each FTD user must obtain approval from the appropriate TPAA to use any FTD in an FAA-approved flight training program.
 
-g\. The intent of the requirement listed in §60.17(b), for each FTD to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FTD inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FTD.
+g\. The intent of the requirement listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]](b), for each FTD to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FTD inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FTD.
 
 h\. Downgrading of an FTD is a permanent change in qualification level and will necessitate the issuance of a revised SOQ to reflect the revised qualification level, as appropriate. If a temporary restriction is placed on an FTD because of a missing, malfunctioning, or inoperative component or on-going repairs, the restriction is not a permanent change in qualification level. Instead, the restriction is temporary and is removed when the reason for the restriction has been resolved.
 
@@ -4955,7 +4955,7 @@ j\. The FTD will normally be requalified using the FAA-approved MQTG and the cri
 
 </div>
 
-# 14. Inspection, Continuing Qualification, Evaluation, and Maintenance Requirements (§60.19).
+# 14. Inspection, Continuing Qualification, Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]).
 
 <div>
 
@@ -4983,7 +4983,7 @@ d\. During the continuing qualification evaluation conducted by the NSPM, the sp
 
 # Begin Information
 
-e\. The sponsor's test sequence and the content of each quarterly inspection required in §60.19(a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
+e\. The sponsor's test sequence and the content of each quarterly inspection required in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
 
 \(1\) Performance.
 
@@ -4999,7 +4999,7 @@ e\. The sponsor's test sequence and the content of each quarterly inspection req
 
 f\. If the NSP evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies, control sweeps, or motion or visual system tests.
 
-g\. The continuing qualification evaluations described in §60.19(b) will normally require 4 hours of FTD time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
+g\. The continuing qualification evaluations described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b) will normally require 4 hours of FTD time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
 
 \(1\) Review of the results of the quarterly inspections conducted by the sponsor since the last scheduled continuing qualification evaluation.
 
@@ -5009,15 +5009,15 @@ g\. The continuing qualification evaluations described in §60.19(b) will normal
 
 \(4\) An examination of the functions of the FTD may include the motion system, visual system, sound system as applicable, instructor operating station, and the normal functions and simulated malfunctions of the airplane systems. This examination is normally accomplished simultaneously with the subjective evaluation requirements.
 
-h\. The requirement established in §60.19(b)(4) regarding the frequency of NSPM-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
+h\. The requirement established in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b)(4) regarding the frequency of NSPM-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
 
-# 15. Logging FTD Discrepancies (§60.20)
+# 15. Logging FTD Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]])
 
-No additional regulatory or informational material applies to §60.20. Logging FTD Discrepancies.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]. Logging FTD Discrepancies.
 
-# 16. Interim Qualification of FTDs for New Airplane Types or Models (§60.21)
+# 16. Interim Qualification of FTDs for New Airplane Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]])
 
-No additional regulatory or informational material applies to §60.21, Interim Qualification of FTDs for New Airplane Types or Models.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]], Interim Qualification of FTDs for New Airplane Types or Models.
 
 # End Information
 
@@ -5027,7 +5027,7 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 </div>
 
-# 17. Modifications to FTDs (§60.23)
+# 17. Modifications to FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]])
 
 <div>
 
@@ -5037,13 +5037,13 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 # Begin QPS Requirements
 
-a\. The notification described in §60.23(c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FTD and the results that are expected with the modification incorporated.
+a\. The notification described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FTD and the results that are expected with the modification incorporated.
 
 b\. Prior to using the modified FTD:
 
 \(1\) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (e.g., accomplishment of FSTD Directives) must be acceptable to the NSPM; and
 
-\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in §60.15(b) are addressed by the appropriate personnel as described in that section.
+\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) are addressed by the appropriate personnel as described in that section.
 
 # End QPS Requirements
 
@@ -5065,7 +5065,7 @@ c\. FSTD Directives are considered modification of an FTD. See Attachment 4 of t
 
 </div>
 
-# 18. Operation with Missing, Malfunctioning, or Inoperative Components (§60.25)
+# 18. Operation with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]])
 
 <div>
 
@@ -5075,13 +5075,13 @@ c\. FSTD Directives are considered modification of an FTD. See Attachment 4 of t
 
 # Begin Information
 
-a\. The sponsor's responsibility with respect to §60.25(a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FTD, including any missing, malfunctioning, or inoperative (MMI) component(s).
+a\. The sponsor's responsibility with respect to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FTD, including any missing, malfunctioning, or inoperative (MMI) component(s).
 
 b\. It is the responsibility of the instructor, check airman, or representative of the administrator conducting training, testing, or checking to exercise reasonable and prudent judgment to determine if any MMI component is necessary for the satisfactory completion of a specific maneuver, procedure, or task.
 
 c\. If the 29th or 30th day of the 30-day period described in 60.25(b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
 
-d\. In accordance with the authorization described in §60.25(b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FTD. Repairs having a larger impact on the FTD's ability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
+d\. In accordance with the authorization described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FTD. Repairs having a larger impact on the FTD's ability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
 
 # End Information
 
@@ -5091,7 +5091,7 @@ d\. In accordance with the authorization described in §60.25(b), the sponsor ma
 
 </div>
 
-# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27)
+# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]])
 
 <div>
 
@@ -5111,7 +5111,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 </div>
 
-# 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29)
+# 20. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]])
 
 <div>
 
@@ -5131,7 +5131,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 </div>
 
-# 21. Recordkeeping and Reporting (§60.31)
+# 21. Recordkeeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]])
 
 <div>
 
@@ -5141,7 +5141,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 # Begin QPS Requirements
 
-a\. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by §60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
+a\. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]](a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 
 b\. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 
@@ -5153,7 +5153,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 </div>
 
-# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33)
+# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]])
 
 <div>
 
@@ -5163,7 +5163,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]], Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
 
 # End Information
 
@@ -5203,7 +5203,7 @@ a\. The following is a general description of each level of FTD. Detailed standa
 
 \(4\) Level 7. A Level 7 device is one that has an enclosed airplane-specific flight deck and aerodynamic program with all applicable airplane systems operating and control loading that is representative of the simulated airplane throughout its ground and flight envelope and significant sound representation. All displays may be flat/LCD panel representations or actual representations of displays in the aircraft, but all controls, switches, and knobs must physically replicate the aircraft in control operation. It also has a visual system that provides an out-of-the-flight deck view, providing cross-flight deck viewing (for both pilots simultaneously) of a field-of-view of at least 180° horizontally and 40° vertically.
 
-# 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37)
+# 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]])
 
 <div>
 
@@ -5213,7 +5213,7 @@ a\. The following is a general description of each level of FTD. Detailed standa
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.37, FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]], FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
 
 # End Information
 
@@ -5450,7 +5450,7 @@ e\. A Level 4 FTD does not require objective tests and therefore, Level 4 is not
 
 # 2. Test Requirements
 
-a\. The ground and flight tests required for qualification are listed in Table B2A Objective Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane; a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in §60.13, and in Appendix B. The results must be produced on an appropriate recording device acceptable to the NSPM and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table B2A. All results must be labeled using the tolerances and units given.
+a\. The ground and flight tests required for qualification are listed in Table B2A Objective Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane; a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]], and in Appendix B. The results must be produced on an appropriate recording device acceptable to the NSPM and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table B2A. All results must be labeled using the tolerances and units given.
 
 b\. Table B2A in this attachment sets out the test results required, including the parameters, tolerances, and flight conditions for FTD validation. Tolerances are provided for the listed tests because mathematical modeling and acquisition and development of reference data are often inexact. All tolerances listed in the following tables are applied to FTD performance. When two tolerance values are given for a parameter, the less restrictive may be used unless otherwise indicated. In those cases where a tolerance is expressed only as a percentage, the tolerance percentage applies to the maximum value of that parameter within its normal operating range as measured from the neutral or zero position unless otherwise indicated.
 
@@ -6199,53 +6199,53 @@ This appendix establishes the standards for Helicopter FFS evaluation and qualif
 
 1\. Introduction.
 
-2\. Applicability (§60.1) and (§60.2).
+2\. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]]) and ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.|§60.2]]).
 
-3\. Definitions (§60.3).
+3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
-4\. Qualification Performance Standards (§60.4).
+4\. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]]).
 
-5\. Quality Management System (§60.5).
+5\. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]]).
 
-6\. Sponsor Qualification Requirements (§60.7).
+6\. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]).
 
-7\. Additional Responsibilities of the Sponsor (§60.9).
+7\. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]]).
 
-8\. FFS Use (§60.11).
+8\. FFS Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]]).
 
-9\. FFS Objective Data Requirements (§60.13).
+9\. FFS Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]]).
 
-10\. Special Equipment and Personnel Requirements for Qualification of the FFS (§60.14).
+10\. Special Equipment and Personnel Requirements for Qualification of the FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
-11\. Initial (and Upgrade) Qualification Requirements (§60.15).
+11\. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
-12\. Additional Qualifications for a Currently Qualified FFS (§60.16).
+12\. Additional Qualifications for a Currently Qualified FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]]).
 
-13\. Previously Qualified FFSs (§60.17).
+13\. Previously Qualified FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]]).
 
-14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19).
+14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]).
 
-15\. Logging FFS Discrepancies (§60.20).
+15\. Logging FFS Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]).
 
-16\. Interim Qualification of FFSs for New Helicopter Types or Models (§60.21).
+16\. Interim Qualification of FFSs for New Helicopter Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]]).
 
-17\. Modifications to FFSs (§60.23).
+17\. Modifications to FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]).
 
-18\. Operations with Missing, Malfunctioning, or Inoperative Components (§60.25).
+18\. Operations with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]]).
 
-19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27).
+19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]]).
 
-20\. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29).
+20\. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]]).
 
-21\. Record Keeping and Reporting (§60.31).
+21\. Record Keeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]]).
 
-22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33).
+22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]]).
 
 23\. \[Reserved\]
 
 24\. \[Reserved\]
 
-25\. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37).
+25\. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]]).
 
 Attachment 1 to Appendix C to Part 60—General Simulator Requirements.
 
@@ -6347,7 +6347,7 @@ d\. Related Reading References.
 
 </div>
 
-# 2. Applicability (§§60.1 and 60.2)
+# 2. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
 
 <div>
 
@@ -6357,7 +6357,7 @@ d\. Related Reading References.
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.1, Applicability, or to §60.2, Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], Applicability, or to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.|§60.2]], Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
 
 # End Information
 
@@ -6367,7 +6367,7 @@ No additional regulatory or informational material applies to §60.1, Applicabil
 
 </div>
 
-# 3. Definitions (§60.3)
+# 3. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]])
 
 <div>
 
@@ -6387,7 +6387,7 @@ See Appendix F of this part for a list of definitions and abbreviations from par
 
 </div>
 
-# 4. Qualification Performance Standards (§60.4)
+# 4. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]])
 
 <div>
 
@@ -6397,7 +6397,7 @@ See Appendix F of this part for a list of definitions and abbreviations from par
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.4, Qualification Performance Standards.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]], Qualification Performance Standards.
 
 # End Information
 
@@ -6407,7 +6407,7 @@ No additional regulatory or informational material applies to §60.4, Qualificat
 
 </div>
 
-# 5. Quality Management System (§60.5)
+# 5. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]])
 
 <div>
 
@@ -6427,7 +6427,7 @@ See Appendix E of this part for additional regulatory and informational material
 
 </div>
 
-# 6. Sponsor Qualification Requirements (§60.7)
+# 6. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]])
 
 <div>
 
@@ -6437,7 +6437,7 @@ See Appendix E of this part for additional regulatory and informational material
 
 # Begin Information
 
-a\. The intent of the language in §60.7(b) is to have a specific FFS, identified by the sponsor, used at least once in an FAA-approved flight training program for the helicopter simulated during the 12-month period described. The identification of the specific FFS may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FFS at least once during the prescribed period. There is no minimum number of hours or minimum FFS periods required.
+a\. The intent of the language in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b) is to have a specific FFS, identified by the sponsor, used at least once in an FAA-approved flight training program for the helicopter simulated during the 12-month period described. The identification of the specific FFS may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FFS at least once during the prescribed period. There is no minimum number of hours or minimum FFS periods required.
 
 b\. The following examples describe acceptable operational practices:
 
@@ -6445,9 +6445,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor is sponsoring a single, specific FFS for its own use, in its own facility or elsewhere—this single FFS forms the basis for the sponsorship. The sponsor uses that FFS at least once in each 12-month period in that sponsor's FAA-approved flight training program for the helicopter simulated. This 12-month period is established according to the following schedule:
 
-\(i\) If the FFS was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with §60.19 after May 30, 2008, and continues for each subsequent 12-month period;
+\(i\) If the FFS was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]] after May 30, 2008, and continues for each subsequent 12-month period;
 
-\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with §60.15. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
+\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
 
 \(b\) There is no minimum number of hours of FFS use required.
 
@@ -6457,11 +6457,11 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor sponsors an additional number of FFSs, in its facility or elsewhere. Each additionally sponsored FFS must be—
 
-\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the helicopter simulated (as described in §60.7(d)(1)); or
+\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the helicopter simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); or
 
-\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter simulated (as described in §60.7(d)(1)). This 12-month period is established in the same manner as in example one; or
+\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)). This 12-month period is established in the same manner as in example one; or
 
-\(iii\) Provided a statement each year from a qualified pilot, (after having flown the helicopter, not the subject FFS or another FFS, during the preceding 12-month period) stating that the subject FFS's performance and handling qualities represent the helicopter (as described in §60.7(d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
+\(iii\) Provided a statement each year from a qualified pilot, (after having flown the helicopter, not the subject FFS or another FFS, during the preceding 12-month period) stating that the subject FFS's performance and handling qualities represent the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
 
 \(b\) There is no minimum number of hours of FFS use required.
 
@@ -6473,9 +6473,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(c\) All of the FFSs in the Chicago and Moscow centers could be dry-leased (*i.e.*, the certificate holder does not have and use FAA-approved flight training programs for the FFSs in the Chicago and Moscow centers) because—
 
-\(i\) Each FFS in the Chicago center and each FFS in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter (as described in §60.7(d)(1)); OR
+\(i\) Each FFS in the Chicago center and each FFS in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); OR
 
-\(ii\) A statement is obtained from a qualified pilot (having flown the helicopter, not the subject FFS or another FFS during the preceding 12-month period) stating that the performance and handling qualities of each FFS in the Chicago and Moscow centers represents the helicopter (as described in §60.7(d)(2)).
+\(ii\) A statement is obtained from a qualified pilot (having flown the helicopter, not the subject FFS or another FFS during the preceding 12-month period) stating that the performance and handling qualities of each FFS in the Chicago and Moscow centers represents the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)).
 
 # End Information
 
@@ -6485,11 +6485,11 @@ b\. The following examples describe acceptable operational practices:
 
 </div>
 
-7\. Additional Responsibilities of the Sponsor (§60.9).
+7\. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]]).
 
 # Begin Information
 
-The phrase “as soon as practicable” in §60.9(a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FFS.
+The phrase “as soon as practicable” in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FFS.
 
 # End Information
 
@@ -6499,7 +6499,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 </div>
 
-# 8. FFS Use (§60.11)
+# 8. FFS Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]])
 
 <div>
 
@@ -6509,7 +6509,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.11, FFS Use.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]], FFS Use.
 
 # End Information
 
@@ -6519,7 +6519,7 @@ No additional regulatory or informational material applies to §60.11, FFS Use.
 
 </div>
 
-# 9. FFS Objective Data Requirements (§60.13)
+# 9. FFS Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]])
 
 <div>
 
@@ -6569,7 +6569,7 @@ b\. The data, regardless of source, must be presented:
 
 c\. After completion of any additional flight test, a flight test report must be submitted in support of the validation data. The report must contain sufficient data and rationale to support qualification of the FFS at the level requested.
 
-d\. As required by §60.13(f), the sponsor must notify the NSPM when it becomes aware that an addition to, an amendment to, or a revision of data that may relate to FFS performance or handling characteristics is available. The data referred to in this paragraph is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certificate was issued. The sponsor must—
+d\. As required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f), the sponsor must notify the NSPM when it becomes aware that an addition to, an amendment to, or a revision of data that may relate to FFS performance or handling characteristics is available. The data referred to in this paragraph is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certificate was issued. The sponsor must—
 
 \(1\) Within 10 calendar days, notify the NSPM of the existence of this data; and
 
@@ -6591,7 +6591,7 @@ e\. In those cases where the objective test results authorize a “snapshot test
 
 # Begin Information
 
-f\. The FFS sponsor is encouraged to maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and, if appropriate, with the person who supplied the aircraft data package for the FFS in order to facilitate the notification required by §60.13(f).
+f\. The FFS sponsor is encouraged to maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and, if appropriate, with the person who supplied the aircraft data package for the FFS in order to facilitate the notification required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f).
 
 g\. It is the intent of the NSPM that for new aircraft entering service, at a point well in advance of preparation of the QTG, the sponsor should submit to the NSPM for approval, a descriptive document (see Table C2D, Sample Validation Data Roadmap for Helicopters) containing the plan for acquiring the validation data, including data sources. This document should clearly identify sources of data for all required tests, a description of the validity of these data for a specific engine type and thrust rating configuration, and the revision levels of all avionics affecting the performance or flying qualities of the aircraft. Additionally, this document should provide other information, such as the rationale or explanation for cases where data or data parameters are missing, instances where engineering simulation data are used or where flight test methods require further explanations. It should also provide a brief narrative describing the cause and effect of any deviation from data requirements. The aircraft manufacturer may provide this document.
 
@@ -6601,7 +6601,7 @@ i\. The NSPM will consider, on a case-by-case basis, whether to approve suppleme
 
 # End Information
 
-# 10. Special Equipment and Personnel Requirements for Qualification of the FFS (§60.14)
+# 10. Special Equipment and Personnel Requirements for Qualification of the FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]])
 
 <div>
 
@@ -6623,7 +6623,7 @@ b\. Examples of a special evaluation include an evaluation conducted after an FF
 
 </div>
 
-# 11. Initial (and Upgrade) Qualification Requirements (§60.15)
+# 11. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]])
 
 <div>
 
@@ -6641,11 +6641,11 @@ a\. In order to be qualified at a particular qualification level, the FFS must:
 
 \(3\) Satisfactorily accomplish the subjective tests listed in Attachment 3 of this appendix.
 
-b\. The request described in §60.15(a) must include all of the following:
+b\. The request described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](a) must include all of the following:
 
 \(1\) A statement that the FFS meets all of the applicable provisions of this part and all applicable provisions of the QPS.
 
-\(2\) A confirmation that the sponsor will forward to the NSPM the statement described in §60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
+\(2\) A confirmation that the sponsor will forward to the NSPM the statement described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
 
 \(3\) A QTG, acceptable to the NSPM, that includes all of the following:
 
@@ -6675,7 +6675,7 @@ e\. The QTG described in paragraphs (a)(3) and (b) of this section, must include
 
 \(1\) A QTG cover page with sponsor and FAA approval signature blocks (see Attachment 4, Figure C4C, of this appendix, for a sample QTG cover page).
 
-\(2\) A continuing qualification evaluation schedule requirements page. This page will be used by the NSPM to establish and record the frequency with which continuing qualification evaluations must be conducted and any subsequent changes that may be determined by the NSPM in accordance with §60.19. See Attachment 4 of this appendix, Figure C4G, for a sample Continuing Qualification Evaluation Requirements page.
+\(2\) A continuing qualification evaluation schedule requirements page. This page will be used by the NSPM to establish and record the frequency with which continuing qualification evaluations must be conducted and any subsequent changes that may be determined by the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]. See Attachment 4 of this appendix, Figure C4G, for a sample Continuing Qualification Evaluation Requirements page.
 
 \(3\) An FFS information page that provides the information listed in this paragraph (see Attachment 4, Figure C4B, of this appendix for a sample FFS information page). For convertible FFSs, the sponsor must submit a separate page for each configuration of the FFS.
 
@@ -6825,9 +6825,9 @@ t\. Under normal circumstances, the NSPM establishes a date for the initial or u
 
 u\. The numbering system used for objective test results in the QTG should closely follow the numbering system set out in Attachment 2, FFS Objective Tests, Table C2A of this appendix.
 
-v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of §60.15(d).
+v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](d).
 
-w\. Examples of the exclusions for which the FFS might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in §60.15(g)(6), include takeoffs and landing from slopes and pinnacles.
+w\. Examples of the exclusions for which the FFS might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](g)(6), include takeoffs and landing from slopes and pinnacles.
 
 # End Information
 
@@ -6837,11 +6837,11 @@ w\. Examples of the exclusions for which the FFS might not have been subjectivel
 
 </div>
 
-# 12. Additional Qualifications for a Currently Qualified FFS (§60.16)
+# 12. Additional Qualifications for a Currently Qualified FFS ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]])
 
-No additional regulatory or informational material applies to §60.16, Additional Qualifications for a Currently Qualified FFS.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]], Additional Qualifications for a Currently Qualified FFS.
 
-# 13. Previously Qualified FFSs (§60.17)
+# 13. Previously Qualified FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]])
 
 <div>
 
@@ -6879,11 +6879,11 @@ d\. Simulators qualified prior to May 30, 2008, may be updated. If an evaluation
 
 # Begin Information
 
-e\. Other certificate holders or persons desiring to use an FFS may contract with FFS sponsors to use FFSs previously qualified at a particular level for a helicopter type and approved for use within an FAA-approved flight training program. Such FFSs are not required to undergo an additional qualification process, except as described in §60.16.
+e\. Other certificate holders or persons desiring to use an FFS may contract with FFS sponsors to use FFSs previously qualified at a particular level for a helicopter type and approved for use within an FAA-approved flight training program. Such FFSs are not required to undergo an additional qualification process, except as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]].
 
 f\. Each FFS user must obtain approval from the appropriate TPAA to use any FFS in an FAA-approved flight training program.
 
-g\. The intent of the requirement listed in §60.17(b), for each FFS to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FFS inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FFS.
+g\. The intent of the requirement listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]](b), for each FFS to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FFS inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FFS.
 
 h\. Downgrading of an FFS is a permanent change in qualification level and will necessitate the issuance of a revised SOQ to reflect the revised qualification level, as appropriate. If a temporary restriction is placed on an FFS because of a missing, malfunctioning, or inoperative component or on-going repairs, the restriction is not a permanent change in qualification level. Instead, the restriction is temporary and is removed when the reason for the restriction has been resolved.
 
@@ -6899,7 +6899,7 @@ j\. The FFS will normally be requalified using the FAA-approved MQTG and the cri
 
 </div>
 
-# 14. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19)
+# 14. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]])
 
 <div>
 
@@ -6933,7 +6933,7 @@ e\. The NSPM will conduct continuing qualification evaluations every 12 months u
 
 # Begin Information
 
-f\. The sponsor's test sequence and the content of each quarterly inspection required in §60.19(a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
+f\. The sponsor's test sequence and the content of each quarterly inspection required in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
 
 \(1\) Performance.
 
@@ -6949,7 +6949,7 @@ f\. The sponsor's test sequence and the content of each quarterly inspection req
 
 g\. If the NSP evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies, control dynamics, sounds and vibrations, motion, and/or some visual system tests.
 
-h\. The continuing qualification evaluations, described in §60.19(b), will normally require 4 hours of FFS time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (*e.g.*, computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
+h\. The continuing qualification evaluations, described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b), will normally require 4 hours of FFS time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (*e.g.*, computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
 
 \(1\) Review of the results of the quarterly inspections conducted by the sponsor since the last scheduled continuing qualification evaluation.
 
@@ -6967,7 +6967,7 @@ h\. The continuing qualification evaluations, described in §60.19(b), will norm
 
 </div>
 
-# 15. Logging FFS Discrepancies (§60.20)
+# 15. Logging FFS Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]])
 
 <div>
 
@@ -6977,7 +6977,7 @@ h\. The continuing qualification evaluations, described in §60.19(b), will norm
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.20. Logging FFS Discrepancies.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]. Logging FFS Discrepancies.
 
 # End Information
 
@@ -6987,7 +6987,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 </div>
 
-# 16. Interim Qualification of FFSs for New Helicopter Types or Models (§60.21)
+# 16. Interim Qualification of FFSs for New Helicopter Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]])
 
 <div>
 
@@ -6997,7 +6997,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.21, Interim Qualification of FFSs for New Helicopter Types or Models.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]], Interim Qualification of FFSs for New Helicopter Types or Models.
 
 # End Information
 
@@ -7007,7 +7007,7 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 </div>
 
-# 17. Modifications to FFSs (§60.23)
+# 17. Modifications to FFSs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]])
 
 <div>
 
@@ -7017,13 +7017,13 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 # Begin QPS Requirements
 
-a\. The notification described in §60.23(c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FFS and the results that are expected with the modification incorporated.
+a\. The notification described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FFS and the results that are expected with the modification incorporated.
 
 b\. Prior to using the modified FFS:
 
 \(1\) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (*e.g.*, accomplishment of FSTD Directives) must be acceptable to the NSPM; and
 
-\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in §60.15(b) are addressed by the appropriate personnel as described in that section.
+\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) are addressed by the appropriate personnel as described in that section.
 
 # End QPS Requirements
 
@@ -7045,7 +7045,7 @@ b\. Prior to using the modified FFS:
 
 </div>
 
-# 18. Operation with Missing, Malfunctioning, or Inoperative Components (§60.25)
+# 18. Operation with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]])
 
 <div>
 
@@ -7055,13 +7055,13 @@ b\. Prior to using the modified FFS:
 
 # Begin Information
 
-a\. The sponsor's responsibility with respect to §60.25(a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FFS, including any missing, malfunctioning, or inoperative (MMI) component(s).
+a\. The sponsor's responsibility with respect to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FFS, including any missing, malfunctioning, or inoperative (MMI) component(s).
 
 b\. It is the responsibility of the instructor, check airman, or representative of the administrator conducting training, testing, or checking to exercise reasonable and prudent judgment to determine if any MMI component is necessary for the satisfactory completion of a specific maneuver, procedure, or task.
 
-c\. If the 29th or 30th day of the 30-day period described in §60.25(b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
+c\. If the 29th or 30th day of the 30-day period described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
 
-d\. In accordance with the authorization described in §60.25(b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FFS. Repairs having a larger impact on FFS capability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
+d\. In accordance with the authorization described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FFS. Repairs having a larger impact on FFS capability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
 
 # End Information
 
@@ -7071,7 +7071,7 @@ d\. In accordance with the authorization described in §60.25(b), the sponsor ma
 
 </div>
 
-# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27)
+# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]])
 
 <div>
 
@@ -7091,7 +7091,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 </div>
 
-# 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29)
+# 20. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]])
 
 <div>
 
@@ -7111,7 +7111,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 </div>
 
-# 21. Record Keeping and Reporting (§60.31)
+# 21. Record Keeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]])
 
 <div>
 
@@ -7121,7 +7121,7 @@ If the sponsor provides a plan for how the FFS will be maintained during its out
 
 # Begin QPS Requirements
 
-a\. FFS modifications can include hardware or software changes. For FFS modifications involving software programming changes, the record required by §60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
+a\. FFS modifications can include hardware or software changes. For FFS modifications involving software programming changes, the record required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]](a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 
 b\. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 
@@ -7133,7 +7133,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 </div>
 
-# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33)
+# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]])
 
 <div>
 
@@ -7143,15 +7143,15 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]], Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
 
 # 23. \[Reserved\]
 
 # 24. \[Reserved\]
 
-# 25. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37)
+# 25. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]])
 
-No additional regulatory or informational material applies to §60.37, FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]], FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
 
 # End Information
 
@@ -7369,7 +7369,7 @@ c\. Table C2A addresses helicopter simulators at Levels B, C, and D because ther
 
 # 2. Test Requirements
 
-a\. The ground and flight tests required for qualification are listed in Table of C2A, FFS Objective Tests. Computer-generated simulator test results must be provided for each test except where an alternative test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the helicopter being simulated or to the qualification level sought, it may be disregarded (*e.g.*, an engine out missed approach for a single-engine helicopter, or a hover test for a Level B simulator). Each test result is compared against the validation data described in §60.13 and in this appendix. Although use of a driver program designed to automatically accomplish the tests is encouraged for all simulators and required for Level C and Level D simulators, each test must be able to be accomplished manually while recording all appropriate parameters. The results must be produced on an appropriate recording device acceptable to the NSPM and must include simulator number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table C2A. All results must be labeled using the tolerances and units given.
+a\. The ground and flight tests required for qualification are listed in Table of C2A, FFS Objective Tests. Computer-generated simulator test results must be provided for each test except where an alternative test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the helicopter being simulated or to the qualification level sought, it may be disregarded (*e.g.*, an engine out missed approach for a single-engine helicopter, or a hover test for a Level B simulator). Each test result is compared against the validation data described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]] and in this appendix. Although use of a driver program designed to automatically accomplish the tests is encouraged for all simulators and required for Level C and Level D simulators, each test must be able to be accomplished manually while recording all appropriate parameters. The results must be produced on an appropriate recording device acceptable to the NSPM and must include simulator number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table C2A. All results must be labeled using the tolerances and units given.
 
 b\. Table C2A sets out the test results required, including the parameters, tolerances, and flight conditions for simulator validation. Tolerances are provided for the listed tests because mathematical modeling and acquisition/development of reference data are often inexact. All tolerances listed in the following tables are applied to simulator performance. When two tolerance values are given for a parameter, the less restrictive value may be used unless otherwise indicated. In those cases where a tolerance is expressed only as a percentage, the tolerance percentage applies to the maximum value of that parameter within its normal operating range as measured from the neutral or zero position unless otherwise indicated.
 
@@ -8281,7 +8281,7 @@ Table C3A—Functions and Subjective Tests
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th colspan="5" scope="col">QPS requirements</th></tr><tr class="odd"><th rowspan="2" scope="col">Entry No.</th><th rowspan="2" scope="col">Operations tasks</th><th colspan="3" scope="col">Simulator level</th></tr><tr class="header"><th scope="col">B</th><th scope="col">C</th><th scope="col">D</th></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row">Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or the level of simulator qualification involved. Items not installed or not functional on the simulator and, therefore, not appearing on the SOQ Configuration List, are not required to be liste[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.175   Takeoff and landing under IFR.|14 CFR 91.175]]ns on the SOQ.</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>1. Preparation for Flight</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">1.a.</td><td style="text-align: left;">Flight deck check: Switches, indicators, systems, and equipment</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>2. APU/Engine start and run-up</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.a.</td><td style="text-align: left;">Normal start procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">2.b.</td><td style="text-align: left;">Alternate start procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.c.</td><td style="text-align: left;">Abnormal starts and shutdowns (e.g., hot start, hung start)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">2.d.</td><td style="text-align: left;">Rotor engagement</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.e.</td><td style="text-align: left;">System checks</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>3. Taxiing—Ground</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.a</td><td style="text-align: left;">Power required to taxi</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.b.</td><td style="text-align: left;">Brake effectiveness</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.c.</td><td style="text-align: left;">Ground handling</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.d.</td><td style="text-align: left;">Water handling (if applicable)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.1.</td><td style="text-align: left;">Brake system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.2.</td><td style="text-align: left;">Ground resonance</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.3.</td><td style="text-align: left;">Dynamic rollover</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.4.</td><td style="text-align: left;">Deployment of emergency floats/water landing</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.5.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>4. Taxiing—Hover</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">4.a.</td><td style="text-align: left;">Takeoff to a hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.b.</td><td style="text-align: left;" colspan="4">Instrument response:</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.b.1.</td><td style="text-align: left;">Engine instruments</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.b.2.</td><td style="text-align: left;">Flight instruments</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.b.3.</td><td style="text-align: left;">Hovering turns</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.c.</td><td style="text-align: left;" colspan="4">Hover power checks:</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.c.1.</td><td style="text-align: left;">In ground effect (IGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.c.2.</td><td style="text-align: left;">Out of ground effect (OGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.d.</td><td style="text-align: left;">Crosswind/tailwind hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.e.</td><td style="text-align: left;">Translating tendency</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.f.</td><td style="text-align: left;" colspan="4">External load operations:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.f.1.</td><td style="text-align: left;">Hookup</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.f.2.</td><td style="text-align: left;">Release</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.f.3.</td><td style="text-align: left;">Winch operations</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.1.</td><td style="text-align: left;">Engine failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.2.</td><td style="text-align: left;">Fuel governing system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.3.</td><td style="text-align: left;">Settling with power (OGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.4.</td><td style="text-align: left;">Hovering autorotation</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.5.</td><td style="text-align: left;">Stability augmentation system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.6.</td><td style="text-align: left;">Directional control malfunction</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.7.</td><td style="text-align: left;">Loss of tail rotor effectiveness (LTE)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.8.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.h.</td><td style="text-align: left;">Pre-takeoff checks</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>5. Takeoff/Translational Flight</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">5.a.</td><td style="text-align: left;">Forward (up to effective translational lift)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">5.b.</td><td style="text-align: left;">Sideward (up to limiting airspeed)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">5.c.</td><td style="text-align: left;">Rearward (up to limiting airspeed)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>6. Takeoff and Departure Phase</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.1.</td><td style="text-align: left;">From ground</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.2.</td><td style="text-align: left;">From hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.2.a.</td><td style="text-align: left;">Cat A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.2.b.</td><td style="text-align: left;">Cat B</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.3.</td><td style="text-align: left;">Running</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.4.</td><td style="text-align: left;">Crosswind/tailwind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.5.</td><td style="text-align: left;">Maximum performance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.6.</td><td style="text-align: left;">Instrument</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.7.</td><td style="text-align: left;">Takeoff from a confined area</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.8.</td><td style="text-align: left;">Takeoff from a pinnacle/platform</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.9.</td><td style="text-align: left;">Takeoff from a slope</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.10.</td><td style="text-align: left;">External load operations</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.b.</td><td style="text-align: left;">Abnormal/emergency procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.b.1.</td><td style="text-align: left;">Takeoff with engine failure after critical decision point (CDP)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.b.1.a.</td><td style="text-align: left;">Cat A</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.b.1.b.</td><td style="text-align: left;">Cat B</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.c.</td><td style="text-align: left;">Rejected takeoff</td><td style="text-align: center;"></td><td style="text-align: center;"></td><td style="text-align: center;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.c.1.</td><td style="text-align: left;">Land</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.c.2.</td><td style="text-align: left;">Water (if appropriate)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.d.</td><td style="text-align: left;">Instrument departure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.e.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>7. Climb</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">7.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">7.b.</td><td style="text-align: left;">Obstacle clearance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">7.c.</td><td style="text-align: left;">Vertical</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">7.d.</td><td style="text-align: left;">One engine inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">7.e.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>8. Cruise</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">8.a</td><td style="text-align: left;">Performance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.b.</td><td style="text-align: left;">Flying qualities</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.c.</td><td style="text-align: left;">Turns</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.c.1.</td><td style="text-align: left;">Timed</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.c.2.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.c.3.</td><td style="text-align: left;">Steep</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.d.</td><td style="text-align: left;">Accelerations and decelerations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.e.</td><td style="text-align: left;">High speed vibrations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.f.</td><td style="text-align: left;">External Load Operations (see entry 4.f. of this table)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.</td><td style="text-align: left;">Abnormal/emergency procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.1.</td><td style="text-align: left;">Engine fire</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.2</td><td style="text-align: left;">Engine failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.3.</td><td style="text-align: left;">Inflight engine shutdown and restart</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.4.</td><td style="text-align: left;">Fuel governing system failures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.5.</td><td style="text-align: left;">Directional control malfunction</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.6.</td><td style="text-align: left;">Hydraulic failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.7.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.8.</td><td style="text-align: left;">Rotor vibrations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.9.</td><td style="text-align: left;">Recovery from unusual attitudes</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>9. Descent</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">9.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.b.</td><td style="text-align: left;">Maximum rate</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">9.c.</td><td style="text-align: left;">Autorotative</td><td style="text-align: center;"></td><td style="text-align: center;"></td><td style="text-align: center;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.c.1.</td><td style="text-align: left;">Straight-in</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">9.c.2.</td><td style="text-align: left;">With turn</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.d.</td><td style="text-align: left;">External Load</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>10. Approach</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.</td><td style="text-align: left;">Non-precision</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.1.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.2.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.</td><td style="text-align: left;">Approach procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.a.</td><td style="text-align: left;">NDB</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.b.</td><td style="text-align: left;">VOR, RNAV, TACAN</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.c.</td><td style="text-align: left;">ASR</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.d.</td><td style="text-align: left;">Circling</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.e.</td><td style="text-align: left;">Helicopter only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.4.</td><td style="text-align: left;">Missed approach</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.4.a.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.4.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.</td><td style="text-align: left;">Precision</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.1.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.2.</td><td style="text-align: left;">Manually controlled—one or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.</td><td style="text-align: left;">Approach procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.a.</td><td style="text-align: left;">PAR</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.b.</td><td style="text-align: left;">MLS</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">ILS</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(1) Manual (raw data)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(2) Flight director only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(3) Autopilot* only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(4) Cat I</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(5) Cat II</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.4.</td><td style="text-align: left;" colspan="4">Missed approach:</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.4.a.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.4.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.4.c.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.c.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>11. Landings and Approaches to Landings</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.</td><td style="text-align: left;" colspan="4">Visual Approaches:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.1.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.2.</td><td style="text-align: left;">Steep</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.3.</td><td style="text-align: left;">Shallow</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.4.</td><td style="text-align: left;">Crosswind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.5.</td><td style="text-align: left;">Category A profile</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.6.</td><td style="text-align: left;">Category B profile</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.7.</td><td style="text-align: left;">External Load</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.1.</td><td style="text-align: left;">Directional control failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.2.</td><td style="text-align: left;">Hydraulics failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.3.</td><td style="text-align: left;">Fuel governing failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.4.</td><td style="text-align: left;">Autorotation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.5.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.6.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11c.</td><td style="text-align: left;" colspan="4">Landings:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.1.</td><td style="text-align: left;" colspan="4">Normal:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.1.a.</td><td style="text-align: left;">Running</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.1.b.</td><td style="text-align: left;">From Hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.2.</td><td style="text-align: left;">Pinnacle/platform</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.3.</td><td style="text-align: left;">Confined area</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.4.</td><td style="text-align: left;">Slope</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.5.</td><td style="text-align: left;">Crosswind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.6.</td><td style="text-align: left;">Tailwind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.7.</td><td style="text-align: left;">Rejected Landing</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.a.</td><td style="text-align: left;">From autorotation</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.c.</td><td style="text-align: left;">Directional control failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.d.</td><td style="text-align: left;">Hydraulics failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.e.</td><td style="text-align: left;">Stability augmentation system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.9.</td><td style="text-align: left;">Other (listed on the SOQ)</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>12. Any Flight Phase</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.1.</td><td style="text-align: left;">Air conditioning</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.2.</td><td style="text-align: left;">Anti-icing/deicing</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.3.</td><td style="text-align: left;">Auxiliary power-plant</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.4.</td><td style="text-align: left;">Communications</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.5.</td><td style="text-align: left;">Electrical</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.6.</td><td style="text-align: left;">Fire detection and suppression</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.7.</td><td style="text-align: left;">Stabilizer</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.8.</td><td style="text-align: left;">Flight controls</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.9.</td><td style="text-align: left;">Fuel and oil</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.10.</td><td style="text-align: left;">Hydraulic</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.11.</td><td style="text-align: left;">Landing gear</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.12.</td><td style="text-align: left;">Oxygen</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.13.</td><td style="text-align: left;">Pneumatic</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.14.</td><td style="text-align: left;">Powerplant</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.15.</td><td style="text-align: left;">Flight control computers</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.16.</td><td style="text-align: left;">Stability and control augmentation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.</td><td style="text-align: left;" colspan="4">Flight management and guidance system:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.1.</td><td style="text-align: left;">Airborne radar</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.2.</td><td style="text-align: left;">Automatic landing aids</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.3.</td><td style="text-align: left;">Autopilot</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.4.</td><td style="text-align: left;">Collision avoidance system</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.5.</td><td style="text-align: left;">Flight data displays</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.6.</td><td style="text-align: left;">Flight management computers</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.7.</td><td style="text-align: left;">Heads-up displays</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.8.</td><td style="text-align: left;">Navigation systems</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.</td><td style="text-align: left;" colspan="4">Airborne procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.1.</td><td style="text-align: left;">Holding</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.2.</td><td style="text-align: left;">Air hazard avoidance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.3.</td><td style="text-align: left;">Retreating blade stall recovery</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.4.</td><td style="text-align: left;">Mast bumping</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.5</td><td style="text-align: left;">Loss of directional control</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.6.</td><td style="text-align: left;">Loss of tail rotor effectiveness</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.7.</td><td style="text-align: left;">Other (listed on the SOQ)</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>13. Engine Shutdown and Parking</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">13.a.</td><td style="text-align: left;">Engine and systems operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">13.b.</td><td style="text-align: left;">Parking brake operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">13.c.</td><td style="text-align: left;">Rotor brake operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">13.d.</td><td style="text-align: left;">Abnormal/emergency procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th colspan="5" scope="col">QPS requirements</th></tr><tr class="odd"><th rowspan="2" scope="col">Entry No.</th><th rowspan="2" scope="col">Operations tasks</th><th colspan="3" scope="col">Simulator level</th></tr><tr class="header"><th scope="col">B</th><th scope="col">C</th><th scope="col">D</th></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row">Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or the level of simulator qualification involved. Items not installed or not functional on the simulator and, therefore, not appearing on the SOQ Configuration List, are not required to be listed as exceptions on the SOQ.</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>1. Preparation for Flight</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">1.a.</td><td style="text-align: left;">Flight deck check: Switches, indicators, systems, and equipment</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>2. APU/Engine start and run-up</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.a.</td><td style="text-align: left;">Normal start procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">2.b.</td><td style="text-align: left;">Alternate start procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.c.</td><td style="text-align: left;">Abnormal starts and shutdowns (e.g., hot start, hung start)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">2.d.</td><td style="text-align: left;">Rotor engagement</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">2.e.</td><td style="text-align: left;">System checks</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>3. Taxiing—Ground</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.a</td><td style="text-align: left;">Power required to taxi</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.b.</td><td style="text-align: left;">Brake effectiveness</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.c.</td><td style="text-align: left;">Ground handling</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.d.</td><td style="text-align: left;">Water handling (if applicable)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.1.</td><td style="text-align: left;">Brake system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.2.</td><td style="text-align: left;">Ground resonance</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.3.</td><td style="text-align: left;">Dynamic rollover</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">3.e.4.</td><td style="text-align: left;">Deployment of emergency floats/water landing</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">3.e.5.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>4. Taxiing—Hover</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">4.a.</td><td style="text-align: left;">Takeoff to a hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.b.</td><td style="text-align: left;" colspan="4">Instrument response:</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.b.1.</td><td style="text-align: left;">Engine instruments</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.b.2.</td><td style="text-align: left;">Flight instruments</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.b.3.</td><td style="text-align: left;">Hovering turns</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.c.</td><td style="text-align: left;" colspan="4">Hover power checks:</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.c.1.</td><td style="text-align: left;">In ground effect (IGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.c.2.</td><td style="text-align: left;">Out of ground effect (OGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.d.</td><td style="text-align: left;">Crosswind/tailwind hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.e.</td><td style="text-align: left;">Translating tendency</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.f.</td><td style="text-align: left;" colspan="4">External load operations:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.f.1.</td><td style="text-align: left;">Hookup</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.f.2.</td><td style="text-align: left;">Release</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.f.3.</td><td style="text-align: left;">Winch operations</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.1.</td><td style="text-align: left;">Engine failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.2.</td><td style="text-align: left;">Fuel governing system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.3.</td><td style="text-align: left;">Settling with power (OGE)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.4.</td><td style="text-align: left;">Hovering autorotation</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.5.</td><td style="text-align: left;">Stability augmentation system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.6.</td><td style="text-align: left;">Directional control malfunction</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.g.7.</td><td style="text-align: left;">Loss of tail rotor effectiveness (LTE)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">4.g.8.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">4.h.</td><td style="text-align: left;">Pre-takeoff checks</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>5. Takeoff/Translational Flight</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">5.a.</td><td style="text-align: left;">Forward (up to effective translational lift)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">5.b.</td><td style="text-align: left;">Sideward (up to limiting airspeed)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">5.c.</td><td style="text-align: left;">Rearward (up to limiting airspeed)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>6. Takeoff and Departure Phase</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.1.</td><td style="text-align: left;">From ground</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.2.</td><td style="text-align: left;">From hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.2.a.</td><td style="text-align: left;">Cat A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.2.b.</td><td style="text-align: left;">Cat B</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.3.</td><td style="text-align: left;">Running</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.4.</td><td style="text-align: left;">Crosswind/tailwind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.5.</td><td style="text-align: left;">Maximum performance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.6.</td><td style="text-align: left;">Instrument</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.7.</td><td style="text-align: left;">Takeoff from a confined area</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.8.</td><td style="text-align: left;">Takeoff from a pinnacle/platform</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.a.9.</td><td style="text-align: left;">Takeoff from a slope</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.a.10.</td><td style="text-align: left;">External load operations</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.b.</td><td style="text-align: left;">Abnormal/emergency procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.b.1.</td><td style="text-align: left;">Takeoff with engine failure after critical decision point (CDP)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.b.1.a.</td><td style="text-align: left;">Cat A</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.b.1.b.</td><td style="text-align: left;">Cat B</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.c.</td><td style="text-align: left;">Rejected takeoff</td><td style="text-align: center;"></td><td style="text-align: center;"></td><td style="text-align: center;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.c.1.</td><td style="text-align: left;">Land</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.c.2.</td><td style="text-align: left;">Water (if appropriate)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">6.d.</td><td style="text-align: left;">Instrument departure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">6.e.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>7. Climb</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">7.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">7.b.</td><td style="text-align: left;">Obstacle clearance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">7.c.</td><td style="text-align: left;">Vertical</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">7.d.</td><td style="text-align: left;">One engine inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">7.e.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>8. Cruise</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">8.a</td><td style="text-align: left;">Performance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.b.</td><td style="text-align: left;">Flying qualities</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.c.</td><td style="text-align: left;">Turns</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.c.1.</td><td style="text-align: left;">Timed</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.c.2.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.c.3.</td><td style="text-align: left;">Steep</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.d.</td><td style="text-align: left;">Accelerations and decelerations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.e.</td><td style="text-align: left;">High speed vibrations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.f.</td><td style="text-align: left;">External Load Operations (see entry 4.f. of this table)</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.</td><td style="text-align: left;">Abnormal/emergency procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.1.</td><td style="text-align: left;">Engine fire</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.2</td><td style="text-align: left;">Engine failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.3.</td><td style="text-align: left;">Inflight engine shutdown and restart</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.4.</td><td style="text-align: left;">Fuel governing system failures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.5.</td><td style="text-align: left;">Directional control malfunction</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.6.</td><td style="text-align: left;">Hydraulic failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.7.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">8.g.8.</td><td style="text-align: left;">Rotor vibrations</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">8.g.9.</td><td style="text-align: left;">Recovery from unusual attitudes</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>9. Descent</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">9.a.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.b.</td><td style="text-align: left;">Maximum rate</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">9.c.</td><td style="text-align: left;">Autorotative</td><td style="text-align: center;"></td><td style="text-align: center;"></td><td style="text-align: center;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.c.1.</td><td style="text-align: left;">Straight-in</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">9.c.2.</td><td style="text-align: left;">With turn</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">9.d.</td><td style="text-align: left;">External Load</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>10. Approach</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.</td><td style="text-align: left;">Non-precision</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.1.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.2.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.</td><td style="text-align: left;">Approach procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.a.</td><td style="text-align: left;">NDB</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.b.</td><td style="text-align: left;">VOR, RNAV, TACAN</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.c.</td><td style="text-align: left;">ASR</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.3.d.</td><td style="text-align: left;">Circling</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.3.e.</td><td style="text-align: left;">Helicopter only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.4.</td><td style="text-align: left;">Missed approach</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.a.4.a.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.a.4.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.</td><td style="text-align: left;">Precision</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.1.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.2.</td><td style="text-align: left;">Manually controlled—one or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.</td><td style="text-align: left;">Approach procedures:</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.a.</td><td style="text-align: left;">PAR</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.b.</td><td style="text-align: left;">MLS</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">ILS</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(1) Manual (raw data)</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(2) Flight director only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(3) Autopilot* only</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(4) Cat I</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.3.c.</td><td style="text-align: left;">(5) Cat II</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.4.</td><td style="text-align: left;" colspan="4">Missed approach:</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.4.a.</td><td style="text-align: left;">All engines operating</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.b.4.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">10.b.4.c.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">10.c.</td><td style="text-align: left;">Others as listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" colspan="5" scope="row"><span>11. Landings and Approaches to Landings</span></td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.</td><td style="text-align: left;" colspan="4">Visual Approaches:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.1.</td><td style="text-align: left;">Normal</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.2.</td><td style="text-align: left;">Steep</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.3.</td><td style="text-align: left;">Shallow</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.4.</td><td style="text-align: left;">Crosswind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.5.</td><td style="text-align: left;">Category A profile</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.a.6.</td><td style="text-align: left;">Category B profile</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.a.7.</td><td style="text-align: left;">External Load</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.1.</td><td style="text-align: left;">Directional control failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.2.</td><td style="text-align: left;">Hydraulics failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.3.</td><td style="text-align: left;">Fuel governing failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.4.</td><td style="text-align: left;">Autorotation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.b.5.</td><td style="text-align: left;">Stability system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.b.6.</td><td style="text-align: left;">Others listed on the SOQ</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11c.</td><td style="text-align: left;" colspan="4">Landings:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.1.</td><td style="text-align: left;" colspan="4">Normal:</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.1.a.</td><td style="text-align: left;">Running</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.1.b.</td><td style="text-align: left;">From Hover</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.2.</td><td style="text-align: left;">Pinnacle/platform</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.3.</td><td style="text-align: left;">Confined area</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.4.</td><td style="text-align: left;">Slope</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.5.</td><td style="text-align: left;">Crosswind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.6.</td><td style="text-align: left;">Tailwind</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.7.</td><td style="text-align: left;">Rejected Landing</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.</td><td style="text-align: left;" colspan="4">Abnormal/emergency procedures:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.a.</td><td style="text-align: left;">From autorotation</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.b.</td><td style="text-align: left;">One or more engines inoperative</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.c.</td><td style="text-align: left;">Directional control failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.8.d.</td><td style="text-align: left;">Hydraulics failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">11.c.8.e.</td><td style="text-align: left;">Stability augmentation system failure</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">11.c.9.</td><td style="text-align: left;">Other (listed on the SOQ)</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>12. Any Flight Phase</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.1.</td><td style="text-align: left;">Air conditioning</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.2.</td><td style="text-align: left;">Anti-icing/deicing</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.3.</td><td style="text-align: left;">Auxiliary power-plant</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.4.</td><td style="text-align: left;">Communications</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.5.</td><td style="text-align: left;">Electrical</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.6.</td><td style="text-align: left;">Fire detection and suppression</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.7.</td><td style="text-align: left;">Stabilizer</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.8.</td><td style="text-align: left;">Flight controls</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.9.</td><td style="text-align: left;">Fuel and oil</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.10.</td><td style="text-align: left;">Hydraulic</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.11.</td><td style="text-align: left;">Landing gear</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.12.</td><td style="text-align: left;">Oxygen</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.13.</td><td style="text-align: left;">Pneumatic</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.14.</td><td style="text-align: left;">Powerplant</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.a.15.</td><td style="text-align: left;">Flight control computers</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.a.16.</td><td style="text-align: left;">Stability and control augmentation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.</td><td style="text-align: left;" colspan="4">Flight management and guidance system:</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.1.</td><td style="text-align: left;">Airborne radar</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.2.</td><td style="text-align: left;">Automatic landing aids</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.3.</td><td style="text-align: left;">Autopilot</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.4.</td><td style="text-align: left;">Collision avoidance system</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.5.</td><td style="text-align: left;">Flight data displays</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.6.</td><td style="text-align: left;">Flight management computers</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.b.7.</td><td style="text-align: left;">Heads-up displays</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.b.8.</td><td style="text-align: left;">Navigation systems</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.</td><td style="text-align: left;" colspan="4">Airborne procedures:</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.1.</td><td style="text-align: left;">Holding</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.2.</td><td style="text-align: left;">Air hazard avoidance</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.3.</td><td style="text-align: left;">Retreating blade stall recovery</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.4.</td><td style="text-align: left;">Mast bumping</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.5</td><td style="text-align: left;">Loss of directional control</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">12.c.6.</td><td style="text-align: left;">Loss of tail rotor effectiveness</td><td style="text-align: center;"></td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">12.c.7.</td><td style="text-align: left;">Other (listed on the SOQ)</td><td style="text-align: center;">A</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" colspan="5" scope="row"><span>13. Engine Shutdown and Parking</span></td></tr><tr class="even"><td style="text-align: left;" scope="row">13.a.</td><td style="text-align: left;">Engine and systems operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">13.b.</td><td style="text-align: left;">Parking brake operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="even"><td style="text-align: left;" scope="row">13.c.</td><td style="text-align: left;">Rotor brake operation</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr><tr class="odd"><td style="text-align: left;" scope="row">13.d.</td><td style="text-align: left;">Abnormal/emergency procedures</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td><td style="text-align: center;">X</td></tr></tbody></table>
 
 </div>
 
@@ -8574,53 +8574,53 @@ This appendix establishes the standards for Helicopter Flight Training Device (F
 
 1\. Introduction.
 
-2\. Applicability (§§60.1, 60.2).
+2\. Applicability (§[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], 60.2).
 
-3\. Definitions (§60.3).
+3\. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]]).
 
-4\. Qualification Performance Standards (§60.4).
+4\. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]]).
 
-5\. Quality Management System (§60.5).
+5\. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]]).
 
-6\. Sponsor Qualification Requirements (§60.7).
+6\. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]]).
 
-7\. Additional Responsibilities of the Sponsor (§60.9).
+7\. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]]).
 
-8\. FTD Use (§60.11).
+8\. FTD Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]]).
 
-9\. FTD Objective Data Requirements (§60.13).
+9\. FTD Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]]).
 
-10\. Special Equipment and Personnel Requirements for Qualification of the FTD (§60.14).
+10\. Special Equipment and Personnel Requirements for Qualification of the FTD ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
-11\. Initial (and Upgrade) Qualification Requirements (§60.15).
+11\. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
-12\. Additional Qualifications for Currently Qualified FTDs (§60.16).
+12\. Additional Qualifications for Currently Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]]).
 
-13\. Previously Qualified FTDs (§60.17).
+13\. Previously Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]]).
 
-14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements (§60.19).
+14\. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]).
 
-15\. Logging FTD Discrepancies (§60.20).
+15\. Logging FTD Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]).
 
-16\. Interim Qualification of FTDs for New Helicopter Types or Models (§60.21).
+16\. Interim Qualification of FTDs for New Helicopter Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]]).
 
-17\. Modifications to FTDs (§60.23).
+17\. Modifications to FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]).
 
-18\. Operations with Missing, Malfunctioning, or Inoperative Components (§60.25).
+18\. Operations with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]]).
 
-19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27).
+19\. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]]).
 
-20\. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29).
+20\. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]]).
 
-21\. Recordkeeping and Reporting (§60.31).
+21\. Recordkeeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]]).
 
-22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33).
+22\. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]]).
 
 23\. \[Reserved\]
 
 24\. Levels of FTD.
 
-25\. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37).
+25\. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]]).
 
 Attachment 1 to Appendix D to Part 60—General FTD Requirements.
 
@@ -8726,7 +8726,7 @@ d\. Related Reading References.
 
 </div>
 
-# 2. Applicability (§60.1 and 60.2)
+# 2. Applicability ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]] and 60.2)
 
 <div>
 
@@ -8736,7 +8736,7 @@ d\. Related Reading References.
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.1, Applicability, or to §60.2, Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.1   Applicability.|§60.1]], Applicability, or to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.2   Applicability of sponsor rules to persons who are not sponsors and who are engaged in certain unauthorized activities.|§60.2]], Applicability of sponsor rules to person who are not sponsors and who are engaged in certain unauthorized activities.
 
 # End Information
 
@@ -8746,7 +8746,7 @@ No additional regulatory or informational material applies to §60.1, Applicabil
 
 </div>
 
-# 3. Definitions (§60.3)
+# 3. Definitions ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.3   Definitions.|§60.3]])
 
 <div>
 
@@ -8766,11 +8766,11 @@ See Appendix F of this part for a list of definitions and abbreviations from par
 
 </div>
 
-# 4. Qualification Performance Standards (§60.4)
+# 4. Qualification Performance Standards ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]])
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.4, Qualification Performance Standards.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.4   Qualification Performance Standards.|§60.4]], Qualification Performance Standards.
 
 # End Information
 
@@ -8780,7 +8780,7 @@ No additional regulatory or informational material applies to §60.4, Qualificat
 
 </div>
 
-# 5. Quality Management System (§60.5)
+# 5. Quality Management System ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]])
 
 <div>
 
@@ -8800,7 +8800,7 @@ Additional regulatory material and informational material regarding Quality Mana
 
 </div>
 
-# 6. Sponsor Qualification Requirements (§60.7)
+# 6. Sponsor Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]])
 
 <div>
 
@@ -8810,7 +8810,7 @@ Additional regulatory material and informational material regarding Quality Mana
 
 # Begin Information
 
-a\. The intent of the language in §60.7(b) is to have a specific FTD, identified by the sponsor, used at least once in an FAA-approved flight training program for the helicopter simulated during the 12-month period described. The identification of the specific FTD may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FTD at least once during the prescribed period. There is no minimum number of hours or minimum FTD periods required.
+a\. The intent of the language in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b) is to have a specific FTD, identified by the sponsor, used at least once in an FAA-approved flight training program for the helicopter simulated during the 12-month period described. The identification of the specific FTD may change from one 12-month period to the next 12-month period as long as that sponsor sponsors and uses at least one FTD at least once during the prescribed period. There is no minimum number of hours or minimum FTD periods required.
 
 b\. The following examples describe acceptable operational practices:
 
@@ -8818,9 +8818,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor is sponsoring a single, specific FTD for its own use, in its own facility or elsewhere—this single FTD forms the basis for the sponsorship. The sponsor uses that FTD at least once in each 12-month period in that sponsor's FAA-approved flight training program for the helicopter simulated. This 12-month period is established according to the following schedule:
 
-\(i\) If the FTD was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with §60.19 after May 30, 2008, and continues for each subsequent 12-month period;
+\(i\) If the FTD was qualified prior to May 30, 2008, the 12-month period begins on the date of the first continuing qualification evaluation conducted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]] after May 30, 2008, and continues for each subsequent 12-month period;
 
-\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with §60.15. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
+\(ii\) A device qualified on or after May 30, 2008, will be required to undergo an initial or upgrade evaluation in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]. Once the initial or upgrade evaluation is complete, the first continuing qualification evaluation will be conducted within 6 months. The 12 month continuing qualification evaluation cycle begins on that date and continues for each subsequent 12-month period.
 
 \(b\) There is no minimum number of hours of FTD use required.
 
@@ -8830,11 +8830,11 @@ b\. The following examples describe acceptable operational practices:
 
 \(a\) A sponsor sponsors an additional number of FTDs, in its facility or elsewhere. Each additionally sponsored FTD must be—
 
-\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the helicopter simulated (as described in §60.7(d)(1)); or
+\(i\) Used by the sponsor in the sponsor's FAA-approved flight training program for the helicopter simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); or
 
-\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter simulated (as described in §60.7(d)(1)). This 12-month period is established in the same manner as in example one; or
+\(ii\) Used by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter simulated (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)). This 12-month period is established in the same manner as in example one; or
 
-\(iii\) Provided a statement each year from a qualified pilot, (after having flown the helicopter not the subject FTD or another FTD, during the preceding 12-month period) stating that the subject FTD's performance and handling qualities represent the helicopter (as described in §60.7(d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
+\(iii\) Provided a statement each year from a qualified pilot, (after having flown the helicopter not the subject FTD or another FTD, during the preceding 12-month period) stating that the subject FTD's performance and handling qualities represent the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)). This statement is provided at least once in each 12-month period established in the same manner as in example one.
 
 \(b\) There is no minimum number of hours of FTD use required.
 
@@ -8846,9 +8846,9 @@ b\. The following examples describe acceptable operational practices:
 
 \(c\) All of the FTDs in the Chicago and Moscow centers could be dry-leased (i.e., the certificate holder does not have and use FAA-approved flight training programs for the FTDs in the Chicago and Moscow centers) because—
 
-\(i\) Each FTD in the Chicago center and each FTD in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter (as described in §60.7(d)(1)); or
+\(i\) Each FTD in the Chicago center and each FTD in the Moscow center is used at least once each 12-month period by another FAA certificate holder in that other certificate holder's FAA-approved flight training program for the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(1)); or
 
-\(ii\) A statement is obtained from a qualified pilot (having flown the helicopter, not the subject FTD or another FTD during the preceding 12-month period) stating that the performance and handling qualities of each FTD in the Chicago and Moscow centers represents the helicopter (as described in §60.7(d)(2)).
+\(ii\) A statement is obtained from a qualified pilot (having flown the helicopter, not the subject FTD or another FTD during the preceding 12-month period) stating that the performance and handling qualities of each FTD in the Chicago and Moscow centers represents the helicopter (as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2)).
 
 # End Information
 
@@ -8858,7 +8858,7 @@ b\. The following examples describe acceptable operational practices:
 
 </div>
 
-# 7. Additional Responsibilities of the Sponsor (§60.9)
+# 7. Additional Responsibilities of the Sponsor ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]])
 
 <div>
 
@@ -8868,7 +8868,7 @@ b\. The following examples describe acceptable operational practices:
 
 # Begin Information
 
-The phrase “as soon as practicable” in §60.9(a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FTD.
+The phrase “as soon as practicable” in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](a) means without unnecessarily disrupting or delaying beyond a reasonable time the training, evaluation, or experience being conducted in the FTD.
 
 # End Information
 
@@ -8878,7 +8878,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 </div>
 
-# 8. FTD Use (§60.11).
+# 8. FTD Use ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]]).
 
 <div>
 
@@ -8888,7 +8888,7 @@ The phrase “as soon as practicable” in §60.9(a) means without unnecessarily
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.11, FTD Use.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.11   FSTD use.|§60.11]], FTD Use.
 
 # End Information
 
@@ -8898,7 +8898,7 @@ No additional regulatory or informational material applies to §60.11, FTD Use.
 
 </div>
 
-# 9. FTD Objective Data Requirements (§60.13)
+# 9. FTD Objective Data Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]])
 
 <div>
 
@@ -8946,7 +8946,7 @@ b\. The data, regardless of source, must be presented:
 
 c\. After completion of any additional flight test, a flight test report must be submitted in support of the validation data. The report must contain sufficient data and rationale to support qualification of the FTD at the level requested.
 
-d\. As required by §60.13(f), the sponsor must notify the NSPM when it becomes aware that an addition to or a revision of the flight related data or helicopter systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
+d\. As required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]](f), the sponsor must notify the NSPM when it becomes aware that an addition to or a revision of the flight related data or helicopter systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section is data used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
 
 \(1\) Within 10 calendar days, notify the NSPM of the existence of this data; and
 
@@ -8984,7 +8984,7 @@ i\. The NSPM will consider, on a case-by-case basis, whether to approve suppleme
 
 </div>
 
-# 10. Special Equipment and Personnel Requirements for Qualification of the FTD (§60.14).
+# 10. Special Equipment and Personnel Requirements for Qualification of the FTD ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]]).
 
 <div>
 
@@ -9006,7 +9006,7 @@ b\. Examples of a special evaluation include an evaluation conducted after an FT
 
 </div>
 
-# 11. Initial (and Upgrade) Qualification Requirements (§60.15).
+# 11. Initial (and Upgrade) Qualification Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]]).
 
 <div>
 
@@ -9024,11 +9024,11 @@ a\. In order to be qualified at a particular qualification level, the FTD must:
 
 \(3\) Satisfactorily accomplish the subjective tests listed in Attachment 3 of this appendix.
 
-b\. The request described in §60.15(a) must include all of the following:
+b\. The request described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](a) must include all of the following:
 
 \(1\) A statement that the FTD meets all of the applicable provisions of this part and all applicable provisions of the QPS.
 
-\(2\) A confirmation that the sponsor will forward to the NSPM the statement described in §60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
+\(2\) A confirmation that the sponsor will forward to the NSPM the statement described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
 
 \(3\) Except for a Level 4 FTD, a QTG, acceptable to the NSPM, that includes all of the following:
 
@@ -9058,7 +9058,7 @@ e\. The QTG described in paragraphs (a)(3) and (b) of this section, must include
 
 \(1\) A QTG cover page with sponsor and FAA approval signature blocks (see Attachment 4, Figure D4C, of this appendix, for a sample QTG cover page).
 
-\(2\) A continuing qualification evaluation requirements page. This page will be used by the NSPM to establish and record the frequency with which continuing qualification evaluations must be conducted and any subsequent changes that may be determined by the NSPM in accordance with §60.19. See Attachment 4, Figure D4G, of this appendix for a sample Continuing Qualification Evaluation Requirements page.
+\(2\) A continuing qualification evaluation requirements page. This page will be used by the NSPM to establish and record the frequency with which continuing qualification evaluations must be conducted and any subsequent changes that may be determined by the NSPM in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]]. See Attachment 4, Figure D4G, of this appendix for a sample Continuing Qualification Evaluation Requirements page.
 
 \(3\) An FTD information page that provides the information listed in this paragraph, if applicable (see Attachment 4, Figure D4B, of this appendix, for a sample FTD information page). For convertible FTDs, the sponsor must submit a separate page for each configuration of the FTD.
 
@@ -9208,9 +9208,9 @@ t\. Under normal circumstances, the NSPM establishes a date for the initial or u
 
 u\. The numbering system used for objective test results in the QTG should closely follow the numbering system set out in Attachment 2, FTD Objective Tests, Table D2A of this appendix.
 
-v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of §60.15(d).
+v\. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](d).
 
-w\. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in §60.15(g)(6), include approaches to and departures from slopes and pinnacles.
+w\. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](g)(6), include approaches to and departures from slopes and pinnacles.
 
 # End Information
 
@@ -9220,7 +9220,7 @@ w\. Examples of the exclusions for which the FTD might not have been subjectivel
 
 </div>
 
-# 12. Additional Qualifications for Currently Qualified FTDs (§60.16)
+# 12. Additional Qualifications for Currently Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]])
 
 <div>
 
@@ -9230,7 +9230,7 @@ w\. Examples of the exclusions for which the FTD might not have been subjectivel
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.16, Additional Qualifications for a Currently Qualified FTD.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]], Additional Qualifications for a Currently Qualified FTD.
 
 # End Information
 
@@ -9240,7 +9240,7 @@ No additional regulatory or informational material applies to §60.16, Additiona
 
 </div>
 
-# 13. Previously Qualified FTDs (§60.17)
+# 13. Previously Qualified FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]])
 
 <div>
 
@@ -9278,11 +9278,11 @@ d\. Simulators qualified prior to May 30, 2008, may be updated. If an evaluation
 
 # Begin Information
 
-e\. Other certificate holders or persons desiring to use an FTD may contract with FTD sponsors to use FTDs previously qualified at a particular level for a helicopter type and approved for use within an FAA-approved flight training program. Such FTDs are not required to undergo an additional qualification process, except as described in §60.16.
+e\. Other certificate holders or persons desiring to use an FTD may contract with FTD sponsors to use FTDs previously qualified at a particular level for a helicopter type and approved for use within an FAA-approved flight training program. Such FTDs are not required to undergo an additional qualification process, except as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]].
 
 f\. Each FTD user must obtain approval from the appropriate TPAA to use any FTD in an FAA-approved flight training program.
 
-g\. The intent of the requirement listed in §60.17(b), for each FTD to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FTD inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FTD.
+g\. The intent of the requirement listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]](b), for each FTD to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FTD inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FTD.
 
 h\. Downgrading of an FTD is a permanent change in qualification level and will necessitate the issuance of a revised SOQ to reflect the revised qualification level, as appropriate. If a temporary restriction is placed on an FTD because of a missing, malfunctioning, or inoperative component or on-going repairs, the restriction is not a permanent change in qualification level. Instead, the restriction is temporary and is removed when the reason for the restriction has been resolved.
 
@@ -9300,7 +9300,7 @@ k\. The FTD will normally be requalified using the FAA-approved MQTG and the cri
 
 </div>
 
-# 14. Inspection, Continuing Qualification, Evaluation, and Maintenance Requirements (§60.19)
+# 14. Inspection, Continuing Qualification, Evaluation, and Maintenance Requirements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]])
 
 <div>
 
@@ -9328,7 +9328,7 @@ d\. During the continuing qualification evaluation conducted by the NSPM, the sp
 
 # Begin Information
 
-e\. The sponsor's test sequence and the content of each quarterly inspection required in §60.19(a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
+e\. The sponsor's test sequence and the content of each quarterly inspection required in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
 
 \(1\) Performance.
 
@@ -9344,7 +9344,7 @@ e\. The sponsor's test sequence and the content of each quarterly inspection req
 
 f\. If the NSP evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies and control sweeps.
 
-g\. The continuing qualification evaluations described in §60.19(b) will normally require 4 hours of FTD time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
+g\. The continuing qualification evaluations described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b) will normally require 4 hours of FTD time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
 
 \(1\) Review of the results of the quarterly inspections conducted by the sponsor since the last scheduled continuing qualification evaluation.
 
@@ -9354,7 +9354,7 @@ g\. The continuing qualification evaluations described in §60.19(b) will normal
 
 \(4\) An examination of the functions of the FTD may include the motion system, visual system, sound system as applicable, instructor operating station, and the normal functions and simulated malfunctions of the simulated helicopter systems. This examination is normally accomplished simultaneously with the subjective evaluation requirements.
 
-h\. The requirement established in §60.19(b)(4) regarding the frequency of NSPM-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
+h\. The requirement established in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b)(4) regarding the frequency of NSPM-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
 
 # End Information
 
@@ -9364,7 +9364,7 @@ h\. The requirement established in §60.19(b)(4) regarding the frequency of NSPM
 
 </div>
 
-# 15. Logging FTD Discrepancies (§60.20)
+# 15. Logging FTD Discrepancies ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]])
 
 <div>
 
@@ -9374,7 +9374,7 @@ h\. The requirement established in §60.19(b)(4) regarding the frequency of NSPM
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.20. Logging FTD Discrepancies.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]]. Logging FTD Discrepancies.
 
 # End Information
 
@@ -9384,7 +9384,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 </div>
 
-# 16. Interim Qualification of FTDs for New Helicopter Types or Models (§60.21)
+# 16. Interim Qualification of FTDs for New Helicopter Types or Models ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]])
 
 <div>
 
@@ -9394,7 +9394,7 @@ No additional regulatory or informational material applies to §60.20. Logging F
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.21, Interim Qualification of FTDs for New Helicopter Types or Models.
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]], Interim Qualification of FTDs for New Helicopter Types or Models.
 
 # End Information
 
@@ -9404,7 +9404,7 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 </div>
 
-# 17. Modifications to FTDs (§60.23)
+# 17. Modifications to FTDs ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]])
 
 <div>
 
@@ -9414,13 +9414,13 @@ No additional regulatory or informational material applies to §60.21, Interim Q
 
 # Begin QPS Requirements
 
-a\. The notification described in §60.23(c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FTD and the results that are expected with the modification incorporated.
+a\. The notification described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FTD and the results that are expected with the modification incorporated.
 
 b\. Prior to using the modified FTD:
 
 \(1\) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (e.g., accomplishment of FSTD Directives) must be acceptable to the NSPM; and
 
-\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in §60.15(b) are addressed by the appropriate personnel as described in that section.
+\(2\) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b) are addressed by the appropriate personnel as described in that section.
 
 # End QPS Requirements
 
@@ -9442,7 +9442,7 @@ c\. FSTD Directives are considered modification of an FTD. See Attachment 4 of t
 
 </div>
 
-# 18. Operation with Missing, Malfunctioning, or Inoperative Components (§60.25)
+# 18. Operation with Missing, Malfunctioning, or Inoperative Components ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]])
 
 <div>
 
@@ -9452,13 +9452,13 @@ c\. FSTD Directives are considered modification of an FTD. See Attachment 4 of t
 
 # Begin Information
 
-a\. The sponsor's responsibility with respect to §60.25(a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FTD, including any missing, malfunctioning, or inoperative (MMI) component(s).
+a\. The sponsor's responsibility with respect to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](a) is satisfied when the sponsor fairly and accurately advises the user of the current status of an FTD, including any missing, malfunctioning, or inoperative (MMI) component(s).
 
 b\. It is the responsibility of the instructor, check airman, or representative of the administrator conducting training, testing, or checking to exercise reasonable and prudent judgment to determine if any MMI component is necessary for the satisfactory completion of a specific maneuver, procedure, or task.
 
-c\. If the 29th or 30th day of the 30-day period described in §60.25(b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
+c\. If the 29th or 30th day of the 30-day period described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b) is on a Saturday, a Sunday, or a holiday, the FAA will extend the deadline until the next business day.
 
-d\. In accordance with the authorization described in §60.25(b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FTD. Repairs having a larger impact on the FTD's ability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
+d\. In accordance with the authorization described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b), the sponsor may develop a discrepancy prioritizing system to accomplish repairs based on the level of impact on the capability of the FTD. Repairs having a larger impact on the FTD's ability to provide the required training, evaluation, or flight experience will have a higher priority for repair or replacement.
 
 # End Information
 
@@ -9468,7 +9468,7 @@ d\. In accordance with the authorization described in §60.25(b), the sponsor ma
 
 </div>
 
-# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§60.27)
+# 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]])
 
 <div>
 
@@ -9488,7 +9488,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 </div>
 
-# 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§60.29)
+# 20. Other Losses of Qualification and Procedures for Restoration of Qualification ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.29   Other losses of qualification and procedures for restoration of qualification.|§60.29]])
 
 <div>
 
@@ -9508,7 +9508,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 </div>
 
-# 21. Record Keeping and Reporting (§60.31)
+# 21. Record Keeping and Reporting ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]])
 
 <div>
 
@@ -9518,7 +9518,7 @@ If the sponsor provides a plan for how the FTD will be maintained during its out
 
 # Begin QPS Requirements
 
-a\. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by §60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
+a\. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]](a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 
 b\. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 
@@ -9530,7 +9530,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 </div>
 
-# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§60.33)
+# 22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]])
 
 <div>
 
@@ -9540,7 +9540,7 @@ b\. If a coded form for record keeping is used, it must provide for the preserva
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.33   Applications, logbooks, reports, and records: Fraud, falsification, or incorrect statements.|§60.33]], Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements
 
 # 23. \[Reserved\]
 
@@ -9580,7 +9580,7 @@ a\. The following is a general description of each level of FTD. Detailed standa
 
 </div>
 
-# 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§60.37)
+# 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) ([[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]])
 
 <div>
 
@@ -9590,7 +9590,7 @@ a\. The following is a general description of each level of FTD. Detailed standa
 
 # Begin Information
 
-No additional regulatory or informational material applies to §60.37, FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
+No additional regulatory or informational material applies to [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.37   FSTD qualification on the basis of a Bilateral Aviation Safety Agreement (BASA).|§60.37]], FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA).
 
 # End Information
 
@@ -9773,7 +9773,7 @@ c\. A Level 4 FTD does not require objective tests and is not addressed in the f
 
 # 2. Test Requirements
 
-a\. The ground and flight tests required for qualification are listed in Table D2A Objective Evaluation Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the helicopter being simulated or to the qualification level sought, it may be disregarded (e.g., engine out climb capability for a single-engine helicopter). Each test result is compared against the validation data described in §60.13, and in Appendix B of this part. The results must be produced on an appropriate recording device acceptable to the NSPM and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table D2A. All results must be labeled using the tolerances and units given.
+a\. The ground and flight tests required for qualification are listed in Table D2A Objective Evaluation Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the helicopter being simulated or to the qualification level sought, it may be disregarded (e.g., engine out climb capability for a single-engine helicopter). Each test result is compared against the validation data described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]], and in Appendix B of this part. The results must be produced on an appropriate recording device acceptable to the NSPM and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table D2A. All results must be labeled using the tolerances and units given.
 
 b\. Table D2A in this attachment sets out the test results required, including the parameters, tolerances, and flight conditions for FTD validation. Tolerances are provided for the listed tests because mathematical modeling and acquisition and development of reference data are often inexact. All tolerances listed in the following tables are applied to FTD performance. When two tolerance values are given for a parameter, the less restrictive may be used unless otherwise indicated. In those cases where a tolerance is expressed only as a percentage, the tolerance percentage applies to the maximum value of that parameter within its normal operating range as measured from the neutral or zero position unless otherwise indicated.
 
@@ -10343,7 +10343,7 @@ Table E1—FSTD Quality Management System
 <div>
 
 <table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><tbody><tr class="header"><th scope="col">Entry No.</th><th scope="col">QPS requirement</th><th scope="col">Information<br />
-(reference)</th></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.1.</td><td style="text-align: left;">A QMS manual that prescribes the policies, processes, or procedures outlined in this table</td><td style="text-align: left;">§60.5(a).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.2.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will identify deficiencies in the QMS</td><td style="text-align: left;">§60.5(b).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.3.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document how the QMS program will be changed to address deficiencies</td><td style="text-align: left;">§60.5(b).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.4.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will address proposed program changes (for programs that do not meet the minimum requirements as notified by the NSPM) to the NSPM and receive approval prior to their implementation</td><td style="text-align: left;">§60.5(c).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.5.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the initial or upgrade evaluation conducted by the NSPM and at least once within each subsequent 12-month period thereafter</td><td style="text-align: left;">§60.7(b)(5).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.6.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the first continuing qualification evaluation conducted by the NSP and at least once within each subsequent 12-month period thereafter</td><td style="text-align: left;">§60.7(b)(6).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.7.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will obtain an annual written statement from a qualified pilot (who has flown the subject aircraft or set of aircraft during the preceding 12-month period) that the performance and handling qualities of the subject FSTD represents the subject aircraft or set of aircraft (within the normal operating envelope). Required only if the subject FSTD is not used in the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the preceding 12-month period</td><td style="text-align: left;">§60.5(b)(7) and §60.7(d)(2).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.8.</td><td style="text-align: left;">A policy, process, or procedure specifying how independent feedback (from persons recently completing training, evaluation, or obtaining flight experience; instructors and check airmen using the FSTD for training, evaluation, or flight experience sessions; and FSTD technicians and maintenance personnel) will be received and addressed by the sponsor regarding the FSTD and its operation</td><td style="text-align: left;">§60.9(b)(1).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.9.</td><td style="text-align: left;">A policy, process, or procedure specifying how and where the FSTD SOQ will be posted, or accessed by an appropriate terminal or display, in or adjacent to the FSTD</td><td style="text-align: left;">§60.9(b)(2).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.10.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor's management representative (MR) is selected and identified by name to the NSPM</td><td style="text-align: left;">§60.9(c) and Appendix E, paragraph (d).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.</td><td style="text-align: left;">A policy, process, or procedure specifying the MR authority and responsibility for the following:</td><td style="text-align: left;">§60.9(c)(2), (3), and (4).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.a.</td><td style="text-align: left;">Monitoring the on-going qualification of assigned FSTDs to ensure all matters regarding FSTD qualification are completed as required by this part.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.b.</td><td style="text-align: left;">Ensuring that the QMS is properly maintained by overseeing the QMS policies, practices, or procedures and modifying as necessary.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.c.</td><td style="text-align: left;">Regularly briefing sponsor's management on the status of the on-going FSTD qualification program and the effectiveness and efficiency of the QMS.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.d.</td><td style="text-align: left;">Serving as the primary contact point for all matters between the sponsor and the NSPM regarding the qualification of assigned FSTDs.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.e.</td><td style="text-align: left;">Delegating the MR assigned duties to an individual at each of the sponsor's locations, as appropriate.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.12.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will:</td><td style="text-align: left;">§60.13; QPS Appendices A, B, C, and D.</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.12.a.</td><td style="text-align: left;">Ensure that the data made available to the NSPM (the validation data package) includes the aircraft manufacturer's flight test data (or other data approved by the NSPM) and all relevant data developed after the type certificate was issued (e.g., data developed in response to an airworthiness directive) if the data results from a change in performance, handling qualities, functions, or other characteristics of the aircraft that must be considered for flight crewmember training, evaluation, or experience requirements.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.12.b.</td><td style="text-align: left;">Notify the NSPM within 10 working days of becoming aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program or operate a qualified FSTD.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.12.c.</td><td style="text-align: left;">Maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and if appropriate, with the person who supplied the aircraft data package for the FFS for the purposes of receiving notification of data package changes.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.13.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will make available all special equipment and qualified personnel needed to conduct tests during initial, continuing qualification, or special evaluations</td><td style="text-align: left;">§60.14.</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.14.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will submit to the NSPM a request to evaluate the FSTD for initial qualification at a specific level and simultaneously request the TPAA forward a concurring letter to the NSPM; including how the MR will use qualified personnel to confirm the following:</td><td style="text-align: left;">§60.15(a)-(d); §60.15(b); §60.15(b)(i); §60.15(b)(ii); §60.15(b)(iii).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.14.a.</td><td style="text-align: left;">That the performance and handling qualities of the FSTD represent those of the aircraft or set of aircraft within the normal operating envelope.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.14.b.</td><td style="text-align: left;">The FSTD systems and sub-systems (including the simulated aircraft systems) functionally represent those in the aircraft or set of aircraft.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.14.c.</td><td style="text-align: left;">The flight deck represents the configuration of the specific type or aircraft make, model, and series aircraft being simulated, as appropriate.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.15.</td><td style="text-align: left;">A policy, process, or procedure specifying how the subjective and objective tests are completed at the sponsor's training facility for an initial evaluation</td><td style="text-align: left;">§60.15(e).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.16.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will update the QTG with the results of the FAA-witnessed tests and demonstrations together with the results of the objective tests and demonstrations after the NSPM completes the evaluation for initial qualification</td><td style="text-align: left;">§60.15(h).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.17.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will make the MQTG available to the NSPM upon request</td><td style="text-align: left;">§60.15(i).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.18.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will apply to the NSPM for additional qualification(s) to the SOQ</td><td style="text-align: left;">§60.16(a); §60.16(a)(1)(i); and §60.16(a)(1)(ii).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.19.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor completes all required Attachment 2 objective tests each year in a minimum of four evenly spaced inspections as specified in the appropriate QPS</td><td style="text-align: left;">§60.19(a)(1) QPS Appendices A, B, C, or D.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.20.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor completes and records a functional preflight check of the FSTD within the preceding 24 hours of FSTD use, including a description of the functional preflight</td><td style="text-align: left;">§60.19(a)(2) QPS Appendices A, B, C, or D.</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.21.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor schedules continuing qualification evaluations with the NSPM</td><td style="text-align: left;">§60.19(b)(2).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.22.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor ensures that the FSTD has received a continuing qualification evaluation at the interval described in the MQTG</td><td style="text-align: left;">§60.19(b)(5)-(6).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.23.</td><td style="text-align: left;">A policy, process, or procedure describing how discrepancies are recorded in the FSTD discrepancy log, including:</td><td style="text-align: left;">§60.19(c); §60.19(c)(2)(i); §60.19(c)(2)(ii).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.23.a.</td><td style="text-align: left;">A description of how the discrepancies are entered and maintained in the log until corrected.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.23.b.</td><td style="text-align: left;">A description of the corrective action taken for each discrepancy, the identity of the individual taking the action, and the date that action is taken.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.24.</td><td style="text-align: left;">A policy, process, or procedure specifying how the discrepancy log is kept in a form and manner acceptable to the Administrator and kept in or adjacent to the FSTD. (An electronic log that may be accessed by an appropriate terminal or display in or adjacent to the FSTD is satisfactory.)</td><td style="text-align: left;">§60.19(c)(2)(iii).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.25.</td><td style="text-align: left;">A policy, process, or procedure that requires each instructor, check airman, or representative of the Administrator conducting training, evaluation, or flight experience, and each person conducting the preflight inspection, who discovers a discrepancy, including any missing, malfunctioning, or inoperative components in the FSTD, to write or cause to be written a description of that discrepancy into the discrepancy log at the end of the FSTD preflight or FSTD use session</td><td style="text-align: left;">§60.20.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.26.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will apply for initial qualification based on the final aircraft data package approved by the aircraft manufacturer if operating an FSTD based on an interim qualification</td><td style="text-align: left;">§60.21(c).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.27.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor determines whether an FSTD change qualifies as a modification as defined in §60.23</td><td style="text-align: left;">§60.23(a)(1)-(2).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.28.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will ensure the FSTD is modified in accordance with any FSTD Directive regardless of the original qualification basis</td><td style="text-align: left;">§60.23(b).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.29.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will notify the NSPM and TPAA of their intent to use a modified FSTD and to ensure that the modified FSTD will not be used prior to:</td><td style="text-align: left;">§60.23(c)(1)(i), (ii), and (iv).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.29.a.</td><td style="text-align: left;">Twenty-one days since the sponsor notified the NSPM and the TPAA of the proposed modification and the sponsor has not received any response from either the NSPM or the TPAA; or</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.29.b.</td><td style="text-align: left;">Twenty-one days since the sponsor notified the NSPM and the TPAA of the proposed modification and one has approved the proposed modification and the other has not responded; or</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.29.c.</td><td style="text-align: left;">The FSTD successfully completing any evaluation the NSPM may require in accordance with the standards for an evaluation for initial qualification or any part thereof before the modified FSTD is placed in service.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.30.</td><td style="text-align: left;">A policy, process, or procedure specifying how, after an FSTD modification is approved by the NSPM, the sponsor will:</td><td style="text-align: left;">§60.23(d)-(e).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.30.a.</td><td style="text-align: left;">Post an addendum to the SOQ until as the NSPM issues a permanent, updated SOQ.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.30.b.</td><td style="text-align: left;">Update the MQTG with current objective test results and appropriate objective data for each affected objective test or other MQTG section affected by the modification.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.30.c.</td><td style="text-align: left;">File in the MQTG the requirement from the NSPM to make the modification and the record of the modification completion.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.31.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will track the length of time a component has been missing, malfunctioning, or inoperative (MMI), including:</td><td style="text-align: left;">§60.25(b)-(c), and QPS Appendices A, B, C, or D.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.31.a.</td><td style="text-align: left;">How the sponsor will post a list of MMI components in or adjacent to the FSTD.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.31.b.</td><td style="text-align: left;">How the sponsor will notify the NSPM if the MMI has not been repaired or replaced within 30 days.*</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.32.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will notify the NSPM and how the sponsor will seek requalification of the FSTD if the FSTD is moved and reinstalled in a different location</td><td style="text-align: left;">§60.27(a)(3).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will maintain control of the following: (The sponsor must specify how these records are maintained in plain language form or in coded form; but if the coded form is used, the sponsor must specify how the preservation and retrieval of information will be conducted.)</td><td style="text-align: left;">§60.31.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.a.</td><td style="text-align: left;">The MQTG and each amendment.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.b.</td><td style="text-align: left;">A record of all FSTD modifications required by this part since the issuance of the original SOQ.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.c.</td><td style="text-align: left;">Results of the qualification evaluations (initial and each upgrade) since the issuance of the original SOQ.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.d.</td><td style="text-align: left;">Results of the objective tests conducted in accordance with this part for a period of 2 years.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.e.</td><td style="text-align: left;">Results of the previous three continuing qualification evaluations, or the continuing qualification evaluations from the previous 2 years, whichever covers a longer period.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.f.</td><td style="text-align: left;">Comments obtained in accordance with §60.9(b);</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.</td><td style="text-align: left;">A record of all discrepancies entered in the discrepancy log over the previous 2 years, including the following:</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.g.1.</td><td style="text-align: left;">A list of the components or equipment that were or are missing, malfunctioning, or inoperative.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.2.</td><td style="text-align: left;">The action taken to correct the discrepancy.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.g.3.</td><td style="text-align: left;">The date the corrective action was taken.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.4.</td><td style="text-align: left;">The identity of the person determining that the discrepancy has been corrected.</td><td style="text-align: left;"></td></tr></tbody></table>
+(reference)</th></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.1.</td><td style="text-align: left;">A QMS manual that prescribes the policies, processes, or procedures outlined in this table</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]](a).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.2.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will identify deficiencies in the QMS</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]](b).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.3.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document how the QMS program will be changed to address deficiencies</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]](b).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.4.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will address proposed program changes (for programs that do not meet the minimum requirements as notified by the NSPM) to the NSPM and receive approval prior to their implementation</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]](c).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.5.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the initial or upgrade evaluation conducted by the NSPM and at least once within each subsequent 12-month period thereafter</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b)(5).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.6.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the first continuing qualification evaluation conducted by the NSP and at least once within each subsequent 12-month period thereafter</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](b)(6).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.7.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will obtain an annual written statement from a qualified pilot (who has flown the subject aircraft or set of aircraft during the preceding 12-month period) that the performance and handling qualities of the subject FSTD represents the subject aircraft or set of aircraft (within the normal operating envelope). Required only if the subject FSTD is not used in the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the preceding 12-month period</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.5   Quality management system.|§60.5]](b)(7) and [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.7   Sponsor qualification requirements.|§60.7]](d)(2).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.8.</td><td style="text-align: left;">A policy, process, or procedure specifying how independent feedback (from persons recently completing training, evaluation, or obtaining flight experience; instructors and check airmen using the FSTD for training, evaluation, or flight experience sessions; and FSTD technicians and maintenance personnel) will be received and addressed by the sponsor regarding the FSTD and its operation</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](b)(1).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.9.</td><td style="text-align: left;">A policy, process, or procedure specifying how and where the FSTD SOQ will be posted, or accessed by an appropriate terminal or display, in or adjacent to the FSTD</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](b)(2).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.10.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor's management representative (MR) is selected and identified by name to the NSPM</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](c) and Appendix E, paragraph (d).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.</td><td style="text-align: left;">A policy, process, or procedure specifying the MR authority and responsibility for the following:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](c)(2), (3), and (4).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.a.</td><td style="text-align: left;">Monitoring the on-going qualification of assigned FSTDs to ensure all matters regarding FSTD qualification are completed as required by this part.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.b.</td><td style="text-align: left;">Ensuring that the QMS is properly maintained by overseeing the QMS policies, practices, or procedures and modifying as necessary.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.c.</td><td style="text-align: left;">Regularly briefing sponsor's management on the status of the on-going FSTD qualification program and the effectiveness and efficiency of the QMS.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.11.d.</td><td style="text-align: left;">Serving as the primary contact point for all matters between the sponsor and the NSPM regarding the qualification of assigned FSTDs.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.11.e.</td><td style="text-align: left;">Delegating the MR assigned duties to an individual at each of the sponsor's locations, as appropriate.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.12.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.13   FSTD objective data requirements.|§60.13]]; QPS Appendices A, B, C, and D.</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.12.a.</td><td style="text-align: left;">Ensure that the data made available to the NSPM (the validation data package) includes the aircraft manufacturer's flight test data (or other data approved by the NSPM) and all relevant data developed after the type certificate was issued (e.g., data developed in response to an airworthiness directive) if the data results from a change in performance, handling qualities, functions, or other characteristics of the aircraft that must be considered for flight crewmember training, evaluation, or experience requirements.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.12.b.</td><td style="text-align: left;">Notify the NSPM within 10 working days of becoming aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program or operate a qualified FSTD.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.12.c.</td><td style="text-align: left;">Maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and if appropriate, with the person who supplied the aircraft data package for the FFS for the purposes of receiving notification of data package changes.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.13.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will make available all special equipment and qualified personnel needed to conduct tests during initial, continuing qualification, or special evaluations</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.14   Special equipment and personnel requirements for qualification of the FSTD.|§60.14]].</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.14.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will submit to the NSPM a request to evaluate the FSTD for initial qualification at a specific level and simultaneously request the TPAA forward a concurring letter to the NSPM; including how the MR will use qualified personnel to confirm the following:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](a)-(d); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b)(i); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b)(ii); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](b)(iii).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.14.a.</td><td style="text-align: left;">That the performance and handling qualities of the FSTD represent those of the aircraft or set of aircraft within the normal operating envelope.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.14.b.</td><td style="text-align: left;">The FSTD systems and sub-systems (including the simulated aircraft systems) functionally represent those in the aircraft or set of aircraft.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.14.c.</td><td style="text-align: left;">The flight deck represents the configuration of the specific type or aircraft make, model, and series aircraft being simulated, as appropriate.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.15.</td><td style="text-align: left;">A policy, process, or procedure specifying how the subjective and objective tests are completed at the sponsor's training facility for an initial evaluation</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](e).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.16.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will update the QTG with the results of the FAA-witnessed tests and demonstrations together with the results of the objective tests and demonstrations after the NSPM completes the evaluation for initial qualification</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](h).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.17.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will make the MQTG available to the NSPM upon request</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.15   Initial qualification requirements.|§60.15]](i).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.18.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will apply to the NSPM for additional qualification(s) to the SOQ</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(i); and [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.16   Additional qualifications for a currently qualified FSTD.|§60.16]](a)(1)(ii).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.19.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor completes all required Attachment 2 objective tests each year in a minimum of four evenly spaced inspections as specified in the appropriate QPS</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(1) QPS Appendices A, B, C, or D.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.20.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor completes and records a functional preflight check of the FSTD within the preceding 24 hours of FSTD use, including a description of the functional preflight</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](a)(2) QPS Appendices A, B, C, or D.</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.21.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor schedules continuing qualification evaluations with the NSPM</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b)(2).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.22.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor ensures that the FSTD has received a continuing qualification evaluation at the interval described in the MQTG</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](b)(5)-(6).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.23.</td><td style="text-align: left;">A policy, process, or procedure describing how discrepancies are recorded in the FSTD discrepancy log, including:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](c); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](c)(2)(i); [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](c)(2)(ii).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.23.a.</td><td style="text-align: left;">A description of how the discrepancies are entered and maintained in the log until corrected.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.23.b.</td><td style="text-align: left;">A description of the corrective action taken for each discrepancy, the identity of the individual taking the action, and the date that action is taken.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.24.</td><td style="text-align: left;">A policy, process, or procedure specifying how the discrepancy log is kept in a form and manner acceptable to the Administrator and kept in or adjacent to the FSTD. (An electronic log that may be accessed by an appropriate terminal or display in or adjacent to the FSTD is satisfactory.)</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.19   Inspection, continuing qualification evaluation, and maintenance requirements.|§60.19]](c)(2)(iii).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.25.</td><td style="text-align: left;">A policy, process, or procedure that requires each instructor, check airman, or representative of the Administrator conducting training, evaluation, or flight experience, and each person conducting the preflight inspection, who discovers a discrepancy, including any missing, malfunctioning, or inoperative components in the FSTD, to write or cause to be written a description of that discrepancy into the discrepancy log at the end of the FSTD preflight or FSTD use session</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.20   Logging FSTD discrepancies.|§60.20]].</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.26.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will apply for initial qualification based on the final aircraft data package approved by the aircraft manufacturer if operating an FSTD based on an interim qualification</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.21   Interim qualification of FSTDs for new aircraft types or models.|§60.21]](c).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.27.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor determines whether an FSTD change qualifies as a modification as defined in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]]</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](a)(1)-(2).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.28.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will ensure the FSTD is modified in accordance with any FSTD Directive regardless of the original qualification basis</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](b).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.29.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will notify the NSPM and TPAA of their intent to use a modified FSTD and to ensure that the modified FSTD will not be used prior to:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](c)(1)(i), (ii), and (iv).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.29.a.</td><td style="text-align: left;">Twenty-one days since the sponsor notified the NSPM and the TPAA of the proposed modification and the sponsor has not received any response from either the NSPM or the TPAA; or</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.29.b.</td><td style="text-align: left;">Twenty-one days since the sponsor notified the NSPM and the TPAA of the proposed modification and one has approved the proposed modification and the other has not responded; or</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.29.c.</td><td style="text-align: left;">The FSTD successfully completing any evaluation the NSPM may require in accordance with the standards for an evaluation for initial qualification or any part thereof before the modified FSTD is placed in service.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.30.</td><td style="text-align: left;">A policy, process, or procedure specifying how, after an FSTD modification is approved by the NSPM, the sponsor will:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.23   Modifications to FSTDs.|§60.23]](d)-(e).</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.30.a.</td><td style="text-align: left;">Post an addendum to the SOQ until as the NSPM issues a permanent, updated SOQ.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.30.b.</td><td style="text-align: left;">Update the MQTG with current objective test results and appropriate objective data for each affected objective test or other MQTG section affected by the modification.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.30.c.</td><td style="text-align: left;">File in the MQTG the requirement from the NSPM to make the modification and the record of the modification completion.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.31.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will track the length of time a component has been missing, malfunctioning, or inoperative (MMI), including:</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.25   Operation with missing, malfunctioning, or inoperative components.|§60.25]](b)-(c), and QPS Appendices A, B, C, or D.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.31.a.</td><td style="text-align: left;">How the sponsor will post a list of MMI components in or adjacent to the FSTD.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.31.b.</td><td style="text-align: left;">How the sponsor will notify the NSPM if the MMI has not been repaired or replaced within 30 days.*</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.32.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will notify the NSPM and how the sponsor will seek requalification of the FSTD if the FSTD is moved and reinstalled in a different location</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.27   Automatic loss of qualification and procedures for restoration of qualification.|§60.27]](a)(3).</td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.</td><td style="text-align: left;">A policy, process, or procedure specifying how the sponsor will maintain control of the following: (The sponsor must specify how these records are maintained in plain language form or in coded form; but if the coded form is used, the sponsor must specify how the preservation and retrieval of information will be conducted.)</td><td style="text-align: left;">[[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.31   Recordkeeping and reporting.|§60.31]].</td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.a.</td><td style="text-align: left;">The MQTG and each amendment.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.b.</td><td style="text-align: left;">A record of all FSTD modifications required by this part since the issuance of the original SOQ.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.c.</td><td style="text-align: left;">Results of the qualification evaluations (initial and each upgrade) since the issuance of the original SOQ.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.d.</td><td style="text-align: left;">Results of the objective tests conducted in accordance with this part for a period of 2 years.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.e.</td><td style="text-align: left;">Results of the previous three continuing qualification evaluations, or the continuing qualification evaluations from the previous 2 years, whichever covers a longer period.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.f.</td><td style="text-align: left;">Comments obtained in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.9   Additional responsibilities of the sponsor.|§60.9]](b);</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.</td><td style="text-align: left;">A record of all discrepancies entered in the discrepancy log over the previous 2 years, including the following:</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.g.1.</td><td style="text-align: left;">A list of the components or equipment that were or are missing, malfunctioning, or inoperative.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.2.</td><td style="text-align: left;">The action taken to correct the discrepancy.</td><td style="text-align: left;"></td></tr><tr class="even"><td style="text-align: left;" scope="row">E1.33.g.3.</td><td style="text-align: left;">The date the corrective action was taken.</td><td style="text-align: left;"></td></tr><tr class="odd"><td style="text-align: left;" scope="row">E1.33.g.4.</td><td style="text-align: left;">The identity of the person determining that the discrepancy has been corrected.</td><td style="text-align: left;"></td></tr></tbody></table>
 
 </div>
 
@@ -10413,7 +10413,7 @@ Table E1—FSTD Quality Management System
 
 *Breakout*—the force required at the pilot's primary controls to achieve initial movement of the control position.
 
-*Certificate Holder*—a person issued a certificate under parts 119, 141, or 142 of this chapter or a person holding an approved course of training for flight engineers in accordance with part 63 of this chapter.
+*Certificate Holder*—a person issued a certificate under parts 119, 141, or 142 of this chapter or a person holding an approved course of training for flight engineers in accordance with [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]].
 
 *Closed Loop Testing*—a test method where the input stimuli are generated by controllers that drive the FSTD to follow a pre-defined target response.
 
@@ -10453,7 +10453,7 @@ Table E1—FSTD Quality Management System
 
 *Flight Test Data*—(a subset of objective data) aircraft data collected by the aircraft manufacturer or other acceptable data supplier during an aircraft flight test program.
 
-*Flight Training Device (FTD)*—a replica of aircraft instruments, equipment, panels, and controls in an open flight deck area or an enclosed aircraft flight deck replica. It includes the equipment and computer programs necessary to represent aircraft (or set of aircraft) operations in ground and flight conditions having the full range of capabilities of the systems installed in the device as described in part 60 of this chapter and the qualification performance standard (QPS) for a specific FTD qualification level. (Part 1)
+*Flight Training Device (FTD)*—a replica of aircraft instruments, equipment, panels, and controls in an open flight deck area or an enclosed aircraft flight deck replica. It includes the equipment and computer programs necessary to represent aircraft (or set of aircraft) operations in ground and flight conditions having the full range of capabilities of the systems installed in the device as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] and the qualification performance standard (QPS) for a specific FTD qualification level. (Part 1)
 
 *Free Response*—the response of the FSTD after completion of a control input or disturbance.
 
@@ -10467,7 +10467,7 @@ Table E1—FSTD Quality Management System
 
 *FSTD Performance*—the overall performance of the FSTD, including aircraft performance (e.g., thrust/drag relationships, climb, range) and flight and ground handling.
 
-*Full Flight Simulator (FFS)*—a replica of a specific type, make, model, or series aircraft. It includes the equipment and computer programs necessary to represent aircraft operations in ground and flight conditions, a visual system providing an out-of-the-flight deck view, a system that provides cues at least equivalent to those of a three-degree-of-freedom motion system, and has the full range of capabilities of the systems installed in the device as described in part 60 of this chapter and the QPS for a specific FFS qualification level. (Part 1)
+*Full Flight Simulator (FFS)*—a replica of a specific type, make, model, or series aircraft. It includes the equipment and computer programs necessary to represent aircraft operations in ground and flight conditions, a visual system providing an out-of-the-flight deck view, a system that provides cues at least equivalent to those of a three-degree-of-freedom motion system, and has the full range of capabilities of the systems installed in the device as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] and the QPS for a specific FFS qualification level. (Part 1)
 
 *Gate Clutter*—the static and moving ground traffic (e.g., other airplanes; tugs; power or baggage carts; fueling, catering, or cargo trucks; pedestrians) presented to pose a potential conflict with the simulated aircraft during ground operations around the point where the simulated airplane is to be parked between flights
 

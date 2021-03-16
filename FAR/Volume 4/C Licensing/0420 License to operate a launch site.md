@@ -16,7 +16,8 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.420](https://www.ecfr
 
 ### §420.3   Applicability.
 
-This part applies to any person seeking a license to operate a launch site or to a person licensed under this part. A person operating a site that only supports amateur rocket activities as defined in 14 CFR 1.1, does not need a license under this part to operate t[[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|14 CFR 1.1]]
+This part applies to any person seeking a license to operate a launch site or to a person licensed under this part. A person operating a site that only supports amateur rocket activities as defined in 14 CFR 1.1, does not need a license under this part to operate the site.
+
 \[Doc. No. FAA-2007-27390, 73 FR 73782, Dec. 4, 2008\]
 
 ### §420.5   Definitions.
@@ -123,7 +124,7 @@ For the purpose of this part.
 
 \[Doc. No. FAA-1999-5833, 65 FR 62861, Oct. 19, 2000, as amended by Amdt. 420-3, 72 FR 17019, Apr. 6, 2007; Amdt. 420-6, 77 FR 55113, Sept. 7, 2012\]
 
-### §§420.6-420.14   \[Reserved\]
+### §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.61   Records.|§420.6]]-420.14   \[Reserved\]
 
 ## Subpart B—Criteria and Information Requirements for Obtaining a License
 
@@ -157,31 +158,31 @@ For the purpose of this part.
 
 \(b\) *Environmental.* An applicant shall provide the FAA with information for the FAA to analyze the environmental impacts associated with the operation of the proposed launch site. The information provided by an applicant must be sufficient to enable the FAA to comply with the requirements of the National Environment Policy Act, 42 U.S.C. 4321 *et seq.* (NEPA), the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA, 40 CFR parts 1500-1508, and the FAA's Procedures for Considering Environmental Impacts, FAA Order 1050.1D. An applicant shall submit environmental information concerning a proposed launch site not covered by existing environmental documentation, and other factors as determined by the FAA.
 
-\(c\) *Launch site location.* (1) Except as provided by paragraph (c)(2) of this section, an applicant shall provide the information necessary to demonstrate compliance with §§420.19-420.29.
+\(c\) *Launch site location.* (1) Except as provided by paragraph (c)(2) of this section, an applicant shall provide the information necessary to demonstrate compliance with §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]]-420.29.
 
 \(2\) An applicant who is proposing to locate a launch site at an existing launch point at a federal launch range is not required to comply with paragraph (c)(1) of this section if a launch vehicle of the same type and class as proposed for the launch point has been safely launched from the launch point.
 
-\(d\) *Explosive site plan.* (1) Except as provided by paragraph (d)(2) of this section, an applicant shall submit an explosive site plan that complies with §§420.63, 420.65, 420.67, and 420.69.
+\(d\) *Explosive site plan.* (1) Except as provided by paragraph (d)(2) of this section, an applicant shall submit an explosive site plan that complies with §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]], 420.65, 420.67, and 420.69.
 
 \(2\) If an applicant plans to operate a launch site located on a federal launch range, and if the applicant is required by the federal launch range to comply with the federal launch range's explosive safety requirements, the applicant shall submit the explosive site plan submitted to the federal launch range.
 
-\(e\) *Launch site operations.* An applicant shall provide the information necessary to demonstrate compliance with the requirements of §§420.53, 420.55, 420.57, 420.59, 420.61, and 420.71.
+\(e\) *Launch site operations.* An applicant shall provide the information necessary to demonstrate compliance with the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§420.53]], 420.55, 420.57, 420.59, 420.61, and 420.71.
 
 ### §420.17   Bases for issuance of a license.
 
 \(a\) The FAA will issue a license under this part when the FAA determines that:
 
-\(1\) The application provides the information required by §420.15;
+\(1\) The application provides the information required by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.15   Information requirements.|§420.15]];
 
 \(2\) The FAA has completed an analysis of the environmental impacts associated with the proposed operation of the launch site, in accordance with NEPA, 40 CFR parts 1500-1508, and FAA Order 1050.1D;
 
-\(3\) The launch site location meets the requirements of §§420.19, 420.21, 420.23, 420.25, 420.27, and 420.29;
+\(3\) The launch site location meets the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]], 420.21, 420.23, 420.25, 420.27, and 420.29;
 
-\(4\) The applicant has completed the agreements required by §420.31;
+\(4\) The applicant has completed the agreements required by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.31   Agreements.|§420.31]];
 
-\(5\) The application demonstrates that the applicant shall satisfy the requirements of §§420.53, 420.55, 420.57, 420.59, 420.61 and 420.71;
+\(5\) The application demonstrates that the applicant shall satisfy the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.53   Control of public access.|§420.53]], 420.55, 420.57, 420.59, 420.61 and 420.71;
 
-\(6\) The explosive site plan meets the criteria of §§420.63, 420.65, 420.67 and 420.69; and
+\(6\) The explosive site plan meets the criteria of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]], 420.65, 420.67 and 420.69; and
 
 \(7\) Issuing a license would not jeopardize foreign policy or national security interests of the United States.
 
@@ -203,7 +204,7 @@ For the purpose of this part.
 
 <div>
 
-Table 1 of §420.19—Orbital Expendable Launch Vehicle Classes by Payload Weight (lbs)
+Table 1 of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]]—Orbital Expendable Launch Vehicle Classes by Payload Weight (lbs)
 
 </div>
 
@@ -235,7 +236,7 @@ Table 1 of §420.19—Orbital Expendable Launch Vehicle Classes by Payload Weigh
 
 <div>
 
-Table 2 of §420.21—Minimum Distance From Launch Point to Launch Site Boundary (feet)
+Table 2 of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.21   Launch site location review—launch site boundary.|§420.21]]—Minimum Distance From Launch Point to Launch Site Boundary (feet)
 
 </div>
 
@@ -281,7 +282,7 @@ Table 2 of §420.21—Minimum Distance From Launch Point to Launch Site Boundary
 
 ### §420.25   Launch site location review—risk analysis.
 
-\(a\) If a flight corridor or impact dispersion area defined by §420.23 contains a populated area, the applicant shall estimate the casualty expectation associated with the flight corridor or impact dispersion area. An applicant shall use the methodology provided in appendix C to this part for guided orbital or suborbital expendable launch vehicles and appendix D for unguided suborbital launch vehicles.
+\(a\) If a flight corridor or impact dispersion area defined by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.23   Launch site location review—flight corridor.|§420.23]] contains a populated area, the applicant shall estimate the casualty expectation associated with the flight corridor or impact dispersion area. An applicant shall use the methodology provided in appendix C to this part for guided orbital or suborbital expendable launch vehicles and appendix D for unguided suborbital launch vehicles.
 
 \(b\) For licensed launches, the FAA will not approve the location of the proposed launch point if the estimated expected casualty exceeds 1 × 10−4.
 
@@ -351,7 +352,7 @@ A license to operate a launch site remains in effect for five years from the dat
 
 \(a\) Only the FAA may transfer a license to operate a launch site.
 
-\(b\) The FAA will transfer a license to an applicant who has submitted an application in accordance with [[Volume 4/C Licensing/0413 License application procedures.md|14 CFR part 413]], satisfied the requirements of §420.15, and obtained each approval required by §420.17 for a license.
+\(b\) The FAA will transfer a license to an applicant who has submitted an application in accordance with [[Volume 4/C Licensing/0413 License application procedures.md|14 CFR part 413]], satisfied the requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.15   Information requirements.|§420.15]], and obtained each approval required by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.17   Bases for issuance of a license.|§420.17]] for a license.
 
 \(c\) The FAA may incorporate by reference any findings made part of the record that supported a prior related licensing determination.
 
@@ -365,7 +366,7 @@ A license to operate a launch site remains in effect for five years from the dat
 
 \(2\) The licensee proposes to operate the launch site in a manner that would make any representation contained in the license application that is material to public health and safety or safety of property no longer accurate and complete.
 
-\(c\) An application to modify a license shall be prepared and submitted in accordance with part 413 of this chapter. The licensee shall indicate any part of its license or license application that would be changed or affected by a proposed modification.
+\(c\) An application to modify a license shall be prepared and submitted in accordance with [[Volume 4/C Licensing/0413 License application procedures.md|part 413 of this chapter]]. The licensee shall indicate any part of its license or license application that would be changed or affected by a proposed modification.
 
 \(d\) The FAA approves a modification request that satisfies the requirements of this part.
 
@@ -411,9 +412,9 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 \(a\) A licensee shall notify each launch operator and any other customer of any limitations on the use of the launch site. A licensee shall also communicate limitations on the use of facilities provided to customers by the launch site operator.
 
-\(b\) A licensee shall maintain its agreement, made in accordance with §420.31(a), with the local U.S. Coast Guard district.
+\(b\) A licensee shall maintain its agreement, made in accordance with [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.31   Agreements.|§420.31]](a), with the local U.S. Coast Guard district.
 
-\(c\) A licensee shall maintain its agreement, made in accordance with §420.31(b), with the FAA ATC office having jurisdiction over the airspace through which launches will take place.
+\(c\) A licensee shall maintain its agreement, made in accordance with [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.31   Agreements.|§420.31]](b), with the FAA ATC office having jurisdiction over the airspace through which launches will take place.
 
 \(d\) At least two days prior to flight of a launch vehicle, the licensee shall notify local officials and all owners of land adjacent to the launch site of the flight schedule.
 
@@ -423,7 +424,7 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 [Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=118669af145d82937a3dbf10342edd94&mc=true&node=20210309y1.1)
 
-\(a\) *General.* A licensee shall develop and implement a launch site accident investigation plan that contains the licensee's procedures for reporting, responding to, and investigating launch site accidents, as defined by §420.5, and for cooperating with federal officials in case of a launch accident. The launch site accident investigation plan must be signed by an individual authorized to sign and certify the application in accordance with §413.7(c) of this chapter.
+\(a\) *General.* A licensee shall develop and implement a launch site accident investigation plan that contains the licensee's procedures for reporting, responding to, and investigating launch site accidents, as defined by [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.5   Definitions.|§420.5]], and for cooperating with federal officials in case of a launch accident. The launch site accident investigation plan must be signed by an individual authorized to sign and certify the application in accordance with [[Volume 4/C Licensing/0413 License application procedures.md#§413.7   Application.|§413.7]](c) of this chapter.
 
 \(b\) *Reporting requirements.* A launch site accident investigation plan shall provide for—
 
@@ -441,7 +442,7 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 \(v\) Property damage, if any, and an estimate of its value;
 
-\(vi\) Identification of hazardous materials, as defined by §401.5 of this chapter, involved in the event;
+\(vi\) Identification of hazardous materials, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, involved in the event;
 
 \(vii\) Any action taken to contain the consequences of the event; and
 
@@ -487,7 +488,7 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 ### §420.63   Explosive siting.
 
-\(a\) Except as otherwise provided by paragraph (b) of this section, a licensee must ensure the configuration of the launch site follows its explosive site plan, and the licensee's explosive site plan complies with the requirements of §§420.65 through 420.70. The explosive site plan must include:
+\(a\) Except as otherwise provided by paragraph (b) of this section, a licensee must ensure the configuration of the launch site follows its explosive site plan, and the licensee's explosive site plan complies with the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70. The explosive site plan must include:
 
 \(1\) A scaled map that shows the location of all explosive hazard facilities at the launch site and that shows actual and minimal allowable distances between each explosive hazard facility and all other explosive hazard facilities, each public traffic route, and each public area, including the launch site boundary;
 
@@ -497,9 +498,9 @@ A licensee shall allow access by and cooperate with federal officers or employee
 
 \(4\) An explosive site map using a scale sufficient to show whether distances and structural relationships satisfy the requirements of this part.
 
-\(b\) A licensee operating a launch site located on a federal launch range does not have to comply with the requirements in §§420.65 through 420.70 if the licensee complies with the federal launch range's explosive safety requirements.
+\(b\) A licensee operating a launch site located on a federal launch range does not have to comply with the requirements in §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70 if the licensee complies with the federal launch range's explosive safety requirements.
 
-\(c\) For explosive siting issues not addressed by the requirements of §§420.65 through 420.70, a launch site operator must clearly and convincingly demonstrate a level of safety equivalent to that otherwise required by this part.
+\(c\) For explosive siting issues not addressed by the requirements of §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]] through 420.70, a launch site operator must clearly and convincingly demonstrate a level of safety equivalent to that otherwise required by this part.
 
 \(d\) A launch site operator may separate an explosive hazard facility from another explosive hazard facility, public area, or public traffic route by a distance different from one required by this part only if the launch site operator clearly and convincingly demonstrates a level of safety equivalent to that required by this part.
 
@@ -629,7 +630,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 \(b\) *Liquid propellants and division 1.1 explosives located together.* For liquid propellants and division 1.1 explosives located together, a launch site operator must:
 
-\(1\) Determine the explosive equivalent weight of the liquid propellants by following §420.67(c);
+\(1\) Determine the explosive equivalent weight of the liquid propellants by following [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.67   Separation distance requirements for handling incompatible energetic liquids that are co-located.|§420.67]](c);
 
 \(2\) Add the explosive equivalent weight of the liquid propellants and the net explosive weight of division 1.1 explosives to determine the combined net explosive weight;
 
@@ -639,7 +640,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 \(c\) *Liquid propellants and division 1.3 explosives located together.* For liquid propellants and division 1.3 explosives located together, a launch site operator must separate each explosive hazard facility from each other explosive hazard facility, public area, and public traffic route using either of the following two methods:
 
-\(1\) *Method 1.* (i) Determine the explosive equivalent weight of the liquid propellants by following §420.67(c);
+\(1\) *Method 1.* (i) Determine the explosive equivalent weight of the liquid propellants by following [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.67   Separation distance requirements for handling incompatible energetic liquids that are co-located.|§420.67]](c);
 
 \(ii\) Add to the explosive equivalent weight of the liquid propellants, the net explosive weight of each division 1.3 explosive, treating division 1.3 explosives as division 1.1 explosives;
 
@@ -647,7 +648,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 \(iv\) Separate each public area containing any member of the public in the open by a distance equal to −1133.9 + \[389 \*ln(NEW)\], where the net explosive weight is greater than 450 pounds and less than 501,500 pounds.
 
-\(2\) *Method 2.* (i) Determine the explosive equivalent weight of each liquid propellant by following §420.67(c);
+\(2\) *Method 2.* (i) Determine the explosive equivalent weight of each liquid propellant by following [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.67   Separation distance requirements for handling incompatible energetic liquids that are co-located.|§420.67]](c);
 
 \(ii\) Add to the explosive equivalent weight of the liquid propellants, the net explosive weight of each division 1.3 explosive to determine the combined net explosive weight;
 
@@ -657,9 +658,9 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 \(d\) *Liquid propellants and division 1.1 and 1.3 explosives located together.* For liquid propellants and division 1.1 and 1.3 explosives located together, a launch site operator must:
 
-\(1\) Determine the explosive equivalent weight of the liquid propellants by following §420.67(c);
+\(1\) Determine the explosive equivalent weight of the liquid propellants by following [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.67   Separation distance requirements for handling incompatible energetic liquids that are co-located.|§420.67]](c);
 
-\(2\) Determine the total explosive quantity of each division 1.1 and 1.3 explosive by following §420.65(a)(2);
+\(2\) Determine the total explosive quantity of each division 1.1 and 1.3 explosive by following [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.65   Separation distance requirements for handling division 1.1 and 1.3 explosives.|§420.65]](a)(2);
 
 \(3\) Add the explosive equivalent weight of the liquid propellants to the total explosive quantity of division 1.1 and 1.3 explosives together to determine the combined net explosive weight;
 
@@ -673,7 +674,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 ### §420.70   Separation distance measurement requirements.
 
-\(a\) This section applies to all measurements of distances performed under §§420.63 through 420.69.
+\(a\) This section applies to all measurements of distances performed under §[[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.63   Explosive siting.|§420.63]] through 420.69.
 
 \(b\) A launch site operator must measure each separation distance along straight lines. For large intervening topographical features such as hills, the launch site operator must measure over or around the feature, whichever is the shorter.
 
@@ -721,7 +722,7 @@ Pounds of energetic liquid = gallons × density of energetic liquid (pounds per 
 
 ### (a) Introduction
 
-\(1\) This appendix provides a method for constructing a flight corridor from a launch point for a guided suborbital launch vehicle or any one of the four classes of guided orbital launch vehicles from table 1, §420.19, without the use of local meteorological data or a launch vehicle trajectory.
+\(1\) This appendix provides a method for constructing a flight corridor from a launch point for a guided suborbital launch vehicle or any one of the four classes of guided orbital launch vehicles from table 1, [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]], without the use of local meteorological data or a launch vehicle trajectory.
 
 \(2\) A flight corridor includes an overflight exclusion zone in a launch area and, for a guided suborbital launch vehicle, an impact dispersion area in a downrange area. A flight corridor for a guided suborbital launch vehicle ends with the impact dispersion area, and, for the four classes of guided orbital launch vehicles, 5000 nautical miles (nm) from the launch point.
 
@@ -933,7 +934,7 @@ b = WGS-84 semi-minor axis (3432.37165994 nmi)
 
 \(1\) To define a flight corridor, an applicant shall:
 
-\(i\) Select a guided suborbital or orbital launch vehicle, and, for an orbital launch vehicle, select from table 1 of §420.19 a launch vehicle weight class that best represents the launch vehicle the applicant plans to support at its launch point;
+\(i\) Select a guided suborbital or orbital launch vehicle, and, for an orbital launch vehicle, select from table 1 of [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]] a launch vehicle weight class that best represents the launch vehicle the applicant plans to support at its launch point;
 
 \(ii\) Select a debris dispersion radius (Dmax) from table A-1 corresponding to the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i);
 
@@ -1081,7 +1082,7 @@ Table A-2—Overflight Exclusion Zone Downrange Distance (Doez) (in)
 
 ### (a) Introduction
 
-\(1\) This appendix provides a method to construct a flight corridor from a launch point for a guided suborbital launch vehicle or any one of the four weight classes of guided orbital launch vehicles from table 1, §420.19, using local meteorological data and a launch vehicle trajectory.
+\(1\) This appendix provides a method to construct a flight corridor from a launch point for a guided suborbital launch vehicle or any one of the four weight classes of guided orbital launch vehicles from table 1, [[Volume 4/C Licensing/0420 License to operate a launch site.md#§420.19   Launch site location review—general.|§420.19]], using local meteorological data and a launch vehicle trajectory.
 
 \(2\) A flight corridor is constructed in two sections—one section comprising a launch area and one section comprising a downrange area. The launch area of a flight corridor reflects the extent of launch vehicle debris impacts in the event of a launch vehicle failure and applying local meteorological conditions. The downrange area reflects the extent of launch vehicle debris impacts in the event of a launch vehicle failure and applying vehicle imparted velocity, malfunctions turns, and vehicle guidance and performance dispersions.
 

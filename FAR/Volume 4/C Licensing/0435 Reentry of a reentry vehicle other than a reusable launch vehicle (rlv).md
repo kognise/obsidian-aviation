@@ -50,7 +50,7 @@ To obtain a reentry license, an applicant must obtain policy and safety approval
 
 ### §435.8   Human space flight.
 
-An applicant for a license to conduct a reentry with flight crew or a space flight participant on board the vehicle must demonstrate compliance with §§460.5, 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+An applicant for a license to conduct a reentry with flight crew or a space flight participant on board the vehicle must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006\]
 
@@ -104,7 +104,7 @@ Unless otherwise stated in this subpart, regulations applicable to safety review
 
 To obtain safety approval for reentry, an applicant must demonstrate the following for public risk:
 
-\(a\) The risk to the collective members of the public from the proposed launch meets the public risk criteria of §417.107(b)(1) of this chapter;
+\(a\) The risk to the collective members of the public from the proposed launch meets the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b)(1) of this chapter;
 
 \(b\) The risk level to the collective members of the public, excluding persons in water-borne vessels and aircraft, from each proposed reentry does not exceed an expected number of 1 × 10−4 casualties from impacting inert and explosive debris and toxic release associated with the reentry; and
 

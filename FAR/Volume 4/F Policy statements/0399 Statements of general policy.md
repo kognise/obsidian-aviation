@@ -14,7 +14,7 @@ Editorial Note: Nomenclature changes to part 399 appear at 84 FR 15947, Apr. 16,
 
 ### §399.1   Applicability.
 
-All statements of general policy adopted by the Department for the guidance of the public will be published in this part, except as provided in §399.2.
+All statements of general policy adopted by the Department for the guidance of the public will be published in this part, except as provided in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.2   Exclusions.|§399.2]].
 
 ### §399.2   Exclusions.
 
@@ -62,7 +62,7 @@ The statements of general policy relating to the various duties and functions of
 
 ### §399.18   Maximum duration of fixed-term route authorization granted by exemption; renewal of such authority.
 
-It is the policy of the Department to limit the duration of exemptions which authorize fixed-term route service to a maximum period of two years, and to entertain requests for renewal of such authority only when incorporated in a duly filed application for substantially equivalent certificate authority under section 401 of the Act. (See §377.10(c) of this chapter (Special Regulations).)
+It is the policy of the Department to limit the duration of exemptions which authorize fixed-term route service to a maximum period of two years, and to entertain requests for renewal of such authority only when incorporated in a duly filed application for substantially equivalent certificate authority under section 401 of the Act. (See [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](c) of this chapter (Special Regulations).)
 
 \[PS-21, 29 FR 1446, Jan. 29, 1964, as amended at 65 FR 6457, Feb. 9, 2000\]
 
@@ -78,7 +78,7 @@ In deciding applications for exemptions from section 41102 of Title 49 of the Un
 
 ### §399.35   Special tariff permission.
 
-The Secretary of Transportation may approve, under such terms as the Secretary may require, a carrier's application for Special Tariff Permission to file a tariff for foreign air transportation required under part 293 of this chapter on less than the notice required by 49 U.S.C. 41504(b).
+The Secretary of Transportation may approve, under such terms as the Secretary may require, a carrier's application for Special Tariff Permission to file a tariff for foreign air transportation required under [[Volume 4/A Economic regulations/0293 International passenger transportation.md|part 293 of this chapter]] on less than the notice required by 49 U.S.C. 41504(b).
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15947, Apr. 16, 2019\]
 
@@ -106,7 +106,7 @@ The Secretary of Transportation may approve, under such terms as the Secretary m
 
 ### §399.39   Equipment purchase deposits.
 
-Equipment purchase deposits are advance payments made by air carriers to manufacturers for the purchase of equipment to be delivered in the future, or funds segregated by air carriers for this purpose. It is the policy of the Department not to recognize equipment purchase deposits in an air carrier's investment base for ratemaking purposes. When equipment is acquired by an air carrier and placed in air-transport service, the Department will recognize in the air carrier's investment base interest on purchase deposits on such equipment capitalized and amortized in accordance with the Uniform System of Accounts and Reports for Certificated Air Carriers (part 241 of this chapter).
+Equipment purchase deposits are advance payments made by air carriers to manufacturers for the purchase of equipment to be delivered in the future, or funds segregated by air carriers for this purpose. It is the policy of the Department not to recognize equipment purchase deposits in an air carrier's investment base for ratemaking purposes. When equipment is acquired by an air carrier and placed in air-transport service, the Department will recognize in the air carrier's investment base interest on purchase deposits on such equipment capitalized and amortized in accordance with the Uniform System of Accounts and Reports for Certificated Air Carriers ([[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]]).
 
 \[PS-32, 32 FR 5370, Mar. 30, 1967\]
 
@@ -242,7 +242,7 @@ For the purpose of implementing the Department's policy to provide for the exclu
 
 \(2\) In any route case in which the administrative law judge finds that there exists unusual policy or evidentiary issues clearly requiring a prehearing presentation, the staff shall submit a prehearing statement of the decisional options available.
 
-\(3\) To the extent possible, the Department, in its instituting orders, will identify or designate the cases which involve the development of new policies or unusual evidentiary issues that will require the type of staff participation described in §399.63(b)(1).
+\(3\) To the extent possible, the Department, in its instituting orders, will identify or designate the cases which involve the development of new policies or unusual evidentiary issues that will require the type of staff participation described in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.63   Role of staff in route proceedings.|§399.63]](b)(1).
 
 \[PS-76, 43 FR 19354, May 5, 1978\]
 
@@ -256,13 +256,13 @@ The rules and policies relating to the disposition of rulemaking petitions by th
 
 ### §399.73   Definition of small business for Regulatory Flexibility Act.
 
-For the purposes of the Department's implementation of chapter 6 of title 5, United States Code (Regulatory Flexibility Act), a direct air carrier or foreign air carrier is a small business if it provides air transportation only with small aircraft as defined in §298.2 of this chapter (up to 60 seats/18,000 pound payload capacity).
+For the purposes of the Department's implementation of chapter 6 of title 5, United States Code (Regulatory Flexibility Act), a direct air carrier or foreign air carrier is a small business if it provides air transportation only with small aircraft as defined in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.2   Definitions.|§298.2]] of this chapter (up to 60 seats/18,000 pound payload capacity).
 
 \[Doc. No. OST-96-1429, 61 FR 29019, June 7, 1996, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15947, Apr. 16, 2019\]
 
 ### §399.75   Rulemakings relating to unfair and deceptive practices.
 
-\(a\) *General.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall employ the definitions of “unfair” and “deceptive” set forth in §399.79.
+\(a\) *General.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall employ the definitions of “unfair” and “deceptive” set forth in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.79   Policies relating to unfair and deceptive practices.|§399.79]].
 
 \(b\) *Procedural requirements.* When issuing a proposed regulation under paragraph (a) of this section that is defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), the Department shall follow the procedural requirements set forth in 49 CFR 5.17. When issuing a proposed regulation under paragraph (a) of this section that is not defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), unless the regulation is specifically required by statute, the Department shall adhere to the following procedural requirements:
 
@@ -304,7 +304,7 @@ For the purposes of the Department's implementation of chapter 6 of title 5, Uni
 
 \(8\) *Interagency review process.* The hearing procedures under this paragraph (b)(8) shall not impede or interfere with the interagency review process of the Office of Information and Regulatory Affairs for the proposed rulemaking.
 
-\(c\) *Basis for rulemaking.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall articulate the basis for concluding that the practice is unfair or deceptive to consumers as defined in §399.79.
+\(c\) *Basis for rulemaking.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall articulate the basis for concluding that the practice is unfair or deceptive to consumers as defined in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.79   Policies relating to unfair and deceptive practices.|§399.79]].
 
 \[85 FR 78716, Dec. 7, 2020\]
 
@@ -332,11 +332,11 @@ For the purposes of the Department's implementation of chapter 6 of title 5, Uni
 
 \(2\) During this informal process, if the Office of Aviation Consumer Protection reaches agreement with the alleged violator to resolve the matter with the issuance of an order declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), and when a regulation issued under the authority of section 41712 does not apply to the practice at issue, then the Department shall articulate in the order the basis for concluding that the practice is unfair or deceptive to consumers as defined in this section.
 
-\(f\) *Formal enforcement proceedings.* When there are reasonable grounds to believe that an airline or ticket agent has violated 49 U.S.C. 41712, and efforts to settle the matter have failed, the Office of Aviation Consumer Protection may issue a notice instituting an enforcement proceeding before an administrative law judge pursuant to 14 CFR 302.407. After the issues have been formulated, if the matter has not been resolv[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.407   Commencement of enforcement proceeding.|14 CFR 302.407]]adings or otherwise, the parties will receive reasonable written notice of the time and place of the hearing as set forth in 14 CFR 302.415.
+\(f\) *Formal enforcement proceedings.* When there are reasonable grounds to believe that an airline or ticket agent has violated 49 U.S.C. 41712, and efforts to settle the matter have failed, the Office of Aviation Consumer Protection may issue a notice instituting an enforcement proceeding before an administrative law judge pursuant to 14 CFR 302.407. After the issues have been formulated, if the matter has not been resolved through pleadings or otherwise, the parties will receive reasonable written notice of the time and place of the hearing as set forth in 14 CFR 302.415.
 
 \[85 FR 78717, Dec. 7, 2020\]
 
-### §399.80   Unfair and deceptive p[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.415   Hearing.|14 CFR 302.415]]cket agents.
+### §399.80   Unfair and deceptive practices of ticket agents.
 
 It is the policy of the Department to regard as an unfair or deceptive practice or unfair method of competition the practices enumerated in paragraphs (a) through (n) of this section by a ticket agent of any size and the practice enumerated in paragraph (s) by a ticket agent that sells air transportation online and is not considered a small business under the Small Business Administration's size standards set forth in 13 CFR 121.201:
 
@@ -426,7 +426,7 @@ It is the policy of the Department to regard as an unfair or deceptive practice 
 
 \(d\) *Unfair and deceptive practice.* It is the policy of the Department to regard any joint activity of an affiliated air carrier and a foreign air carrier as an unfair or deceptive practice or unfair method of competition where such joint activity does not satisfy the minimum safeguards enumerated in the preceding subsection.
 
-\(e\) *Exceptions.* Exceptions to a safeguard set forth in paragraph (c) of this section may be recognized for activities in a foreign country if the Department finds that special circumstances pertaining to the country render the safeguard inappropriate. Exceptions on other grounds may be recognized pursuant to §399.4.
+\(e\) *Exceptions.* Exceptions to a safeguard set forth in paragraph (c) of this section may be recognized for activities in a foreign country if the Department finds that special circumstances pertaining to the country render the safeguard inappropriate. Exceptions on other grounds may be recognized pursuant to [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.4   Nature and effect of policy statements.|§399.4]].
 
 \[PS-29, 30 FR 13781, Oct. 29, 1965, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15947, Apr. 16, 2019\]
 

@@ -20,7 +20,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.26](https://www.ecfr.
 
 \(4\) Holders of type certificates and their licensees producing new airplanes.
 
-\(c\) An applicant for approval of a design change is not required to comply with any applicable airworthiness requirement of this part if the applicant elects or is required to comply with a corresponding amendment to part 25 of this chapter that is adopted concurrently or after that airworthiness requirement.
+\(c\) An applicant for approval of a design change is not required to comply with any applicable airworthiness requirement of this part if the applicant elects or is required to comply with a corresponding amendment to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] that is adopted concurrently or after that airworthiness requirement.
 
 \(d\) For the purposes of this part, the word “type certificate” does not include supplemental type certificates.
 
@@ -82,11 +82,11 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(2\) Applicants for TCs, and amendments to TCs (including service bulletins describing design changes), if the date of application was before December 10, 2007 and the certificate was issued on or after December 10, 2007: December 10, 2009 or the date the certificate is issued, whichever occurs later.
 
-\(3\) Unless compliance with §25.1729 of this subchapter is required or elected, applicants for amendments to TCs, if the application was filed on or after December 10, 2007: December 10, 2009, or the date of approval of the certificate, whichever occurs later.
+\(3\) Unless compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1729   Instructions for Continued Airworthiness: EWIS.|§25.1729]] of this subchapter is required or elected, applicants for amendments to TCs, if the application was filed on or after December 10, 2007: December 10, 2009, or the date of approval of the certificate, whichever occurs later.
 
 \(4\) Applicants for supplemental type certificates (STC), including changes to existing STCs, if the date of application was before December 10, 2007 and the certificate was issued on or after December 10, 2007: June 7, 2010, or the date of approval of the certificate, whichever occurs later.
 
-\(5\) Unless compliance with §25.1729 of this subchapter is required or elected, applicants for STCs, including changes to existing STCs, if the application was filed on or after December 10, 2007, June 7, 2010, or the date of approval of the certificate, whichever occurs later.
+\(5\) Unless compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1729   Instructions for Continued Airworthiness: EWIS.|§25.1729]] of this subchapter is required or elected, applicants for STCs, including changes to existing STCs, if the application was filed on or after December 10, 2007, June 7, 2010, or the date of approval of the certificate, whichever occurs later.
 
 \(e\) Each person identified in paragraphs (d)(1), (d)(2), and (d)(4) of this section must submit to the responsible Aircraft Certification Service office for approval a compliance plan by March 10, 2008. The compliance plan must include the following information:
 
@@ -164,7 +164,7 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(ii\) The date the certificate is issued; or
 
-\(iii\) The date specified in the plan approved under §25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
+\(iii\) The date specified in the plan approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
 \(3\) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the original TC was issued before January 14, 2011: No later than the latest of the following dates:
 
@@ -172,7 +172,7 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(ii\) The date the amended certificate is issued; or
 
-\(iii\) The date specified in the plan approved under §25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
+\(iii\) The date specified in the plan approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
 \(4\) Applicants for amendments to TCs, with the exception of amendments to TCs specified in paragraphs (c)(6) or (c)(7) of this section, if the application for the original TC was made before January 14, 2011 but the TC was not issued before January 14, 2011: No later than the latest of the following dates:
 
@@ -180,7 +180,7 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(ii\) The date the amended certificate is issued; or
 
-\(iii\) The date specified in the plan approved under §25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
+\(iii\) The date specified in the plan approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
 \(5\) Holders of either supplemental type certificates (STCs) or amendments to TCs that increase maximum takeoff gross weights from 75,000 pounds or less to greater than 75,000 pounds: No later than July 14, 2012.
 
@@ -190,7 +190,7 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(ii\) The date the certificate is issued; or
 
-\(iii\) The date specified in the plan approved under §25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
+\(iii\) The date specified in the plan approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
 \(7\) Applicants for either STCs or amendments to TCs that decrease maximum takeoff gross weights from greater than 75,000 pounds to 75,000 pounds or less, if the date of application was after January 14, 2011: No later than the latest of the following dates:
 
@@ -198,7 +198,7 @@ tolerance data</th></tr><tr class="odd"><td style="text-align: left;" scope="row
 
 \(ii\) The date the certificate is issued; or
 
-\(iii\) The date specified in the plan approved under §25.571(b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
+\(iii\) The date specified in the plan approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) for completion of the full-scale fatigue testing and demonstrating that widespread fatigue damage will not occur in the airplane structure.
 
 \(d\) *Compliance plan.* Each person identified in paragraph (e) of this section must submit a compliance plan consisting of the following:
 
@@ -294,7 +294,7 @@ Table 1—Compliance Dates for Affected Airplanes
 
 ### §26.23   Extended limit of validity.
 
-\(a\) *Applicability.* Any person may apply to extend a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) approved under §25.571 of this subchapter, §26.21, or this section. Extending an LOV is a major design change. The applicant must comply with the relevant provisions of subparts D or E of part 21 of this subchapter and paragraph (b) of this section.
+\(a\) *Applicability.* Any person may apply to extend a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]] of this subchapter, [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]], or this section. Extending an LOV is a major design change. The applicant must comply with the relevant provisions of subparts D or E of part 21 of this subchapter and paragraph (b) of this section.
 
 \(b\) *Extended limit of validity.* Each person applying for an extended LOV must comply with the following requirements:
 
@@ -304,7 +304,7 @@ Table 1—Compliance Dates for Affected Airplanes
 
 \(ii\) All structural modifications to and replacements for the airplane structural configurations specified in paragraph (b)(1)(i) of this section, mandated by airworthiness directive, up to the date of approval of the extended LOV.
 
-\(2\) Establish a revision or supplement, as applicable, to the Airworthiness Limitations section (ALS) of the Instructions for Continued Airworthiness required by §25.1529 of this subchapter, and submit it to the responsible Aircraft Certification Service office for approval. The revised ALS or supplement to the ALS must include the applicable extended LOV established under paragraph (b)(1) of this section.
+\(2\) Establish a revision or supplement, as applicable, to the Airworthiness Limitations section (ALS) of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] of this subchapter, and submit it to the responsible Aircraft Certification Service office for approval. The revised ALS or supplement to the ALS must include the applicable extended LOV established under paragraph (b)(1) of this section.
 
 \(3\) Develop the maintenance actions determined by the WFD evaluation performed in paragraph (b)(1) of this section to be necessary to preclude WFD from occurring before the airplane reaches the proposed extended LOV. These maintenance actions must be documented as airworthiness limitation items in the ALS and submitted to the responsible Aircraft Certification Service office for approval.
 
@@ -316,9 +316,9 @@ Table 1—Compliance Dates for Affected Airplanes
 
 For purposes of this subpart—
 
-\(a\) *Fleet Average Flammability Exposure* has the meaning defined in Appendix N of part 25 of this chapter.
+\(a\) *Fleet Average Flammability Exposure* has the meaning defined in Appendix N of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]].
 
-\(b\) *Normally Emptied* means a fuel tank other than a Main Fuel Tank. Main Fuel Tank is defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]](b).
+\(b\) *Normally Emptied* means a fuel tank other than a Main Fuel Tank. Main Fuel Tank is defined in 14 CFR 25.981(b).
 
 ### §26.33   Holders of type certificates: Fuel tank flammability.
 
@@ -328,7 +328,7 @@ For purposes of this subpart—
 
 \(2\) A maximum payload capacity of 7,500 pounds or more.
 
-\(b\) *Flammability Exposure Analysis.* (1) *General.* Within 150 days after December 26, 2008, holders of type certificates must submit for approval to the responsible Aircraft Certification Service office a flammability exposure analysis of all fuel tanks defined in the type design, as well as all design variations approved under the type certificate that affect flammability exposure. This analysis must be conducted in accordance with Appendix N of part 25 of this chapter.
+\(b\) *Flammability Exposure Analysis.* (1) *General.* Within 150 days after December 26, 2008, holders of type certificates must submit for approval to the responsible Aircraft Certification Service office a flammability exposure analysis of all fuel tanks defined in the type design, as well as all design variations approved under the type certificate that affect flammability exposure. This analysis must be conducted in accordance with Appendix N of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]].
 
 \(2\) *Exception.* This paragraph (b) does not apply to—
 
@@ -340,9 +340,9 @@ For purposes of this subpart—
 
 \(1\) *Flammability Reduction Means (FRM).* A means must be provided to reduce the fuel tank flammability.
 
-\(i\) Fuel tanks that are designed to be Normally Emptied must meet the flammability exposure criteria of Appendix M of part 25 of this chapter if any portion of the tank is located within the fuselage contour.
+\(i\) Fuel tanks that are designed to be Normally Emptied must meet the flammability exposure criteria of Appendix M of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] if any portion of the tank is located within the fuselage contour.
 
-\(ii\) For all other fuel tanks, the FRM must meet all of the requirements of Appendix M of part 25 of this chapter, except, instead of complying with paragraph M25.1 of this appendix, the Fleet Average Flammability Exposure may not exceed 7 percent.
+\(ii\) For all other fuel tanks, the FRM must meet all of the requirements of Appendix M of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], except, instead of complying with paragraph M25.1 of this appendix, the Fleet Average Flammability Exposure may not exceed 7 percent.
 
 \(2\) *Ignition Mitigation Means (IMM).* A means must be provided to mitigate the effects of an ignition of fuel vapors within the fuel tank such that no damage caused by an ignition will prevent continued safe flight and landing.
 
@@ -350,9 +350,9 @@ For purposes of this subpart—
 
 \(1\) *FRM.* The type certificate holder must submit for approval by the responsible Aircraft Certification Service office design changes and service instructions for installation of fuel tank flammability reduction means (FRM) meeting the criteria of paragraph (c) of this section.
 
-\(2\) *IMM.* The type certificate holder must submit for approval by the responsible Aircraft Certification Service office design changes and service instructions for installation of fuel tank IMM that comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]](c) in effect on December 26, 2008.
+\(2\) *IMM.* The type certificate holder must submit for approval by the responsible Aircraft Certification Service office design changes and service instructions for installation of fuel tank IMM that comply with 14 CFR 25.981(c) in effect on December 26, 2008.
 
-\(e\) *Instructions for Continued Airworthiness (ICA).* No later than December 27, 2010, holders of type certificates required by paragraph (c) of this section to make design changes must submit for approval by the responsible Aircraft Certification Service office, critical design configuration control limitations (CDCCL), inspections, or other procedures to prevent increasing the flammability exposure of any tanks equipped with FRM above that permitted under paragraph (c)(1) of this section and to prevent degradation of the performance of any IMM provided under paragraph (c)(2) of this section. These CDCCL, inspections, and procedures must be included in the Airworthiness Limitations Section (ALS) of the ICA required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|14 CFR 25.1529]] or paragraph (f) of this section. Unless shown to be impracticable, visible means to identify critical features of the design must be placed in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the critical design configuration limitations. These visible means must also be identified as a CDCCL.
+\(e\) *Instructions for Continued Airworthiness (ICA).* No later than December 27, 2010, holders of type certificates required by paragraph (c) of this section to make design changes must submit for approval by the responsible Aircraft Certification Service office, critical design configuration control limitations (CDCCL), inspections, or other procedures to prevent increasing the flammability exposure of any tanks equipped with FRM above that permitted under paragraph (c)(1) of this section and to prevent degradation of the performance of any IMM provided under paragraph (c)(2) of this section. These CDCCL, inspections, and procedures must be included in the Airworthiness Limitations Section (ALS) of the ICA required by 14 CFR 25.1529 or paragraph (f) of this section. Unless shown to be impracticable, visible means to identify critical features of the design must be placed in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the critical design configuration limitations. These visible means must also be identified as a CDCCL.
 
 \(f\) *Airworthiness Limitations.* Unless previously accomplished, no later than December 27, 2010, holders of type certificates affected by this section must establish an ALS of the maintenance manual or ICA for each airplane configuration evaluated under paragraph (b)(1) of this section and submit it to the responsible Aircraft Certification Service office for approval. The ALS must include a section that contains the CDCCL, inspections, or other procedures developed under paragraph (e) of this section.
 
@@ -378,7 +378,7 @@ For purposes of this subpart—
 
 ### §26.35   Changes to type certificates affecting fuel tank flammability.
 
-\(a\) *Applicability.* This section applies to holders and applicants for approvals of the following design changes to any airplane subject to [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|14 CFR 26.33]](a):
+\(a\) *Applicability.* This section applies to holders and applicants for approvals of the following design changes to any airplane subject to 14 CFR 26.33(a):
 
 \(1\) Any fuel tank designed to be Normally Emptied if the fuel tank installation was approved pursuant to a supplemental type certificate or a field approval before December 26, 2008;
 
@@ -390,9 +390,9 @@ For purposes of this subpart—
 
 \(ii\) Changes to existing fuel tank capacity, or
 
-\(iii\) Changes that may increase the flammability exposure of an existing fuel tank for which FRM or IMM is required by §26.33(c).
+\(iii\) Changes that may increase the flammability exposure of an existing fuel tank for which FRM or IMM is required by [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]](c).
 
-\(b\) *Flammability Exposure Analysis*—(1) *General.* By the times specified in paragraphs (b)(1)(i) and (b)(1)(ii) of this section, each person subject to this section must submit for approval a flammability exposure analysis of the auxiliary fuel tanks or other affected fuel tanks, as defined in the type design, to the responsible Aircraft Certification Service office. This analysis must be conducted in accordance with Appendix N of part 25 of this chapter.
+\(b\) *Flammability Exposure Analysis*—(1) *General.* By the times specified in paragraphs (b)(1)(i) and (b)(1)(ii) of this section, each person subject to this section must submit for approval a flammability exposure analysis of the auxiliary fuel tanks or other affected fuel tanks, as defined in the type design, to the responsible Aircraft Certification Service office. This analysis must be conducted in accordance with Appendix N of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]].
 
 \(i\) Holders of supplemental type certificates and field approvals: Within 12 months of December 26, 2008,
 
@@ -400,7 +400,7 @@ For purposes of this subpart—
 
 \(2\) *Exception.* This paragraph does not apply to—
 
-\(i\) Fuel tanks for which the type certificate holder, supplemental type certificate holder, or field approval holder has notified the FAA under paragraph (f) of this section that it will provide design changes and service instructions for an IMM meeting the requirements of §25.981(c) in effect December 26, 2008; and
+\(i\) Fuel tanks for which the type certificate holder, supplemental type certificate holder, or field approval holder has notified the FAA under paragraph (f) of this section that it will provide design changes and service instructions for an IMM meeting the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]](c) in effect December 26, 2008; and
 
 \(ii\) Fuel tanks substantiated to be conventional unheated aluminum wing tanks.
 
@@ -430,9 +430,9 @@ Table 1
 
 \(1\) For holders and applicants subject to paragraph (a)(1) or (a)(3)(iii) of this section, if the assessment required by paragraph (c) of this section identifies any features of the design change that compromise any CDCCL applicable to any airplane on which the design change is eligible for installation, the holder or applicant must submit for approval by the responsible Aircraft Certification Service office design changes and service instructions for Flammability Impact Mitigation Means (FIMM) that would bring the design change into compliance with the CDCCL. Any fuel tank modified as required by this paragraph must also be evaluated as required by paragraph (b) of this section.
 
-\(2\) Applicants subject to paragraph (a)(2), or (a)(3)(i) of this section must comply with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]], in effect on December 26, 2008.
+\(2\) Applicants subject to paragraph (a)(2), or (a)(3)(i) of this section must comply with the requirements of 14 CFR 25.981, in effect on December 26, 2008.
 
-\(3\) Applicants subject to paragraph (a)(3)(ii) of this section must comply with the requirements of [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|14 CFR 26.33]].
+\(3\) Applicants subject to paragraph (a)(3)(ii) of this section must comply with the requirements of 14 CFR 26.33.
 
 \(e\) *Compliance Times for Design Changes and Service Instructions.* The following persons subject to this section must comply with the requirements of paragraph (d) of this section at the specified times.
 
@@ -478,7 +478,7 @@ Table 2—Compliance Planning Dates
 
 \(2\) A maximum payload capacity of 7,500 pounds or more.
 
-\(b\) If the application was made on or after June 6, 2001, the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]] in effect on December 26, 2008, apply.
+\(b\) If the application was made on or after June 6, 2001, the requirements of 14 CFR 25.981 in effect on December 26, 2008, apply.
 
 \[Doc. No. FAA-2005-22997, 73 FR 42499, July 21, 2008, as amended by Amdt. 26-3, 74 FR 31619, July 2, 2009\]
 
@@ -502,7 +502,7 @@ Table 1
 
 </div>
 
-\(b\) Any fuel tank meeting all of the criteria stated in paragraphs (b)(1), (b)(2) and (b)(3) of this section must have flammability reduction means (FRM) or ignition mitigation means (IMM) that meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]] in effect on December 26, 2008.
+\(b\) Any fuel tank meeting all of the criteria stated in paragraphs (b)(1), (b)(2) and (b)(3) of this section must have flammability reduction means (FRM) or ignition mitigation means (IMM) that meet the requirements of 14 CFR 25.981 in effect on December 26, 2008.
 
 \(1\) The fuel tank is Normally Emptied.
 
@@ -510,7 +510,7 @@ Table 1
 
 \(3\) The fuel tank exceeds a Fleet Average Flammability Exposure of 7 percent.
 
-\(c\) All other fuel tanks that exceed an Fleet Average Flammability Exposure of 7 percent must have an IMM that meets [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|14 CFR 25.981]](d) in effect on December 26, 2008, or an FRM that meets all of the requirements of Appendix M to this part, except instead of complying with paragraph M25.1 of that appendix, the Fleet Average Flammability Exposure may not exceed 7 percent.
+\(c\) All other fuel tanks that exceed an Fleet Average Flammability Exposure of 7 percent must have an IMM that meets 14 CFR 25.981(d) in effect on December 26, 2008, or an FRM that meets all of the requirements of Appendix M to this part, except instead of complying with paragraph M25.1 of that appendix, the Fleet Average Flammability Exposure may not exceed 7 percent.
 
 \[Doc. No. FAA-2005-22997, 73 FR 42499, July 21, 2008, as amended by Amdt. 26-3, 74 FR 31619, July 2, 2009\]
 
@@ -530,7 +530,7 @@ Table 1
 
 *DTE documentation* means data that identify the evaluated fatigue critical structure, the basic assumptions applied in a DTE, and the results of a DTE.
 
-*Fatigue critical structure* means airplane structure that is susceptible to fatigue cracking that could contribute to a catastrophic failure, as determined in accordance with §25.571 of this chapter. Fatigue critical structure includes structure, which, if repaired or altered, could be susceptible to fatigue cracking and contribute to a catastrophic failure. Such structure may be part of the baseline structure or part of an alteration.
+*Fatigue critical structure* means airplane structure that is susceptible to fatigue cracking that could contribute to a catastrophic failure, as determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]] of this chapter. Fatigue critical structure includes structure, which, if repaired or altered, could be susceptible to fatigue cracking and contribute to a catastrophic failure. Such structure may be part of the baseline structure or part of an alteration.
 
 *Implementation schedule* consists of documentation that establishes the timing for accomplishing the necessary actions for developing DT data for repairs and alterations, and for incorporating those data into an operator's continuing airworthiness maintenance program. The documentation must identify times when actions must be taken as specific numbers of airplane flight hours, flight cycles, or both.
 
@@ -548,7 +548,7 @@ Table 1
 
 \(1\) Identify fatigue critical baseline structure for all airplane model variations and derivatives approved under the type certificate; and
 
-\(2\) Develop and submit to the responsible Aircraft Certification Service office for review and approval, a list of the structure identified under paragraph (b)(1) of this section and, upon approval, make the list available to persons required to comply with §26.47 and §§121.1109 and 129.109 of this chapter.
+\(2\) Develop and submit to the responsible Aircraft Certification Service office for review and approval, a list of the structure identified under paragraph (b)(1) of this section and, upon approval, make the list available to persons required to comply with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.47   Holders of and applicants for a supplemental type certificate—Alterations and repairs to alterations.|§26.47]] and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(c\) *Existing and future published repair data.* For repair data published by a holder of a type certificate that is current as of January 11, 2008 and for all later published repair data, the holder of a type certificate must—
 
@@ -558,7 +558,7 @@ Table 1
 
 \(3\) Submit the DT data to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(d\) *Future repair data not published.* For repair data developed by a holder of a type certificate that are approved after January 11, 2008 and are not published, the type certificate holder must accomplish the following for repairs specified in the repair data that affect fatigue critical baseline structure:
 
@@ -566,13 +566,13 @@ Table 1
 
 \(2\) Submit the DT data required in paragraph (d)(1) of this section for review and approval by the responsible Aircraft Certification Service office or its properly authorized designees.
 
-\(3\) Upon approval, make the approved DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(3\) Upon approval, make the approved DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Repair evaluation guidelines.* Except for airplane models whose type certificate is issued after January 11, 2008, holders of a type certificate for each airplane model subject to this section must—
 
 \(1\) Develop repair evaluation guidelines for operators' use that include—
 
-\(i\) A process for conducting surveys of affected airplanes that will enable identification and documentation of all existing repairs that affect fatigue critical baseline structure identified under paragraph (b)(1) of this section and §26.45(b)(2);
+\(i\) A process for conducting surveys of affected airplanes that will enable identification and documentation of all existing repairs that affect fatigue critical baseline structure identified under paragraph (b)(1) of this section and [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.45   Holders of type certificates—Alterations and repairs to alterations.|§26.45]](b)(2);
 
 \(ii\) A process that will enable operators to obtain the DTI for repairs identified under paragraph (e)(1)(i) of this section; and
 
@@ -580,7 +580,7 @@ Table 1
 
 \(2\) Submit the repair evaluation guidelines to the responsible Aircraft Certification Service office for review and approval.
 
-\(3\) Upon approval, make the guidelines available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(3\) Upon approval, make the guidelines available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(4\) If the guidelines direct the operator to obtain assistance from the holder of a type certificate, make such assistance available in accordance with the implementation schedule.
 
@@ -640,25 +640,25 @@ Table 1
 
 ### §26.45   Holders of type certificates—Alterations and repairs to alterations.
 
-\(a\) *Applicability.* This section applies to transport category airplanes subject to §26.43.
+\(a\) *Applicability.* This section applies to transport category airplanes subject to [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]].
 
 \(b\) *Fatigue critical alteration structure.* For existing and future alteration data developed by the holder of a type certificate, the holder must—
 
-\(1\) Review alteration data and identify all alterations that affect fatigue critical baseline structure identified under §26.43(b)(1);
+\(1\) Review alteration data and identify all alterations that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1);
 
 \(2\) For each alteration identified under paragraph (b)(1) of this section, identify any fatigue critical alteration structure;
 
 \(3\) Develop and submit to the responsible Aircraft Certification Service office for review and approval a list of the structure identified under paragraph (b)(2) of this section; and
 
-\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
-\(c\) *DT Data.* For existing and future alteration data developed by the holder of a type certificate that affect fatigue critical baseline structure identified under §26.43(b)(1), unless previously accomplished, the holder must—
+\(c\) *DT Data.* For existing and future alteration data developed by the holder of a type certificate that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1), unless previously accomplished, the holder must—
 
 \(1\) Perform a DTE and develop the DTI for the alteration and fatigue critical baseline structure that is affected by the alteration;
 
 \(2\) Submit the DT data developed in accordance with paragraphs (c)(1) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(3\) Upon approval, make the DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(3\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(d\) *DT Data for Repairs Made to Alterations.* For existing and future repair data developed by a holder of a type certificate, the type certificate holder must—
 
@@ -668,7 +668,7 @@ Table 1
 
 \(3\) Submit the DT data developed in accordance with paragraph (d)(2) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Compliance times.* Holders of type certificates must submit the following to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval by the specified compliance time:
 
@@ -684,31 +684,31 @@ Table 1
 
 \(4\) For repair data developed and approved before January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted by June 30, 2009.
 
-\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \[Doc. No. FAA-2005-21693, 72 FR 70505, Dec. 12, 2007, as amended by Amdt. 26-4, 75 FR 11734, Mar. 12, 2010; Doc. No. FAA-2018-0119, Amdt. 26-7, 83 FR 9170, Mar. 5, 2018\]
 
 ### §26.47   Holders of and applicants for a supplemental type certificate—Alterations and repairs to alterations.
 
-\(a\) *Applicability.* This section applies to transport category airplanes subject to §26.43.
+\(a\) *Applicability.* This section applies to transport category airplanes subject to [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]].
 
 \(b\) *Fatigue critical alteration structure.* For existing structural alteration data approved under a supplemental certificate, the holder of the supplemental certificate must—
 
-\(1\) Review the alteration data and identify all alterations that affect fatigue critical baseline structure identified under §26.43(b)(1);
+\(1\) Review the alteration data and identify all alterations that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1);
 
 \(2\) For each alteration identified under paragraph (b)(1) of this section, identify any fatigue critical alteration structure;
 
 \(3\) Develop and submit to the responsible Aircraft Certification Service office for review and approval a list of the structure identified under paragraph (b)(2) of this section; and
 
-\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(4\) Upon approval, make the list required in paragraph (b)(3) of this section available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
-\(c\) *DT Data.* For existing and future alteration data developed by the holder of a supplemental type certificate that affect fatigue critical baseline structure identified under §26.43(b)(1), unless previously accomplished, the holder of a supplemental type certificate must—
+\(c\) *DT Data.* For existing and future alteration data developed by the holder of a supplemental type certificate that affect fatigue critical baseline structure identified under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](b)(1), unless previously accomplished, the holder of a supplemental type certificate must—
 
 \(1\) Perform a DTE and develop the DTI for the alteration and fatigue critical baseline structure that is affected by the alteration;
 
 \(2\) Submit the DT data developed in accordance with paragraphs (c)(1) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(3\) Upon approval, make the DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(3\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(d\) *DT Data for Repairs Made to Alterations.* For existing and future repair data developed by the holder of a supplemental holder of a supplemental type certificate, the holder of a supplemental type certificate must—
 
@@ -718,7 +718,7 @@ Table 1
 
 \(3\) Submit the DT data developed in accordance with paragraph (d)(2) of this section to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval; and
 
-\(4\) Upon approval, make the DTI available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(4\) Upon approval, make the DTI available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(e\) *Compliance times.* Holders of supplemental type certificates must submit the following to the responsible Aircraft Certification Service office or its properly authorized designees for review and approval by the specified compliance time:
 
@@ -726,21 +726,21 @@ Table 1
 
 \(2\) For alteration data developed and approved before January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted by June 30, 2009.
 
-\(3\) For alteration data developed after January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted before approval of the alteration data and making it available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(3\) For alteration data developed after January 11, 2008, the DT data required by paragraph (c)(2) of this section must be submitted before approval of the alteration data and making it available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \(4\) For repair data developed and approved before January 11, 2008, the DT data required by paragraph (d)(2) of this section must be submitted by June 30, 2009.
 
-\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section, must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §§121.1109 and 129.109 of this chapter.
+\(5\) For repair data developed and approved after January 11, 2008, the DT data required by paragraph (d)(2) of this section, must be submitted within 12 months after initial approval of the repair data and before making the DT data available to persons required to comply with §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1109   Supplemental inspections.|§121.1109]] and 129.109 of this chapter.
 
 \[Docket No. FAA-2005-21693, 72 FR 70505, Dec. 12, 2007, as amended by Doc. No. FAA-2018-0119, Amdt. 26-7, 83 FR 9170, Mar. 5, 2018\]
 
 ### §26.49   Compliance plan.
 
-\(a\) *Compliance plan.* Except for applicants for type certificates and supplemental type certificates whose applications are submitted after January 11, 2008, each person identified in §§26.43, 26.45, and 26.47, must submit a compliance plan consisting of the following:
+\(a\) *Compliance plan.* Except for applicants for type certificates and supplemental type certificates whose applications are submitted after January 11, 2008, each person identified in §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]], 26.45, and 26.47, must submit a compliance plan consisting of the following:
 
-\(1\) A project schedule identifying all major milestones for meeting the compliance times specified in §§26.43(f), 26.45(e), and 26.47(e), as applicable.
+\(1\) A project schedule identifying all major milestones for meeting the compliance times specified in §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]](f), 26.45(e), and 26.47(e), as applicable.
 
-\(2\) A proposed means of compliance with §§26.43, 26.45, and 26.47, as applicable.
+\(2\) A proposed means of compliance with §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.43   Holders of and applicants for type certificates—Repairs.|§26.43]], 26.45, and 26.47, as applicable.
 
 \(3\) A plan for submitting a draft of all compliance items required by this subpart for review by the responsible Aircraft Certification Service office not less than 60 days before the applicable compliance date.
 

@@ -38,11 +38,11 @@ This part describes when and how the FAA protects from disclosure safety and sec
 
 \(b\) You may be any person, including an individual, a company, or an organization.
 
-\(c\) You may propose to develop a program under this part using either the notice procedure in §193.11 or the no-notice procedure in §193.13.
+\(c\) You may propose to develop a program under this part using either the notice procedure in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.11   What is the notice procedure?|§193.11]] or the no-notice procedure in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.13   What is the no-notice procedure?|§193.13]].
 
 \(d\) If the FAA decides to protect the information that you propose to submit it issues an order designating the information as protected under this part.
 
-\(e\) The FAA only issues an order designating information as protected if the FAA makes the findings in §193.7.
+\(e\) The FAA only issues an order designating information as protected if the FAA makes the findings in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.7   What does it mean for the FAA to designate information as protected?|§193.7]].
 
 \(f\) The designation may be for a program in which all similar persons may participate, or for a program in which only you submit information.
 
@@ -100,7 +100,7 @@ This section states the notice procedure for the FAA to designate information as
 
 \(b\) *Proposed designation.* Before issuing a designation under this section, based either on your application or the FAA's own initiative, the FAA publishes a proposed designation in the Federal Register and requests comment.
 
-\(c\) *Designation.* The FAA designates information as protected under this part if, after review of the comments, the FAA makes the findings in §193.7. The FAA publishes in the Federal Register an order designating the information provided under the program as protected under this part. The designation includes the following:
+\(c\) *Designation.* The FAA designates information as protected under this part if, after review of the comments, the FAA makes the findings in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.7   What does it mean for the FAA to designate information as protected?|§193.7]]. The FAA publishes in the Federal Register an order designating the information provided under the program as protected under this part. The designation includes the following:
 
 \(1\) A summary of why the FAA finds that you and others, if applicable, will provide the information voluntarily.
 
@@ -110,7 +110,7 @@ This section states the notice procedure for the FAA to designate information as
 
 \(4\) A summary of why the receipt of that type of information aids in fulfilling the FAA's safety and security responsibilities.
 
-\(5\) A summary of why withholding such information from disclosure would be consistent with the FAA's safety and security responsibilities, including a statement as to the circumstances under which, and a summary of why, withholding such information from disclosure would not be consistent with the FAA's safety and security responsibilities, as described in §193.9.
+\(5\) A summary of why withholding such information from disclosure would be consistent with the FAA's safety and security responsibilities, including a statement as to the circumstances under which, and a summary of why, withholding such information from disclosure would not be consistent with the FAA's safety and security responsibilities, as described in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.9   Will the FAA ever disclose information that is designated as protected under this part?|§193.9]].
 
 \(6\) A summary of how the FAA will distinguish information protected under this part from information the FAA receives from other sources.
 
@@ -118,7 +118,7 @@ This section states the notice procedure for the FAA to designate information as
 
 \(d\) *Amendment of designation.* The FAA may amend a designation using the procedures in paragraphs (a), (b), and (c) of this section.
 
-\(e\) *Withdrawal of designation.* The FAA may withdraw a designation under this section at any time the FAA finds that continuation of the designation does not meet the elements of §193.7, or if the requirements of the designation are not met. The FAA withdraws the designation by publishing a notice in the Federal Register. The withdrawal is effective on the date of publication or such later date as the notice may state. Information provided during the time the program was designated remains protected under this part and the program. Information provided after the withdrawal of the designation is effective is not protected under this part or the program.
+\(e\) *Withdrawal of designation.* The FAA may withdraw a designation under this section at any time the FAA finds that continuation of the designation does not meet the elements of [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.7   What does it mean for the FAA to designate information as protected?|§193.7]], or if the requirements of the designation are not met. The FAA withdraws the designation by publishing a notice in the Federal Register. The withdrawal is effective on the date of publication or such later date as the notice may state. Information provided during the time the program was designated remains protected under this part and the program. Information provided after the withdrawal of the designation is effective is not protected under this part or the program.
 
 \[66 FR 33805, June 25, 2001, as amended at 72 FR 68475, Dec. 5, 2007\]
 
@@ -130,19 +130,19 @@ This section states the no-notice procedure for the FAA to designate information
 
 \(b\) *Designation.* The FAA issues a written order designating information provided under this section as protected under this part. The FAA designates the information as protected under this part if the FAA—
 
-\(1\) Makes the findings as §193.7; and
+\(1\) Makes the findings as [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.7   What does it mean for the FAA to designate information as protected?|§193.7]]; and
 
-\(2\) Finds that there is an immediate safety or security need to obtain the information without carrying out the procedures in §193.11 of this part.
+\(2\) Finds that there is an immediate safety or security need to obtain the information without carrying out the procedures in [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.11   What is the notice procedure?|§193.11]] of this part.
 
 \(c\) *Time limit.* Except as provided in paragraphs (c)(1) and (c)(2) of this section, no designation under this section continues in effect for more than 60 days after the date of designation. Information provided during the time the designation was in effect remains protected under this part. Information provided that the designation ceases to be in effect is not protected under this part. The designation remains in effect for more than 60 days if—
 
-\(1\) The procedures to designate such information under §193.11(a) have been initiated, or
+\(1\) The procedures to designate such information under [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.11   What is the notice procedure?|§193.11]](a) have been initiated, or
 
 \(2\) There is an ongoing enforcement or criminal investigation, in which case the designation may continue until the investigation is completed.
 
 \(d\) *Amendment of designation.* The FAA may amend a designation under this section using the procedures in paragraphs (a) and (b) of this section.
 
-\(e\) *Withdrawal of designation.* The FAA may withdraw a designation under this section at any time the FAA finds that continuation does not meet the elements of §193.7, or if the requirements of the designation are not met. The FAA withdraws the designation by notifying the person in writing that the designation is withdrawn. The withdrawal is effective on the date of receipt of the notice or such later date as the notice may state. Information provided during the time the designation was in effect remains protected under this part. Information provided after the withdrawal is effective is not protected under this part.
+\(e\) *Withdrawal of designation.* The FAA may withdraw a designation under this section at any time the FAA finds that continuation does not meet the elements of [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.7   What does it mean for the FAA to designate information as protected?|§193.7]], or if the requirements of the designation are not met. The FAA withdraws the designation by notifying the person in writing that the designation is withdrawn. The withdrawal is effective on the date of receipt of the notice or such later date as the notice may state. Information provided during the time the designation was in effect remains protected under this part. Information provided after the withdrawal is effective is not protected under this part.
 
 ### §193.15   What FAA officials exercise the authority of the Administrator under this part?
 
@@ -152,7 +152,7 @@ This section states the no-notice procedure for the FAA to designate information
 
 ### §193.17   How must design and production approval holders handle information they receive from the FAA under this part?
 
-\(a\) If the FAA discloses information under §193.9(a)(2) to the holders of design approvals of production approvals issued by the FAA, the approval holder must disclose that information only to persons who need to know the information to address the safety or security condition.
+\(a\) If the FAA discloses information under [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md#§193.9   Will the FAA ever disclose information that is designated as protected under this part?|§193.9]](a)(2) to the holders of design approvals of production approvals issued by the FAA, the approval holder must disclose that information only to persons who need to know the information to address the safety or security condition.
 
 \(b\) Unless an emergency exists, before disclosing information to approval holders the FAA will contact the submitter of the information.
 

@@ -20,7 +20,7 @@ Each licensee or permittee must allow access by and cooperate with Federal offic
 
 \(1\) Takes effect immediately; and
 
-\(2\) Continues in effect during any review of such action under Part 406 of this chapter.
+\(2\) Continues in effect during any review of such action under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md|Part 406 of this chapter]].
 
 \(d\) Whenever the FAA takes any action under this section, the FAA immediately notifies the licensee or permittee in writing of the FAA's finding and the action, which the FAA has taken or proposes to take regarding such finding.
 

@@ -14,7 +14,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.3](https://www.ecfr.g
 
 \(2\) A product, part, appliance or material that may be used on a type-certificated product.
 
-\(b\) Section 3.5(b) does not apply to records made under part 43 of this chapter.
+\(b\) Section 3.5(b) does not apply to records made under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 ### §3.5   Statements about products, parts, appliances and materials.
 
@@ -36,7 +36,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.3](https://www.ecfr.g
 
 \(2\) When conveying information related to an advertisement or sales transaction, no person may make, or cause to be made, through the omission of material information, a representation that a type-certificated product is airworthy, or that a product, part, appliance, or material is acceptable for installation on a type-certificated product in any record if that representation is likely to mislead a consumer acting reasonably under the circumstances.
 
-\(d\) The provisions of §3.5(b) and §3.5(c) shall not apply if a person can show that the product is airworthy or that the product, part, appliance or material is acceptable for installation on a type-certificated product.
+\(d\) The provisions of [[Volume 1/A Definitions and general requirements/0003 General requirements.md#§3.5   Statements about products, parts, appliances and materials.|§3.5]](b) and [[Volume 1/A Definitions and general requirements/0003 General requirements.md#§3.5   Statements about products, parts, appliances and materials.|§3.5]](c) shall not apply if a person can show that the product is airworthy or that the product, part, appliance or material is acceptable for installation on a type-certificated product.
 
 ## Subpart B—Security Threat Disqualification
 

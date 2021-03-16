@@ -84,9 +84,9 @@ This part prescribes the policies and procedures for administering the Federal-a
 
 \(a\) Whenever funds are allocated for developing new runways or landing strips, or to improve or repair existing runways, the sponsor must own, acquire, or agree to acquire, runway clear zones. Exceptions are considered (on the basis of a full statement of facts by the sponsor) upon a showing of uneconomical acquisition costs, or lack of necessity for the acquisition.
 
-\(b\) For the purpose of this part, a runway clear zone is an area at ground level which begins at the end of each primary surface defined in §77.27(a) and extends with the width of each approach surface defined in §77.27 (b) and (c), to terminate directly below each approach surface slope at the point, or points, where the slope reaches a height of 50 feet above the elevation of the runway or 50 feet above the terrain at the outer extremity of the clear zone, whichever distance is shorter.
+\(b\) For the purpose of this part, a runway clear zone is an area at ground level which begins at the end of each primary surface defined in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.27   Initiation of studies.|§77.27]](a) and extends with the width of each approach surface defined in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.27   Initiation of studies.|§77.27]] (b) and (c), to terminate directly below each approach surface slope at the point, or points, where the slope reaches a height of 50 feet above the elevation of the runway or 50 feet above the terrain at the outer extremity of the clear zone, whichever distance is shorter.
 
-\(c\) For the purposes of this section, an airport operator or owner is considered to have an adequate property interest if it has an easement (or a covenant running with the land) giving it enough control to rid the clear zone of all obstructions (objects so far as they project above the approach surfaces established by §77.27 (b) and (c) of part 77 of this chapter), and to prevent the creation of future obstructions; together with the right of entrance and exit for those purposes, to ensure the safe and unrestricted passage of aircraft in and over the area.
+\(c\) For the purposes of this section, an airport operator or owner is considered to have an adequate property interest if it has an easement (or a covenant running with the land) giving it enough control to rid the clear zone of all obstructions (objects so far as they project above the approach surfaces established by [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.27   Initiation of studies.|§77.27]] (b) and (c) of [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md|part 77 of this chapter]]), and to prevent the creation of future obstructions; together with the right of entrance and exit for those purposes, to ensure the safe and unrestricted passage of aircraft in and over the area.
 
 \[Doc. No. 1329, 27 FR 12349, Dec. 13, 1962, as amended by Amdt. 151-7, 30 FR 7484, June 8, 1965; Amdt. 151-21, 33 FR 258, Jan. 9, 1968\]
 
@@ -190,7 +190,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(a\) If any part of the estimated project costs consists of the value of donated land, labor, materials, or equipment, or of the value of a property interest in land acquired at a cost that (as represented by the sponsor) is not the actual cost or the amount of an award in eminent domain proceedings, the sponsor must so state in the application, indicating the nature of the donation or other transaction and the value it places on it.
 
-\(b\) If, after the grant agreement is executed and before the final payment of the allowable project costs is made under §151.63, it appears that the sponsor inadvertently or unknowingly failed to comply with paragraph (a) of this section as to any item, the Administrator—
+\(b\) If, after the grant agreement is executed and before the final payment of the allowable project costs is made under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.63   Grant payments: Semifinal and final.|§151.63]], it appears that the sponsor inadvertently or unknowingly failed to comply with paragraph (a) of this section as to any item, the Administrator—
 
 \(1\) Makes or obtains an appraisal of the item, and if the appraised value is less than the value placed on the item in the project application, notifies the sponsor that it may, within a stated time, ask in writing for reconsideration of the appraisal and submit statements of pertinent facts and opinion; and
 
@@ -246,7 +246,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(2\) Preliminary plans and specifications in enough detail to identify all items of development included in the project, and prepared so as to provide for accomplishing the project in accordance with the master plan layout, the rules in subparts B and C and applicable local laws and regulations.
 
-\(c\) If the project involves acquiring a property interest in land by donation, or at a cost that (as represented by the sponsor) is not the actual cost or the amount of an award in eminent domain proceedings, the Administrator, before passing on the eligibility of the project makes or obtains an appraisal of the interest. If the appraised value is less than the value placed on the interest by the sponsor (§151.23), the Administrator notifies the sponsor that he may within a stated time, ask in writing for reconsideration of the appraisal and submit statements of pertinent facts and opinion.
+\(c\) If the project involves acquiring a property interest in land by donation, or at a cost that (as represented by the sponsor) is not the actual cost or the amount of an award in eminent domain proceedings, the Administrator, before passing on the eligibility of the project makes or obtains an appraisal of the interest. If the appraised value is less than the value placed on the interest by the sponsor ([[Volume 3/I Airports/0151 Federal aid to airports.md#§151.23   Procedures: Application; funding information.|§151.23]]), the Administrator notifies the sponsor that he may within a stated time, ask in writing for reconsideration of the appraisal and submit statements of pertinent facts and opinion.
 
 \[Doc. No. 1329, 27 FR 12351, Dec. 13, 1962, as amended by Amdt. 151-8, 30 FR 8039, June 23, 1965; Amdt. 151-17, 31 FR 16524, Dec. 28, 1966\]
 
@@ -264,7 +264,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 ### §151.31   Procedures: Grant agreement.
 
-\(a\) An offer by the Administrator, and acceptance by the sponsor, as set forth in §151.29, constitute a grant agreement between the sponsor and the United States. Except as provided in §151.41(c)(3), the United States does not pay, and is not obligated to pay, any part of the project costs that have been or may be incurred, before the grant agreement is executed.
+\(a\) An offer by the Administrator, and acceptance by the sponsor, as set forth in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.29   Procedures: Offer, amendment, and acceptance.|§151.29]], constitute a grant agreement between the sponsor and the United States. Except as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.41   Project costs.|§151.41]](c)(3), the United States does not pay, and is not obligated to pay, any part of the project costs that have been or may be incurred, before the grant agreement is executed.
 
 \(b\) The Administrator and the sponsor may agree to a change in a grant agreement if—
 
@@ -274,7 +274,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(3\) The change does not prejudice the interests of the United States.
 
-\(c\) When a change is agreed to, the Administrator issues a supplemental agreement incorporating the change. The sponsor must accept the supplemental agreement in the manner provided in §151.29(c).
+\(c\) When a change is agreed to, the Administrator issues a supplemental agreement incorporating the change. The sponsor must accept the supplemental agreement in the manner provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.29   Procedures: Offer, amendment, and acceptance.|§151.29]](c).
 
 \[Doc. No. 1329, 27 FR 12351, Dec. 13, 1962, as amended by Amdt. 151-8, 30 FR 8040, June 23, 1965\]
 
@@ -282,7 +282,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(a\) Any two or more public agencies that desire to participate either in accomplishing development under a project or in maintaining or operating the airport, may cosponsor it if they meet the requirements of subparts B and C, including—
 
-\(1\) The eligibility requirements of §151.37; and
+\(1\) The eligibility requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.37   Sponsor eligibility.|§151.37]]; and
 
 \(2\) The submission of a single project application, executed by each sponsor, clearly stating the certifications, representations, warranties, and obligations made or assumed by each, or a separate application by each that does not meet all the requirements of subparts B and C if in the Administrator's opinion, the applications collectively meet the requirements of subparts B and C as applied to a project with a single sponsor.
 
@@ -296,7 +296,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(3\) The name of the sponsor or sponsors who will accept, receipt for, and disburse grant payments.
 
-\(d\) A public agency may, if it is authorized by local law, act as agent of the public agency that is to own and operate the airport, with or without participating financially and without becoming a sponsor. The terms and conditions of the agency and the agent's authority to act for the sponsor must be set forth in an agency agreement that is satisfactory to the Administrator. The sponsor must submit a true copy of the agreement with the project application. Such an agent may accept, on behalf of the sponsor, an offer made under §151.29, only if that acceptance has been specifically and legally authorized by the sponsor's governing body and the authority is specifically set forth in the agency agreement.
+\(d\) A public agency may, if it is authorized by local law, act as agent of the public agency that is to own and operate the airport, with or without participating financially and without becoming a sponsor. The terms and conditions of the agency and the agent's authority to act for the sponsor must be set forth in an agency agreement that is satisfactory to the Administrator. The sponsor must submit a true copy of the agreement with the project application. Such an agent may accept, on behalf of the sponsor, an offer made under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.29   Procedures: Offer, amendment, and acceptance.|§151.29]], only if that acceptance has been specifically and legally authorized by the sponsor's governing body and the authority is specifically set forth in the agency agreement.
 
 \(e\) When the cosponsors of an airport are not located in the same area, they must submit a joint request to the Area Manager of the area in which the airport development will be located.
 
@@ -308,9 +308,9 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(1\) Any work involved in constructing, improving, or repairing a public airport or part thereof, including the constructing, altering, or repairing of only those buildings or parts thereof that are intended to house facilities or activities directly related to the safety of persons at the airport.
 
-\(2\) Removing, lowering, relocating, marking, and lighting of airport hazards as defined in §151.39(b).
+\(2\) Removing, lowering, relocating, marking, and lighting of airport hazards as defined in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b).
 
-\(3\) Acquiring land or an interest therein, or any easement through or other interest in air space, that is necessary to allow any work covered by paragraph (a)(1) or (2) of this section, or to remove or mitigate, or prevent or limit the establishment of, airport hazards as defined in §151.39(b).
+\(3\) Acquiring land or an interest therein, or any easement through or other interest in air space, that is necessary to allow any work covered by paragraph (a)(1) or (2) of this section, or to remove or mitigate, or prevent or limit the establishment of, airport hazards as defined in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b).
 
 \(b\) The airport facilities to which subparts B and C applies are those structures, runways, or other items, on or at an airport, that are—
 
@@ -318,7 +318,7 @@ Each sponsor must state in its application that it has on hand, or show that it 
 
 \(2\) Required to be located at the airport for use by the users of its aeronautical facilities or by airport operators, concessionaires, and other users of the airport in connection with providing services or commodities to the users of those aeronautical facilities.
 
-\(c\) For the purposes of subparts B and C, “public airport” means an airport used for public purposes, under the control of a public agency named in §151.37(a), with a publicly owned landing area.
+\(c\) For the purposes of subparts B and C, “public airport” means an airport used for public purposes, under the control of a public agency named in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.37   Sponsor eligibility.|§151.37]](a), with a publicly owned landing area.
 
 \[Doc. No. 1329, 27 FR 12351, Dec. 13, 1962, as amended by Amdt. 151-8, 30 FR 8040, June 23, 1965\]
 
@@ -330,15 +330,15 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(b\) Be legally, financially, and otherwise able to—
 
-\(1\) Make the certifications, representations, and warranties in the application form prescribed in §151.67(a);
+\(1\) Make the certifications, representations, and warranties in the application form prescribed in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.67   Forms.|§151.67]](a);
 
 \(2\) Make, keep, and perform the assurances, agreements, and covenants in that form; and
 
 \(3\) Meet the other applicable requirements of the Federal Airport Act and subparts B and C;
 
-\(c\) Have, or be able to obtain, enough funds to meet the requirements of §151.23; and
+\(c\) Have, or be able to obtain, enough funds to meet the requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.23   Procedures: Application; funding information.|§151.23]]; and
 
-\(d\) Have, or be able to obtain, property interests that meet the requirements of §151.25(a).
+\(d\) Have, or be able to obtain, property interests that meet the requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.25   Procedures: Application; information as to property interests.|§151.25]](a).
 
 \(1\) Is located in Puerto Rico, the Virgin Islands, or Guam;
 
@@ -352,7 +352,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(a\) A project for construction or land acquisition may not be approved under subparts B and C unless—
 
-\(1\) It is an item of airport development described in §151.35(a);
+\(1\) It is an item of airport development described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.35   Airport development and facilities to which subparts B and C apply.|§151.35]](a);
 
 \(2\) The airport development is within the scope of the current National Airport Plan;
 
@@ -360,7 +360,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(4\) The Administrator is satisfied that the project is reasonably consistent with existing plans of public agencies for the development of the area in which the airport is located and will contribute to the accomplishment of the purposes of the Federal-aid Airport Program;
 
-\(5\) The Administrator is satisfied, after considering the pertinent information including the sponsor's statements required by §151.26(b), that—
+\(5\) The Administrator is satisfied, after considering the pertinent information including the sponsor's statements required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.26   Procedures: Applications; compatible land use information; consideration of local community interest; relocation of displaced persons.|§151.26]](b), that—
 
 \(i\) Fair consideration has been given to the interest of all communities in or near which the project is located; and
 
@@ -368,7 +368,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(6\) The project provides for installing such of the landing aids specified in section 10(d) of the Federal Airport Act (49 U.S.C. 1109(d)) as the Administrator considers are needed for the safe and efficient use of the airport by aircraft, based on the category of the airport and the type and volume of its traffic.
 
-\(b\) Only the following kinds of airport development described in §151.35(a) are eligible to be included in a project under subparts B and C:
+\(b\) Only the following kinds of airport development described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.35   Airport development and facilities to which subparts B and C apply.|§151.35]](a) are eligible to be included in a project under subparts B and C:
 
 \(1\) Preparing all or part of an airport site, including clearing, grubbing filling and grading.
 
@@ -376,7 +376,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(3\) Drainage work, on or off the airport or airport site.
 
-\(4\) Constructing, altering, or repairing airport buildings or parts thereof to the extent that it is covered by §151.35(a).
+\(4\) Constructing, altering, or repairing airport buildings or parts thereof to the extent that it is covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.35   Airport development and facilities to which subparts B and C apply.|§151.35]](a).
 
 \(5\) Constructing, altering, or repairing runways, taxiways, and aprons, including—
 
@@ -412,7 +412,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(v\) Allow the proper use, operation, maintenance, and management of the airport as a public facility.
 
-\(14\) Any other airport development described in §151.35(a) that is specifically approved by the Administrator.
+\(14\) Any other airport development described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.35   Airport development and facilities to which subparts B and C apply.|§151.35]](a) that is specifically approved by the Administrator.
 
 \(c\) A project for acquiring land that has been or will be donated to the sponsor is not eligible for inclusion in the Federal-aid Airport Program, unless the project also includes other items of airport development that would require a sponsor's contribution equal to or more than the United States share of the value of the donated land as appraised by the Administrator.
 
@@ -438,7 +438,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(1\) That part of the cost of rehabilitation or repair for which funds have been appropriated under section 17 of the Federal Airport Act (49 U.S.C. 1116);
 
-\(2\) That part of the cost of acquiring an existing private airport that represents the cost of acquiring passenger automobile parking facilities, buildings to be used as hangars, living quarters, or for nonairport purposes, at the airport, and those buildings or parts of buildings the construction of which is not airport development within the meaning of §151.35(a);
+\(2\) That part of the cost of acquiring an existing private airport that represents the cost of acquiring passenger automobile parking facilities, buildings to be used as hangars, living quarters, or for nonairport purposes, at the airport, and those buildings or parts of buildings the construction of which is not airport development within the meaning of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.35   Airport development and facilities to which subparts B and C apply.|§151.35]](a);
 
 \(3\) The cost of materials and supplies owned by the sponsor or furnished from a source of supply owned by the sponsor if—
 
@@ -492,7 +492,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(3\) The costs of installing runway distance markers.
 
-\(4\) The costs of acquiring land, or a suitable property interest in land or in or over water, needed for installing operating, and maintaining an ALS (as described in §151.13).
+\(4\) The costs of acquiring land, or a suitable property interest in land or in or over water, needed for installing operating, and maintaining an ALS (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.13   Federal-aid Airport Program: Policy affecting landing aid requirements.|§151.13]]).
 
 \(5\) The costs of any project in the Virgin Islands.
 
@@ -504,15 +504,15 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(b\) Each contract under a project must meet the requirements of local law.
 
-\(c\) No sponsor may issue any change order under any of its construction contracts or enter into a supplemental agreement unless three copies of that order or agreement have been sent to and approved by the Area Manager. §§151.47 and 151.49 apply to supplemental agreements as well as to original contracts.
+\(c\) No sponsor may issue any change order under any of its construction contracts or enter into a supplemental agreement unless three copies of that order or agreement have been sent to and approved by the Area Manager. §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§151.47]] and 151.49 apply to supplemental agreements as well as to original contracts.
 
-\(d\) This section and §§151.47 through 151.49 do not apply to contracts with the owners of airport hazards, (as described in §151.39(b)), buildings, pipe lines, power lines, or other structures or facilities, for installing, extending, changing, removing, or relocating that structure or facility. However, the sponsor must obtain the approval of the Area Manager before entering into such a contract.
+\(d\) This section and §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.47   Performance of construction work: Letting of contracts.|§151.47]] through 151.49 do not apply to contracts with the owners of airport hazards, (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b)), buildings, pipe lines, power lines, or other structures or facilities, for installing, extending, changing, removing, or relocating that structure or facility. However, the sponsor must obtain the approval of the Area Manager before entering into such a contract.
 
 \(e\) No sponsor may allow a contractor or subcontractor to begin work under a project until—
 
 \(1\) The sponsor has furnished three conformed copies of the contract to the Area Manager; and
 
-\(2\) The Area Manager agrees to the issuance of a notice to proceed with the work to the contractor. However, the Area Manager does not agree to the issuance of such a notice unless he is satisfied that adequate replacement housing is available and has been offered to affected persons, as required for project eligibility by §151.39(a)(5).
+\(2\) The Area Manager agrees to the issuance of a notice to proceed with the work to the contractor. However, the Area Manager does not agree to the issuance of such a notice unless he is satisfied that adequate replacement housing is available and has been offered to affected persons, as required for project eligibility by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](a)(5).
 
 \(f\) Except when the Area Manager determines that the sponsor has previously demonstrated satisfactory engineering and construction supervision and inspection, no sponsor may allow a contractor or subcontractor to begin work, nor may the sponsor begin force account work, until the sponsor has notified the Area Manager in writing that engineering and construction supervision and inspection have been arranged to insure that construction will conform to FAA approved plans and specifications, and that the sponsor has caused a review to be made of the qualifications of personnel who will be performing such supervision and inspection and is satisfied that they are qualified to do so.
 
@@ -520,9 +520,9 @@ To be eligible to apply for an individual or joint project for development with 
 
 ### §151.47   Performance of construction work: Letting of contracts.
 
-\(a\) *Advertising required; exceptions.* Unless the Administrator approves another method for use on a particular airport development project, each contract for construction work on a project in the amount of more than \$2,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts. Any oral or written agreement or understanding between a sponsor and another public agency that is not a sponsor of the project, under which that public agency undertakes construction work for or as agent of the sponsor, is not considered to be a construction contract for the purposes of this section, or §§151.45, 151.49, and 151.51.
+\(a\) *Advertising required; exceptions.* Unless the Administrator approves another method for use on a particular airport development project, each contract for construction work on a project in the amount of more than \$2,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts. Any oral or written agreement or understanding between a sponsor and another public agency that is not a sponsor of the project, under which that public agency undertakes construction work for or as agent of the sponsor, is not considered to be a construction contract for the purposes of this section, or §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.45   Performance of construction work: General requirements.|§151.45]], 151.49, and 151.51.
 
-\(b\) *Advertisement; conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract until the Administrator has approved the plans and specifications. The advertisement shall inform the bidders of the contract and reporting provisions required by §151.54. Unless the estimated contract price or construction cost is \$2,000 or less, there may be no advertisement for bids or negotiation until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision must be set forth in the initial invitation for bids or proposed contract or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
+\(b\) *Advertisement; conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract until the Administrator has approved the plans and specifications. The advertisement shall inform the bidders of the contract and reporting provisions required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.54   Equal employment opportunity requirements: Before July 1, 1968.|§151.54]]. Unless the estimated contract price or construction cost is \$2,000 or less, there may be no advertisement for bids or negotiation until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision must be set forth in the initial invitation for bids or proposed contract or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
 
 \(c\) *Procedure for the Secretary of Labor's wage determinations.* At least 60 days before the intended date of advertising or negotiating under paragraph (b) of this section, the sponsor shall send to the Area Manager, completed Department of Labor Form DB-11, with only the classifications needed in the performance of the work checked. General entries (such as “entire schedule” or “all applicable classifications”) may not be used. Additional necessary classifications not on the form may be typed in the blank spaces or on an attached separate list. A classification that can be fitted into classifications on the form, or a classification that is not generally recognized in the area or in the industry, may not be used. Except in areas where the wage patterns are clearly established, the Form must be accompanied by any available pertinent wage payment or locally prevailing fringe benefit information.
 
@@ -580,7 +580,7 @@ To be eligible to apply for an individual or joint project for development with 
 
 \(2\) A schedule of the proposed construction and of the construction equipment that will be available for the project;
 
-\(3\) Assurance that adequate labor, material, equipment, engineering personnel, as well as supervisory and inspection personnel as required by §151.45(f), will be provided; and
+\(3\) Assurance that adequate labor, material, equipment, engineering personnel, as well as supervisory and inspection personnel as required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.45   Performance of construction work: General requirements.|§151.45]](f), will be provided; and
 
 \(4\) A detailed estimate of the cost of the work, broken down for each class of costs involved, such as labor, materials, rental of equipment, and other pertinent items of cost.
 
@@ -590,11 +590,11 @@ To be eligible to apply for an individual or joint project for development with 
 
 ### §151.53   Performance of construction work: Labor requirements.
 
-A sponsor who is required to include in a construction contract the labor provisions required by §151.49 shall require the contractor to comply with those provisions and shall cooperate with the FAA in effecting that compliance. For this purpose the sponsor shall—
+A sponsor who is required to include in a construction contract the labor provisions required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.49   Performance of construction work: Contract requirements.|§151.49]] shall require the contractor to comply with those provisions and shall cooperate with the FAA in effecting that compliance. For this purpose the sponsor shall—
 
 \(a\) Keep, and preserve, for a three-year period beginning on the date the contract is completed, each affidavit and payroll copy furnished by the contractor, and make those affidavits and copies available to the FAA, upon request, during that period;
 
-\(b\) Have each of those affidavits and payrolls examined by its resident engineer (or any other of its employees or agents who are qualified to make the necessary determinations), as soon as possible after receiving it, to the extent necessary to determine whether the contractor is complying with the labor provisions required by §151.49 and particularly with respect to whether the contractor's employees are correctly classified;
+\(b\) Have each of those affidavits and payrolls examined by its resident engineer (or any other of its employees or agents who are qualified to make the necessary determinations), as soon as possible after receiving it, to the extent necessary to determine whether the contractor is complying with the labor provisions required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.49   Performance of construction work: Contract requirements.|§151.49]] and particularly with respect to whether the contractor's employees are correctly classified;
 
 \(c\) Have investigations made during the performance of work under the contract, to the extent necessary to determine whether the contractor is complying with those labor provisions, particularly with respect to whether the contractor's employees are correctly classified, including in the investigations, interviews with employees and examinations of payroll information at the work site by the sponsor's resident engineer (or any other of its employees or agents who are qualified to make the necessary determinations); and
 
@@ -626,7 +626,7 @@ Each bidder, prospective contractor or proposed subcontractor shall state as an 
 
 \(g\) *Meaning of terms.* The term *“applicant”* in the provisions of part 60-1 incorporated by reference in this section means the sponsor, except where part 60-1 refers to an applicant for employment, and the term “administering agency” therein means the FAA.
 
-\(h\) *Applicability to existing agreements and contracts.* This section applies to grant agreements made after December 20, 1964, and before July 1, 1968. Except as provided in §151.54A(b), it applies to contracts and subcontracts as defined in §60-1.2 (i) and (k) of Title 41 made in accordance with a grant agreement to which this section applies.
+\(h\) *Applicability to existing agreements and contracts.* This section applies to grant agreements made after December 20, 1964, and before July 1, 1968. Except as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.54   Equal employment opportunity requirements: Before July 1, 1968.|§151.54]]A(b), it applies to contracts and subcontracts as defined in §60-1.2 (i) and (k) of Title 41 made in accordance with a grant agreement to which this section applies.
 
 (E.O. 11246, 30 FR 13441, 31 FR 6921; sec. 307, 72 Stat. 752, 49 U.S.C. 1348)
 
@@ -696,13 +696,13 @@ If an approved project includes land acquisition as an item of airport developme
 
 ### §151.61   Grant payments: Partial.
 
-\(a\) Subject to the final determination of allowable project costs as provided in §151.63 partial grant payments for project costs may be made to a sponsor upon application. Unless previously agreed otherwise, a sponsor may apply for partial payments on a monthly basis. The payments may be paid, upon application, on the basis of the costs of airport development that is accomplished or on the basis of the estimated cost of airport development expected to be accomplished.
+\(a\) Subject to the final determination of allowable project costs as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.63   Grant payments: Semifinal and final.|§151.63]] partial grant payments for project costs may be made to a sponsor upon application. Unless previously agreed otherwise, a sponsor may apply for partial payments on a monthly basis. The payments may be paid, upon application, on the basis of the costs of airport development that is accomplished or on the basis of the estimated cost of airport development expected to be accomplished.
 
 \(b\) Except as otherwise provided, partial grant payments are made in amounts large enough to bring the aggregate amount of all partial payments to the estimated United States share of the project costs of the airport development accomplished under the project as of the date of the sponsor's latest application for payment. In addition, if the sponsor applies, a partial grant payment is made as an advance payment in an amount large enough to bring the aggregate amount of all partial payments to the estimated United States share of the estimated project costs of the airport development expected to be accomplished within 30 days after the date of the sponsor's application for advance payment. However, no partial payment may be made in an amount that would bring the aggregate amount of all partial payments for the project to more than 90 percent of the estimated United States share of the total estimated cost of all airport development included in the project, but not including contingency items, or 90 percent of the maximum obligation of the United States as stated in the grant agreement, whichever amount is the lower. In determining the amount of a partial grant payment, those project costs that the Administrator considers to be of questionable allowability are deducted both from the amount of proj- ect costs incurred and from the amount of the estimated total project cost.
 
 ### §151.63   Grant payments: Semifinal and final.
 
-\(a\) Whenever airport development on a project is delayed or suspended for an appreciable period of time for reasons beyond the sponsor's control and the allowability of the project costs of all airport development completed has been determined on the basis of an audit and review of all costs, a semifinal grant payment may be made in an amount large enough to bring the aggregate amount of all partial grant payments for the project to the United States share of all allowable project costs incurred, even if the amount is more than the 90 percent limitation prescribed in §151.61(b). However, it may not be more than the maximum obligation of the United States as stated in the grant agreement.
+\(a\) Whenever airport development on a project is delayed or suspended for an appreciable period of time for reasons beyond the sponsor's control and the allowability of the project costs of all airport development completed has been determined on the basis of an audit and review of all costs, a semifinal grant payment may be made in an amount large enough to bring the aggregate amount of all partial grant payments for the project to the United States share of all allowable project costs incurred, even if the amount is more than the 90 percent limitation prescribed in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.61   Grant payments: Partial.|§151.61]](b). However, it may not be more than the maximum obligation of the United States as stated in the grant agreement.
 
 \(b\) Whenever the project is completed in accordance with the grant agreement, the sponsor may apply for final payment. The final payment is made to the sponsor if—
 
@@ -712,7 +712,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 \(3\) The sponsor has furnished final “as constructed” plans, unless otherwise agreed to by the Administrator.
 
-\(c\) Based upon the final inspection, the final audit, the plans, and the documents and supporting information required by §151.57(a), the Administrator determines the total amount of the allowable project costs and pays the sponsor the United States' share, less the total amount of all prior payments.
+\(c\) Based upon the final inspection, the final audit, the plans, and the documents and supporting information required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.57   Grant payments: General.|§151.57]](a), the Administrator determines the total amount of the allowable project costs and pays the sponsor the United States' share, less the total amount of all prior payments.
 
 ### §151.65   Memoranda and hearings.
 
@@ -736,7 +736,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 \(i\) Part I—For pertinent information regarding the airport and proposed work included in the project.
 
-\(ii\) Part II—For incorporating the representations of the sponsor relating to its legal authority to undertake the project, the availability of funds for its share of the project costs, approvals of other non-United States agencies, the existence of any default on the compliance requirements of §151.77(a), possible disabilities, and the ownership of lands and interests in lands to be used in carrying out the project and operating the airport.
+\(ii\) Part II—For incorporating the representations of the sponsor relating to its legal authority to undertake the project, the availability of funds for its share of the project costs, approvals of other non-United States agencies, the existence of any default on the compliance requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]](a), possible disabilities, and the ownership of lands and interests in lands to be used in carrying out the project and operating the airport.
 
 \(iii\) Part III—For incorporating the sponsor's assurances regarding the operation and maintenance of the airport, further development of the airport, and the acquisition of any additional interests in lands that may be needed to carry out the project or for operating the airport.
 
@@ -766,7 +766,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 \(a\) This subpart prescribes programming and design and construction standards for projects under the Federal-Aid Airport Program to assure the most efficient use of Program funds and to assure that the most important elements of a national system of airports are provided.
 
-\(b\) Except for the standards made mandatory by §151.72(a), the standards prescribed in this subpart that apply to any particular project are those in effect on the date the sponsor accepts the Administrator's offer under §151.29(c). The standards of §151.72(a) applicable to a project are those in effect on the date written on the notification of tentative allocation of funds (§151.21(b)). Standards that become effective after that date may be applied to the project by agreement between the sponsor and the Administrator.
+\(b\) Except for the standards made mandatory by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.72   Incorporation by reference of technical guidelines in Advisory Circulars.|§151.72]](a), the standards prescribed in this subpart that apply to any particular project are those in effect on the date the sponsor accepts the Administrator's offer under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.29   Procedures: Offer, amendment, and acceptance.|§151.29]](c). The standards of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.72   Incorporation by reference of technical guidelines in Advisory Circulars.|§151.72]](a) applicable to a project are those in effect on the date written on the notification of tentative allocation of funds ([[Volume 3/I Airports/0151 Federal aid to airports.md#§151.21   Procedures: Application; general information.|§151.21]](b)). Standards that become effective after that date may be applied to the project by agreement between the sponsor and the Administrator.
 
 (Secs. 1-15, 17-21, 60 Stat. 170, 49 U.S.C. 1120)
 
@@ -792,9 +792,9 @@ If an approved project includes land acquisition as an item of airport developme
 
 \(3\) For ultimate development of the airport, as indicated in the current approved airport layout plan to the extent consistent with the National Airport Plan;
 
-\(4\) For approach protection meeting the standards of §77.23 as applied to §§77.25 and 77.27 of this chapter;
+\(4\) For approach protection meeting the standards of [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.23   Heliport imaginary surfaces.|§77.23]] as applied to §[[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.25   Applicability.|§77.25]] and 77.27 of this chapter;
 
-\(5\) To allow installing an ALS (as described in §151.13), in which case the costs of acquiring land needed for it are eligible for 75 percent United States participation if the need is shown in the National Airport Plan, based on the best information available to the FAA for the forecast period;
+\(5\) To allow installing an ALS (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.13   Federal-aid Airport Program: Policy affecting landing aid requirements.|§151.13]]), in which case the costs of acquiring land needed for it are eligible for 75 percent United States participation if the need is shown in the National Airport Plan, based on the best information available to the FAA for the forecast period;
 
 \(6\) To allow proper use, operation, or maintenance of the airport as a public facility, including offsite lands needed for locating necessary parts of the utility systems serving the airport;
 
@@ -808,7 +808,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 ### §151.75   Preparation of site.
 
-\(a\) Grading, drainage, and associated items of site preparation are eligible for inclusion in a project, but only with respect to one landing strip at any airport, unless the airport qualifies for more than one runway, based on traffic volume or wind conditions (as outlined in §151.77) and the overall site preparation required for development in accordance with the airport layout plan. The complete clearance of runway clear zone areas is desirable, but, as a minimum, all obstructions as determined by §77.23 as applied to §77.27 (b) and (c) of this chapter must be removed. Grading in runway clear zones is eligible only to remove terrain that is an obstruction. The clear zone is not a graded overrun area. Specific site preparation for an airport terminal building is eligible on the same basis as the building itself. The site preparation cost is prorated based on eligible and ineligible building space. Appendix B of this part sets forth typical eligible and ineligible items of site preparation as covered by this section.
+\(a\) Grading, drainage, and associated items of site preparation are eligible for inclusion in a project, but only with respect to one landing strip at any airport, unless the airport qualifies for more than one runway, based on traffic volume or wind conditions (as outlined in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]]) and the overall site preparation required for development in accordance with the airport layout plan. The complete clearance of runway clear zone areas is desirable, but, as a minimum, all obstructions as determined by [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.23   Heliport imaginary surfaces.|§77.23]] as applied to [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.27   Initiation of studies.|§77.27]] (b) and (c) of this chapter must be removed. Grading in runway clear zones is eligible only to remove terrain that is an obstruction. The clear zone is not a graded overrun area. Specific site preparation for an airport terminal building is eligible on the same basis as the building itself. The site preparation cost is prorated based on eligible and ineligible building space. Appendix B of this part sets forth typical eligible and ineligible items of site preparation as covered by this section.
 
 \(b\) For the purposes of this section, eligible drainage work off the airport site includes drainage outfalls, drainage disposal, and interception ditches. If there is damage to adjacent property, its correction is an eligible item for inclusion in the project.
 
@@ -816,7 +816,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 ### §151.77   Runway paving: General rules.
 
-\(a\) On any airport, paving of the designated instrument landing runway (or dominant runway if there is no designated instrument runway) is eligible for inclusion in a project, within the limits of the current National Airport Plan. Program participation in constructing, reconstructing or resurfacing is limited to a single runway at each airport, unless more than one runway is eligible under a standard in §151.79 or §151.80.
+\(a\) On any airport, paving of the designated instrument landing runway (or dominant runway if there is no designated instrument runway) is eligible for inclusion in a project, within the limits of the current National Airport Plan. Program participation in constructing, reconstructing or resurfacing is limited to a single runway at each airport, unless more than one runway is eligible under a standard in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.79   Runway paving: Second runway; wind conditions.|§151.79]] or [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.80   Runway paving: Additional runway; other conditions.|§151.80]].
 
 \(b\) The kinds of runway paving that are eligible for inclusion in a project include pavement construction and reconstruction, and include runway grooving to improve skid resistance, and resurfacing to increase the load bearing capacity of the runway or to provide a leveling course to correct major irregularities in the pavement. Runway resealing or refilling joints as an ordinary maintenance matter are not eligible items, except for bituminous resurfacing consisting of at least 100 pounds of plant-mixed material for each square yard, and except for the application of a bituminous surface treatment (two applications of material and cover aggregate as prescribed in FAA Specification P-609) on a pavement the current surface of which consists of that kind of a bituminous surface treatment.
 
@@ -858,7 +858,7 @@ If an approved project includes land acquisition as an item of airport developme
 
 ### §151.80   Runway paving: Additional runway; other conditions.
 
-Paving an additional runway on an airport that does not qualify for a second runway under §151.79 is eligible if the Administrator, upon consideration on a case-to-case basis, is satisfied that—
+Paving an additional runway on an airport that does not qualify for a second runway under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.79   Runway paving: Second runway; wind conditions.|§151.79]] is eligible if the Administrator, upon consideration on a case-to-case basis, is satisfied that—
 
 \(a\) The volume of traffic justifies an additional paved runway and the layout and orientation of the additional runway will expedite traffic; or
 
@@ -868,13 +868,13 @@ Paving an additional runway on an airport that does not qualify for a second run
 
 ### §151.81   Taxiway paving.
 
-\(a\) The construction, alteration, and repair of taxiways needed to expedite the flow of ground traffic between runways and aircraft parking areas available for general public use are eligible items under the program. Taxiways to serve an area or facility that is primarily for the exclusive or near exclusive use of a tenant or operator that does not furnish aircraft servicing to the public are not eligible. In addition, the policies on resealing or refilling joints, as set forth in §151.77, apply also to taxiway paving.
+\(a\) The construction, alteration, and repair of taxiways needed to expedite the flow of ground traffic between runways and aircraft parking areas available for general public use are eligible items under the program. Taxiways to serve an area or facility that is primarily for the exclusive or near exclusive use of a tenant or operator that does not furnish aircraft servicing to the public are not eligible. In addition, the policies on resealing or refilling joints, as set forth in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]], apply also to taxiway paving.
 
 \(b\) Appendix D of this part sets forth typical eligible and ineligible items of taxiway paving.
 
 ### §151.83   Aprons.
 
-\(a\) The construction, alteration, and repair of aprons are eligible program items upon being shown that they are needed as public use facilities. An apron to serve an area that is primarily for the exclusive or near exclusive use of a tenant or operator who does not furnish aircraft servicing to the public is not eligible. In addition, the policies on resealing or refilling joints, as set forth in §151.77 apply also to apron paving.
+\(a\) The construction, alteration, and repair of aprons are eligible program items upon being shown that they are needed as public use facilities. An apron to serve an area that is primarily for the exclusive or near exclusive use of a tenant or operator who does not furnish aircraft servicing to the public is not eligible. In addition, the policies on resealing or refilling joints, as set forth in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]] apply also to apron paving.
 
 \(b\) In determining public use for the purposes of this section, the current use being made of a hangar governs, unless there is definite information regarding its future use. In the case of an apron area being built for future hangars, it should be shown that early hangar development is assured and that the hangars will be public facilities.
 
@@ -894,15 +894,15 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 ### §151.86   Lighting and electrical work: General.
 
-\(a\) The installing of lighting facilities and related electrical work, as provided in §151.87, is eligible for inclusion in a project only if the Administrator determines, for the particular airport involved, that they are needed to ensure—
+\(a\) The installing of lighting facilities and related electrical work, as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.87   Lighting and electrical work: Standards.|§151.87]], is eligible for inclusion in a project only if the Administrator determines, for the particular airport involved, that they are needed to ensure—
 
-\(1\) Its safe and efficient use by aircraft under §151.13; or
+\(1\) Its safe and efficient use by aircraft under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.13   Federal-aid Airport Program: Policy affecting landing aid requirements.|§151.13]]; or
 
 \(2\) Its continued operation and adequate maintenance, and it has a large enough volume (actual or potential) of night operations.
 
 \(b\) Before the Administrator makes a grant offer to the sponsor of a project that includes installing lighting facilities and related electrical work under paragraph (a) of this section, the sponsor must—
 
-\(1\) Provide in the project for removing, relocating, or adequately marking and lighting, each obstruction in the approach and turning zones, as provided in §151.91(a);
+\(1\) Provide in the project for removing, relocating, or adequately marking and lighting, each obstruction in the approach and turning zones, as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.91   Removal of obstructions.|§151.91]](a);
 
 \(2\) Acknowledge its awareness of the cost of operating and maintaining airport lighting; and
 
@@ -936,9 +936,9 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 (a)-(b) \[Reserved\]
 
-\(c\) The number of runways that are eligible for lighting is the same as the number eligible for paving under §151.77, §151.79, or §151.80.
+\(c\) The number of runways that are eligible for lighting is the same as the number eligible for paving under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]], [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.79   Runway paving: Second runway; wind conditions.|§151.79]], or [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.80   Runway paving: Additional runway; other conditions.|§151.80]].
 
-\(d\) The installing of high intensity runway edge lighting is eligible on a designated instrument landing runway and any other runway with approved straight-in approach procedures. A runway that is eligible for lighting, but does not meet the requirements for 75 percent U.S. participation under §151.43(d), is eligible for 50 percent U.S. participation in the costs of high intensity runway edge lighting (or the allowable percentage in §151.43(c) for public land States), if the airport is served by a navigational aid that will allow using instrument approach procedures. If a runway is not eligible for 75 or 50 percent Federal participation in high intensity runway edge lighting but is otherwise eligible for runway lighting, the U.S. share of the cost of runway edge lighting is 50 percent of the cost of the lighting installed but not more than 50 percent of the cost of medium intensity lighting.
+\(d\) The installing of high intensity runway edge lighting is eligible on a designated instrument landing runway and any other runway with approved straight-in approach procedures. A runway that is eligible for lighting, but does not meet the requirements for 75 percent U.S. participation under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.43   United States share of project costs.|§151.43]](d), is eligible for 50 percent U.S. participation in the costs of high intensity runway edge lighting (or the allowable percentage in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.43   United States share of project costs.|§151.43]](c) for public land States), if the airport is served by a navigational aid that will allow using instrument approach procedures. If a runway is not eligible for 75 or 50 percent Federal participation in high intensity runway edge lighting but is otherwise eligible for runway lighting, the U.S. share of the cost of runway edge lighting is 50 percent of the cost of the lighting installed but not more than 50 percent of the cost of medium intensity lighting.
 
 \(e\) In-runway lighting (touchdown zone lighting system, and centerline lighting system) is eligible on the designated instrument landing runway.
 
@@ -956,7 +956,7 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 \(2\) Will permit operations at an airport at lower minimums.
 
-\(k\) Appendix F of this part sets forth typical eligible and ineligible items of airport lighting covered by §151.86 and this section.
+\(k\) Appendix F of this part sets forth typical eligible and ineligible items of airport lighting covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§151.86]] and this section.
 
 (Secs. 307, 606, 72 Stat. 749, 799; 49 U.S.C. 1120, 1348, 1426)
 
@@ -984,9 +984,9 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 ### §151.91   Removal of obstructions.
 
-\(a\) The removal or relocation, or both, of obstructions, as defined in Technical Standard Order N18 is eligible under the Program in cases where definite arrangements are made to prevent the obstruction from being recreated. In a case where removal is not feasible, the cost of marking or lighting it is eligible. The removal and relocation of structures necessary for essential airport development is eligible. The removal of structures that are not obstructions under §77.23 of this chapter as applied to §77.27 of this chapter are eligible when they are located within a runway clear zone.
+\(a\) The removal or relocation, or both, of obstructions, as defined in Technical Standard Order N18 is eligible under the Program in cases where definite arrangements are made to prevent the obstruction from being recreated. In a case where removal is not feasible, the cost of marking or lighting it is eligible. The removal and relocation of structures necessary for essential airport development is eligible. The removal of structures that are not obstructions under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.23   Heliport imaginary surfaces.|§77.23]] of this chapter as applied to [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.27   Initiation of studies.|§77.27]] of this chapter are eligible when they are located within a runway clear zone.
 
-\(b\) The removal and relocation of an airport hangar that is an airport hazard (as described in §151.39(b)) is eligible, if the reerected hangar will be substantially identical to the disassembled one.
+\(b\) The removal and relocation of an airport hangar that is an airport hazard (as described in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b)) is eligible, if the reerected hangar will be substantially identical to the disassembled one.
 
 \(c\) Whenever a hangar must be relocated (either for clearance of the site for other airport development or to remove a hazard) and the existing structure is to be relocated with or without disassembly, the cost of the relocation is an eligible item of project costs, including costs incidental to the relocation such as necessary footings and floors. However, if the existing structure is to be demolished and a new hangar is to be built, only the cost of demolishing the existing hangar is an eligible item.
 
@@ -994,7 +994,7 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 ### §151.93   Buildings; utilities; sidewalks; parking areas; and landscaping.
 
-\(a\) Only buildings or parts of buildings intended to house facilities or activities directly related to the safety of persons at the airport, including fire and rescue equipment buildings, are eligible items under the Federal-aid Airport Program. To the extent they are necessary to house snow removal and abrasive spreading equipment, and to provide minimum protection for abrasive materials, field maintenance equipment buildings are eligible items in any airport development project for an airport in a location having a mean daily minimum temperature of zero degrees Fahrenheit, or less, for at least 20 days each year for the 5 years preceding the year when Federal aid is requested under §151.21(a), based on the statistics of the U.S. Department of Commerce Weather Bureau if available, or other evidence satisfactory to the Administrator.
+\(a\) Only buildings or parts of buildings intended to house facilities or activities directly related to the safety of persons at the airport, including fire and rescue equipment buildings, are eligible items under the Federal-aid Airport Program. To the extent they are necessary to house snow removal and abrasive spreading equipment, and to provide minimum protection for abrasive materials, field maintenance equipment buildings are eligible items in any airport development project for an airport in a location having a mean daily minimum temperature of zero degrees Fahrenheit, or less, for at least 20 days each year for the 5 years preceding the year when Federal aid is requested under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.21   Procedures: Application; general information.|§151.21]](a), based on the statistics of the U.S. Department of Commerce Weather Bureau if available, or other evidence satisfactory to the Administrator.
 
 \(b\) Airport utility construction, installation, and connection are eligible under the Federal-aid Airport Program as follows:
 
@@ -1040,11 +1040,11 @@ The following special treatment for areas adjacent to pavement is eligible for i
 
 \(g\) The following offsite work performed outside of the boundaries of an airport or airport site is eligible for inclusion in a project:
 
-\(1\) Removal of obstruction as provided in §151.91.
+\(1\) Removal of obstruction as provided in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.91   Removal of obstructions.|§151.91]].
 
 \(2\) Outfall drainage ditches, and the correction of any damage resulting from their construction.
 
-\(3\) Relocating of roads and utilities that are airport hazards as defined in §151.39(b).
+\(3\) Relocating of roads and utilities that are airport hazards as defined in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.39   Project eligibility.|§151.39]](b).
 
 \(4\) Clearing, grading, and grubbing to allow installing of navigational aids.
 
@@ -1086,7 +1086,7 @@ The Director, Airports, Service, or the Regional Director concerned may, on indi
 
 \(a\) Each advance planning and engineering proposal must relate to an airport layout plan or plans and specifications for the development of a new airport, or the further development of an existing airport. Each proposal must relate to a specific airport, either existing or planned, and may not be for general area planning.
 
-\(b\) Each proposal for the development or further development of an airport must have as its objective either the development of an airport layout plan, under §151.5(a), or the development of plans designed to lead to a project application, under §§151.21(c) and 151.27, or both.
+\(b\) Each proposal for the development or further development of an airport must have as its objective either the development of an airport layout plan, under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.5   General policies.|§151.5]](a), or the development of plans designed to lead to a project application, under §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.21   Procedures: Application; general information.|§151.21]](c) and 151.27, or both.
 
 \(c\) Each proposal must relate to planning and engineering for an airport that—
 
@@ -1102,7 +1102,7 @@ The Director, Airports, Service, or the Regional Director concerned may, on indi
 
 ### §151.113   Advance planning proposals: Sponsor eligibility.
 
-The sponsor of an advance planning and engineering proposal must be a public agency, as defined in §151.37(a), and must be legally, financially, and otherwise able to—
+The sponsor of an advance planning and engineering proposal must be a public agency, as defined in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.37   Sponsor eligibility.|§151.37]](a), and must be legally, financially, and otherwise able to—
 
 \(a\) Make the certifications, representations, and warranties required in the advance planning proposal, FAA Form 3731;
 
@@ -1114,7 +1114,7 @@ The sponsor of an advance planning and engineering proposal must be a public age
 
 ### §151.115   Advance planning proposals: Cosponsorship and agency.
 
-Any two or more public agencies desiring to jointly participate in an advance planning proposal may cosponsor it. The cosponsorship and agency requirements and procedures set forth in §151.33, except §151.33(a)(1), also apply to advance planning proposals. In addition, the sponsor eligibility requirements set forth in §151.113 must be met by each participating public agency.
+Any two or more public agencies desiring to jointly participate in an advance planning proposal may cosponsor it. The cosponsorship and agency requirements and procedures set forth in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.33   Cosponsorship and agency.|§151.33]], except [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.33   Cosponsorship and agency.|§151.33]](a)(1), also apply to advance planning proposals. In addition, the sponsor eligibility requirements set forth in [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.113   Advance planning proposals: Sponsor eligibility.|§151.113]] must be met by each participating public agency.
 
 ### §151.117   Advance planning proposals: Procedures; application.
 
@@ -1126,7 +1126,7 @@ Any two or more public agencies desiring to jointly participate in an advance pl
 
 ### §151.119   Advance planning proposals: Procedures; funding.
 
-The funding information required by §151.23, except the last sentence, also is required in connection with an advance planning proposal. The sponsor's share of estimated proposal costs may not consist of or include the value of donated labor, materials, or equipment.
+The funding information required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.23   Procedures: Application; funding information.|§151.23]], except the last sentence, also is required in connection with an advance planning proposal. The sponsor's share of estimated proposal costs may not consist of or include the value of donated labor, materials, or equipment.
 
 ### §151.121   Procedures: Offer; sponsor assurances.
 
@@ -1150,7 +1150,7 @@ The sponsor—
 
 ### §151.123   Procedures: Offer; amendment; acceptance; advance planning agreement.
 
-\(a\) The procedures and requirements of §151.29 also apply to approved advance planning proposals. FAA's offer and the sponsor's acceptance constitute an advance planning grant agreement between the sponsor and the United States. The United States does not pay any of the advance planning costs incurred before the advance planning grant agreement is executed.
+\(a\) The procedures and requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.29   Procedures: Offer, amendment, and acceptance.|§151.29]] also apply to approved advance planning proposals. FAA's offer and the sponsor's acceptance constitute an advance planning grant agreement between the sponsor and the United States. The United States does not pay any of the advance planning costs incurred before the advance planning grant agreement is executed.
 
 \(b\) No grant is made unless the sponsor intends to begin airport development within three years after the date of sponsor's written acceptance of a grant offer. The sponsor's intention must be evidenced by an appropriate written statement in the proposal.
 
@@ -1182,7 +1182,7 @@ The sponsor—
 
 ### §151.127   Accounting and audit.
 
-The requirements of §151.55 relating to accounting and audit of project costs are also applicable to advance planning proposal costs. However, the requirement of segregating and grouping costs applies only to §151.55(a) (5) and (7) classifications.
+The requirements of [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.55   Accounting and audit.|§151.55]] relating to accounting and audit of project costs are also applicable to advance planning proposal costs. However, the requirement of segregating and grouping costs applies only to [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.55   Accounting and audit.|§151.55]](a) (5) and (7) classifications.
 
 ### §151.129   Payments.
 
@@ -1210,7 +1210,7 @@ The forms used for the purpose of obtaining an advance planning and engineering 
 
 ### Appendix A to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of land acquisition as covered by §151.73:
+There is set forth below an itemization of typical eligible and ineligible items of land acquisition as covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.73   Land acquisition.|§151.73]]:
 
 ### Typical Eligible Items
 
@@ -1250,7 +1250,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix B to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of site preparation as covered by §151.75 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of site preparation as covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.75   Preparation of site.|§151.75]] of this chapter:
 
 ### Typical Eligible Items
 
@@ -1286,7 +1286,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix C to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of runway paving as covered by §151.77 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of runway paving as covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]] of this chapter:
 
 ### Typical Eligible Items
 
@@ -1318,11 +1318,11 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix D to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of taxiway paving as covered by §151.81 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of taxiway paving as covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.81   Taxiway paving.|§151.81]] of this chapter:
 
 ### Typical Eligible Items
 
-1\. Basic types of pavement listed as eligible under §151.77.
+1\. Basic types of pavement listed as eligible under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]].
 
 2\. Taxiway providing access to ends and intermediate points of eligible runways.
 
@@ -1338,7 +1338,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Typical Ineligible Items
 
-1\. Basic types of pavement listed as ineligible under §151.77.
+1\. Basic types of pavement listed as ineligible under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]].
 
 2\. Taxiways providing access to an area not offering aircraft storage and/or service to the public.
 
@@ -1348,11 +1348,11 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix E to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of apron paving as covered by §151.83 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of apron paving as covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.83   Aprons.|§151.83]] of this chapter:
 
 ### Typical Eligible Items
 
-1\. Basic types of pavement listed as eligible under §151.77.
+1\. Basic types of pavement listed as eligible under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]].
 
 2\. Loading ramps.
 
@@ -1364,7 +1364,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Typical Ineligible Items
 
-1\. Basic types of pavement listed as ineligible under §151.77.
+1\. Basic types of pavement listed as ineligible under [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.77   Runway paving: General rules.|§151.77]].
 
 2\. Aprons serving installations for nonpublic use.
 
@@ -1378,7 +1378,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix F to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of airport lighting covered by §§151.86 and 151.87 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of airport lighting covered by §[[Volume 3/I Airports/0151 Federal aid to airports.md#§151.86   Lighting and electrical work: General.|§151.86]] and 151.87 of this chapter:
 
 ### Typical Eligible Items
 
@@ -1430,7 +1430,7 @@ There is set forth below an itemization of typical eligible and ineligible items
 
 ### Appendix G to Part 151
 
-There is set forth below an itemization of typical eligible and ineligible items of road construction covered by §151.89 of this chapter:
+There is set forth below an itemization of typical eligible and ineligible items of road construction covered by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.89   Roads.|§151.89]] of this chapter:
 
 ### Typical Eligible Items
 
@@ -1468,7 +1468,7 @@ There is set forth below the contract provision required by the regulations of t
 
 *C. Payrolls and basic records.* (1) Payrolls and basic records relating thereto will be maintained during the course of the work and preserved for a period of three years thereafter for all laborers and mechanics working at the site of the work. Such records will contain the name and address of each such employee, his correct classification, rates of pay (including rates of contributions or costs anticipated of the types described in section 1(b)(2) of the Davis-Bacon Act), daily and weekly number of hours worked, deductions made and actual wages paid. Whenever the Secretary of Labor has found, under 29 CFR 5.5(a)(1)(iv) (see subparagraph (4) of subparagraph (A) above), that the wages of any laborer or mechanic include the amount of any costs reasonably anticipated in providing benefits under a plan or program described in section 1(b)(2)(B) of the Davis-Bacon Act, the contractor shall maintain records which show that the commitment to provide such benefits is enforceable, that the plan or program is financially responsible, and that the plan or program has been communicated in writing to the laborers or mechanics affected, and records which show the costs anticipated or the actual cost incurred in providing such benefits (29 CFR 5.5(a)(3)(i)).
 
-\(2\) The contractor will submit weekly a copy of all payrolls to the \[insert sponsor's name\] for transmission to the FAA, as required by §151.53(a). The copy shall be accompanied by a statement signed by the employer or his agent indicating that the payrolls are correct and complete, that the wage rates contained therein are not less than those determined by the Secretary of Labor and that the classifications set forth for each laborer or mechanic conform with the work he performed. A submission of a “Weekly Statement of Compliance” which is required under this contract and the Copeland regulations of the Secretary of Labor (29 CFR part 3) and the filing with the initial payroll or any subsequent payroll of a copy of any findings by the Secretary of Labor, under 29 CFR 5.5(a)(1)(iv) (see subparagraph (4) of paragraph (A) above), shall satisfy this requirement. The prime contractor shall be responsible for the submission of copies of payrolls of all subcontractors. The contractor will make the records required under the labor standards clauses of the contract available for inspection by authorized representatives of the FAA and the Department of Labor, and will permit such representatives to interview employees during working hours on the job (29 CFR 5.5(a)(3)(ii)).
+\(2\) The contractor will submit weekly a copy of all payrolls to the \[insert sponsor's name\] for transmission to the FAA, as required by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.53   Performance of construction work: Labor requirements.|§151.53]](a). The copy shall be accompanied by a statement signed by the employer or his agent indicating that the payrolls are correct and complete, that the wage rates contained therein are not less than those determined by the Secretary of Labor and that the classifications set forth for each laborer or mechanic conform with the work he performed. A submission of a “Weekly Statement of Compliance” which is required under this contract and the Copeland regulations of the Secretary of Labor (29 CFR part 3) and the filing with the initial payroll or any subsequent payroll of a copy of any findings by the Secretary of Labor, under 29 CFR 5.5(a)(1)(iv) (see subparagraph (4) of paragraph (A) above), shall satisfy this requirement. The prime contractor shall be responsible for the submission of copies of payrolls of all subcontractors. The contractor will make the records required under the labor standards clauses of the contract available for inspection by authorized representatives of the FAA and the Department of Labor, and will permit such representatives to interview employees during working hours on the job (29 CFR 5.5(a)(3)(ii)).
 
 *D. Apprentices.* Apprentices will be permitted to work as such only when they are registered, individually, under a bona fide apprenticeship program registered with a State apprenticeship agency which is recognized by the Bureau of Apprenticeship and Training, United States Department of Labor; or, if no such recognized agency exists in a State, under a program registered with the Bureau of Apprenticeship and Training, United States Department of Labor. The allowable ratio of apprentices to journeymen in any craft classification shall not be greater than the ratio permitted to the contractor as to his entire work force under the registered program. Any employee listed on a payroll at an apprentice wage rate, who is not registered as above, shall be paid the wage rate determined by the Secretary of Labor for the classification of work he actually performed. The contractor or subcontractor will be required to furnish to the \[insert sponsor's name\] written evidence of the registration of his program and apprentices as well as of the appropriate ratios and wage rates, for the area of construction prior to using any apprentices on the contract work (29 CFR 5.5(a)(4)).
 
@@ -1494,7 +1494,7 @@ There is set forth below the contract provision required by the regulations of t
 
 <div>
 
-\[Lists of Advisory Circulars incorporated by §151.72: (a) *Circulars available free of charge.*\]
+\[Lists of Advisory Circulars incorporated by [[Volume 3/I Airports/0151 Federal aid to airports.md#§151.72   Incorporation by reference of technical guidelines in Advisory Circulars.|§151.72]]: (a) *Circulars available free of charge.*\]
 
 </div>
 

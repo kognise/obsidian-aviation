@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.48](https://www.ecfr.
 
 ### §48.1   Applicability.
 
-\(a\) This part provides registration and identification requirements for small unmanned aircraft that are part of a small unmanned aircraft system as defined in §1.1 of this chapter.
+\(a\) This part provides registration and identification requirements for small unmanned aircraft that are part of a small unmanned aircraft system as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of this chapter.
 
 \(b\) Small unmanned aircraft eligible for registration in the United States must be registered and identified in accordance with either:
 
@@ -26,7 +26,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.48](https://www.ecfr.
 
 \(a\) *Small unmanned aircraft used exclusively as model aircraft.* For small unmanned aircraft operated by the current owner prior to December 21, 2015, compliance with the requirements of this part or part 47 is required no later than February 19, 2016. For all other small unmanned aircraft, compliance with this part is required prior to operation of the small unmanned aircraft.
 
-\(b\) *Small unmanned aircraft used as other than model aircraft.* Small unmanned aircraft owners authorized to conduct operations other than model aircraft operations must register the small unmanned aircraft in accordance with part 47 of this chapter. Beginning March 31, 2016, small unmanned aircraft operated as other than model aircraft may complete aircraft registration in accordance with this part.
+\(b\) *Small unmanned aircraft used as other than model aircraft.* Small unmanned aircraft owners authorized to conduct operations other than model aircraft operations must register the small unmanned aircraft in accordance with [[Volume 1/C Aircraft/0047 Aircraft registration.md|part 47 of this chapter]]. Beginning March 31, 2016, small unmanned aircraft operated as other than model aircraft may complete aircraft registration in accordance with this part.
 
 ### §48.10   Definitions.
 
@@ -80,7 +80,7 @@ A small unmanned aircraft may be registered under 49 U.S.C. 44103 and under this
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) To register a small unmanned aircraft in the United States under this part, a person must provide the information required by §48.100 to the Registry in the form and manner prescribed by the Administrator. Upon submission of this information, the FAA issues a Certificate of Aircraft Registration to that person.
+\(a\) To register a small unmanned aircraft in the United States under this part, a person must provide the information required by [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] to the Registry in the form and manner prescribed by the Administrator. Upon submission of this information, the FAA issues a Certificate of Aircraft Registration to that person.
 
 \(b\) A small unmanned aircraft must be registered by its owner using the legal name of its owner, unless the owner is less than 13 years of age. If the owner is less than 13 years of age, then the small unmanned aircraft must be registered by a person who is at least 13 years of age.
 
@@ -94,9 +94,9 @@ A small unmanned aircraft may be registered under 49 U.S.C. 44103 and under this
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with §48.100(a) is \$5.00 per aircraft.
+\(a\) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]](a) is \$5.00 per aircraft.
 
-\(b\) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with §48.100(b) is \$5.00 per certificate.
+\(b\) The fee for issuing or renewing a Certificate of Aircraft Registration for aircraft registered in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]](b) is \$5.00 per certificate.
 
 \(c\) Each application for and renewal of a Certificate of Aircraft Registration must be accompanied by the fee described in paragraphs (a) and (b), as applicable, paid to the Federal Aviation Administration through the web-based aircraft registration system, or in another manner if prescribed by the Administrator.
 
@@ -150,11 +150,11 @@ A small unmanned aircraft may be registered under 49 U.S.C. 44103 and under this
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) The holder of a Certificate of Aircraft Registration must ensure that the information provided under §48.100 remains accurate.
+\(a\) The holder of a Certificate of Aircraft Registration must ensure that the information provided under [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] remains accurate.
 
 \(b\) The holder of a Certificate of Aircraft Registration must update the information using the web-based small unmanned aircraft registration system within 14 calendar days of the following:
 
-\(1\) A change in the information provided under §48.100.
+\(1\) A change in the information provided under [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]].
 
 \(2\) When aircraft registration requires cancellation for any reason including sale or transfer, destruction, or export.
 
@@ -168,13 +168,13 @@ A small unmanned aircraft may be registered under 49 U.S.C. 44103 and under this
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) *Certificate of Aircraft Registration.* A Certificate of Aircraft Registration issued in accordance with §48.100 for aircraft used for purposes other than as model aircraft constitutes registration only for the small unmanned aircraft identified on the application.
+\(a\) *Certificate of Aircraft Registration.* A Certificate of Aircraft Registration issued in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] for aircraft used for purposes other than as model aircraft constitutes registration only for the small unmanned aircraft identified on the application.
 
 \(b\) *Effective date of registration.* An aircraft is registered when the applicant receives a Certificate of Aircraft Registration for the specific aircraft. The effective date of registration is shown by the date of issue on the Certificate of Aircraft Registration issued for the aircraft.
 
 \(c\) *Registration renewal.* A Certificate of Aircraft registration issued under this part expires 3 years after the date of issue unless it is renewed.
 
-\(1\) The holder of a Certificate of Aircraft Registration must renew the Certificate by verifying, in a form and manner prescribed by the Administrator, that the information provided in accordance with §48.100 of this subpart is accurate and if it is not, provide updated information. The verification may take place at any time within the six months preceding the month in which the Certificate of Aircraft registration expires.
+\(1\) The holder of a Certificate of Aircraft Registration must renew the Certificate by verifying, in a form and manner prescribed by the Administrator, that the information provided in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] of this subpart is accurate and if it is not, provide updated information. The verification may take place at any time within the six months preceding the month in which the Certificate of Aircraft registration expires.
 
 \(2\) A certificate issued under this paragraph expires three years from the expiration date of the previous certificate.
 
@@ -206,13 +206,13 @@ A small unmanned aircraft may be registered under 49 U.S.C. 44103 and under this
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) *Certificate of Aircraft Registration:* A Certificate of Aircraft Registration issued in accordance with §48.100 for small unmanned aircraft used exclusively as model aircraft constitutes registration for all small unmanned aircraft used exclusively as model aircraft owned by the individual identified on the application.
+\(a\) *Certificate of Aircraft Registration:* A Certificate of Aircraft Registration issued in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] for small unmanned aircraft used exclusively as model aircraft constitutes registration for all small unmanned aircraft used exclusively as model aircraft owned by the individual identified on the application.
 
 \(b\) *Effective date of registration.* An aircraft is registered when the applicant receives a Certificate of Aircraft Registration. The effective date of registration is shown by the date of issue on the Certificate of Aircraft Registration issued under this part.
 
 \(c\) *Registration renewal.* A Certificate of Aircraft registration issued under this part expires 3 years after the date of issue unless it is renewed.
 
-\(1\) The holder of a Certificate of Aircraft Registration must renew the Certificate by verifying, in a form and manner prescribed by the Administrator, that the information provided in accordance with §48.100(b) and (c) of this part is accurate and if it is not, provide updated information. The verification may take place at any time within the six months preceding the month in which the Certificate of Aircraft registration expires.
+\(1\) The holder of a Certificate of Aircraft Registration must renew the Certificate by verifying, in a form and manner prescribed by the Administrator, that the information provided in accordance with [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]](b) and (c) of this part is accurate and if it is not, provide updated information. The verification may take place at any time within the six months preceding the month in which the Certificate of Aircraft registration expires.
 
 \(2\) A certificate issued under this paragraph expires three years from the expiration date of the previous certificate.
 
@@ -238,7 +238,7 @@ The registration of a small unmanned aircraft is invalid if, at the time it is m
 
 ### §48.125   Foreign civil aircraft.
 
-Except for corporations eligible to register under §48.20(c), the FAA will issue a recognition of ownership to persons required to comply with the provisions of this part pursuant to an authorization to operate issued under part 375 of this title. The recognition of ownership does not have the effect of U.S. aircraft registration.
+Except for corporations eligible to register under [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.20   Eligibility for registration.|§48.20]](c), the FAA will issue a recognition of ownership to persons required to comply with the provisions of this part pursuant to an authorization to operate issued under part 375 of this title. The recognition of ownership does not have the effect of U.S. aircraft registration.
 
 ## Subpart C—Aircraft Marking
 
@@ -248,13 +248,13 @@ Except for corporations eligible to register under §48.20(c), the FAA will issu
 
 [Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=0e02dee3f6c4b30a48b6fb3245ee6778&mc=true&node=20210310y1.1)
 
-\(a\) No person may operate a small unmanned aircraft registered in accordance with this part unless the aircraft displays a unique identifier in accordance with the requirements of §48.205 of this subpart.
+\(a\) No person may operate a small unmanned aircraft registered in accordance with this part unless the aircraft displays a unique identifier in accordance with the requirements of [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.205   Display and location of unique identifier.|§48.205]] of this subpart.
 
 \(b\) A unique identifier is one of the following:
 
 \(1\) The registration number issued to an individual or the registration number issued to the aircraft by the Registry upon completion of the registration process provided by this part; or
 
-\(2\) If authorized by the Administrator and provided with the application for Certificate of Aircraft Registration under §48.100 of this part, the small unmanned aircraft serial number.
+\(2\) If authorized by the Administrator and provided with the application for Certificate of Aircraft Registration under [[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.100   Application.|§48.100]] of this part, the small unmanned aircraft serial number.
 
 ### §48.205   Display and location of unique identifier.
 

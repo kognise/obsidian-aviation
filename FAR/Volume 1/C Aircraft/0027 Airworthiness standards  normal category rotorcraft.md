@@ -70,11 +70,11 @@ Each requirement of this subpart must be met at each appropriate combination of 
 
 \(iii\) The highest weight at which compliance with each applicable flight requirement of this part is shown; or
 
-\(iv\) The highest weight in which the provisions of §§27.87 or 27.143(c)(1), or combinations thereof, are demonstrated if the weights and operating conditions (altitude and temperature) prescribed by those requirements cannot be met; and
+\(iv\) The highest weight in which the provisions of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.87   Height-speed envelope.|§27.87]] or 27.143(c)(1), or combinations thereof, are demonstrated if the weights and operating conditions (altitude and temperature) prescribed by those requirements cannot be met; and
 
 \(2\) Not less than the sum of—
 
-\(i\) The empty weight determined under §27.29; and
+\(i\) The empty weight determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.29   Empty weight and corresponding center of gravity.|§27.29]]; and
 
 \(ii\) The weight of usable fuel appropriate to the intended operation with full payload;
 
@@ -86,7 +86,7 @@ Each requirement of this subpart must be met at each appropriate combination of 
 
 \(1\) Not more than the sum of—
 
-\(i\) The empty weight determined under §27.29; and
+\(i\) The empty weight determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.29   Empty weight and corresponding center of gravity.|§27.29]]; and
 
 \(ii\) The weight of the minimum crew necessary to operate the rotorcraft, assuming for each crewmember a weight no more than 170 pounds, or any lower weight selected by the applicant or included in the loading instructions; and
 
@@ -102,13 +102,13 @@ Each requirement of this subpart must be met at each appropriate combination of 
 
 \(1\) The rotorcraft-load combination does not include human external cargo,
 
-\(2\) Structural component approval for external load operations under either §27.865 or under equivalent operational standards is obtained,
+\(2\) Structural component approval for external load operations under either [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.865   External loads.|§27.865]] or under equivalent operational standards is obtained,
 
 \(3\) The portion of the total weight that is greater than the maximum weight established under paragraph (a) of this section is made up only of the weight of all or part of the jettisonable external load,
 
 \(4\) Structural components of the rotorcraft are shown to comply with the applicable structural requirements of this part under the increased loads and stresses caused by the weight increase over that established under paragraph (a) of this section, and
 
-\(5\) Operation of the rotorcraft at a total weight greater than the maximum certificated weight established under paragraph (a) of this section is limited by appropriate operating limitations under §27.865(a) and (d) of this part.
+\(5\) Operation of the rotorcraft at a total weight greater than the maximum certificated weight established under paragraph (a) of this section is limited by appropriate operating limitations under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.865   External loads.|§27.865]](a) and (d) of this part.
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -116,7 +116,7 @@ Each requirement of this subpart must be met at each appropriate combination of 
 
 ### §27.27   Center of gravity limits.
 
-The extreme forward and aft centers of gravity and, where critical, the extreme lateral centers of gravity must be established for each weight established under §27.25. Such an extreme may not lie beyond—
+The extreme forward and aft centers of gravity and, where critical, the extreme lateral centers of gravity must be established for each weight established under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]]. Such an extreme may not lie beyond—
 
 \(a\) The extremes selected by the applicant;
 
@@ -316,7 +316,7 @@ For multiengine helicopters, the steady rate of climb (or descent), at *Vy* (or 
 
 ### §27.71   Autorotation performance.
 
-For single-engine helicopters and multiengine helicopters that do not meet the Category A engine isolation requirements of Part 29 of this chapter, the minimum rate of descent airspeed and the best angle-of-glide airspeed must be determined in autorotation at—
+For single-engine helicopters and multiengine helicopters that do not meet the Category A engine isolation requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|Part 29 of this chapter]], the minimum rate of descent airspeed and the best angle-of-glide airspeed must be determined in autorotation at—
 
 \(a\) Maximum weight; and
 
@@ -378,11 +378,11 @@ The rotorcraft must—
 
 \(b\) Be able to maintain any required flight condition and make a smooth transition from any flight condition to any other flight condition without exceptional piloting skill, alertness, or strength, and without danger of exceeding the limit load factor under any operating condition probable for the type, including—
 
-\(1\) Sudden failure of one engine, for multiengine rotorcraft meeting Transport Category A engine isolation requirements of Part 29 of this chapter;
+\(1\) Sudden failure of one engine, for multiengine rotorcraft meeting Transport Category A engine isolation requirements of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|Part 29 of this chapter]];
 
 \(2\) Sudden, complete power failure for other rotorcraft; and
 
-\(3\) Sudden, complete control system failures specified in §27.695 of this part; and
+\(3\) Sudden, complete control system failures specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.695   Power boost and power-operated control system.|§27.695]] of this part; and
 
 \(c\) Have any additional characteristic required for night or instrument operation, if certification for those kinds of operation is requested. Requirements for helicopter instrument flight are contained in appendix B of this part.
 
@@ -454,7 +454,7 @@ The rotorcraft must—
 
 \(ii\) For any other condition, normal pilot reaction time.
 
-\(f\) For helicopters for which a V*NE* (power-off) is established under §27.1505(c), compliance must be demonstrated with the following requirements with critical weight, critical center of gravity, and critical rotor r.p.m.:
+\(f\) For helicopters for which a V*NE* (power-off) is established under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1505   Never-exceed speed.|§27.1505]](c), compliance must be demonstrated with the following requirements with critical weight, critical center of gravity, and critical rotor r.p.m.:
 
 \(1\) The helicopter must be safely slowed to V*NE* (power-off), without exceptional pilot skill, after the last operating engine is made inoperative at power-on V*NE.*
 
@@ -490,7 +490,7 @@ The rotorcraft must be able to be flown, without undue pilot fatigue or strain, 
 
 \(a\) The longitudinal control must be designed so that a rearward movement of the control is necessary to obtain an airspeed less than the trim speed, and a forward movement of the control is necessary to obtain an airspeed more than the trim speed.
 
-\(b\) Throughout the full range of altitude for which certification is requested, with the throttle and collective pitch held constant during the maneuvers specified in §27.175(a) through (d), the slope of the control position versus airspeed curve must be positive. However, in limited flight conditions or modes of operation determined by the Administrator to be acceptable, the slope of the control position versus airspeed curve may be neutral or negative if the rotorcraft possesses flight characteristics that allow the pilot to maintain airspeed within ±5 knots of the desired trim airspeed without exceptional piloting skill or alertness.
+\(b\) Throughout the full range of altitude for which certification is requested, with the throttle and collective pitch held constant during the maneuvers specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.175   Demonstration of static longitudinal stability.|§27.175]](a) through (d), the slope of the control position versus airspeed curve must be positive. However, in limited flight conditions or modes of operation determined by the Administrator to be acceptable, the slope of the control position versus airspeed curve may be neutral or negative if the rotorcraft possesses flight characteristics that allow the pilot to maintain airspeed within ±5 knots of the desired trim airspeed without exceptional piloting skill or alertness.
 
 \[Amdt. 27-21, 49 FR 44433, Nov. 6, 1984, as amended by Amdt. 27-44, 73 FR 10999, Feb. 29, 2008\]
 
@@ -560,11 +560,11 @@ The rotorcraft must be able to be flown, without undue pilot fatigue or strain, 
 
 ### §27.177   Static directional stability.
 
-\(a\) The directional controls must operate in such a manner that the sense and direction of motion of the rotorcraft following control displacement are in the direction of the pedal motion with the throttle and collective controls held constant at the trim conditions specified in §27.175(a), (b), and (c). Sideslip angles must increase with steadily increasing directional control deflection for sideslip angles up to the lesser of—
+\(a\) The directional controls must operate in such a manner that the sense and direction of motion of the rotorcraft following control displacement are in the direction of the pedal motion with the throttle and collective controls held constant at the trim conditions specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.175   Demonstration of static longitudinal stability.|§27.175]](a), (b), and (c). Sideslip angles must increase with steadily increasing directional control deflection for sideslip angles up to the lesser of—
 
 \(1\) ±25 degrees from trim at a speed of 15 knots less than the speed for minimum rate of descent varying linearly to ±10 degrees from trim at VNE;
 
-\(2\) The steady state sideslip angles established by §27.351;
+\(2\) The steady state sideslip angles established by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.351   Yawing conditions.|§27.351]];
 
 \(3\) A sideslip angle selected by the applicant, which corresponds to a sideforce of at least 0.1g; or
 
@@ -718,7 +718,7 @@ The rotorcraft must be designed to withstand, at each critical airspeed includin
 
 \(b\) To produce the load required in paragraph (a) of this section, in unaccelerated flight with zero yaw, at forward speeds from zero up to 0.6 VNE—
 
-\(1\) Displace the cockpit directional control suddenly to the maximum deflection limited by the control stops or by the maximum pilot force specified in §27.397(a);
+\(1\) Displace the cockpit directional control suddenly to the maximum deflection limited by the control stops or by the maximum pilot force specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]](a);
 
 \(2\) Attain a resulting sideslip angle or 90°, whichever is less; and
 
@@ -726,7 +726,7 @@ The rotorcraft must be designed to withstand, at each critical airspeed includin
 
 \(c\) To produce the load required in paragraph (a) of this section, in unaccelerated flight with zero yaw, at forward speeds from 0.6 VNE up to VNE or VH, whichever is less—
 
-\(1\) Displace the cockpit directional control suddenly to the maximum deflection limited by the control stops or by the maximum pilot force specified in §27.397(a);
+\(1\) Displace the cockpit directional control suddenly to the maximum deflection limited by the control stops or by the maximum pilot force specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]](a);
 
 \(2\) Attain a resulting sideslip angle or 15°, whichever is less, at the lesser speed of VNE or VH;
 
@@ -742,9 +742,9 @@ The rotorcraft must be designed to withstand, at each critical airspeed includin
 
 \(1\) The mean torque for maximum continuous power multiplied by 1.25;
 
-\(2\) The torque required by §27.923;
+\(2\) The torque required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.923   Rotor drive system and control mechanism tests.|§27.923]];
 
-\(3\) The torque required by §27.927; or
+\(3\) The torque required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.927   Additional tests.|§27.927]]; or
 
 \(4\) The torque imposed by sudden engine stoppage due to malfunction or structural failure (such as compressor jamming).
 
@@ -760,7 +760,7 @@ The rotorcraft must be designed to withstand, at each critical airspeed includin
 
 ### §27.391   General.
 
-Each auxiliary rotor, each fixed or movable stabilizing or control surface, and each system operating any flight control must meet the requirements of §§27.395, 27.397, 27.399, 27.411, and 27.427.
+Each auxiliary rotor, each fixed or movable stabilizing or control surface, and each system operating any flight control must meet the requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.395   Control system.|§27.395]], 27.397, 27.399, 27.411, and 27.427.
 
 \[Amdt. 27-26, 55 FR 7999, Mar. 6, 1990, as amended by Amdt. 27-34, 62 FR 46173, Aug. 29, 1997\]
 
@@ -768,19 +768,19 @@ Each auxiliary rotor, each fixed or movable stabilizing or control surface, and 
 
 \(a\) The part of each control system from the pilot's controls to the control stops must be designed to withstand pilot forces of not less than—
 
-\(1\) The forces specified in §27.397; or
+\(1\) The forces specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]]; or
 
-\(2\) If the system prevents the pilot from applying the limit pilot forces to the system, the maximum forces that the system allows the pilot to apply, but not less than 0.60 times the forces specified in §27.397.
+\(2\) If the system prevents the pilot from applying the limit pilot forces to the system, the maximum forces that the system allows the pilot to apply, but not less than 0.60 times the forces specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]].
 
 \(b\) Each primary control system, including its supporting structure, must be designed as follows:
 
-\(1\) The system must withstand loads resulting from the limit pilot forces prescribed in §27.397.
+\(1\) The system must withstand loads resulting from the limit pilot forces prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]].
 
 \(2\) Notwithstanding paragraph (b)(3) of this section, when power-operated actuator controls or power boost controls are used, the system must also withstand the loads resulting from the force output of each normally energized power device, including any single power boost or actuator system failure.
 
-\(3\) If the system design or the normal operating loads are such that a part of the system cannot react to the limit pilot forces prescribed in §27.397, that part of the system must be designed to withstand the maximum loads that can be obtained in normal operation. The minimum design loads must, in any case, provide a rugged system for service use, including consideration of fatigue, jamming, ground gusts, control inertia, and friction loads. In the absence of rational analysis, the design loads resulting from 0.60 of the specified limit pilot forces are acceptable minimum design loads.
+\(3\) If the system design or the normal operating loads are such that a part of the system cannot react to the limit pilot forces prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]], that part of the system must be designed to withstand the maximum loads that can be obtained in normal operation. The minimum design loads must, in any case, provide a rugged system for service use, including consideration of fatigue, jamming, ground gusts, control inertia, and friction loads. In the absence of rational analysis, the design loads resulting from 0.60 of the specified limit pilot forces are acceptable minimum design loads.
 
-\(4\) If operational loads may be exceeded through jamming, ground gusts, control inertia, or friction, the system must withstand the limit pilot forces specified in §27.397, without yielding.
+\(4\) If operational loads may be exceeded through jamming, ground gusts, control inertia, or friction, the system must withstand the limit pilot forces specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]], without yielding.
 
 \[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-26, 55 FR 7999, Mar. 6, 1990\]
 
@@ -802,7 +802,7 @@ Each auxiliary rotor, each fixed or movable stabilizing or control surface, and 
 
 ### §27.399   Dual control system.
 
-Each dual primary flight control system must be designed to withstand the loads that result when pilot forces of 0.75 times those obtained under §27.395 are applied—
+Each dual primary flight control system must be designed to withstand the loads that result when pilot forces of 0.75 times those obtained under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.395   Control system.|§27.395]] are applied—
 
 \(a\) In opposition; and
 
@@ -848,7 +848,7 @@ Each dual primary flight control system must be designed to withstand the loads 
 
 \(a\) For specified landing conditions, a design maximum weight must be used that is not less than the maximum weight. A rotor lift may be assumed to act through the center of gravity throughout the landing impact. This lift may not exceed two-thirds of the design maximum weight.
 
-\(b\) Unless otherwise prescribed, for each specified landing condition, the rotorcraft must be designed for a limit load factor of not less than the limit inertia load factor substantiated under §27.725.
+\(b\) Unless otherwise prescribed, for each specified landing condition, the rotorcraft must be designed for a limit load factor of not less than the limit inertia load factor substantiated under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]].
 
 \[Amdt. 27-2, 33 FR 963, Jan. 26, 1968\]
 
@@ -870,7 +870,7 @@ Sections 27.235, 27.479 through 27.485, and 27.493 apply to landing gear with tw
 
 \(b\) *Loading conditions.* The rotorcraft must be designed for the following landing loading conditions:
 
-\(1\) Vertical loads applied under §27.471.
+\(1\) Vertical loads applied under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.471   General.|§27.471]].
 
 \(2\) The loads resulting from a combination of the loads applied under paragraph (b)(1) of this section with drag loads at each wheel of not less than 25 percent of the vertical load at that wheel.
 
@@ -894,7 +894,7 @@ Sections 27.235, 27.479 through 27.485, and 27.493 apply to landing gear with tw
 
 For the one-wheel landing condition, the rotorcraft is assumed to be in the level attitude and to contact the ground on one aft wheel. In this attitude—
 
-\(a\) The vertical load must be the same as that obtained on that side under §27.479(b)(1); and
+\(a\) The vertical load must be the same as that obtained on that side under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.479   Level landing conditions.|§27.479]](b)(1); and
 
 \(b\) The unbalanced external loads must be reacted by rotorcraft inertia.
 
@@ -902,7 +902,7 @@ For the one-wheel landing condition, the rotorcraft is assumed to be in the leve
 
 \(a\) The rotorcraft is assumed to be in the level landing attitude, with—
 
-\(1\) Side loads combined with one-half of the maximum ground reactions obtained in the level landing conditions of §27.479 (b)(1); and
+\(1\) Side loads combined with one-half of the maximum ground reactions obtained in the level landing conditions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.479   Level landing conditions.|§27.479]] (b)(1); and
 
 \(2\) The loads obtained under paragraph (a)(1) of this section applied—
 
@@ -926,9 +926,9 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 \(a\) The limit vertical load must be based on a load factor of at least—
 
-\(1\) 1.33, for the attitude specified in §27.479(a)(1); and
+\(1\) 1.33, for the attitude specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.479   Level landing conditions.|§27.479]](a)(1); and
 
-\(2\) 1.0 for the attitude specified in §27.479(a)(2); and
+\(2\) 1.0 for the attitude specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.479   Level landing conditions.|§27.479]](a)(2); and
 
 \(b\) The structure must be designed to withstand at the ground contact point of each wheel with brakes, a drag load at least the lesser of—
 
@@ -942,7 +942,7 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 \(b\) *Level landing attitude with only the forward wheels contacting the ground.* In this attitude—
 
-\(1\) The vertical loads must be applied under §§27.471 through 27.475;
+\(1\) The vertical loads must be applied under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.471   General.|§27.471]] through 27.475;
 
 \(2\) The vertical load at each axle must be combined with a drag load at that axle of not less than 25 percent of that vertical load; and
 
@@ -1002,15 +1002,15 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 \(a\) *General.* Rotorcraft with landing gear with skids must be designed for the loading conditions specified in this section. In showing compliance with this section, the following apply:
 
-\(1\) The design maximum weight, center of gravity, and load factor must be determined under §§27.471 through 27.475.
+\(1\) The design maximum weight, center of gravity, and load factor must be determined under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.471   General.|§27.471]] through 27.475.
 
 \(2\) Structural yielding of elastic spring members under limit loads is acceptable.
 
 \(3\) Design ultimate loads for elastic spring members need not exceed those obtained in a drop test of the gear with—
 
-\(i\) A drop height of 1.5 times that specified in §27.725; and
+\(i\) A drop height of 1.5 times that specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]]; and
 
-\(ii\) An assumed rotor lift of not more than 1.5 times that used in the limit drop tests prescribed in §27.725.
+\(ii\) An assumed rotor lift of not more than 1.5 times that used in the limit drop tests prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]].
 
 \(4\) Compliance with paragraphs (b) through (e) of this section must be shown with—
 
@@ -1074,7 +1074,7 @@ Under braked roll conditions with the shock absorbers in their static positions�
 
 ### §27.505   Ski landing conditions.
 
-If certification for ski operation is requested, the rotorcraft, with skis, must be designed to withstand the following loading conditions (where *P* is the maximum static weight on each ski with the rotorcraft at design maximum weight, and *n* is the limit load factor determined under §27.473(b).
+If certification for ski operation is requested, the rotorcraft, with skis, must be designed to withstand the following loading conditions (where *P* is the maximum static weight on each ski with the rotorcraft at design maximum weight, and *n* is the limit load factor determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.473   Ground loading conditions and assumptions.|§27.473]](b).
 
 \(a\) Up-load conditions in which—
 
@@ -1090,7 +1090,7 @@ If certification for ski operation is requested, the rotorcraft, with skis, must
 
 ### §27.521   Float landing conditions.
 
-If certification for float operation is requested, the rotorcraft, with floats, must be designed to withstand the following loading conditions (where the limit load factor is determined under §27.473(b) or assumed to be equal to that determined for wheel landing gear):
+If certification for float operation is requested, the rotorcraft, with floats, must be designed to withstand the following loading conditions (where the limit load factor is determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.473   Ground loading conditions and assumptions.|§27.473]](b) or assumed to be equal to that determined for wheel landing gear):
 
 \(a\) Up-load conditions in which—
 
@@ -1112,7 +1112,7 @@ If certification for float operation is requested, the rotorcraft, with floats, 
 
 \(b\) \[Reserved\]
 
-\(c\) The main rotor structure must be designed to withstand the following loads prescribed in §§27.337 through 27.341:
+\(c\) The main rotor structure must be designed to withstand the following loads prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.337   Limit maneuvering load factor.|§27.337]] through 27.341:
 
 \(1\) Critical flight loads.
 
@@ -1130,7 +1130,7 @@ If certification for float operation is requested, the rotorcraft, with floats, 
 
 \(i\) The maximum torque likely to be transmitted to the rotor structure in either direction; and
 
-\(ii\) The limit engine torque specified in §27.361.
+\(ii\) The limit engine torque specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.361   Engine torque.|§27.361]].
 
 \(2\) The limit torque must be distributed to the rotor blades in a rational manner.
 
@@ -1144,11 +1144,11 @@ If certification for float operation is requested, the rotorcraft, with floats, 
 
 \(b\) Each structure must be designed to withstand—
 
-\(1\) The critical loads prescribed in §§27.337 through 27.341;
+\(1\) The critical loads prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.337   Limit maneuvering load factor.|§27.337]] through 27.341;
 
-\(2\) The applicable ground loads prescribed in §§27.235, 27.471 through 27.485, 27.493, 27.497, 27.501, 27.505, and 27.521; and
+\(2\) The applicable ground loads prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.235   Taxiing condition.|§27.235]], 27.471 through 27.485, 27.493, 27.497, 27.501, 27.505, and 27.521; and
 
-\(3\) The loads prescribed in §27.547 (d)(2) and (e).
+\(3\) The loads prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.547   Main rotor structure.|§27.547]] (d)(2) and (e).
 
 \(c\) Auxiliary rotor thrust, and the balancing air and inertia loads occurring under accelerated flight conditions, must be considered.
 
@@ -1254,11 +1254,11 @@ Where: a(t) is the resultant acceleration at the center of gravity of the head f
 
 ### §27.563   Structural ditching provisions.
 
-If certification with ditching provisions is requested, structural strength for ditching must meet the requirements of this section and §27.801(e).
+If certification with ditching provisions is requested, structural strength for ditching must meet the requirements of this section and [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.801   Ditching.|§27.801]](e).
 
 \(a\) *Forward speed landing conditions.* The rotorcraft must initially contact the most critical wave for reasonably probable water conditions at forward velocities from zero up to 30 knots in likely pitch, roll, and yaw attitudes. The rotorcraft limit vertical descent velocity may not be less than 5 feet per second relative to the mean water surface. Rotor lift may be used to act through the center of gravity throughout the landing impact. This lift may not exceed two-thirds of the design maximum weight. A maximum forward velocity of less than 30 knots may be used in design if it can be demonstrated that the forward velocity selected would not be exceeded in a normal one-engine-out touchdown.
 
-\(b\) *Auxiliary or emergency float conditions*—(1) *Floats fixed or deployed before initial water contact.* In addition to the landing loads in paragraph (a) of this section, each auxiliary or emergency float, of its support and attaching structure in the airframe or fuselage, must be designed for the load developed by a fully immersed float unless it can be shown that full immersion is unlikely. If full immersion is unlikely, the highest likely float buoyancy load must be applied. The highest likely buoyancy load must include consideration of a partially immersed float creating restoring moments to compensate the upsetting moments caused by side wind, unsymmetrical rotorcraft loading, water wave action, rotorcraft inertia, and probable structural damage and leakage considered under §27.801(d). Maximum roll and pitch angles determined from compliance with §27.801(d) may be used, if significant, to determine the extent of immersion of each float. If the floats are deployed in flight, appropriate air loads derived from the flight limitations with the floats deployed shall be used in substantiation of the floats and their attachment to the rotorcraft. For this purpose, the design airspeed for limit load is the float deployed airspeed operating limit multiplied by 1.11.
+\(b\) *Auxiliary or emergency float conditions*—(1) *Floats fixed or deployed before initial water contact.* In addition to the landing loads in paragraph (a) of this section, each auxiliary or emergency float, of its support and attaching structure in the airframe or fuselage, must be designed for the load developed by a fully immersed float unless it can be shown that full immersion is unlikely. If full immersion is unlikely, the highest likely float buoyancy load must be applied. The highest likely buoyancy load must include consideration of a partially immersed float creating restoring moments to compensate the upsetting moments caused by side wind, unsymmetrical rotorcraft loading, water wave action, rotorcraft inertia, and probable structural damage and leakage considered under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.801   Ditching.|§27.801]](d). Maximum roll and pitch angles determined from compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.801   Ditching.|§27.801]](d) may be used, if significant, to determine the extent of immersion of each float. If the floats are deployed in flight, appropriate air loads derived from the flight limitations with the floats deployed shall be used in substantiation of the floats and their attachment to the rotorcraft. For this purpose, the design airspeed for limit load is the float deployed airspeed operating limit multiplied by 1.11.
 
 \(2\) *Floats deployed after initial water contact.* Each float must be designed for full or partial immersion perscribed in paragraph (b)(1) of this section. In addition, each float must be designed for combined vertical and drag loads using a relative limit speed of 20 knots between the rotorcraft and the water. The vertical load may not be less than the highest likely buoyancy load determined under paragraph (b)(1) of this section.
 
@@ -1276,7 +1276,7 @@ If certification with ditching provisions is requested, structural strength for 
 
 \(3\) Inflight measurement must be included in determining the following:
 
-\(i\) Loads or stresses in all critical conditions throughout the range of limitations in §27.309, except that maneuvering load factors need not exceed the maximum values expected in operation.
+\(i\) Loads or stresses in all critical conditions throughout the range of limitations in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.309   Design limitations.|§27.309]], except that maneuvering load factors need not exceed the maximum values expected in operation.
 
 \(ii\) The effect of altitude upon these loads or stresses.
 
@@ -1320,7 +1320,7 @@ If certification with ditching provisions is requested, structural strength for 
 
 \(i\) The identification of all PSEs;
 
-\(ii\) In-flight and ground measurements for determining the loads or stresses for all PSEs for all critical conditions throughout the range of limits in §27.309 (including altitude effects), except that maneuvering load factors need not exceed the maximum values expected in service;
+\(ii\) In-flight and ground measurements for determining the loads or stresses for all PSEs for all critical conditions throughout the range of limits in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.309   Design limitations.|§27.309]] (including altitude effects), except that maneuvering load factors need not exceed the maximum values expected in service;
 
 \(iii\) The loading spectra as severe as those expected in service based on loads or stresses determined under paragraph (d)(1)(ii) of this section, including external load operations, if applicable, and other operations including high-torque events;
 
@@ -1328,7 +1328,7 @@ If certification with ditching provisions is requested, structural strength for 
 
 \(v\) An assessment of the residual strength and fatigue characteristics of all PSEs that supports the replacement times and inspection intervals established under paragraph (d)(2) of this section.
 
-\(2\) Each applicant must establish replacement times, inspections, or other procedures for all PSEs to require the repair or replacement of damaged parts before a catastrophic failure. These replacement times, inspections, or other procedures must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by §27.1529.
+\(2\) Each applicant must establish replacement times, inspections, or other procedures for all PSEs to require the repair or replacement of damaged parts before a catastrophic failure. These replacement times, inspections, or other procedures must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1529   Instructions for Continued Airworthiness.|§27.1529]].
 
 \(i\) Replacement times for PSEs must be determined by tests, or by analysis supported by tests, and must show that the structure is able to withstand the repeated loads of variable magnitude expected in-service. In establishing these replacement times, the following items must be considered:
 
@@ -1356,7 +1356,7 @@ If certification with ditching provisions is requested, structural strength for 
 
 \(3\) Establish supplemental procedures to minimize the risk of catastrophic failure associated with the damages identified in paragraph (d) of this section; and
 
-\(4\) Include these supplemental procedures in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §27.1529.
+\(4\) Include these supplemental procedures in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1529   Instructions for Continued Airworthiness.|§27.1529]].
 
 \[Doc. No. FAA-2009-0660, Amdt. 27-47, 76 FR 74663, Dec. 1, 2011\]
 
@@ -1374,7 +1374,7 @@ If certification with ditching provisions is requested, structural strength for 
 
 \(a\) *Critical part.* A critical part is a part, the failure of which could have a catastrophic effect upon the rotocraft, and for which critical characteristics have been identified which must be controlled to ensure the required level of integrity.
 
-\(b\) If the type design includes crtical parts, a critical parts list shall be established. Procedures shall be established to define the critical design characteristics, identify processes that affect those characteristics, and identify the design change and process change controls necessary for showing compliance with the quality assurance requirements of part 21 of this chapter.
+\(b\) If the type design includes crtical parts, a critical parts list shall be established. Procedures shall be established to define the critical design characteristics, identify processes that affect those characteristics, and identify the design change and process change controls necessary for showing compliance with the quality assurance requirements of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
 \[Doc. No. 29311, 64 FR 46232, Aug. 24, 1999\]
 
@@ -1492,7 +1492,7 @@ There must be means to allow the close examination of each part that requires—
 
 ### §27.619   Special factors.
 
-\(a\) The special factors prescribed in §§27.621 through 27.625 apply to each part of the structure whose strength is—
+\(a\) The special factors prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.621   Casting factors.|§27.621]] through 27.625 apply to each part of the structure whose strength is—
 
 \(1\) Uncertain;
 
@@ -1504,9 +1504,9 @@ There must be means to allow the close examination of each part that requires—
 
 \(ii\) Uncertainties in inspection methods.
 
-\(b\) For each part to which §§27.621 through 27.625 apply, the factor of safety prescribed in §27.303 must be multiplied by a special factor equal to—
+\(b\) For each part to which §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.621   Casting factors.|§27.621]] through 27.625 apply, the factor of safety prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.303   Factor of safety.|§27.303]] must be multiplied by a special factor equal to—
 
-\(1\) The applicable special factors prescribed in §§27.621 through 27.625; or
+\(1\) The applicable special factors prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.621   Casting factors.|§27.621]] through 27.625; or
 
 \(2\) Any other factor great enough to ensure that the probability of the part being understrength because of the uncertainties specified in paragraph (a) of this section is extremely remote.
 
@@ -1530,9 +1530,9 @@ There must be means to allow the close examination of each part that requires—
 
 \(2\) For each critical casting with a casting factor less than 1.50, three sample castings must be static tested and shown to meet—
 
-\(i\) The strength requirements of §27.305 at an ultimate load corresponding to a casting factor of 1.25; and
+\(i\) The strength requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.305   Strength and deformation.|§27.305]] at an ultimate load corresponding to a casting factor of 1.25; and
 
-\(ii\) The deformation requirements of §27.305 at a load of 1.15 times the limit load.
+\(ii\) The deformation requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.305   Strength and deformation.|§27.305]] at a load of 1.15 times the limit load.
 
 \(d\) *Noncritical castings.* For each casting other than those specified in paragraph (c) of this section, the following apply:
 
@@ -1584,7 +1584,7 @@ For each fitting (part or terminal used to join one structural member to another
 
 \(c\) For each integral fitting, the part must be treated as a fitting up to the point at which the section properties become typical of the member.
 
-\(d\) Each seat, berth, litter, safety belt, and harness attachment to the structure must be shown by analysis, tests, or both, to be able to withstand the inertia forces prescribed in §27.561(b)(3) multiplied by a fitting factor of 1.33.
+\(d\) Each seat, berth, litter, safety belt, and harness attachment to the structure must be shown by analysis, tests, or both, to be able to withstand the inertia forces prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b)(3) multiplied by a fitting factor of 1.33.
 
 \[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-35, 63 FR 43285, Aug. 12, 1998\]
 
@@ -1632,7 +1632,7 @@ There must be enough clearance between the rotor blades and other parts of the s
 
 \(a\) The reliability of the means for preventing ground resonance must be shown either by analysis and tests, or reliable service experience, or by showing through analysis or tests that malfunction or failure of a single means will not cause ground resonance.
 
-\(b\) The probable range of variations, during service, of the damping action of the ground resonance prevention means must be established and must be investigated during the test required by §27.241.
+\(b\) The probable range of variations, during service, of the damping action of the ground resonance prevention means must be established and must be investigated during the test required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.241   Ground resonance.|§27.241]].
 
 \[Amdt. 27-2, 33 FR 963, Jan. 26, 1968, as amended by Amdt. 27-26, 55 FR 8000, Mar. 6, 1990\]
 
@@ -1646,7 +1646,7 @@ There must be enough clearance between the rotor blades and other parts of the s
 
 ### §27.672   Stability augmentation, automatic, and power-operated systems.
 
-If the functioning of stability augmentation or other automatic or power-operated systems is necessary to show compliance with the flight characteristics requirements of this part, such systems must comply with §27.671 of this part and the following:
+If the functioning of stability augmentation or other automatic or power-operated systems is necessary to show compliance with the flight characteristics requirements of this part, such systems must comply with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.671   General.|§27.671]] of this part and the following:
 
 \(a\) A warning which is clearly distinguishable to the pilot under expected flight conditions without requiring the pilot's attention must be provided for any failure in the stability augmentation system or in any other automatic or power-operated system which could result in an unsafe condition if the pilot is unaware of the failure. Warning systems must not activate the control systems.
 
@@ -1792,7 +1792,7 @@ Each main rotor blade pitch control mechanism must allow rapid entry into autoro
 
 ### §27.723   Shock absorption tests.
 
-The landing inertia load factor and the reserve energy absorption capacity of the landing gear must be substantiated by the tests prescribed in §§27.725 and 27.727, respectively. These tests must be conducted on the complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper relation.
+The landing inertia load factor and the reserve energy absorption capacity of the landing gear must be substantiated by the tests prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]] and 27.727, respectively. These tests must be conducted on the complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper relation.
 
 ### §27.725   Limit drop test.
 
@@ -1804,7 +1804,7 @@ The limit drop test must be conducted as follows:
 
 \(2\) Any lesser height, not less than eight inches, resulting in a drop contact velocity equal to the greatest probable sinking speed likely to occur at ground contact in normal power-off landings.
 
-\(b\) If considered, the rotor lift specified in §27.473(a) must be introduced into the drop test by appropriate energy absorbing devices or by the use of an effective mass.
+\(b\) If considered, the rotor lift specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.473   Ground loading conditions and assumptions.|§27.473]](a) must be introduced into the drop test by appropriate energy absorbing devices or by the use of an effective mass.
 
 \(c\) Each landing gear unit must be tested in the attitude simulating the landing condition that is most critical from the standpoint of the energy to be absorbed by it.
 
@@ -1818,9 +1818,9 @@ The limit drop test must be conducted as follows:
 
 The reserve energy absorption drop test must be conducted as follows:
 
-\(a\) The drop height must be 1.5 times that specified in §27.725(a).
+\(a\) The drop height must be 1.5 times that specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]](a).
 
-\(b\) Rotor lift, where considered in a manner similar to that prescribed in §27.725(b), may not exceed 1.5 times the lift allowed under that paragraph.
+\(b\) Rotor lift, where considered in a manner similar to that prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.725   Limit drop test.|§27.725]](b), may not exceed 1.5 times the lift allowed under that paragraph.
 
 \(c\) The landing gear must withstand this test without collapsing. Collapse of the landing gear occurs when a member of the nose, tail, or main gear will not support the rotorcraft in the proper attitude or allows the rotorcraft structure, other than the landing gear and external accessories, to impact the landing surface.
 
@@ -1850,7 +1850,7 @@ For rotorcraft with retractable landing gear, the following apply:
 
 \(e\) *Position indicator.* There must be a means to indicate to the pilot when the gear is secured in the extreme positions.
 
-\(f\) *Control.* The location and operation of the retraction control must meet the requirements of §§27.777 and 27.779.
+\(f\) *Control.* The location and operation of the retraction control must meet the requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.777   Cockpit controls.|§27.777]] and 27.779.
 
 \(g\) *Landing gear warning.* An aural or equally effective landing gear warning device must be provided that functions continuously when the rotorcraft is in a normal landing mode and the landing gear is not fully extended and locked. A manual shutoff capability must be provided for the warning device and the warning system must automatically reset when the rotorcraft is no longer in the landing mode.
 
@@ -1926,9 +1926,9 @@ The maximum limit load rating of each ski must equal or exceed the maximum limit
 
 \(1\) The maximum pressure differential that might be developed at the maximum altitude for which certification with that float is requested; and
 
-\(2\) The vertical loads prescribed in §27.521(a), distributed along the length of the bag over three-quarters of its projected area.
+\(2\) The vertical loads prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.521   Float landing conditions.|§27.521]](a), distributed along the length of the bag over three-quarters of its projected area.
 
-\(b\) *Rigid floats.* Each rigid float must be able to withstand the vertical, horizontal, and side loads prescribed in §27.521. These loads may be distributed along the length of the float.
+\(b\) *Rigid floats.* Each rigid float must be able to withstand the vertical, horizontal, and side loads prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.521   Float landing conditions.|§27.521]]. These loads may be distributed along the length of the float.
 
 ### §27.755   Hulls.
 
@@ -2004,9 +2004,9 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 
 ### §27.785   Seats, berths, litters, safety belts, and harnesses.
 
-\(a\) Each seat, safety belt, harness, and adjacent part of the rotorcraft at each station designated for occupancy during takeoff and landing must be free of potentially injurious objects, sharp edges, protuberances, and hard surfaces and must be designed so that a person making proper use of these facilities will not suffer serious injury in an emergency landing as a result of the static inertial load factors specified in §27.561(b) and dynamic conditions specified in §27.562.
+\(a\) Each seat, safety belt, harness, and adjacent part of the rotorcraft at each station designated for occupancy during takeoff and landing must be free of potentially injurious objects, sharp edges, protuberances, and hard surfaces and must be designed so that a person making proper use of these facilities will not suffer serious injury in an emergency landing as a result of the static inertial load factors specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b) and dynamic conditions specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.562   Emergency landing dynamic conditions.|§27.562]].
 
-\(b\) Each occupant must be protected from serious head injury by a safety belt plus a shoulder harness that will prevent the head from contacting any injurious object except as provided for in §27.562(c)(5). A shoulder harness (upper torso restraint), in combination with the safety belt, constitutes a torso restraint system as described in TSO-C114.
+\(b\) Each occupant must be protected from serious head injury by a safety belt plus a shoulder harness that will prevent the head from contacting any injurious object except as provided for in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.562   Emergency landing dynamic conditions.|§27.562]](c)(5). A shoulder harness (upper torso restraint), in combination with the safety belt, constitutes a torso restraint system as described in TSO-C114.
 
 \(c\) Each occupant's seat must have a combined safety belt and shoulder harness with a single-point release. Each pilot's combined safety belt and shoulder harness must allow each pilot when seated with safety belt and shoulder harness fastened to perform all functions necessary for flight operations. There must be a means to secure belts and harnesses, when not in use, to prevent interference with the operation of the rotorcraft and with rapid egress in an emergency.
 
@@ -2014,43 +2014,43 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 
 \(e\) Each projecting object that could injure persons seated or moving about in the rotorcraft in normal flight must be padded.
 
-\(f\) Each seat and its supporting structure must be designed for an occupant weight of at least 170 pounds considering the maximum load factors, inertial forces, and reactions between occupant, seat, and safety belt or harness corresponding with the applicable flight and ground load conditions, including the emergency landing conditions of §27.561(b). In addition—
+\(f\) Each seat and its supporting structure must be designed for an occupant weight of at least 170 pounds considering the maximum load factors, inertial forces, and reactions between occupant, seat, and safety belt or harness corresponding with the applicable flight and ground load conditions, including the emergency landing conditions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b). In addition—
 
-\(1\) Each pilot seat must be designed for the reactions resulting from the application of the pilot forces prescribed in §27.397; and
+\(1\) Each pilot seat must be designed for the reactions resulting from the application of the pilot forces prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.397   Limit pilot forces and torques.|§27.397]]; and
 
-\(2\) The inertial forces prescribed in §27.561(b) must be multiplied by a factor of 1.33 in determining the strength of the attachment of—
+\(2\) The inertial forces prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b) must be multiplied by a factor of 1.33 in determining the strength of the attachment of—
 
 \(i\) Each seat to the structure; and
 
 \(ii\) Each safety belt or harness to the seat or structure.
 
-\(g\) When the safety belt and shoulder harness are combined, the rated strength of the safety belt and shoulder harness may not be less than that corresponding to the inertial forces specified in §27.561(b), considering the occupant weight of at least 170 pounds, considering the dimensional characteristics of the restraint system installation, and using a distribution of at least a 60-percent load to the safety belt and at least a 40-percent load to the shoulder harness. If the safety belt is capable of being used without the shoulder harness, the inertial forces specified must be met by the safety belt alone.
+\(g\) When the safety belt and shoulder harness are combined, the rated strength of the safety belt and shoulder harness may not be less than that corresponding to the inertial forces specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b), considering the occupant weight of at least 170 pounds, considering the dimensional characteristics of the restraint system installation, and using a distribution of at least a 60-percent load to the safety belt and at least a 40-percent load to the shoulder harness. If the safety belt is capable of being used without the shoulder harness, the inertial forces specified must be met by the safety belt alone.
 
-\(h\) When a headrest is used, the headrest and its supporting structure must be designed to resist the inertia forces specified in §27.561, with a 1.33 fitting factor and a head weight of at least 13 pounds.
+\(h\) When a headrest is used, the headrest and its supporting structure must be designed to resist the inertia forces specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]], with a 1.33 fitting factor and a head weight of at least 13 pounds.
 
 \(i\) Each seating device system includes the device such as the seat, the cushions, the occupant restraint system, and attachment devices.
 
-\(j\) Each seating device system may use design features such as crushing or separation of certain parts of the seats to reduce occupant loads for the emergency landing dynamic conditions of §27.562; otherwise, the system must remain intact and must not interfere with rapid evacuation of the rotorcraft.
+\(j\) Each seating device system may use design features such as crushing or separation of certain parts of the seats to reduce occupant loads for the emergency landing dynamic conditions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.562   Emergency landing dynamic conditions.|§27.562]]; otherwise, the system must remain intact and must not interfere with rapid evacuation of the rotorcraft.
 
-\(k\) For the purposes of this section, a litter is defined as a device designed to carry a nonambulatory person, primarily in a recumbent position, into and on the rotorcraft. Each berth or litter must be designed to withstand the load reaction of an occupant weight of at least 170 pounds when the occupant is subjected to the forward inertial factors specified in §27.561(b). A berth or litter installed within 15° or less of the longitudinal axis of the rotorcraft must be provided with a padded end-board, cloth diaphram, or equivalent means that can withstand the forward load reaction. A berth or litter oriented greater than 15° with the longitudinal axis of the rotorcraft must be equipped with appropriate restraints, such as straps or safety belts, to withstand the forward load reaction. In addition—
+\(k\) For the purposes of this section, a litter is defined as a device designed to carry a nonambulatory person, primarily in a recumbent position, into and on the rotorcraft. Each berth or litter must be designed to withstand the load reaction of an occupant weight of at least 170 pounds when the occupant is subjected to the forward inertial factors specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b). A berth or litter installed within 15° or less of the longitudinal axis of the rotorcraft must be provided with a padded end-board, cloth diaphram, or equivalent means that can withstand the forward load reaction. A berth or litter oriented greater than 15° with the longitudinal axis of the rotorcraft must be equipped with appropriate restraints, such as straps or safety belts, to withstand the forward load reaction. In addition—
 
 \(1\) The berth or litter must have a restraint system and must not have corners or other protuberances likely to cause serious injury to a person occupying it during emergency landing conditions; and
 
-\(2\) The berth or litter attachment and the occupant restraint system attachments to the structure must be designed to withstand the critical loads resulting from flight and ground load conditions and from the conditions prescribed in §27.561(b). The fitting factor required by §27.625(d) shall be applied.
+\(2\) The berth or litter attachment and the occupant restraint system attachments to the structure must be designed to withstand the critical loads resulting from flight and ground load conditions and from the conditions prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]](b). The fitting factor required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.625   Fitting factors.|§27.625]](d) shall be applied.
 
 \[Amdt. 27-21, 49 FR 44434, Nov. 6, 1984, as amended by Amdt. 27-25, 54 FR 47319, Nov. 13, 1989; Amdt. 27-35, 63 FR 43285, Aug. 12, 1998\]
 
 ### §27.787   Cargo and baggage compartments.
 
-\(a\) Each cargo and baggage compartment must be designed for its placarded maximum weight of contents and for the critical load distributions at the appropriate maximum load factors corresponding to the specified flight and ground load conditions, except the emergency landing conditions of §27.561.
+\(a\) Each cargo and baggage compartment must be designed for its placarded maximum weight of contents and for the critical load distributions at the appropriate maximum load factors corresponding to the specified flight and ground load conditions, except the emergency landing conditions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]].
 
 \(b\) There must be means to prevent the contents of any compartment from becoming a hazard by shifting under the loads specified in paragraph (a) of this section.
 
-\(c\) Under the emergency landing conditions of §27.561, cargo and baggage compartments must—
+\(c\) Under the emergency landing conditions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]], cargo and baggage compartments must—
 
 \(1\) Be positioned so that if the contents break loose they are unlikely to cause injury to the occupants or restrict any of the escape facilities provided for use after an emergency landing; or
 
-\(2\) Have sufficient strength to withstand the conditions specified in §27.561 including the means of restraint, and their attachments, required by paragraph (b) of this section. Sufficient strength must be provided for the maximum authorized weight of cargo and baggage at the critical loading distribution.
+\(2\) Have sufficient strength to withstand the conditions specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]] including the means of restraint, and their attachments, required by paragraph (b) of this section. Sufficient strength must be provided for the maximum authorized weight of cargo and baggage at the critical loading distribution.
 
 \(d\) If cargo compartment lamps are installed, each lamp must be installed so as to prevent contact between lamp bulb and cargo.
 
@@ -2058,13 +2058,13 @@ Cockpit controls must be designed so that they operate in accordance with the fo
 
 ### §27.801   Ditching.
 
-\(a\) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and §§27.807(d), 27.1411 and 27.1415.
+\(a\) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.807   Emergency exits.|§27.807]](d), 27.1411 and 27.1415.
 
 \(b\) Each practicable design measure, compatible with the general characteristics of the rotorcraft, must be taken to minimize the probability that in an emergency landing on water, the behavior of the rotorcraft would cause immediate injury to the occupants or would make it impossible for them to escape.
 
 \(c\) The probable behavior of the rotorcraft in a water landing must be investigated by model tests or by comparison with rotorcraft of similar configuration for which the ditching characteristics are known. Scoops, flaps, projections, and any other factor likely to affect the hydrodynamic characteristics of the rotorcraft must be considered.
 
-\(d\) It must be shown that, under reasonably probable water conditions, the flotation time and trim of the rotorcraft will allow the occupants to leave the rotorcraft and enter the life rafts required by §27.1415. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the rotorcraft has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume.
+\(d\) It must be shown that, under reasonably probable water conditions, the flotation time and trim of the rotorcraft will allow the occupants to leave the rotorcraft and enter the life rafts required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1415   Ditching equipment.|§27.1415]]. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the rotorcraft has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume.
 
 \(e\) Unless the effects of the collapse of external doors and windows are accounted for in the investigation of the probable behavior of the rotorcraft in a water landing (as prescribed in paragraphs (c) and (d) of this section), the external doors and windows must be designed to withstand the probable maximum local pressures.
 
@@ -2168,7 +2168,7 @@ For each compartment to be used by the crew or passengers—
 
 \(3\) Easily disassembled for inspection.
 
-\(c\) *Combustion heater fire protection.* Except for heaters which incorporate designs to prevent hazards in the event of fuel leakage in the heater fuel system, fire within the ventilating air passage, or any other heater malfunction, each heater zone must incorporate the fire protection features of the applicable requirements of §§27.1183, 27.1185, 27.1189, 27.1191, and be provided with—
+\(c\) *Combustion heater fire protection.* Except for heaters which incorporate designs to prevent hazards in the event of fuel leakage in the heater fuel system, fire within the ventilating air passage, or any other heater malfunction, each heater zone must incorporate the fire protection features of the applicable requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1183   Lines, fittings, and components.|§27.1183]], 27.1185, 27.1189, 27.1191, and be provided with—
 
 \(1\) Approved, quick-acting fire detectors in numbers and locations ensuring prompt detection of fire in the heater region.
 
@@ -2222,7 +2222,7 @@ For each compartment to be used by the crew or passengers—
 
 \(2\) As a result of the malfunction of any other component.
 
-\(i\) *Heater exhaust.* Each heater exhaust system must meet the requirements of §§27.1121 and 27.1123.
+\(i\) *Heater exhaust.* Each heater exhaust system must meet the requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1121   General.|§27.1121]] and 27.1123.
 
 \(1\) Each exhaust shroud must be sealed so that no flammable fluids or hazardous quantities of vapors can reach the exhaust system through joints.
 
@@ -2272,7 +2272,7 @@ Each part of the structure, controls, rotor mechanism, and other parts essential
 
 ### §27.865   External loads.
 
-\(a\) It must be shown by analysis, test, or both, that the rotorcraft external load attaching means for rotorcraft-load combinations to be used for nonhuman external cargo applications can withstand a limit static load equal to 2.5, or some lower load factor approved under §§27.337 through 27.341, multiplied by the maximum external load for which authorization is requested. It must be shown by analysis, test, or both that the rotorcraft external load attaching means and corresponding personnel carrying device system for rotorcraft-load combinations to be used for human external cargo applications can withstand a limit static load equal to 3.5 or some lower load factor, not less than 2.5, approved under §§27.337 through 27.341, multiplied by the maximum external load for which authorization is requested. The load for any rotorcraft-load combination class, for any external cargo type, must be applied in the vertical direction. For jettisonable external loads of any applicable external cargo type, the load must also be applied in any direction making the maximum angle with the vertical that can be achieved in service but not less than 30°. However, the 30° angle may be reduced to a lesser angle if—
+\(a\) It must be shown by analysis, test, or both, that the rotorcraft external load attaching means for rotorcraft-load combinations to be used for nonhuman external cargo applications can withstand a limit static load equal to 2.5, or some lower load factor approved under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.337   Limit maneuvering load factor.|§27.337]] through 27.341, multiplied by the maximum external load for which authorization is requested. It must be shown by analysis, test, or both that the rotorcraft external load attaching means and corresponding personnel carrying device system for rotorcraft-load combinations to be used for human external cargo applications can withstand a limit static load equal to 3.5 or some lower load factor, not less than 2.5, approved under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.337   Limit maneuvering load factor.|§27.337]] through 27.341, multiplied by the maximum external load for which authorization is requested. The load for any rotorcraft-load combination class, for any external cargo type, must be applied in the vertical direction. For jettisonable external loads of any applicable external cargo type, the load must also be applied in any direction making the maximum angle with the vertical that can be achieved in service but not less than 30°. However, the 30° angle may be reduced to a lesser angle if—
 
 \(1\) An operating limitation is established limiting external load operations to such angles for which compliance with this paragraph has been shown; or
 
@@ -2314,9 +2314,9 @@ Each part of the structure, controls, rotor mechanism, and other parts essential
 
 \(d\) The critically configured jettisonable external loads must be shown by a combination of analysis, ground tests, and flight tests to be both transportable and releasable throughout the approved operational envelope without hazard to the rotorcraft during normal flight conditions. In addition, these external loads must be shown to be releasable without hazard to the rotorcraft during emergency flight conditions.
 
-\(e\) A placard or marking must be installed next to the external-load attaching means clearly stating any operational limitations and the maximum authorized external load as demonstrated under §27.25 and this section.
+\(e\) A placard or marking must be installed next to the external-load attaching means clearly stating any operational limitations and the maximum authorized external load as demonstrated under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]] and this section.
 
-\(f\) The fatigue evaluation of §27.571 of this part does not apply to rotorcraft-load combinations to be used for nonhuman external cargo except for the failure of critical structural elements that would result in a hazard to the rotorcraft. For rotorcraft-load combinations to be used for human external cargo, the fatigue evaluation of §27.571 of this part applies to the entire quick release and personnel carrying device structural systems and their attachments.
+\(f\) The fatigue evaluation of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]] of this part does not apply to rotorcraft-load combinations to be used for nonhuman external cargo except for the failure of critical structural elements that would result in a hazard to the rotorcraft. For rotorcraft-load combinations to be used for human external cargo, the fatigue evaluation of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]] of this part applies to the entire quick release and personnel carrying device structural systems and their attachments.
 
 \[Amdt. 27-11, 41 FR 55469, Dec. 20, 1976, as amended by Amdt. 27-26, 55 FR 8001, Mar. 6, 1990; Amdt. 27-36, 64 FR 43019, Aug. 6, 1999\]
 
@@ -2358,7 +2358,7 @@ Ballast provisions must be designed and constructed to prevent inadvertent shift
 
 \(c\) The installation must comply with—
 
-\(1\) The installation instructions provided under §33.5 of this chapter; and
+\(1\) The installation instructions provided under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]] of this chapter; and
 
 \(2\) The applicable provisions of this subpart.
 
@@ -2368,7 +2368,7 @@ Ballast provisions must be designed and constructed to prevent inadvertent shift
 
 ### §27.903   Engines.
 
-\(a\) *Engine type certification.* Each engine must have an approved type certificate. Reciprocating engines for use in helicopters must be qualified in accordance with §33.49(d) of this chapter or be otherwise approved for the intended usage.
+\(a\) *Engine type certification.* Each engine must have an approved type certificate. Reciprocating engines for use in helicopters must be qualified in accordance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.49   Endurance test.|§33.49]](d) of this chapter or be otherwise approved for the intended usage.
 
 \(b\) *Engine or drive system cooling fan blade protection.* (1) If an engine or rotor drive system cooling fan is installed, there must be a means to protect the rotorcraft and allow a safe landing if a fan blade fails. This must be shown by showing that—
 
@@ -2386,7 +2386,7 @@ Ballast provisions must be designed and constructed to prevent inadvertent shift
 
 \(B\) For fans driven by the rotor drive system, the maximum rotor drive system rotational speed to be expected in service, including transients.
 
-\(2\) Unless a fatigue evaluation under §27.571 is conducted, it must be shown that cooling fan blades are not operating at resonant conditions within the operating limits of the rotorcraft.
+\(2\) Unless a fatigue evaluation under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]] is conducted, it must be shown that cooling fan blades are not operating at resonant conditions within the operating limits of the rotorcraft.
 
 \(c\) *Turbine engine installation.* For turbine engine installations, the powerplant systems associated with engine control devices, systems, and instrumentation must be designed to give reasonable assurance that those engine operating limitations that adversely affect turbine rotor structural integrity will not be exceeded in service.
 
@@ -2478,7 +2478,7 @@ If there is a means to control the rotation of the rotor drive system independen
 
 \(1\) Under conditions associated with all engines operating, make 200 applications, for 10 seconds each, or torque that is at least equal to the lesser of—
 
-\(i\) The maximum torque used in meeting §27.923 plus 10 percent; or
+\(i\) The maximum torque used in meeting [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.923   Rotor drive system and control mechanism tests.|§27.923]] plus 10 percent; or
 
 \(ii\) The maximum attainable torque output of the engines, assuming that torque limiting devices, if any, function properly.
 
@@ -2594,9 +2594,9 @@ Unless other means acceptable to the Administrator are employed to minimize the 
 
 \(v\) No breakaway coupling design may allow the release of fuel once the coupling has performed its intended function.
 
-\(2\) All individual breakaway couplings, coupling fuel feed systems, or equivalent means must be designed, tested, installed, and maintained so that inadvertent fuel shutoff in flight is improbable in accordance with §27.955(a) and must comply with the fatigue evaluation requirements of §27.571 without leaking.
+\(2\) All individual breakaway couplings, coupling fuel feed systems, or equivalent means must be designed, tested, installed, and maintained so that inadvertent fuel shutoff in flight is improbable in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.955   Fuel flow.|§27.955]](a) and must comply with the fatigue evaluation requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]] without leaking.
 
-\(3\) Alternate, equivalent means to the use of breakaway couplings must not create a survivable impact-induced load on the fuel line to which it is installed greater than 25 to 50 percent of the ultimate load (strength) of the weakest component in the line and must comply with the fatigue requirements of §27.571 without leaking.
+\(3\) Alternate, equivalent means to the use of breakaway couplings must not create a survivable impact-induced load on the fuel line to which it is installed greater than 25 to 50 percent of the ultimate load (strength) of the weakest component in the line and must comply with the fatigue requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]] without leaking.
 
 \(d\) *Frangible or deformable structural attachments.* Unless hazardous relative motion of fuel tanks and fuel system components to local rotorcraft structure is demonstrated to be extremely improbable in an otherwise survivable impact, frangible or locally deformable attachments of fuel tanks and fuel system components to local rotorcraft structure must be used. The attachment of fuel tanks and fuel system components to local rotorcraft structure, whether frangible or locally deformable, must be designed such that its separation or relative local deformation will occur without rupture or local tear-out of the fuel tank or fuel system components that will cause fuel leakage. The ultimate strength of frangible or deformable attachments must be as follows:
 
@@ -2604,7 +2604,7 @@ Unless other means acceptable to the Administrator are employed to minimize the 
 
 \(2\) A frangible or locally deformable attachment must separate or locally deform as intended whenever its ultimate load (as defined in paragraph (d)(1) of this section) is applied in the modes most likely to occur.
 
-\(3\) All frangible or locally deformable attachments must comply with the fatigue requirements of §27.571.
+\(3\) All frangible or locally deformable attachments must comply with the fatigue requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.571   Fatigue evaluation of flight structure.|§27.571]].
 
 \(e\) *Separation of fuel and ignition sources.* To provide maximum crash resistance, fuel must be located as far as practicable from all occupiable areas and from all potential ignition sources.
 
@@ -2620,7 +2620,7 @@ Unless other means acceptable to the Administrator are employed to minimize the 
 
 \(b\) If a single fuel tank is used on a multiengine rotorcraft, the following must be provided:
 
-\(1\) Independent tank outlets for each engine, each incorporating a shutoff valve at the tank. This shutoff valve may also serve as the firewall shutoff valve required by §27.995 if the line between the valve and the engine compartment does not contain a hazardous amount of fuel that can drain into the engine compartment.
+\(1\) Independent tank outlets for each engine, each incorporating a shutoff valve at the tank. This shutoff valve may also serve as the firewall shutoff valve required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.995   Fuel valves.|§27.995]] if the line between the valve and the engine compartment does not contain a hazardous amount of fuel that can drain into the engine compartment.
 
 \(2\) At least two vents arranged to minimize the probability of both vents becoming obstructed simultaneously.
 
@@ -2642,11 +2642,11 @@ The fuel system must be designed and arranged to prevent the ignition of fuel va
 
 ### §27.955   Fuel flow.
 
-\(a\) *General.* The fuel system for each engine must be shown to provide the engine with at least 100 percent of the fuel required under each operating and maneuvering condition to be approved for the rotorcraft including, as applicable, the fuel required to operate the engine(s) under the test conditions required by §27.927. Unless equivalent methods are used, compliance must be shown by test during which the following provisions are met except that combinations of conditions which are shown to be improbable need not be considered.
+\(a\) *General.* The fuel system for each engine must be shown to provide the engine with at least 100 percent of the fuel required under each operating and maneuvering condition to be approved for the rotorcraft including, as applicable, the fuel required to operate the engine(s) under the test conditions required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.927   Additional tests.|§27.927]]. Unless equivalent methods are used, compliance must be shown by test during which the following provisions are met except that combinations of conditions which are shown to be improbable need not be considered.
 
 \(1\) The fuel pressure, corrected for critical accelerations, must be within the limits specified by the engine type certificate data sheet.
 
-\(2\) The fuel level in the tank may not exceed that established as the unusable fuel supply for that tank under §27.959, plus the minimum additional fuel necessary to conduct the test.
+\(2\) The fuel level in the tank may not exceed that established as the unusable fuel supply for that tank under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.959   Unusable fuel supply.|§27.959]], plus the minimum additional fuel necessary to conduct the test.
 
 \(3\) The fuel head between the tank outlet and the engine inlet must be critical with respect to rotorcraft flight attitudes.
 
@@ -2656,7 +2656,7 @@ The fuel system must be designed and arranged to prevent the ignition of fuel va
 
 \(6\) Critical values of fuel properties which adversely affect fuel flow must be applied.
 
-\(7\) The fuel filter required by §27.997 must be blocked to the degree necessary to simulate the accumulation of fuel contamination required to activate the indicator required by §27.1305(q).
+\(7\) The fuel filter required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.997   Fuel strainer or filter.|§27.997]] must be blocked to the degree necessary to simulate the accumulation of fuel contamination required to activate the indicator required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1305   Powerplant instruments.|§27.1305]](q).
 
 \(b\) *Fuel transfer systems.* If normal operation of the fuel system requires fuel to be transferred to an engine feed tank, the transfer must occur automatically via a system which has been shown to maintain the fuel level in the engine feed tank within acceptable limits during flight or surface operation of the rotorcraft.
 
@@ -2670,7 +2670,7 @@ The unusable fuel supply for each tank must be established as not less than the 
 
 ### §27.961   Fuel system hot weather operation.
 
-Each suction lift fuel system and other fuel systems with features conducive to vapor formation must be shown by test to operate satisfactorily (within certification limits) when using fuel at a temperature of 110 °F under critical operating conditions including, if applicable, the engine operating conditions defined by §27.927 (b)(1) and (b)(2).
+Each suction lift fuel system and other fuel systems with features conducive to vapor formation must be shown by test to operate satisfactorily (within certification limits) when using fuel at a temperature of 110 °F under critical operating conditions including, if applicable, the engine operating conditions defined by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.927   Additional tests.|§27.927]] (b)(1) and (b)(2).
 
 \[Amdt. 27-23, 53 FR 34212, Sept. 2, 1988\]
 
@@ -2686,7 +2686,7 @@ Each suction lift fuel system and other fuel systems with features conducive to 
 
 \(e\) The maximum exposed surface temperature of any component in the fuel tank must be less, by a safe margin as determined by the Administrator, than the lowest expected autoignition temperature of the fuel or fuel vapor in the tank. Compliance with this requirement must be shown under all operating conditions and under all failure or malfunction conditions of all components inside the tank.
 
-\(f\) Each fuel tank installed in personnel compartments must be isolated by fume-proof and fuel-proof enclosures that are drained and vented to the exterior of the rotorcraft. The design and construction of the enclosures must provide necessary protection for the tank, must be crash resistant during a survivable impact in accordance with §27.952, and must be adequate to withstand loads and abrasions to be expected in personnel compartments.
+\(f\) Each fuel tank installed in personnel compartments must be isolated by fume-proof and fuel-proof enclosures that are drained and vented to the exterior of the rotorcraft. The design and construction of the enclosures must provide necessary protection for the tank, must be crash resistant during a survivable impact in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.952   Fuel system crash resistance.|§27.952]], and must be adequate to withstand loads and abrasions to be expected in personnel compartments.
 
 \(g\) Each flexible fuel tank bladder or liner must be approved or shown to be suitable for the particular application and must be puncture resistant. Puncture resistance must be shown by meeting the TSO-C80, paragraph 16.0, requirements using a minimum puncture force of 370 pounds.
 
@@ -2746,7 +2746,7 @@ Each suction lift fuel system and other fuel systems with features conducive to 
 
 \(b\) Any spaces adjacent to tank surfaces must be adequately ventilated to avoid accumulation of fuel or fumes in those spaces due to minor leakage. If the tank is in a sealed compartment, ventilation may be limited to drain holes that prevent clogging and excessive pressure resulting from altitude changes. If flexible tank liners are installed, the venting arrangement for the spaces between the liner and its container must maintain the proper relationship to tank vent pressures for any expected flight condition.
 
-\(c\) The location of each tank must meet the requirements of §27.1185 (a) and (c).
+\(c\) The location of each tank must meet the requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1185   Flammable fluids.|§27.1185]] (a) and (c).
 
 \(d\) No rotorcraft skin immediately adjacent to a major air outlet from the engine compartment may act as the wall of the integral tank.
 
@@ -2766,15 +2766,15 @@ Each fuel tank or each group of fuel tanks with interconnected vent systems must
 
 \(2\) Each fuel tank drain is located so that in any ground attitude to be expected in service, water will drain from all parts of the tank to the sediment bowl or chamber.
 
-\(b\) Each sump, sediment bowl, and sediment chamber drain required by this section must comply with the drain provisions of §27.999(b).
+\(b\) Each sump, sediment bowl, and sediment chamber drain required by this section must comply with the drain provisions of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.999   Fuel system drains.|§27.999]](b).
 
 \[Amdt. 27-23, 53 FR 34213, Sept. 2, 1988\]
 
 ### §27.973   Fuel tank filler connection.
 
-\(a\) Each fuel tank filler connection must prevent the entrance of fuel into any part of the rotorcraft other than the tank itself during normal operations and must be crash resistant during a survivable impact in accordance with §27.952(c). In addition—
+\(a\) Each fuel tank filler connection must prevent the entrance of fuel into any part of the rotorcraft other than the tank itself during normal operations and must be crash resistant during a survivable impact in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.952   Fuel system crash resistance.|§27.952]](c). In addition—
 
-\(1\) Each filler must be marked as prescribed in §27.1557(c)(1);
+\(1\) Each filler must be marked as prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1557   Miscellaneous markings and placards.|§27.1557]](c)(1);
 
 \(2\) Each recessed filler connection that can retain any appreciable quantity of fuel must have a drain that discharges clear of the entire rotorcraft; and
 
@@ -2812,7 +2812,7 @@ Each fuel tank or each group of fuel tanks with interconnected vent systems must
 
 ### §27.991   Fuel pumps.
 
-Compliance with §27.955 may not be jeopardized by failure of—
+Compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.955   Fuel flow.|§27.955]] may not be jeopardized by failure of—
 
 \(a\) Any one pump except pumps that are approved and installed as parts of a type certificated engine; or
 
@@ -2928,13 +2928,13 @@ Each oil tank must be designed and installed so that it can withstand, without l
 
 \(1\) Each oil strainer or filter that has a bypass must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter completely blocked.
 
-\(2\) The oil strainer or filter must have the capacity (with respect to operating limitations established for the engine) to ensure that engine oil system functioning is not impaired when the oil is contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine under Part 33 of this chapter.
+\(2\) The oil strainer or filter must have the capacity (with respect to operating limitations established for the engine) to ensure that engine oil system functioning is not impaired when the oil is contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|Part 33 of this chapter]].
 
 \(3\) The oil strainer or filter, unless it is installed at an oil tank outlet, must incorporate a means to indicate contamination before it reaches the capacity established in accordance with paragraph (a)(2) of this section.
 
 \(4\) The bypass of a strainer or filter must be constructed and installed so that the release of collected contaminants is minimized by appropriate location of the bypass to ensure that collected contaminants are not in the bypass flow path.
 
-\(5\) An oil strainer or filter that has no bypass, except one that is installed at an oil tank outlet, must have a means to connect it to the warning system required in §27.1305(r).
+\(5\) An oil strainer or filter that has no bypass, except one that is installed at an oil tank outlet, must have a means to connect it to the warning system required in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1305   Powerplant instruments.|§27.1305]](r).
 
 \(b\) Each oil strainer or filter in a powerplant installation using reciprocating engines must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter element completely blocked.
 
@@ -2954,7 +2954,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(a\) The lubrication system for components of the rotor drive system that require continuous lubrication must be sufficiently independent of the lubrication systems of the engine(s) to ensure lubrication during autorotation.
 
-\(b\) Pressure lubrication systems for transmissions and gearboxes must comply with the engine oil system requirements of §§27.1013 (except paragraph (c)), 27.1015, 27.1017, 27.1021, and 27.1337(d).
+\(b\) Pressure lubrication systems for transmissions and gearboxes must comply with the engine oil system requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1013   Oil tanks.|§27.1013]] (except paragraph (c)), 27.1015, 27.1017, 27.1021, and 27.1337(d).
 
 \(c\) Each pressure lubrication system must have an oil strainer or filter through which all of the lubricant flows and must—
 
@@ -2970,7 +2970,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(d\) For each lubricant tank or sump outlet supplying lubrication to rotor drive systems and rotor drive system components, a screen must be provided to prevent entrance into the lubrication system of any object that might obstruct the flow of lubricant from the outlet to the filter required by paragraph (c) of this section. The requirements of paragraph (c) do not apply to screens installed at lubricant tank or sump outlets.
 
-\(e\) Splash-type lubrication systems for rotor drive system gearboxes must comply with §§27.1021 and 27.1337(d).
+\(e\) Splash-type lubrication systems for rotor drive system gearboxes must comply with §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1021   Oil system drains.|§27.1021]] and 27.1337(d).
 
 \[Amdt. 27-23, 53 FR 34213, Sept. 2, 1988, as amended by Amdt. 27-37, 64 FR 45095, Aug. 18, 1999\]
 
@@ -2986,7 +2986,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 ### §27.1043   Cooling tests.
 
-\(a\) *General.* For the tests prescribed in §27.1041(b), the following apply:
+\(a\) *General.* For the tests prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1041   General.|§27.1041]](b), the following apply:
 
 \(1\) If the tests are conducted under conditions deviating from the maximum ambient atmospheric temperature specified in paragraph (b) of this section, the recorded powerplant temperatures must be corrected under paragraphs (c) and (d) of this section unless a more rational correction method is applicable.
 
@@ -2994,7 +2994,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(3\) For reciprocating engines, the fuel used during the cooling tests must be of the minimum grade approved for the engines, and the mixture settings must be those normally used in the flight stages for which the cooling tests are conducted.
 
-\(4\) The test procedures must be as prescribed in §27.1045.
+\(4\) The test procedures must be as prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1045   Cooling test procedures.|§27.1045]].
 
 \(b\) *Maximum ambient atmospheric temperature.* A maximum ambient atmospheric temperature corresponding to sea level conditions of at least 100 degrees F. must be established. The assumed temperature lapse rate is 3.6 degrees F. per thousand feet of altitude above sea level until a temperature of −69.7 degrees F. is reached, above which altitude the temperature is considered constant at −69.7 degrees F. However, for winterization installations, the applicant may select a maximum ambient atmospheric temperature corresponding to sea level conditions of less than 100 degrees F.
 
@@ -3074,7 +3074,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 \(b\) *Turbine engine.* (1) It must be shown that each turbine engine and its air inlet system can operate throughout the flight power range of the engine (including idling)—
 
-\(i\) Without accumulating ice on engine or inlet system components that would adversely affect engine operation or cause a serious loss of power under the icing conditions specified in appendix C of Part 29 of this chapter; and
+\(i\) Without accumulating ice on engine or inlet system components that would adversely affect engine operation or cause a serious loss of power under the icing conditions specified in appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|Part 29 of this chapter]]; and
 
 \(ii\) In snow, both falling and blowing, without adverse effect on engine operation, within the limitations established for the rotorcraft.
 
@@ -3124,7 +3124,7 @@ For each exhaust system—
 
 ### §27.1141   Powerplant controls: general.
 
-\(a\) Powerplant controls must be located and arranged under §27.777 and marked under §27.1555.
+\(a\) Powerplant controls must be located and arranged under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.777   Cockpit controls.|§27.777]] and marked under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1555   Control markings.|§27.1555]].
 
 \(b\) Each flexible powerplant control must be approved.
 
@@ -3272,7 +3272,7 @@ Each compartment containing any part of the powerplant installation must have pr
 
 \(1\) Essential to a controlled landing: and
 
-\(2\) Not protected under §27.861.
+\(2\) Not protected under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.861   Fire protection of structure, controls, and other parts.|§27.861]].
 
 \(b\) Each auxiliary power unit and combustion heater, and any other combustion equipment to be used in flight, must be isolated from the rest of the rotorcraft by firewalls, shrouds, or equivalent means.
 
@@ -3352,7 +3352,7 @@ The following are the required powerplant instruments:
 
 \(2\) Rotorcraft with cooling shutters; and
 
-\(3\) Rotorcraft for which compliance with §27.1043 is shown in any condition other than the most critical flight condition with respect to cooling.
+\(3\) Rotorcraft for which compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1043   Cooling tests.|§27.1043]] is shown in any condition other than the most critical flight condition with respect to cooling.
 
 \(c\) A fuel pressure indicator, for each pump-fed engine.
 
@@ -3384,17 +3384,17 @@ The following are the required powerplant instruments:
 
 \(2\) Be independent of the normal fuel quantity indicating system.
 
-\(m\) Means to indicate to the flightcrew the failure of any fuel pump installed to show compliance with §27.955.
+\(m\) Means to indicate to the flightcrew the failure of any fuel pump installed to show compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.955   Fuel flow.|§27.955]].
 
 \(n\) A gas temperature indicator for each turbine engine.
 
-\(o\) Means to enable the pilot to determine the torque of each turboshaft engine, if a torque limitation is established for that engine under §27.1521(e).
+\(o\) Means to enable the pilot to determine the torque of each turboshaft engine, if a torque limitation is established for that engine under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1521   Powerplant limitations.|§27.1521]](e).
 
 \(p\) For each turbine engine, an indicator to indicate the functioning of the powerplant ice protection system.
 
-\(q\) An indicator for the fuel filter required by §27.997 to indicate the occurrence of contamination of the filter at the degree established by the applicant in compliance with §27.955.
+\(q\) An indicator for the fuel filter required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.997   Fuel strainer or filter.|§27.997]] to indicate the occurrence of contamination of the filter at the degree established by the applicant in compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.955   Fuel flow.|§27.955]].
 
-\(r\) For each turbine engine, a warning means for the oil strainer or filter required by §27.1019, if it has no bypass, to warn the pilot of the occurrence of contamination of the strainer or filter before it reaches the capacity established in accordance with §27.1019(a)(2).
+\(r\) For each turbine engine, a warning means for the oil strainer or filter required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1019   Oil strainer or filter.|§27.1019]], if it has no bypass, to warn the pilot of the occurrence of contamination of the strainer or filter before it reaches the capacity established in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1019   Oil strainer or filter.|§27.1019]](a)(2).
 
 \(s\) An indicator to indicate the functioning of any selectable or controllable heater used to prevent ice clogging of fuel system components.
 
@@ -3410,7 +3410,7 @@ The following are the required powerplant instruments:
 
 \(4\) Has a means to verify proper operation of the system or device.
 
-\(v\) Warning or caution devices to signal to the flight crew when ferromagnetic particles are detected by the chip detector required by §27.1337(e).
+\(v\) Warning or caution devices to signal to the flight crew when ferromagnetic particles are detected by the chip detector required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1337   Powerplant instruments.|§27.1337]](e).
 
 \[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-9, 39 FR 35462, Oct. 1, 1974; Amdt. 27-23, 53 FR 34214, Sept. 2, 1988; Amdt. 27-29, 59 FR 47767, Sept. 16, 1994; Amdt. 27-37, 64 FR 45095, Aug. 18, 1999; 64 FR 47563, Aug. 31, 1999\]
 
@@ -3468,7 +3468,7 @@ The following is the required miscellaneous equipment:
 
 \(d\) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of a rotorcraft may be designed and installed without meeting the provisions of paragraph (a) provided—
 
-\(1\) The system has previously been shown to comply with special conditions for HIRF, prescribed under §21.16, issued before December 1, 2007;
+\(1\) The system has previously been shown to comply with special conditions for HIRF, prescribed under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.16   Special conditions.|§21.16]], issued before December 1, 2007;
 
 \(2\) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and
 
@@ -3548,7 +3548,7 @@ If warning, caution or advisory lights are installed in the cockpit, they must, 
 
 \(2\) The compensated installation may not have a deviation, in level flight, greater than 10 degrees on any heading.
 
-\(b\) A magnetic nonstabilized direction indicator may deviate more than 10 degrees due to the operation of electrically powered systems such as electrically heated windshields if either a magnetic stabilized direction indicator, which does not have a deviation in level flight greater than 10 degrees on any heading, or a gyroscopic direction indicator, is installed. Deviations of a magnetic nonstabilized direction indicator of more than 10 degrees must be placarded in accordance with §27.1547(e).
+\(b\) A magnetic nonstabilized direction indicator may deviate more than 10 degrees due to the operation of electrically powered systems such as electrically heated windshields if either a magnetic stabilized direction indicator, which does not have a deviation in level flight greater than 10 degrees on any heading, or a gyroscopic direction indicator, is installed. Deviations of a magnetic nonstabilized direction indicator of more than 10 degrees must be placarded in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1547   Magnetic direction indicator.|§27.1547]](e).
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -3596,7 +3596,7 @@ If a flight director system is installed, means must be provided to indicate to 
 
 \(b\) *Fuel quantity indicator.* Each fuel quantity indicator must be installed to clearly indicate to the flight crew the quantity of fuel in each tank in flight. In addition—
 
-\(1\) Each fuel quantity indicator must be calibrated to read “zero” during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply determined under §27.959;
+\(1\) Each fuel quantity indicator must be calibrated to read “zero” during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.959   Unusable fuel supply.|§27.959]];
 
 \(2\) When two or more tanks are closely interconnected by a gravity feed system and vented, and when it is impossible to feed from each tank separately, at least one fuel quantity indicator must be installed; and
 
@@ -3612,7 +3612,7 @@ If a flight director system is installed, means must be provided to indicate to 
 
 \(e\) Rotor drive system transmissions and gearboxes utilizing ferromagnetic materials must be equipped with chip detectors designed to indicate the presence of ferromagnetic particles resulting from damage or excessive wear. Chip detectors must—
 
-\(1\) Be designed to provide a signal to the device required by §27.1305(v) and be provided with a means to allow crewmembers to check, in flight, the function of each detector electrical circuit and signal.
+\(1\) Be designed to provide a signal to the device required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1305   Powerplant instruments.|§27.1305]](v) and be provided with a means to allow crewmembers to check, in flight, the function of each detector electrical circuit and signal.
 
 \(2\) \[Reserved\]
 
@@ -3736,7 +3736,7 @@ If a flight director system is installed, means must be provided to indicate to 
 
 \(b\) Each cable that would overheat in the event of circuit overload or fault must be at least flame resistant and may not emit dangerous quantities of toxic fumes.
 
-\(c\) Insulation on electrical wire and cable installed in the rotorcraft must be self-extinguishing when tested in accordance with appendix F, part I(a)(3), of part 25 of this chapter.
+\(c\) Insulation on electrical wire and cable installed in the rotorcraft must be self-extinguishing when tested in accordance with appendix F, part I(a)(3), of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]].
 
 \[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-35, 63 FR 43285, Aug. 12, 1998\]
 
@@ -3784,7 +3784,7 @@ The instrument lights must—
 
 ### §27.1385   Position light system installation.
 
-\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section, and each system as a whole must meet the requirements of §§27.1387 through 27.1397.
+\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section, and each system as a whole must meet the requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1387   Position light system dihedral angles.|§27.1387]] through 27.1397.
 
 \(b\) *Forward position lights.* Forward position lights must consist of a red and a green light spaced laterally as far apart as practicable and installed forward on the rotorcraft so that, with the rotorcraft in the normal flying position, the red light is on the left side and the green light is on the right side. Each light must be approved.
 
@@ -3804,7 +3804,7 @@ The instrument lights must—
 
 \(d\) Dihedral angle *A* (aft) is formed by two intersecting vertical planes making angles of 70 degrees to the right and to the left, respectively, to a vertical plane passing through the longitudinal axis, as viewed when looking aft along the longitudinal axis.
 
-\(e\) If the rear position light, when mounted as far aft as practicable in accordance with §25.1385(c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
+\(e\) If the rear position light, when mounted as far aft as practicable in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1385   Position light system installation.|§25.1385]](c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
 
 (49 U.S.C. 1655(c))
 
@@ -3816,11 +3816,11 @@ The instrument lights must—
 
 \(b\) *Forward and rear position lights.* The light distribution and intensities of forward and rear position lights must be expressed in terms of minimum intensities in the horizontal plane, minimum intensities in any vertical plane, and maximum intensities in overlapping beams, within dihedral angles *L, R,* and *A,* and must meet the following requirements:
 
-\(1\) *Intensities in the horizontal plane.* Each intensity in the horizontal plane (the plane containing the longitudinal axis of the rotorcraft and perpendicular to the plane of symmetry of the rotorcraft) must equal or exceed the values in §27.1391.
+\(1\) *Intensities in the horizontal plane.* Each intensity in the horizontal plane (the plane containing the longitudinal axis of the rotorcraft and perpendicular to the plane of symmetry of the rotorcraft) must equal or exceed the values in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§27.1391]].
 
-\(2\) *Intensities in any vertical plane.* Each intensity in any vertical plane (the plane perpendicular to the horizontal plane) must equal or exceed the appropriate value in §27.1393, where *I* is the minimum intensity prescribed in §27.1391 for the corresponding angles in the horizontal plane.
+\(2\) *Intensities in any vertical plane.* Each intensity in any vertical plane (the plane perpendicular to the horizontal plane) must equal or exceed the appropriate value in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1393   Minimum intensities in any vertical plane of forward and rear position lights.|§27.1393]], where *I* is the minimum intensity prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§27.1391]] for the corresponding angles in the horizontal plane.
 
-\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values in §27.1395, except that higher intensities in overlaps may be used with main beam intensities substantially greater than the minima specified in §§27.1391 and 27.1393, if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity. When the peak intensity of the forward position lights is greater than 100 candles, the maximum overlap intensities between them may exceed the values in §27.1395 if the overlap intensity in Area A is not more than 10 percent of peak position light intensity and the overlap intensity in Area B is not more than 2.5 percent of peak position light intensity.
+\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§27.1395]], except that higher intensities in overlaps may be used with main beam intensities substantially greater than the minima specified in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§27.1391]] and 27.1393, if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity. When the peak intensity of the forward position lights is greater than 100 candles, the maximum overlap intensities between them may exceed the values in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§27.1395]] if the overlap intensity in Area A is not more than 10 percent of peak position light intensity and the overlap intensity in Area B is not more than 2.5 percent of peak position light intensity.
 
 ### §27.1391   Minimum intensities in the horizontal plane of forward and rear position lights.
 
@@ -3856,7 +3856,7 @@ Each position light intensity must equal or exceed the applicable values in the 
 
 ### §27.1395   Maximum intensities in overlapping beams of forward and rear position lights.
 
-No position light intensity may exceed the applicable values in the following table, except as provided in §27.1389(b)(3).
+No position light intensity may exceed the applicable values in the following table, except as provided in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1389   Position light distribution and intensities.|§27.1389]](b)(3).
 
 <div>
 
@@ -3938,7 +3938,7 @@ Where *y*c is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(c\) *Flashing characteristics.* The arrangement of the system, that is, the number of light sources, beam width, speed of rotation, and other characteristics, must give an effective flash frequency of not less than 40, nor more than 100, cycles per minute. The effective flash frequency is the frequency at which the rotorcraft's complete anticollision light system is observed from a distance, and applies to each sector of light including any overlaps that exist when the system consists of more than one light source. In overlaps, flash frequencies may exceed 100, but not 180, cycles per minute.
 
-\(d\) *Color.* Each anticollision light must be aviation red and must meet the applicable requirements of §27.1397.
+\(d\) *Color.* Each anticollision light must be aviation red and must meet the applicable requirements of [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1397   Color specifications.|§27.1397]].
 
 \(e\) *Light intensity.* The minimum light intensities in any vertical plane, measured with the red filter (if used) and expressed in terms of “effective” intensities, must meet the requirements of paragraph (f) of this section. The following relation must be assumed:
 
@@ -3970,7 +3970,7 @@ Where *y*c is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(1\) Be arranged so that the equipment is directly accessible and its location is obvious; and
 
-\(2\) Protect the safety equipment from damage caused by being subjected to the inertia loads specified in §27.561.
+\(2\) Protect the safety equipment from damage caused by being subjected to the inertia loads specified in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.561   General.|§27.561]].
 
 \[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-11, 41 FR 55470, Dec. 20, 1976\]
 
@@ -3998,7 +3998,7 @@ Each safety belt must be equipped with a metal to metal latching device.
 
 \(a\) To obtain certification for flight into icing conditions, compliance with this section must be shown.
 
-\(b\) It must be demonstrated that the rotorcraft can be safely operated in the continuous maximum and intermittent maximum icing conditions determined under appendix C of Part 29 of this chapter within the rotorcraft altitude envelope. An analysis must be performed to establish, on the basis of the rotorcraft's operational needs, the adequacy of the ice protection system for the various components of the rotorcraft.
+\(b\) It must be demonstrated that the rotorcraft can be safely operated in the continuous maximum and intermittent maximum icing conditions determined under appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|Part 29 of this chapter]] within the rotorcraft altitude envelope. An analysis must be performed to establish, on the basis of the rotorcraft's operational needs, the adequacy of the ice protection system for the various components of the rotorcraft.
 
 \(c\) In addition to the analysis and physical evaluation prescribed in paragraph (b) of this section, the effectiveness of the ice protection system and its components must be shown by flight tests of the rotorcraft or its components in measured natural atmospheric icing conditions and by one or more of the following tests as found necessary to determine the adequacy of the ice protection system:
 
@@ -4096,7 +4096,7 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 \(a\) Each flight recorder required by the operating rules of Subchapter G of this chapter must be installed so that:
 
-\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of §§27.1323, 27.1325, and 27.1327 of this part, as applicable;
+\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1323   Airspeed indicating system.|§27.1323]], 27.1325, and 27.1327 of this part, as applicable;
 
 \(2\) The vertical acceleration sensor is rigidly attached, and located longitudinally within the approved center of gravity limits of the rotorcraft;
 
@@ -4146,9 +4146,9 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 ### §27.1501   General.
 
-\(a\) Each operating limitation specified in §§27.1503 through 27.1525 and other limitations and information necessary for safe operation must be established.
+\(a\) Each operating limitation specified in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1503   Airspeed limitations: general.|§27.1503]] through 27.1525 and other limitations and information necessary for safe operation must be established.
 
-\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in §§27.1541 through 27.1589.
+\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1541   General.|§27.1541]] through 27.1589.
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -4170,9 +4170,9 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 \(2\) Not more than the lesser of—
 
-\(i\) 0.9 times the maximum forward speeds established under §27.309;
+\(i\) 0.9 times the maximum forward speeds established under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.309   Design limitations.|§27.309]];
 
-\(ii\) 0.9 times the maximum speed shown under §§27.251 and 27.629; or
+\(ii\) 0.9 times the maximum speed shown under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.251   Vibration.|§27.251]] and 27.629; or
 
 \(iii\) 0.9 times the maximum speed substantiated for advancing blade tip mach number effects.
 
@@ -4186,9 +4186,9 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 \(1\) V*NE* (power-off) is not less than a speed midway between the power-on V*NE* and the speed used in meeting the requirements of—
 
-\(i\) §27.65(b) for single engine helicopters; and
+\(i\) [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.65   Climb: all engines operating.|§27.65]](b) for single engine helicopters; and
 
-\(ii\) §27.67 for multiengine helicopters.
+\(ii\) [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.67   Climb: one engine inoperative.|§27.67]] for multiengine helicopters.
 
 \(2\) V*NE* (power-off) is—
 
@@ -4206,7 +4206,7 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 \(a\) *Maximum power-off (autorotation).* The maximum power-off rotor speed must be established so that it does not exceed 95 percent of the lesser of—
 
-\(1\) The maximum design r.p.m. determined under §27.309(b); and
+\(1\) The maximum design r.p.m. determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.309   Design limitations.|§27.309]](b); and
 
 \(2\) The maximum r.p.m. shown during the type tests.
 
@@ -4224,11 +4224,11 @@ The microphone specified in this paragraph must be so located and, if necessary,
 
 \(ii\) The minimum determined by design substantiation; and
 
-\(2\) Not more than a value determined under §27.33(a)(1) and (b)(1).
+\(2\) Not more than a value determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.33   Main rotor speed and pitch limits.|§27.33]](a)(1) and (b)(1).
 
 ### §27.1519   Weight and center of gravity.
 
-The weight and center of gravity limitations determined under §§27.25 and 27.27, respectively, must be established as operating limitations.
+The weight and center of gravity limitations determined under §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]] and 27.27, respectively, must be established as operating limitations.
 
 \[Amdt. 27-2, 33 FR 965, Jan. 26, 1968, as amended by Amdt. 27-21, 49 FR 44435, Nov. 6, 1984\]
 
@@ -4260,7 +4260,7 @@ The weight and center of gravity limitations determined under §§27.25 and 27.2
 
 \(ii\) The maximum value shown during the type tests;
 
-\(2\) The minimum rotational speed shown under the rotor speed requirements in §27.1509(c); and
+\(2\) The minimum rotational speed shown under the rotor speed requirements in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1509   Rotor speed.|§27.1509]](c); and
 
 \(3\) The gas temperature limits for turbine engines over the range of operating and atmospheric conditions for which certification is requested.
 
@@ -4272,11 +4272,11 @@ The weight and center of gravity limitations determined under §§27.25 and 27.2
 
 \(i\) The torque that the rotor drive system is designed to transmit; or
 
-\(ii\) The torque that the main rotor assembly is designed to withstand in showing compliance with §27.547(e).
+\(ii\) The torque that the main rotor assembly is designed to withstand in showing compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.547   Main rotor structure.|§27.547]](e).
 
 \(2\) The limit engine torque established under paragraph (e)(1) of this section may not exceed either torque specified in paragraph (e)(1)(i) or (ii) of this section.
 
-\(f\) *Ambient temperature.* For turbine engines, ambient temperature limitations (including limitations for winterization installations, if applicable) must be established as the maximum ambient atmospheric temperature at which compliance with the cooling provisions of §§27.1041 through 27.1045 is shown.
+\(f\) *Ambient temperature.* For turbine engines, ambient temperature limitations (including limitations for winterization installations, if applicable) must be established as the maximum ambient atmospheric temperature at which compliance with the cooling provisions of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1041   General.|§27.1041]] through 27.1045 is shown.
 
 \(g\) *Two and one-half-minute OEI power operation.* Unless otherwise authorized, the use of 21⁄2 -minute OEI power must be limited to engine failure operation of multiengine, turbine-powered rotorcraft for not longer than 21⁄2 minutes after failure of an engine. The use of 21⁄2 -minute OEI power must also be limited by—
 
@@ -4350,7 +4350,7 @@ The minimum flight crew must be established so that it is sufficient for safe op
 
 \(b\) The accessibility and ease of operation of necessary controls by the appropriate crewmember; and
 
-\(c\) The kinds of operation authorized under §27.1525.
+\(c\) The kinds of operation authorized under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1525   Kinds of operations.|§27.1525]].
 
 ### §27.1525   Kinds of operations.
 
@@ -4378,7 +4378,7 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 \(a\) The rotorcraft must contain—
 
-\(1\) The markings and placards specified in §§27.1545 through 27.1565, and
+\(1\) The markings and placards specified in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1545   Airspeed indicator.|§27.1545]] through 27.1565, and
 
 \(2\) Any additional information, instrument markings, and placards required for the safe operation of rotorcraft with unusual design, operating or handling characteristics.
 
@@ -4534,11 +4534,11 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(a\) *Furnishing information.* A Rotorcraft Flight Manual must be furnished with each rotorcraft, and it must contain the following:
 
-\(1\) Information required by §§27.1583 through 27.1589.
+\(1\) Information required by §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1583   Operating limitations.|§27.1583]] through 27.1589.
 
 \(2\) Other information that is necessary for safe operation because of design, operating, or handling characteristics.
 
-\(b\) *Approved information.* Each part of the manual listed in §§27.1583 through 27.1589, that is appropriate to the rotorcraft, must be furnished, verified, and approved, and must be segregated, identified, and clearly distinguished from each unapproved part of that manual.
+\(b\) *Approved information.* Each part of the manual listed in §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1583   Operating limitations.|§27.1583]] through 27.1589, that is appropriate to the rotorcraft, must be furnished, verified, and approved, and must be segregated, identified, and clearly distinguished from each unapproved part of that manual.
 
 \(c\) \[Reserved\]
 
@@ -4554,21 +4554,21 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(b\) *Powerplant limitations.* The following information must be furnished:
 
-\(1\) Limitations required by §27.1521.
+\(1\) Limitations required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1521   Powerplant limitations.|§27.1521]].
 
 \(2\) Explanation of the limitations, when appropriate.
 
-\(3\) Information necessary for marking the instruments required by §§27.1549 through 27.1553.
+\(3\) Information necessary for marking the instruments required by §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1549   Powerplant instruments.|§27.1549]] through 27.1553.
 
-\(c\) *Weight and loading distribution.* The weight and center of gravity limits required by §§27.25 and 27.27, respectively, must be furnished. If the variety of possible loading conditions warrants, instructions must be included to allow ready observance of the limitations.
+\(c\) *Weight and loading distribution.* The weight and center of gravity limits required by §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]] and 27.27, respectively, must be furnished. If the variety of possible loading conditions warrants, instructions must be included to allow ready observance of the limitations.
 
-\(d\) *Flight crew.* When a flight crew of more than one is required, the number and functions of the minimum flight crew determined under §27.1523 must be furnished.
+\(d\) *Flight crew.* When a flight crew of more than one is required, the number and functions of the minimum flight crew determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1523   Minimum flight crew.|§27.1523]] must be furnished.
 
 \(e\) *Kinds of operation.* Each kind of operation for which the rotorcraft and its equipment installations are approved must be listed.
 
 \(f\) \[Reserved\]
 
-\(g\) *Altitude.* The altitude established under §27.1527 and an explanation of the limiting factors must be furnished.
+\(g\) *Altitude.* The altitude established under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1527   Maximum operating altitude.|§27.1527]] and an explanation of the limiting factors must be furnished.
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -4582,17 +4582,17 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(2\) The kind of landing surface used in the tests and appropriate approach and glide airspeeds.
 
-\(b\) For multiengine rotorcraft, information identifying each operating condition in which the fuel system independence prescribed in §27.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+\(b\) For multiengine rotorcraft, information identifying each operating condition in which the fuel system independence prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.953   Fuel system independence.|§27.953]] is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
 
-\(c\) For helicopters for which a V*NE* (power-off) is established under §27.1505(c), information must be furnished to explain the V*NE* (power-off) and the procedures for reducing airspeed to not more than the V*NE* (power-off) following failure of all engines.
+\(c\) For helicopters for which a V*NE* (power-off) is established under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1505   Never-exceed speed.|§27.1505]](c), information must be furnished to explain the V*NE* (power-off) and the procedures for reducing airspeed to not more than the V*NE* (power-off) following failure of all engines.
 
-\(d\) For each rotorcraft showing compliance with §27.1353 (g)(2) or (g)(3), the operating procedures for disconnecting the battery from its charging source must be furnished.
+\(d\) For each rotorcraft showing compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1353   Storage battery design and installation.|§27.1353]] (g)(2) or (g)(3), the operating procedures for disconnecting the battery from its charging source must be furnished.
 
 \(e\) If the unusable fuel supply in any tank exceeds five percent of the tank capacity, or one gallon, whichever is greater, information must be furnished which indicates that when the fuel quantity indicator reads “zero” in level flight, any fuel remaining in the fuel tank cannot be used safely in flight.
 
 \(f\) Information on the total quantity of usable fuel for each fuel tank must be furnished.
 
-\(g\) The airspeeds and rotor speeds for minimum rate of descent and best glide angle as prescribed in §27.71 must be provided.
+\(g\) The airspeeds and rotor speeds for minimum rate of descent and best glide angle as prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.71   Autorotation performance.|§27.71]] must be provided.
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -4600,7 +4600,7 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 ### §27.1587   Performance information.
 
-\(a\) The Rotorcraft Flight Manual must contain the following information, determined in accordance with §§27.49 through 27.87 and 27.143(c) and (d):
+\(a\) The Rotorcraft Flight Manual must contain the following information, determined in accordance with §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.49   Performance at minimum operating speed.|§27.49]] through 27.87 and 27.143(c) and (d):
 
 \(1\) Enough information to determine the limiting height-speed envelope.
 
@@ -4610,15 +4610,15 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 \(ii\) The maximum weight for each altitude and temperature condition at which the rotorcraft can safely hover in-ground effect and out-of-ground effect in winds of not less than 17 knots from all azimuths. These data must be clearly referenced to the appropriate hover charts. In addition, if there are other combinations of weight, altitude and temperature for which performance information is provided and at which the rotorcraft cannot land and take off safely with the maximum wind value, those portions of the operating envelope and the appropriate safe wind conditions must be stated in the Rotorcraft Flight Manual;
 
-\(iii\) For reciprocating engine-powered rotorcraft, the maximum atmospheric temperature at which compliance with the cooling provisions of §§27.1041 through 27.1045 is shown; and
+\(iii\) For reciprocating engine-powered rotorcraft, the maximum atmospheric temperature at which compliance with the cooling provisions of §[[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1041   General.|§27.1041]] through 27.1045 is shown; and
 
-\(iv\) Glide distance as a function of altitude when autorotating at the speeds and conditions for minimum rate of descent and best glide as determined in §27.71.
+\(iv\) Glide distance as a function of altitude when autorotating at the speeds and conditions for minimum rate of descent and best glide as determined in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.71   Autorotation performance.|§27.71]].
 
 \(b\) The Rotorcraft Flight Manual must contain—
 
-\(1\) In its performance information section any pertinent information concerning the takeoff weights and altitudes used in compliance with §27.51; and
+\(1\) In its performance information section any pertinent information concerning the takeoff weights and altitudes used in compliance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.51   Takeoff.|§27.51]]; and
 
-\(2\) The horizontal takeoff distance determined in accordance with §27.65(a)(2)(i).
+\(2\) The horizontal takeoff distance determined in accordance with [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.65   Climb: all engines operating.|§27.65]](a)(2)(i).
 
 (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
 
@@ -4626,7 +4626,7 @@ Each tail rotor must be marked so that its disc is conspicuous under normal dayl
 
 ### §27.1589   Loading information.
 
-There must be loading instructions for each possible loading condition between the maximum and minimum weights determined under §27.25 that can result in a center of gravity beyond any extreme prescribed in §27.27, assuming any probable occupant weights.
+There must be loading instructions for each possible loading condition between the maximum and minimum weights determined under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]] that can result in a center of gravity beyond any extreme prescribed in [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.27   Center of gravity limits.|§27.27]], assuming any probable occupant weights.
 
 ##    
 
@@ -4634,7 +4634,7 @@ There must be loading instructions for each possible loading condition between t
 
 A27.1   *General.*
 
-\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by §27.1529.
+\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1529   Instructions for Continued Airworthiness.|§27.1529]].
 
 \(b\) The Instructions for Continued Airworthiness for each rotorcraft must include the Instructions for Continued Airworthiness for each engine and rotor (hereinafter designated ‘products’), for each appliance required by this chapter, and any required information relating to the interface of those appliances and products with the rotorcraft. If Instructions for Continued Airworthiness are not supplied by the manufacturer of an appliance or product installed in the rotorcraft, the Instructions for Continued Airworthiness for the rotorcraft must include the information essential to the continued airworthiness of the rotorcraft.
 
@@ -4678,7 +4678,7 @@ The contents of the manual or manuals must be prepared in the English language. 
 
 A27.4   *Airworthiness Limitations section.*
 
-The Instructions for Continued Airworthiness must contain a section, titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies inspections and other maintenance required under §§43.16 and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
+The Instructions for Continued Airworthiness must contain a section, titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies inspections and other maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
 
 \[Amdt. 27-18, 45 FR 60177, Sept. 11, 1980, as amended by Amdt. 27-24, 54 FR 34329, Aug. 18, 1989; Amdt. 27-47, 76 FR 74663, Dec. 1, 2011\]
 
@@ -4776,13 +4776,13 @@ VII\. *Stability Augmentation System (SAS).*
 
 \(b\) The SAS must be designed so that it cannot create a hazardous deviation in flight path or produce hazardous loads on the helicopter during normal operation or in the event of malfunction or failure, assuming corrective action begins within an appropriate period of time. Where multiple systems are installed, subsequent malfunction conditions must be considered in sequence unless their occurrence is shown to be improbable.
 
-VIII\. *Equipment, systems, and installation.* The basic equipment and installation must comply with §§29.1303, 29.1431, and 29.1433 through Amendment 29-14, with the following exceptions and additions:
+VIII\. *Equipment, systems, and installation.* The basic equipment and installation must comply with §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]], 29.1431, and 29.1433 through Amendment 29-14, with the following exceptions and additions:
 
-\(a\) *Flight and Navigation Instruments.* (1) A magnetic gyro-stablized direction indicator instead of a gyroscopic direction indicator required by §29.1303(h); and
+\(a\) *Flight and Navigation Instruments.* (1) A magnetic gyro-stablized direction indicator instead of a gyroscopic direction indicator required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](h); and
 
-\(2\) A standby attitude indicator which meets the requirements of §§29.1303(g)(1) through (7) instead of a rate-of-turn indicator required by §29.1303(g). For two-pilot configurations, one pilot's primary indicator may be designated for this purpose. If standby batteries are provided, they may be charged from the aircraft electrical system if adequate isolation is incorporated.
+\(2\) A standby attitude indicator which meets the requirements of §[[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g)(1) through (7) instead of a rate-of-turn indicator required by [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.1303   Flight and navigation instruments.|§29.1303]](g). For two-pilot configurations, one pilot's primary indicator may be designated for this purpose. If standby batteries are provided, they may be charged from the aircraft electrical system if adequate isolation is incorporated.
 
-\(b\) *Miscellaneous requirements.* (1) Instrument systems and other systems essential for IFR flight that could be adversely affected by icing must be adequately protected when exposed to the continuous and intermittent maximum icing conditions defined in appendix C of Part 29 of this chapter, whether or not the rotorcraft is certificated for operation in icing conditions.
+\(b\) *Miscellaneous requirements.* (1) Instrument systems and other systems essential for IFR flight that could be adversely affected by icing must be adequately protected when exposed to the continuous and intermittent maximum icing conditions defined in appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|Part 29 of this chapter]], whether or not the rotorcraft is certificated for operation in icing conditions.
 
 \(2\) There must be means in the generating system to automatically de-energize and disconnect from the main bus any power source developing hazardous overvoltage.
 
@@ -4808,7 +4808,7 @@ IX\. *Rotorcraft Flight Manual.* A Rotorcraft Flight Manual or Rotorcraft Flight
 
 \(c\) *Performance.* If VYI differs from VY, climb performance at VYI and with maximum continuous power throughout the ranges of weight, altitude, and temperature for which approval is requested.
 
-X. Electrical and electronic system lightning protection. For regulations concerning lightning protection for electrical and electronic systems, see §27.1316.
+X. Electrical and electronic system lightning protection. For regulations concerning lightning protection for electrical and electronic systems, see [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1316   Electrical and electronic system lightning protection.|§27.1316]].
 
 \[Amdt. 27-19, 48 FR 4389, Jan. 31, 1983, as amended by Amdt. 27-44, 73 FR 11000, Feb. 29, 2008; Amdt. 27-46, 76 FR 33135, June 8, 2011\]
 
@@ -4818,7 +4818,7 @@ C27.1   General.
 
 A small multiengine rotorcraft may not be type certificated for Category A operation unless it meets the design installation and performance requirements contained in this appendix in addition to the requirements of this part.
 
-C27.2   Applicable part 29 sections. The following sections of part 29 of this chapter must be met in addition to the requirements of this part:
+C27.2   Applicable part 29 sections. The following sections of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]] must be met in addition to the requirements of this part:
 
 29.45(a) and (b)(2)—General.
 
@@ -4918,7 +4918,7 @@ Note: In complying with the paragraphs listed in paragraph C27.2 above, relevant
 
 ### Appendix D to Part 27—HIRF Environments and Equipment HIRF Test Levels
 
-This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under §27.1317. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle.
+This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.1317   High-intensity Radiated Fields (HIRF) Protection.|§27.1317]]. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle.
 
 \(a\) HIRF environment I is specified in the following table:
 

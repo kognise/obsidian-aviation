@@ -26,7 +26,7 @@ As used in this part, unless the context otherwise requires:
 
 *Immediate family* means only the following persons: the spouse, children, parents, parents of the spouse, children of the parents, and children of the parents of the spouse of (1) military personnel on active duty with the United States Armed Forces (including Coast Guard) stationed outside the contiguous states of the United States and the District of Columbia, and (2) civilian employees of the Department of Defense who are citizens of the United States and are stationed in a foreign country, or in a U.S. territory or possession, where U.S. military personnel are stationed.
 
-*Overseas military personnel charter* means a charter, either one-way or round-trip, limited to military personnel on active duty with the U.S. Armed Forces (including the Coast Guard), stationed outside the 48 contiguous States of the United States and the District of Columbia, and/or civilian employees of the Department of Defense who are citizens of the United States and are stationed in a foreign country, or in a U.S. territory or possession, where such U.S. military personnel are stationed, and/or the immediate families of the foregoing persons, where the following conditions are met: (a) All military personnel and civilian employees of the Department of Defense participating in the charter are on official furlough, leave, pass, or other authorized absence from duty, and (b) the transportation is between a place in the 48 contiguous States of the United States or the District of Columbia and a place in Alaska, Hawaii, or a territory or possession of the United States, or a foreign country in which military personnel of the United States are stationed: *Provided, however,* That nothing contained herein shall preclude an overseas military personnel charter operator from utilizing any unused space on an aircraft chartered by it pursuant to this part for the transportation, on a free or reduced-rate basis, of such charter operator's employees, directors, and officers, and the parents and immediate families of such persons, subject to the provisions of part 223 of this chapter.
+*Overseas military personnel charter* means a charter, either one-way or round-trip, limited to military personnel on active duty with the U.S. Armed Forces (including the Coast Guard), stationed outside the 48 contiguous States of the United States and the District of Columbia, and/or civilian employees of the Department of Defense who are citizens of the United States and are stationed in a foreign country, or in a U.S. territory or possession, where such U.S. military personnel are stationed, and/or the immediate families of the foregoing persons, where the following conditions are met: (a) All military personnel and civilian employees of the Department of Defense participating in the charter are on official furlough, leave, pass, or other authorized absence from duty, and (b) the transportation is between a place in the 48 contiguous States of the United States or the District of Columbia and a place in Alaska, Hawaii, or a territory or possession of the United States, or a foreign country in which military personnel of the United States are stationed: *Provided, however,* That nothing contained herein shall preclude an overseas military personnel charter operator from utilizing any unused space on an aircraft chartered by it pursuant to this part for the transportation, on a free or reduced-rate basis, of such charter operator's employees, directors, and officers, and the parents and immediate families of such persons, subject to the provisions of [[Volume 4/A Economic regulations/0223 Free and reduced-rate transportation.md|part 223 of this chapter]].
 
 *Overseas military personnel charter operator* means any citizen of the United States, as defined in section 40102(a)(15) of 49 U.S.C. Subtitle VII authorized hereunder to engage in the formation of overseas military personnel charter groups and who complies with the provisions of this part.
 
@@ -62,7 +62,7 @@ Charter operators are hereby relieved from the provisions of section 41102 of 49
 
 ### §372.20   Requirement of operating authorization.
 
-No person shall engage in air transportation as an overseas military personnel charter operator by organizing, providing, selling, or offering to sell, soliciting, or advertising an overseas military personnel charter or charters unless there is in force an operating authorization issued pursuant to §372.31 authorizing such person to engage in such transportation.
+No person shall engage in air transportation as an overseas military personnel charter operator by organizing, providing, selling, or offering to sell, soliciting, or advertising an overseas military personnel charter or charters unless there is in force an operating authorization issued pursuant to [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.31   Issuance.|§372.31]] authorizing such person to engage in such transportation.
 
 \[Doc. No. 47939, 57 FR 40105, Sept. 2, 1992\]
 
@@ -134,7 +134,7 @@ Effective October 1, 1972, a charter operator shall not operate or sell or offer
 
 ### §372.27   Name of operator.
 
-It shall be an express condition upon the exercise of the exemption herein granted and the operating authorizations issued hereunder, that the charter operator concerned, in holding out to the public and performing air transportation services, shall do so only in a name the use of which is authorized under the provisions of part 215 of this chapter.
+It shall be an express condition upon the exercise of the exemption herein granted and the operating authorizations issued hereunder, that the charter operator concerned, in holding out to the public and performing air transportation services, shall do so only in a name the use of which is authorized under the provisions of [[Volume 4/A Economic regulations/0215 Use and change of names of air carriers, foreign air carriers and commuter air carriers.md|part 215 of this chapter]].
 
 ### §372.28   Record retention.1
 
@@ -184,7 +184,7 @@ It shall be an express condition upon the exercise of the exemption herein grant
 
 \(12\) Brief account of any arrangement by which applicant will have available financial sources and facilities of other companies or individuals;
 
-\(13\) The charter operator's surety bond and, where applicable, a copy of the depository, escrow or trust agreement with a bank as provided in §372.24.2
+\(13\) The charter operator's surety bond and, where applicable, a copy of the depository, escrow or trust agreement with a bank as provided in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.24   Surety bond, depository agreement, escrow agreement.|§372.24]].2
 
 <div>
 
@@ -198,7 +198,7 @@ It shall be an express condition upon the exercise of the exemption herein grant
 
 ### §372.31   Issuance.
 
-\(a\) If, after the filing of an application for an operating authorization, it appears that the applicant is capable of performing the air transportation authorized by this part as an overseas military personnel charter operator and of conforming to the provisions of the Act and all rules and requirements thereunder, and that the conduct of such operations by the applicant will not be inconsistent with the public interest, the applicant will be notified by letter. Such notification will advise the applicant that, upon the filing of a valid tariff pursuant to §372.25, an operating authorization will be issued to the applicant.
+\(a\) If, after the filing of an application for an operating authorization, it appears that the applicant is capable of performing the air transportation authorized by this part as an overseas military personnel charter operator and of conforming to the provisions of the Act and all rules and requirements thereunder, and that the conduct of such operations by the applicant will not be inconsistent with the public interest, the applicant will be notified by letter. Such notification will advise the applicant that, upon the filing of a valid tariff pursuant to [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.25   Tariffs to be filed for charter trips.|§372.25]], an operating authorization will be issued to the applicant.
 
 \(b\) If, after the filing of an application for an operating authorization, it appears that the applicant has not made a due showing of capability or that the conduct of operations by the applicant might otherwise be inconsistent with the public interest, the Department shall by letter notify the applicant of its findings to that effect. The Department may dismiss any such application unless within 30 days of the date of the mailing of such letter, the applicant has in writing requested reconsideration and submitted such additional information as it believes will make the necessary showing, or requested that the application be assigned for hearing, in which case the applicant shall outline the evidence to be presented at such hearing and shall show the need for hearing in order properly to present its case.
 
@@ -226,7 +226,7 @@ Each operating authorization shall be effective upon the date specified therein,
 
 ### Appendix A to Part 372—Overseas Military Personnel Charter Operator's Surety Bond Under Part 372 of the Regulations of the Department of Transportation ([[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|14 CFR Part 372]])
 
-Know all persons by these presents, that we \_\_\_\_\_\_ (name of charter operator) of \_\_\_\_\_\_ (address) as Principal (hereinafter called “Principal”), and \_\_\_\_\_\_ (name of surety) a corporation created and existing under the laws of the State of \_\_\_\_\_\_ (State) as Surety (hereinafter called “Surety”) are held and firmly bound unto the United States of America in the sum of \_\_\_\_\_\_ (see §372.24(a), [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|14 CFR part 372]]) for which payment, well and truly to be made, we bind ourselves and our heirs, executors, administrators, successors, and assigns, jointly and severally firmly by these presents.
+Know all persons by these presents, that we \_\_\_\_\_\_ (name of charter operator) of \_\_\_\_\_\_ (address) as Principal (hereinafter called “Principal”), and \_\_\_\_\_\_ (name of surety) a corporation created and existing under the laws of the State of \_\_\_\_\_\_ (State) as Surety (hereinafter called “Surety”) are held and firmly bound unto the United States of America in the sum of \_\_\_\_\_\_ (see [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.24   Surety bond, depository agreement, escrow agreement.|§372.24]](a), [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|14 CFR part 372]]) for which payment, well and truly to be made, we bind ourselves and our heirs, executors, administrators, successors, and assigns, jointly and severally firmly by these presents.
 
 Whereas Principal is an overseas military personnel charter operator pursuant to the provisions of part 372 of the Department's regulations and other rules and regulations of the Department relating to security for the protection of charter participants, and has elected to file with the Department of Transportation such a bond as will insure financial responsibility with respect to all monies received from charter participants for services in connection with overseas military personnel charters to be operated subject to part 372 of the Department's Special Regulations in accordance with contracts, agreements, or arrangements therefor, and
 
@@ -310,7 +310,7 @@ Witness
 
 </div>
 
-Only corporations may qualify to act as surety and they must meet the requirements set forth in §372.24(c) of part 372.
+Only corporations may qualify to act as surety and they must meet the requirements set forth in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.24   Surety bond, depository agreement, escrow agreement.|§372.24]](c) of part 372.
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15939, Apr. 16, 2019\]
 

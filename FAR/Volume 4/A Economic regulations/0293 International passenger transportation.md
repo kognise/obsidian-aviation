@@ -12,7 +12,7 @@ This part applies to air carriers and foreign air carriers providing scheduled t
 
 ### §293.2   Definitions.
 
-For purposes of this part the definitions in §221.3 of this chapter apply.
+For purposes of this part the definitions in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.3   Definitions.|§221.3]] of this chapter apply.
 
 ## Subpart B—Exemption From Filing Tariffs
 
@@ -26,7 +26,7 @@ For purposes of this part the definitions in §221.3 of this chapter apply.
 
 \(ii\) In Category B markets, carriers are exempted from the duty to file all passenger tariffs except those setting forth one-way economy-class fares and governing provisions thereto, unless they are nationals of countries listed in Category C, or are subject to the provisions of paragraph (c) of this section.
 
-\(iii\) In Category C markets, carriers shall continue to file all passenger tariffs, except as provided in §293.10(b);
+\(iii\) In Category C markets, carriers shall continue to file all passenger tariffs, except as provided in [[Volume 4/A Economic regulations/0293 International passenger transportation.md#§293.10   Exemption.|§293.10]](b);
 
 \(2\) The Assistant Secretary will list country-pair markets falling in Categories A and C, taking into consideration the factors in paragraphs (a)(2) (i) through (iv) of this section. All country-pair markets not listed in Categories A or C shall be considered to be in Category B and need not be specifically listed.
 
@@ -46,7 +46,7 @@ For purposes of this part the definitions in §221.3 of this chapter apply.
 
 \(e\) Notwithstanding paragraph (d) of this section, air carriers and foreign air carriers shall file and maintain a tariff with the Department to the extent required by 14 CFR 203.4 and other implementing regulations.
 
-\(f\) Authority for determining what rules are covered by paragraph (d) of this section and for determining the filing format for the tariffs required by pa[[Volume 4/A Economic regulations/0203 Waiver of warsaw convention liability limits and defenses.md#§203.4   Montreal Agreement as part of airline-passenger contract and conditions of carriage.|14 CFR 203.4]]of this section is delegated to the Director of the Office of International Aviation.
+\(f\) Authority for determining what rules are covered by paragraph (d) of this section and for determining the filing format for the tariffs required by paragraph (e) of this section is delegated to the Director of the Office of International Aviation.
 
 ### §293.11   Required statement.
 
@@ -68,7 +68,7 @@ Each governing rules tariff shall include the following statements:
 
 ### §293.20   Rule of construction.
 
-To the extent that a carrier holds an effective exemption from the duty to file tariffs under this part, it shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], except as provided in §293.21.
+To the extent that a carrier holds an effective exemption from the duty to file tariffs under this part, it shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], except as provided in [[Volume 4/A Economic regulations/0293 International passenger transportation.md#§293.21   Incorporation of contract terms by reference.|§293.21]].
 
 ### §293.21   Incorporation of contract terms by reference.
 
@@ -76,7 +76,7 @@ Carriers holding an effective exemption from the duty to file tariffs under this
 
 \(a\) The notice, inspection, explanation and other requirements set forth in 14 CFR 221.107, paragraphs (a), (b), (c) and (d) are complied with, to the extent applicable;
 
-\(b\) In addition to other remedies at law, a carrier may not claim the benefit under this section as against a[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.107   Notice of contract terms.|14 CFR 221.107]]d a passenger shall not be bound by incorporation of any contract term by reference under this part, unless the requirements of paragraph (a), of this section are complied with, to the extent applicable; and
+\(b\) In addition to other remedies at law, a carrier may not claim the benefit under this section as against a passenger, and a passenger shall not be bound by incorporation of any contract term by reference under this part, unless the requirements of paragraph (a), of this section are complied with, to the extent applicable; and
 
 \(c\) The purpose of this section is to set uniform disclosure requirements, which preempt any State requirements on the same subject, for incorporation of terms by reference into contracts of carriage for the scheduled transportation of passengers in foreign air transportation.
 
@@ -84,6 +84,6 @@ Carriers holding an effective exemption from the duty to file tariffs under this
 
 \(a\) One hundred and eighty days after the date of effectiveness of the Assistant Secretary's notice, passenger tariffs on file with the Department covered by the scope of the exemption will cease to be effective as tariffs under 49 U.S.C. 41504 and 41510, and the provisions of [[Volume 4/A Economic regulations/0221 Tariffs.md|14 CFR part 221]], and will be canceled by operation of law.
 
-\(b\) One hundred and eighty days after the date of effectiveness of the Assistant Secretary's notice, pending applications for filing and/or effectiveness of any passenger tariffs covered by the scope of the exemption, will be dismissed by operation of law. No new filings or applications will be permitted after the date of effectiveness of the Assistant Secretary's notice except as provided under §293.12.
+\(b\) One hundred and eighty days after the date of effectiveness of the Assistant Secretary's notice, pending applications for filing and/or effectiveness of any passenger tariffs covered by the scope of the exemption, will be dismissed by operation of law. No new filings or applications will be permitted after the date of effectiveness of the Assistant Secretary's notice except as provided under [[Volume 4/A Economic regulations/0293 International passenger transportation.md#§293.12   Revocation of exemption.|§293.12]].
 
 </div>

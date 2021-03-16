@@ -64,7 +64,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.413](https://www.ecfr
 
 \(2\) The territory of any foreign nation if there is an agreement in force between the United States and that foreign nation providing that the United States has jurisdiction over the reentry or the operation of the reentry site.
 
-\(f\) A person, individual, or foreign entity otherwise requiring a license under this section may instead obtain an experimental permit to launch or reenter a reusable suborbital rocket under part 437 of this chapter.
+\(f\) A person, individual, or foreign entity otherwise requiring a license under this section may instead obtain an experimental permit to launch or reenter a reusable suborbital rocket under [[Volume 4/C Licensing/0437 Experimental permits.md|part 437 of this chapter]].
 
 \[Doc. No. FAA-2006-24197, 72 FR 17017, Apr. 6, 2007\]
 
@@ -172,11 +172,11 @@ The FAA's acceptance of an application does not mean it has determined that the 
 
 ### §413.17   Continuing accuracy of application; supplemental information; amendment.
 
-\(a\) An applicant must ensure the continuing accuracy and completeness of information furnished to the FAA as part of a pending license or permit application. If at any time the information an applicant provides is no longer accurate and complete in all material respects, the applicant must submit new or corrected information. As part of this submission, the applicant must recertify the accuracy and completeness of the application under §413.7. If an applicant does not comply with any of the requirements set forth in this paragraph, the FAA can deny the license or permit application.
+\(a\) An applicant must ensure the continuing accuracy and completeness of information furnished to the FAA as part of a pending license or permit application. If at any time the information an applicant provides is no longer accurate and complete in all material respects, the applicant must submit new or corrected information. As part of this submission, the applicant must recertify the accuracy and completeness of the application under [[Volume 4/C Licensing/0413 License application procedures.md#§413.7   Application.|§413.7]]. If an applicant does not comply with any of the requirements set forth in this paragraph, the FAA can deny the license or permit application.
 
 \(b\) An applicant may amend or supplement a license or permit application at any time before the FAA issues or transfers the license or permit.
 
-\(c\) Willful false statements made in any application or document relating to an application, license, or permit are punishable by fine and imprisonment under section 1001 of Title 18, United States Code, and by administrative sanctions in accordance with part 405 of this chapter.
+\(c\) Willful false statements made in any application or document relating to an application, license, or permit are punishable by fine and imprisonment under section 1001 of Title 18, United States Code, and by administrative sanctions in accordance with [[Volume 4/B Procedure/0405 Compliance and enforcement.md|part 405 of this chapter]].
 
 \[Doc. No. FAA-2006-24197, 72 FR 17018, Apr. 6, 2007\]
 
@@ -198,7 +198,7 @@ After the FAA completes its reviews and makes the decisions required by this cha
 
 \(1\) Attempt to correct any deficiencies identified and ask the FAA to reconsider the revised application. The FAA has 60 days or the number of days remaining in the review period, whichever is greater, within which to reconsider the decision; or
 
-\(2\) Request a hearing in accordance with part 406 of this chapter, for the purpose of showing why the application should not be denied.
+\(2\) Request a hearing in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md|part 406 of this chapter]], for the purpose of showing why the application should not be denied.
 
 \(c\) An applicant whose license application is denied after reconsideration under paragraph (b)(1) of this section may request a hearing in accordance with paragraph (b)(2) of this section.
 
@@ -224,7 +224,7 @@ After the FAA completes its reviews and makes the decisions required by this cha
 
 \(d\) *Renewal of license or permit.* After the FAA finishes its reviews, the FAA issues an order modifying the expiration date of the license or permit. The FAA may impose additional or revised terms and conditions necessary to protect public health and safety and the safety of property and to protect U.S. national security and foreign policy interests.
 
-\(e\) *Denial of license or permit renewal.* The FAA informs a licensee or permittee, in writing, if the FAA denies the application for renewal and states the reasons for denial. If the FAA denies an application, the licensee or permittee may follow the procedures of §413.21 of this part.
+\(e\) *Denial of license or permit renewal.* The FAA informs a licensee or permittee, in writing, if the FAA denies the application for renewal and states the reasons for denial. If the FAA denies an application, the licensee or permittee may follow the procedures of [[Volume 4/C Licensing/0413 License application procedures.md#§413.21   Denial of a license application.|§413.21]] of this part.
 
 \[Doc. No. FAA-2006-24197, 72 FR 17019, Apr. 6, 2007\]
 

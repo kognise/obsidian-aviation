@@ -24,13 +24,13 @@ Certain of DOT's functions involving aviation economic and enforcement proceedin
 
 \(1\) A “substantive communication” is any written or oral communication relevant to the merits of the proceeding.
 
-\(2\) The “DOT decisionmaker” is defined in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.2   Definitions.|14 CFR 302.2]] and 302.18.
+\(2\) The “DOT decisionmaker” is defined in 14 CFR 302.2 and 302.18.
 
 \(3\) A “concerned DOT employee” is a DOT employee who is or may reasonably be expected to be directly involved in a decision which is subject to a public proceeding.
 
 \(4\) A “public proceeding” is one of the following:
 
-\(i\) A hearing proceeding (*i.e.*, proceeding conducted on-the record after notice and opportunity for an oral evidentiary hearing as provided in §§302.17-302.38)
+\(i\) A hearing proceeding (*i.e.*, proceeding conducted on-the record after notice and opportunity for an oral evidentiary hearing as provided in §[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.17   Administrative law judges.|§302.17]]-302.38)
 
 \(ii\) A rulemaking proceeding involving a hearing as described in paragraph (b)(4)(i) of this section or an exemption proceeding covered by this chapter. (Other rulemaking proceedings are covered by the ex parte communication policies of DOT Order 2100.6 and 49 CFR 5.19.)
 
@@ -60,9 +60,9 @@ Certain of DOT's functions involving aviation economic and enforcement proceedin
 
 \(9\) In nonhearing cases, communications with other Federal agencies not exempted by paragraph (e) of this section, provided the agencies have not participated as parties in the proceeding by making filings on-the-record.
 
-\(10\) Information given at the request of a DOT career employee in the course of investigating or clarifying information filed, or pursuant to a waiver granted to an applicant or other interested person, in docketed proceedings involving determinations of fitness and/or U.S. citizenship only, for that portion of the proceeding that precedes the issuance of a show-cause order or an order instituting a formal proceeding. Motions for such waivers and any answers shall be filed in the applicable docket in accordance with §302.11 of the Department's Procedural Regulations ([[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.11   Motions.|14 CFR 302.11]]) and served upon all parties to the proceeding.
+\(10\) Information given at the request of a DOT career employee in the course of investigating or clarifying information filed, or pursuant to a waiver granted to an applicant or other interested person, in docketed proceedings involving determinations of fitness and/or U.S. citizenship only, for that portion of the proceeding that precedes the issuance of a show-cause order or an order instituting a formal proceeding. Motions for such waivers and any answers shall be filed in the applicable docket in accordance with [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.11   Motions.|§302.11]] of the Department's Procedural Regulations (14 CFR 302.11) and served upon all parties to the proceeding.
 
-\(d\) *Status and expedition requests.* Paragraph (a) of this section shall not apply to oral or written communications asking about the status, or requesting expeditious treatment, of a public proceeding. However, any request for expeditious treatment should be made in accordance with the Rules of Practice, particularly Rule 11, §302.11 of this chapter.
+\(d\) *Status and expedition requests.* Paragraph (a) of this section shall not apply to oral or written communications asking about the status, or requesting expeditious treatment, of a public proceeding. However, any request for expeditious treatment should be made in accordance with the Rules of Practice, particularly Rule 11, [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.11   Motions.|§302.11]] of this chapter.
 
 \(e\) *National defense and foreign policy.* In nonhearing cases, paragraph (a) of this section shall not apply to communications concerning national defense or foreign policy matters, including international aviation matters. In hearing cases, any communications on those subjects that would be barred by paragraph (a) of this section are permitted if the communicator's position with respect thereto cannot otherwise be fairly presented, but such communications shall not be included as part of the record on which decisions must be made.
 
@@ -74,15 +74,15 @@ Certain of DOT's functions involving aviation economic and enforcement proceedin
 
 \(a\) *General.* The following types of substantive communication shall be reported as specified in paragraph (b) of this section:
 
-\(1\) Any communication in violation of §300.2(a) of this chapter.
+\(1\) Any communication in violation of [[Volume 4/B Procedural regulations/0300 Rules of conduct in dot proceedings under this chapter.md#§300.2   Prohibited communications.|§300.2]](a) of this chapter.
 
-\(2\) Information given upon determination of an emergency under §300.2(c)(5) of this chapter.
+\(2\) Information given upon determination of an emergency under [[Volume 4/B Procedural regulations/0300 Rules of conduct in dot proceedings under this chapter.md#§300.2   Prohibited communications.|§300.2]](c)(5) of this chapter.
 
-\(3\) Information given at the request of a DOT employee in a tariff matter under §300.2(c)(6) of this chapter.
+\(3\) Information given at the request of a DOT employee in a tariff matter under [[Volume 4/B Procedural regulations/0300 Rules of conduct in dot proceedings under this chapter.md#§300.2   Prohibited communications.|§300.2]](c)(6) of this chapter.
 
-\(4\) Communications in nonhearing cases to be decided within 30 days under §300.2(c)(7) of this chapter.
+\(4\) Communications in nonhearing cases to be decided within 30 days under [[Volume 4/B Procedural regulations/0300 Rules of conduct in dot proceedings under this chapter.md#§300.2   Prohibited communications.|§300.2]](c)(7) of this chapter.
 
-\(5\) Communications in nonhearing cases arising under 49 U.S.C. 41731-42, made under §300.2(c)(8).
+\(5\) Communications in nonhearing cases arising under 49 U.S.C. 41731-42, made under [[Volume 4/B Procedural regulations/0300 Rules of conduct in dot proceedings under this chapter.md#§300.2   Prohibited communications.|§300.2]](c)(8).
 
 \(b\) *Public filing.* (1) A written communication shall be placed onto the electronic docket management system (*http://www.regulations.gov*) in the file of the docket number corresponding to the proceeding, which shall be available for inspection and copying during business hours in Office of Docket Operations.
 
@@ -150,7 +150,7 @@ No partner of a DOT employee shall act as agent or attorney for anyone other tha
 
 ### §300.10   Motions to disqualify DOT employee in review of hearing matters.
 
-In cases to be determined on an evidentiary record, a party desiring that a concerned DOT employee disqualify himself or herself from participating in a DOT decision shall file a motion supported by an affidavit setting forth the grounds for such disqualification in the form and within the periods prescribed in §302.11 of this chapter. Where review of the administrative law judge's decision can be obtained only upon the filing of a petition for discretionary review, such motions must be filed on or before the date answers are due pursuant to §302.32. In cases where exceptions are filed to recommended, initial, or tentative decisions or where the DOT decisionmaker orders review of an initial or recommended decision on his or her own initiative, such motions must be filed on or before the date briefs are due pursuant to §302.35 or §302.218, as applicable. Failure to file a timely motion will be deemed a waiver of disqualification. Applications for leave to file an untimely motion seeking disqualification of a concerned DOT employee must be accompanied by an affidavit setting forth in detail why the facts relied upon as grounds for disqualification were not known and could not have been discovered with reasonable diligence within the prescribed time.
+In cases to be determined on an evidentiary record, a party desiring that a concerned DOT employee disqualify himself or herself from participating in a DOT decision shall file a motion supported by an affidavit setting forth the grounds for such disqualification in the form and within the periods prescribed in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.11   Motions.|§302.11]] of this chapter. Where review of the administrative law judge's decision can be obtained only upon the filing of a petition for discretionary review, such motions must be filed on or before the date answers are due pursuant to [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.32   Petitions for discretionary review of initial or recommended decisions; review proceedings.|§302.32]]. In cases where exceptions are filed to recommended, initial, or tentative decisions or where the DOT decisionmaker orders review of an initial or recommended decision on his or her own initiative, such motions must be filed on or before the date briefs are due pursuant to [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.35   Briefs to the DOT decisionmaker.|§302.35]] or [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.218   Briefs to the DOT decisionmaker.|§302.218]], as applicable. Failure to file a timely motion will be deemed a waiver of disqualification. Applications for leave to file an untimely motion seeking disqualification of a concerned DOT employee must be accompanied by an affidavit setting forth in detail why the facts relied upon as grounds for disqualification were not known and could not have been discovered with reasonable diligence within the prescribed time.
 
 \[Doc. No. OST-97-2090, 65 FR 6456, Feb. 9, 2000. Redesignated and amended by Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019\]
 

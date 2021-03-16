@@ -28,7 +28,7 @@ This part is applicable to all air carriers and foreign air carriers engaging in
 
 ### §374.4   Enforcement procedure.
 
-The statutes and regulations referred to in §374.3 may be enforced by an enforcement procedure as set forth in part 302 of this chapter or by the assessment of civil penalties under 49 U.S.C. 46301.
+The statutes and regulations referred to in [[Volume 4/D Special regulations/0374 Extension of credit by airlines to federal political candidates.md#§374.3   Compliance with the Consumer Credit Protection Act and regulations.|§374.3]] may be enforced by an enforcement procedure as set forth in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] or by the assessment of civil penalties under 49 U.S.C. 46301.
 
 \[62 FR 25842, May 12, 1997\]
 

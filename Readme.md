@@ -13,7 +13,7 @@ Make sure you have [Obsidian](https://obsidian.md/) installed. Download this rep
 
 Right click a file in the file listing and press "Star" to star it. This will cause it to show up in a special tab to organize all your starred pages. If you press the icon that looks like a graph on the left you can open the graph view, which should look something like this:
 
-![Graph view example](https://doggo.ninja/PVtAp5.png)
+![Graph view example](https://doggo.ninja/wc6Gl9.png)
 
 ## Reporting issues
 Notice any problems with formatting? Broken links/images? Please create a GitHub issue and I'll take a look.

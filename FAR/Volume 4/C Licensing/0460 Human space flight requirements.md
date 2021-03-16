@@ -64,7 +64,7 @@ This subpart establishes requirements for crew of a vehicle whose operator is li
 
 ### §460.7   Operator training of crew.
 
-\(a\) *Implementation of training.* An operator must train each member of its crew and define standards for successful completion in accordance with §460.5.
+\(a\) *Implementation of training.* An operator must train each member of its crew and define standards for successful completion in accordance with [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]].
 
 \(b\) *Training device fidelity.* An operator must
 
@@ -78,7 +78,7 @@ This subpart establishes requirements for crew of a vehicle whose operator is li
 
 \(2\) Document the completed training for each crew member and maintain the documentation for each active crew member.
 
-\(d\) *Current qualifications and training.* An operator must establish a recurrent training schedule and ensure that all crew qualifications and training required by §460.5 are current before launch and reentry.
+\(d\) *Current qualifications and training.* An operator must establish a recurrent training schedule and ensure that all crew qualifications and training required by [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]] are current before launch and reentry.
 
 ### §460.9   Informing crew of risk.
 
@@ -174,7 +174,7 @@ This subpart applies to:
 
 \(2\) The total number of launches and reentries conducted with people on board and the number of catastrophic failures of those launches and reentries.
 
-\(d\) An operator must describe the safety record of its vehicle to each space flight participant. The operator's safety record must cover launch and reentry accidents and human space flight incidents that occurred during and after vehicle verification performed in accordance with §460.17, and include—
+\(d\) An operator must describe the safety record of its vehicle to each space flight participant. The operator's safety record must cover launch and reentry accidents and human space flight incidents that occurred during and after vehicle verification performed in accordance with [[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.17   Verification program.|§460.17]], and include—
 
 \(1\) The number of vehicle flights;
 
@@ -196,7 +196,7 @@ This subpart applies to:
 
 ### §460.49   Space flight participant waiver of claims against U.S. Government.
 
-Each space flight participant must execute a reciprocal waiver of claims with the Federal Aviation Administration of the Department of Transportation in accordance with the requirements of part 440 of this chapter.
+Each space flight participant must execute a reciprocal waiver of claims with the Federal Aviation Administration of the Department of Transportation in accordance with the requirements of [[Volume 4/C Licensing/0440 Financial responsibility.md|part 440 of this chapter]].
 
 ### §460.51   Space flight participant training.
 

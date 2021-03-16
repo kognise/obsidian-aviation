@@ -36,11 +36,11 @@ For the purposes of this part—
 
 \(a\) Except as provided in paragraphs (c) and (d) of this section, no person may conduct agricultural aircraft operations without, or in violation of, an agricultural aircraft operator certificate issued under this part.
 
-\(b\) Notwithstanding part 133 of this chapter, an operator may, if he complies with this part, conduct agricultural aircraft operations with a rotorcraft with external dispensing equipment in place without a rotorcraft external-load operator certificate.
+\(b\) Notwithstanding [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]], an operator may, if he complies with this part, conduct agricultural aircraft operations with a rotorcraft with external dispensing equipment in place without a rotorcraft external-load operator certificate.
 
 \(c\) A Federal, State, or local government conducting agricultural aircraft operations with public aircraft need not comply with this subpart.
 
-\(d\) The holder of a rotorcraft external-load operator certificate under part 133 of this chapter conducting an agricultural aircraft operation, involving only the dispensing of water on forest fires by rotorcraft external-load means, need not comply with this subpart.
+\(d\) The holder of a rotorcraft external-load operator certificate under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]] conducting an agricultural aircraft operation, involving only the dispensing of water on forest fires by rotorcraft external-load means, need not comply with this subpart.
 
 \[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Amdt. 137-3, 33 FR 9601, July 2, 1968; Amdt. 137-6, 41 FR 35060, Aug. 19, 1976\]
 
@@ -54,7 +54,7 @@ An application for an agricultural aircraft operator certificate is made on a fo
 
 \(a\) An agricultural aircraft operator certificate may be amended—
 
-\(1\) On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429) and part 13 of this chapter; or
+\(1\) On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429) and [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md|part 13 of this chapter]]; or
 
 \(2\) Upon application by the holder of that certificate.
 
@@ -114,7 +114,7 @@ An agricultural aircraft operator certificate is effective until it is surrender
 
 ### §137.23   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
 
-If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of §91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter, that operation is a basis for suspending or revoking the certificate.
 
 \[Doc. No. 12035, 38 FR 17493, July 2, 1973, as amended by Amdt. 137-12, 54 FR 34332, Aug. 18, 1989\]
 
@@ -126,15 +126,15 @@ If the holder of a certificate issued under this part permits any aircraft owned
 
 \(b\) \[Reserved\]
 
-\(c\) The holder of an agricultural aircraft operator certificate may deviate from the provisions of part 91 of this chapter without a certificate of waiver, as authorized in this subpart for dispensing operations, when conducting nondispensing aerial work operations related to agriculture, horticulture, or forest preservation in accordance with the operating rules of this subpart.
+\(c\) The holder of an agricultural aircraft operator certificate may deviate from the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] without a certificate of waiver, as authorized in this subpart for dispensing operations, when conducting nondispensing aerial work operations related to agriculture, horticulture, or forest preservation in accordance with the operating rules of this subpart.
 
-\(d\) Sections 137.31 through 137.35, §§137.41, and 137.53 through 137.59 do not apply to persons and aircraft used in agricultural aircraft operations conducted with public aircraft.
+\(d\) Sections 137.31 through 137.35, §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.41   Personnel.|§137.41]], and 137.53 through 137.59 do not apply to persons and aircraft used in agricultural aircraft operations conducted with public aircraft.
 
-\(e\) Sections 137.31 through 137.35, §§137.39, 137.41, 137.51 through 137.59, and subpart D do not apply to persons and rotorcraft used in agricultural aircraft operations conducted by a person holding a certificate under part 133 of this chapter and involving only the dispensing of water on forest fires by rotorcraft external-load means. However, the operation shall be conducted in accordance with—
+\(e\) Sections 137.31 through 137.35, §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.39   Economic poison dispensing.|§137.39]], 137.41, 137.51 through 137.59, and subpart D do not apply to persons and rotorcraft used in agricultural aircraft operations conducted by a person holding a certificate under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]] and involving only the dispensing of water on forest fires by rotorcraft external-load means. However, the operation shall be conducted in accordance with—
 
-\(1\) The rules of part 133 of this chapter governing rotorcraft external-load operations; and
+\(1\) The rules of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]] governing rotorcraft external-load operations; and
 
-\(2\) The operating rules of this subpart contained in §§137.29, 137.37, and §§137.43 through 137.49.
+\(2\) The operating rules of this subpart contained in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.29   General.|§137.29]], 137.37, and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.43   Operations in controlled airspace designated for an airport.|§137.43]] through 137.49.
 
 \[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Amdt. 137-3, 33 FR 9601, July 2, 1968; Amdt. 137-6, 41 FR 35060, Aug. 19, 1976\]
 
@@ -142,7 +142,7 @@ If the holder of a certificate issued under this part permits any aircraft owned
 
 No person may operate an aircraft unless that aircraft—
 
-\(a\) Meets the requirements of §137.19(d); and
+\(a\) Meets the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]](d); and
 
 \(b\) Is equipped with a suitable and properly installed shoulder harness for use by each pilot.
 
@@ -150,7 +150,7 @@ No person may operate an aircraft unless that aircraft—
 
 \(a\) No person may operate an aircraft unless a facsimile of the agricultural aircraft operator certificate, under which the operation is conducted, is carried on that aircraft. The facsimile shall be presented for inspection upon the request of the Administrator or any Federal, State, or local law enforcement officer.
 
-\(b\) Notwithstanding part 91 of this chapter, the registration and airworthiness certificates issued for the aircraft need not be carried in the aircraft. However, when those certificates are not carried in the aircraft they shall be kept available for inspection at the base from which the dispensing operation is conducted.
+\(b\) Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], the registration and airworthiness certificates issued for the aircraft need not be carried in the aircraft. However, when those certificates are not carried in the aircraft they shall be kept available for inspection at the base from which the dispensing operation is conducted.
 
 \[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Amdt. 137-3, 33 FR 9601, July 2, 1968\]
 
@@ -206,9 +206,9 @@ No persons may dispense, or cause to be dispensed, from an aircraft, any materia
 
 \(a\) *Information.* The holder of an agricultural aircraft operator certificate shall insure that each person used in the holder's agricultural aircraft operation is informed of that person's duties and responsibilities for the operation.
 
-\(b\) *Supervisors.* No person may supervise an agricultural aircraft operation unless he has met the knowledge and skill requirements of §137.19(e).
+\(b\) *Supervisors.* No person may supervise an agricultural aircraft operation unless he has met the knowledge and skill requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]](e).
 
-\(c\) *Pilot in command.* No person may act as pilot in command of an aircraft unless he holds a pilot certificate and rating prescribed by §137.19 (b) or (c), as appropriate to the type of operation conducted. In addition, he must demonstrate to the holder of the Agricultural Aircraft Operator Certificate conducting the operation that he has met the knowledge and skill requirements of §137.19(e). If the holder of that certificate has designated a person under §137.19(e) to supervise his agricultural aircraft operations the demonstration must be made to the person so designated. However, a demonstration of the knowledge and skill requirement is not necessary for any pilot in command who—
+\(c\) *Pilot in command.* No person may act as pilot in command of an aircraft unless he holds a pilot certificate and rating prescribed by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]] (b) or (c), as appropriate to the type of operation conducted. In addition, he must demonstrate to the holder of the Agricultural Aircraft Operator Certificate conducting the operation that he has met the knowledge and skill requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]](e). If the holder of that certificate has designated a person under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]](e) to supervise his agricultural aircraft operations the demonstration must be made to the person so designated. However, a demonstration of the knowledge and skill requirement is not necessary for any pilot in command who—
 
 \(1\) Is, at the time of the filing of an application by an agricultural aircraft operator, working as a pilot in command for that operator; and
 
@@ -226,13 +226,13 @@ No person may operate an aircraft in operations required to be conducted under p
 
 \(b\) No person may operate an aircraft in weather conditions below VFR minimums within the lateral boundaries of a Class E airspace area that extends upward from the surface unless authorization for that operation has been obtained from the ATC facility having jurisdiction over that area.
 
-\(c\) Notwithstanding §91.157(b)(4) of this chapter, an aircraft may be operated under the special VFR weather minimums without meeting the requirements prescribed therein.
+\(c\) Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.157   Special VFR weather minimums.|§91.157]](b)(4) of this chapter, an aircraft may be operated under the special VFR weather minimums without meeting the requirements prescribed therein.
 
 \[Amdt. 137-14, 56 FR 65664, Dec. 17, 1991, as amended by Amdt. 137-14, 58 FR 32840, June 14, 1993; 74 FR 13099, Mar. 26, 2009\]
 
 ### §137.45   Nonobservance of airport traffic pattern.
 
-Notwithstanding part 91 of this chapter, the pilot in command of an aircraft may deviate from an airport traffic pattern when authorized by the control tower concerned. At an airport without a functioning control tower, the pilot in command may deviate from the traffic pattern if—
+Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], the pilot in command of an aircraft may deviate from an airport traffic pattern when authorized by the control tower concerned. At an airport without a functioning control tower, the pilot in command may deviate from the traffic pattern if—
 
 \(a\) Prior coordination is made with the airport management concerned;
 
@@ -244,7 +244,7 @@ Notwithstanding part 91 of this chapter, the pilot in command of an aircraft may
 
 ### §137.47   Operation without position lights.
 
-Notwithstanding part 91 of this chapter, an aircraft may be operated without position lights if prominent unlighted objects are visible for at least 1 mile and takeoffs and landings at—
+Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], an aircraft may be operated without position lights if prominent unlighted objects are visible for at least 1 mile and takeoffs and landings at—
 
 \(a\) Airports with a functioning control tower are made only as authorized by the control tower operator; and
 
@@ -252,13 +252,13 @@ Notwithstanding part 91 of this chapter, an aircraft may be operated without pos
 
 ### §137.49   Operations over other than congested areas.
 
-Notwithstanding part 91 of this chapter, during the actual dispensing operation, including approaches, departures, and turnarounds reasonably necessary for the operation, an aircraft may be operated over other than congested areas below 500 feet above the surface and closer than 500 feet to persons, vessels, vehicles, and structures, if the operations are conducted without creating a hazard to persons or property on the surface.
+Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], during the actual dispensing operation, including approaches, departures, and turnarounds reasonably necessary for the operation, an aircraft may be operated over other than congested areas below 500 feet above the surface and closer than 500 feet to persons, vessels, vehicles, and structures, if the operations are conducted without creating a hazard to persons or property on the surface.
 
 \[Amdt. 137-3, 33 FR 9601, July 2, 1968\]
 
 ### §137.51   Operation over congested areas: General.
 
-\(a\) Notwithstanding part 91 of this chapter, an aircraft may be operated over a congested area at altitudes required for the proper accomplishment of the agricultural aircraft operation if the operation is conducted—
+\(a\) Notwithstanding [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], an aircraft may be operated over a congested area at altitudes required for the proper accomplishment of the agricultural aircraft operation if the operation is conducted—
 
 \(1\) With the maximum safety to persons and property on the surface, consistent with the operation; and
 
@@ -276,7 +276,7 @@ Notwithstanding part 91 of this chapter, during the actual dispensing operation,
 
 \(i\) Except for helicopters, no person may take off a loaded aircraft, or make a turnaround over a congested area.
 
-\(ii\) No person may operate an aircraft over a congested area below the altitudes prescribed in part 91 of this chapter except during the actual dispensing operation, including the approaches and departures necessary for that operation.
+\(ii\) No person may operate an aircraft over a congested area below the altitudes prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] except during the actual dispensing operation, including the approaches and departures necessary for that operation.
 
 \(iii\) No person may operate an aircraft over a congested area during the actual dispensing operation, including the approaches and departures for that operation, unless it is operated in a pattern and at such an altitude that the aircraft can land, in an emergency, without endangering persons or property on the surface.
 
@@ -286,7 +286,7 @@ Notwithstanding part 91 of this chapter, during the actual dispensing operation,
 
 \(ii\) No person may operate a multiengine airplane at a weight greater than the weight that, with the critical engine inoperative, would permit a rate of climb of at least 50 feet per minute at an altitude of at least 1,000 feet above the elevation of the highest ground or obstruction within the area to be worked or at an altitude of 5,000 feet, whichever is higher. For the purposes of this subdivision, it is assumed that the propeller of the inoperative engine is in the minimum drag position; that the wing flaps and landing gear are in the most favorable positions; and that the remaining engine or engines are operating at the maximum continuous power available.
 
-\(iii\) No person may operate any multiengine aircraft over a congested area below the altitudes prescribed in part 91 of this chapter except during the actual dispensing operation, including the approaches, departures, and turnarounds necessary for that operation.
+\(iii\) No person may operate any multiengine aircraft over a congested area below the altitudes prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] except during the actual dispensing operation, including the approaches, departures, and turnarounds necessary for that operation.
 
 \[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Doc. No. 8084, 32 FR 5769, Apr. 11, 1967; Amdt. 137-13, 54 FR 39294, Sept. 25, 1989; Docket FAA-2018-0119, Amdt. 137-17, 83 FR 9175, Mar. 5, 2018\]
 
@@ -302,7 +302,7 @@ Notwithstanding part 91 of this chapter, during the actual dispensing operation,
 
 \(c\) *Aircraft.* (1) Each aircraft must—(i) If it is an aircraft not specified in paragraph (c)(1)(ii) of this section, have had within the preceding 100 hours of time in service a 100-hour or annual inspection by a person authorized by part 65 or 145 of this chapter, or have been inspected under a progressive inspection system; and
 
-\(ii\) If it is a large or turbine-powered multiengine civil airplane of U.S. registry, have been inspected in accordance with the applicable inspection program requirements of §91.409 of this chapter.
+\(ii\) If it is a large or turbine-powered multiengine civil airplane of U.S. registry, have been inspected in accordance with the applicable inspection program requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]] of this chapter.
 
 \(2\) If other than a helicopter, it must be equipped with a device capable of jettisoning at least one-half of the aircraft's maximum authorized load of agricultural material within 45 seconds. If the aircraft is equipped with a device for releasing the tank or hopper as a unit, there must be a means to prevent inadvertent release by the pilot or other crewmember.
 
@@ -332,7 +332,7 @@ Each holder of an agricultural aircraft operator certificate shall allow the Adm
 
 \(3\) The name and quantity of the material dispensed for each operation conducted; and
 
-\(4\) The name, address, and certificate number of each pilot used in agricultural aircraft operations and the date that pilot met the knowledge and skill requirements of §137.19(e).
+\(4\) The name, address, and certificate number of each pilot used in agricultural aircraft operations and the date that pilot met the knowledge and skill requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.19   Certification requirements.|§137.19]](e).
 
 \(b\) The records required by this section must be kept at least 12 months and made available for inspection by the Administrator upon request.
 

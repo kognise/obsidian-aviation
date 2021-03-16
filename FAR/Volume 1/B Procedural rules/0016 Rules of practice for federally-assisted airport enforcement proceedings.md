@@ -38,7 +38,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.16](https://www.ecfr.
 
 Terms defined in the Acts are used as so defined. As used in this part:
 
-*Act* means a statute listed in §16.1 and any regulation, agreement, or document of conveyance issued or made under that statute.
+*Act* means a statute listed in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.1   Applicability and description of part.|§16.1]] and any regulation, agreement, or document of conveyance issued or made under that statute.
 
 *Administrator* means the Administrator of the FAA.
 
@@ -74,7 +74,7 @@ Terms defined in the Acts are used as so defined. As used in this part:
 
 *Noncompliance* means anything done or omitted to be done by any person in contravention of any provision of any Act, as defined in this section, as to matters within the jurisdiction of the Administrator.
 
-*Party* means the complainant(s) and the respondent(s) named in the complaint and, after an initial determination providing an opportunity for hearing is issued under §16.31 and subpart E of this part, the agency.
+*Party* means the complainant(s) and the respondent(s) named in the complaint and, after an initial determination providing an opportunity for hearing is issued under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.31   Director's Determinations after investigations.|§16.31]] and subpart E of this part, the agency.
 
 *Person* in addition to its meaning under 49 U.S.C. 40102(a)(33), includes a public agency as defined in 49 U.S.C. 47102(a)(15).
 
@@ -120,7 +120,7 @@ Terms defined in the Acts are used as so defined. As used in this part:
 
 \(c\) Other than those matters concerning a Corrective Action Plan, the jurisdiction of the Director terminates upon the issuance of the Director's Determination. All matters arising during the appeal period, such as requests for extension of time to make an appeal, will be addressed by the Associate Administrator.
 
-\(d\) The Director may transfer to the FAA Deputy Assistant Administrator for Civil Rights or Office of Civil Rights designee the authority to prepare and issue Director's Determinations pursuant to §16.31 for complaints alleging violations of section 505(d) of the Airport and Airway Improvement Act of 1982, and the requirements concerning civil rights and/or Disadvantaged Business Enterprise (DBE) issues contained in 49 U.S.C. 47107(e) and 49 U.S.C. 47113; 49 U.S.C. 47123; 49 U.S.C. 322, as amended; 49 CFR parts 23 and/or 26; and/or grant assurance 30 and/or grant assurance 37.
+\(d\) The Director may transfer to the FAA Deputy Assistant Administrator for Civil Rights or Office of Civil Rights designee the authority to prepare and issue Director's Determinations pursuant to [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.31   Director's Determinations after investigations.|§16.31]] for complaints alleging violations of section 505(d) of the Airport and Airway Improvement Act of 1982, and the requirements concerning civil rights and/or Disadvantaged Business Enterprise (DBE) issues contained in 49 U.S.C. 47107(e) and 49 U.S.C. 47113; 49 U.S.C. 47123; 49 U.S.C. 322, as amended; 49 CFR parts 23 and/or 26; and/or grant assurance 30 and/or grant assurance 37.
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56142, Sept. 12, 2013\]
 
@@ -160,7 +160,7 @@ Except as otherwise provided in this part, documents shall be filed with the FAA
 
 \(3\) The email address at which the parties may file the documents described in this section is *9-AWA-AGC-Part-16\@faa.gov.* No acknowledgement or receipt will be provided by the FAA to parties using this method. A party filing electronically as described in this section must provide to the FAA Part 16 Docket Clerk and the opposing party an email address of the person designated by the party to receive pleadings.
 
-\(4\) By filing a pleading or document electronically as described in this section, a party waives the rights under this part for service by the opposing party and the FAA by methods other than email. If a party subsequently decides to “opt-out” of electronic filing, that party must so notify the FAA Part 16 Docket Clerk and the other party in writing, from which time the FAA and the parties will begin serving the opting-out party in accordance with §§16.13 and 16.15. This subsection only exempts the parties from the filing and service requirements in §16.13(a) (with the exception that “Documents to be filed with a hearing officer shall be filed at the address and in the manner stated in the hearing order.”), the method of filing requirements in §16.13(b), and the number of documents requirements in §16.13(c).
+\(4\) By filing a pleading or document electronically as described in this section, a party waives the rights under this part for service by the opposing party and the FAA by methods other than email. If a party subsequently decides to “opt-out” of electronic filing, that party must so notify the FAA Part 16 Docket Clerk and the other party in writing, from which time the FAA and the parties will begin serving the opting-out party in accordance with §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]] and 16.15. This subsection only exempts the parties from the filing and service requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](a) (with the exception that “Documents to be filed with a hearing officer shall be filed at the address and in the manner stated in the hearing order.”), the method of filing requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](b), and the number of documents requirements in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](c).
 
 \(i\) *Internet accessibility of documents filed in the Hearing Docket.* (1) Unless protected from public disclosure, all documents filed in the Hearing Docket are accessible through the Federal Docket Management System (FDMS): *http://www.regulations.gov.* To access a particular case file, use the FDMS number assigned to the case.
 
@@ -174,19 +174,19 @@ Except as otherwise provided in this part, documents shall be served as follows:
 
 \(a\) *Whom must be served.* Copies of all documents filed with the FAA Part 16 Docket Clerk shall be served by the persons filing them on all parties to the proceeding. A certificate of service shall accompany all documents when they are tendered for filing and shall certify concurrent service on the FAA and all parties. Certificates of service shall be in substantially the following form:
 
-\(b\) Method of service. Except as otherwise agreed by the parties and, if applicable, the hearing officer, the method of service is the same as set forth in §16.13(b) for filing documents.
+\(b\) Method of service. Except as otherwise agreed by the parties and, if applicable, the hearing officer, the method of service is the same as set forth in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](b) for filing documents.
 
-\(c\) *Where service shall be made.* Service shall be made to the persons identified in accordance with §16.13(f). If no such person has been designated, service shall be made on the party.
+\(c\) *Where service shall be made.* Service shall be made to the persons identified in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](f). If no such person has been designated, service shall be made on the party.
 
 \(d\) *Presumption of service.* There shall be a presumption of lawful service—
 
-\(1\) When acknowledgment of receipt is by a person who customarily or in the ordinary course of business receives mail at the address of the party or of the person designated under §16.13(f);
+\(1\) When acknowledgment of receipt is by a person who customarily or in the ordinary course of business receives mail at the address of the party or of the person designated under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](f);
 
-\(2\) When a properly addressed envelope, sent to the most current address submitted under §16.13(f), has been returned as undeliverable, unclaimed, or refused; or
+\(2\) When a properly addressed envelope, sent to the most current address submitted under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](f), has been returned as undeliverable, unclaimed, or refused; or
 
 \(3\) When the party serving the document electronically has a confirmation statement demonstrating that the email was properly sent to a party correctly addressed.
 
-\(e\) *Date of service.* The date of service shall be determined in the same manner as the filing date under §16.13(b).
+\(e\) *Date of service.* The date of service shall be determined in the same manner as the filing date under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]](b).
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56143, Sept. 12, 2013\]
 
@@ -212,7 +212,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(d\) *Deferred actions on motions.* A ruling on a motion made before the time set for the issuance of the Director's Determination may be deferred to and included with the Director's Determination.
 
-\(e\) *Extension by motion.* A party shall file a written motion for an extension of time not later than 3 business days before the document is due unless good cause for the late filing is shown. A party filing a motion for extension should attempt to obtain the concurrence of the opposing party. A party filing a written motion for an extension of time shall file the motion as required under §16.13, and serve a copy of the motion on all parties and the docket clerk as required under §16.15.
+\(e\) *Extension by motion.* A party shall file a written motion for an extension of time not later than 3 business days before the document is due unless good cause for the late filing is shown. A party filing a motion for extension should attempt to obtain the concurrence of the opposing party. A party filing a written motion for an extension of time shall file the motion as required under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]], and serve a copy of the motion on all parties and the docket clerk as required under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.15   Service of documents on the parties and the agency.|§16.15]].
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56143, Sept. 12, 2013\]
 
@@ -222,7 +222,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(a\) Except for those persons filing under 49 CFR 26.105(c), prior to filing a complaint under this part, a person directly and substantially affected by the alleged noncompliance shall initiate and engage in good faith efforts to resolve the disputed matter informally with those individuals or entities believed responsible for the noncompliance. These efforts at informal resolution may include, without limitation, at the parties' expense, mediation, arbitration, or the use of a dispute resolution board, or other form of third party assistance. The FAA Airports District Office, FAA Airports Field Office, FAA Regional Airports Division responsible for administering financial assistance to the sponsor, or the FAA Office of Civil Rights will be available upon request to assist the parties with informal resolution.
 
-\(b\) Except for complaints filed under 49 CFR 26.105(c), a complaint will be dismissed under §16.27 unless the person or authorized representative filing the complaint certifies that:
+\(b\) Except for complaints filed under 49 CFR 26.105(c), a complaint will be dismissed under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.27   Incomplete complaints.|§16.27]] unless the person or authorized representative filing the complaint certifies that:
 
 \(1\) The complainant has made substantial and reasonable good faith efforts to resolve the disputed matter informally prior to filing the complaint; and
 
@@ -246,9 +246,9 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(4\) Except for complaints filed under 49 CFR 26.105(c), describe how the complainant was directly and substantially affected by the things done or omitted to be done by the respondents.
 
-\(c\) Unless the complaint is dismissed pursuant to §16.25 or §16.27, the FAA notifies the complainant and respondent in writing within 20 days after the date the FAA receives the complaint that the complaint has been docketed.
+\(c\) Unless the complaint is dismissed pursuant to [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.25   Dismissals.|§16.25]] or [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.27   Incomplete complaints.|§16.27]], the FAA notifies the complainant and respondent in writing within 20 days after the date the FAA receives the complaint that the complaint has been docketed.
 
-\(d\) The respondent shall file an answer within 20 days of the date of service of the FAA notification or, if a motion is filed under §16.26, within 20 days of the date of service of an FAA order denying all or part of that motion.
+\(d\) The respondent shall file an answer within 20 days of the date of service of the FAA notification or, if a motion is filed under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.26   Motions to dismiss and motions for summary judgment.|§16.26]], within 20 days of the date of service of an FAA order denying all or part of that motion.
 
 \(e\) The complainant may file a reply within 10 days of the date of service of the answer.
 
@@ -270,19 +270,19 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(3\) A party who has asserted an affirmative defense has the burden of proving the affirmative defense.
 
-\(l\) Except for good cause shown through motion and supporting documents, discovery is not permitted except as provided in §§16.213 and 16.215.
+\(l\) Except for good cause shown through motion and supporting documents, discovery is not permitted except as provided in §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.213   Discovery.|§16.213]] and 16.215.
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56143, Sept. 12, 2013\]
 
 ### §16.25   Dismissals.
 
-\(a\) Within 20 days after the receipt of the complaint, unless a motion has been filed under §16.26, the Director will dismiss a complaint, or any claim made in a complaint, with prejudice if:
+\(a\) Within 20 days after the receipt of the complaint, unless a motion has been filed under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.26   Motions to dismiss and motions for summary judgment.|§16.26]], the Director will dismiss a complaint, or any claim made in a complaint, with prejudice if:
 
-\(1\) It appears on its face to be outside the jurisdiction of the Administrator under the Acts listed in §16.1;
+\(1\) It appears on its face to be outside the jurisdiction of the Administrator under the Acts listed in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.1   Applicability and description of part.|§16.1]];
 
 \(2\) On its face it does not state a claim that warrants an investigation or further action by the FAA; or
 
-\(3\) The complainant lacks standing to file a complaint under §§16.3 and 16.23.
+\(3\) The complainant lacks standing to file a complaint under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§16.3]] and 16.23.
 
 \(b\) A dismissal under this section will include the reasons for the dismissal.
 
@@ -294,11 +294,11 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(b\) *Motions to dismiss.* (1) A motion to dismiss shall be accompanied by a concise statement of the reasons for seeking dismissal. The respondent must show that the complaint should be dismissed, with prejudice, if:
 
-\(i\) It appears on its face to be outside the jurisdiction of the Administrator under the Acts listed in §16.1;
+\(i\) It appears on its face to be outside the jurisdiction of the Administrator under the Acts listed in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.1   Applicability and description of part.|§16.1]];
 
 \(ii\) On its face it does not state a claim that warrants an investigation or further action by the FAA; or
 
-\(iii\) The complainant lacks standing to file a complaint under §§16.3 and 16.23.
+\(iii\) The complainant lacks standing to file a complaint under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.3   Definitions.|§16.3]] and 16.23.
 
 \(2\) A motion to dismiss may seek dismissal of the entire complaint or the dismissal of specified claims in the complaint. A motion to dismiss shall be accompanied by a supporting memorandum of points and authorities.
 
@@ -322,7 +322,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 ### §16.27   Incomplete complaints.
 
-\(a\) If a complaint is not dismissed pursuant to §16.25, but is deficient as to one or more of the requirements set forth in §16.21 or §16.23(b), the Director will dismiss the complaint within 20 days after receiving it. Dismissal will be without prejudice to the refiling of the complaint after amendment to correct the deficiencies. The Director's dismissal will include the reasons for the dismissal.
+\(a\) If a complaint is not dismissed pursuant to [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.25   Dismissals.|§16.25]], but is deficient as to one or more of the requirements set forth in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.21   Pre-complaint resolution.|§16.21]] or [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.23   Pleadings.|§16.23]](b), the Director will dismiss the complaint within 20 days after receiving it. Dismissal will be without prejudice to the refiling of the complaint after amendment to correct the deficiencies. The Director's dismissal will include the reasons for the dismissal.
 
 \(b\) Dismissals under this section are not initial determinations, and appeals from decisions under this section will not be permitted.
 
@@ -344,13 +344,13 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 ### §16.31   Director's Determinations after investigations.
 
-\(a\) After consideration of the pleadings and other information obtained by the FAA after investigation, the Director will render an initial determination and serve it upon each party within 120 days of the date the last pleading specified in §16.23 was due.
+\(a\) After consideration of the pleadings and other information obtained by the FAA after investigation, the Director will render an initial determination and serve it upon each party within 120 days of the date the last pleading specified in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.23   Pleadings.|§16.23]] was due.
 
 (b)(1) The Director's Determination shall include findings of fact and conclusions of law, accompanied by explanations and based upon all material issues of fact, credibility of the evidence, law and discretion presented on the record, together with a statement of the reasons therefor.
 
 \(2\) The Director shall issue a determination or rule in a party's favor only if the determination or ruling is in accordance with law and supported by a preponderance of the reliable, probative, and substantial evidence contained in the record.
 
-\(c\) A party adversely affected by the Director's Determination may appeal the initial determination as provided in §16.33. However, if the Director's Determination that is appealed contains a Corrective Action Plan, the Director has the discretion to suspend the Corrective Action Plan until the appeal is resolved.
+\(c\) A party adversely affected by the Director's Determination may appeal the initial determination as provided in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.33   Final decisions without hearing.|§16.33]]. However, if the Director's Determination that is appealed contains a Corrective Action Plan, the Director has the discretion to suspend the Corrective Action Plan until the appeal is resolved.
 
 \(d\) If the Director's Determination finds the respondent in noncompliance and proposes the issuance of a compliance order, the initial determination will include notice of opportunity for a hearing under subpart F of this part if a hearing is required by statute or otherwise provided by the FAA. A hearing may be required by statute if the FAA determination would terminate eligibility for grants under 49 U.S.C. 47114(c) or (e), or terminate payments on a grant agreement under 49 U.S.C. subchapter 471. The respondent may elect or waive a hearing, as provided in subpart E of this part.
 
@@ -370,7 +370,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 \(3\) The FAA provides opportunity for a hearing to the respondent and the respondent waives the opportunity for a hearing as provided in subpart E of this part.
 
-\(c\) In the cases described in paragraph (b) of this section, within 30 days after the date of service of the initial determination, a party adversely affected by the Director's Determination may file in accordance with §16.13 and serve in accordance with §16.15 a simultaneous Notice of Appeal and Brief.
+\(c\) In the cases described in paragraph (b) of this section, within 30 days after the date of service of the initial determination, a party adversely affected by the Director's Determination may file in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]] and serve in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.15   Service of documents on the parties and the agency.|§16.15]] a simultaneous Notice of Appeal and Brief.
 
 \(d\) A reply to an appeal brief may be filed within 20 days after the date of service of the appeal.
 
@@ -402,7 +402,7 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 ### §16.34   Consent orders.
 
-\(a\) The parties may agree at any time before the issuance of a final agency decision to dispose of the case by proposing a consent order. Good faith efforts to resolve a complaint through issuance of a consent order may continue throughout the administrative process. However, except as provided in §16.11(a), such efforts may not serve as the basis for extensions of the times set forth in this part.
+\(a\) The parties may agree at any time before the issuance of a final agency decision to dispose of the case by proposing a consent order. Good faith efforts to resolve a complaint through issuance of a consent order may continue throughout the administrative process. However, except as provided in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.11   General processes.|§16.11]](a), such efforts may not serve as the basis for extensions of the times set forth in this part.
 
 \(b\) A proposal for a consent order, specified in paragraph (a) of this section, shall include:
 
@@ -420,15 +420,15 @@ This section applies to any period of time prescribed or allowed by this part, b
 
 ### §16.101   Basis for the initiation of agency action.
 
-The FAA may initiate its own investigation of any matter within the applicability of this part without having received a complaint. The investigation may include, without limitation, any of the actions described in §16.29(b).
+The FAA may initiate its own investigation of any matter within the applicability of this part without having received a complaint. The investigation may include, without limitation, any of the actions described in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.29   Investigations.|§16.29]](b).
 
 ### §16.103   Notice of investigation.
 
-Following the initiation of an investigation under §16.101, the FAA sends a notice to the person(s) subject to investigation. The notice will set forth the areas of the agency's concern and the reasons therefor; request a response to the notice within 30 days of the date of service; and inform the respondent that the FAA will, in its discretion, invite good faith efforts to resolve the matter.
+Following the initiation of an investigation under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.101   Basis for the initiation of agency action.|§16.101]], the FAA sends a notice to the person(s) subject to investigation. The notice will set forth the areas of the agency's concern and the reasons therefor; request a response to the notice within 30 days of the date of service; and inform the respondent that the FAA will, in its discretion, invite good faith efforts to resolve the matter.
 
 ### §16.105   Failure to resolve informally.
 
-If the matters addressed in the FAA notices are not resolved informally, the FAA may issue a Director's Determination under §16.31.
+If the matters addressed in the FAA notices are not resolved informally, the FAA may issue a Director's Determination under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.31   Director's Determinations after investigations.|§16.31]].
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56146, Sept. 12, 2013\]
 
@@ -438,17 +438,17 @@ If the matters addressed in the FAA notices are not resolved informally, the FAA
 
 \(a\) The agency will provide the opportunity for a hearing if, in the Director's determination, the agency issues or proposes to issue an order terminating eligibility for grants pursuant to 49 U.S.C. 47106(d), an order suspending the payment of grant funds pursuant to 49 U.S.C. 47111(d); an order withholding approval of any new application to impose a passenger facility charge pursuant to 49 U.S.C. 47111(e); a cease and desist order; an order directing the refund of fees unlawfully collected; or any other compliance order issued by the Administrator to carry out the provisions of the Acts, and required to be issued after notice and opportunity for a hearing. In cases in which a hearing is not required by statute, the FAA may provide opportunity for a hearing at its discretion.
 
-\(b\) In a case in which the agency provides the opportunity for a hearing, the Director's Determination issued under §16.31 will include a statement of the availability of a hearing under subpart F of this part.
+\(b\) In a case in which the agency provides the opportunity for a hearing, the Director's Determination issued under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.31   Director's Determinations after investigations.|§16.31]] will include a statement of the availability of a hearing under subpart F of this part.
 
-\(1\) Within 20 days after service of a Director's Determination under §16.31 that provides an opportunity for a hearing a person subject to the proposed compliance order may—
+\(1\) Within 20 days after service of a Director's Determination under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.31   Director's Determinations after investigations.|§16.31]] that provides an opportunity for a hearing a person subject to the proposed compliance order may—
 
 \(i\) Request a hearing under subpart F of this part;
 
-\(ii\) Waive hearing and appeal the Director's Determination in writing, as provided in §16.33;
+\(ii\) Waive hearing and appeal the Director's Determination in writing, as provided in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.33   Final decisions without hearing.|§16.33]];
 
 \(iii\) File, jointly with a complainant, a motion to withdraw the complaint and to dismiss the proposed compliance action; or
 
-\(iv\) Submit, jointly with the agency, a proposed consent order under §16.34(c).
+\(iv\) Submit, jointly with the agency, a proposed consent order under [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.34   Consent orders.|§16.34]](c).
 
 \(2\) If the respondent fails to file an appeal in writing within the time periods provided in paragraph (c) of this section, the Director's Determination becomes final.
 
@@ -518,7 +518,7 @@ In accordance with the rules of this subpart, a hearing officer may:
 
 \(1\) Any party may be accompanied, represented, or advised by an attorney licensed by a State, the District of Columbia, or a territory of the United States to practice law or appear before the courts of that State or territory, or by another person authorized by the hearing officer to be the party's representative.
 
-\(2\) An attorney, or other duly authorized representative, who represents a party shall file a notice of appearance in accordance with §16.13.
+\(2\) An attorney, or other duly authorized representative, who represents a party shall file a notice of appearance in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.13   Filing of documents.|§16.13]].
 
 \(b\) *Parties and agency participation.* (1) The parties to the hearing are the complainant(s) and respondent(s) named in the hearing order, and the agency. The style of any pleadings filed under this Subpart shall name the respondent as the Appellant, and the Federal Aviation Administration as the Agency.
 
@@ -560,13 +560,13 @@ In accordance with the rules of this subpart, a hearing officer may:
 
 \(b\) *The prehearing conference.* The prehearing conference is conducted by telephone or in person, at the hearing officer's discretion. The prehearing conference addresses matters raised in the prehearing conference notice and such other matters as the hearing officer determines will assist in a prompt, full and fair hearing of the issues.
 
-\(c\) *Prehearing conference report.* At the close of the prehearing conference, the hearing officer rules on any requests for evidence and the production of documents in the possession of other parties, responses to interrogatories, and admissions; on any requests for depositions; on any proposed stipulations; and on any pending applications for subpoenas as permitted by §16.219. In addition, the hearing officer establishes the schedule, which shall provide for the issuance of an initial decision not later than 110 days after issuance of the Director's Determination order unless otherwise provided in the hearing order.
+\(c\) *Prehearing conference report.* At the close of the prehearing conference, the hearing officer rules on any requests for evidence and the production of documents in the possession of other parties, responses to interrogatories, and admissions; on any requests for depositions; on any proposed stipulations; and on any pending applications for subpoenas as permitted by [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.219   Subpoenas.|§16.219]]. In addition, the hearing officer establishes the schedule, which shall provide for the issuance of an initial decision not later than 110 days after issuance of the Director's Determination order unless otherwise provided in the hearing order.
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996, as amended at Amdt. 16-1, 78 FR 56147, Sept. 12, 2013\]
 
 ### §16.213   Discovery.
 
-\(a\) Discovery is limited to requests for admissions, requests for production of documents, interrogatories, and depositions as authorized by §16.215.
+\(a\) Discovery is limited to requests for admissions, requests for production of documents, interrogatories, and depositions as authorized by [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.215   Depositions.|§16.215]].
 
 \(b\) The hearing officer shall limit the frequency and extent of discovery permitted by this section if a party shows that—
 
@@ -724,7 +724,7 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 \(b\) Each party adversely affected by the hearing officer's initial decision may file an appeal with the Associate Administrator within 15 days of the date the initial decision is issued. Each party may file a reply to an appeal within 10 days after it is served on the party. Filing and service of appeals and replies shall be by personal delivery.
 
-\(c\) If an appeal is filed, the Associate Administrator reviews the entire record and issues a final agency decision and order within 60 days of the due date of the reply. If no appeal is filed, the Associate Administrator may take review of the case on his or her own motion. If the Associate Administrator finds that the respondent is not in compliance with any Act or any regulation, agreement, or document of conveyance issued or made under such Act, the final agency order includes, in accordance with §16.245(d), a statement of corrective action, if appropriate, and identifies sanctions for continued noncompliance.
+\(c\) If an appeal is filed, the Associate Administrator reviews the entire record and issues a final agency decision and order within 60 days of the due date of the reply. If no appeal is filed, the Associate Administrator may take review of the case on his or her own motion. If the Associate Administrator finds that the respondent is not in compliance with any Act or any regulation, agreement, or document of conveyance issued or made under such Act, the final agency order includes, in accordance with [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.245   Associate Administrator review after a hearing.|§16.245]](d), a statement of corrective action, if appropriate, and identifies sanctions for continued noncompliance.
 
 \(d\) If no appeal is filed, and the Associate Administrator does not take review of the initial decision on the Associate Administrator's own motion, the initial decision shall take effect as the final agency decision and order on the sixteenth day after the actual date the initial decision is issued.
 
@@ -734,7 +734,7 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 ### §16.243   Consent orders.
 
-\(a\) The agency attorney and the respondents may agree at any time before the issuance of a final decision and order to dispose of the case by issuance of a consent order. Good faith efforts to resolve a complaint through issuance of a consent order may continue throughout the administrative process. Except as provided in §16.209, such efforts may not serve as the basis for extensions of the times set forth in this part.
+\(a\) The agency attorney and the respondents may agree at any time before the issuance of a final decision and order to dispose of the case by issuance of a consent order. Good faith efforts to resolve a complaint through issuance of a consent order may continue throughout the administrative process. Except as provided in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.209   Extension of time.|§16.209]], such efforts may not serve as the basis for extensions of the times set forth in this part.
 
 \(b\) A proposal for a consent order, specified in paragraph (a) of this section, shall include:
 
@@ -756,9 +756,9 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 ### §16.245   Associate Administrator review after a hearing.
 
-\(a\) The Associate Administrator may transfer to the FAA Assistant Administrator for Civil Rights the authority to prepare and issue Final Agency Decisions pursuant to §16.241 for appeals from a hearing concerning civil rights issues.
+\(a\) The Associate Administrator may transfer to the FAA Assistant Administrator for Civil Rights the authority to prepare and issue Final Agency Decisions pursuant to [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.241   Initial decisions, order, and appeals.|§16.241]] for appeals from a hearing concerning civil rights issues.
 
-\(b\) After a hearing is held, and, after considering the issues as set forth in §16.245(e), if the Associate Administrator determines that the hearing officer's initial decision or order should be changed, the Associate Administrator may:
+\(b\) After a hearing is held, and, after considering the issues as set forth in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.245   Associate Administrator review after a hearing.|§16.245]](e), if the Associate Administrator determines that the hearing officer's initial decision or order should be changed, the Associate Administrator may:
 
 \(1\) Make any necessary findings and issue an order in lieu of the hearing officer's initial decision or order, or
 
@@ -808,13 +808,13 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 \(b\) The following do not constitute final decisions and orders subject to judicial review:
 
-\(1\) An FAA decision to dismiss a complaint without prejudice, as set forth in §16.27;
+\(1\) An FAA decision to dismiss a complaint without prejudice, as set forth in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.27   Incomplete complaints.|§16.27]];
 
 \(2\) A Director's Determination;
 
 \(3\) An initial decision issued by a hearing officer at the conclusion of a hearing;
 
-\(4\) A Director's Determination or an initial decision of a hearing officer becomes the final decision of the Associate Administrator because it was not appealed within the applicable time periods provided under §§16.33(c) and 16.241(b).
+\(4\) A Director's Determination or an initial decision of a hearing officer becomes the final decision of the Associate Administrator because it was not appealed within the applicable time periods provided under §[[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.33   Final decisions without hearing.|§16.33]](c) and 16.241(b).
 
 \[Doc. No. 27783, 61 FR 54004, Oct. 16, 1996. Redesignated and amended by Amdt. 16-1, 78 FR 56148, Sept. 12, 2013\]
 
@@ -836,7 +836,7 @@ A party whose evidence has been excluded by a ruling of the hearing officer may 
 
 ### §16.303   Procedures for handling ex parte communications.
 
-A decisional employee who receives or who makes or knowingly causes to be made a communication prohibited by §16.303 shall place in the public record of the proceeding:
+A decisional employee who receives or who makes or knowingly causes to be made a communication prohibited by [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.303   Procedures for handling ex parte communications.|§16.303]] shall place in the public record of the proceeding:
 
 \(a\) All such written communications;
 
@@ -848,7 +848,7 @@ A decisional employee who receives or who makes or knowingly causes to be made a
 
 ### §16.305   Requirement to show cause and imposition of sanction.
 
-\(a\) Upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of §16.303, the Associate Administrator or his designee or the hearing officer may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his or her claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation.
+\(a\) Upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.303   Procedures for handling ex parte communications.|§16.303]], the Associate Administrator or his designee or the hearing officer may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his or her claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation.
 
 \(b\) The Associate Administrator may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the FAA, consider a violation of this subpart sufficient grounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur.
 

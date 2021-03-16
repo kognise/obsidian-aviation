@@ -12,7 +12,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.35](https://www.ecfr.
 
 \(b\) Each person who applies under part 21 for such a certificate or change must show compliance with the applicable requirements of this part.
 
-\(c\) An applicant is eligible for a propeller type certificate and changes to those certificates after demonstrating compliance with subparts A, B, and C of this part. However, the propeller may not be installed on an airplane unless the applicant has shown compliance with either §23.2400(c) or §25.907 of this chapter, as applicable, or compliance is not required for installation on that airplane.
+\(c\) An applicant is eligible for a propeller type certificate and changes to those certificates after demonstrating compliance with subparts A, B, and C of this part. However, the propeller may not be installed on an airplane unless the applicant has shown compliance with either [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.2400   Powerplant installation.|§23.2400]](c) or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.907   Propeller vibration and fatigue.|§25.907]] of this chapter, as applicable, or compliance is not required for installation on that airplane.
 
 \(d\) For the purposes of this part, the propeller consists of those components listed in the propeller type design, and the propeller system consists of the propeller and all the components necessary for its functioning, but not necessarily included in the propeller type design.
 
@@ -20,7 +20,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.35](https://www.ecfr.
 
 ### §35.2   Propeller configuration.
 
-The applicant must provide a list of all the components, including references to the relevant drawings and software design data, that define the type design of the propeller to be approved under §21.31 of this chapter.
+The applicant must provide a list of all the components, including references to the relevant drawings and software design data, that define the type design of the propeller to be approved under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.31   Type design.|§21.31]] of this chapter.
 
 \[Amdt. 35-8, 73 FR 63346, Oct. 24, 2008\]
 
@@ -36,7 +36,7 @@ The applicant must provide instructions that are approved by the Administrator. 
 
 \(3\) Define the limiting conditions on the interfaces from paragraph (a)(2) of this section;
 
-\(4\) List the limitations established under §35.5;
+\(4\) List the limitations established under [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.5   Propeller ratings and operating limitations.|§35.5]];
 
 \(5\) Define the hydraulic fluids approved for use with the propeller, including grade and specification, related operating pressure, and filtration levels; and
 
@@ -58,7 +58,7 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 \(1\) Be established by the applicant and approved by the Administrator.
 
-\(2\) Be included directly or by reference in the propeller type certificate data sheet, as specified in §21.41 of this chapter.
+\(2\) Be included directly or by reference in the propeller type certificate data sheet, as specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.41   Type certificate.|§21.41]] of this chapter.
 
 \(3\) Be based on the operating conditions demonstrated during the tests required by this part as well as any other information the Administrator requires as necessary for the safe operation of the propeller.
 
@@ -106,13 +106,13 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 \(b\) If significant doubt exists as to the effects of failures or likely combination of failures, the Administrator may require assumptions used in the analysis to be verified by test.
 
-\(c\) The primary failures of certain single propeller elements (for example, blades) cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous propeller effects, those elements must be identified as propeller critical parts. For propeller critical parts, applicants must meet the prescribed integrity specifications of §35.16. These instances must be stated in the safety analysis.
+\(c\) The primary failures of certain single propeller elements (for example, blades) cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous propeller effects, those elements must be identified as propeller critical parts. For propeller critical parts, applicants must meet the prescribed integrity specifications of [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.16   Propeller critical parts.|§35.16]]. These instances must be stated in the safety analysis.
 
-\(d\) If reliance is placed on a safety system to prevent a failure progressing to hazardous propeller effects, the possibility of a safety system failure in combination with a basic propeller failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of the safety system are outside the control of the propeller manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the propeller installation and operation instructions required under §35.3.
+\(d\) If reliance is placed on a safety system to prevent a failure progressing to hazardous propeller effects, the possibility of a safety system failure in combination with a basic propeller failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of the safety system are outside the control of the propeller manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the propeller installation and operation instructions required under [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.3   Instructions for propeller installation and operation.|§35.3]].
 
 \(e\) If the safety analysis depends on one or more of the following items, those items must be identified in the analysis and appropriately substantiated.
 
-\(1\) Maintenance actions being carried out at stated intervals. This includes verifying that items that could fail in a latent manner are functioning properly. When necessary to prevent hazardous propeller effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under §35.4. Additionally, if errors in maintenance of the propeller system could lead to hazardous propeller effects, the appropriate maintenance procedures must be included in the relevant propeller manuals.
+\(1\) Maintenance actions being carried out at stated intervals. This includes verifying that items that could fail in a latent manner are functioning properly. When necessary to prevent hazardous propeller effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.4   Instructions for Continued Airworthiness.|§35.4]]. Additionally, if errors in maintenance of the propeller system could lead to hazardous propeller effects, the appropriate maintenance procedures must be included in the relevant propeller manuals.
 
 \(2\) Verification of the satisfactory functioning of safety or other devices at pre-flight or other stated periods. The details of this satisfactory functioning must be published in the appropriate manual.
 
@@ -148,7 +148,7 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 ### §35.16   Propeller critical parts.
 
-The integrity of each propeller critical part identified by the safety analysis required by §35.15 must be established by:
+The integrity of each propeller critical part identified by the safety analysis required by [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.15   Safety analysis.|§35.15]] must be established by:
 
 \(a\) A defined engineering process for ensuring the integrity of the propeller critical part throughout its service life,
 
@@ -178,7 +178,7 @@ Each part of the propeller must be designed and constructed to minimize the deve
 
 ### §35.21   Variable and reversible pitch propellers.
 
-\(a\) No single failure or malfunction in the propeller system will result in unintended travel of the propeller blades to a position below the in-flight low-pitch position. The extent of any intended travel below the in-flight low-pitch position must be documented by the applicant in the appropriate manuals. Failure of structural elements need not be considered if the occurrence of such a failure is shown to be extremely remote under §35.15.
+\(a\) No single failure or malfunction in the propeller system will result in unintended travel of the propeller blades to a position below the in-flight low-pitch position. The extent of any intended travel below the in-flight low-pitch position must be documented by the applicant in the appropriate manuals. Failure of structural elements need not be considered if the occurrence of such a failure is shown to be extremely remote under [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.15   Safety analysis.|§35.15]].
 
 \(b\) For propellers incorporating a method to select blade pitch below the in-flight low pitch position, provisions must be made to sense and indicate to the flight crew that the propeller blades are below that position by an amount defined in the installation manual. The method for sensing and indicating the propeller blade pitch position must be such that its failure does not affect the control of the propeller.
 
@@ -206,7 +206,7 @@ The requirements of this section apply to any system or component that controls,
 
 \(3\) A method is provided to indicate that an operating mode change has occurred if flight crew action is required. In such an event, operating instructions must be provided in the appropriate manuals.
 
-\(b\) The propeller control system must be designed and constructed so that, in addition to compliance with §35.15:
+\(b\) The propeller control system must be designed and constructed so that, in addition to compliance with [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.15   Safety analysis.|§35.15]]:
 
 \(1\) No single failure or malfunction of electrical or electronic components in the control system results in a hazardous propeller effect.
 
@@ -236,7 +236,7 @@ The maximum stresses developed in the propeller may not exceed values acceptable
 
 ### §35.33   General.
 
-\(a\) Each applicant must furnish test article(s) and suitable testing facilities, including equipment and competent personnel, and conduct the required tests in accordance with part 21 of this chapter.
+\(a\) Each applicant must furnish test article(s) and suitable testing facilities, including equipment and competent personnel, and conduct the required tests in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
 \(b\) All automatic controls and safety systems must be in operation unless it is accepted by the Administrator as impossible or not required because of the nature of the test. If needed for substantiation, the applicant may test a different propeller configuration if this does not constitute a less severe test.
 
@@ -286,7 +286,7 @@ This section does not apply to fixed-pitch wood propellers of conventional desig
 
 \(3\) Blade retention components.
 
-\(4\) Components which are affected by fatigue loads and which are shown under §35.15 to have a fatigue failure mode leading to hazardous propeller effects.
+\(4\) Components which are affected by fatigue loads and which are shown under [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.15   Safety analysis.|§35.15]] to have a fatigue failure mode leading to hazardous propeller effects.
 
 \(b\) The fatigue limits must take into account:
 
@@ -296,7 +296,7 @@ This section does not apply to fixed-pitch wood propellers of conventional desig
 
 \(c\) A fatigue evaluation of the propeller must be conducted to show that hazardous propeller effects due to fatigue will be avoided throughout the intended operational life of the propeller on either:
 
-\(1\) The intended airplane by complying with §23.2400(c) or §25.907 of this chapter, as applicable; or
+\(1\) The intended airplane by complying with [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.2400   Powerplant installation.|§23.2400]](c) or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.907   Propeller vibration and fatigue.|§25.907]] of this chapter, as applicable; or
 
 \(2\) A typical airplane.
 
@@ -342,7 +342,7 @@ Endurance tests on the propeller system must be made on a representative engine 
 
 \(C\) Thirty minutes at idle.
 
-\(2\) The operation of the propeller throughout the engine endurance tests prescribed in part 33 of this chapter.
+\(2\) The operation of the propeller throughout the engine endurance tests prescribed in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]].
 
 \(c\) An analysis based on tests of propellers of similar design may be used in place of the tests of paragraphs (a) and (b) of this section.
 
@@ -350,7 +350,7 @@ Endurance tests on the propeller system must be made on a representative engine 
 
 ### §35.40   Functional test.
 
-The variable-pitch propeller system must be subjected to the applicable functional tests of this section. The same propeller system used in the endurance test (§35.39) must be used in the functional tests and must be driven by a representative engine on a test stand or on an airplane. The propeller must complete these tests without evidence of failure or malfunction. This test may be combined with the endurance test for accumulation of cycles.
+The variable-pitch propeller system must be subjected to the applicable functional tests of this section. The same propeller system used in the endurance test ([[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.39   Endurance test.|§35.39]]) must be used in the functional tests and must be driven by a representative engine on a test stand or on an airplane. The propeller must complete these tests without evidence of failure or malfunction. This test may be combined with the endurance test for accumulation of cycles.
 
 \(a\) Manually-controllable propellers. Five hundred representative flight cycles must be made across the range of pitch and rotational speed.
 
@@ -404,7 +404,7 @@ Applicants must show by test, validated analysis, or both, that propeller compon
 
 # a35.1   general
 
-\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by §35.4.
+\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.4   Instructions for Continued Airworthiness.|§35.4]].
 
 \(b\) The Instructions for Continued Airworthiness for each propeller must include the Instructions for Continued Airworthiness for all propeller parts. If Instructions for Continued Airworthiness are not supplied by the propeller part manufacturer for a propeller part, the Instructions for Continued Airworthiness for the propeller must include the information essential to the continued airworthiness of the propeller.
 
@@ -456,7 +456,7 @@ The contents of the manual must be prepared in the English language. The Instruc
 
 # a35.4   airworthiness limitations section
 
-The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §§43.16 and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
+The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations unless an alternative program has been FAA approved.”
 
 \[Amdt. 35-5, 45 FR 60182, Sept. 11, 1980, as amended by Amdt. 35-6, 54 FR 34330, Aug. 18, 1989\]
 

@@ -7,7 +7,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 **Clearance ^4-4-1**
 
 1.  A clearance issued by ATC is predicated on known traffic and known physical airport conditions. An ATC clearance means an authorization by ATC, for the purpose of preventing collision between known aircraft, for an aircraft to proceed under specified conditions within controlled airspace. IT IS NOT AUTHORIZATION FOR A PILOT TO DEVIATE FROM ANY RULE, REGULATION, OR MINIMUM ALTITUDE NOR TO CONDUCT UNSAFE OPERATION OF THE AIRCRAFT.
-2.  14 CFR Section 91.3(a) states: “The pilot-in-command of an aircraft is directly responsible for, a[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.3   Responsibility and authority of the pilot in command.|14 CFR Section 91.3]]hority as to, the operation of that aircraft.” If ATC issues a clearance that would cause a pilot to deviate from a rule or regulation, or in the pilot's opinion, would place the aircraft in jeopardy, IT IS THE PILOT'S RESPONSIBILITY TO REQUEST AN AMENDED CLEARANCE. Similarly, if a pilot prefers to follow a different course of action, such as make a 360 degree turn for spacing to follow traffic when established in a landing or approach sequence, land on a different runway, takeoff from a different intersection, takeoff from the threshold instead of an intersection, or delay operation, THE PILOT IS EXPECTED TO INFORM ATC ACCORDINGLY. When the pilot requests a different course of action, however, the pilot is expected to cooperate so as to preclude disruption of traffic flow or creation of conflicting patterns. The pilot is also expected to use the appropriate aircraft call sign to acknowledge all ATC clearances, frequency changes, or advisory information.
+2.  [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.3   Responsibility and authority of the pilot in command.|14 CFR Section 91.3]](a) states: “The pilot-in-command of an aircraft is directly responsible for, and is the final authority as to, the operation of that aircraft.” If ATC issues a clearance that would cause a pilot to deviate from a rule or regulation, or in the pilot's opinion, would place the aircraft in jeopardy, IT IS THE PILOT'S RESPONSIBILITY TO REQUEST AN AMENDED CLEARANCE. Similarly, if a pilot prefers to follow a different course of action, such as make a 360 degree turn for spacing to follow traffic when established in a landing or approach sequence, land on a different runway, takeoff from a different intersection, takeoff from the threshold instead of an intersection, or delay operation, THE PILOT IS EXPECTED TO INFORM ATC ACCORDINGLY. When the pilot requests a different course of action, however, the pilot is expected to cooperate so as to preclude disruption of traffic flow or creation of conflicting patterns. The pilot is also expected to use the appropriate aircraft call sign to acknowledge all ATC clearances, frequency changes, or advisory information.
 3.  Each pilot who deviates from an ATC clearance in response to a Traffic Alert and Collision Avoidance System resolution advisory must notify ATC of that deviation as soon as possible.
     <div>
 
@@ -64,13 +64,13 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
         <em>**NOTE-**</em>
 
-        <em>In the event of two-way communications failure, pilots are required to comply with 14 CFR Section 91.185.</em>
+        <em>In the event of two-way communications failure, pilots are required to comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|14 CFR Section 91.185]].</em>
 
         </div>
 
 **Amended Clearances ^4-4-4**
 
-1.  Amendments t[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|14 CFR Section 91.185]]ce will be issued at any time an air traffic controller deems such action necessary to avoid possible confliction between aircraft. Clearances will require that a flight “hold” or change altitude prior to reaching the point where standard separation from other IFR traffic would no longer exist.
+1.  Amendments to the initial clearance will be issued at any time an air traffic controller deems such action necessary to avoid possible confliction between aircraft. Clearances will require that a flight “hold” or change altitude prior to reaching the point where standard separation from other IFR traffic would no longer exist.
     <div>
 
     <em>**NOTE-**</em>
@@ -109,10 +109,10 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
     <em>**REFERENCE-**</em>
 
-    <em> 14 CFR Section 91.119, Minimum safe altitudes: General. </em>
+    <em> [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.119   Minimum safe altitudes: General.|14 CFR Section 91.119]], Minimum safe altitudes: General. </em>
 
     </div>
-4.  Special VFR clear[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.119   Minimum safe altitudes: General.|14 CFR Section 91.119]]ithin Class B, Class C, Class D, and Class E surface areas only. ATC does not provide separation after an aircraft leaves the Class B, Class C, Class D, or Class E surface area on a special VFR clearance.
+4.  Special VFR clearances are effective within Class B, Class C, Class D, and Class E surface areas only. ATC does not provide separation after an aircraft leaves the Class B, Class C, Class D, or Class E surface area on a special VFR clearance.
 5.  Special VFR operations by fixed-wing aircraft are prohibited in some Class B and Class C surface areas due to the volume of IFR traffic. A list of these Class B and Class C surface areas is contained in 14 CFR Part 91, Appendix D, Section 3. They are also depicted on sectional aeronautical charts.
 6.  ATC provides separation between Special VFR flights and between these flights and other IFR flights.
 7.  Special VFR operations by fixed-wing aircraft are prohibited between sunset and sunrise unless the pilot is instrument rated and the aircraft is equipped for IFR flight.
@@ -150,9 +150,9 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 3.  A pilot on an IFR flight plan, operating in VFR conditions, may request to climb/descend in VFR conditions.
 4.  ATC may not authorize VFR-on-top/VFR conditions operations unless the pilot requests the VFR operation or a clearance to operate in VFR conditions will result in noise abatement benefits where part of the IFR departure route does not conform to an FAA approved noise abatement route or altitude.
 5.  When operating in VFR conditions with an ATC authorization to “maintain VFR-on-top/maintain VFR conditions” pilots on IFR flight plans must:
-    1.  Fly at the appropriate VFR altitude as prescribed in 14 CFR Section 91.159.
-    2.  Comply with the VFR visibility and distance from cloud criteria in[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]]5 (Basic VFR Weather Minimums).
-    3.  Comply with instrument flight rules t[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|14 CFR Section 91.155]] this flight; i.e., minimum IFR altitudes, position reporting, radio communications, course to be flown, adherence to ATC clearance, etc.
+    1.  Fly at the appropriate VFR altitude as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]].
+    2.  Comply with the VFR visibility and distance from cloud criteria in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|14 CFR Section 91.155]] (Basic VFR Weather Minimums).
+    3.  Comply with instrument flight rules that are applicable to this flight; i.e., minimum IFR altitudes, position reporting, radio communications, course to be flown, adherence to ATC clearance, etc.
         <div>
 
         <em>**NOTE-**</em>
@@ -198,7 +198,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
     <em>**REFERENCE-**</em>
 
-    <em> 14 CFR Section 91.117. </em>
+    <em> [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]. </em>
 
     </div>
 
@@ -206,7 +206,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
     <em>**NOTE-**</em>
 
-    <em>Level[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]t MSL on descent or 2,500 feet above airport elevation (prior to entering a Class C or Class D surface area) to comply with 14 CFR Section 91.117 airspeed restrictions is commonplace. Controllers anticipate this action and plan accordingly. Leveling off at any other time on climb or descent may seriously affect air traffic handling by ATC. Consequently, it is imperative that pilots make every effort to fulfill the above expected actions to aid ATC in safely handling and expediting traffic.</em>
+    <em>Leveling off at 10,000 feet MSL on descent or 2,500 feet above airport elevation (prior to entering a Class C or Class D surface area) to comply with 14 CFR Section 91.117 airspeed restrictions is commonplace. Controllers anticipate this action and plan accordingly. Leveling off at any other time on climb or descent may seriously affect air traffic handling by ATC. Consequently, it is imperative that pilots make every effort to fulfill the above expected actions to aid ATC in safely handling and expediting traffic.</em>
 
     </div>
 5.  If the altitude information of an ATC DESCENT clearance includes a provision to “CROSS (fix) AT” or “AT OR ABOVE/BELOW (altitude),” the manner in which the descent is executed to comply with the crossing altitude is at the pilot's discretion. This authorization to descend at pilot's discretion is only applicable to that portion of the flight to which the crossing altitude restriction applies, and the pilot is expected to comply with the crossing altitude as a provision of the clearance. Any other clearance in which pilot execution is optional will so state “AT PILOT'S DISCRETION.”
@@ -392,7 +392,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
     <em>**NOTE-**</em>
 
-    <em>The maximum speeds below 10,000 feet as established in 14 CFR Section 91.117 still apply. If there is any doubt concerning the manner in which such a cle[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]ted, request clarification from ATC.</em>
+    <em>The maximum speeds below 10,000 feet as established in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]] still apply. If there is any doubt concerning the manner in which such a clearance is to be executed, request clarification from ATC.</em>
 
     </div>
 6.  If ATC determines (before an approach clearance is issued) that it is no longer necessary to apply speed adjustment procedures, they will:
@@ -409,10 +409,10 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
         <em>**NOTE-**</em>
 
-        <em>The ATC assigned speed assignment of two two zero knots would apply until BALTR. The aircraft would then resume a normal operating speed while remaining in compliance with 14 CFR Section 91.117.</em>
+        <em>The ATC assigned speed assignment of two two zero knots would apply until BALTR. The aircraft would then resume a normal operating speed while remaining in compliance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]].</em>
 
         </div>
-    2.  Instruct pilots to “comply with speed restr[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]craft is joining or resuming a charted procedure or route with published speed restrictions.
+    2.  Instruct pilots to “comply with speed restrictions” when the aircraft is joining or resuming a charted procedure or route with published speed restrictions.
         <div>
 
         <em>**EXAMPLE-**</em>
@@ -465,10 +465,10 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
 
         <em>**NOTE-**</em>
 
-        <em>When deleting published restrictions, ATC must ensure obstacle clearance until aircraft are established on a route where no published restrictions apply. This does not relieve the pilot of those speed restrictions which are applicable to 14 CFR Section 91.117.</em>
+        <em>When deleting published restrictions, ATC must ensure obstacle clearance until aircraft are established on a route where no published restrictions apply. This does not relieve the pilot of those speed restrictions which are applicable to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]].</em>
 
         </div>
-    5.  Instruct the pilot to “climb via” or “desce[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]or descend via clearance cancels any previously issued speed restrictions and, once established on the depicted departure or arrival, to climb or descend, and to meet all published or assigned altitude and/or speed restrictions.
+    5.  Instruct the pilot to “climb via” or “descend via.” A climb via or descend via clearance cancels any previously issued speed restrictions and, once established on the depicted departure or arrival, to climb or descend, and to meet all published or assigned altitude and/or speed restrictions.
         <div>
 
         <em>**EXAMPLE-**</em>
@@ -507,15 +507,15 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_sect
     </div>
 9.  Pilots are reminded that they are responsible for rejecting the application of speed adjustment by ATC if, in their opinion, it will cause them to exceed the maximum indicated airspeed prescribed by 14 CFR Section 91.117(a), (c) and (d). <em>IN SUCH CASES, THE PILOT IS EXPECTED TO SO INFORM ATC. </em>Pilots operating at or above 10,000 feet MSL who are issued speed adjustments which exceed 250 knots IAS and are subsequently cleared below 10,000 feet MSL are expected to comply with 14 CFR Section 91.117(a).
 10. Speed restrictions of 250 knots do not apply to U.S. registered aircraft operating beyond 12 nautical miles from the coastline within the U.S. Flight Information Region, in Class E airspace below 10,000 feet MSL. However, in airspace underlying a Class B airspace area designated for an airport, or in a VFR corridor designated through such as a Class B airspace area, pilots are expected to comply with the 200 knot speed limit specified in 14 CFR Section 91.117(c).
-11. For operations in a Class C and Class D surface area, ATC is authorized to request or approve a speed greater than the maximum indicated airspeeds prescribed for operation within that airspace (14 CFR Section 91.117(b)).
+11. For operations in a Class C and Class D surface area, ATC is authorized to request or approve a speed greater than the maximum indicated airspeeds prescribed for operation within that airspace ([[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]](b)).
     <div>
 
     <em>**NOTE-**</em>
 
-    <em>Pilots are expected to [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]um speed of 200 knots when operating beneath Class B airspace or in a Class B VFR corridor (14 CFR Section 91.117(c) and (d)).</em>
+    <em>Pilots are expected to comply with the maximum speed of 200 knots when operating beneath Class B airspace or in a Class B VFR corridor ([[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]](c) and (d)).</em>
 
     </div>
-12. When in communications with the ARTCC o[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]cility, pilots should, as a good operating practice, state any ATC assigned speed restriction on initial radio contact associated with an ATC communications frequency change.
+12. When in communications with the ARTCC or approach control facility, pilots should, as a good operating practice, state any ATC assigned speed restriction on initial radio contact associated with an ATC communications frequency change.
 
 **Runway Separation ^4-4-13** Tower controllers establish the sequence of arriving and departing aircraft by requiring them to adjust flight or ground operation as necessary to achieve proper spacing. They may “HOLD” an aircraft short of the runway to achieve spacing between it and an arriving aircraft; the controller may instruct a pilot to “EXTEND DOWNWIND” in order to establish spacing from an arriving or departing aircraft. At times a clearance may include the word “IMMEDIATE.” For example: “CLEARED FOR IMMEDIATE TAKEOFF.” In such cases “IMMEDIATE” is used for purposes of <em>air traffic separation. </em>It is up to the pilot to refuse the clearance if, in the pilot's opinion, compliance would adversely affect the operation.
 

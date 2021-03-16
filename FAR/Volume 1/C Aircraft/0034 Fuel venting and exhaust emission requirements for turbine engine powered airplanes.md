@@ -46,15 +46,15 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Date of manufacture* of an engine is the date the inspection acceptance records reflect that the engine is complete and meets the FAA approved type design.
 
-*Derivative engine for emissions certification purposes* means an engine that has the same or similar emissions characteristics as an engine covered by a U.S. type certificate issued under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|14 CFR part 33]]. These characteristics are specified in §34.48.
+*Derivative engine for emissions certification purposes* means an engine that has the same or similar emissions characteristics as an engine covered by a U.S. type certificate issued under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|14 CFR part 33]]. These characteristics are specified in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.48   Derivative engines for emissions certification purposes.|§34.48]].
 
 *Emission measurement system* means all of the equipment necessary to transport the emission sample and measure the level of emissions. This includes the sample system and the instrumentation system.
 
 *Engine model* means all commercial aircraft turbine engines which are of the same general series, displacement, and design characteristics and are approved under the same type certificate.
 
-*Excepted,* as used in §34.9, means an engine that may be produced and sold that does not meet otherwise applicable standards. Excepted engines must conform to regulatory conditions specified for an exception in §34.9. Excepted engines are subject to the standards of this part even though they are not required to comply with the otherwise applicable requirements. Engines excepted with respect to certain standards must comply with other standards from which they are not specifically excepted.
+*Excepted,* as used in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§34.9]], means an engine that may be produced and sold that does not meet otherwise applicable standards. Excepted engines must conform to regulatory conditions specified for an exception in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§34.9]]. Excepted engines are subject to the standards of this part even though they are not required to comply with the otherwise applicable requirements. Engines excepted with respect to certain standards must comply with other standards from which they are not specifically excepted.
 
-*Exempt* means an engine that does not meet certain applicable standards but may be produced and sold under the terms allowed by a grant of exemption issued pursuant to §34.7 of this part and part 11 of this chapter. Exempted engines must conform to regulatory conditions specified in the exemption as well as other applicable regulations. Exempted engines are subject to the standards of this part even though they are not required to comply with the otherwise applicable requirements. Engines exempted with respect to certain standards must comply with other standards as a condition of the exemption.
+*Exempt* means an engine that does not meet certain applicable standards but may be produced and sold under the terms allowed by a grant of exemption issued pursuant to [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.7   Exemptions.|§34.7]] of this part and [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md|part 11 of this chapter]]. Exempted engines must conform to regulatory conditions specified in the exemption as well as other applicable regulations. Exempted engines are subject to the standards of this part even though they are not required to comply with the otherwise applicable requirements. Engines exempted with respect to certain standards must comply with other standards as a condition of the exemption.
 
 *Exhaust emissions* means substances emitted into the atmosphere from the exhaust discharge nozzle of an aircraft or aircraft engine.
 
@@ -88,7 +88,7 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Taxi/idle (out)* means those aircraft operations involving taxi and idle between the time of initial starting of the propulsion engine(s) used for the taxi and the turn onto the duty runway.
 
-*Tier,* as used in this part, is a designation related to the NOX emission standard for the engine as specified in §34.21 or §34.23 of this part (e.g., Tier 0).
+*Tier,* as used in this part, is a designation related to the NOX emission standard for the engine as specified in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]] or [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.23   Exhaust Emission Standards for Engines Manufactured on and after July 18, 2012.|§34.23]] of this part (e.g., Tier 0).
 
 \[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5558, Feb. 3, 1999; Amdt. 34-5, 77 FR 76849, Dec. 31, 2012; Amdt. 34-5A, 78 FR 63016, Oct. 23, 2013\]
 
@@ -180,7 +180,7 @@ TIM   Time in mode
 
 \(m\) If EPA, by regulation or exemption, relaxes a provision of 40 CFR part 87 that is implemented in this FAR, no state or political subdivision thereof may adopt or attempt to enforce the terms of this FAR that are superseded by the relaxed requirement.
 
-\(n\) If any provision of this FAR is rendered inapplicable to a foreign aircraft as provided in 40 CFR 87.3(c) (international agreements), and §34.3(d) of this FAR, that provision may not be adopted or enforced against that foreign aircraft by a state or political subdivision thereof.
+\(n\) If any provision of this FAR is rendered inapplicable to a foreign aircraft as provided in 40 CFR 87.3(c) (international agreements), and [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.3   General requirements.|§34.3]](d) of this FAR, that provision may not be adopted or enforced against that foreign aircraft by a state or political subdivision thereof.
 
 \(o\) For exhaust emissions requirements of this FAR that apply beginning February 1, 1974, January 1, 1976, January 1, 1978, January 1, 1984, and August 9, 1985, continued compliance with those requirements is shown for engines for which the type design has been shown to meet those requirements, if the engine is maintained in accordance with applicable maintenance requirements for 14 CFR chapter I. All methods of demonstrating compliance and all model designations previously found acceptable to the Administrator shall be deemed to continue to be an acceptable demonstration of compliance with the specific standards for which they were approved.
 
@@ -214,9 +214,9 @@ Notwithstanding part 11 of the Federal Aviation Regulations ([[Volume 1/B Proced
 
 \(4\) Other flights the Administrator determines, after consultation with the Administrator of the EPA, to be for short durations at infrequent intervals. A request for such a determination shall be made before the flight takes place.
 
-\(b\) *Exemptions for very low production engine models.* The emissions standards of this part do not apply to engines of very low production after the date of applicability. For the purpose of this part, “very low production” is limited to a maximum total production for United States civil aviation applications of no more than 200 units covered by the same type certificate after January 1, 1984. Engines manufactured under this provision must be reported to the FAA by serial number on or before the date of manufacture and exemptions granted under this provision are not transferable to any other engine. This exemption is limited to the requirements of §34.21 only.
+\(b\) *Exemptions for very low production engine models.* The emissions standards of this part do not apply to engines of very low production after the date of applicability. For the purpose of this part, “very low production” is limited to a maximum total production for United States civil aviation applications of no more than 200 units covered by the same type certificate after January 1, 1984. Engines manufactured under this provision must be reported to the FAA by serial number on or before the date of manufacture and exemptions granted under this provision are not transferable to any other engine. This exemption is limited to the requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]] only.
 
-\(c\) *Exemptions for new engines in other categories.* The emissions standards of this part do not apply to engines for which the Administrator determines, with the concurrence of the Administrator of the EPA, that application of any standard under §34.21 is not justified, based upon consideration of—
+\(c\) *Exemptions for new engines in other categories.* The emissions standards of this part do not apply to engines for which the Administrator determines, with the concurrence of the Administrator of the EPA, that application of any standard under [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]] is not justified, based upon consideration of—
 
 \(1\) Adverse economic impact on the manufacturer;
 
@@ -252,9 +252,9 @@ Notwithstanding part 11 of the Federal Aviation Regulations ([[Volume 1/B Proced
 
 \(5\) The record for each engine excepted under this paragraph (c) must indicate that the engine was produced as an excepted spare engine.
 
-\(6\) Engines produced under this exception must be labeled “EXCEPTED SPARE” in accordance with §45.13 of this chapter.
+\(6\) Engines produced under this exception must be labeled “EXCEPTED SPARE” in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]] of this chapter.
 
-\(b\) On and after July 18, 2012, and before August 31, 2013, a manufacturer may produce up to six Tier 4 compliant engines that meet the NOX standards of paragraph (d)(1)(vi) of this section rather than §34.23(a)(2). No separate approval is required to produce these engines. Engines produced under this exception are to be labeled “COMPLY” in accordance with §45.13 of this chapter.
+\(b\) On and after July 18, 2012, and before August 31, 2013, a manufacturer may produce up to six Tier 4 compliant engines that meet the NOX standards of paragraph (d)(1)(vi) of this section rather than [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.23   Exhaust Emission Standards for Engines Manufactured on and after July 18, 2012.|§34.23]](a)(2). No separate approval is required to produce these engines. Engines produced under this exception are to be labeled “COMPLY” in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]] of this chapter.
 
 \[Doc. No. FAA-2012-1333, 77 FR 76850, Dec. 31, 2012\]
 
@@ -286,7 +286,7 @@ Notwithstanding part 11 of the Federal Aviation Regulations ([[Volume 1/B Proced
 
 ### §34.20   Applicability.
 
-The provisions of this subpart are applicable to all aircraft gas turbine engines of the classes specified beginning on the dates specified in §34.21.
+The provisions of this subpart are applicable to all aircraft gas turbine engines of the classes specified beginning on the dates specified in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]].
 
 ### §34.21   Standards for exhaust emissions.
 
@@ -362,13 +362,13 @@ SN = 187(rO)−0.168 (rO is in kW).
 
 \(f\) The standards set forth in paragraphs (a), (b), (c), (d), and (e) of this section refer to a composite gaseous emission sample representing the operation cycles and exhaust smoke emission emitted during operation of the engine as specified in the applicable sections of subpart G of this part, and measured and calculated in accordance with the procedures set forth in subpart G.
 
-\(g\) Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in §34.60.
+\(g\) Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.60   Introduction.|§34.60]].
 
 \[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5559, Feb. 3, 1999; Amdt. 34-4, 74 FR 19127, Apr. 28, 2009; Amdt. 34-5, 77 FR 76851, Dec. 31, 2012\]
 
 ### §34.23   Exhaust Emission Standards for Engines Manufactured on and after July 18, 2012.
 
-The standards of this section apply to aircraft engines manufactured on and after July 18, 2012, unless otherwise exempted or excepted. Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in §34.60.
+The standards of this section apply to aircraft engines manufactured on and after July 18, 2012, unless otherwise exempted or excepted. Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.60   Introduction.|§34.60]].
 
 \(a\) Gaseous exhaust emissions from each new aircraft gas turbine engine shall not exceed:
 
@@ -376,7 +376,7 @@ The standards of this section apply to aircraft engines manufactured on and afte
 
 SN = 83.6(rO)−0.274 or 50.0, whichever is smaller
 
-\(2\) Except as provided in §§34.9(b) and 34.21(c), for Classes TF, T3 and T8 engines manufactured on and after July 18, 2012, and for which the first individual production model was manufactured on or before December 31, 2013 (Tier 6):
+\(2\) Except as provided in §[[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.9   Exceptions.|§34.9]](b) and 34.21(c), for Classes TF, T3 and T8 engines manufactured on and after July 18, 2012, and for which the first individual production model was manufactured on or before December 31, 2013 (Tier 6):
 
 <div>
 
@@ -396,7 +396,7 @@ Tier 6 Oxides of Nitrogen Emission Standards for Subsonic Engines
 
 </div>
 
-\(3\) Engines exempted from paragraph (a)(2) of this section produced on or before December 31, 2016 must be labeled “EXEMPT NEW” in accordance with §45.13 of this chapter. No exemptions to the requirements of paragraph (a)(2) of this section will be granted after December 31, 2016.
+\(3\) Engines exempted from paragraph (a)(2) of this section produced on or before December 31, 2016 must be labeled “EXEMPT NEW” in accordance with [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.13   Identification data.|§45.13]] of this chapter. No exemptions to the requirements of paragraph (a)(2) of this section will be granted after December 31, 2016.
 
 \(4\) For Class TSS Engines manufactured on and after July 18, 2012:
 
@@ -447,7 +447,7 @@ Tier 8 Oxides of Nitrogen Emission Standards for Subsonic Engines
 
 </div>
 
-\(c\) Engines (including engines that are determined to be derivative engines for the purposes of emission certification) type certificated with characteristic levels at or below the NOX standards of §34.21(d)(1)(vi) of this part (as applicable based on rated output and rated pressure ratio) and introduced before July 18, 2012, may be produced through December 31, 2012, without meeting the NOX standard of paragraph (a)(2) of this section.
+\(c\) Engines (including engines that are determined to be derivative engines for the purposes of emission certification) type certificated with characteristic levels at or below the NOX standards of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.21   Standards for exhaust emissions.|§34.21]](d)(1)(vi) of this part (as applicable based on rated output and rated pressure ratio) and introduced before July 18, 2012, may be produced through December 31, 2012, without meeting the NOX standard of paragraph (a)(2) of this section.
 
 \[Doc. No. 34-5, 77 FR 76851, Dec. 31, 2012, as amended by Amdt. 34-5A, 78 FR 63017, Oct. 23, 2013; 78 FR 65554, Nov. 1, 2013\]
 
@@ -455,7 +455,7 @@ Tier 8 Oxides of Nitrogen Emission Standards for Subsonic Engines
 
 ### §34.30   Applicability.
 
-The provisions of this subpart are applicable to all in-use aircraft gas turbine engines certificated for operation within the United States of the classes specified, beginning on the dates specified in §34.31.
+The provisions of this subpart are applicable to all in-use aircraft gas turbine engines certificated for operation within the United States of the classes specified, beginning on the dates specified in [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md#§34.31   Standards for exhaust emissions.|§34.31]].
 
 ### §34.31   Standards for exhaust emissions.
 
@@ -473,7 +473,7 @@ SN = 83.6(rO)−0.274 (rO is in kN).
 
 ### §34.48   Derivative engines for emissions certification purposes.
 
-\(a\) *General.* A derivative engine for emissions certification purposes is an engine configuration that is determined to be similar in design to a previously certificated (original) engine for purposes of compliance with exhaust emissions standards (gaseous and smoke). A type certificate holder may request from the FAA a determination that an engine configuration is considered a derivative engine for emissions certification purposes. To be considered a derivative engine for emission purposes under this part, the configuration must have been derived from the original engine that was certificated to the requirements of part 33 of this chapter and one of the following:
+\(a\) *General.* A derivative engine for emissions certification purposes is an engine configuration that is determined to be similar in design to a previously certificated (original) engine for purposes of compliance with exhaust emissions standards (gaseous and smoke). A type certificate holder may request from the FAA a determination that an engine configuration is considered a derivative engine for emissions certification purposes. To be considered a derivative engine for emission purposes under this part, the configuration must have been derived from the original engine that was certificated to the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]] and one of the following:
 
 \(1\) The FAA has determined that a safety issue exists that requires an engine modification.
 

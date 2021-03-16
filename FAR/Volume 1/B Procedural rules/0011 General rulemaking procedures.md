@@ -66,7 +66,7 @@ FAA follows the Administrative Procedure Act (APA) procedures for these common t
 
 \(a\) Rules found in the Code of Federal Regulations;
 
-\(b\) Airworthiness directives issued under part 39 of this chapter; and
+\(b\) Airworthiness directives issued under [[Volume 1/C Aircraft/0039 Airworthiness directives.md|part 39 of this chapter]]; and
 
 \(c\) Airspace Designations issued under various parts of this chapter.
 
@@ -250,7 +250,7 @@ A public meeting is a non-adversarial, fact-finding proceeding conducted by an F
 
 \(2\) By paper submission, send the original signed copy of your petition for rulemaking or exemption to this address: U.S. Department of Transportation, Docket Operations, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590.
 
-\(b\) Submit a petition for rulemaking or exemption from part 139 of this chapter—
+\(b\) Submit a petition for rulemaking or exemption from [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0139 Certification of airports.md|part 139 of this chapter]]—
 
 \(1\) To the appropriate FAA airport field office in whose area your airport is, or will be, established; and
 
@@ -314,7 +314,7 @@ Generally, FAA does not invite public comment on petitions for rulemaking.
 
 ### §11.77   Is there any additional information I must include in my petition for designating airspace?
 
-In petitions asking FAA to establish, amend, or repeal a designation of airspace, including special use airspace, you must include all the information specified by §11.71 and also:
+In petitions asking FAA to establish, amend, or repeal a designation of airspace, including special use airspace, you must include all the information specified by [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.71   What information must I include in my petition for rulemaking?|§11.71]] and also:
 
 \(a\) The location and a description of the airspace you want assigned or designated;
 

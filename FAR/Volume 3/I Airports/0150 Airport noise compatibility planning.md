@@ -160,13 +160,13 @@ For the purposes of this part, uses of land which are normally compatible or non
 
 (f)(2) Title 49 section 47506(b) further provides:
 
-\(g\) For this purpose, the term *significant* in paragraph (f) of this section means that change or increase in one or more of the four factors which results in a “substantial new noncompatible use” as defined in §150.21(d), affecting the property in issue. Responsibility for applying or interpreting this provision with respect to specific properties rests with local government.
+\(g\) For this purpose, the term *significant* in paragraph (f) of this section means that change or increase in one or more of the four factors which results in a “substantial new noncompatible use” as defined in [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.21   Noise exposure maps and related descriptions.|§150.21]](d), affecting the property in issue. Responsibility for applying or interpreting this provision with respect to specific properties rests with local government.
 
 \[Doc. No. 18691, 49 FR 49269, Dec. 1, 1984; 50 FR 5063, Feb. 6, 1985; Amdt. 150-2, 54 FR 39295, Sept. 25, 1989; Amdt. 150-4, 69 FR 57626, Sept. 24, 2004\]
 
 ### §150.23   Noise compatibility programs.
 
-\(a\) Any airport operator who has submitted an acceptable noise exposure map under §150.21 may, after FAA notice of acceptability and other consultation and public procedure specified under paragraphs (b) and (c) of this section, as applicable, submit to the Regional Airports Division Manager five copies of a noise compatibility program.
+\(a\) Any airport operator who has submitted an acceptable noise exposure map under [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.21   Noise exposure maps and related descriptions.|§150.21]] may, after FAA notice of acceptability and other consultation and public procedure specified under paragraphs (b) and (c) of this section, as applicable, submit to the Regional Airports Division Manager five copies of a noise compatibility program.
 
 \(b\) An airport operator may submit the noise compatibility program at the same time as the noise exposure map. In this case, the Regional Airports Division Manager will not begin the statutory 180-day review period (for the program) until after FAA reviews the noise exposure map and finds that it and its supporting documentation are in compliance with the applicable requirements.
 
@@ -176,7 +176,7 @@ For the purposes of this part, uses of land which are normally compatible or non
 
 \(e\) Each noise compatibility program submitted to the FAA must consist of at least the following:
 
-\(1\) A copy of the noise exposure map and its supporting documentation as found in compliance with the applicable requirements by the FAA, per §150.21(c).
+\(1\) A copy of the noise exposure map and its supporting documentation as found in compliance with the applicable requirements by the FAA, per [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.21   Noise exposure maps and related descriptions.|§150.21]](c).
 
 \(2\) A description and analysis of the alternative measures considered by the airport operator in developing the program, together with a discussion of why each rejected measure was not included in the program.
 
@@ -200,7 +200,7 @@ For the purposes of this part, uses of land which are normally compatible or non
 
 ### §150.31   Preliminary review: Acknowledgments.
 
-\(a\) Upon receipt of a noise compatibility program submitted under §150.23, the Regional Airports Division Manager acknowledges to the airport operator receipt of the program and conducts a preliminary review of the submission.
+\(a\) Upon receipt of a noise compatibility program submitted under [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.23   Noise compatibility programs.|§150.23]], the Regional Airports Division Manager acknowledges to the airport operator receipt of the program and conducts a preliminary review of the submission.
 
 \(b\) If, based on the preliminary review, the Regional Airports Division Manager finds that the submission does not conform to the requirements of this part, he disapproves and returns the unacceptable program to the airport operator for reconsideration and development of a program in accordance with this part.
 
@@ -246,7 +246,7 @@ For the purposes of this part, uses of land which are normally compatible or non
 
 ### §150.35   Determinations; publications; effectivity.
 
-\(a\) The FAA issues a determination approving or disapproving each airport noise compatibility program (and revised program). Portions of a program may be individually approved or disapproved. No conditional approvals will be issued. A determination on a program acceptable under this part is issued within 180 days after the program is received under §150.23 of this part or it may be considered approved, except that this time period may be exceeded for any portion of a program relating to the use of flight procedures for noise control purposes. A determination on portions of a program covered by the exceptions to the 180-day review period for approval will be issued within a reasonable time after receipt of the program. Determinations relating to the use of any flight procedure for noise control purposes may be issued either in connection with the determination on other portions of the program or separately. Except as provided by this paragraph, no approval of any noise compatibility program, or any portion of a program, may be implied in the absence of the FAA's express approval.
+\(a\) The FAA issues a determination approving or disapproving each airport noise compatibility program (and revised program). Portions of a program may be individually approved or disapproved. No conditional approvals will be issued. A determination on a program acceptable under this part is issued within 180 days after the program is received under [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.23   Noise compatibility programs.|§150.23]] of this part or it may be considered approved, except that this time period may be exceeded for any portion of a program relating to the use of flight procedures for noise control purposes. A determination on portions of a program covered by the exceptions to the 180-day review period for approval will be issued within a reasonable time after receipt of the program. Determinations relating to the use of any flight procedure for noise control purposes may be issued either in connection with the determination on other portions of the program or separately. Except as provided by this paragraph, no approval of any noise compatibility program, or any portion of a program, may be implied in the absence of the FAA's express approval.
 
 \(b\) The Administrator approves programs under this part, if—
 
@@ -330,7 +330,7 @@ Sec. A150.205   Mathematical computations.
 
 ### Sec. A150.5   Noise measurement procedures and equipment.
 
-\(a\) Sound levels must be measured or analyzed with equipment having the “A” frequency weighting, filter characteristics, and the “slow response” characteristics as defined in International Electrotechnical Commission (IEC) Publication No. 179, entitled “Precision Sound Level Meters” as incorporated by reference in part 150 under §150.11. For purposes of this part, the tolerances allowed for general purpose, type 2 sound level meters in IEU 179, are acceptable.
+\(a\) Sound levels must be measured or analyzed with equipment having the “A” frequency weighting, filter characteristics, and the “slow response” characteristics as defined in International Electrotechnical Commission (IEC) Publication No. 179, entitled “Precision Sound Level Meters” as incorporated by reference in part 150 under [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.11   Identification of land uses.|§150.11]]. For purposes of this part, the tolerances allowed for general purpose, type 2 sound level meters in IEU 179, are acceptable.
 
 \(b\) Noise measurements and documentation must be in accordance with accepted acoustical measurement methodology, such as those described in American National Standards Institute publication ANSI 51.13, dated 1971 as revised 1979, entitled “ANS—Methods for the Measurement of Sound Pressure Levels”; ARP No. 796, dated 1969, entitled “Measurement of Aircraft Exterior Noise in the Field”; “Handbook of Noise Measurement,” Ninth Ed. 1980, by Arnold P.G. Peterson; or “Acoustic Noise Measurement,” dated Jan., 1979, by J.R. Hassell and K. Zaveri. For purposes of this part, measurements intended for comparison to a State or local standard or with another transportation noise source (including other aircraft) must be reported in maximum A-weighted sound levels (LAM); for computation or validation of the yearly day-night average level (Ldn), measurements must be reported in sound exposure level (LAE), as defined in Sec. A150.205 of this appendix.
 
@@ -552,13 +552,13 @@ Sec. B150.9   Equivalent programs.
 
 ### Sec. B150.3   Requirement for noise map.
 
-\(a\) It is required that a current and complete noise exposure map and its supporting documentation as found in compliance with the applicable requirements by the FAA, per §150.21(c) be included in each noise compatibility program:
+\(a\) It is required that a current and complete noise exposure map and its supporting documentation as found in compliance with the applicable requirements by the FAA, per [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.21   Noise exposure maps and related descriptions.|§150.21]](c) be included in each noise compatibility program:
 
 \(1\) To identify existing and future noncompatible land uses, based on airport operation and off-airport land uses, which have generated the need to develop a program.
 
 \(2\) To identify changes in noncompatible uses to be derived from proposed program measures.
 
-\(b\) If the proposed noise compatibility program would yield maps differing from those previously submitted to FAA, the program shall be accompanied by appropriately revised maps. Such revisions must be prepared in accordance with the requirements of Sec. A150.101(e) of appendix A and will be accepted by FAA in accordance with §150.35(f).
+\(b\) If the proposed noise compatibility program would yield maps differing from those previously submitted to FAA, the program shall be accompanied by appropriately revised maps. Such revisions must be prepared in accordance with the requirements of Sec. A150.101(e) of appendix A and will be accepted by FAA in accordance with [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.35   Determinations; publications; effectivity.|§150.35]](f).
 
 ### Sec. B150.5   Program standards.
 
@@ -568,7 +568,7 @@ Based upon the airport noise exposure and noncompatible land uses identified in 
 
 \(b\) Does not impose undue burden on interstate and foreign commerce;
 
-\(c\) Provides for revision in accordance with §150.23 of this part.
+\(c\) Provides for revision in accordance with [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.23   Noise compatibility programs.|§150.23]] of this part.
 
 \(d\) Is not unjustly discriminatory.
 
@@ -624,7 +624,7 @@ Based upon the airport noise exposure and noncompatible land uses identified in 
 
 \(2\) A noise contour of Ldn 70 dB resulting from aircraft operations and data related to the Ldn 70 dB contour. When determinations on land use compatibility using Table 1 of appendix A differ between Ldn 65-70 dB and Ldn 70-75 dB, the determinations should either use the more conservative Ldn 70-75 dB column or reflect determinations based on local needs and values.
 
-\(3\) The categorization of alternatives pursuant to Sec. B150.7(a), although the persons responsible for implementation of each measure in the program must still be identified in accordance with §150.23(e)(8).
+\(3\) The categorization of alternatives pursuant to Sec. B150.7(a), although the persons responsible for implementation of each measure in the program must still be identified in accordance with [[Volume 3/I Airports/0150 Airport noise compatibility planning.md#§150.23   Noise compatibility programs.|§150.23]](e)(8).
 
 \(4\) Use of ambient noise to determine land use compatibility.
 

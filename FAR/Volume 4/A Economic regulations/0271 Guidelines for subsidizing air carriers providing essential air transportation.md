@@ -92,7 +92,7 @@ In establishing the subsidy for an air carrier providing essential air service a
 
 ### §271.6   Profit element.
 
-The reasonable return for a carrier for providing essential air service at an eligible place generally will be set at a flat percentage, typically 5 percent of that carrier's projected operating costs as established under §271.4, plus any applicable interest expenses on flight equipment.
+The reasonable return for a carrier for providing essential air service at an eligible place generally will be set at a flat percentage, typically 5 percent of that carrier's projected operating costs as established under [[Volume 4/A Economic regulations/0271 Guidelines for subsidizing air carriers providing essential air transportation.md#§271.4   Carrier costs.|§271.4]], plus any applicable interest expenses on flight equipment.
 
 \[ER-1398, 49 FR 49846, Dec. 24, 1984, as amended at 60 FR 43524, 43525, Aug. 22, 1995\]
 
@@ -106,9 +106,9 @@ The reasonable return for a carrier for providing essential air service at an el
 
 \(2\) The actual number of flights completed, aircraft miles flown, available seat-miles flown, or variations in other operational elements upon which the subsidy rate is based; or
 
-\(3\) Adjustments to the carrier's subsidy required by §271.8(b).
+\(3\) Adjustments to the carrier's subsidy required by [[Volume 4/A Economic regulations/0271 Guidelines for subsidizing air carriers providing essential air transportation.md#§271.8   Rate period.|§271.8]](b).
 
-\(c\) Payments will continue for the duration of the rate term established under §271.8 provided that the carrier continues to provide the required service.
+\(c\) Payments will continue for the duration of the rate term established under [[Volume 4/A Economic regulations/0271 Guidelines for subsidizing air carriers providing essential air transportation.md#§271.8   Rate period.|§271.8]] provided that the carrier continues to provide the required service.
 
 \[ER-1398, 49 FR 49846, Dec. 24, 1984, as amended at 60 FR 43524, 43525, Aug. 22, 1995\]
 
@@ -140,11 +140,11 @@ The reasonable return for a carrier for providing essential air service at an el
 
 \(2\) The Civil Rights Act of 1964 and 49 CFR part 21; and
 
-\(3\) The Rehabilitation Act of 1973, 49 CFR part 27, and part 382 of this chapter.
+\(3\) The Rehabilitation Act of 1973, 49 CFR part 27, and [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md|part 382 of this chapter]].
 
-\(b\) Within 1 year after it first receives a subsidy under this part, the carrier shall evaluate its practices and procedures for accommodating the handicapped in accordance with §382.23 of this chapter.
+\(b\) Within 1 year after it first receives a subsidy under this part, the carrier shall evaluate its practices and procedures for accommodating the handicapped in accordance with [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.23   May carriers require a passenger with a disability to provide a medical certificate?|§382.23]] of this chapter.
 
-\(c\) All air carriers seeking a subsidy under this part shall include in their subsidy application the assurances required by 49 CFR parts 20, 21, 27 and 29, and §382.21 of this chapter.
+\(c\) All air carriers seeking a subsidy under this part shall include in their subsidy application the assurances required by 49 CFR parts 20, 21, 27 and 29, and [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.21   May carriers limit access to transportation on the basis that a passenger has a communicable disease or other medical condition?|§382.21]] of this chapter.
 
 \[ER-1398, 49 FR 49846, Dec. 24, 1984, as amended at 60 FR 43525, Aug. 22, 1995\]
 

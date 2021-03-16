@@ -36,9 +36,9 @@ This subpart designates restricted areas and prescribes limitations on the opera
 
 No person may operate an aircraft within a restricted area between the designated altitudes and during the time of designation, unless he has the advance permission of
 
-\(a\) The using agency described in §73.15; or
+\(a\) The using agency described in [[Volume 2/E Airspace/0073 Special use airspace.md#§73.15   Using agency.|§73.15]]; or
 
-\(b\) The controlling agency described in §73.17.
+\(b\) The controlling agency described in [[Volume 2/E Airspace/0073 Special use airspace.md#§73.17   Controlling agency.|§73.17]].
 
 ### §73.15   Using agency.
 
@@ -58,7 +58,7 @@ No person may operate an aircraft within a restricted area between the designate
 
 ### §73.17   Controlling agency.
 
-For the purposes of this part, the controlling agency is the FAA facility that may authorize transit through or flight within a restricted area in accordance with a joint-use letter issued under §73.15.
+For the purposes of this part, the controlling agency is the FAA facility that may authorize transit through or flight within a restricted area in accordance with a joint-use letter issued under [[Volume 2/E Airspace/0073 Special use airspace.md#§73.15   Using agency.|§73.15]].
 
 ### §73.19   Reports by using agency.
 

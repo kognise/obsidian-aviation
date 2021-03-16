@@ -36,7 +36,7 @@ As used in this part:
 
 \(g\) *Maximum passenger capacity* means the maximum number of passenger seats for which an aircraft is configured.
 
-\(h\) *Maximum payload capacity* means the maximum certificated takeoff weight of an aircraft less the empty weight as defined in section 03 of part 241 of this chapter, less all justifiable aircraft equipment, and less the operating load (consisting of minimum fuel load, oil, flight crew, steward's supplies, etc.). For purposes of this part, the allowance for weight of the crew, oil and fuel is as follows:
+\(h\) *Maximum payload capacity* means the maximum certificated takeoff weight of an aircraft less the empty weight as defined in section 03 of [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]], less all justifiable aircraft equipment, and less the operating load (consisting of minimum fuel load, oil, flight crew, steward's supplies, etc.). For purposes of this part, the allowance for weight of the crew, oil and fuel is as follows:
 
 \(1\) Crew—200 pounds per crew member required under FAA regulations in 14 CFR chapter I, (2) oil—350 pounds, (3) fuel—the minimum weight of fuel required under FAA regulations in 14 CFR chapter I for a flight between domestic points 200 miles apart, assuming VFR weather conditions and flights not involving extended overwater operations. However, in the case of aircraft for which a maximum zero fuel weight is prescribed by the FAA, maximum payload capacity means the maximum zero fuel weight less the empty weight, less all justifiable aircraft equipment, and less the operating load (consisting of minimum flight crew, steward's supplies, etc., but not including disposable fuel or oil).
 
@@ -60,7 +60,7 @@ A Canadian charter air taxi operator shall conduct charter air service between t
 
 \(c\) Has and maintains in effect liability insurance coverage that complies with the requirements set forth in subpart E of this part and has and maintains a current certificate of insurance evidencing such coverage on file with the Department;
 
-\(d\) Has and maintains in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523) and complies with all other requirements of part 203 of this chapter;
+\(d\) Has and maintains in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523) and complies with all other requirements of [[Volume 4/A Economic regulations/0203 Waiver of warsaw convention liability limits and defenses.md|part 203 of this chapter]];
 
 \(e\) Has effective authority from the Government of Canada to conduct charter air service between the United States and Canada.
 
@@ -96,7 +96,7 @@ Canadian charter air taxi operators registered under this part are exempt from t
 
 To apply for registration under this part, a Canadian charter air taxi operator shall file with the Department's Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, the following:
 
-\(a\) A currently effective certificate of insurance (see §294.40); and
+\(a\) A currently effective certificate of insurance (see [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.40   Aircraft accident liability insurance requirements.|§294.40]]); and
 
 \(b\) Three copies of OST Forms 4523 and 4505, which may be obtained from the Department's Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division. All the information required by OST Form 4505 shall be filled in, and it shall be certified by a responsible officer of the applicant Canadian charter air taxi operator.
 
@@ -144,7 +144,7 @@ Registrants shall refile a copy of OST Form 4505 with the Department's Office of
 
 \(3\) The registrant must also refile its certificate of insurance under its new name; and
 
-\(4\) The registrant must also advise the appropriate FAA office referred to in §294.33 of the carrier's new name.
+\(4\) The registrant must also advise the appropriate FAA office referred to in [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.33   Compliance with the regulations of the Federal Aviation Administration.|§294.33]] of the carrier's new name.
 
 \(b\) The carrier changes its designated agent.
 
@@ -160,7 +160,7 @@ Registrants shall refile a copy of OST Form 4505 with the Department's Office of
 
 ### §294.30   Scope of service and equipment authorized.
 
-\(a\) Upon fulfillment of the requirements of §294.3 of this part, the registrant will have Department authority to engage in charter air services between any point or points in Canada and any point or points in the United States using small aircraft.
+\(a\) Upon fulfillment of the requirements of [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.3   General requirements for Canadian charter air taxi operators.|§294.3]] of this part, the registrant will have Department authority to engage in charter air services between any point or points in Canada and any point or points in the United States using small aircraft.
 
 \(b\) Nothing in this part shall be construed as authorizing the operation of large aircraft in charter air service, and the exemption provided by this part to Canadian charter air taxi operators that register with the Department extends only to the direct operations of charter air service in accordance with the limitations and conditions of this part using aircraft designed to have:
 
@@ -180,9 +180,9 @@ Registrants shall refile a copy of OST Form 4505 with the Department's Office of
 
 ### §294.32   Security arrangements for operating Public Charters.
 
-When a Canadian charter air taxi operator performs a Public Charter under part 380 of this chapter, either:
+When a Canadian charter air taxi operator performs a Public Charter under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]], either:
 
-\(a\) The Canadian charter air taxi operator shall meet the bonding or escrow requirements applicable to foreign air carriers as set forth in §212.8 of this chapter.
+\(a\) The Canadian charter air taxi operator shall meet the bonding or escrow requirements applicable to foreign air carriers as set forth in [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.8   Protection of customers' payments.|§212.8]] of this chapter.
 
 \(b\) The Canadian charter air taxi operator shall ensure that it does not receive any payments for the charter until after the charter has been completed. In this case, its contracts with the charter operator and the charter operator's depository bank, if any, shall state that the charter operator or bank, as applicable, shall retain control of and responsibility for all participant funds intended for payment for charter air service until after the charter has been completed, notwithstanding any provision of part 380.
 
@@ -208,7 +208,7 @@ The Department, by order or regulation and without hearing, may require advance 
 
 ### §294.40   Aircraft accident liability insurance requirements.
 
-No Canadian charter air taxi operator shall engage in charter air service unless such carrier has and maintains in effect aircraft accident liability coverage that meets the requirements of part 205 of this chapter. Evidence of such insurance coverage, in the form of a certificate of insurance, as required in part 205 of this chapter, shall be maintained on file with the Department's Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, at all times.
+No Canadian charter air taxi operator shall engage in charter air service unless such carrier has and maintains in effect aircraft accident liability coverage that meets the requirements of [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]]. Evidence of such insurance coverage, in the form of a certificate of insurance, as required in [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]], shall be maintained on file with the Department's Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, at all times.
 
 (Approved by the Office of Management and Budget under control number 3024-0050)
 
@@ -242,13 +242,13 @@ The registration of a carrier subject to this part may be revoked, canceled, sus
 
 ### §294.51   Presidential review.
 
-A Department order under §294.50 (e), (g) or (i) shall be subject to stay or disapproval by the President within 60 days.
+A Department order under [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.50   Cancellation, revocation, or suspension of registration.|§294.50]] (e), (g) or (i) shall be subject to stay or disapproval by the President within 60 days.
 
 ## Subpart G—Authorizations and Waivers
 
 ### §294.60   Applications for authorization to conduct individual operations or programs not otherwise permitted by this part.
 
-\(a\) Where the terms, conditions, or limitations of this part, particularly §294.81, require prior approval of individual flights or charter programs, the registrant shall apply for such approval by filing three copies of OST Form 4540 with the Office of International Aviation, Foreign Air Carrier Licensing Division. OST Form 4540 may be obtained from the Foreign Air Carrier Licensing Division.
+\(a\) Where the terms, conditions, or limitations of this part, particularly [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.81   Local traffic prohibited.|§294.81]], require prior approval of individual flights or charter programs, the registrant shall apply for such approval by filing three copies of OST Form 4540 with the Office of International Aviation, Foreign Air Carrier Licensing Division. OST Form 4540 may be obtained from the Foreign Air Carrier Licensing Division.
 
 \(b\) Action on the application for authorization filed under paragraph (a) of this section will normally be taken within 30 days after the application is filed. The Department will consider requests for faster action that include a full explanation of the need for expedited action.
 
@@ -274,7 +274,7 @@ By accepting an approved registration under this part, a registrant waives any r
 
 ### §294.81   Local traffic prohibited.
 
-\(a\) Except as set forth in paragraph (b) of this section or §294.60, a registrant shall not carry passengers, cargo, or mail between two or more United States points for compensation or hire.
+\(a\) Except as set forth in paragraph (b) of this section or [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.60   Applications for authorization to conduct individual operations or programs not otherwise permitted by this part.|§294.60]], a registrant shall not carry passengers, cargo, or mail between two or more United States points for compensation or hire.
 
 \(b\) A registrant may grant stopover privileges at any point or points in the United States to passengers and their accompanied baggage as part of a single continuous operation to or from Canada.
 
@@ -302,7 +302,7 @@ Registrants shall conform to the airworthiness and airman competency requirement
 
 ### §294.86   Industrial/agricultural/other nontransport air operations prohibited.
 
-A registrant shall not engage in flights for the purpose of industrial or agricultural operations (e.g., crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting, aerial photography) within the United States unless it has obtained a permit from the Department under part 375 of this chapter.
+A registrant shall not engage in flights for the purpose of industrial or agricultural operations (e.g., crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting, aerial photography) within the United States unless it has obtained a permit from the Department under [[Volume 4/D Special regulations/0375 Navigation of foreign civil aircraft within the united states.md|part 375 of this chapter]].
 
 ### §294.87   Compliance with Canadian licenses.
 

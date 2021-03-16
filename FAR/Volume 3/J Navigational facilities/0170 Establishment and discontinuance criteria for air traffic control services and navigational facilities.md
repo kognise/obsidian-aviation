@@ -136,7 +136,7 @@ This subpart sets forth establishment and discontinuance criteria for Airport Tr
 
 \(5\) The airport must meet the benefit-cost ratio criteria specified herein utilizing three consecutive FAA annual counts and projections of future traffic during the expected life of the tower facility. (An FAA annual count is a fiscal year or a calendar year activity summary. Where actual traffic counts are unavailable or not recorded, adequately documented FAA estimates of the scheduled and nonscheduled activity may be used.)
 
-\(b\) An airport meets the establishment criteria when it satisfies paragraphs (a)(1) through (a)(5) of this section and its benefit-cost ratio equals or exceeds one. As defined in §170.3 of this part, the benefit-cost ratio is the ratio of the present value of the ATCT life cycle benefits (BPV) to the present value of ATCT life cycle costs (CPV).
+\(b\) An airport meets the establishment criteria when it satisfies paragraphs (a)(1) through (a)(5) of this section and its benefit-cost ratio equals or exceeds one. As defined in [[Volume 3/J Navigational facilities/0170 Establishment and discontinuance criteria for air traffic control services and navigational facilities.md#§170.3   Definitions.|§170.3]] of this part, the benefit-cost ratio is the ratio of the present value of the ATCT life cycle benefits (BPV) to the present value of ATCT life cycle costs (CPV).
 
 BPV/CPV≥1.0
 

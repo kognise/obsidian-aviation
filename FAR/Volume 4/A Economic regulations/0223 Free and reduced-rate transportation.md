@@ -122,7 +122,7 @@ Air carriers may charge any rate or fare for interstate and overseas air transpo
 
 ### §223.21   Free and reduced-rate transportation authorized by statute or regulation.
 
-\(a\) Any air carrier or foreign air carrier may provide free or reduced-rate foreign air transportation to any classes of persons specifically named in 49 U.S.C. 41511 or free transportation to those named in §375.35 of this chapter.
+\(a\) Any air carrier or foreign air carrier may provide free or reduced-rate foreign air transportation to any classes of persons specifically named in 49 U.S.C. 41511 or free transportation to those named in [[Volume 4/D Special regulations/0375 Navigation of foreign civil aircraft within the united states.md#§375.35   Free transportation.|§375.35]] of this chapter.
 
 \(b\) Air carriers and foreign air carriers may offer reduced fares for foreign air transportation to ministers of religion, the elderly, retired, and handicapped passengers, and to attendants required by handicapped passengers, but shall file tariffs for such fares. Carriers may establish reasonable tariff rules to assist in identifying those who qualify for reduced fares.
 
@@ -130,9 +130,9 @@ Air carriers may charge any rate or fare for interstate and overseas air transpo
 
 ### §223.22   Other persons to whom free and reduced-rate transportation may be furnished.
 
-Air carriers and foreign air carriers are exempted from 49 U.S.C. 41510 and 41310(b) and part 221 of this chapter to the extent necessary to provide free or reduced-rate foreign air transportation, including passes, to the following:
+Air carriers and foreign air carriers are exempted from 49 U.S.C. 41510 and 41310(b) and [[Volume 4/A Economic regulations/0221 Tariffs.md|part 221 of this chapter]] to the extent necessary to provide free or reduced-rate foreign air transportation, including passes, to the following:
 
-\(a\) Directors, officers, employees, and retirees and members of their immediate families, of any carrier or of any affiliate of such carrier, subject to the requirements of §223.25.
+\(a\) Directors, officers, employees, and retirees and members of their immediate families, of any carrier or of any affiliate of such carrier, subject to the requirements of [[Volume 4/A Economic regulations/0223 Free and reduced-rate transportation.md#§223.25   List of affiliates.|§223.25]].
 
 \(b\) Persons to whom the carrier is required to furnish such transportation by law or government directive or by a contract or agreement between the carrier and the government of any country served by the carrier. The Department may, without prior notice, direct the carrier to file a tariff covering such transportation if it finds that the law or government directive in question requires the provision of such transportation. This transportation may be provided only if:
 
@@ -186,7 +186,7 @@ Any carrier authorized to engage in foreign air transportation may transport in 
 
 \(a\) Each carrier shall maintain at its principal office a list containing all of that carrier's affiliates, showing the exact relationship of each affiliate to the carrier.
 
-\(b\) No pass may be issued under §223.22(a) to a director, officer, employee, or members of their immediate family, of any affiliate, unless that affiliate is on the list required by paragraph (a) of this section.
+\(b\) No pass may be issued under [[Volume 4/A Economic regulations/0223 Free and reduced-rate transportation.md#§223.22   Other persons to whom free and reduced-rate transportation may be furnished.|§223.22]](a) to a director, officer, employee, or members of their immediate family, of any affiliate, unless that affiliate is on the list required by paragraph (a) of this section.
 
 \(c\) The list required by paragraph (a) of this section shall be furnished to the Department upon request.
 

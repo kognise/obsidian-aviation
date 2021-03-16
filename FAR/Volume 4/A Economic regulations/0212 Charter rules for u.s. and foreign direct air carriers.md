@@ -6,13 +6,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.212](https://www.ecfr
 
 ### §212.1   Scope.
 
-This part applies to all charter flights, and all other flights carrying charter passengers or cargo, in interstate and/or foreign air transportation by U.S. certificated air carriers or in foreign air transportation by foreign air carriers. It does not apply to any flights performed by a commuter air carrier, air taxi operator, or certificated air carrier operating “small aircraft” under part 298 of this chapter. Nothing in this part gives authority to operate a type or level of service not authorized by certificate, foreign air carrier permit, or exemption, except that a certificated air carrier authorized to conduct scheduled operations may conduct charter flights, in interstate and/or foreign air transportation, without limitation as to the points served.
+This part applies to all charter flights, and all other flights carrying charter passengers or cargo, in interstate and/or foreign air transportation by U.S. certificated air carriers or in foreign air transportation by foreign air carriers. It does not apply to any flights performed by a commuter air carrier, air taxi operator, or certificated air carrier operating “small aircraft” under [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]]. Nothing in this part gives authority to operate a type or level of service not authorized by certificate, foreign air carrier permit, or exemption, except that a certificated air carrier authorized to conduct scheduled operations may conduct charter flights, in interstate and/or foreign air transportation, without limitation as to the points served.
 
 ### §212.2   Definitions.
 
 For the purposes of this part:
 
-*Affinity (pro rata) charter* means a charter arranged by an organization on behalf of its membership, and which meets the requirements of §212.5.
+*Affinity (pro rata) charter* means a charter arranged by an organization on behalf of its membership, and which meets the requirements of [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.5   Operation of affinity (pro rata) charters.|§212.5]].
 
 *Certificated air carrier* means a U.S. direct air carrier holding a certificate issued under 49 U.S.C. 41102.
 
@@ -20,9 +20,9 @@ For the purposes of this part:
 
 *Charter operator* means:
 
-\(1\) A “Public Charter operator” as defined in §380.2 of this chapter, or
+\(1\) A “Public Charter operator” as defined in [[Volume 4/D Special regulations/0380 Public charters.md#§380.2   Definitions.|§380.2]] of this chapter, or
 
-\(2\) An “Overseas Military Personnel Charter operator” as defined in §372.2 of this chapter.
+\(2\) An “Overseas Military Personnel Charter operator” as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md#§372.2   Definitions.|§372.2]] of this chapter.
 
 *Direct air carrier* means a certificated or foreign air carrier that directly engages in the operation of aircraft under a certificate, permit, or exemption issued by the Department.
 
@@ -32,7 +32,7 @@ For the purposes of this part:
 
 *Fourth freedom charter* means a charter flight carrying traffic that terminates in the carrier's home country having originated in another country.
 
-*Gambling junket charter* means a charter arranged by a casino, hotel, cruise line, or its agents, the purpose of which is to transport passengers to the casino, hotel, or cruise ship where gambling facilities are available, and which meets the requirements of §212.6.
+*Gambling junket charter* means a charter arranged by a casino, hotel, cruise line, or its agents, the purpose of which is to transport passengers to the casino, hotel, or cruise ship where gambling facilities are available, and which meets the requirements of [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.6   Operation of gambling junket charters.|§212.6]].
 
 *Long-term wet lease* means a wet lease which either—
 
@@ -40,7 +40,7 @@ For the purposes of this part:
 
 \(2\) Is part of a series of such leases that amounts to a continuing arrangement lasting more than 60 days.
 
-*Mixed charter* means a charter, the cost of which is borne partly by the charter participants and partly by the charterer, where all the passengers meet the eligibility requirements for “affinity (pro rata)” charters of §212.5.
+*Mixed charter* means a charter, the cost of which is borne partly by the charter participants and partly by the charterer, where all the passengers meet the eligibility requirements for “affinity (pro rata)” charters of [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.5   Operation of affinity (pro rata) charters.|§212.5]].
 
 *Part charter* means flight carrying both charter and scheduled passenger traffic.
 
@@ -74,11 +74,11 @@ For the purposes of this part:
 
 \(f\) A certificated or foreign air carrier operating a U.S.-originating passenger charter shall be responsible to return to his or her point of origin any passenger who purchased round trip transportation on that charter and who was transported by that carrier on his or her outbound flight; except that this provision shall not apply in cases where the return transportation is to be provided by another certificated or foreign air carrier.
 
-\(g\) A certificated or foreign air carrier may not perform any charter flight for which a statement of authorization is required under §212.9 until one has been granted by the Department. In addition, if a foreign air carrier is required to obtain a statement of authorization under paragraph (e) of that section, neither it, not any charter operator, or any other person shall advertise or sell any passenger charter services except those that have been specifically authorized by the Department.
+\(g\) A certificated or foreign air carrier may not perform any charter flight for which a statement of authorization is required under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.9   Prior authorization requirements.|§212.9]] until one has been granted by the Department. In addition, if a foreign air carrier is required to obtain a statement of authorization under paragraph (e) of that section, neither it, not any charter operator, or any other person shall advertise or sell any passenger charter services except those that have been specifically authorized by the Department.
 
-\(h\) A certificated air carrier may not operate charters where such operations would result in a substantial change in the scope of its operations within the meaning of part 204 of this chapter.
+\(h\) A certificated air carrier may not operate charters where such operations would result in a substantial change in the scope of its operations within the meaning of [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md|part 204 of this chapter]].
 
-\(i\) A certificated air carrier may not limit its baggage liability for interstate charter flights except as set forth in part 254 of this chapter.
+\(i\) A certificated air carrier may not limit its baggage liability for interstate charter flights except as set forth in [[Volume 4/A Economic regulations/0254 Domestic baggage liability.md|part 254 of this chapter]].
 
 \(j\) A certificated air carrier may not, except as set forth in part 121 of the Federal Aviation Regulations ([[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|14 CFR part 121]]), limit the availability, upon reasonable request, of air transportation and related services to a person who may require help from another person in expeditiously moving to an emergency exit for evacuation of an aircraft.
 
@@ -106,9 +106,9 @@ Certificated and foreign air carriers may conduct the following charter types, s
 
 \(d\) Gambling junket charters.
 
-\(e\) Public Charters in accordance with part 380 of this chapter (including operations by educational institutions as defined in that part).
+\(e\) Public Charters in accordance with [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]] (including operations by educational institutions as defined in that part).
 
-\(f\) Overseas military personnel charters in accordance with part 372 of this chapter.
+\(f\) Overseas military personnel charters in accordance with [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|part 372 of this chapter]].
 
 \(g\) Cargo charters.
 
@@ -148,15 +148,15 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 ### §212.7   Direct sales.
 
-\(a\) Certificated and foreign air carriers may sell or offer for sale, and operate, as principal, Public Charter flights under part 380 of this chapter directly to the public.
+\(a\) Certificated and foreign air carriers may sell or offer for sale, and operate, as principal, Public Charter flights under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]] directly to the public.
 
-\(b\) Each certificated or foreign air carrier operating a charter trip under this section shall comply with all the requirements of part 380 of this chapter, except that:
+\(b\) Each certificated or foreign air carrier operating a charter trip under this section shall comply with all the requirements of [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]], except that:
 
 \(1\) Those provisions of part 380 relating to the existence of a contract between a charter operator and a direct air carrier do not apply;
 
-\(2\) A depository agreement shall comply with §380.34a (d) and (f);
+\(2\) A depository agreement shall comply with [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]]a (d) and (f);
 
-\(3\) A security agreement shall comply with §380.34 (c) and (d); and
+\(3\) A security agreement shall comply with [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]] (c) and (d); and
 
 \(i\) If no depository agreement is used, protect charter participant payments (including those for ground accommodations and services) and assure the certificated or foreign air carrier's contractual and regulatory responsibilities to charter participants in an unlimited amount (except that the liability of the securer with respect to any charter participant may be limited to the charter price paid by or on behalf of such participant);
 
@@ -166,7 +166,7 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 ### §212.8   Protection of customers' payments.
 
-\(a\) Except as provided in paragraph (c) of this section, no certificated air carrier or foreign air carrier shall perform any charter trip (other than a cargo charter trip) originating in the United States or any Overseas Military Personnel Charter trip, as defined in part 372 of this chapter, nor shall such carrier accept any advance payment in connection with any such charter trip, unless there is on file with the Department a copy of a currently effective agreement made between said carrier and a designated bank, by the terms of which all sums payable in advance to the carrier by charterers, in connection with any such trip to be performed by said carrier, shall be deposited with and maintained by the bank, as escrow holder, the agreement to be subject to the following conditions:
+\(a\) Except as provided in paragraph (c) of this section, no certificated air carrier or foreign air carrier shall perform any charter trip (other than a cargo charter trip) originating in the United States or any Overseas Military Personnel Charter trip, as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|part 372 of this chapter]], nor shall such carrier accept any advance payment in connection with any such charter trip, unless there is on file with the Department a copy of a currently effective agreement made between said carrier and a designated bank, by the terms of which all sums payable in advance to the carrier by charterers, in connection with any such trip to be performed by said carrier, shall be deposited with and maintained by the bank, as escrow holder, the agreement to be subject to the following conditions:
 
 \(1\) The charterer (or its agent) shall pay the carrier either by check or money order made payable to the depository bank. Such check or money order and any cash received by the carrier from a charterer (or its agent) shall be deposited in, or mailed to, the bank no later than the close of the business day following the receipt of the check or money order or the cash, along with a statement showing the name and address of the charterer (or its agent); provided, however, that where the charter transportation to be performed by a carrier is sold through a travel agent, the agent may be authorized by the carrier to deduct its commission and remit the balance of the advance payment to the carrier either by check or money order made payable to the designated bank.
 
@@ -180,7 +180,7 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 \(b\) The escrow agreement required under paragraph (a) of this section shall not be effective until approved by the Department. Claims against the escrow may be made only with respect to the non-performance of air transportation.
 
-\(c\) The carrier may elect, in lieu of furnishing an escrow agreement pursuant to paragraph (a) of this section, to furnish and file with the Department a surety bond with guarantees to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all overseas military personnel charter trips, as defined in part 372 of this chapter, to be performed, in whole or in part, by such carrier pursuant to any contracts entered into by such carrier. The amount of such bond shall be unlimited.1 Claims under the bond may be made only with respect to the non-performance of air transportation.
+\(c\) The carrier may elect, in lieu of furnishing an escrow agreement pursuant to paragraph (a) of this section, to furnish and file with the Department a surety bond with guarantees to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all overseas military personnel charter trips, as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|part 372 of this chapter]], to be performed, in whole or in part, by such carrier pursuant to any contracts entered into by such carrier. The amount of such bond shall be unlimited.1 Claims under the bond may be made only with respect to the non-performance of air transportation.
 
 <div>
 
@@ -210,7 +210,7 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 \(4\) Part charter.
 
-\(c\) The Department may issue blanket statements of authorization to foreign air carriers to conduct fifth freedom charters. The standards for issuing such blanket authorizations shall be those stated in §212.11. The Department may revoke any authority granted under this paragraph at any time without hearing.
+\(c\) The Department may issue blanket statements of authorization to foreign air carriers to conduct fifth freedom charters. The standards for issuing such blanket authorizations shall be those stated in [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.11   Issuance of statement of authorization.|§212.11]]. The Department may revoke any authority granted under this paragraph at any time without hearing.
 
 \(d\) The Department may at any time, with or without hearing, but with at least 30 days' notice, require a foreign air carrier to obtain a statement of authorization before operating any charter flight. In deciding whether to impose such a requirement, the Department will consider (but not be limited to considering) whether the country of the carrier's nationality:
 
@@ -244,9 +244,9 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 \(2\) Applications for a part charter or for a long-term wet lease shall be filed at least 45 calendar days before the date of the first proposed flight.
 
-\(3\) Applications specifically required under §212.9(d) shall be filed at least 30 calendar days before the proposed flight or flights (10 calendar days for cargo charters), unless otherwise specified by the Department.
+\(3\) Applications specifically required under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.9   Prior authorization requirements.|§212.9]](d) shall be filed at least 30 calendar days before the proposed flight or flights (10 calendar days for cargo charters), unless otherwise specified by the Department.
 
-\(4\) Applications required by a Department order under §212.9(e) shall be filed at least 14 calendar days before the proposed flight or flights, unless otherwise specified by the Department.
+\(4\) Applications required by a Department order under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.9   Prior authorization requirements.|§212.9]](e) shall be filed at least 14 calendar days before the proposed flight or flights, unless otherwise specified by the Department.
 
 \(5\) Where an application is required by more than one provision of this part and/or order of the Department, only one application need be filed, but it must conform to the earliest applicable filing deadline.
 
@@ -284,7 +284,7 @@ A gambling junket charter operated by a certificated or foreign air carrier must
 
 \(iii\) To what extent the lessor owns and/or controls the lessee, or is owned and/or controlled by the lessee.
 
-\(c\) The Department will submit any denial of an authorization specifically required of a foreign air carrier under §212.9(d) to the President of the United States at least 10 days before the proposed departure. The denial will be subject to stay or disapproval by the President within 10 days after it is submitted. A shorter period for Presidential review may be specified by the Department where the application for authorization is not timely or properly filed. Denial of a late-filed application need not be submitted to the President. For the purposes of this paragraph, an application filed by a foreign air carrier under §212.9(d) to conduct a cargo charter will be considered as timely filed only if it is filed at least 30 calendar days before the proposed flight, notwithstanding the 10-day filing requirement for cargo charters in §212.10(d)(3).
+\(c\) The Department will submit any denial of an authorization specifically required of a foreign air carrier under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.9   Prior authorization requirements.|§212.9]](d) to the President of the United States at least 10 days before the proposed departure. The denial will be subject to stay or disapproval by the President within 10 days after it is submitted. A shorter period for Presidential review may be specified by the Department where the application for authorization is not timely or properly filed. Denial of a late-filed application need not be submitted to the President. For the purposes of this paragraph, an application filed by a foreign air carrier under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.9   Prior authorization requirements.|§212.9]](d) to conduct a cargo charter will be considered as timely filed only if it is filed at least 30 calendar days before the proposed flight, notwithstanding the 10-day filing requirement for cargo charters in [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.10   Application for statement of authorization.|§212.10]](d)(3).
 
 \(d\) The Department will publish notice of its actions on applications for statements of authorization in its Weekly List of Applications Filed. Interested persons may upon request obtain copies of letters of endorsed forms advising applicants of action taken on their applications.
 
@@ -298,7 +298,7 @@ The Department may grant a waiver of any of the provisions of this part upon a f
 
 Know all persons by these presents, that we \_\_\_\_\_\_\_\_\_\_ (Name of certificated or foreign air carrier) of \_\_\_\_\_\_\_\_\_\_, (City) \_\_\_\_\_\_\_\_\_\_ (State or Country) as Principal (hereinafter called Principal), and \_\_\_\_\_\_\_\_\_\_ (name of Surety) a corporation created and existing under the laws of the State of \_\_\_\_\_\_\_\_ (State) as Surety (hereinafter called Surety) are held and firmly bound unto the United States of America in an unlimited amount, as required by 14 CFR 212.8, for which payment, well and truly to be made, we bind ourselves and our heirs, executors, administrators, successors, and assigns, jointly and severally, firmly by these presents.
 
-Whereas the principal, a certificated air carrier holding a certificate of public convenience and necessity issued under 49 U.S.C. 41102, or a foreign air carrier holding a foreign air carrier permit issued under 49 U.S.C. 41302 or an exemption issued un[[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.8   Protection of customers' payments.|14 CFR 212.8]]. 40109 authorizing that foreign air carrier to engage in charter trips in foreign air transportation, is subject to rules and regulations of the Department of Transportation relating to security for the protection of charterers of civil aircraft and has elected to file with the Department of Transportation such a bond as will guarantee to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all Overseas Military Personnel Charters, as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|14 CFR part 372]], to be performed, in whole or in part, by such certificated or foreign air carrier pursuant to contracts entered into by such carrier after the execution date of this bond, and
+Whereas the principal, a certificated air carrier holding a certificate of public convenience and necessity issued under 49 U.S.C. 41102, or a foreign air carrier holding a foreign air carrier permit issued under 49 U.S.C. 41302 or an exemption issued under 49 U.S.C. 40109 authorizing that foreign air carrier to engage in charter trips in foreign air transportation, is subject to rules and regulations of the Department of Transportation relating to security for the protection of charterers of civil aircraft and has elected to file with the Department of Transportation such a bond as will guarantee to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all Overseas Military Personnel Charters, as defined in [[Volume 4/D Special regulations/0372 Overseas military personnel charters.md|14 CFR part 372]], to be performed, in whole or in part, by such certificated or foreign air carrier pursuant to contracts entered into by such carrier after the execution date of this bond, and
 
 Whereas this bond is written to assure compliance by the Principal with rules and regulations of the Department of Transportation relating to security for the protection of charterer of civil aircraft for charter trips (other than cargo charters) originating in the United States or of Overseas Military Personnel Charter trips and shall inure to the benefit of any and all such charterers to whom the Principal may be held legally liable for any of the damages herein described.
 

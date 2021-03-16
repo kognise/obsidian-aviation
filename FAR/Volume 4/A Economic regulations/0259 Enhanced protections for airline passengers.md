@@ -20,7 +20,7 @@ This part applies to all the flights of a certificated or commuter air carrier i
 
 *Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in 14 CFR 298.2.
 
-*Covered carrier* means a certificated carrier, a comm[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.2   Definitions.|14 CFR 298.2]], or a foreign air carrier operating to, from or within the United States, conducting scheduled passenger service or public charter service with at least one aircraft having a designed seating capacity of 30 or more seats.
+*Covered carrier* means a certificated carrier, a commuter carrier, or a foreign air carrier operating to, from or within the United States, conducting scheduled passenger service or public charter service with at least one aircraft having a designed seating capacity of 30 or more seats.
 
 *Foreign air carrier* means a carrier that is not a citizen of the United States as defined in 49 U.S.C. 40102(a) that holds a foreign air carrier permit issued under 49 U.S.C. 41302 or an exemption issued under 49 U.S.C. 40109 authorizing direct foreign air transportation.
 
@@ -100,23 +100,23 @@ This part applies to all the flights of a certificated or commuter air carrier i
 
 \(2\) Notifying consumers of known delays, cancellations, and diversions as required by 14 CFR 259.8 of this chapter;
 
-\(3\) Delivering baggage on time, incl[[Volume 4/A Economic regulations/0259 Enhanced protections for airline passengers.md#§259.8   Notify passengers of known delays, cancellations, and diversions.|14 CFR 259.8]] every reasonable effort to return mishandled baggage within twenty-four hours, compensating passengers for reasonable expenses that result due to delay in delivery, as required by [[Volume 4/A Economic regulations/0254 Domestic baggage liability.md|14 CFR part 254]] for domestic flights and as required by applicable international agreements for international flights, and reimbursing passengers for any fee charged to transport a bag if that bag is lost;
+\(3\) Delivering baggage on time, including making every reasonable effort to return mishandled baggage within twenty-four hours, compensating passengers for reasonable expenses that result due to delay in delivery, as required by [[Volume 4/A Economic regulations/0254 Domestic baggage liability.md|14 CFR part 254]] for domestic flights and as required by applicable international agreements for international flights, and reimbursing passengers for any fee charged to transport a bag if that bag is lost;
 
 \(4\) Allowing reservations to be held at the quoted fare without payment, or cancelled without penalty, for at least twenty-four hours after the reservation is made if the reservation is made one week or more prior to a flight's departure;
 
-\(5\) Where ticket refunds are due, providing prompt refunds, as required by 14 CFR 374.3 and 12 CFR part 226 for credit card purchases, and within [[Volume 4/D Special regulations/0374 Extension of credit by airlines to federal political candidates.md#§374.3   Compliance with the Consumer Credit Protection Act and regulations.|14 CFR 374.3]]r receiving a complete refund request for cash and check purchases, including refunding fees charged to a passenger for optional services that the passenger was unable to use due to an oversale situation or flight cancellation;
+\(5\) Where ticket refunds are due, providing prompt refunds, as required by 14 CFR 374.3 and 12 CFR part 226 for credit card purchases, and within 20 days after receiving a complete refund request for cash and check purchases, including refunding fees charged to a passenger for optional services that the passenger was unable to use due to an oversale situation or flight cancellation;
 
-\(6\) Properly accommodating passengers with disabilities, as required by part 382 of this chapter, and other special-needs passengers as set forth in the carrier's policies and procedures, including during lengthy tarmac delays;
+\(6\) Properly accommodating passengers with disabilities, as required by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md|part 382 of this chapter]], and other special-needs passengers as set forth in the carrier's policies and procedures, including during lengthy tarmac delays;
 
-\(7\) Meeting customers' essential needs during lengthy tarmac delays as required by §259.4 of this chapter and as provided for in each covered carrier's contingency plan;
+\(7\) Meeting customers' essential needs during lengthy tarmac delays as required by [[Volume 4/A Economic regulations/0259 Enhanced protections for airline passengers.md#§259.4   Contingency Plan for Lengthy Tarmac Delays.|§259.4]] of this chapter and as provided for in each covered carrier's contingency plan;
 
-\(8\) Handling “bumped” passengers with fairness and consistency in the case of oversales as required by part 250 of this chapter and as described in each carrier's policies and procedures for determining boarding priority;
+\(8\) Handling “bumped” passengers with fairness and consistency in the case of oversales as required by [[Volume 4/A Economic regulations/0250 Oversales.md|part 250 of this chapter]] and as described in each carrier's policies and procedures for determining boarding priority;
 
 \(9\) Disclosing cancellation policies, frequent flyer rules, aircraft seating configuration, and lavatory availability on the selling carrier's website, and upon request, from the selling carrier's telephone reservations staff;
 
 \(10\) Notifying consumers in a timely manner of changes in their travel itineraries;
 
-\(11\) Ensuring responsiveness to consumer problems as required by §259.7 of this chapter; and
+\(11\) Ensuring responsiveness to consumer problems as required by [[Volume 4/A Economic regulations/0259 Enhanced protections for airline passengers.md#§259.7   Response to consumer problems.|§259.7]] of this chapter; and
 
 \(12\) Identifying the services it provides to mitigate passenger inconveniences resulting from flight cancellations and misconnections.
 

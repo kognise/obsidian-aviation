@@ -28,7 +28,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.250](https://www.ecfr
 
 [Link to an amendment published at 86 FR 2537, Jan. 13, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=54602be11b29855648ddc88ec0079e46&mc=true&node=20210113y1.6)
 
-This part applies to every carrier, as defined in §250.1, with respect to scheduled flight segments using an aircraft that has a designed passenger capacity of 30 or more passenger seats, operating in (1) interstate air transportation or (2) foreign air transportation with respect to nonstop flight segments originating at a point within the United States.
+This part applies to every carrier, as defined in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.1   Definitions.|§250.1]], with respect to scheduled flight segments using an aircraft that has a designed passenger capacity of 30 or more passenger seats, operating in (1) interstate air transportation or (2) foreign air transportation with respect to nonstop flight segments originating at a point within the United States.
 
 \[Doc. No. OST-01-9325, 73 FR 21033, Apr. 18, 2008\]
 
@@ -50,7 +50,7 @@ In the event of an oversold flight, every carrier shall ensure that the smallest
 
 ### §250.3   Boarding priority rules.
 
-\(a\) Every carrier shall establish priority rules and criteria for determining which passengers holding confirmed reserved space shall be denied boarding on an oversold flight in the event that an insufficient number of volunteers come forward. Such rules and criteria shall reflect the obligations of the carrier set forth in §§250.2a and 250.2b to minimize involuntary denied boarding and to request volunteers, and shall be written in such manner as to be understandable and meaningful to the average passenger. Such rules and criteria shall not make, give, or cause any undue or unreasonable preference or advantage to any particular person or subject any particular person to any unjust or unreasonable prejudice or disadvantage in any respect whatsoever.
+\(a\) Every carrier shall establish priority rules and criteria for determining which passengers holding confirmed reserved space shall be denied boarding on an oversold flight in the event that an insufficient number of volunteers come forward. Such rules and criteria shall reflect the obligations of the carrier set forth in §[[Volume 4/A Economic regulations/0250 Oversales.md#§250.2   Applicability.|§250.2]]a and 250.2b to minimize involuntary denied boarding and to request volunteers, and shall be written in such manner as to be understandable and meaningful to the average passenger. Such rules and criteria shall not make, give, or cause any undue or unreasonable preference or advantage to any particular person or subject any particular person to any unjust or unreasonable prejudice or disadvantage in any respect whatsoever.
 
 \(b\) Boarding priority factors may include, but are not limited to, the following:
 
@@ -70,7 +70,7 @@ In the event of an oversold flight, every carrier shall ensure that the smallest
 
 [Link to an amendment published at 86 FR 2538, Jan. 13, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=54602be11b29855648ddc88ec0079e46&mc=true&node=20210113y1.8)
 
-\(a\) Subject to the exceptions provided in §250.6, a carrier to whom this part applies as described in §250.2 shall pay compensation in interstate air transportation to passengers who are denied boarding involuntarily from an oversold flight as follows:
+\(a\) Subject to the exceptions provided in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.6   Exceptions to eligibility for denied boarding compensation.|§250.6]], a carrier to whom this part applies as described in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.2   Applicability.|§250.2]] shall pay compensation in interstate air transportation to passengers who are denied boarding involuntarily from an oversold flight as follows:
 
 \(1\) No compensation is required if the carrier offers alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if none, the airport of the passenger's final destination not later than one hour after the planned arrival time of the passenger's original flight;
 
@@ -78,7 +78,7 @@ In the event of an oversold flight, every carrier shall ensure that the smallest
 
 \(3\) Compensation shall be 400% of the fare to the passenger's destination or first stopover, with a maximum of \$1,350, if the carrier does not offer alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if none, the airport of the passenger's final destination less than two hours after the planned arrival time of the passenger's original flight.
 
-\(b\) Subject to the exceptions provided in §250.6, a carrier to whom this part applies as described in §250.2 shall pay compensation to passengers in foreign air transportation who are denied boarding involuntarily at a U.S. airport from an oversold flight as follows:
+\(b\) Subject to the exceptions provided in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.6   Exceptions to eligibility for denied boarding compensation.|§250.6]], a carrier to whom this part applies as described in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.2   Applicability.|§250.2]] shall pay compensation to passengers in foreign air transportation who are denied boarding involuntarily at a U.S. airport from an oversold flight as follows:
 
 \(1\) No compensation is required if the carrier offers alternate transportation that, at the time the arrangement is made, is planned to arrive at the airport of the passenger's first stopover, or if not, the airport of the passenger's final destination not later than one hour after the planned arrival time of the passenger's original flight;
 
@@ -92,11 +92,11 @@ In the event of an oversold flight, every carrier shall ensure that the smallest
 
 \(2\) The carrier fully informs the passenger of the amount of cash/check compensation that would otherwise be due and that the passenger may decline the transportation benefit and receive the cash/check payment; and
 
-\(3\) The carrier fully discloses all material restrictions, including but not limited to, administrative fees, advance purchase or capacity restrictions, and blackout dates applicable to the offer, on the use of such free or reduced rate transportation before the passenger decides to give up the cash/check payment in exchange for such transportation. (See also §250.9(c)).
+\(3\) The carrier fully discloses all material restrictions, including but not limited to, administrative fees, advance purchase or capacity restrictions, and blackout dates applicable to the offer, on the use of such free or reduced rate transportation before the passenger decides to give up the cash/check payment in exchange for such transportation. (See also [[Volume 4/A Economic regulations/0250 Oversales.md#§250.9   Written explanation of denied boarding compensation and boarding priorities, and verbal notification of denied boarding compensation.|§250.9]](c)).
 
 \(d\) The requirements of this section apply to passengers with “zero fare tickets.” The fare paid by these passengers for purposes of calculating denied boarding compensation shall be the lowest cash, check, or credit card payment charged for a ticket in the same class of service on that flight.
 
-\(e\) The Department of Transportation will review the maximum denied boarding compensation amounts prescribed in this part every two years except for the first review, which will take place in 2012 in order to put the reviews specified in this section on the same cycle as the reviews of domestic baggage liability limits specified in [[Volume 4/A Economic regulations/0254 Domestic baggage liability.md#§254.6   Periodic adjustments.|14 CFR 254.6]]. The Department will use any increase in the Consumer Price Index for All Urban Consumers (CPI-U) as of July of each review year to calculate the increased maximum compensation amounts. The Department will use the following formula:
+\(e\) The Department of Transportation will review the maximum denied boarding compensation amounts prescribed in this part every two years except for the first review, which will take place in 2012 in order to put the reviews specified in this section on the same cycle as the reviews of domestic baggage liability limits specified in 14 CFR 254.6. The Department will use any increase in the Consumer Price Index for All Urban Consumers (CPI-U) as of July of each review year to calculate the increased maximum compensation amounts. The Department will use the following formula:
 
 \(1\) Current Denied Boarding Compensation limit in section 250.5(a)(2) multiplied by (a/b) rounded to the nearest \$25 where:
 
@@ -108,7 +108,7 @@ b = the CPI-U figure in August, 2011 when the inflation adjustment provision was
 
 </div>
 
-\(2\) The Denied Boarding Compensation limit in §250.5(a)(3) shall be twice the revised limit for §250.5(a)(2).
+\(2\) The Denied Boarding Compensation limit in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.5   Amount of denied boarding compensation for passengers denied boarding involuntarily.|§250.5]](a)(3) shall be twice the revised limit for [[Volume 4/A Economic regulations/0250 Oversales.md#§250.5   Amount of denied boarding compensation for passengers denied boarding involuntarily.|§250.5]](a)(2).
 
 \(3\) The Denied Boarding Compensation limit in paragraph (b)(2) shall be the same as the revised limit for paragraph (a)(2) of this section, and the Denied Boarding Compensation limit in paragraph (b)(3) shall be twice the revised limit for paragraph (a)(2) of this section.
 
@@ -136,7 +136,7 @@ A passenger denied boarding involuntarily from an oversold flight shall not be e
 
 ### §250.8   Denied boarding compensation.
 
-\(a\) Every carrier shall tender to a passenger eligible for denied boarding compensation, on the day and place the denied boarding occurs, except as provided in paragraph (b), cash or an immediately negotiable check for the appropriate amount of compensation provided in §250.5.
+\(a\) Every carrier shall tender to a passenger eligible for denied boarding compensation, on the day and place the denied boarding occurs, except as provided in paragraph (b), cash or an immediately negotiable check for the appropriate amount of compensation provided in [[Volume 4/A Economic regulations/0250 Oversales.md#§250.5   Amount of denied boarding compensation for passengers denied boarding involuntarily.|§250.5]].
 
 \(b\) Where a carrier arranges, for the passenger's convenience, alternate means of transportation that departs before the payment can be prepared and given to the passenger, tender shall be made by mail or other means within 24 hours after the time the denied boarding occurs.
 
@@ -228,7 +228,7 @@ Acceptance of the compensation may relieve (name of air carrier) from any furthe
 
 ### §250.10   Report of passengers denied confirmed space.
 
-\(a\) Each reporting carrier as defined in §234.2 of this chapter and any carrier that voluntarily submits data pursuant to §234.7 of this chapter shall file, on a quarterly basis, the information specified in BTS Form 251. The reporting basis shall be flight segments originating in the United States operated by the reporting carrier. The reports must be submitted within 30 days after the end of the quarter covered by the report. The calendar quarters end March 31, June 30, September 30 and December 31. “Total Boardings” on Line 7 of Form 251 shall include only passengers on flights for which confirmed reservations are offered. Data shall not be included for inbound international flights.
+\(a\) Each reporting carrier as defined in [[Volume 4/A Economic regulations/0234 Airline service quality performance reports.md#§234.2   Definitions.|§234.2]] of this chapter and any carrier that voluntarily submits data pursuant to [[Volume 4/A Economic regulations/0234 Airline service quality performance reports.md#§234.7   Voluntary reporting.|§234.7]] of this chapter shall file, on a quarterly basis, the information specified in BTS Form 251. The reporting basis shall be flight segments originating in the United States operated by the reporting carrier. The reports must be submitted within 30 days after the end of the quarter covered by the report. The calendar quarters end March 31, June 30, September 30 and December 31. “Total Boardings” on Line 7 of Form 251 shall include only passengers on flights for which confirmed reservations are offered. Data shall not be included for inbound international flights.
 
 \(b\) For air transportation taking place on or after January 1, 2018, each reporting carrier and voluntary reporting carrier shall file a separate BTS Form 251 for all flight segments originating in the United States marketed under only the reporting carrier's code, and operated by a code-share partner that is a certificated air carrier or commuter air carrier using aircraft that have a designed passenger capacity of 30 or more seats.
 

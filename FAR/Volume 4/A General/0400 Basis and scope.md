@@ -14,7 +14,7 @@ The regulations in this chapter set forth the procedures and requirements applic
 
 \(a\) Space activities carried out by the United States Government on behalf of the United States Government;
 
-\(b\) The launch of an amateur rocket as defined in §1.1 of chapter I of this title; or
+\(b\) The launch of an amateur rocket as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of chapter I of this title; or
 
 \(c\) A launch of a tethered launch vehicle that meets all the following criteria:
 
@@ -24,7 +24,7 @@ The regulations in this chapter set forth the procedures and requirements applic
 
 \(ii\) Be powered by a liquid or hybrid rocket motor;
 
-\(iii\) Not use any of the toxic propellants of Table I417-2 and Table I417-3 in Appendix I of part 417 of this chapter; and
+\(iii\) Not use any of the toxic propellants of Table I417-2 and Table I417-3 in Appendix I of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]; and
 
 \(iv\) Carry no more than 5,000 pounds of propellant.
 

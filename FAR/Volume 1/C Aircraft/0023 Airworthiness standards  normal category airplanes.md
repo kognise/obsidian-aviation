@@ -80,7 +80,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.23](https://www.ecfr.
 
 \(a\) Each flight recorder required by the operating rules of this chapter must be installed so that—
 
-\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the aircraft level system requirements and the functionality specified in §23.2500;
+\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the aircraft level system requirements and the functionality specified in [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.2500   Airplane level systems requirements.|§23.2500]];
 
 \(2\) The vertical acceleration sensor is rigidly attached, and located longitudinally either within the approved center of gravity limits of the airplane, or at a distance forward or aft of these limits that does not exceed 25 percent of the airplane's mean aerodynamic chord;
 
@@ -94,7 +94,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.23](https://www.ecfr.
 
 \(6\) Any single electrical failure external to the recorder does not disable both the cockpit voice recorder and the flight data recorder; and
 
-\(7\) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. If a combination unit is installed as a cockpit voice recorder to comply with §23.1457(e)(2), a combination unit must be used to comply with this flight data recorder requirement.
+\(7\) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. If a combination unit is installed as a cockpit voice recorder to comply with [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1457   Cockpit voice recorders.|§23.1457]](e)(2), a combination unit must be used to comply with this flight data recorder requirement.
 
 \(b\) Each non-ejectable record container must be located and mounted so as to minimize the probability of container rupture resulting from crash impact and subsequent damage to the record from fire. In meeting this requirement, the record container must be located as far aft as practicable, but need not be aft of the pressurized compartment, and may not be where aft-mounted engines may crush the container upon impact.
 
@@ -348,7 +348,7 @@ For airplanes intended for operation on land or water, the airplane must have co
 
 ### §23.2165   Performance and flight characteristics requirements for flight in icing conditions.
 
-\(a\) An applicant who requests certification for flight in icing conditions defined in part 1 of appendix C to part 25 of this chapter, or an applicant who requests certification for flight in these icing conditions and any additional atmospheric icing conditions, must show the following in the icing conditions for which certification is requested under normal operation of the ice protection system(s):
+\(a\) An applicant who requests certification for flight in icing conditions defined in part 1 of appendix C to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], or an applicant who requests certification for flight in these icing conditions and any additional atmospheric icing conditions, must show the following in the icing conditions for which certification is requested under normal operation of the ice protection system(s):
 
 \(1\) Compliance with each requirement of this subpart, except those applicable to spins and any that must be demonstrated at speeds in excess of—
 
@@ -472,7 +472,7 @@ The structure must support:
 
 ### §23.2240   Structural durability.
 
-\(a\) The applicant must develop and implement inspections or other procedures to prevent structural failures due to foreseeable causes of strength degradation, which could result in serious or fatal injuries, or extended periods of operation with reduced safety margins. Each of the inspections or other procedures developed under this section must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by §23.1529.
+\(a\) The applicant must develop and implement inspections or other procedures to prevent structural failures due to foreseeable causes of strength degradation, which could result in serious or fatal injuries, or extended periods of operation with reduced safety margins. Each of the inspections or other procedures developed under this section must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0023 Airworthiness standards  normal category airplanes.md#§23.1529   Instructions for continued airworthiness.|§23.1529]].
 
 \(b\) For Level 4 airplanes, the procedures developed for compliance with paragraph (a) of this section must be capable of detecting structural damage before the damage could result in structural failure.
 
@@ -954,9 +954,9 @@ The power generation, storage, and distribution for any system must be designed 
 
 \(a\) The applicant must design and install all lights to minimize any adverse effects on the performance of flightcrew duties.
 
-\(b\) Any position and anti-collision lights, if required by part 91 of this chapter, must have the intensities, flash rate, colors, fields of coverage, and other characteristics to provide sufficient time for another aircraft to avoid a collision.
+\(b\) Any position and anti-collision lights, if required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], must have the intensities, flash rate, colors, fields of coverage, and other characteristics to provide sufficient time for another aircraft to avoid a collision.
 
-\(c\) Any position lights, if required by part 91 of this chapter, must include a red light on the left side of the airplane, a green light on the right side of the airplane, spaced laterally as far apart as practicable, and a white light facing aft, located on an aft portion of the airplane or on the wing tips.
+\(c\) Any position lights, if required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]], must include a red light on the left side of the airplane, a green light on the right side of the airplane, spaced laterally as far apart as practicable, and a white light facing aft, located on an aft portion of the airplane or on the wing tips.
 
 \(d\) Any taxi and landing lights must be designed and installed so they provide sufficient light for night operations.
 
@@ -968,7 +968,7 @@ Safety and survival equipment, required by the operating rules of this chapter, 
 
 ### §23.2540   Flight in icing conditions.
 
-An applicant who requests certification for flight in icing conditions defined in part 1 of appendix C to part 25 of this chapter, or an applicant who requests certification for flight in these icing conditions and any additional atmospheric icing conditions, must show the following in the icing conditions for which certification is requested:
+An applicant who requests certification for flight in icing conditions defined in part 1 of appendix C to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], or an applicant who requests certification for flight in these icing conditions and any additional atmospheric icing conditions, must show the following in the icing conditions for which certification is requested:
 
 \(a\) The ice protection system provides for safe operation.
 
@@ -1108,6 +1108,6 @@ The contents of the manual or manuals must be prepared in the English language. 
 
 ### A23.4   Airworthiness limitations section.
 
-The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §§43.16 and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
+The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
 
 </div>

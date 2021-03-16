@@ -38,7 +38,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.31](https://www.ecfr.
 
 \(2\) Systematic investigation of each weight if compliance cannot be reasonably inferred from the weights investigated.
 
-\(b\) Except as provided in §31.17(b), allowable weight tolerances during flight testing are + 5 percent and −10 percent.
+\(b\) Except as provided in [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.17   Performance: Climb.|§31.17]](b), allowable weight tolerances during flight testing are + 5 percent and −10 percent.
 
 \[Amdt. 31-4, 45 FR 60179, Sept. 11, 1980\]
 
@@ -54,7 +54,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.31](https://www.ecfr.
 
 \(3\) The highest weight at which compliance with each applicable flight requirement of this part is shown.
 
-\(c\) The information established under paragraphs (a) and (b) of this section must be made available to the pilot in accordance with §31.81.
+\(c\) The information established under paragraphs (a) and (b) of this section must be made available to the pilot in accordance with [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.81   General.|§31.81]].
 
 \[Amdt. 31-3, 41 FR 55474, Dec. 20, 1976\]
 
@@ -122,7 +122,7 @@ In determining limit load, the limit flight load factor must be at least 1.4.
 
 \(b\) The structure must be substantiated by test to be able to withstand the ultimate loads for at least three seconds without failure. For the envelope, a test of a representative part is acceptable, if the part tested is large enough to include critical seams, joints, and load attachment points and members.
 
-\(c\) An ultimate free-fall drop test must be made of the basket, trapeze, or other place provided for occupants. The test must be made at design maximum weight on a horizontal surface, with the basket, trapeze, or other means provided for carrying occupants, striking the surface at angles of 0, 15, and 30 degrees. The weight may be distributed to simulate actual conditions. There must be no distortion or failure that is likely to cause serious injury to the occupants. A drop test height of 36 inches, or a drop test height that produces, upon impact, a velocity equal to the maximum vertical velocity determined in accordance with §31.19, whichever is higher, must be used.
+\(c\) An ultimate free-fall drop test must be made of the basket, trapeze, or other place provided for occupants. The test must be made at design maximum weight on a horizontal surface, with the basket, trapeze, or other means provided for carrying occupants, striking the surface at angles of 0, 15, and 30 degrees. The weight may be distributed to simulate actual conditions. There must be no distortion or failure that is likely to cause serious injury to the occupants. A drop test height of 36 inches, or a drop test height that produces, upon impact, a velocity equal to the maximum vertical velocity determined in accordance with [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.19   Performance: Uncontrolled descent.|§31.19]], whichever is higher, must be used.
 
 \[Doc. No. 1437, 29 FR 8258, July 1, 1964, as amended by Amdt. 31-4, 45 FR 60179, Sept. 11, 1980\]
 
@@ -164,7 +164,7 @@ There must be a means to allow close examination of each part that require repea
 
 ### §31.45   Fuel cells.
 
-If fuel cells are used, the fuel cells, their attachments, and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected, including the drop tests prescribed in §31.27(c). In the tests, the fuel cells must be loaded to the weight and pressure equivalent to the full fuel quantity condition.
+If fuel cells are used, the fuel cells, their attachments, and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected, including the drop tests prescribed in [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.27   Strength.|§31.27]](c). In the tests, the fuel cells must be loaded to the weight and pressure equivalent to the full fuel quantity condition.
 
 \[Amdt. 31-3, 41 FR 55474, Dec. 20, 1976\]
 
@@ -348,17 +348,17 @@ Where *y*o is the *y* coordinate of the Planckian radiator for the value of *x* 
 
 \(a\) The following information must be established:
 
-\(1\) Each operating limitation, including the maximum weight determined under §31.14.
+\(1\) Each operating limitation, including the maximum weight determined under [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.14   Weight limits.|§31.14]].
 
 \(2\) The normal and emergency procedures.
 
 \(3\) Other information necessary for safe operation, including—
 
-\(i\) The empty weight determined under §31.16;
+\(i\) The empty weight determined under [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.16   Empty weight.|§31.16]];
 
-\(ii\) The rate of climb determined under §31.17, and the procedures and conditions used to determine performance;
+\(ii\) The rate of climb determined under [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.17   Performance: Climb.|§31.17]], and the procedures and conditions used to determine performance;
 
-\(iii\) The maximum vertical velocity, the altitude drop required to attain that velocity, and altitude drop required to recover from a descent at that velocity, determined under §31.19, and the procedures and conditions used to determine performance; and
+\(iii\) The maximum vertical velocity, the altitude drop required to attain that velocity, and altitude drop required to recover from a descent at that velocity, determined under [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.19   Performance: Uncontrolled descent.|§31.19]], and the procedures and conditions used to determine performance; and
 
 \(iv\) Pertinent information peculiar to the balloon's operating characteristics.
 
@@ -408,7 +408,7 @@ In addition to any equipment required by this subchapter for a specific kind of 
 
 # a31.1   general
 
-\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by §31.82.
+\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by [[Volume 1/C Aircraft/0031 Airworthiness standards  manned free balloons.md#§31.82   Instructions for Continued Airworthiness.|§31.82]].
 
 \(b\) The Instructions for Continued Airworthiness for each balloon must include the Instructions for Continued Airworthiness for all balloon parts required by this chapter and any required information relating to the interface of those parts with the balloon. If Instructions for Continued Airworthiness are not supplied by the part manufacturer for a balloon part, the Instructions for Continued Airworthiness for the balloon must include the information essential to the continued airworthiness of the balloon.
 
@@ -444,7 +444,7 @@ The contents of the manual or manuals must be prepared in the English language. 
 
 # a31.4   airworthiness limitations section
 
-The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure, including envelope structural integrity, required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §§43.16 and 91.403 of the Federal Aviation Regulations.”
+The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure, including envelope structural integrity, required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations.”
 
 \[Amdt. 31-4, 45 FR 60180, Sept. 11, 1980, as amended by Amdt. 31-5, 54 FR 34330, Aug. 18, 1989\]
 

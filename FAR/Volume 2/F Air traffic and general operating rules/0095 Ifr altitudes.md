@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.95](https://www.ecfr.
 
 <div>
 
-Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
+Editorial Note: For the text of SFAR No. 97, see [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]].
 
 </div>
 

@@ -28,7 +28,7 @@ The following definitions apply in this part:
 
 *Allowable cost* means the reasonable and necessary costs of carrying out an approved project including costs incurred prior to and subsequent to the approval to impose a PFC, and making payments for debt service on bonds and other indebtedness incurred to carry out such projects. Allowable costs include only those costs incurred on or after November 5, 1990. Costs of terminal development incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the U.S. in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997 are allowable.
 
-*Approved project* means a project for which the FAA has approved using PFC revenue under this part. The FAA may also approve specific projects contained in a single or multi-phased project or development described in an airport capital plan separately. This includes projects acknowledged by the FAA under §158.30 of this part.
+*Approved project* means a project for which the FAA has approved using PFC revenue under this part. The FAA may also approve specific projects contained in a single or multi-phased project or development described in an airport capital plan separately. This includes projects acknowledged by the FAA under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]] of this part.
 
 *Bond financing costs* means the costs of financing a bond and includes such costs as those associated with issuance, underwriting discount, original issue discount, capitalized interest, debt service reserve funds, initial credit enhancement costs, and initial trustee and paying agent fees.
 
@@ -68,7 +68,7 @@ The following definitions apply in this part:
 
 *Nonrevenue passenger* means a passenger receiving air transportation from an air carrier or foreign air carrier for which remuneration is not received by the air carrier or foreign air carrier as defined under Department of Transportation Regulations or as otherwise determined by the Administrator. Air carrier employees or others receiving air transportation against whom token service charges are levied are considered nonrevenue passengers. Infants for whom a token fare is charged are also considered nonrevenue passengers.
 
-*Notice of intent (to impose or use PFC revenue)* means a notice under §158.30 from a public agency controlling a non-hub airport that it intends to impose a PFC and/or use PFC revenue. Except for §§158.25 through 30, “notice of intent” can be used interchangeably with “application.”
+*Notice of intent (to impose or use PFC revenue)* means a notice under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]] from a public agency controlling a non-hub airport that it intends to impose a PFC and/or use PFC revenue. Except for §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]] through 30, “notice of intent” can be used interchangeably with “application.”
 
 *One-way trip* means any trip that is not a round trip.
 
@@ -156,17 +156,17 @@ PFC revenue, including any interest earned after such revenue has been remitted 
 
 \(b\) *PFC administrative support costs.* Public agencies may use PFC revenue to pay for allowable administrative support costs. Public agencies must submit these costs as a separate project in each PFC application.
 
-\(c\) *Maximum cost for certain low-emission technology projects.* If a project involves a vehicle or ground support equipment using low emission technology eligible under §158.15(b), the FAA will determine the maximum cost that may be financed by PFC revenue. The maximum cost for a new vehicle is the incremental amount between the purchase price of a new low emission vehicle and the purchase price of a standard emission vehicle, or the cost of converting a standard emission vehicle to a low emission vehicle.
+\(c\) *Maximum cost for certain low-emission technology projects.* If a project involves a vehicle or ground support equipment using low emission technology eligible under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](b), the FAA will determine the maximum cost that may be financed by PFC revenue. The maximum cost for a new vehicle is the incremental amount between the purchase price of a new low emission vehicle and the purchase price of a standard emission vehicle, or the cost of converting a standard emission vehicle to a low emission vehicle.
 
 \(d\) *Bond-associated debt service and financing costs.* (1) Public agencies may use PFC revenue to pay debt service and financing costs incurred for a bond issued to carry out approved projects.
 
-\(2\) If the public agency's bond documents require that PFC revenue be commingled in the general revenue stream of the airport and pledged for the benefit of holders of obligations, the FAA considers PFC revenue to have paid the costs covered in §158.13(d)(1) if—
+\(2\) If the public agency's bond documents require that PFC revenue be commingled in the general revenue stream of the airport and pledged for the benefit of holders of obligations, the FAA considers PFC revenue to have paid the costs covered in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.13   Use of PFC revenue.|§158.13]](d)(1) if—
 
 \(i\) An amount equal to the part of the proceeds of the bond issued to carry out approved projects is used to pay allowable costs of such projects; and
 
-\(ii\) To the extent the PFC revenue collected in any year exceeds the debt service and financing costs on such bonds during that year, an amount equal to the excess is applied as required by §158.39.
+\(ii\) To the extent the PFC revenue collected in any year exceeds the debt service and financing costs on such bonds during that year, an amount equal to the excess is applied as required by [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.39   Use of excess PFC revenue.|§158.39]].
 
-\(e\) *Exception providing for the use of PFC revenue to pay for debt service for non-eligible projects.* The FAA may authorize a public agency under §158.18 to impose a PFC for payments for debt service on indebtedness incurred to carry out an airport project that is not eligible if the FAA determines that such use is necessary because of the financial need of the airport.
+\(e\) *Exception providing for the use of PFC revenue to pay for debt service for non-eligible projects.* The FAA may authorize a public agency under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.18   Use of PFC revenue to pay for debt service for non-eligible projects.|§158.18]] to impose a PFC for payments for debt service on indebtedness incurred to carry out an airport project that is not eligible if the FAA determines that such use is necessary because of the financial need of the airport.
 
 \(f\) *Combination of PFC revenue and Federal grant funds.* A public agency may combine PFC revenue and airport grant funds to carry out an approved project. These projects are subject to the record keeping and auditing requirements of this part, as well as the reporting, record keeping and auditing requirements imposed by the Airport and Airway Improvement Act of 1982 (AAIA).
 
@@ -204,9 +204,9 @@ PFC revenue, including any interest earned after such revenue has been remitted 
 
 \(8\) If the airport is in an air quality nonattainment area (as defined by section 171(2) of the Clean Air Act (42 U.S.C. 7501(2)) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a), and the project will result in the airport receiving appropriate emission credits as described in 49 U.S.C. 47139, a project for:
 
-\(i\) Converting vehicles eligible under §158.15(b)(1) and ground support equipment powered by a diesel or gasoline engine used at a commercial service airport to low-emission technology certified or verified by the Environmental Protection Agency to reduce emissions or to use cleaner burning conventional fuels; or
+\(i\) Converting vehicles eligible under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](b)(1) and ground support equipment powered by a diesel or gasoline engine used at a commercial service airport to low-emission technology certified or verified by the Environmental Protection Agency to reduce emissions or to use cleaner burning conventional fuels; or
 
-\(ii\) Acquiring for use at a commercial service airport vehicles eligible under §158.15(b)(1) and, subject to §158.13(c), ground support equipment that include low-emission technology or use cleaner burning fuels.
+\(ii\) Acquiring for use at a commercial service airport vehicles eligible under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](b)(1) and, subject to [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.13   Use of PFC revenue.|§158.13]](c), ground support equipment that include low-emission technology or use cleaner burning fuels.
 
 \(c\) An eligible project must be adequately justified to qualify for PFC funding.
 
@@ -216,7 +216,7 @@ PFC revenue, including any interest earned after such revenue has been remitted 
 
 \(a\) A project for any airport is eligible for PFC funding at levels of \$4 or \$4.50 if—
 
-\(1\) The project meets the eligibility requirements of §158.15;
+\(1\) The project meets the eligibility requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]];
 
 \(2\) The project costs requested for collection at \$4 or \$4.50 cannot be paid for from funds reasonably expected to be available for the programs referred to in 49 U.S.C. 48103; and
 
@@ -228,11 +228,11 @@ PFC revenue, including any interest earned after such revenue has been remitted 
 
 ### §158.18   Use of PFC revenue to pay for debt service for non-eligible projects.
 
-\(a\) The FAA may authorize a public agency to impose a PFC to make payments for debt service on indebtedness incurred to carry out at the airport a project that is not eligible if the FAA determines it is necessary because of the financial need of the airport. The FAA defines financial need in §158.3.
+\(a\) The FAA may authorize a public agency to impose a PFC to make payments for debt service on indebtedness incurred to carry out at the airport a project that is not eligible if the FAA determines it is necessary because of the financial need of the airport. The FAA defines financial need in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.3   Definitions.|§158.3]].
 
-\(b\) A public agency may request authority to impose a PFC and use PFC revenue under this section using the PFC application procedures in §158.25. The public agency must document its financial position and explain its financial recovery plan that uses all available resources.
+\(b\) A public agency may request authority to impose a PFC and use PFC revenue under this section using the PFC application procedures in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]]. The public agency must document its financial position and explain its financial recovery plan that uses all available resources.
 
-\(c\) The FAA reviews the application using the procedures in §158.27. The FAA will issue its decision on the public agency's request under §158.29.
+\(c\) The FAA reviews the application using the procedures in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.27   Review of applications.|§158.27]]. The FAA will issue its decision on the public agency's request under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.29   The Administrator's decision.|§158.29]].
 
 \[Doc. No. FAA-2006-23730, 72 FR 28848, May 23, 2007\]
 
@@ -264,7 +264,7 @@ This subpart specifies the consultation and application requirements under which
 
 ### §158.23   Consultation with air carriers and foreign air carriers.
 
-\(a\) *Notice by public agency.* A public agency must provide written notice to air carriers and foreign air carriers having a significant business interest at the airport where the PFC is proposed. A public agency must provide this notice before the public agency files an application with the FAA for authority to impose a PFC under §158.25(b). In addition, public agencies must provide this notice before filing an application with the FAA for authority to use PFC revenue under §158.25(c). Public agencies must also provide this notice before filing a notice of intent to impose and/or use a PFC under §158.30. Finally, a public agency must provide this notice before filing a request to amend the FAA's decision with respect to an approved PFC as discussed in §158.37(b)(1). The notice shall include:
+\(a\) *Notice by public agency.* A public agency must provide written notice to air carriers and foreign air carriers having a significant business interest at the airport where the PFC is proposed. A public agency must provide this notice before the public agency files an application with the FAA for authority to impose a PFC under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b). In addition, public agencies must provide this notice before filing an application with the FAA for authority to use PFC revenue under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](c). Public agencies must also provide this notice before filing a notice of intent to impose and/or use a PFC under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]]. Finally, a public agency must provide this notice before filing a request to amend the FAA's decision with respect to an approved PFC as discussed in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.37   Amendment of approved PFC.|§158.37]](b)(1). The notice shall include:
 
 \(1\) Descriptions of projects being considered for funding by PFC's;
 
@@ -280,7 +280,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(iv\) The public agency's reasons for requesting that carriers in each such class not be required to collect the PFC; and
 
-\(4\) Except as provided in §158.25(c)(2), the date and location of a meeting at which the public agency will present such projects to air carriers and foreign air carriers operating at the airport.
+\(4\) Except as provided in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](c)(2), the date and location of a meeting at which the public agency will present such projects to air carriers and foreign air carriers operating at the airport.
 
 \(b\) *Meeting.* The meeting required by paragraph (a)(4) of this section shall be held no sooner than 30 days nor later than 45 days after issuance of the written notice required by paragraph (a) of this section. At or before the meeting, the public agency shall provide air carriers and foreign air carriers with—
 
@@ -308,17 +308,17 @@ This subpart specifies the consultation and application requirements under which
 
 (a)(1) *Notice by public agency.* A public agency must provide written notice and an opportunity for public comment before:
 
-\(i\) Filing an application with the FAA for authority to impose a PFC under §158.25(b);
+\(i\) Filing an application with the FAA for authority to impose a PFC under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b);
 
-\(ii\) Filing an application with the FAA for authority to use PFC revenue under §158.25(c);
+\(ii\) Filing an application with the FAA for authority to use PFC revenue under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](c);
 
-\(iii\) Filing a notice of intent to impose and/or use a PFC under §158.30; and
+\(iii\) Filing a notice of intent to impose and/or use a PFC under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.30   PFC Authorization at Non-Hub Airports.|§158.30]]; and
 
-\(iv\) Filing a request to amend a previously approved PFC as discussed in §158.37(b)(1).
+\(iv\) Filing a request to amend a previously approved PFC as discussed in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.37   Amendment of approved PFC.|§158.37]](b)(1).
 
 \(2\) The notice must allow the public to file comments for at least 30 days, but no more than 45 days, after the date of publication of the notice or posting on the public agency's Web site, as applicable.
 
-(b)(1) *Notice contents.* The notice required by §158.24(a) must include:
+(b)(1) *Notice contents.* The notice required by [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.24   Notice and opportunity for public comment.|§158.24]](a) must include:
 
 \(i\) A description of the project(s) the public agency is considering for funding by PFC's;
 
@@ -368,11 +368,11 @@ This subpart specifies the consultation and application requirements under which
 
 \(6\) A description of each project proposed.
 
-\(7\) The project justification, including the extent to which the project achieves one or more of the objectives set forth in §158.15(a) and (if a PFC level above \$3 is requested) the requirements of §158.17. In addition—
+\(7\) The project justification, including the extent to which the project achieves one or more of the objectives set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](a) and (if a PFC level above \$3 is requested) the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]]. In addition—
 
 \(i\) For any project for terminal development, including gates and related areas, the public agency shall discuss any existing conditions that limit competition between and among air carriers and foreign air carriers at the airport, any initiatives it proposes to foster opportunities for enhanced competition between and among such carriers, and the expected results of such initiatives; or
 
-\(ii\) For any terminal development project at a covered airport, the public agency shall submit a competition plan in accordance with §158.19.
+\(ii\) For any terminal development project at a covered airport, the public agency shall submit a competition plan in accordance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.19   Requirement for competition plans.|§158.19]].
 
 \(8\) The charge to be imposed for each project.
 
@@ -384,19 +384,19 @@ This subpart specifies the consultation and application requirements under which
 
 \(i\) A list of such carriers and those notified;
 
-\(ii\) A list of carriers that acknowledged receipt of the notice provided under §158.23(a);
+\(ii\) A list of carriers that acknowledged receipt of the notice provided under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]](a);
 
 \(iii\) Lists of carriers that certified agreement and that certified disagreement with the project;
 
-\(iv\) Information on which method under §158.24(b) the public agency used to meet the public notice requirement; and
+\(iv\) Information on which method under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.24   Notice and opportunity for public comment.|§158.24]](b) the public agency used to meet the public notice requirement; and
 
 \(v\) A summary of substantive comments by carriers contained in any certifications of disagreement with each project and disagreements with each project provided by the public, and the public agency's reasons for continuing despite such disagreements.
 
-\(12\) If the public agency is also filing a request under §158.11—
+\(12\) If the public agency is also filing a request under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.11   Public agency request not to require collection of PFC's by a class of air carriers or foreign air carriers or for service to isolated communities.|§158.11]]—
 
 \(i\) The request;
 
-\(ii\) A copy of the information provided to the carriers under §158.23(a)(3);
+\(ii\) A copy of the information provided to the carriers under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]](a)(3);
 
 \(iii\) A copy of the carriers' comments with respect to such information;
 
@@ -404,7 +404,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(v\) The public agency's reasons for submitting the request in the face of opposing comments.
 
-\(13\) A copy of information regarding the financing of the project presented to the carriers and foreign air carriers under §158.23 of this part and as revised during the consultation.
+\(13\) A copy of information regarding the financing of the project presented to the carriers and foreign air carriers under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] of this part and as revised during the consultation.
 
 \(14\) A copy of all comments received as a result of the carrier consultation and public comment processes.
 
@@ -436,11 +436,11 @@ This subpart specifies the consultation and application requirements under which
 
 \(C\) The final FAA airspace determination with respect to the project has been completed, and the date of such determination, if an airspace study is required.
 
-\(iii\) The information required by §§158.25(b)(16) and 158.25(b)(17).
+\(iii\) The information required by §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b)(16) and 158.25(b)(17).
 
 \(2\) An application where the authority to impose a PFC has been previously approved:
 
-\(i\) Must not be filed until the public agency conducts further consultation with air carriers and foreign air carriers under §158.23. However, the meeting required under §158.23(a)(4) is optional if there are no changes to the projects after approval of the impose authority and further opportunity for public comment under §158.24; and
+\(i\) Must not be filed until the public agency conducts further consultation with air carriers and foreign air carriers under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]]. However, the meeting required under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]](a)(4) is optional if there are no changes to the projects after approval of the impose authority and further opportunity for public comment under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.24   Notice and opportunity for public comment.|§158.24]]; and
 
 \(ii\) Must include a summary of further air carrier consultation and the public agency's response to any disagreements submitted under the air carrier consultation and public comment processes conducted under paragraph (c)(2)(i) of this section;
 
@@ -460,15 +460,15 @@ This subpart specifies the consultation and application requirements under which
 
 \(C\) The final FAA airspace determination with respect to the project has been completed, and the date of such determination, if an airspace study is required; and
 
-\(v\) The information required by §§158.25(b)(16) and 158.25(b)(17).
+\(v\) The information required by §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]](b)(16) and 158.25(b)(17).
 
 \[Doc. No. FAA-2004-17999, 70 FR 14935, Mar. 23, 2005\]
 
 ### §158.27   Review of applications.
 
-\(a\) *General.* This section describes the process for review of all applications filed under §158.25 of this part.
+\(a\) *General.* This section describes the process for review of all applications filed under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]] of this part.
 
-\(b\) *Determination of completeness.* Within 30 days after receipt of an application by the FAA Airports office, the Administrator determines whether the application substantially complies with the requirements of §158.25.
+\(b\) *Determination of completeness.* Within 30 days after receipt of an application by the FAA Airports office, the Administrator determines whether the application substantially complies with the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]].
 
 \(c\) *Process for substantially complete application.* If the Administrator determines the application is substantially complete, the following procedures apply:
 
@@ -512,7 +512,7 @@ This subpart specifies the consultation and application requirements under which
 
 \(3\) Commenters shall also provide one copy of their comments to the public agency.
 
-\(4\) Comments from air carriers and foreign air carriers may be in the same form as provided to the public agency under §158.23.
+\(4\) Comments from air carriers and foreign air carriers may be in the same form as provided to the public agency under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]].
 
 \[Doc. No. 26385, 56 FR 24278, May 29, 1991; 56 FR 30867, July 8, 1991, as amended by Amdt. 158-3, 70 FR 14936, Mar. 23, 2005\]
 
@@ -522,9 +522,9 @@ This subpart specifies the consultation and application requirements under which
 
 \(i\) The amount and duration of the PFC will not result in revenue that exceeds amounts necessary to finance the project;
 
-\(ii\) The project will achieve the objectives and criteria set forth in §158.15 except for those projects approved under §158.18.
+\(ii\) The project will achieve the objectives and criteria set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]] except for those projects approved under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.18   Use of PFC revenue to pay for debt service for non-eligible projects.|§158.18]].
 
-\(iii\) If a PFC level above \$3 is being approved, the project meets the criteria set forth in §158.17;
+\(iii\) If a PFC level above \$3 is being approved, the project meets the criteria set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]];
 
 \(iv\) The collection process, including any request by the public agency not to require a class of carriers to collect PFC's, is reasonable, not arbitrary, nondiscriminatory, and otherwise in compliance with the law;
 
@@ -534,27 +534,27 @@ This subpart specifies the consultation and application requirements under which
 
 \(vii\) If the public agency has not applied for authority to use PFC revenue, a finding that there are alternative uses of the PFC revenue to ensure that such revenue will be used on approved projects; and
 
-\(viii\) If applicable, the public agency has submitted a competition plan in accordance with §158.19.
+\(viii\) If applicable, the public agency has submitted a competition plan in accordance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.19   Requirement for competition plans.|§158.19]].
 
-\(2\) The Administrator notifies the public agency in writing of the decision on the application. The notification will list the projects and alternative uses that may qualify for PFC financing under §158.15, and (if a PFC level above \$3 is being approved) §158.17, PFC level, total approved PFC revenue including the amounts approved at \$3 and less, \$4, and/or \$4.50, duration of authority to impose and earliest permissible charge effective date.
+\(2\) The Administrator notifies the public agency in writing of the decision on the application. The notification will list the projects and alternative uses that may qualify for PFC financing under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]], and (if a PFC level above \$3 is being approved) [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]], PFC level, total approved PFC revenue including the amounts approved at \$3 and less, \$4, and/or \$4.50, duration of authority to impose and earliest permissible charge effective date.
 
 \(b\) *Authority to use PFC revenue on an approved project.* (1) An application for authority to use PFC revenue will be approved in whole or in part only after a determination that—
 
 \(i\) The amount and duration of the PFC will not result in revenue that exceeds amounts necessary to finance the project;
 
-\(ii\) The project will achieve the objectives and criteria set forth in §158.15 except for those projects approved under §158.18.
+\(ii\) The project will achieve the objectives and criteria set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]] except for those projects approved under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.18   Use of PFC revenue to pay for debt service for non-eligible projects.|§158.18]].
 
-\(iii\) If a PFC level above \$3 is being approved, the project meets the criteria set forth in §158.17; and
+\(iii\) If a PFC level above \$3 is being approved, the project meets the criteria set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]]; and
 
 \(iv\) All applicable requirements pertaining to the ALP for the airport, airspace studies for the project, and the National Environmental Policy Act of 1969 (NEPA), have been satisfied.
 
-\(2\) The Administrator notifies the public agency in writing of the decision on the application. The notification will list the approved projects, PFC level, total approved PFC revenue, total approved for collection, including the amounts approved at \$3 and less, \$4, and/or \$4.50, and any limit on the duration of authority to impose a PFC as prescribed under §158.33.
+\(2\) The Administrator notifies the public agency in writing of the decision on the application. The notification will list the approved projects, PFC level, total approved PFC revenue, total approved for collection, including the amounts approved at \$3 and less, \$4, and/or \$4.50, and any limit on the duration of authority to impose a PFC as prescribed under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.33   Duration of authority to impose a PFC before project implementation.|§158.33]].
 
 \(3\) Approval to use PFC revenue to finance a project shall be construed as approval of that project.
 
 \(c\) *Disapproval of application.* (1) If an application is disapproved, the Administrator notifies the public agency in writing of the decision and the reasons for the disapproval.
 
-\(2\) A public agency reapplying for approval to impose or use a PFC must comply with §§158.23, 158.24, and 158.25.
+\(2\) A public agency reapplying for approval to impose or use a PFC must comply with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]], 158.24, and 158.25.
 
 \(d\) The Administrator publishes a monthly notice of PFC approvals and disapprovals in the Federal Register.
 
@@ -574,19 +574,19 @@ This subpart specifies the consultation and application requirements under which
 
 \(i\) Additional information describing the proposed schedule for the project,
 
-\(ii\) A description of how this project meets one of the PFC objectives in §158.15(a), and
+\(ii\) A description of how this project meets one of the PFC objectives in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](a), and
 
-\(iii\) A description of how this project meets the adequate justification requirement in §158.15(c).
+\(iii\) A description of how this project meets the adequate justification requirement in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]](c).
 
-\(4\) A copy of any comments received by the public agency during the air carrier consultation and public comment processes (§§158.23 and 158.24) and the public agency's response to any disagreements.
+\(4\) A copy of any comments received by the public agency during the air carrier consultation and public comment processes (§[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24) and the public agency's response to any disagreements.
 
-\(5\) If applicable, a request to exclude a class of carriers from the requirement to collect the PFC (§158.11).
+\(5\) If applicable, a request to exclude a class of carriers from the requirement to collect the PFC ([[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.11   Public agency request not to require collection of PFC's by a class of air carriers or foreign air carriers or for service to isolated communities.|§158.11]]).
 
 \(6\) A signed statement certifying that the public agency will comply with the assurances set forth in Appendix A to this part.
 
 \(7\) Any additional information the Administrator may require.
 
-\(c\) *Notice of intent to use PFC revenue.* A public agency may use PFC revenue only for projects included in notices filed under this paragraph or approved under §158.29. This paragraph sets forth the information that a public agency must file, unless otherwise authorized by the Administrator, in its notice of intent to use PFC revenue to finance specific projects under this section.
+\(c\) *Notice of intent to use PFC revenue.* A public agency may use PFC revenue only for projects included in notices filed under this paragraph or approved under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.29   The Administrator's decision.|§158.29]]. This paragraph sets forth the information that a public agency must file, unless otherwise authorized by the Administrator, in its notice of intent to use PFC revenue to finance specific projects under this section.
 
 \(1\) A notice of intent to use PFC revenue filed concurrently with a notice of intent to impose a PFC must include:
 
@@ -596,9 +596,9 @@ This subpart specifies the consultation and application requirements under which
 
 \(2\) A notice of intent to use PFC revenue where the FAA has previously acknowledged a notice of intent to impose a PFC must:
 
-\(i\) Be preceded by further consultation with air carriers and the opportunity for public comment under §§158.23 and 158.24 of this part. However, a meeting with the air carriers is optional if all information is the same as that provided with the impose authority notice;
+\(i\) Be preceded by further consultation with air carriers and the opportunity for public comment under §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 of this part. However, a meeting with the air carriers is optional if all information is the same as that provided with the impose authority notice;
 
-\(ii\) Include a copy of any comments received by the public agency during the air carrier consultation and public comment processes (§§158.23 and 158.24) and the public agency's response to any disagreements or negative comments; and
+\(ii\) Include a copy of any comments received by the public agency during the air carrier consultation and public comment processes (§[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24) and the public agency's response to any disagreements or negative comments; and
 
 \(iii\) Include any updated and changed information:
 
@@ -610,21 +610,21 @@ This subpart specifies the consultation and application requirements under which
 
 \(A\) The amount and duration of the PFC will not result in revenue that exceeds the amount necessary to finance the project(s);
 
-\(B\) Each proposed project meets the requirements of §158.15;
+\(B\) Each proposed project meets the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.15   Project eligibility at PFC levels of \$1, \$2, or \$3.|§158.15]];
 
-\(C\) Each project proposed at a PFC level above \$3.00 meets the requirements of §158.17(a)(2) and (3);
+\(C\) Each project proposed at a PFC level above \$3.00 meets the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]](a)(2) and (3);
 
 \(D\) All applicable airport layout plan, airspace, and environmental requirements have been met for each project;
 
 \(E\) Any request by the public agency to exclude a class of carriers from the requirement to collect the PFC is reasonable, not arbitrary, nondiscriminatory, and otherwise complies with the law; and
 
-\(F\) The consultation and public comment processes complied with §§158.23 and 158.24.
+\(F\) The consultation and public comment processes complied with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24.
 
 \(2\) The FAA will also make a determination regarding the public agency's compliance with 49 U.S.C. 47524 and 47526 governing airport noise and access restrictions and 49 U.S.C. 47107(b) governing the use of airport revenue. Finally, the FAA will review all comments filed during the air carrier consultation and public comment processes.
 
 \(e\) *FAA acknowledgment of notices of intent.* Within 30 days of receipt of the public agency's notice of intent about its PFC program, the FAA will issue a written acknowledgment of the public agency's notice. The FAA's acknowledgment may concur with all proposed projects, may object to some or all proposed projects, or may object to the notice of intent in its entirety. The FAA's acknowledgment will include the reason(s) for any objection(s).
 
-\(f\) Public agency actions following issuance of FAA acknowledgment letter. If the FAA does not object to either a project or the notice of intent in its entirety, the public agency may implement its PFC program. The public agency's implementation must follow the information specified in its notice of intent. If the FAA objects to a project, the public agency may not collect or use PFC revenue on that project. If the FAA objects to the notice of intent in its entirety, the public agency may not implement the PFC program proposed in that notice. When implementing a PFC under this section, except for §158.25, a public agency must comply with all sections of part 158.
+\(f\) Public agency actions following issuance of FAA acknowledgment letter. If the FAA does not object to either a project or the notice of intent in its entirety, the public agency may implement its PFC program. The public agency's implementation must follow the information specified in its notice of intent. If the FAA objects to a project, the public agency may not collect or use PFC revenue on that project. If the FAA objects to the notice of intent in its entirety, the public agency may not implement the PFC program proposed in that notice. When implementing a PFC under this section, except for [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.25   Applications.|§158.25]], a public agency must comply with all sections of part 158.
 
 \(g\) *Acknowledgment not an order.* An FAA acknowledgment issued under this section is not considered an order issued by the Secretary for purposes of 49 U.S.C. 46110 (Judicial Review).
 
@@ -666,7 +666,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(ii\) An application to use PFC revenue has been approved; or
 
-\(iii\) A request for extension (not to exceed 2 years) to submit an application for project approval, under §158.35, has been granted; or
+\(iii\) A request for extension (not to exceed 2 years) to submit an application for project approval, under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.35   Extension of time to submit application to use PFC revenue.|§158.35]], has been granted; or
 
 \(2\) 5 years after the charge effective date; or 5 years after the FAA's decision on the application (if the charge effective date is more than 60 days after the decision date) unless the public agency has obtained project approval.
 
@@ -702,7 +702,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(3\) Further collection will not result in excessive accumulation of PFC revenue.
 
-\(d\) The Administrator, upon determining that the agency has shown good cause for the delay and that other elements of the request are satisfactory, grants the request for extension to the public agency. The Administrator advises the public agency in writing not more than 90 days after receipt of the request. The duration of the extension shall be as specified in §158.33 of this part.
+\(d\) The Administrator, upon determining that the agency has shown good cause for the delay and that other elements of the request are satisfactory, grants the request for extension to the public agency. The Administrator advises the public agency in writing not more than 90 days after receipt of the request. The duration of the extension shall be as specified in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.33   Duration of authority to impose a PFC before project implementation.|§158.33]] of this part.
 
 ### §158.37   Amendment of approved PFC.
 
@@ -716,13 +716,13 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(iv\) Delete an approved project, or
 
-\(v\) Establish a new class of carriers under §158.11 or amend any such class previously approved.
+\(v\) Establish a new class of carriers under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.11   Public agency request not to require collection of PFC's by a class of air carriers or foreign air carriers or for service to isolated communities.|§158.11]] or amend any such class previously approved.
 
 \(2\) A public agency may not amend the FAA's decision with respect to an approved PFC to add projects, change an approved project to a different facility type, or alter an approved project to accomplish a different purpose.
 
 \(b\) The public agency must file a request to the Administrator to amend the FAA's decision with respect to an approved PFC. The request must include or demonstrate:
 
-(1)(i) Further consultation with the air carriers and foreign air carriers and seek public comment in accordance with §§158.23 and 158.24 when applying for those requests to:
+(1)(i) Further consultation with the air carriers and foreign air carriers and seek public comment in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 when applying for those requests to:
 
 \(A\) Amend the approved PFC amount for a project by more than 25 percent of the original approved amount if the amount was \$1,000,000 or greater,
 
@@ -732,7 +732,7 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(D\) Increase the PFC level to be collected from each passenger.
 
-\(ii\) No further consultation with air carriers and foreign air carriers or public comment is required by a public agency in accordance with §§158.23 and 158.24 when applying for an amendment in the following situations:
+\(ii\) No further consultation with air carriers and foreign air carriers or public comment is required by a public agency in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24 when applying for an amendment in the following situations:
 
 \(A\) To institute a decrease in the level of PFC to be collected from each passenger;
 
@@ -742,11 +742,11 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(D\) To institute an increase of any amount if the original approved amount of the project was less than \$1,000,000 and if the amended approved amount of the project remains below \$1,000,000; or
 
-\(E\) To establish a new class of carriers under §158.11 or amend any such class previously approved; or
+\(E\) To establish a new class of carriers under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.11   Public agency request not to require collection of PFC's by a class of air carriers or foreign air carriers or for service to isolated communities.|§158.11]] or amend any such class previously approved; or
 
 \(F\) To delete an approved project.
 
-\(2\) A copy of any comments received from the processes in paragraph (b)(1)(A) of this section for the carrier consultation and the opportunity for public comment in accordance with §§158.23 and 158.24;
+\(2\) A copy of any comments received from the processes in paragraph (b)(1)(A) of this section for the carrier consultation and the opportunity for public comment in accordance with §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.23   Consultation with air carriers and foreign air carriers.|§158.23]] and 158.24;
 
 \(3\) The public agency's reasons for continuing despite any objections;
 
@@ -754,13 +754,13 @@ A public agency that has begun implementing an approved project may impose a PFC
 
 \(5\) Justification, if the amendment involves an increase in the PFC amount for a project by more than 25 percent of the original approved amount if that amount is \$1,000,000 or greater, an increase in the PFC amount by any percentage if the original approved amount was less than \$1,000,000 and the amended approved amount is \$1,000,000 or greater, a change in the approved project scope, or any increase in the approved PFC level to be collected from each passenger.
 
-\(6\) A description of how each project meets the requirements of §158.17(b), for each project proposed for an increase of the PFC level above \$3.00 at a medium or large hub airport;
+\(6\) A description of how each project meets the requirements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]](b), for each project proposed for an increase of the PFC level above \$3.00 at a medium or large hub airport;
 
-\(7\) A signed statement certifying that the public agency has met the requiements of §158.19, if applicable, for any amendment proposing to increase the PFC level above \$3.00 at a medium or large hub airport; and
+\(7\) A signed statement certifying that the public agency has met the requiements of [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.19   Requirement for competition plans.|§158.19]], if applicable, for any amendment proposing to increase the PFC level above \$3.00 at a medium or large hub airport; and
 
 \(8\) Any other information the Administrator may require.
 
-\(c\) The Administrator will approve, partially approve or disapprove the amendment request and notify the public agency of the decision within 30 days of receipt of the request. If a PFC level of more than \$3.00 is approved, the Administrator must find the project meets the requirements of §§158.17 and 158.19, if applicable, before the public agency can implement the new PFC level.
+\(c\) The Administrator will approve, partially approve or disapprove the amendment request and notify the public agency of the decision within 30 days of receipt of the request. If a PFC level of more than \$3.00 is approved, the Administrator must find the project meets the requirements of §[[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.17   Project eligibility at PFC levels of \$4 or \$4.50.|§158.17]] and 158.19, if applicable, before the public agency can implement the new PFC level.
 
 \(d\) The public agency must notify the carriers of any change to the FAA's decision with respect to an approved PFC resulting from an amendment. The effective date of any new PFC level must be no earlier than the first day of a month which is at least 30 days from the date the public agency notifies the carriers.
 
@@ -826,7 +826,7 @@ This subpart contains the requirements for notification, collection, handling an
 
 \(c\) For each one-way trip shown on the complete itinerary of an air travel ticket, issuing air carriers and their agents shall collect a PFC from a passenger only for the first two airports where PFC's are imposed. For each round trip, a PFC shall be collected only for enplanements at the first two enplaning airports and the last two enplaning airports where PFC's are imposed.
 
-\(d\) In addition to the restriction in paragraph (c) of this section, issuing carriers and their agents shall not collect PFC's from a passenger covered by any of the other limitations described in §158.9(a).
+\(d\) In addition to the restriction in paragraph (c) of this section, issuing carriers and their agents shall not collect PFC's from a passenger covered by any of the other limitations described in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.9   Limitations.|§158.9]](a).
 
 \(e\) Collected PFC's shall be distributed as noted on the air travel ticket.
 
@@ -836,17 +836,17 @@ This subpart contains the requirements for notification, collection, handling an
 
 ### §158.47   Collection of PFC's on tickets issued outside the U.S.
 
-\(a\) For tickets issued outside the U.S., an air carrier or foreign air carrier may follow the requirements of either §158.45 or this section, unless the itinerary is for travel wholly within the U.S. Air carriers and foreign air carriers must comply with §158.45 where the itinerary is for travel wholly within the U.S. regardless of where the ticket is issued.
+\(a\) For tickets issued outside the U.S., an air carrier or foreign air carrier may follow the requirements of either [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.45   Collection of PFC's on tickets issued in the U.S.|§158.45]] or this section, unless the itinerary is for travel wholly within the U.S. Air carriers and foreign air carriers must comply with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.45   Collection of PFC's on tickets issued in the U.S.|§158.45]] where the itinerary is for travel wholly within the U.S. regardless of where the ticket is issued.
 
 \(b\) Notwithstanding any other provisions of this part, no foreign airline is required to collect a PFC on air travel tickets issued on its own ticket stock unless it serves a point or points in the U.S.
 
-\(c\) If an air carrier or foreign air carrier elects not to comply with §158.45 for tickets issued outside the U.S.—
+\(c\) If an air carrier or foreign air carrier elects not to comply with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.45   Collection of PFC's on tickets issued in the U.S.|§158.45]] for tickets issued outside the U.S.—
 
 \(1\) The carrier is required to collect PFC's on such tickets only for the public agency controlling the last airport at which the passenger is enplaned prior to departure from the U.S.
 
 \(2\) The carrier may collect the PFC either at the time the ticket is issued or at the time the passenger is last enplaned prior to departure from the U.S. The carrier may vary the method of collection among its flights.
 
-\(3\) The carrier shall provide a written record to the passenger that a PFC has been collected. Such a record shall appear on or with the air travel ticket and shall include the same information as required by §158.45(b), but need not be preprinted on the ticket stock.
+\(3\) The carrier shall provide a written record to the passenger that a PFC has been collected. Such a record shall appear on or with the air travel ticket and shall include the same information as required by [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.45   Collection of PFC's on tickets issued in the U.S.|§158.45]](b), but need not be preprinted on the ticket stock.
 
 \(4\) Issuing carriers and their agents shall collect PFCs based on the itinerary at the time of issuance.
 
@@ -874,7 +874,7 @@ This subpart contains the requirements for notification, collection, handling an
 
 \(a\) Collecting carriers shall establish and maintain a financial management system to account for PFC's in accordance with the Department of Transportation's Uniform System of Accounts and Reports ([[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|14 CFR part 241]]). For carriers not subject to [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|14 CFR part 241]], such carriers shall establish and maintain an accounts payable system to handle PFC revenue with subaccounts for each public agency to which such carrier remits PFC revenue.
 
-\(b\) Collecting carriers must account for PFC revenue separately. PFC revenue may be commingled with the air carrier's other sources of revenue except for covered air carriers discussed in paragraph (c) of this section. PFC revenues held by an air carrier or an agent of the air carrier after collection are held in trust for the beneficial interest of the public agency imposing the PFC. Such air carrier or agent holds neither legal nor equitable interest in the PFC revenues except for any handling fee or interest collected on unremitted proceeds as authorized in §158.53.
+\(b\) Collecting carriers must account for PFC revenue separately. PFC revenue may be commingled with the air carrier's other sources of revenue except for covered air carriers discussed in paragraph (c) of this section. PFC revenues held by an air carrier or an agent of the air carrier after collection are held in trust for the beneficial interest of the public agency imposing the PFC. Such air carrier or agent holds neither legal nor equitable interest in the PFC revenues except for any handling fee or interest collected on unremitted proceeds as authorized in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.53   Collection compensation.|§158.53]].
 
 (c)(1) A covered air carrier must segregate PFC revenue in a designated separate PFC account. Regardless of the amount of PFC revenue in the covered air carrier's account at the time the bankruptcy petition is filed, the covered air carrier must deposit into the separate PFC account an amount equal to the average monthly liability for PFCs collected under this section by such air carrier or any of its agents.
 
@@ -908,7 +908,7 @@ This subpart contains the requirements for notification, collection, handling an
 
 ### §158.51   Remittance of PFC's.
 
-Passenger facility charges collected by carriers shall be remitted to the public agency on a monthly basis. PFC revenue recorded in the accounting system of the carrier, as set forth in §158.49 of this part, shall be remitted to the public agency no later than the last day of the following calendar month (or if that date falls on a weekend or holiday, the first business day thereafter).
+Passenger facility charges collected by carriers shall be remitted to the public agency on a monthly basis. PFC revenue recorded in the accounting system of the carrier, as set forth in [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.49   Handling of PFC's.|§158.49]] of this part, shall be remitted to the public agency no later than the last day of the following calendar month (or if that date falls on a weekend or holiday, the first business day thereafter).
 
 ### §158.53   Collection compensation.
 
@@ -918,7 +918,7 @@ Passenger facility charges collected by carriers shall be remitted to the public
 
 \(2\) Any interest or other investment return earned on PFC revenue between the time of collection and remittance to the public agency.
 
-\(b\) A covered air carrier that fails to designate a separate PFC account is prohibited from collecting interest on the PFC revenue. Where a covered air carrier maintains a separate PFC account in compliance with §158.49(c), it will receive the interest on PFC accounts as described in paragraph (a)(2) of this section.
+\(b\) A covered air carrier that fails to designate a separate PFC account is prohibited from collecting interest on the PFC revenue. Where a covered air carrier maintains a separate PFC account in compliance with [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.49   Handling of PFC's.|§158.49]](c), it will receive the interest on PFC accounts as described in paragraph (a)(2) of this section.
 
 (c)(1) Collecting air carriers may provide collection cost data periodically to the FAA after the agency issues a notice in the Federal Register that specifies the information and deadline for filing the information. Submission of the information is voluntary. The requested information must include data on interest earned by the air carriers on PFC revenue and air carrier collection, handling, and remittance costs in the following categories:
 
@@ -986,7 +986,7 @@ This subpart contains the requirements for reporting, recordkeeping and auditing
 
 \(iii\) The total PFC revenue refunded to passengers,
 
-\(iv\) The collected revenue withheld for reimbursement of expenses under §158.53, and
+\(iv\) The collected revenue withheld for reimbursement of expenses under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.53   Collection compensation.|§158.53]], and
 
 \(v\) The dates and amounts of each remittance for the quarter.
 
@@ -1014,7 +1014,7 @@ This subpart contains the requirements for reporting, recordkeeping and auditing
 
 \(b\) Each public agency shall establish and maintain for each approved application a separate accounting record. The accounting record shall identify the PFC revenue received from the collecting carriers, interest earned on such revenue, the amounts used on each project, and the amount reserved for currently approved projects.
 
-\(c\) At least annually during the period the PFC is collected, held or used, each public agency shall provide for an audit of its PFC account. The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion of the fairness and reasonableness of the public agency's procedures for receiving, holding, and using PFC revenue. The accountant shall also express an opinion on whether the quarterly report required under §158.63 fairly represents the net transactions within the PFC account. The audit may be—
+\(c\) At least annually during the period the PFC is collected, held or used, each public agency shall provide for an audit of its PFC account. The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion of the fairness and reasonableness of the public agency's procedures for receiving, holding, and using PFC revenue. The accountant shall also express an opinion on whether the quarterly report required under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.63   Reporting requirements: Public agency.|§158.63]] fairly represents the net transactions within the PFC account. The audit may be—
 
 \(1\) Performed specifically for the PFC account; or
 
@@ -1026,11 +1026,11 @@ This subpart contains the requirements for reporting, recordkeeping and auditing
 
 ### §158.69   Recordkeeping and auditing: Collecting carriers.
 
-\(a\) Collecting carriers shall establish and maintain for each public agency for which they collect a PFC an accounting record of PFC revenue collected, remitted, refunded and compensation retained under §158.53(a) of this part. The accounting record shall identify the airport at which the passengers were enplaned.
+\(a\) Collecting carriers shall establish and maintain for each public agency for which they collect a PFC an accounting record of PFC revenue collected, remitted, refunded and compensation retained under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.53   Collection compensation.|§158.53]](a) of this part. The accounting record shall identify the airport at which the passengers were enplaned.
 
 \(b\) Each collecting carrier that collects more than 50,000 PFC's annually shall provide for an audit at least annually of its PFC account.
 
-\(1\) The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion on the fairness and reasonableness of the carrier's procedures for collecting, holding, and dispersing PFC revenue. The opinion shall also address whether the quarterly reports required under §158.65 fairly represent the net transactions in the PFC account.
+\(1\) The audit shall be performed by an accredited independent public accountant and may be of limited scope. The accountant shall express an opinion on the fairness and reasonableness of the carrier's procedures for collecting, holding, and dispersing PFC revenue. The opinion shall also address whether the quarterly reports required under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.65   Reporting requirements: Collecting air carriers.|§158.65]] fairly represent the net transactions in the PFC account.
 
 \(2\) For the purposes of an audit under this section, collection is defined as the point when agents or other intermediaries remit PFC revenue to the carrier.
 
@@ -1056,7 +1056,7 @@ This subpart contains the procedures for termination of PFCs or loss of Federal 
 
 ### §158.83   Informal resolution.
 
-The Administrator shall undertake informal resolution with the public agency or any other affected party if, after review under §158.71, the Administrator cannot determine that PFC revenue is being used for the approved projects in accordance with the terms of the Administrator's approval to impose a PFC for those projects or with 49 U.S.C. 40117.
+The Administrator shall undertake informal resolution with the public agency or any other affected party if, after review under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.71   Federal oversight.|§158.71]], the Administrator cannot determine that PFC revenue is being used for the approved projects in accordance with the terms of the Administrator's approval to impose a PFC for those projects or with 49 U.S.C. 40117.
 
 \[Doc. No. 26385, 56 FR 24278, May 29, 1991, as amended by Amdt. 158-2, 65 FR 34543, May 30, 2000\]
 
@@ -1080,7 +1080,7 @@ The Administrator shall undertake informal resolution with the public agency or 
 
 ### §158.87   Loss of Federal airport grant funds.
 
-\(a\) If the Administrator determines that revenue derived from a PFC is excessive or is not being used as approved, the Administrator may reduce the amount of funds otherwise payable to the public agency under 49 U.S.C. 47114. Such a reduction may be made as a corrective action under §158.83 or §158.85 of this part.
+\(a\) If the Administrator determines that revenue derived from a PFC is excessive or is not being used as approved, the Administrator may reduce the amount of funds otherwise payable to the public agency under 49 U.S.C. 47114. Such a reduction may be made as a corrective action under [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.83   Informal resolution.|§158.83]] or [[Volume 3/I Airports/0158 Passenger facility charges (pfc's).md#§158.85   Termination of authority to impose PFC's.|§158.85]] of this part.
 
 \(b\) The amount of the reduction under paragraph (a) of this section shall equal the excess collected, or the amount not used in accordance with this part.
 

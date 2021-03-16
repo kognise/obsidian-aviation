@@ -52,7 +52,7 @@ Subject to the observance of the applicable rules, conditions, and limitations s
 
 ### §375.11   Other foreign civil aircraft.
 
-A foreign civil aircraft, including unmanned aircraft as defined in §1.1 of this title, other than those referred to in §375.10 may be navigated in the United States only when:
+A foreign civil aircraft, including unmanned aircraft as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of this title, other than those referred to in [[Volume 4/D Special regulations/0375 Navigation of foreign civil aircraft within the united states.md#§375.10   Certain foreign civil aircraft registered in ICAO member states.|§375.10]] may be navigated in the United States only when:
 
 \(a\) The operation is authorized by the Department under the provisions of this part, and
 
@@ -92,7 +92,7 @@ All U.S. entry and clearance requirements for aircraft, passengers, crews, bagga
 
 ### §375.25   Unauthorized operations.
 
-No foreign civil aircraft shall be navigated in the United States unless authorized by this part. Commercial air operations (other than those authorized by §375.36) shall not be undertaken without a permit issued by the Department.
+No foreign civil aircraft shall be navigated in the United States unless authorized by this part. Commercial air operations (other than those authorized by [[Volume 4/D Special regulations/0375 Navigation of foreign civil aircraft within the united states.md#§375.36   Lease of foreign civil aircraft without crew.|§375.36]]) shall not be undertaken without a permit issued by the Department.
 
 ### §375.26   Waiver of sovereign immunity.
 
@@ -128,7 +128,7 @@ Foreign civil aircraft may be operated in the United States for the purpose of g
 
 \(1\) Between two or more points in the United States;
 
-\(2\) Between a point in the United States named in the carrier's section 41301 permit or exemption, and a point outside the United States not so named, when authorized in accordance with the provisions of part 216 of this chapter to carry blind sector traffic to or from such unnamed foreign point; and
+\(2\) Between a point in the United States named in the carrier's section 41301 permit or exemption, and a point outside the United States not so named, when authorized in accordance with the provisions of [[Volume 4/A Economic regulations/0216 Commingling of blind sector traffic by foreign air carriers.md|part 216 of this chapter]] to carry blind sector traffic to or from such unnamed foreign point; and
 
 \(3\) Between a point in the United States and a point outside thereof when the carrier lands at the United States point for non-traffic purposes in exercise of the privilege granted under the International Air Services Transit Agreement.
 
@@ -196,9 +196,9 @@ For purposes of this section, “company” is defined as a person that operates
 
 Foreign civil aircraft that are small unmanned aircraft used exclusively as model aircraft may be operated in the United States only when the individual:
 
-\(a\) Completes the registration process in accordance with §§48.30, 48.100(b) and (c), 48.105, and 48.115 of this title;
+\(a\) Completes the registration process in accordance with §[[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.30   Fees.|§48.30]], 48.100(b) and (c), 48.105, and 48.115 of this title;
 
-\(b\) Identifies the aircraft in accordance with the aircraft marking requirements in §§48.200 and 48.205 of this title; and
+\(b\) Identifies the aircraft in accordance with the aircraft marking requirements in §[[Volume 1/C Aircraft/0048 Registration and marking requirements for small unmanned aircraft.md#§48.200   General.|§48.200]] and 48.205 of this title; and
 
 \(c\) Complies with the requirements of Sec. 336 of Pub. L. 112-95 (Feb. 14, 2012).
 
@@ -294,7 +294,7 @@ Occasional planeload charters may be authorized where, because of their limited 
 
 \(g\) *Short notice filing.* Nothing in this section shall be construed as precluding the filing of an application for a foreign aircraft permit to perform transit operations pursuant to the International Air Services Transit Agreement less than 30 days in advance of the proposed operation. No such flights shall be operated, however, unless or until a specific foreign aircraft permit has been issued by the Department.
 
-\(h\) *Nature of privilege conferred.* Air transportation is not authorized under this section, and the burden rests upon each operator and carrier to show that the proposed operations will not constitute air transportation within the meaning of 49 U.S.C. Subtitle VII. In addition, each operator and carrier has the burden of demonstrating that the proposed operations are authorized by the International Air Services Transit Agreement, and that the appropriate authorization should not be withheld pursuant to section 5 of Article I thereof. Stopovers for the convenience or pleasure of the passengers are not authorized under this section and stops other than for strictly operational reasons shall not be made. The consolidation on the same aircraft of an operation under this section with a service authorized under 49 U.S.C. 41301 or 41709 is not authorized by this section. Any authorization or permit granted under this section is nontransferable, and may be withheld, revoked, suspended, withdrawn, or cancelled by the Department, without notice or hearing, if required by the public interest. Operators of aircraft registered in countries not parties to the International Air Services Transit Agreement shall make special application to the Department under §375.70.
+\(h\) *Nature of privilege conferred.* Air transportation is not authorized under this section, and the burden rests upon each operator and carrier to show that the proposed operations will not constitute air transportation within the meaning of 49 U.S.C. Subtitle VII. In addition, each operator and carrier has the burden of demonstrating that the proposed operations are authorized by the International Air Services Transit Agreement, and that the appropriate authorization should not be withheld pursuant to section 5 of Article I thereof. Stopovers for the convenience or pleasure of the passengers are not authorized under this section and stops other than for strictly operational reasons shall not be made. The consolidation on the same aircraft of an operation under this section with a service authorized under 49 U.S.C. 41301 or 41709 is not authorized by this section. Any authorization or permit granted under this section is nontransferable, and may be withheld, revoked, suspended, withdrawn, or cancelled by the Department, without notice or hearing, if required by the public interest. Operators of aircraft registered in countries not parties to the International Air Services Transit Agreement shall make special application to the Department under [[Volume 4/D Special regulations/0375 Navigation of foreign civil aircraft within the united states.md#§375.70   Special authorization.|§375.70]].
 
 \[OST Doc. No. 42547, 51 FR 7254, Mar. 3, 1986, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019\]
 

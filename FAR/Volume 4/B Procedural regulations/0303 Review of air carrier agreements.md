@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.303](https://www.ecfr
 
 ### §303.01   Purpose.
 
-This part sets forth the procedures by which applications may be made to the Department of Transportation under 49 U.S.C. 41308 and 41309 and procedures governing proceedings to enforce these provisions. These procedures supplement the rules described in part 302 of this chapter, which also apply to the review of air carrier agreements.
+This part sets forth the procedures by which applications may be made to the Department of Transportation under 49 U.S.C. 41308 and 41309 and procedures governing proceedings to enforce these provisions. These procedures supplement the rules described in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]], which also apply to the review of air carrier agreements.
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15936, Apr. 16, 2019\]
 
@@ -22,7 +22,7 @@ This part sets forth the procedures by which applications may be made to the Dep
 
 \(2\) All information contained in data processing equipment or materials. The term does not include daily or weekly statistical reports in whose place an annual or monthly summary is submitted.
 
-\(c\) The term *hearing* means either a show-cause proceeding as provided in §303.44 or a full evidentiary hearing as provided in §303.45, whichever is determined by the Assistant Secretary to be appropriate.
+\(c\) The term *hearing* means either a show-cause proceeding as provided in [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.44   Show cause proceedings.|§303.44]] or a full evidentiary hearing as provided in [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.45   Evidentiary hearings.|§303.45]], whichever is determined by the Assistant Secretary to be appropriate.
 
 (d)-(g) \[Reserved\]
 
@@ -34,17 +34,17 @@ This part sets forth the procedures by which applications may be made to the Dep
 
 ### §303.03   Requirement to file application.
 
-A person who seeks approval of a section 41309 transaction must file the application with the Docket Operations Office, M-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590, or by electronic submission at *http://www.regulations.gov.* The application must conform to the requirements set forth in §§303.04 and 303.05.
+A person who seeks approval of a section 41309 transaction must file the application with the Docket Operations Office, M-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590, or by electronic submission at *http://www.regulations.gov.* The application must conform to the requirements set forth in §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05.
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019\]
 
 ### §303.04   General rules governing application content, procedure and conditions of approval.
 
-\(a\) Unless specifically exempted by this part or by an order of the Assistant Secretary, a person filing an application pursuant to §303.03 of this part shall prepare and file the application in the manner specified in this section. The application shall also contain the information required by subpart D of this part. An application may be deemed incomplete if it is not in substantial compliance with these requirements.
+\(a\) Unless specifically exempted by this part or by an order of the Assistant Secretary, a person filing an application pursuant to [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.30   General provisions concerning contents of applications.|§303.03]] of this part shall prepare and file the application in the manner specified in this section. The application shall also contain the information required by subpart D of this part. An application may be deemed incomplete if it is not in substantial compliance with these requirements.
 
 \(b\) The parties to the transaction may file either separate applications or one joint application so long as all the information required herein is submitted for each party to the transaction. The Assistant Secretary or Administrative Law Judge, if the matter has been assigned to a judge, upon his or her initiative or upon application, may order the target company or other persons to submit some or all of the information required by this subpart, or other information under 14 CFR 302.25.
 
-\(c\) Each page of the application and each document submitte[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.25   Subpoenas.|14 CFR 302.25]]plication shall be marked with the name, initials, or some other identifying symbol of the applicant. The application shall also indicate the date of preparation and the name and corporate position of the preparer.
+\(c\) Each page of the application and each document submitted with the application shall be marked with the name, initials, or some other identifying symbol of the applicant. The application shall also indicate the date of preparation and the name and corporate position of the preparer.
 
 \(d\) Where the required information is in data processing equipment, on microfilm, or is otherwise not eye-readable, the applicant shall provide such information in eye-readable form.
 
@@ -120,9 +120,9 @@ A section 41309 application shall explain the nature and purpose of the contract
 
 ### §303.32   Service of the application.
 
-\(a\) Except as provided in paragraph (b) of this section, a section 41309 application described in §303.30(c) of this subpart and any related pleadings shall be served on any person or organization that has previously advised the air carrier association of its desire for service of such agreements. Each application shall contain the names and addresses of all persons served and a notice that any party in interest may within 21 days of the date of the application file comments with the Assistant Secretary in support or opposition to the application.
+\(a\) Except as provided in paragraph (b) of this section, a section 41309 application described in [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.30   General provisions concerning contents of applications.|§303.30]](c) of this subpart and any related pleadings shall be served on any person or organization that has previously advised the air carrier association of its desire for service of such agreements. Each application shall contain the names and addresses of all persons served and a notice that any party in interest may within 21 days of the date of the application file comments with the Assistant Secretary in support or opposition to the application.
 
-\(b\) Service of IATA Traffic Conference agreements and amendments thereto upon any person or organization that previously has advised IATA of its desire for service of agreements may be accomplished by sending a summary notice specifying the filing date; the IATA memorandum number; the particular Conferences involved; the subject matter (e.g., cargo/passenger, tariffs/agency matters/ procedures); the proposed effective date(s); the markets or Conference areas affected; the names of the carriers participating in the agreement; the names of all persons served; and a notice that any party in interest may within 21 days of the date of filing of the application file comments with the Assistant Secretary in support of or opposition to the application. A request for a complete copy of the application can be made under the provisions of §303.04(j).
+\(b\) Service of IATA Traffic Conference agreements and amendments thereto upon any person or organization that previously has advised IATA of its desire for service of agreements may be accomplished by sending a summary notice specifying the filing date; the IATA memorandum number; the particular Conferences involved; the subject matter (e.g., cargo/passenger, tariffs/agency matters/ procedures); the proposed effective date(s); the markets or Conference areas affected; the names of the carriers participating in the agreement; the names of all persons served; and a notice that any party in interest may within 21 days of the date of filing of the application file comments with the Assistant Secretary in support of or opposition to the application. A request for a complete copy of the application can be made under the provisions of [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]](j).
 
 \[50 FR 31142, July 31, 1985, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019\]
 
@@ -134,13 +134,13 @@ This subpart also applies to all modifications or cancellations of contracts or 
 
 ### §303.40   Determination of compliance.
 
-\(a\) Within 10 days after an application is filed pursuant to §303.03, the Assistant Secretary will determine whether the application complies with the requirements of §§303.04 and 303.05.
+\(a\) Within 10 days after an application is filed pursuant to [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.30   General provisions concerning contents of applications.|§303.03]], the Assistant Secretary will determine whether the application complies with the requirements of §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05.
 
 \(b\) If the Assistant Secretary determines that the application is incomplete, he or she may issue a notice dismissing the application without prejudice. If the application is dismissed, and statutory time period for completion of proceedings will not begin to run until a completed application is filed.
 
 ### §303.41   Notice.
 
-\(a\) The Documentary Service Division shall compile a weekly list of all applications filed under §§303.04 and 303.05. The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified. The weekly list will normally be prepared on the following Monday, or as soon as possible, and will be posted on a public bulletin board in the Documentary Services Division. The list also shall be submitted for publication in the Federal Register.
+\(a\) The Documentary Service Division shall compile a weekly list of all applications filed under §[[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md#§303.40   Determination of compliance.|§303.04]] and 303.05. The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified. The weekly list will normally be prepared on the following Monday, or as soon as possible, and will be posted on a public bulletin board in the Documentary Services Division. The list also shall be submitted for publication in the Federal Register.
 
 \(b\) In appropriate case, particularly when an application concerns a matter of broad public significance, the Assistant Secretary may cause a notice of an application and request for public comment to be published separately in the Federal Register.
 
@@ -172,9 +172,9 @@ If the Assistant Secretary determines that an application, or review of a previo
 
 \(a\) If the Assistant Secretary determines that an application, or review of a previous granted application, should be the subject of a full evidentiary hearing, he or she shall issue an order so stating. The term “full evidentiary hearing” includes any hybrid format set out in the instituting order. This order shall set forth the issues that are to be considered in such hearing.
 
-\(b\) After the issuance of an order for a full evidentiary hearing, the Chief Administrative Law Judge shall promptly appoint an Administrative Law Judge to conduct such hearing in accordance with section 7 of the Administrative Procedure Act, 5 U.S.C. 556, and the Rules of Practice in part 302 of this chapter.
+\(b\) After the issuance of an order for a full evidentiary hearing, the Chief Administrative Law Judge shall promptly appoint an Administrative Law Judge to conduct such hearing in accordance with section 7 of the Administrative Procedure Act, 5 U.S.C. 556, and the Rules of Practice in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]].
 
-\(c\) The applicants and the Assistant General Counsel for Aviation Enforcement and Proceedings shall be parties in any full evidentiary hearing held under this part. The Assistant Attorney General, Antitrust, shall be a party upon notice filed with the Administrative Law Judge. Other persons may intervene as parties as provided by §302.20 of this chapter.
+\(c\) The applicants and the Assistant General Counsel for Aviation Enforcement and Proceedings shall be parties in any full evidentiary hearing held under this part. The Assistant Attorney General, Antitrust, shall be a party upon notice filed with the Administrative Law Judge. Other persons may intervene as parties as provided by [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.20   Formal intervention.|§302.20]] of this chapter.
 
 \(d\) Within the time specified in the order instituting the full evidentiary hearing, the Administrative Law Judge shall recommend to the Assistant Secretary that the application be approved or denied or that the previously granted exemption approval or immunity should be terminated or continued in accordance with the standards of the Act. The recommendation shall be in writing, shall be based solely on the hearing record, and shall include a statement of the Administrative Law Judge's findings and conclusions, and the reasons or basis therefore, or all material issues of fact, law or discretion presented on the record. Copies of the recommendation shall be served on each party.
 
@@ -184,6 +184,6 @@ If the Assistant Secretary determines that an application, or review of a previo
 
 ### §303.46   Decision by the Assistant Secretary.
 
-The Assistant Secretary shall decide, on the basis of the record and in accordance with the procedures prescribed in part 302 of this chapter, whether to grant or deny, in whole or in part, the application. A copy of the Assistant Secretary's final decision shall be served on all parties.
+The Assistant Secretary shall decide, on the basis of the record and in accordance with the procedures prescribed in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]], whether to grant or deny, in whole or in part, the application. A copy of the Assistant Secretary's final decision shall be served on all parties.
 
 </div>

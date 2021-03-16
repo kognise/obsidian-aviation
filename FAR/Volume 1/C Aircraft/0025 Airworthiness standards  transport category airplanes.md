@@ -64,9 +64,9 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(b\) For airplanes outfitted with interior doors under paragraph 10 of this SFAR, the airplane flight manual (AFM) must include an appropriate limitation that the airplane must be staffed with at least the following number of flight attendants who meet the requirements of 14 CFR 91.533(b):
 
-\(1\) The number of flight attendants required by §91.533(a)(1) and (2) of this chapter, and
+\(1\) The number of flight attendants required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.533   Flight attendant requirements.|§91.533]](a)(1) and (2) of this chapter, and
 
-\(2\) At least one flight attendant if the airplane model w[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.533   Flight attendant requirements.|14 CFR 91.533]] certified for 75 passengers or more.
+\(2\) At least one flight attendant if the airplane model was originally certified for 75 passengers or more.
 
 \(c\) The AFM must include appropriate limitation(s) to require a preflight passenger briefing describing the appropriate functions to be performed by the passengers and the relevant features of the airplane to ensure the safety of the passengers and crew.
 
@@ -74,7 +74,7 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(e\) A placard stating that “Operations involving the carriage of persons or property for compensation or hire are prohibited,” must be located in the area of the Airworthiness Certificate holder at the entrance to the flightdeck.
 
-\(f\) For passenger capacities of 45 to 60 passengers, analysis must be submitted that demonstrates that the airplane can be evacuated in less than 90 seconds under the conditions specified in §25.803 and appendix J to part 25.
+\(f\) For passenger capacities of 45 to 60 passengers, analysis must be submitted that demonstrates that the airplane can be evacuated in less than 90 seconds under the conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.803   Emergency evacuation.|§25.803]] and appendix J to part 25.
 
 \(g\) In order for any airplane certified under this SFAR to be placed in part 135 or part 121 operations, the airplane must be brought back into full compliance with the applicable operational part.
 
@@ -84,13 +84,13 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 4\. *Occupant Protection.*
 
-\(a\) Firm Handhold. In lieu of the requirements of §25.785(j), there must be means provided to enable persons to steady themselves in moderately rough air while occupying aisles that are along the cabin sidewall, or where practicable, bordered by seats (seat backs providing a 25-pound minimum breakaway force are an acceptable means of compliance).
+\(a\) Firm Handhold. In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]](j), there must be means provided to enable persons to steady themselves in moderately rough air while occupying aisles that are along the cabin sidewall, or where practicable, bordered by seats (seat backs providing a 25-pound minimum breakaway force are an acceptable means of compliance).
 
-\(b\) Injury criteria for multiple occupancy side-facing seats. The following requirements are only applicable to airplanes that are subject to §25.562.
+\(b\) Injury criteria for multiple occupancy side-facing seats. The following requirements are only applicable to airplanes that are subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]].
 
-\(1\) *Existing Criteria.* All injury protection criteria of §25.562(c)(1) through (c)(6) apply to the occupants of side-facing seating. The Head Injury Criterion (HIC) assessments are only required for head contact with the seat and/or adjacent structures.
+\(1\) *Existing Criteria.* All injury protection criteria of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]](c)(1) through (c)(6) apply to the occupants of side-facing seating. The Head Injury Criterion (HIC) assessments are only required for head contact with the seat and/or adjacent structures.
 
-\(2\) *Body-to-Body Contact.* Contact between the head, pelvis, torso or shoulder area of one Anthropomorphic Test Dummy (ATD) with the head, pelvis, torso or shoulder area of the ATD in the adjacent seat is not allowed during the tests conducted in accordance with §25.562(b)(1) and (b)(2). Contact during rebound is allowed.
+\(2\) *Body-to-Body Contact.* Contact between the head, pelvis, torso or shoulder area of one Anthropomorphic Test Dummy (ATD) with the head, pelvis, torso or shoulder area of the ATD in the adjacent seat is not allowed during the tests conducted in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]](b)(1) and (b)(2). Contact during rebound is allowed.
 
 \(3\) *Thoracic Trauma.* If the torso of an ATD at the forward-most seat place impacts the seat and/or adjacent structure during testing, compliance with the Thoracic Trauma Index (TTI) injury criterion must be substantiated by dynamic test or by rational analysis based on previous test(s) of a similar seat installation. TTI data must be acquired with a Side Impact Dummy (SID), as defined by 49 CFR part 572, subpart F, or an equivalent ATD or a more appropriate ATD and must be processed as defined in Federal Motor Vehicle Safety Standards (FMVSS) part 571.214, section S6.13.5 (49 CFR 571.214). The TTI must be less than 85, as defined in 49 CFR part 572, subpart F. Torso contact during rebound is acceptable and need not be measured.
 
@@ -106,7 +106,7 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(i\) All seat positions need to be occupied by ATDs for the longitudinal tests.
 
-\(ii\) A minimum of one longitudinal test, conducted in accordance with the conditions specified in §25.562(b)(2), is required to assess the injury criteria as follows. Note that if a seat is installed aft of structure (such as an interior wall or furnishing) that does not have a homogeneous surface, an additional test or tests may be required to demonstrate that the injury criteria are met for the area which an occupant could contact. For example, different yaw angles could result in different injury considerations and may require separate tests to evaluate.
+\(ii\) A minimum of one longitudinal test, conducted in accordance with the conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]](b)(2), is required to assess the injury criteria as follows. Note that if a seat is installed aft of structure (such as an interior wall or furnishing) that does not have a homogeneous surface, an additional test or tests may be required to demonstrate that the injury criteria are met for the area which an occupant could contact. For example, different yaw angles could result in different injury considerations and may require separate tests to evaluate.
 
 \(A\) For configurations without structure (such as a wall or bulkhead) installed directly forward of the forward seat place, Hybrid II ATDs or equivalent must be in all seat places.
 
@@ -114,15 +114,15 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(C\) The test may be conducted with or without deformed floor.
 
-\(D\) The test must be conducted with either no yaw or 10 degrees yaw for evaluating occupant injury. Deviating from the no yaw condition may not result in the critical area of contact not being evaluated. The upper torso restraint straps, where installed, must remain on the occupant's shoulder during the impact condition of §25.562(b)(2).
+\(D\) The test must be conducted with either no yaw or 10 degrees yaw for evaluating occupant injury. Deviating from the no yaw condition may not result in the critical area of contact not being evaluated. The upper torso restraint straps, where installed, must remain on the occupant's shoulder during the impact condition of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]](b)(2).
 
-\(c\) For the vertical test, conducted in accordance with the conditions specified in §25.562(b)(1), Hybrid II ATDs or equivalent must be used in all seat positions.
+\(c\) For the vertical test, conducted in accordance with the conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.562   Emergency landing dynamic conditions.|§25.562]](b)(1), Hybrid II ATDs or equivalent must be used in all seat positions.
 
-5\. *Direct View.* In lieu of the requirements of §25.785(h)(2), to the extent practical without compromising proximity to a required floor level emergency exit, the majority of installed flight attendant seats must be located to face the cabin area for which the flight attendant is responsible.
+5\. *Direct View.* In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]](h)(2), to the extent practical without compromising proximity to a required floor level emergency exit, the majority of installed flight attendant seats must be located to face the cabin area for which the flight attendant is responsible.
 
-6\. *Passenger Information Signs.* Compliance with §25.791 is required except that for §25.791(a), when smoking is to be prohibited, notification to the passengers may be provided by a single placard so stating, to be conspicuously located inside the passenger compartment, easily visible to all persons entering the cabin in the immediate vicinity of each passenger entry door.
+6\. *Passenger Information Signs.* Compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.791   Passenger information signs and placards.|§25.791]] is required except that for [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.791   Passenger information signs and placards.|§25.791]](a), when smoking is to be prohibited, notification to the passengers may be provided by a single placard so stating, to be conspicuously located inside the passenger compartment, easily visible to all persons entering the cabin in the immediate vicinity of each passenger entry door.
 
-7\. *Distance Between Exits.* For an airplane that is required to comply with §25.807(f)(4), in effect as of July 24, 1989, which has more than one passenger emergency exit on each side of the fuselage, no passenger emergency exit may be more than 60 feet from any adjacent passenger emergency exit on the same side of the same deck of the fuselage, as measured parallel to the airplane's longitudinal axis between the nearest exit edges, unless the following conditions are met:
+7\. *Distance Between Exits.* For an airplane that is required to comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](f)(4), in effect as of July 24, 1989, which has more than one passenger emergency exit on each side of the fuselage, no passenger emergency exit may be more than 60 feet from any adjacent passenger emergency exit on the same side of the same deck of the fuselage, as measured parallel to the airplane's longitudinal axis between the nearest exit edges, unless the following conditions are met:
 
 \(a\) Each passenger seat must be located within 30 feet from the nearest exit on each side of the fuselage, as measured parallel to the airplane's longitudinal axis, between the nearest exit edge and the front of the seat bottom cushion.
 
@@ -132,11 +132,11 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(2\) For zones between one pair of exits and a bulkhead, 40 percent of the rated capacity of the pair of emergency exits.
 
-\(c\) The total number of passenger seats in the airplane may not exceed 33 percent of the maximum seating capacity for the airplane model using the exit ratings listed in §25.807(g) for the original certified exits or the maximum allowable after modification when exits are deactivated, whichever is less.
+\(c\) The total number of passenger seats in the airplane may not exceed 33 percent of the maximum seating capacity for the airplane model using the exit ratings listed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](g) for the original certified exits or the maximum allowable after modification when exits are deactivated, whichever is less.
 
 \(d\) A distance of more than 60 feet between adjacent passenger emergency exits on the same side of the same deck of the fuselage, as measured parallel to the airplane's longitudinal axis between the nearest exit edges, is allowed only once on each side of the fuselage.
 
-8\. *Emergency Exit Signs.* In lieu of the requirements of §25.811(d)(1) and (2) a single sign at each exit may be installed provided:
+8\. *Emergency Exit Signs.* In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(1) and (2) a single sign at each exit may be installed provided:
 
 \(a\) The sign can be read from the aisle while directly facing the exit, and
 
@@ -144,27 +144,27 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 9\. *Emergency Lighting.*
 
-\(a\) *Exit Signs.* In lieu of the requirements of §25.812(b)(1), for airplanes that have a passenger seating configuration, excluding pilot seats, of 19 seats or less, the emergency exit signs required by §25.811(d)(1), (2), and (3) must have red letters at least 1-inch high on a white background at least 2 inches high. These signs may be internally electrically illuminated, or self illuminated by other than electrical means, with an initial brightness of at least 160 microlamberts. The color may be reversed in the case of a sign that is self-illuminated by other than electrical means.
+\(a\) *Exit Signs.* In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]](b)(1), for airplanes that have a passenger seating configuration, excluding pilot seats, of 19 seats or less, the emergency exit signs required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(1), (2), and (3) must have red letters at least 1-inch high on a white background at least 2 inches high. These signs may be internally electrically illuminated, or self illuminated by other than electrical means, with an initial brightness of at least 160 microlamberts. The color may be reversed in the case of a sign that is self-illuminated by other than electrical means.
 
-\(b\) *Floor Proximity Escape Path Marking.* In lieu of the requirements of §25.812(e)(1), for cabin seating compartments that do not have the main cabin aisle entering and exiting the compartment, the following are applicable:
+\(b\) *Floor Proximity Escape Path Marking.* In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]](e)(1), for cabin seating compartments that do not have the main cabin aisle entering and exiting the compartment, the following are applicable:
 
 \(1\) After a passenger leaves any passenger seat in the compartment, he/she must be able to exit the compartment to the main cabin aisle using only markings and visual features not more that 4 feet above the cabin floor, and
 
-\(2\) Proceed to the exits using the marking system necessary to accomplish the actions in §25.812(e)(1) and (e)(2).
+\(2\) Proceed to the exits using the marking system necessary to accomplish the actions in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]](e)(1) and (e)(2).
 
-\(c\) *Transverse Separation of the Fuselage.* In the event of a transverse separation of the fuselage, compliance must be shown with §25.812(l) except as follows:
+\(c\) *Transverse Separation of the Fuselage.* In the event of a transverse separation of the fuselage, compliance must be shown with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]](l) except as follows:
 
-\(1\) For each airplane type originally type certificated with a maximum passenger seating capacity of 9 or less, not more than 50 percent of all electrically illuminated emergency lights required by §25.812 may be rendered inoperative in addition to the lights that are directly damaged by the separation.
+\(1\) For each airplane type originally type certificated with a maximum passenger seating capacity of 9 or less, not more than 50 percent of all electrically illuminated emergency lights required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]] may be rendered inoperative in addition to the lights that are directly damaged by the separation.
 
-\(2\) For each airplane type originally type certificated with a maximum passenger seating capacity of 10 to 19, not more than 33 percent of all electrically illuminated emergency lights required by §25.812 may be rendered inoperative in addition to the lights that are directly damaged by the separation.
+\(2\) For each airplane type originally type certificated with a maximum passenger seating capacity of 10 to 19, not more than 33 percent of all electrically illuminated emergency lights required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.812   Emergency lighting.|§25.812]] may be rendered inoperative in addition to the lights that are directly damaged by the separation.
 
-10\. *Interior doors.* In lieu of the requirements of §25.813(e), interior doors may be installed between passenger seats and exits, provided the following requirements are met.
+10\. *Interior doors.* In lieu of the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.813   Emergency exit access.|§25.813]](e), interior doors may be installed between passenger seats and exits, provided the following requirements are met.
 
 \(a\) Each door between any passenger seat, occupiable for taxi, takeoff, and landing, and any emergency exit must have a means to signal to the flightcrew, at the flightdeck, that the door is in the open position for taxi, takeoff and landing.
 
 \(b\) Appropriate procedures/limitations must be established to ensure that any such door is in the open configuration for takeoff and landing.
 
-\(c\) Each door between any passenger seat and any exit must have dual means to retain it in the open position, each of which is capable of reacting the inertia loads specified in §25.561.
+\(c\) Each door between any passenger seat and any exit must have dual means to retain it in the open position, each of which is capable of reacting the inertia loads specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]].
 
 \(d\) Doors installed across a longitudinal aisle must translate laterally to open and close, e.g., pocket doors.
 
@@ -172,11 +172,11 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(f\) Each door between any passenger seat and any exit must be operable from either side, and if a locking mechanism is installed, it must be capable of being unlocked from either side without the use of special tools.
 
-11\. *Width of Aisle.* Compliance is required with §25.815, except that aisle width may be reduced to 0 inches between passenger seats during in-flight operations only, provided that the applicant demonstrates that all areas of the cabin are easily accessible by a crew member in the event of an emergency (e.g., in-flight fire, decompression). Additionally, instructions must be provided at each passenger seat for restoring the aisle width required by §25.815. Procedures must be established and documented in the AFM to ensure that the required aisle widths are provided during taxi, takeoff, and landing.
+11\. *Width of Aisle.* Compliance is required with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.815   Width of aisle.|§25.815]], except that aisle width may be reduced to 0 inches between passenger seats during in-flight operations only, provided that the applicant demonstrates that all areas of the cabin are easily accessible by a crew member in the event of an emergency (e.g., in-flight fire, decompression). Additionally, instructions must be provided at each passenger seat for restoring the aisle width required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.815   Width of aisle.|§25.815]]. Procedures must be established and documented in the AFM to ensure that the required aisle widths are provided during taxi, takeoff, and landing.
 
-12\. *Materials for Compartment Interiors.* Compliance is required with the applicable provisions of §25.853, except that compliance with appendix F, parts IV and V, to part 25, need not be demonstrated if it can be shown by test or a combination of test and analysis that the maximum time for evacuation of all occupants does not exceed 45 seconds under the conditions specified in appendix J to part 25.
+12\. *Materials for Compartment Interiors.* Compliance is required with the applicable provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.853   Compartment interiors.|§25.853]], except that compliance with appendix F, parts IV and V, to part 25, need not be demonstrated if it can be shown by test or a combination of test and analysis that the maximum time for evacuation of all occupants does not exceed 45 seconds under the conditions specified in appendix J to part 25.
 
-13\. *Fire Detection.* For airplanes with a type certificated passenger capacity of 20 or more, there must be means that meet the requirements of §25.858(a) through (d) to signal the flightcrew in the event of a fire in any isolated room not occupiable for taxi, takeoff and landing, which can be closed off from the rest of the cabin by a door. The indication must identify the compartment where the fire is located. This does not apply to lavatories, which continue to be governed by §25.854.
+13\. *Fire Detection.* For airplanes with a type certificated passenger capacity of 20 or more, there must be means that meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.858   Cargo or baggage compartment smoke or fire detection systems.|§25.858]](a) through (d) to signal the flightcrew in the event of a fire in any isolated room not occupiable for taxi, takeoff and landing, which can be closed off from the rest of the cabin by a door. The indication must identify the compartment where the fire is located. This does not apply to lavatories, which continue to be governed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.854   Lavatory fire protection.|§25.854]].
 
 14\. *Cooktops.* Each cooktop must be designed and installed to minimize any potential threat to the airplane, passengers, and crew. Compliance with this requirement must be found in accordance with the following criteria:
 
@@ -208,13 +208,13 @@ This regulation supersedes Special Civil Air Regulation SR-398 and shall remain 
 
 \(a\) For airplanes that were originally type certificated with more than 60 passengers, the number of hand-held fire extinguishers must be the greater of—
 
-\(1\) That provided in accordance with the requirements of §25.851, or
+\(1\) That provided in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.851   Fire extinguishers.|§25.851]], or
 
 \(2\) A number equal to the number of originally type certificated exit pairs, regardless of whether the exits are deactivated for the proposed configuration.
 
 \(b\) Extinguishers must be evenly distributed throughout the cabin. These extinguishers are in addition to those required by paragraph 14 of this SFAR, unless it can be shown that the cooktop was installed in the immediate vicinity of the original exits.
 
-16\. *Security.* The requirements of §25.795 are not applicable to airplanes approved in accordance with this SFAR.
+16\. *Security.* The requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.795   Security considerations.|§25.795]] are not applicable to airplanes approved in accordance with this SFAR.
 
 \[Doc. No. FAA-2007-28250, 74 FR 21541, May 8, 2009\]
 
@@ -236,9 +236,9 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(2\) Sections 25.803(b) and 25.803(c)(1) in effect on April 23, 1969.
 
-\(b\) Irrespective of the date of application, each applicant for a supplemental type certificate (or an amendment to a type certificate) for an airplane manufactured after October 16, 1987, must show that the airplane meets the requirements of §25.807(c)(7) in effect on July 24, 1989.
+\(b\) Irrespective of the date of application, each applicant for a supplemental type certificate (or an amendment to a type certificate) for an airplane manufactured after October 16, 1987, must show that the airplane meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](c)(7) in effect on July 24, 1989.
 
-\(c\) Compliance with subsequent revisions to the sections specified in paragraph (a) or (b) of this section may be elected or may be required in accordance with §21.101(a) of this chapter.
+\(c\) Compliance with subsequent revisions to the sections specified in paragraph (a) or (b) of this section may be elected or may be required in accordance with [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.101   Designation of applicable regulations.|§21.101]](a) of this chapter.
 
 \[Amdt. 25-72, 55 FR 29773, July 20, 1990, as amended by Amdt. 25-99, 65 FR 36266, June 7, 2000\]
 
@@ -250,7 +250,7 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(2\) For which an application for an original type certificate was submitted before February 15, 2007.
 
-\(b\) *Airplanes with two engines.* (1) For ETOPS type design approval of an airplane up to and including 180 minutes, an applicant must comply with §25.1535, except that it need not comply with the following provisions of Appendix K, K25.1.4, of this part:
+\(b\) *Airplanes with two engines.* (1) For ETOPS type design approval of an airplane up to and including 180 minutes, an applicant must comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1535   ETOPS approval.|§25.1535]], except that it need not comply with the following provisions of Appendix K, K25.1.4, of this part:
 
 \(i\) K25.1.4(a), fuel system pressure and flow requirements;
 
@@ -258,9 +258,9 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(iii\) K25.1.4(c), engine oil tank design.
 
-\(2\) For ETOPS type design approval of an airplane beyond 180 minutes an applicant must comply with §25.1535.
+\(2\) For ETOPS type design approval of an airplane beyond 180 minutes an applicant must comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1535   ETOPS approval.|§25.1535]].
 
-\(c\) *Airplanes with more than two engines.* An applicant for ETOPS type design approval must comply with §25.1535 for an airplane manufactured on or after February 17, 2015, except that, for an airplane configured for a three person flight crew, the applicant need not comply with Appendix K, K25.1.4(a)(3), of this part, low fuel alerting.
+\(c\) *Airplanes with more than two engines.* An applicant for ETOPS type design approval must comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1535   ETOPS approval.|§25.1535]] for an airplane manufactured on or after February 17, 2015, except that, for an airplane configured for a three person flight crew, the applicant need not comply with Appendix K, K25.1.4(a)(3), of this part, low fuel alerting.
 
 \[Doc. No. FAA-2002-6717, 72 FR 1873, Jan. 16, 2007\]
 
@@ -270,7 +270,7 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(b\) The following materials are available for purchase from the following address: The National Technical Information Services (NTIS), Springfield, Virginia 22166.
 
-\(1\) Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8, IBR approved for §25.981 and Appendix N. It can also be obtained at the following Web site: *http://www.fire.tc.faa.gov/systems/fueltank/FTFAM.stm.*
+\(1\) Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8, IBR approved for [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]] and Appendix N. It can also be obtained at the following Web site: *http://www.fire.tc.faa.gov/systems/fueltank/FTFAM.stm.*
 
 \(2\) \[Reserved\]
 
@@ -294,9 +294,9 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(d\) Parameters critical for the test being conducted, such as weight, loading (center of gravity and inertia), airspeed, power, and wind, must be maintained within acceptable tolerances of the critical values during flight testing.
 
-\(e\) If compliance with the flight characteristics requirements is dependent upon a stability augmentation system or upon any other automatic or power-operated system, compliance must be shown with §§25.671 and 25.672.
+\(e\) If compliance with the flight characteristics requirements is dependent upon a stability augmentation system or upon any other automatic or power-operated system, compliance must be shown with §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.671   General.|§25.671]] and 25.672.
 
-\(f\) In meeting the requirements of §§25.105(d), 25.125, 25.233, and 25.237, the wind velocity must be measured at a height of 10 meters above the surface, or corrected for the difference between the height at which the wind velocity is measured and the 10-meter height.
+\(f\) In meeting the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.105   Takeoff.|§25.105]](d), 25.125, 25.233, and 25.237, the wind velocity must be measured at a height of 10 meters above the surface, or corrected for the difference between the height at which the wind velocity is measured and the 10-meter height.
 
 \(g\) The requirements of this subpart associated with icing conditions apply only if the applicant is seeking certification for flight in icing conditions.
 
@@ -306,11 +306,11 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(ii\) The airplane is equipped with reversible flight controls.
 
-\(2\) Each requirement of this subpart, except §§25.121(a), 25.123(c), 25.143(b)(1) and (2), 25.149, 25.201(c)(2), 25.239, and 25.251(b) through (e), must be met in the icing conditions specified in Appendix C of this part. Section 25.207(c) and (d) must be met in the landing configuration in the icing conditions specified in Appendix C, but need not be met for other configurations. Compliance must be shown using the ice accretions defined in part II of Appendix C of this part, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
+\(2\) Each requirement of this subpart, except §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](a), 25.123(c), 25.143(b)(1) and (2), 25.149, 25.201(c)(2), 25.239, and 25.251(b) through (e), must be met in the icing conditions specified in Appendix C of this part. Section 25.207(c) and (d) must be met in the landing configuration in the icing conditions specified in Appendix C, but need not be met for other configurations. Compliance must be shown using the ice accretions defined in part II of Appendix C of this part, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
 
-\(3\) If the applicant does not seek certification for flight in all icing conditions defined in Appendix O of this part, each requirement of this subpart, except §§25.105, 25.107, 25.109, 25.111, 25.113, 25.115, 25.121, 25.123, 25.143(b)(1), (b)(2), and (c)(1), 25.149, 25.201(c)(2), 25.207(c), (d), and (e)(1), 25.239, and 25.251(b) through (e), must be met in the Appendix O icing conditions for which certification is not sought in order to allow a safe exit from those conditions. Compliance must be shown using the ice accretions defined in part II, paragraphs (b) and (d) of Appendix O, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
+\(3\) If the applicant does not seek certification for flight in all icing conditions defined in Appendix O of this part, each requirement of this subpart, except §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.105   Takeoff.|§25.105]], 25.107, 25.109, 25.111, 25.113, 25.115, 25.121, 25.123, 25.143(b)(1), (b)(2), and (c)(1), 25.149, 25.201(c)(2), 25.207(c), (d), and (e)(1), 25.239, and 25.251(b) through (e), must be met in the Appendix O icing conditions for which certification is not sought in order to allow a safe exit from those conditions. Compliance must be shown using the ice accretions defined in part II, paragraphs (b) and (d) of Appendix O, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
 
-\(4\) If the applicant seeks certification for flight in any portion of the icing conditions of Appendix O of this part, each requirement of this subpart, except §§25.121(a), 25.123(c), 25.143(b)(1) and (2), 25.149, 25.201(c)(2), 25.239, and 25.251(b) through (e), must be met in the Appendix O icing conditions for which certification is sought. Section 25.207(c) and (d) must be met in the landing configuration in the Appendix O icing conditions for which certification is sought, but need not be met for other configurations. Compliance must be shown using the ice accretions defined in part II, paragraphs (c) and (d) of Appendix O, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
+\(4\) If the applicant seeks certification for flight in any portion of the icing conditions of Appendix O of this part, each requirement of this subpart, except §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](a), 25.123(c), 25.143(b)(1) and (2), 25.149, 25.201(c)(2), 25.239, and 25.251(b) through (e), must be met in the Appendix O icing conditions for which certification is sought. Section 25.207(c) and (d) must be met in the landing configuration in the Appendix O icing conditions for which certification is sought, but need not be met for other configurations. Compliance must be shown using the ice accretions defined in part II, paragraphs (c) and (d) of Appendix O, assuming normal operation of the airplane and its ice protection system in accordance with the operating limitations and operating procedures established by the applicant and provided in the airplane flight manual.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5671, Apr. 8, 1970; Amdt. 25-42, 43 FR 2320, Jan. 16, 1978; Amdt. 25-72, 55 FR 29774, July 20, 1990; Amdt. 25-121, 72 FR 44665, Aug. 8, 2007 Amdt. 25-135, 76 FR 74654, Dec. 1, 2011; Amdt. 25-140, 79 FR 65524, Nov. 4, 2014\]
 
@@ -334,7 +334,7 @@ The following special retroactive requirements are applicable to an airplane for
 
 \(2\) The highest weight at which compliance with each applicable structural loading and flight requirement is shown, except that for airplanes equipped with standby power rocket engines the maximum weight must not be more than the highest weight established in accordance with appendix E of this part; or
 
-\(3\) The highest weight at which compliance is shown with the certification requirements of Part 36 of this chapter.
+\(3\) The highest weight at which compliance is shown with the certification requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|Part 36 of this chapter]].
 
 \(b\) *Minimum weight.* The minimum weight (the lowest weight at which compliance with each applicable requirement of this part is shown) must be established so that it is not less than—
 
@@ -362,7 +362,7 @@ The extreme forward and the extreme aft center of gravity limitations must be es
 
 \(1\) Fixed ballast;
 
-\(2\) Unusable fuel determined under §25.959; and
+\(2\) Unusable fuel determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.959   Unusable fuel supply.|§25.959]]; and
 
 \(3\) Full operating fluids, including—
 
@@ -386,7 +386,7 @@ Removable ballast may be used on showing compliance with the flight requirements
 
 \(1\) Safe operation under normal operating conditions; and
 
-\(2\) Compliance with the performance requirements of §§25.101 through 25.125.
+\(2\) Compliance with the performance requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]] through 25.125.
 
 \(b\) There must be a propeller speed limiting means at the governor. It must limit the maximum possible governed engine speed to a value not exceeding the maximum allowable r.p.m.
 
@@ -440,7 +440,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(f\) Unless otherwise prescribed, in determining the accelerate-stop distances, takeoff flight paths, takeoff distances, and landing distances, changes in the airplane's configuration, speed, power, and thrust, must be made in accordance with procedures established by the applicant for operation in service.
 
-\(g\) Procedures for the execution of balked landings and missed approaches associated with the conditions prescribed in §§25.119 and 25.121(d) must be established.
+\(g\) Procedures for the execution of balked landings and missed approaches associated with the conditions prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]] and 25.121(d) must be established.
 
 \(h\) The procedures established under paragraphs (f) and (g) of this section must—
 
@@ -450,7 +450,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(3\) Include allowance for any time delays, in the execution of the procedures, that may reasonably be expected in service.
 
-\(i\) The accelerate-stop and landing distances prescribed in §§25.109 and 25.125, respectively, must be determined with all the airplane wheel brake assemblies at the fully worn limit of their allowable wear range.
+\(i\) The accelerate-stop and landing distances prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.109   Accelerate-stop distance.|§25.109]] and 25.125, respectively, must be determined with all the airplane wheel brake assemblies at the fully worn limit of their allowable wear range.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-92, 63 FR 8318, Feb. 18, 1998\]
 
@@ -484,15 +484,15 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 ### §25.105   Takeoff.
 
-\(a\) The takeoff speeds prescribed by §25.107, the accelerate-stop distance prescribed by §25.109, the takeoff path prescribed by §25.111, the takeoff distance and takeoff run prescribed by §25.113, and the net takeoff flight path prescribed by §25.115, must be determined in the selected configuration for takeoff at each weight, altitude, and ambient temperature within the operational limits selected by the applicant—
+\(a\) The takeoff speeds prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.107   Takeoff speeds.|§25.107]], the accelerate-stop distance prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.109   Accelerate-stop distance.|§25.109]], the takeoff path prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]], the takeoff distance and takeoff run prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.113   Takeoff distance and takeoff run.|§25.113]], and the net takeoff flight path prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.115   Takeoff flight path.|§25.115]], must be determined in the selected configuration for takeoff at each weight, altitude, and ambient temperature within the operational limits selected by the applicant—
 
 \(1\) In non-icing conditions; and
 
-\(2\) In icing conditions, if in the configuration used to show compliance with §25.121(b), and with the most critical of the takeoff ice accretion(s) defined in appendices C and O of this part, as applicable, in accordance with §25.21(g):
+\(2\) In icing conditions, if in the configuration used to show compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b), and with the most critical of the takeoff ice accretion(s) defined in appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g):
 
 \(i\) The stall speed at maximum takeoff weight exceeds that in non-icing conditions by more than the greater of 3 knots CAS or 3 percent of VSR; or
 
-\(ii\) The degradation of the gradient of climb determined in accordance with §25.121(b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in §25.115(b).
+\(ii\) The degradation of the gradient of climb determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.115   Takeoff flight path.|§25.115]](b).
 
 \(b\) No takeoff made to determine the data required by this section may require exceptional piloting skill or alertness.
 
@@ -520,7 +520,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(a\) V1 must be established in relation to V*EF* as follows:
 
-\(1\) V*EF* is the calibrated airspeed at which the critical engine is assumed to fail. V*EF* must be selected by the applicant, but may not be less than V*MCG* determined under §25.149(e).
+\(1\) V*EF* is the calibrated airspeed at which the critical engine is assumed to fail. V*EF* must be selected by the applicant, but may not be less than V*MCG* determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.149   Minimum control speed.|§25.149]](e).
 
 \(2\) V1, in terms of calibrated airspeed, is selected by the applicant; however, V1 may not be less than VEF plus the speed gained with critical engine inoperative during the time interval between the instant at which the critical engine is failed, and the instant at which the pilot recognizes and reacts to the engine failure, as indicated by the pilot's initiation of the first action (e.g., applying brakes, reducing thrust, deploying speed brakes) to stop the airplane during accelerate-stop tests.
 
@@ -538,15 +538,15 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(ii\) Turbojet powered airplanes with provisions for obtaining a significant reduction in the one-engine-inoperative power-on stall speed; and
 
-\(3\) 1.10 times *VMC* established under §25.149.
+\(3\) 1.10 times *VMC* established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.149   Minimum control speed.|§25.149]].
 
-\(c\) *V2*, in terms of calibrated airspeed, must be selected by the applicant to provide at least the gradient of climb required by §25.121(b) but may not be less than—
+\(c\) *V2*, in terms of calibrated airspeed, must be selected by the applicant to provide at least the gradient of climb required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) but may not be less than—
 
 \(1\) V*2MIN*;
 
-\(2\) *VR* plus the speed increment attained (in accordance with §25.111(c)(2)) before reaching a height of 35 feet above the takeoff surface; and
+\(2\) *VR* plus the speed increment attained (in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]](c)(2)) before reaching a height of 35 feet above the takeoff surface; and
 
-\(3\) A speed that provides the maneuvering capability specified in §25.143(h).
+\(3\) A speed that provides the maneuvering capability specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](h).
 
 \(d\) V*MU* is the calibrated airspeed at and above which the airplane can safely lift off the ground, and con- tinue the takeoff. V*MU* speeds must be selected by the applicant throughout the range of thrust-to-weight ratios to be certificated. These speeds may be established from free air data if these data are verified by ground takeoff tests.
 
@@ -558,7 +558,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(ii\) 105 percent of *VMC*;
 
-\(iii\) The speed (determined in accordance with §25.111(c)(2)) that allows reaching *V*2 before reaching a height of 35 feet above the takeoff surface; or
+\(iii\) The speed (determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]](c)(2)) that allows reaching *V*2 before reaching a height of 35 feet above the takeoff surface; or
 
 \(iv\) A speed that, if the airplane is rotated at its maximum practicable rate, will result in a VLOF of not less than —
 
@@ -568,17 +568,17 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(2\) For any given set of conditions (such as weight, configuration, and temperature), a single value of *VR,* obtained in accordance with this paragraph, must be used to show compliance with both the one-engine-inoperative and the all-engines-operating takeoff provisions.
 
-\(3\) It must be shown that the one-engine-inoperative takeoff distance, using a rotation speed of 5 knots less than *VR* established in accordance with paragraphs (e)(1) and (2) of this section, does not exceed the corresponding one-engine-inoperative takeoff distance using the established *VR*. The takeoff distances must be determined in accordance with §25.113(a)(1).
+\(3\) It must be shown that the one-engine-inoperative takeoff distance, using a rotation speed of 5 knots less than *VR* established in accordance with paragraphs (e)(1) and (2) of this section, does not exceed the corresponding one-engine-inoperative takeoff distance using the established *VR*. The takeoff distances must be determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.113   Takeoff distance and takeoff run.|§25.113]](a)(1).
 
-\(4\) Reasonably expected variations in service from the established takeoff procedures for the operation of the airplane (such as over-rotation of the airplane and out-of-trim conditions) may not result in unsafe flight characteristics or in marked increases in the scheduled takeoff distances established in accordance with §25.113(a).
+\(4\) Reasonably expected variations in service from the established takeoff procedures for the operation of the airplane (such as over-rotation of the airplane and out-of-trim conditions) may not result in unsafe flight characteristics or in marked increases in the scheduled takeoff distances established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.113   Takeoff distance and takeoff run.|§25.113]](a).
 
 \(f\) *VLOF* is the calibrated airspeed at which the airplane first becomes airborne.
 
-\(g\) *V*FTO, in terms of calibrated airspeed, must be selected by the applicant to provide at least the gradient of climb required by §25.121(c), but may not be less than—
+\(g\) *V*FTO, in terms of calibrated airspeed, must be selected by the applicant to provide at least the gradient of climb required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](c), but may not be less than—
 
 \(1\) 1.18 *VSR*; and
 
-\(2\) A speed that provides the maneuvering capability specified in §25.143(h).
+\(2\) A speed that provides the maneuvering capability specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](h).
 
 \(h\) In determining the takeoff speeds V1, VR, and V2 for flight in icing conditions, the values of VMCG, VMC, and VMU determined for non-icing conditions may be used.
 
@@ -612,7 +612,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(2\) The accelerate-stop distance determined in accordance with paragraph (a) of this section, except that the runway is wet and the corresponding wet runway values of VEF and V1 are used. In determining the wet runway accelerate-stop distance, the stopping force from the wheel brakes may never exceed:
 
-\(i\) The wheel brakes stopping force determined in meeting the requirements of §25.101(i) and paragraph (a) of this section; and
+\(i\) The wheel brakes stopping force determined in meeting the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]](i) and paragraph (a) of this section; and
 
 \(ii\) The force resulting from the wet runway braking coefficient of friction determined in accordance with paragraphs (c) or (d) of this section, as applicable, taking into account the distribution of the normal load between braked and unbraked wheels at the most adverse center-of-gravity position approved for takeoff.
 
@@ -672,7 +672,7 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(a\) The takeoff path extends from a standing start to a point in the takeoff at which the airplane is 1,500 feet above the takeoff surface, or at which the transition from the takeoff to the en route configuration is completed and VFTO is reached, whichever point is higher. In addition—
 
-\(1\) The takeoff path must be based on the procedures prescribed in §25.101(f);
+\(1\) The takeoff path must be based on the procedures prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]](f);
 
 \(2\) The airplane must be accelerated on the ground to *VEF,* at which point the critical engine must be made inoperative and remain inoperative for the rest of the takeoff; and
 
@@ -696,11 +696,11 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(4\) The airplane configuration may not be changed, except for gear retraction and automatic propeller feathering, and no change in power or thrust that requires action by the pilot may be made until the airplane is 400 feet above the takeoff surface; and
 
-\(5\) If §25.105(a)(2) requires the takeoff path to be determined for flight in icing conditions, the airborne part of the takeoff must be based on the airplane drag:
+\(5\) If [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.105   Takeoff.|§25.105]](a)(2) requires the takeoff path to be determined for flight in icing conditions, the airborne part of the takeoff must be based on the airplane drag:
 
-\(i\) With the most critical of the takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), from a height of 35 feet above the takeoff surface up to the point where the airplane is 400 feet above the takeoff surface; and
+\(i\) With the most critical of the takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), from a height of 35 feet above the takeoff surface up to the point where the airplane is 400 feet above the takeoff surface; and
 
-\(ii\) With the most critical of the final takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), from the point where the airplane is 400 feet above the takeoff surface to the end of the takeoff path.
+\(ii\) With the most critical of the final takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), from the point where the airplane is 400 feet above the takeoff surface to the end of the takeoff path.
 
 \(d\) The takeoff path must be determined by a continuous demonstrated takeoff or by synthesis from segments. If the takeoff path is determined by the segmental method—
 
@@ -720,37 +720,37 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 \(a\) Takeoff distance on a dry runway is the greater of—
 
-\(1\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 35 feet above the takeoff surface, determined under §25.111 for a dry runway; or
+\(1\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 35 feet above the takeoff surface, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] for a dry runway; or
 
-\(2\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to the point at which the airplane is 35 feet above the takeoff surface, as determined by a procedure consistent with §25.111.
+\(2\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to the point at which the airplane is 35 feet above the takeoff surface, as determined by a procedure consistent with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
 \(b\) Takeoff distance on a wet runway is the greater of—
 
 \(1\) The takeoff distance on a dry runway determined in accordance with paragraph (a) of this section; or
 
-\(2\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 15 feet above the takeoff surface, achieved in a manner consistent with the achievement of V2 before reaching 35 feet above the takeoff surface, determined under §25.111 for a wet runway.
+\(2\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 15 feet above the takeoff surface, achieved in a manner consistent with the achievement of V2 before reaching 35 feet above the takeoff surface, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] for a wet runway.
 
 \(c\) If the takeoff distance does not include a clearway, the takeoff run is equal to the takeoff distance. If the takeoff distance includes a clearway—
 
 \(1\) The takeoff run on a dry runway is the greater of—
 
-\(i\) The horizontal distance along the takeoff path from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, as determined under §25.111 for a dry runway; or
+\(i\) The horizontal distance along the takeoff path from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, as determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] for a dry runway; or
 
-\(ii\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, determined by a procedure consistent with §25.111.
+\(ii\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, determined by a procedure consistent with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
 \(2\) The takeoff run on a wet runway is the greater of—
 
-\(i\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 15 feet above the takeoff surface, achieved in a manner consistent with the achievement of V2 before reaching 35 feet above the takeoff surface, as determined under §25.111 for a wet runway; or
+\(i\) The horizontal distance along the takeoff path from the start of the takeoff to the point at which the airplane is 15 feet above the takeoff surface, achieved in a manner consistent with the achievement of V2 before reaching 35 feet above the takeoff surface, as determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] for a wet runway; or
 
-\(ii\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, determined by a procedure consistent with §25.111.
+\(ii\) 115 percent of the horizontal distance along the takeoff path, with all engines operating, from the start of the takeoff to a point equidistant between the point at which VLOF is reached and the point at which the airplane is 35 feet above the takeoff surface, determined by a procedure consistent with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5671, Apr. 8, 1970; Amdt. 25-92, 63 FR 8320, Feb. 18, 1998\]
 
 ### §25.115   Takeoff flight path.
 
-\(a\) The takeoff flight path shall be considered to begin 35 feet above the takeoff surface at the end of the takeoff distance determined in accordance with §25.113(a) or (b), as appropriate for the runway surface condition.
+\(a\) The takeoff flight path shall be considered to begin 35 feet above the takeoff surface at the end of the takeoff distance determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.113   Takeoff distance and takeoff run.|§25.113]](a) or (b), as appropriate for the runway surface condition.
 
-\(b\) The net takeoff flight path data must be determined so that they represent the actual takeoff flight paths (determined in accordance with §25.111 and with paragraph (a) of this section) reduced at each point by a gradient of climb equal to—
+\(b\) The net takeoff flight path data must be determined so that they represent the actual takeoff flight paths (determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] and with paragraph (a) of this section) reduced at each point by a gradient of climb equal to—
 
 \(1\) 0.8 percent for two-engine airplanes;
 
@@ -764,61 +764,61 @@ pressure <em>e</em> (In. Hg.)</th><th scope="col">Specific humidity <em>w</em> (
 
 ### §25.117   Climb: general.
 
-Compliance with the requirements of §§25.119 and 25.121 must be shown at each weight, altitude, and ambient temperature within the operational limits established for the airplane and with the most unfavorable center of gravity for each configuration.
+Compliance with the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]] and 25.121 must be shown at each weight, altitude, and ambient temperature within the operational limits established for the airplane and with the most unfavorable center of gravity for each configuration.
 
 ### §25.119   Landing climb: All-engines-operating.
 
 In the landing configuration, the steady gradient of climb may not be less than 3.2 percent, with the engines at the power or thrust that is available 8 seconds after initiation of movement of the power or thrust controls from the minimum flight idle to the go-around power or thrust setting—
 
-\(a\) In non-icing conditions, with a climb speed of VREF determined in accordance with §25.125(b)(2)(i); and
+\(a\) In non-icing conditions, with a climb speed of VREF determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.125   Landing.|§25.125]](b)(2)(i); and
 
-\(b\) In icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), and with a climb speed of VREF determined in accordance with §25.125(b)(2)(ii).
+\(b\) In icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), and with a climb speed of VREF determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.125   Landing.|§25.125]](b)(2)(ii).
 
 \[Amdt. 25-121, 72 FR 44666; Aug. 8, 2007, as amended by Amdt. 25-,140, 79 FR 65525, Nov. 4, 2014\]
 
 ### §25.121   Climb: One-engine-inoperative.
 
-\(a\) *Takeoff; landing gear extended.* In the critical takeoff configuration existing along the flight path (between the points at which the airplane reaches *VLOF* and at which the landing gear is fully retracted) and in the configuration used in §25.111 but without ground effect, the steady gradient of climb must be positive for two-engine airplanes, and not less than 0.3 percent for three-engine airplanes or 0.5 percent for four-engine airplanes, at *VLOF* and with—
+\(a\) *Takeoff; landing gear extended.* In the critical takeoff configuration existing along the flight path (between the points at which the airplane reaches *VLOF* and at which the landing gear is fully retracted) and in the configuration used in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] but without ground effect, the steady gradient of climb must be positive for two-engine airplanes, and not less than 0.3 percent for three-engine airplanes or 0.5 percent for four-engine airplanes, at *VLOF* and with—
 
-\(1\) The critical engine inoperative and the remaining engines at the power or thrust available when retraction of the landing gear is begun in accordance with §25.111 unless there is a more critical power operating condition existing later along the flight path but before the point at which the landing gear is fully retracted; and
+\(1\) The critical engine inoperative and the remaining engines at the power or thrust available when retraction of the landing gear is begun in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] unless there is a more critical power operating condition existing later along the flight path but before the point at which the landing gear is fully retracted; and
 
-\(2\) The weight equal to the weight existing when retraction of the landing gear is begun, determined under §25.111.
+\(2\) The weight equal to the weight existing when retraction of the landing gear is begun, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
-\(b\) *Takeoff; landing gear retracted.* In the takeoff configuration existing at the point of the flight path at which the landing gear is fully retracted, and in the configuration used in §25.111 but without ground effect:
+\(b\) *Takeoff; landing gear retracted.* In the takeoff configuration existing at the point of the flight path at which the landing gear is fully retracted, and in the configuration used in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] but without ground effect:
 
 \(1\) The steady gradient of climb may not be less than 2.4 percent for two-engine airplanes, 2.7 percent for three-engine airplanes, and 3.0 percent for four-engine airplanes, at V2 with:
 
-\(i\) The critical engine inoperative, the remaining engines at the takeoff power or thrust available at the time the landing gear is fully retracted, determined under §25.111, unless there is a more critical power operating condition existing later along the flight path but before the point where the airplane reaches a height of 400 feet above the takeoff surface; and
+\(i\) The critical engine inoperative, the remaining engines at the takeoff power or thrust available at the time the landing gear is fully retracted, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]], unless there is a more critical power operating condition existing later along the flight path but before the point where the airplane reaches a height of 400 feet above the takeoff surface; and
 
-\(ii\) The weight equal to the weight existing when the airplane's landing gear is fully retracted, determined under §25.111.
+\(ii\) The weight equal to the weight existing when the airplane's landing gear is fully retracted, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
 \(2\) The requirements of paragraph (b)(1) of this section must be met:
 
 \(i\) In non-icing conditions; and
 
-\(ii\) In icing conditions with the most critical of the takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), if in the configuration used to show compliance with §25.121(b) with this takeoff ice accretion:
+\(ii\) In icing conditions with the most critical of the takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), if in the configuration used to show compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) with this takeoff ice accretion:
 
 \(A\) The stall speed at maximum takeoff weight exceeds that in non-icing conditions by more than the greater of 3 knots CAS or 3 percent of VSR; or
 
-\(B\) The degradation of the gradient of climb determined in accordance with §25.121(b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in §25.115(b).
+\(B\) The degradation of the gradient of climb determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.115   Takeoff flight path.|§25.115]](b).
 
-\(c\) *Final takeoff.* In the en route configuration at the end of the takeoff path determined in accordance with §25.111:
+\(c\) *Final takeoff.* In the en route configuration at the end of the takeoff path determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]]:
 
 \(1\) The steady gradient of climb may not be less than 1.2 percent for two-engine airplanes, 1.5 percent for three-engine airplanes, and 1.7 percent for four-engine airplanes, at VFTO with—
 
 \(i\) The critical engine inoperative and the remaining engines at the available maximum continuous power or thrust; and
 
-\(ii\) The weight equal to the weight existing at the end of the takeoff path, determined under §25.111.
+\(ii\) The weight equal to the weight existing at the end of the takeoff path, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]].
 
 \(2\) The requirements of paragraph (c)(1) of this section must be met:
 
 \(i\) In non-icing conditions; and
 
-\(ii\) In icing conditions with the most critical of the final takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), if in the configuration used to show compliance with §25.121(b) with the takeoff ice accretion used to show compliance with §25.111(c)(5)(i):
+\(ii\) In icing conditions with the most critical of the final takeoff ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), if in the configuration used to show compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) with the takeoff ice accretion used to show compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]](c)(5)(i):
 
 \(A\) The stall speed at maximum takeoff weight exceeds that in non-icing conditions by more than the greater of 3 knots CAS or 3 percent of VSR; or
 
-\(B\) The degradation of the gradient of climb determined in accordance with §25.121(b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in §25.115(b).
+\(B\) The degradation of the gradient of climb determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](b) is greater than one-half of the applicable actual-to-net takeoff flight path gradient reduction defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.115   Takeoff flight path.|§25.115]](b).
 
 \(d\) *Approach.* In a configuration corresponding to the normal all-engines-operating procedure in which VSR for this configuration does not exceed 110 percent of the VSR for the related all-engines-operating landing configuration:
 
@@ -836,7 +836,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(i\) In non-icing conditions; and
 
-\(ii\) In icing conditions with the most critical of the approach ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g). The climb speed selected for non-icing conditions may be used if the climb speed for icing conditions, computed in accordance with paragraph (d)(1)(iii) of this section, does not exceed that for non-icing conditions by more than the greater of 3 knots CAS or 3 percent.
+\(ii\) In icing conditions with the most critical of the approach ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g). The climb speed selected for non-icing conditions may be used if the climb speed for icing conditions, computed in accordance with paragraph (d)(1)(iii) of this section, does not exceed that for non-icing conditions by more than the greater of 3 knots CAS or 3 percent.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-84, 60 FR 30749, June 9, 1995; Amdt. 25-108, 67 FR 70826, Nov. 26, 2002; Amdt. 25-121, 72 FR 44666; Aug. 8, 2007; Amdt. 25-140, 79 FR 65525, Nov. 4, 2014\]
 
@@ -856,7 +856,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(1\) In non-icing conditions; and
 
-\(2\) In icing conditions with the most critical of the en route ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), if:
+\(2\) In icing conditions with the most critical of the en route ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), if:
 
 \(i\) A speed of 1.18 “VSR0 with the en route ice accretion exceeds the en route speed selected for non-icing conditions by more than the greater of 3 knots CAS or 3 percent of VSR; or
 
@@ -872,7 +872,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(1\) In non-icing conditions; and
 
-\(2\) In icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), if VREF for icing conditions exceeds VREF for non-icing conditions by more than 5 knots CAS at the maximum landing weight.
+\(2\) In icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), if VREF for icing conditions exceeds VREF for non-icing conditions by more than 5 knots CAS at the maximum landing weight.
 
 \(b\) In determining the distance in paragraph (a) of this section:
 
@@ -884,17 +884,17 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(A\) 1.23 VSR0;
 
-\(B\) VMCL established under §25.149(f); and
+\(B\) VMCL established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.149   Minimum control speed.|§25.149]](f); and
 
-\(C\) A speed that provides the maneuvering capability specified in §25.143(h).
+\(C\) A speed that provides the maneuvering capability specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](h).
 
 \(ii\) In icing conditions, VREF may not be less than:
 
 \(A\) The speed determined in paragraph (b)(2)(i) of this section;
 
-\(B\) 1.23 VSR0 with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), if that speed exceeds VREF selected for non-icing conditions by more than 5 knots CAS; and
+\(B\) 1.23 VSR0 with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), if that speed exceeds VREF selected for non-icing conditions by more than 5 knots CAS; and
 
-\(C\) A speed that provides the maneuvering capability specified in §25.143(h) with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g).
+\(C\) A speed that provides the maneuvering capability specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](h) with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g).
 
 \(3\) Changes in configuration, power or thrust, and speed, must be made in accordance with the established procedures for service operation.
 
@@ -950,7 +950,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(3\) Configuration changes, including deployment or retraction of deceleration devices.
 
-\(c\) The airplane must be shown to be safely controllable and maneuverable with the most critical of the ice accretion(s) appropriate to the phase of flight as defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), and with the critical engine inoperative and its propeller (if applicable) in the minimum drag position:
+\(c\) The airplane must be shown to be safely controllable and maneuverable with the most critical of the ice accretion(s) appropriate to the phase of flight as defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), and with the critical engine inoperative and its propeller (if applicable) in the minimum drag position:
 
 \(1\) At the minimum V2 for takeoff;
 
@@ -988,7 +988,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 <div>
 
-<sup>1</sup>A combination of weight, altitude, and temperature (WAT) such that the thrust or power setting produces the minimum climb gradient specified in §25.121 for the flight condition.
+<sup>1</sup>A combination of weight, altitude, and temperature (WAT) such that the thrust or power setting produces the minimum climb gradient specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]] for the flight condition.
 
 <sup>2</sup>Airspeed approved for all-engines-operating initial climb.
 
@@ -998,15 +998,15 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 </div>
 
-\(i\) When demonstrating compliance with §25.143 in icing conditions—
+\(i\) When demonstrating compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]] in icing conditions—
 
-\(1\) Controllability must be demonstrated with the most critical of the ice accretion(s) for the particular flight phase as defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g);
+\(1\) Controllability must be demonstrated with the most critical of the ice accretion(s) for the particular flight phase as defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g);
 
 \(2\) It must be shown that a push force is required throughout a pushover maneuver down to a zero g load factor, or the lowest load factor obtainable if limited by elevator power or other design characteristic of the flight control system. It must be possible to promptly recover from the maneuver without exceeding a pull control force of 50 pounds; and
 
 \(3\) Any changes in force that the pilot must apply to the pitch control to maintain speed with increasing sideslip angle must be steadily increasing with no force reversals, unless the change in control force is gradual and easily controllable by the pilot without using exceptional piloting skill, alertness, or strength.
 
-\(j\) For flight in icing conditions before the ice protection system has been activated and is performing its intended function, it must be demonstrated in flight with the most critical of the ice accretion(s) defined in Appendix C, part II, paragraph (e) of this part and Appendix O, part II, paragraph (d) of this part, as applicable, in accordance with §25.21(g), that:
+\(j\) For flight in icing conditions before the ice protection system has been activated and is performing its intended function, it must be demonstrated in flight with the most critical of the ice accretion(s) defined in Appendix C, part II, paragraph (e) of this part and Appendix O, part II, paragraph (d) of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), that:
 
 \(1\) The airplane is controllable in a pull-up maneuver up to 1.5 g load factor; and
 
@@ -1016,9 +1016,9 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 ### §25.145   Longitudinal control.
 
-\(a\) It must be possible, at any point between the trim speed prescribed in §25.103(b)(6) and stall identification (as defined in §25.201(d)), to pitch the nose downward so that the acceleration to this selected trim speed is prompt with
+\(a\) It must be possible, at any point between the trim speed prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.103   Stall speed.|§25.103]](b)(6) and stall identification (as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.201   Stall demonstration.|§25.201]](d)), to pitch the nose downward so that the acceleration to this selected trim speed is prompt with
 
-\(1\) The airplane trimmed at the trim speed prescribed in §25.103(b)(6);
+\(1\) The airplane trimmed at the trim speed prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.103   Stall speed.|§25.103]](b)(6);
 
 \(2\) The landing gear extended;
 
@@ -1124,7 +1124,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(ii\) In the most probable position for the specific design of the propeller control; or
 
-\(iii\) Feathered, if the airplane has an automatic feathering device acceptable for showing compliance with the climb requirements of §25.121.
+\(iii\) Feathered, if the airplane has an automatic feathering device acceptable for showing compliance with the climb requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]].
 
 \(d\) The rudder forces required to maintain control at *VMC* may not exceed 150 pounds nor may it be necessary to reduce power or thrust of the operative engines. During recovery, the airplane may not assume any dangerous attitude or require exceptional piloting skill, alertness, or strength to prevent a heading change of more than 20 degrees.
 
@@ -1210,7 +1210,7 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 \(3\) The landing gear and flaps retracted.
 
-\(e\) Airplanes with four or more engines. Each airplane with four or more engines must also maintain trim in rectilinear flight with the most unfavorable center of gravity and at the climb speed, configuration, and power required by §25.123(a) for the purpose of establishing the en route flight paths with two engines inoperative.
+\(e\) Airplanes with four or more engines. Each airplane with four or more engines must also maintain trim in rectilinear flight with the most unfavorable center of gravity and at the climb speed, configuration, and power required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.123   En route flight paths.|§25.123]](a) for the purpose of establishing the en route flight paths with two engines inoperative.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5671, Apr. 8, 1970; Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-108, 67 FR 70827, Nov. 26, 2002; Amdt. 25-115, 69 FR 40527, July 2, 2004\]
 
@@ -1218,17 +1218,17 @@ In the landing configuration, the steady gradient of climb may not be less than 
 
 ### §25.171   General.
 
-The airplane must be longitudinally, directionally, and laterally stable in accordance with the provisions of §§25.173 through 25.177. In addition, suitable stability and control feel (static stability) is required in any condition normally encountered in service, if flight tests show it is necessary for safe operation.
+The airplane must be longitudinally, directionally, and laterally stable in accordance with the provisions of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.173   Static longitudinal stability.|§25.173]] through 25.177. In addition, suitable stability and control feel (static stability) is required in any condition normally encountered in service, if flight tests show it is necessary for safe operation.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-7, 30 FR 13117, Oct. 15, 1965\]
 
 ### §25.173   Static longitudinal stability.
 
-Under the conditions specified in §25.175, the characteristics of the elevator control forces (including friction) must be as follows:
+Under the conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.175   Demonstration of static longitudinal stability.|§25.175]], the characteristics of the elevator control forces (including friction) must be as follows:
 
 \(a\) A pull must be required to obtain and maintain speeds below the specified trim speed, and a push must be required to obtain and maintain speeds above the specified trim speed. This must be shown at any speed that can be obtained except speeds higher than the landing gear or wing flap operating limit speeds or *VFC/MFC,* whichever is appropriate, or lower than the minimum speed for steady unstalled flight.
 
-\(b\) The airspeed must return to within 10 percent of the original trim speed for the climb, approach, and landing conditions specified in §25.175 (a), (c), and (d), and must return to within 7.5 percent of the original trim speed for the cruising condition specified in §25.175(b), when the control force is slowly released from any speed within the range specified in paragraph (a) of this section.
+\(b\) The airspeed must return to within 10 percent of the original trim speed for the climb, approach, and landing conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.175   Demonstration of static longitudinal stability.|§25.175]] (a), (c), and (d), and must return to within 7.5 percent of the original trim speed for the cruising condition specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.175   Demonstration of static longitudinal stability.|§25.175]](b), when the control force is slowly released from any speed within the range specified in paragraph (a) of this section.
 
 \(c\) The average gradient of the stable slope of the stick force versus speed curve may not be less than 1 pound for each 6 knots.
 
@@ -1260,11 +1260,11 @@ Static longitudinal stability must be shown as follows:
 
 \(i\) The wing flaps retracted;
 
-\(ii\) The center of gravity in the most adverse position (see §25.27);
+\(ii\) The center of gravity in the most adverse position (see [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.27   Center of gravity limits.|§25.27]]);
 
 \(iii\) The most critical weight between the maximum takeoff and maximum landing weights;
 
-\(iv\) 75 percent of maximum continuous power for reciprocating engines or for turbine engines, the maximum cruising power selected by the applicant as an operating limitation (see §25.1521), except that the power need not exceed that required at *VMO*/*MMO*; and
+\(iv\) 75 percent of maximum continuous power for reciprocating engines or for turbine engines, the maximum cruising power selected by the applicant as an operating limitation (see [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1521   Powerplant limitations.|§25.1521]]), except that the power need not exceed that required at *VMO*/*MMO*; and
 
 \(v\) The airplane trimmed for level flight with the power required in paragraph (b)(1)(iv) of this section.
 
@@ -1360,7 +1360,7 @@ Static longitudinal stability must be shown as follows:
 
 \(2\) The power necessary to maintain level flight at 1.5 V*SR1* (where V*SR1* corresponds to the reference stall speed at maximum landing weight with flaps in the approach position and the landing gear retracted).
 
-\(b\) In each condition required by paragraph (a) of this section, it must be possible to meet the applicable requirements of §25.203 with—
+\(b\) In each condition required by paragraph (a) of this section, it must be possible to meet the applicable requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.203   Stall characteristics.|§25.203]] with—
 
 \(1\) Flaps, landing gear, and deceleration devices in any likely combination of positions approved for operation;
 
@@ -1368,9 +1368,9 @@ Static longitudinal stability must be shown as follows:
 
 \(3\) The most adverse center of gravity for recovery; and
 
-\(4\) The airplane trimmed for straight flight at the speed prescribed in §25.103(b)(6).
+\(4\) The airplane trimmed for straight flight at the speed prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.103   Stall speed.|§25.103]](b)(6).
 
-\(c\) The following procedures must be used to show compliance with §25.203;
+\(c\) The following procedures must be used to show compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.203   Stall characteristics.|§25.203]];
 
 \(1\) Starting at a speed sufficiently above the stalling speed to ensure that a steady rate of speed reduction can be established, apply the longitudinal control so that the speed reduction does not exceed one knot per second until the airplane is stalled.
 
@@ -1408,21 +1408,21 @@ Static longitudinal stability must be shown as follows:
 
 \(b\) The warning must be furnished either through the inherent aerodynamic qualities of the airplane or by a device that will give clearly distinguishable indications under expected conditions of flight. However, a visual stall warning device that requires the attention of the crew within the cockpit is not acceptable by itself. If a warning device is used, it must provide a warning in each of the airplane configurations prescribed in paragraph (a) of this section at the speed prescribed in paragraphs (c) and (d) of this section. Except for the stall warning prescribed in paragraph (h)(3)(ii) of this section, the stall warning for flight in icing conditions must be provided by the same means as the stall warning for flight in non-icing conditions.
 
-\(c\) When the speed is reduced at rates not exceeding one knot per second, stall warning must begin, in each normal configuration, at a speed, VSW, exceeding the speed at which the stall is identified in accordance with §25.201(d) by not less than five knots or five percent CAS, whichever is greater. Once initiated, stall warning must continue until the angle of attack is reduced to approximately that at which stall warning began.
+\(c\) When the speed is reduced at rates not exceeding one knot per second, stall warning must begin, in each normal configuration, at a speed, VSW, exceeding the speed at which the stall is identified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.201   Stall demonstration.|§25.201]](d) by not less than five knots or five percent CAS, whichever is greater. Once initiated, stall warning must continue until the angle of attack is reduced to approximately that at which stall warning began.
 
-\(d\) In addition to the requirement of paragraph (c) of this section, when the speed is reduced at rates not exceeding one knot per second, in straight flight with engines idling and at the center-of-gravity position specified in §25.103(b)(5), VSW, in each normal configuration, must exceed VSR by not less than three knots or three percent CAS, whichever is greater.
+\(d\) In addition to the requirement of paragraph (c) of this section, when the speed is reduced at rates not exceeding one knot per second, in straight flight with engines idling and at the center-of-gravity position specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.103   Stall speed.|§25.103]](b)(5), VSW, in each normal configuration, must exceed VSR by not less than three knots or three percent CAS, whichever is greater.
 
-\(e\) In icing conditions, the stall warning margin in straight and turning flight must be sufficient to allow the pilot to prevent stalling (as defined in §25.201(d)) when the pilot starts a recovery maneuver not less than three seconds after the onset of stall warning. When demonstrating compliance with this paragraph, the pilot must perform the recovery maneuver in the same way as for the airplane in non-icing conditions. Compliance with this requirement must be demonstrated in flight with the speed reduced at rates not exceeding one knot per second, with—
+\(e\) In icing conditions, the stall warning margin in straight and turning flight must be sufficient to allow the pilot to prevent stalling (as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.201   Stall demonstration.|§25.201]](d)) when the pilot starts a recovery maneuver not less than three seconds after the onset of stall warning. When demonstrating compliance with this paragraph, the pilot must perform the recovery maneuver in the same way as for the airplane in non-icing conditions. Compliance with this requirement must be demonstrated in flight with the speed reduced at rates not exceeding one knot per second, with—
 
-\(1\) The most critical of the takeoff ice and final takeoff ice accretions defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), for each configuration used in the takeoff phase of flight;
+\(1\) The most critical of the takeoff ice and final takeoff ice accretions defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), for each configuration used in the takeoff phase of flight;
 
-\(2\) The most critical of the en route ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), for the en route configuration;
+\(2\) The most critical of the en route ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), for the en route configuration;
 
-\(3\) The most critical of the holding ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), for the holding configuration(s);
+\(3\) The most critical of the holding ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), for the holding configuration(s);
 
-\(4\) The most critical of the approach ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), for the approach configuration(s); and
+\(4\) The most critical of the approach ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), for the approach configuration(s); and
 
-\(5\) The most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), for the landing and go-around configuration(s).
+\(5\) The most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), for the landing and go-around configuration(s).
 
 \(f\) The stall warning margin must be sufficient in both non-icing and icing conditions to allow the pilot to prevent stalling when the pilot starts a recovery maneuver not less than one second after the onset of stall warning in slow-down turns with at least 1.5 g load factor normal to the flight path and airspeed deceleration rates of at least 2 knots per second. When demonstrating compliance with this paragraph for icing conditions, the pilot must perform the recovery maneuver in the same way as for the airplane in non-icing conditions. Compliance with this requirement must be demonstrated in flight with—
 
@@ -1434,7 +1434,7 @@ Static longitudinal stability must be shown as follows:
 
 \(g\) Stall warning must also be provided in each abnormal configuration of the high lift devices that is likely to be used in flight following system failures (including all configurations covered by Airplane Flight Manual procedures).
 
-\(h\) The following stall warning margin is required for flight in icing conditions before the ice protection system has been activated and is performing its intended function. Compliance must be shown using the most critical of the ice accretion(s) defined in Appendix C, part II, paragraph (e) of this part and Appendix O, part II, paragraph (d) of this part, as applicable, in accordance with §25.21(g). The stall warning margin in straight and turning flight must be sufficient to allow the pilot to prevent stalling without encountering any adverse flight characteristics when:
+\(h\) The following stall warning margin is required for flight in icing conditions before the ice protection system has been activated and is performing its intended function. Compliance must be shown using the most critical of the ice accretion(s) defined in Appendix C, part II, paragraph (e) of this part and Appendix O, part II, paragraph (d) of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g). The stall warning margin in straight and turning flight must be sufficient to allow the pilot to prevent stalling without encountering any adverse flight characteristics when:
 
 \(1\) The speed is reduced at rates not exceeding one knot per second;
 
@@ -1446,7 +1446,7 @@ Static longitudinal stability must be shown as follows:
 
 \(ii\) Three seconds after the onset of stall warning if stall warning is provided by a different means than for flight in non-icing conditions.
 
-\(i\) In showing compliance with paragraph (h) of this section, if stall warning is provided by a different means in icing conditions than for non-icing conditions, compliance with §25.203 must be shown using the accretion defined in appendix C, part II(e) of this part. Compliance with this requirement must be shown using the demonstration prescribed by §25.201, except that the deceleration rates of §25.201(c)(2) need not be demonstrated.
+\(i\) In showing compliance with paragraph (h) of this section, if stall warning is provided by a different means in icing conditions than for non-icing conditions, compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.203   Stall characteristics.|§25.203]] must be shown using the accretion defined in appendix C, part II(e) of this part. Compliance with this requirement must be shown using the demonstration prescribed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.201   Stall demonstration.|§25.201]], except that the deceleration rates of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.201   Stall demonstration.|§25.201]](c)(2) need not be demonstrated.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-7, 30 FR 13118, Oct. 15, 1965; Amdt. 25-42, 43 FR 2322, Jan. 16, 1978; Amdt. 25-108, 67 FR 70827, Nov. 26, 2002; Amdt. 25-121, 72 FR 44668, Aug. 8, 2007; Amdt. 25-129, 74 FR 38339, Aug. 3, 2009; Amdt. 25-140, 79 FR 65526, Nov. 4, 2014\]
 
@@ -1466,7 +1466,7 @@ Static longitudinal stability must be shown as follows:
 
 ### §25.233   Directional stability and control.
 
-\(a\) There may be no uncontrollable ground-looping tendency in 90° cross winds, up to a wind velocity of 20 knots or 0.2 *VSR*0, whichever is greater, except that the wind velocity need not exceed 25 knots at any speed at which the airplane may be expected to be operated on the ground. This may be shown while establishing the 90° cross component of wind velocity required by §25.237.
+\(a\) There may be no uncontrollable ground-looping tendency in 90° cross winds, up to a wind velocity of 20 knots or 0.2 *VSR*0, whichever is greater, except that the wind velocity need not exceed 25 knots at any speed at which the airplane may be expected to be operated on the ground. This may be shown while establishing the 90° cross component of wind velocity required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.237   Wind velocities.|§25.237]].
 
 \(b\) Landplanes must be satisfactorily controllable, without exceptional piloting skill or alertness, in power-off landings at normal landing speed, without using brakes or engine power to maintain a straight path. This may be shown during power-off landings made in conjunction with other tests.
 
@@ -1490,7 +1490,7 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(i\) Non-icing conditions, and
 
-\(ii\) Icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g).
+\(ii\) Icing conditions with the most critical of the landing ice accretion(s) defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g).
 
 \(b\) For seaplanes and amphibians, the following applies:
 
@@ -1512,7 +1512,7 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(b\) Compliance with the requirements of paragraph (a) of this section must be shown—
 
-\(1\) In water conditions, from smooth to the most adverse condition established in accordance with §25.231;
+\(1\) In water conditions, from smooth to the most adverse condition established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.231   Longitudinal stability and control.|§25.231]];
 
 \(2\) In wind and cross-wind velocities, water currents, and associated waves and swells that may reasonably be expected in operation on water;
 
@@ -1530,7 +1530,7 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(a\) The airplane must be demonstrated in flight to be free from any vibration and buffeting that would prevent continued safe flight in any likely operating condition.
 
-\(b\) Each part of the airplane must be demonstrated in flight to be free from excessive vibration under any appropriate speed and power conditions up to VDF/MDF. The maximum speeds shown must be used in establishing the operating limitations of the airplane in accordance with §25.1505.
+\(b\) Each part of the airplane must be demonstrated in flight to be free from excessive vibration under any appropriate speed and power conditions up to VDF/MDF. The maximum speeds shown must be used in establishing the operating limitations of the airplane in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1505   Maximum operating limit speed.|§25.1505]].
 
 \(c\) Except as provided in paragraph (d) of this section, there may be no buffeting condition, in normal flight, including configuration changes during cruise, severe enough to interfere with the control of the airplane, to cause excessive fatigue to the crew, or to cause structural damage. Stall warning buffeting within these limits is allowable.
 
@@ -1566,9 +1566,9 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(iii\) A nose down pitching moment, unless it is small.
 
-\(b\) *Maximum speed for stability characteristics, VFC/MFC*. VFC/MFC is the maximum speed at which the requirements of §§25.143(g), 25.147(f), 25.175(b)(1), 25.177(a) through (c), and 25.181 must be met with flaps and landing gear retracted. Except as noted in §25.253(c), VFC/MFC may not be less than a speed midway between VMO/MMO and VDF/MDF, except that, for altitudes where Mach number is the limiting factor, MFC need not exceed the Mach number at which effective speed warning occurs.
+\(b\) *Maximum speed for stability characteristics, VFC/MFC*. VFC/MFC is the maximum speed at which the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](g), 25.147(f), 25.175(b)(1), 25.177(a) through (c), and 25.181 must be met with flaps and landing gear retracted. Except as noted in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.253   High-speed characteristics.|§25.253]](c), VFC/MFC may not be less than a speed midway between VMO/MMO and VDF/MDF, except that, for altitudes where Mach number is the limiting factor, MFC need not exceed the Mach number at which effective speed warning occurs.
 
-\(c\) *Maximum speed for stability characteristics in icing conditions.* The maximum speed for stability characteristics with the most critical of the ice accretions defined in Appendices C and O of this part, as applicable, in accordance with §25.21(g), at which the requirements of §§25.143(g), 25.147(f), 25.175(b)(1), 25.177(a) through (c), and 25.181 must be met, is the lower of:
+\(c\) *Maximum speed for stability characteristics in icing conditions.* The maximum speed for stability characteristics with the most critical of the ice accretions defined in Appendices C and O of this part, as applicable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), at which the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](g), 25.147(f), 25.175(b)(1), 25.177(a) through (c), and 25.181 must be met, is the lower of:
 
 \(1\) 300 knots CAS;
 
@@ -1582,7 +1582,7 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(a\) From an initial condition with the airplane trimmed at cruise speeds up to V*MO*/M*MO,* the airplane must have satisfactory maneuvering stability and controllability with the degree of out-of-trim in both the airplane nose-up and nose-down directions, which results from the greater of—
 
-\(1\) A three-second movement of the longitudinal trim system at its normal rate for the particular flight condition with no aerodynamic load (or an equivalent degree of trim for airplanes that do not have a power-operated trim system), except as limited by stops in the trim system, including those required by §25.655(b) for adjustable stabilizers; or
+\(1\) A three-second movement of the longitudinal trim system at its normal rate for the particular flight condition with no aerodynamic load (or an equivalent degree of trim for airplanes that do not have a power-operated trim system), except as limited by stops in the trim system, including those required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.655   Installation.|§25.655]](b) for adjustable stabilizers; or
 
 \(2\) The maximum mistrim that can be sustained by the autopilot while maintaining level flight in the high speed cruising condition.
 
@@ -1600,11 +1600,11 @@ The shock absorbing mechanism may not damage the structure of the airplane when 
 
 \(d\) If the procedure set forth in paragraph (c)(2) of this section is used to demonstrate compliance and marginal conditions exist during flight test with regard to reversal of primary longitudinal control force, flight tests must be accomplished from the normal acceleration at which a marginal condition is found to exist to the applicable limit specified in paragraph (b)(1) of this section.
 
-\(e\) During flight tests required by paragraph (a) of this section, the limit maneuvering load factors prescribed in §§25.333(b) and 25.337, and the maneuvering load factors associated with probable inadvertent excursions beyond the boundaries of the buffet onset envelopes determined under §25.251(e), need not be exceeded. In addition, the entry speeds for flight test demonstrations at normal acceleration values less than 1 g must be limited to the extent necessary to accomplish a recovery without exceeding VDF/MDF.
+\(e\) During flight tests required by paragraph (a) of this section, the limit maneuvering load factors prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b) and 25.337, and the maneuvering load factors associated with probable inadvertent excursions beyond the boundaries of the buffet onset envelopes determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.251   Vibration and buffeting.|§25.251]](e), need not be exceeded. In addition, the entry speeds for flight test demonstrations at normal acceleration values less than 1 g must be limited to the extent necessary to accomplish a recovery without exceeding VDF/MDF.
 
 \(f\) In the out-of-trim condition specified in paragraph (a) of this section, it must be possible from an overspeed condition at VDF/MDF to produce at least 1.5 g for recovery by applying not more than 125 pounds of longitudinal control force using either the primary longitudinal control alone or the primary longitudinal control and the longitudinal trim system. If the longitudinal trim is used to assist in producing the required load factor, it must be shown at VDF/MDF that the longitudinal trim can be actuated in the airplane nose-up direction with the primary surface loaded to correspond to the least of the following airplane nose-up control forces:
 
-\(1\) The maximum control forces expected in service as specified in §§25.301 and 25.397.
+\(1\) The maximum control forces expected in service as specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.301   Loads.|§25.301]] and 25.397.
 
 \(2\) The control force required to produce 1.5 g.
 
@@ -1656,11 +1656,11 @@ Unless otherwise specified, a factor of safety of 1.5 must be applied to the pre
 
 ### §25.307   Proof of structure.
 
-\(a\) Compliance with the strength and deformation requirements of this subpart must be shown for each critical loading condition. Structural analysis may be used only if the structure conforms to that for which experience has shown this method to be reliable. In other cases, substantiating tests must be made to load levels that are sufficient to verify structural behavior up to loads specified in §25.305.
+\(a\) Compliance with the strength and deformation requirements of this subpart must be shown for each critical loading condition. Structural analysis may be used only if the structure conforms to that for which experience has shown this method to be reliable. In other cases, substantiating tests must be made to load levels that are sufficient to verify structural behavior up to loads specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]].
 
 (b)-(c) \[Reserved\]
 
-\(d\) When static or dynamic tests are used to show compliance with the requirements of §25.305(b) for flight structures, appropriate material correction factors must be applied to the test results, unless the structure, or part thereof, being tested has features such that a number of elements contribute to the total strength of the structure and the failure of one element results in the redistribution of the load through alternate load paths.
+\(d\) When static or dynamic tests are used to show compliance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](b) for flight structures, appropriate material correction factors must be applied to the test results, unless the structure, or part thereof, being tested has features such that a number of elements contribute to the total strength of the structure and the failure of one element results in the redistribution of the load through alternate load paths.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5672, Apr. 8, 1970; Amdt. 25-54, 45 FR 60172, Sept. 11, 1980; Amdt. 25-72, 55 FR 29775, July 20, 1990; 79 FR 59429, Oct. 2, 2014\]
 
@@ -1692,21 +1692,21 @@ Unless otherwise specified, a factor of safety of 1.5 must be applied to the pre
 
 \(1\) Where sudden displacement of a control is specified, the assumed rate of control surface displacement may not be less than the rate that could be applied by the pilot through the control system.
 
-\(2\) In determining elevator angles and chordwise load distribution in the maneuvering conditions of paragraphs (b) and (c) of this section, the effect of corresponding pitching velocities must be taken into account. The in-trim and out-of-trim flight conditions specified in §25.255 must be considered.
+\(2\) In determining elevator angles and chordwise load distribution in the maneuvering conditions of paragraphs (b) and (c) of this section, the effect of corresponding pitching velocities must be taken into account. The in-trim and out-of-trim flight conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.255   Out-of-trim characteristics.|§25.255]] must be considered.
 
-\(b\) *Maneuvering balanced conditions.* Assuming the airplane to be in equilibrium with zero pitching acceleration, the maneuvering conditions A through I on the maneuvering envelope in §25.333(b) must be investigated.
+\(b\) *Maneuvering balanced conditions.* Assuming the airplane to be in equilibrium with zero pitching acceleration, the maneuvering conditions A through I on the maneuvering envelope in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b) must be investigated.
 
 \(c\) *Maneuvering pitching conditions.* The following conditions must be investigated:
 
-\(1\) *Maximum pitch control displacement at V*A. The airplane is assumed to be flying in steady level flight (point A1, §25.333(b)) and the cockpit pitch control is suddenly moved to obtain extreme nose up pitching acceleration. In defining the tail load, the response of the airplane must be taken into account. Airplane loads that occur subsequent to the time when normal acceleration at the c.g. exceeds the positive limit maneuvering load factor (at point A2 in §25.333(b)), or the resulting tailplane normal load reaches its maximum, whichever occurs first, need not be considered.
+\(1\) *Maximum pitch control displacement at V*A. The airplane is assumed to be flying in steady level flight (point A1, [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b)) and the cockpit pitch control is suddenly moved to obtain extreme nose up pitching acceleration. In defining the tail load, the response of the airplane must be taken into account. Airplane loads that occur subsequent to the time when normal acceleration at the c.g. exceeds the positive limit maneuvering load factor (at point A2 in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b)), or the resulting tailplane normal load reaches its maximum, whichever occurs first, need not be considered.
 
-\(2\) *Checked maneuver between VA* and *VD*. Nose-up checked pitching maneuvers must be analyzed in which the positive limit load factor prescribed in §25.337 is achieved. As a separate condition, nose-down checked pitching maneuvers must be analyzed in which a limit load factor of 0g is achieved. In defining the airplane loads, the flight deck pitch control motions described in paragraphs (c)(2)(i) through (iv) of this section must be used:
+\(2\) *Checked maneuver between VA* and *VD*. Nose-up checked pitching maneuvers must be analyzed in which the positive limit load factor prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.337   Limit maneuvering load factors.|§25.337]] is achieved. As a separate condition, nose-down checked pitching maneuvers must be analyzed in which a limit load factor of 0g is achieved. In defining the airplane loads, the flight deck pitch control motions described in paragraphs (c)(2)(i) through (iv) of this section must be used:
 
 \(i\) The airplane is assumed to be flying in steady level flight at any speed between VA and VD and the flight deck pitch control is moved in accordance with the following formula:
 
 δ(t) = δ1 sin(ωt) for 0 ≤ t ≤ tmax
 
-\(ii\) For nose-up pitching maneuvers, the complete flight deck pitch control displacement history may be scaled down in amplitude to the extent necessary to ensure that the positive limit load factor prescribed in §25.337 is not exceeded. For nose-down pitching maneuvers, the complete flight deck control displacement history may be scaled down in amplitude to the extent necessary to ensure that the normal acceleration at the center of gravity does not go below 0g.
+\(ii\) For nose-up pitching maneuvers, the complete flight deck pitch control displacement history may be scaled down in amplitude to the extent necessary to ensure that the positive limit load factor prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.337   Limit maneuvering load factors.|§25.337]] is not exceeded. For nose-down pitching maneuvers, the complete flight deck control displacement history may be scaled down in amplitude to the extent necessary to ensure that the normal acceleration at the center of gravity does not go below 0g.
 
 \(iii\) In addition, for cases where the airplane response to the specified flight deck pitch control motion does not achieve the prescribed limit load factors, then the following flight deck pitch control motion must be used:
 
@@ -1726,7 +1726,7 @@ Unless otherwise specified, a factor of safety of 1.5 must be applied to the pre
 
 \(A\) For the nose-up pitching maneuver, the time at which the normal acceleration at the center of gravity goes below 0g;
 
-\(B\) For the nose-down pitching maneuver, the time at which the normal acceleration at the center of gravity goes above the positive limit load factor prescribed in §25.337;
+\(B\) For the nose-down pitching maneuver, the time at which the normal acceleration at the center of gravity goes above the positive limit load factor prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.337   Limit maneuvering load factors.|§25.337]];
 
 \(C\) tmax..
 
@@ -1734,7 +1734,7 @@ Unless otherwise specified, a factor of safety of 1.5 must be applied to the pre
 
 ### §25.333   Flight maneuvering envelope.
 
-\(a\) *General.* The strength requirements must be met at each combination of airspeed and load factor on and within the boundaries of the representative maneuvering envelope (*V-n* diagram) of paragraph (b) of this section. This envelope must also be used in determining the airplane structural operating limitations as specified in §25.1501.
+\(a\) *General.* The strength requirements must be met at each combination of airspeed and load factor on and within the boundaries of the representative maneuvering envelope (*V-n* diagram) of paragraph (b) of this section. This envelope must also be used in determining the airplane structural operating limitations as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1501   General.|§25.1501]].
 
 \(b\) *Maneuvering envelope.*
 
@@ -1752,13 +1752,13 @@ The selected design airspeeds are equivalent airspeeds (EAS). Estimated values o
 
 \(1\) The minimum value of *VC* must be sufficiently greater than *VB* to provide for inadvertent speed increases likely to occur as a result of severe atmospheric turbulence.
 
-\(2\) Except as provided in §25.335(d)(2), VC may not be less than VB + 1.32 UREF (with UREF as specified in §25.341(a)(5)(i)). However VC need not exceed the maximum speed in level flight at maximum continuous power for the corresponding altitude.
+\(2\) Except as provided in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](d)(2), VC may not be less than VB + 1.32 UREF (with UREF as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a)(5)(i)). However VC need not exceed the maximum speed in level flight at maximum continuous power for the corresponding altitude.
 
 \(3\) At altitudes where *VD* is limited by Mach number, *VC* may be limited to a selected Mach number.
 
 \(b\) *Design dive speed, VD*. *VD* must be selected so that *VC*/*MC* is not greater than 0.8 *VD*/*MD,* or so that the minimum speed margin between *VC*/*MC* and *VD*/*MD* is the greater of the following values:
 
-\(1\) From an initial condition of stabilized flight at *VC*/*MC,* the airplane is upset, flown for 20 seconds along a flight path 7.5° below the initial path, and then pulled up at a load factor of 1.5*g* (0.5*g* acceleration increment). The speed increase occurring in this maneuver may be calculated if reliable or conservative aerodynamic data is used. Power as specified in §25.175(b)(1)(iv) is assumed until the pullup is initiated, at which time power reduction and the use of pilot controlled drag devices may be assumed;
+\(1\) From an initial condition of stabilized flight at *VC*/*MC,* the airplane is upset, flown for 20 seconds along a flight path 7.5° below the initial path, and then pulled up at a load factor of 1.5*g* (0.5*g* acceleration increment). The speed increase occurring in this maneuver may be calculated if reliable or conservative aerodynamic data is used. Power as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.175   Demonstration of static longitudinal stability.|§25.175]](b)(1)(iv) is assumed until the pullup is initiated, at which time power reduction and the use of pilot controlled drag devices may be assumed;
 
 \(2\) The minimum speed margin must be enough to provide for atmospheric variations (such as horizontal gusts, and penetration of jet streams and cold fronts) and for instrument errors and airframe production variations. These factors may be considered on a probability basis. The margin at altitude where MC is limited by compressibility effects must not less than 0.07M unless a lower margin is determined using a rational analysis that includes the effects of any automatic systems. In any case, the margin may not be reduced to less than 0.05M.
 
@@ -1806,7 +1806,7 @@ a = slope of the airplane normal force coefficient curve, CNA per radian;
 
 \(e\) *Design flap speeds, VF*. For *VF*, the following apply:
 
-\(1\) The design flap speed for each flap position (established in accordance with §25.697(a)) must be sufficiently greater than the operating speed recommended for the corresponding stage of flight (including balked landings) to allow for probable variations in control of airspeed and for transition from one flap position to another.
+\(1\) The design flap speed for each flap position (established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.697   Lift and drag devices, controls.|§25.697]](a)) must be sufficiently greater than the operating speed recommended for the corresponding stage of flight (including balked landings) to allow for probable variations in control of airspeed and for transition from one flap position to another.
 
 \(2\) If an automatic flap positioning or load limiting device is used, the speeds and corresponding flap positions programmed or allowed by the device may be used.
 
@@ -1864,9 +1864,9 @@ for 0 ≤s ≤2H
 
 \(i\) At airplane speeds between VB and VC: Positive and negative gusts with reference gust velocities of 56.0 ft/sec EAS must be considered at sea level. The reference gust velocity may be reduced linearly from 56.0 ft/sec EAS at sea level to 44.0 ft/sec EAS at 15,000 feet. The reference gust velocity may be further reduced linearly from 44.0 ft/sec EAS at 15,000 feet to 20.86 ft/sec EAS at 60,000 feet.
 
-\(ii\) At the airplane design speed VD: The reference gust velocity must be 0.5 times the value obtained under §25.341(a)(5)(i).
+\(ii\) At the airplane design speed VD: The reference gust velocity must be 0.5 times the value obtained under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a)(5)(i).
 
-\(6\) The flight profile alleviation factor, Fg, must be increased linearly from the sea level value to a value of 1.0 at the maximum operating altitude defined in §25.1527. At sea level, the flight profile alleviation factor is determined by the following equation:
+\(6\) The flight profile alleviation factor, Fg, must be increased linearly from the sea level value to a value of 1.0 at the maximum operating altitude defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1527   Ambient air temperature and operating altitude.|§25.1527]]. At sea level, the flight profile alleviation factor is determined by the following equation:
 
 ![eCFR graphic en08mr96.004.gif](https://www.ecfr.gov/graphics/en08mr96.004.gif)
 
@@ -1874,13 +1874,13 @@ for 0 ≤s ≤2H
 
 <div>
 
-Zmo = Maximum operating altitude defined in §25.1527 (feet).
+Zmo = Maximum operating altitude defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1527   Ambient air temperature and operating altitude.|§25.1527]] (feet).
 
 </div>
 
 \(7\) When a stability augmentation system is included in the analysis, the effect of any significant system nonlinearities should be accounted for when deriving limit loads from limit gust conditions.
 
-\(b\) *Continuous turbulence design criteria.* The dynamic response of the airplane to vertical and lateral continuous turbulence must be taken into account. The dynamic analysis must take into account unsteady aerodynamic characteristics and all significant structural degrees of freedom including rigid body motions. The limit loads must be determined for all critical altitudes, weights, and weight distributions as specified in §25.321(b), and all critical speeds within the ranges indicated in §25.341(b)(3).
+\(b\) *Continuous turbulence design criteria.* The dynamic response of the airplane to vertical and lateral continuous turbulence must be taken into account. The dynamic analysis must take into account unsteady aerodynamic characteristics and all significant structural degrees of freedom including rigid body motions. The limit loads must be determined for all critical altitudes, weights, and weight distributions as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.321   General.|§25.321]](b), and all critical speeds within the ranges indicated in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](b)(3).
 
 \(1\) Except as provided in paragraphs (b)(4) and (5) of this section, the following equation must be used:
 
@@ -1914,9 +1914,9 @@ Uσ = Uσref Fg
 
 \(c\) *Supplementary gust conditions for wing-mounted engines.* For airplanes equipped with wing-mounted engines, the engine mounts, pylons, and wing supporting structure must be designed for the maximum response at the nacelle center of gravity derived from the following dynamic gust conditions applied to the airplane:
 
-\(1\) A discrete gust determined in accordance with §25.341(a) at each angle normal to the flight path, and separately,
+\(1\) A discrete gust determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) at each angle normal to the flight path, and separately,
 
-\(2\) A pair of discrete gusts, one vertical and one lateral. The length of each of these gusts must be independently tuned to the maximum response in accordance with §25.341(a). The penetration of the airplane in the combined gust field and the phasing of the vertical and lateral component gusts must be established to develop the maximum response to the gust pair. In the absence of a more rational analysis, the following formula must be used for each of the maximum engine loads in all six degrees of freedom:
+\(2\) A pair of discrete gusts, one vertical and one lateral. The length of each of these gusts must be independently tuned to the maximum response in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a). The penetration of the airplane in the combined gust field and the phasing of the vertical and lateral component gusts must be established to develop the maximum response to the gust pair. In the absence of a more rational analysis, the following formula must be used for each of the maximum engine loads in all six degrees of freedom:
 
 ![eCFR graphic er11de14.027.gif](https://www.ecfr.gov/graphics/er11de14.027.gif)
 
@@ -1926,7 +1926,7 @@ Uσ = Uσref Fg
 
 ### §25.343   Design fuel and oil loads.
 
-\(a\) The disposable load combinations must include each fuel and oil load in the range from zero fuel and oil to the selected maximum fuel and oil load. A structural reserve fuel condition, not exceeding 45 minutes of fuel under the operating conditions in §25.1001(e) and (f), as applicable, may be selected.
+\(a\) The disposable load combinations must include each fuel and oil load in the range from zero fuel and oil to the selected maximum fuel and oil load. A structural reserve fuel condition, not exceeding 45 minutes of fuel under the operating conditions in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1001   Fuel jettisoning system.|§25.1001]](e) and (f), as applicable, may be selected.
 
 \(b\) If a structural reserve fuel condition is selected, it must be used as the minimum fuel weight condition for showing compliance with the flight load requirements as prescribed in this subpart. In addition—
 
@@ -1934,7 +1934,7 @@ Uσ = Uσref Fg
 
 \(i\) A maneuvering load factor of + 2.25; and
 
-\(ii\) The gust and turbulence conditions of §25.341(a) and (b), but assuming 85% of the gust velocities prescribed in §25.341(a)(4) and 85% of the turbulence intensities prescribed in §25.341(b)(3).
+\(ii\) The gust and turbulence conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) and (b), but assuming 85% of the gust velocities prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a)(4) and 85% of the turbulence intensities prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](b)(3).
 
 \(2\) Fatigue evaluation of the structure must account for any increase in operating stresses resulting from the design condition of paragraph (b)(1) of this section; and
 
@@ -1944,11 +1944,11 @@ Uσ = Uσref Fg
 
 ### §25.345   High lift devices.
 
-\(a\) If wing flaps are to be used during takeoff, approach, or landing, at the design flap speeds established for these stages of flight under §25.335(e) and with the wing flaps in the corresponding positions, the airplane is assumed to be subjected to symmetrical maneuvers and gusts. The resulting limit loads must correspond to the conditions determined as follows:
+\(a\) If wing flaps are to be used during takeoff, approach, or landing, at the design flap speeds established for these stages of flight under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](e) and with the wing flaps in the corresponding positions, the airplane is assumed to be subjected to symmetrical maneuvers and gusts. The resulting limit loads must correspond to the conditions determined as follows:
 
 \(1\) Maneuvering to a positive limit load factor of 2.0; and
 
-\(2\) Positive and negative gusts of 25 ft/sec EAS acting normal to the flight path in level flight. Gust loads resulting on each part of the structure must be determined by rational analysis. The analysis must take into account the unsteady aerodynamic characteristics and rigid body motions of the aircraft. The shape of the gust must be as described in §25.341(a)(2) except that—
+\(2\) Positive and negative gusts of 25 ft/sec EAS acting normal to the flight path in level flight. Gust loads resulting on each part of the structure must be determined by rational analysis. The analysis must take into account the unsteady aerodynamic characteristics and rigid body motions of the aircraft. The shape of the gust must be as described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a)(2) except that—
 
 <div>
 
@@ -1968,9 +1968,9 @@ c = mean geometric chord of the wing (feet).
 
 \(c\) If flaps or other high lift devices are to be used in en route conditions, and with flaps in the appropriate position at speeds up to the flap design speed chosen for these conditions, the airplane is assumed to be subjected to symmetrical maneuvers and gusts within the range determined by—
 
-\(1\) Maneuvering to a positive limit load factor as prescribed in §25.337(b); and
+\(1\) Maneuvering to a positive limit load factor as prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.337   Limit maneuvering load factors.|§25.337]](b); and
 
-\(2\) The vertical gust and turbulence conditions prescribed in §25.341(a) and (b).
+\(2\) The vertical gust and turbulence conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) and (b).
 
 \(d\) The airplane must be designed for a maneuvering load factor of 1.5 g at the maximum take-off weight with the wing-flaps and similar high lift devices in the landing configurations.
 
@@ -1980,7 +1980,7 @@ c = mean geometric chord of the wing (feet).
 
 The airplane must be designed for loads resulting from the rolling conditions specified in paragraphs (a) and (b) of this section. Unbalanced aerodynamic moments about the center of gravity must be reacted in a rational or conservative manner, considering the principal masses furnishing the reacting inertia forces.
 
-\(a\) *Maneuvering.* The following conditions, speeds, and aileron deflections (except as the deflections may be limited by pilot effort) must be considered in combination with an airplane load factor of zero and of two-thirds of the positive maneuvering factor used in design. In determining the required aileron deflections, the torsional flexibility of the wing must be considered in accordance with §25.301(b):
+\(a\) *Maneuvering.* The following conditions, speeds, and aileron deflections (except as the deflections may be limited by pilot effort) must be considered in combination with an airplane load factor of zero and of two-thirds of the positive maneuvering factor used in design. In determining the required aileron deflections, the torsional flexibility of the wing must be considered in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.301   Loads.|§25.301]](b):
 
 \(1\) Conditions corresponding to steady rolling velocities must be investigated. In addition, conditions corresponding to maximum angular acceleration must be investigated for airplanes with engines or other weight concentrations outboard of the fuselage. For the angular acceleration conditions, zero rolling velocity may be assumed in the absence of a rational time history investigation of the maneuver.
 
@@ -1990,7 +1990,7 @@ The airplane must be designed for loads resulting from the rolling conditions sp
 
 \(4\) At *VD,* the aileron deflection must be that required to produce a rate of roll not less than one-third of that in paragraph (a)(2) of this section.
 
-\(b\) *Unsymmetrical gusts.* The airplane is assumed to be subjected to unsymmetrical vertical gusts in level flight. The resulting limit loads must be determined from either the wing maximum airload derived directly from §25.341(a), or the wing maximum airload derived indirectly from the vertical load factor calculated from §25.341(a). It must be assumed that 100 percent of the wing air load acts on one side of the airplane and 80 percent of the wing air load acts on the other side.
+\(b\) *Unsymmetrical gusts.* The airplane is assumed to be subjected to unsymmetrical vertical gusts in level flight. The resulting limit loads must be determined from either the wing maximum airload derived directly from [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a), or the wing maximum airload derived indirectly from the vertical load factor calculated from [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a). It must be assumed that 100 percent of the wing air load acts on one side of the airplane and 80 percent of the wing air load acts on the other side.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5672, Apr. 8, 1970; Amdt. 25-86, 61 FR 5222, Feb. 9, 1996; Amdt. 25-94, 63 FR 8848, Feb. 23, 1998\]
 
@@ -2020,9 +2020,9 @@ The airplane must be designed for loads resulting from the yaw maneuver conditio
 
 \(1\) Each engine mount, pylon, and adjacent supporting airframe structures must be designed for the effects of—
 
-\(i\) A limit engine torque corresponding to takeoff power/thrust and, if applicable, corresponding propeller speed, acting simultaneously with 75% of the limit loads from flight condition A of §25.333(b);
+\(i\) A limit engine torque corresponding to takeoff power/thrust and, if applicable, corresponding propeller speed, acting simultaneously with 75% of the limit loads from flight condition A of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b);
 
-\(ii\) A limit engine torque corresponding to the maximum continuous power/thrust and, if applicable, corresponding propeller speed, acting simultaneously with the limit loads from flight condition A of §25.333(b); and
+\(ii\) A limit engine torque corresponding to the maximum continuous power/thrust and, if applicable, corresponding propeller speed, acting simultaneously with the limit loads from flight condition A of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b); and
 
 \(iii\) For turbopropeller installations only, in addition to the conditions specified in paragraphs (a)(1)(i) and (ii) of this section, a limit engine torque corresponding to takeoff power and propeller speed, multiplied by a factor accounting for propeller control system malfunction, including quick feathering, acting simultaneously with 1g level flight loads. In the absence of a rational analysis, a factor of 1.6 must be used.
 
@@ -2064,7 +2064,7 @@ The airplane must be designed for loads resulting from the yaw maneuver conditio
 
 \(1\) 1.33; or
 
-\(2\) One-third of the limit load factor for flight condition A as prescribed in §25.333(b).
+\(2\) One-third of the limit load factor for flight condition A as prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b).
 
 \(b\) The side load prescribed in paragraph (a) of this section may be assumed to be independent of other flight conditions.
 
@@ -2110,11 +2110,11 @@ Ho = PAs
 
 \(4\) The timing and magnitude of the probable pilot corrective action must be conservatively estimated, considering the characteristics of the particular engine-propeller-airplane combination.
 
-\(b\) Pilot corrective action may be assumed to be initiated at the time maximum yawing velocity is reached, but not earlier than two seconds after the engine failure. The magnitude of the corrective action may be based on the control forces specified in §25.397(b) except that lower forces may be assumed where it is shown by anaylsis or test that these forces can control the yaw and roll resulting from the prescribed engine failure conditions.
+\(b\) Pilot corrective action may be assumed to be initiated at the time maximum yawing velocity is reached, but not earlier than two seconds after the engine failure. The magnitude of the corrective action may be based on the control forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]](b) except that lower forces may be assumed where it is shown by anaylsis or test that these forces can control the yaw and roll resulting from the prescribed engine failure conditions.
 
 ### §25.371   Gyroscopic loads.
 
-The structure supporting any engine or auxiliary power unit must be designed for the loads, including gyroscopic loads, arising from the conditions specified in §§25.331, 25.341, 25.349, 25.351, 25.473, 25.479, and 25.481, with the engine or auxiliary power unit at the maximum rotating speed appropriate to the condition. For the purposes of compliance with this paragraph, the pitch maneuver in §25.331(c)(1) must be carried out until the positive limit maneuvering load factor (point A2 in §25.333(b)) is reached.
+The structure supporting any engine or auxiliary power unit must be designed for the loads, including gyroscopic loads, arising from the conditions specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.331   Symmetric maneuvering conditions.|§25.331]], 25.341, 25.349, 25.351, 25.473, 25.479, and 25.481, with the engine or auxiliary power unit at the maximum rotating speed appropriate to the condition. For the purposes of compliance with this paragraph, the pitch maneuver in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.331   Symmetric maneuvering conditions.|§25.331]](c)(1) must be carried out until the positive limit maneuvering load factor (point A2 in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b)) is reached.
 
 \[Amdt. 25-141, 79 FR 73468, Dec. 11, 2014\]
 
@@ -2122,7 +2122,7 @@ The structure supporting any engine or auxiliary power unit must be designed for
 
 If speed control devices (such as spoilers and drag flaps) are installed for use in en route conditions—
 
-\(a\) The airplane must be designed for the symmetrical maneuvers prescribed in §§25.333 and 25.337, the yawing maneuvers in §25.351, and the vertical and lateral gust and turbulence conditions prescribed in §25.341(a) and (b) at each setting and the maximum speed associated with that setting; and
+\(a\) The airplane must be designed for the symmetrical maneuvers prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]] and 25.337, the yawing maneuvers in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.351   Yaw maneuver conditions.|§25.351]], and the vertical and lateral gust and turbulence conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) and (b) at each setting and the maximum speed associated with that setting; and
 
 \(b\) If the device has automatic operating or load limiting features, the airplane must be designed for the maneuver and gust conditions prescribed in paragraph (a) of this section, at the speeds and corresponding device positions that the mechanism allows.
 
@@ -2132,17 +2132,17 @@ If speed control devices (such as spoilers and drag flaps) are installed for use
 
 ### §25.391   Control surface loads: General.
 
-The control surfaces must be designed for the limit loads resulting from the flight conditions in §§25.331, 25.341(a) and (b), 25.349, and 25.351, considering the requirements for—
+The control surfaces must be designed for the limit loads resulting from the flight conditions in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.331   Symmetric maneuvering conditions.|§25.331]], 25.341(a) and (b), 25.349, and 25.351, considering the requirements for—
 
-\(a\) Loads parallel to hinge line, in §25.393;
+\(a\) Loads parallel to hinge line, in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.393   Loads parallel to hinge line.|§25.393]];
 
-\(b\) Pilot effort effects, in §25.397;
+\(b\) Pilot effort effects, in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]];
 
-\(c\) Trim tab effects, in §25.407;
+\(c\) Trim tab effects, in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.407   Trim tab effects.|§25.407]];
 
-\(d\) Unsymmetrical loads, in §25.427; and
+\(d\) Unsymmetrical loads, in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.427   Unsymmetrical loads.|§25.427]]; and
 
-\(e\) Auxiliary aerodynamic surfaces, in §25.445.
+\(e\) Auxiliary aerodynamic surfaces, in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.445   Auxiliary aerodynamic surfaces.|§25.445]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-86, 61 FR 5222, Feb. 9, 1996; Amdt. 25-141, 79 FR 73468, Dec. 11, 2014\]
 
@@ -2160,11 +2160,11 @@ The control surfaces must be designed for the limit loads resulting from the fli
 
 ### §25.395   Control system.
 
-\(a\) Longitudinal, lateral, directional, and drag control system and their supporting structures must be designed for loads corresponding to 125 percent of the computed hinge moments of the movable control surface in the conditions prescribed in §25.391.
+\(a\) Longitudinal, lateral, directional, and drag control system and their supporting structures must be designed for loads corresponding to 125 percent of the computed hinge moments of the movable control surface in the conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.391   Control surface loads: General.|§25.391]].
 
 \(b\) The system limit loads of paragraph (a) of this section need not exceed the loads that can be produced by the pilot (or pilots) and by automatic or power devices operating the controls.
 
-\(c\) The loads must not be less than those resulting from application of the minimum forces prescribed in §25.397(c).
+\(c\) The loads must not be less than those resulting from application of the minimum forces prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]](c).
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5672, Apr. 8, 1970; Amdt. 25-72, 55 FR 29776, July 20, 1990; Amdt. 25-141, 79 FR 73468, Dec. 11, 2014\]
 
@@ -2202,11 +2202,11 @@ The control surfaces must be designed for the limit loads resulting from the fli
 
 \(a\) Each dual control system must be designed for the pilots operating in opposition, using individual pilot forces not less than—
 
-\(1\) 0.75 times those obtained under §25.395; or
+\(1\) 0.75 times those obtained under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.395   Control system.|§25.395]]; or
 
-\(2\) The minimum forces specified in §25.397(c).
+\(2\) The minimum forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]](c).
 
-\(b\) The control system must be designed for pilot forces applied in the same direction, using individual pilot forces not less than 0.75 times those obtained under §25.395.
+\(b\) The control system must be designed for pilot forces applied in the same direction, using individual pilot forces not less than 0.75 times those obtained under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.395   Control system.|§25.395]].
 
 ### §25.405   Secondary control system.
 
@@ -2238,13 +2238,13 @@ Pilot Control Force Limits (Secondary Controls)
 
 The effects of trim tabs on the control surface design conditions must be accounted for only where the surface loads are limited by maximum pilot effort. In these cases, the tabs are considered to be deflected in the direction that would assist the pilot, and the deflections are—
 
-\(a\) For elevator trim tabs, those required to trim the airplane at any point within the positive portion of the pertinent flight envelope in §25.333(b), except as limited by the stops; and
+\(a\) For elevator trim tabs, those required to trim the airplane at any point within the positive portion of the pertinent flight envelope in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b), except as limited by the stops; and
 
 \(b\) For aileron and rudder trim tabs, those required to trim the airplane in the critical unsymmetrical power and loading conditions, with appropriate allowance for rigging tolerances.
 
 ### §25.409   Tabs.
 
-\(a\) *Trim tabs.* Trim tabs must be designed to withstand loads arising from all likely combinations of tab setting, primary control position, and airplane speed (obtainable without exceeding the flight load conditions prescribed for the airplane as a whole), when the effect of the tab is opposed by pilot effort forces up to those specified in §25.397(b).
+\(a\) *Trim tabs.* Trim tabs must be designed to withstand loads arising from all likely combinations of tab setting, primary control position, and airplane speed (obtainable without exceeding the flight load conditions prescribed for the airplane as a whole), when the effect of the tab is opposed by pilot effort forces up to those specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]](b).
 
 \(b\) *Balancing tabs.* Balancing tabs must be designed for deflections consistent with the primary control surface loading conditions.
 
@@ -2289,7 +2289,7 @@ controls</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) 
 
 \(2\) The parts of the control systems between the stops nearest the surfaces and the flight deck controls must be designed to the resultant limit loads, except that the parts of the control system where loads are eventually reacted by the pilot need not exceed:
 
-\(i\) The loads corresponding to the maximum pilot loads in §25.397(c) for each pilot alone; or
+\(i\) The loads corresponding to the maximum pilot loads in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.397   Control system loads.|§25.397]](c) for each pilot alone; or
 
 \(ii\) 0.75 times these maximum loads for each pilot when the pilot forces are applied in the same direction.
 
@@ -2301,21 +2301,21 @@ controls</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) 
 
 \(b\) The horizontal tail must be assumed to be subjected to unsymmetrical loading conditions determined as follows:
 
-\(1\) 100 percent of the maximum loading from the symmetrical maneuver conditions of §25.331 and the vertical gust conditions of §25.341(a) acting separately on the surface on one side of the plane of symmetry; and
+\(1\) 100 percent of the maximum loading from the symmetrical maneuver conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.331   Symmetric maneuvering conditions.|§25.331]] and the vertical gust conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) acting separately on the surface on one side of the plane of symmetry; and
 
 \(2\) 80 percent of these loadings acting on the other side.
 
-\(c\) For empennage arrangements where the horizontal tail surfaces have dihedral angles greater than plus or minus 10 degrees, or are supported by the vertical tail surfaces, the surfaces and the supporting structure must be designed for gust velocities specified in §25.341(a) acting in any orientation at right angles to the flight path.
+\(c\) For empennage arrangements where the horizontal tail surfaces have dihedral angles greater than plus or minus 10 degrees, or are supported by the vertical tail surfaces, the surfaces and the supporting structure must be designed for gust velocities specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) acting in any orientation at right angles to the flight path.
 
-\(d\) Unsymmetrical loading on the empennage arising from buffet conditions of §25.305(e) must be taken into account.
+\(d\) Unsymmetrical loading on the empennage arising from buffet conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](e) must be taken into account.
 
 \[Doc. No. 27902, 61 FR 5222, Feb. 9, 1996\]
 
 ### §25.445   Auxiliary aerodynamic surfaces.
 
-\(a\) When significant, the aerodynamic influence between auxiliary aerodynamic surfaces, such as outboard fins and winglets, and their supporting aerodynamic surfaces, must be taken into account for all loading conditions including pitch, roll, and yaw maneuvers, and gusts as specified in §25.341(a) acting at any orientation at right angles to the flight path.
+\(a\) When significant, the aerodynamic influence between auxiliary aerodynamic surfaces, such as outboard fins and winglets, and their supporting aerodynamic surfaces, must be taken into account for all loading conditions including pitch, roll, and yaw maneuvers, and gusts as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]](a) acting at any orientation at right angles to the flight path.
 
-\(b\) To provide for unsymmetrical loading when outboard fins extend above and below the horizontal surface, the critical vertical surface loading (load per unit area) determined under §25.391 must also be applied as follows:
+\(b\) To provide for unsymmetrical loading when outboard fins extend above and below the horizontal surface, the critical vertical surface loading (load per unit area) determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.391   Control surface loads: General.|§25.391]] must also be applied as follows:
 
 \(1\) 100 percent to the area of the vertical surfaces above (or below) the horizontal surface.
 
@@ -2325,7 +2325,7 @@ controls</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) 
 
 ### §25.457   Wing flaps.
 
-Wing flaps, their operating mechanisms, and their supporting structures must be designed for critical loads occurring in the conditions prescribed in §25.345, accounting for the loads occurring during transition from one flap position and airspeed to another.
+Wing flaps, their operating mechanisms, and their supporting structures must be designed for critical loads occurring in the conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.345   High lift devices.|§25.345]], accounting for the loads occurring during transition from one flap position and airspeed to another.
 
 ### §25.459   Special devices.
 
@@ -2347,7 +2347,7 @@ The loading for special devices using aerodynamic surfaces (such as slots, slats
 
 \(1\) The lateral displacement of the c.g. results from random passenger or cargo disposition within the fuselage or from random unsymmetrical fuel loading or fuel usage; and
 
-\(2\) Appropriate loading instructions for random disposable loads are included under the provisions of §25.1583(c)(1) to ensure that the lateral displacement of the center of gravity is maintained within these limits.
+\(2\) Appropriate loading instructions for random disposable loads are included under the provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1583   Operating limitations.|§25.1583]](c)(1) to ensure that the lateral displacement of the center of gravity is maintained within these limits.
 
 \(c\) *Landing gear dimension data.* Figure 1 of appendix A contains the basic landing gear dimension data.
 
@@ -2355,9 +2355,9 @@ The loading for special devices using aerodynamic surfaces (such as slots, slats
 
 ### §25.473   Landing load conditions and assumptions.
 
-\(a\) For the landing conditions specified in §25.479 to §25.485 the airplane is assumed to contact the ground—
+\(a\) For the landing conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.479   Level landing conditions.|§25.479]] to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.485   Side load conditions.|§25.485]] the airplane is assumed to contact the ground—
 
-\(1\) In the attitudes defined in §25.479 and §25.481;
+\(1\) In the attitudes defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.479   Level landing conditions.|§25.479]] and [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.481   Tail-down landing conditions.|§25.481]];
 
 \(2\) With a limit descent velocity of 10 fps at the design landing weight (the maximum weight for landing conditions at maximum descent velocity); and
 
@@ -2377,7 +2377,7 @@ The loading for special devices using aerodynamic surfaces (such as slots, slats
 
 \(4\) Structural dynamic response of the airframe, if significant.
 
-\(d\) The landing gear dynamic characteristics must be validated by tests as defined in §25.723(a).
+\(d\) The landing gear dynamic characteristics must be validated by tests as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.723   Shock absorption tests.|§25.723]](a).
 
 \(e\) The coefficient of friction between the tires and the ground may be established by considering the effects of skidding velocity and tire pressure. However, this coefficient of friction need not be more than 0.8.
 
@@ -2389,7 +2389,7 @@ Sections 25.479 through 25.485 apply to airplanes with conventional arrangements
 
 ### §25.479   Level landing conditions.
 
-\(a\) In the level attitude, the airplane is assumed to contact the ground at forward velocity components, ranging from VL1 to 1.25 VL2 parallel to the ground under the conditions prescribed in §25.473 with—
+\(a\) In the level attitude, the airplane is assumed to contact the ground at forward velocity components, ranging from VL1 to 1.25 VL2 parallel to the ground under the conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]] with—
 
 \(1\) VL1 equal to VS0 (TAS) at the appropriate landing weight and in standard sea level conditions; and
 
@@ -2411,9 +2411,9 @@ Sections 25.479 through 25.485 apply to airplanes with conventional arrangements
 
 \(2\) The most severe combination of loads that are likely to arise during a lateral drift landing must be taken into account. In absence of a more rational analysis of this condition, the following must be investigated:
 
-\(i\) A vertical load equal to 75% of the maximum ground reaction of §25.473 must be considered in combination with a drag and side load of 40% and 25% respectively of that vertical load.
+\(i\) A vertical load equal to 75% of the maximum ground reaction of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]] must be considered in combination with a drag and side load of 40% and 25% respectively of that vertical load.
 
-\(ii\) The shock absorber and tire deflections must be assumed to be 75% of the deflection corresponding to the maximum ground reaction of §25.473(a)(2). This load case need not be considered in combination with flat tires.
+\(ii\) The shock absorber and tire deflections must be assumed to be 75% of the deflection corresponding to the maximum ground reaction of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]](a)(2). This load case need not be considered in combination with flat tires.
 
 \(3\) The combination of vertical and drag components is considered to be acting at the wheel axle centerline.
 
@@ -2421,7 +2421,7 @@ Sections 25.479 through 25.485 apply to airplanes with conventional arrangements
 
 ### §25.481   Tail-down landing conditions.
 
-\(a\) In the tail-down attitude, the airplane is assumed to contact the ground at forward velocity components, ranging from VL1 to VL2 parallel to the ground under the conditions prescribed in §25.473 with—
+\(a\) In the tail-down attitude, the airplane is assumed to contact the ground at forward velocity components, ranging from VL1 to VL2 parallel to the ground under the conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]] with—
 
 \(1\) *VL*1 equal to *VS*0 (TAS) at the appropriate landing weight and in standard sea level conditions; and
 
@@ -2443,7 +2443,7 @@ Sections 25.479 through 25.485 apply to airplanes with conventional arrangements
 
 For the one-gear landing conditions, the airplane is assumed to be in the level attitude and to contact the ground on one main landing gear, in accordance with Figure 4 of Appendix A of this part. In this attitude—
 
-\(a\) The ground reactions must be the same as those obtained on that side under §25.479(d)(1), and
+\(a\) The ground reactions must be the same as those obtained on that side under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.479   Level landing conditions.|§25.479]](d)(1), and
 
 \(b\) Each unbalanced external load must be reacted by airplane inertia in a rational or conservative manner.
 
@@ -2451,7 +2451,7 @@ For the one-gear landing conditions, the airplane is assumed to be in the level 
 
 ### §25.485   Side load conditions.
 
-In addition to §25.479(d)(2) the following conditions must be considered:
+In addition to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.479   Level landing conditions.|§25.479]](d)(2) the following conditions must be considered:
 
 \(a\) For the side load condition, the airplane is assumed to be in the level attitude with only the main wheels contacting the ground, in accordance with figure 5 of appendix A.
 
@@ -2467,7 +2467,7 @@ In addition to §25.479(d)(2) the following conditions must be considered:
 
 ### §25.489   Ground handling conditions.
 
-Unless otherwise prescribed, the landing gear and airplane structure must be investigated for the conditions in §§25.491 through 25.509 with the airplane at the design ramp weight (the maximum weight for ground handling conditions). No wing lift may be considered. The shock absorbers and tires may be assumed to be in their static position.
+Unless otherwise prescribed, the landing gear and airplane structure must be investigated for the conditions in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.491   Taxi, takeoff and landing roll.|§25.491]] through 25.509 with the airplane at the design ramp weight (the maximum weight for ground handling conditions). No wing lift may be considered. The shock absorbers and tires may be assumed to be in their static position.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5673, Apr. 8, 1970\]
 
@@ -2535,7 +2535,7 @@ In the static position, in accordance with figure 7 of appendix A, the airplane 
 
 \(1\) A lower drag reaction may be used if an effective drag force of 0.8 times the vertical reaction cannot be reached under any likely loading condition; and
 
-\(2\) The forward acting load at the center of gravity need not exceed the maximum drag reaction on one main gear, determined in accordance with §25.493(b).
+\(2\) The forward acting load at the center of gravity need not exceed the maximum drag reaction on one main gear, determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.493   Braked roll conditions.|§25.493]](b).
 
 \(e\) With the airplane at design ramp weight, and the nose gear in any steerable position, the combined application of full normal steering torque and vertical force equal to 1.33 times the maximum static reaction on the nose gear must be considered in designing the nose gear, its attaching structure, and the forward fuselage structure.
 
@@ -2639,13 +2639,13 @@ Aft, in plane of wheel.</td></tr></tbody></table>
 
 \(2\) The ground reactions must be applied to the wheels with inflated tires except that, for multiple-wheel gear units with more than one shock strut, a rational distribution of the ground reactions between the deflated and inflated tires, accounting for the differences in shock strut extensions resulting from a deflated tire, may be used.
 
-\(d\) *Landing conditions.* For one and for two deflated tires, the applied load to each gear unit is assumed to be 60 percent and 50 percent, respectively, of the limit load applied to each gear for each of the prescribed landing conditions. However, for the drift landing condition of §25.485, 100 percent of the vertical load must be applied.
+\(d\) *Landing conditions.* For one and for two deflated tires, the applied load to each gear unit is assumed to be 60 percent and 50 percent, respectively, of the limit load applied to each gear for each of the prescribed landing conditions. However, for the drift landing condition of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.485   Side load conditions.|§25.485]], 100 percent of the vertical load must be applied.
 
 \(e\) *Taxiing and ground handling conditions.* For one and for two deflated tires—
 
 \(1\) The applied side or drag load factor, or both factors, at the center of gravity must be the most critical value up to 50 percent and 40 percent, respectively, of the limit side or drag load factors, or both factors, corresponding to the most severe condition resulting from consideration of the prescribed taxiing and ground handling conditions;
 
-\(2\) For the braked roll conditions of §25.493 (a) and (b)(2), the drag loads on each inflated tire may not be less than those at each tire for the symmetrical load distribution with no deflated tires;
+\(2\) For the braked roll conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.493   Braked roll conditions.|§25.493]] (a) and (b)(2), the drag loads on each inflated tire may not be less than those at each tire for the symmetrical load distribution with no deflated tires;
 
 \(3\) The vertical load factor at the center of gravity must be 60 percent and 50 percent, respectively, of the factor with no deflated tires, except that it may not be less than 1g; and
 
@@ -2677,13 +2677,13 @@ Aft, in plane of wheel.</td></tr></tbody></table>
 
 \(a\) Seaplanes must be designed for the water loads developed during takeoff and landing, with the seaplane in any attitude likely to occur in normal operation, and at the appropriate forward and sinking velocities under the most severe sea conditions likely to be encountered.
 
-\(b\) Unless a more rational analysis of the water loads is made, or the standards in ANC-3 are used, §§25.523 through 25.537 apply.
+\(b\) Unless a more rational analysis of the water loads is made, or the standards in ANC-3 are used, §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.523   Design weights and center of gravity positions.|§25.523]] through 25.537 apply.
 
-\(c\) The requirements of this section and §§25.523 through 25.537 apply also to amphibians.
+\(c\) The requirements of this section and §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.523   Design weights and center of gravity positions.|§25.523]] through 25.537 apply also to amphibians.
 
 ### §25.523   Design weights and center of gravity positions.
 
-\(a\) *Design weights.* The water load requirements must be met at each operating weight up to the design landing weight except that, for the takeoff condition prescribed in §25.531, the design water takeoff weight (the maximum weight for water taxi and takeoff run) must be used.
+\(a\) *Design weights.* The water load requirements must be met at each operating weight up to the design landing weight except that, for the takeoff condition prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.531   Hull and main float takeoff condition.|§25.531]], the design water takeoff weight (the maximum weight for water taxi and takeoff run) must be used.
 
 \(b\) *Center of gravity positions.* The critical centers of gravity within the limits for which certification is requested must be considered to reach maximum design loads for each part of the seaplane structure.
 
@@ -2691,13 +2691,13 @@ Aft, in plane of wheel.</td></tr></tbody></table>
 
 ### §25.525   Application of loads.
 
-\(a\) Unless otherwise prescribed, the seaplane as a whole is assumed to be subjected to the loads corresponding to the load factors specified in §25.527.
+\(a\) Unless otherwise prescribed, the seaplane as a whole is assumed to be subjected to the loads corresponding to the load factors specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.527   Hull and main float load factors.|§25.527]].
 
-\(b\) In applying the loads resulting from the load factors prescribed in §25.527, the loads may be distributed over the hull or main float bottom (in order to avoid excessive local shear loads and bending moments at the location of water load application) using pressures not less than those prescribed in §25.533(b).
+\(b\) In applying the loads resulting from the load factors prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.527   Hull and main float load factors.|§25.527]], the loads may be distributed over the hull or main float bottom (in order to avoid excessive local shear loads and bending moments at the location of water load application) using pressures not less than those prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.533   Hull and main float bottom pressures.|§25.533]](b).
 
 \(c\) For twin float seaplanes, each float must be treated as an equivalent hull on a fictitious seaplane with a weight equal to one-half the weight of the twin float seaplane.
 
-\(d\) Except in the takeoff condition of §25.531, the aerodynamic lift on the seaplane during the impact is assumed to be 2⁄3 of the weight of the seaplane.
+\(d\) Except in the takeoff condition of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.531   Hull and main float takeoff condition.|§25.531]], the aerodynamic lift on the seaplane during the impact is assumed to be 2⁄3 of the weight of the seaplane.
 
 ### §25.527   Hull and main float load factors.
 
@@ -2737,7 +2737,7 @@ Aft, in plane of wheel.</td></tr></tbody></table>
 
 ### §25.529   Hull and main float landing conditions.
 
-\(a\) *Symmetrical step, bow, and stern landing.* For symmetrical step, bow, and stern landings, the limit water reaction load factors are those computed under §25.527. In addition—
+\(a\) *Symmetrical step, bow, and stern landing.* For symmetrical step, bow, and stern landings, the limit water reaction load factors are those computed under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.527   Hull and main float load factors.|§25.527]]. In addition—
 
 \(1\) For symmetrical step landings, the resultant water load must be applied at the keel, through the center of gravity, and must be directed perpendicularly to the keel line;
 
@@ -2751,7 +2751,7 @@ Aft, in plane of wheel.</td></tr></tbody></table>
 
 \(2\) The point of application and direction of the upward component of the load is the same as that in the symmetrical condition, and the point of application of the side component is at the same longitudinal station as the upward component but is directed inward perpendicularly to the plane of symmetry at a point midway between the keel and chine lines.
 
-\(c\) *Unsymmetrical landing; twin float seaplanes.* The unsymmetrical loading consists of an upward load at the step of each float of 0.75 and a side load of 0.25 tan β at one float times the step landing load reached under §25.527. The side load is directed inboard, perpendicularly to the plane of symmetry midway between the keel and chine lines of the float, at the same longitudinal station as the upward load.
+\(c\) *Unsymmetrical landing; twin float seaplanes.* The unsymmetrical loading consists of an upward load at the step of each float of 0.75 and a side load of 0.25 tan β at one float times the step landing load reached under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.527   Hull and main float load factors.|§25.527]]. The side load is directed inboard, perpendicularly to the plane of symmetry midway between the keel and chine lines of the float, at the same longitudinal station as the upward load.
 
 ### §25.531   Hull and main float takeoff condition.
 
@@ -2819,7 +2819,7 @@ For the wing and its attachment to the hull or main float—
 
 [View or download PDF](https://www.ecfr.gov/graphics/pdfs/ec28se91.043.pdf)
 
-\(g\) *Float bottom pressures.* The float bottom pressures must be established under §25.533, except that the value of K2 in the formulae may be taken as 1.0. The angle of dead rise to be used in determining the float bottom pressures is set forth in paragraph (b) of this section.
+\(g\) *Float bottom pressures.* The float bottom pressures must be established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.533   Hull and main float bottom pressures.|§25.533]], except that the value of K2 in the formulae may be taken as 1.0. The angle of dead rise to be used in determining the float bottom pressures is set forth in paragraph (b) of this section.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5673, Apr. 8, 1970\]
 
@@ -2907,7 +2907,7 @@ Seawing design loads must be based on applicable test data.
 
 ### §25.563   Structural ditching provisions.
 
-Structural strength considerations of ditching provisions must be in accordance with §25.801(e).
+Structural strength considerations of ditching provisions must be in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.801   Ditching.|§25.801]](e).
 
 ### Fatigue Evaluation
 
@@ -2925,21 +2925,21 @@ Structural strength considerations of ditching provisions must be in accordance 
 
 \(2\) The service history of airplanes of similar structural design, taking due account of differences in operating conditions and procedures, may be used in the evaluations required by this section.
 
-\(3\) Based on the evaluations required by this section, inspections or other procedures must be established, as necessary, to prevent catastrophic failure, and must be included in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §25.1529. The limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV), stated as a number of total accumulated flight cycles or flight hours or both, established by this section must also be included in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §25.1529. Inspection thresholds for the following types of structure must be established based on crack growth analyses and/or tests, assuming the structure contains an initial flaw of the maximum probable size that could exist as a result of manufacturing or service-induced damage:
+\(3\) Based on the evaluations required by this section, inspections or other procedures must be established, as necessary, to prevent catastrophic failure, and must be included in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]]. The limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV), stated as a number of total accumulated flight cycles or flight hours or both, established by this section must also be included in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]]. Inspection thresholds for the following types of structure must be established based on crack growth analyses and/or tests, assuming the structure contains an initial flaw of the maximum probable size that could exist as a result of manufacturing or service-induced damage:
 
 \(i\) Single load path structure, and
 
 \(ii\) Multiple load path “fail-safe” structure and crack arrest “fail-safe” structure, where it cannot be demonstrated that load path failure, partial failure, or crack arrest will be detected and repaired during normal maintenance, inspection, or operation of an airplane prior to failure of the remaining structure.
 
-\(b\) *Damage-tolerance evaluation.* The evaluation must include a determination of the probable locations and modes of damage due to fatigue, corrosion, or accidental damage. Repeated load and static analyses supported by test evidence and (if available) service experience must also be incorporated in the evaluation. Special consideration for widespread fatigue damage must be included where the design is such that this type of damage could occur. An LOV must be established that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane structure. This demonstration must be by full-scale fatigue test evidence. The type certificate may be issued prior to completion of full-scale fatigue testing, provided the Administrator has approved a plan for completing the required tests. In that case, the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §25.1529 must specify that no airplane may be operated beyond a number of cycles equal to 1⁄2 the number of cycles accumulated on the fatigue test article, until such testing is completed. The extent of damage for residual strength evaluation at any time within the operational life of the airplane must be consistent with the initial detectability and subsequent growth under repeated loads. The residual strength evaluation must show that the remaining structure is able to withstand loads (considered as static ultimate loads) corresponding to the following conditions:
+\(b\) *Damage-tolerance evaluation.* The evaluation must include a determination of the probable locations and modes of damage due to fatigue, corrosion, or accidental damage. Repeated load and static analyses supported by test evidence and (if available) service experience must also be incorporated in the evaluation. Special consideration for widespread fatigue damage must be included where the design is such that this type of damage could occur. An LOV must be established that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane structure. This demonstration must be by full-scale fatigue test evidence. The type certificate may be issued prior to completion of full-scale fatigue testing, provided the Administrator has approved a plan for completing the required tests. In that case, the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] must specify that no airplane may be operated beyond a number of cycles equal to 1⁄2 the number of cycles accumulated on the fatigue test article, until such testing is completed. The extent of damage for residual strength evaluation at any time within the operational life of the airplane must be consistent with the initial detectability and subsequent growth under repeated loads. The residual strength evaluation must show that the remaining structure is able to withstand loads (considered as static ultimate loads) corresponding to the following conditions:
 
-\(1\) The limit symmetrical maneuvering conditions specified in §25.337 at all speeds up to Vc and in §25.345.
+\(1\) The limit symmetrical maneuvering conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.337   Limit maneuvering load factors.|§25.337]] at all speeds up to Vc and in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.345   High lift devices.|§25.345]].
 
-\(2\) The limit gust conditions specified in §25.341 at the specified speeds up to VC and in §25.345.
+\(2\) The limit gust conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.341   Gust and turbulence loads.|§25.341]] at the specified speeds up to VC and in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.345   High lift devices.|§25.345]].
 
-\(3\) The limit rolling conditions specified in §25.349 and the limit unsymmetrical conditions specified in §§25.367 and 25.427 (a) through (c), at speeds up to VC.
+\(3\) The limit rolling conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.349   Rolling conditions.|§25.349]] and the limit unsymmetrical conditions specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.367   Unsymmetrical loads due to engine failure.|§25.367]] and 25.427 (a) through (c), at speeds up to VC.
 
-\(4\) The limit yaw maneuvering conditions specified in §25.351(a) at the specified speeds up to VC.
+\(4\) The limit yaw maneuvering conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.351   Yaw maneuver conditions.|§25.351]](a) at the specified speeds up to VC.
 
 \(5\) For pressurized cabins, the following conditions:
 
@@ -2947,7 +2947,7 @@ Structural strength considerations of ditching provisions must be in accordance 
 
 \(ii\) The maximum value of normal operating differential pressure (including the expected external aerodynamic pressures during 1 g level flight) multiplied by a factor of 1.15, omitting other loads.
 
-\(6\) For landing gear and directly-affected airframe structure, the limit ground loading conditions specified in §§25.473, 25.491, and 25.493.
+\(6\) For landing gear and directly-affected airframe structure, the limit ground loading conditions specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]], 25.491, and 25.493.
 
 \(c\) *Fatigue (safe-life) evaluation.* Compliance with the damage-tolerance requirements of paragraph (b) of this section is not required if the applicant establishes that their application for particular structure is impractical. This structure must be shown by analysis, supported by test evidence, to be able to withstand the repeated loads of variable magnitude expected during its service life without detectable cracks. Appropriate safe-life scatter factors must be applied.
 
@@ -3047,9 +3047,9 @@ Each part of the structure must—
 
 ### §25.611   Accessibility provisions.
 
-(a)Means must be provided to allow inspection (including inspection of principal structural elements and control systems), replacement of parts normally requiring replacement, adjustment, and lubrication as necessary for continued airworthiness. The inspection means for each item must be practicable for the inspection interval for the item. Nondestructive inspection aids may be used to inspect structural elements where it is impracticable to provide means for direct visual inspection if it is shown that the inspection is effective and the inspection procedures are specified in the maintenance manual required by §25.1529.
+(a)Means must be provided to allow inspection (including inspection of principal structural elements and control systems), replacement of parts normally requiring replacement, adjustment, and lubrication as necessary for continued airworthiness. The inspection means for each item must be practicable for the inspection interval for the item. Nondestructive inspection aids may be used to inspect structural elements where it is impracticable to provide means for direct visual inspection if it is shown that the inspection is effective and the inspection procedures are specified in the maintenance manual required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]].
 
-\(b\) EWIS must meet the accessibility requirements of §25.1719.
+\(b\) EWIS must meet the accessibility requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1719   Accessibility provisions: EWIS.|§25.1719]].
 
 \[Amdt. 25-23, 35 FR 5674, Apr. 8, 1970, as amended by Amdt. 25-123, 72 FR 63404, Nov. 8, 2007\]
 
@@ -3075,7 +3075,7 @@ Each part of the structure must—
 
 ### §25.619   Special factors.
 
-The factor of safety prescribed in §25.303 must be multiplied by the highest pertinent special factor of safety prescribed in §§25.621 through 25.625 for each part of the structure whose strength is—
+The factor of safety prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.303   Factor of safety.|§25.303]] must be multiplied by the highest pertinent special factor of safety prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.621   Casting factors.|§25.621]] through 25.625 for each part of the structure whose strength is—
 
 \(a\) Uncertain;
 
@@ -3095,7 +3095,7 @@ The factor of safety prescribed in §25.303 must be multiplied by the highest pe
 
 \(2\) Need not be used with respect to the bearing surfaces of a part whose bearing factor is larger than the applicable casting factor.
 
-\(c\) *Critical castings.* Each casting whose failure could preclude continued safe flight and landing of the airplane or could result in serious injury to occupants is a critical casting. Each critical casting must have a factor associated with it for showing compliance with strength and deformation requirements of §25.305, and must comply with the following criteria associated with that factor:
+\(c\) *Critical castings.* Each casting whose failure could preclude continued safe flight and landing of the airplane or could result in serious injury to occupants is a critical casting. Each critical casting must have a factor associated with it for showing compliance with strength and deformation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]], and must comply with the following criteria associated with that factor:
 
 \(1\) A casting factor of 1.0 or greater may be used, provided that—
 
@@ -3107,7 +3107,7 @@ The factor of safety prescribed in §25.303 must be multiplied by the highest pe
 
 \(B\) Inspection of structurally significant internal areas and areas where defects are likely to occur, using radiographic or equivalent inspection methods.
 
-\(iii\) One casting undergoes a static test and is shown to meet the strength and deformation requirements of §25.305(a) and (b).
+\(iii\) One casting undergoes a static test and is shown to meet the strength and deformation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](a) and (b).
 
 \(2\) A casting factor of 1.25 or greater may be used, provided that—
 
@@ -3119,9 +3119,9 @@ The factor of safety prescribed in §25.303 must be multiplied by the highest pe
 
 \(ii\) Three castings undergo static tests and are shown to meet:
 
-\(A\) The strength requirements of §25.305(b) at an ultimate load corresponding to a casting factor of 1.25; and
+\(A\) The strength requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](b) at an ultimate load corresponding to a casting factor of 1.25; and
 
-\(B\) The deformation requirements of §25.305(a) at a load of 1.15 times the limit load.
+\(B\) The deformation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](a) at a load of 1.15 times the limit load.
 
 \(3\) A casting factor of 1.50 or greater may be used, provided that—
 
@@ -3133,9 +3133,9 @@ The factor of safety prescribed in §25.303 must be multiplied by the highest pe
 
 \(ii\) One casting undergoes a static test and is shown to meet:
 
-\(A\) The strength requirements of §25.305(b) at an ultimate load corresponding to a casting factor of 1.50; and
+\(A\) The strength requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](b) at an ultimate load corresponding to a casting factor of 1.50; and
 
-\(B\) The deformation requirements of §25.305(a) at a load of 1.15 times the limit load.
+\(B\) The deformation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](a) at a load of 1.15 times the limit load.
 
 \(d\) *Non-critical castings.* For each casting other than critical castings, as specified in paragraph (c) of this section, the following apply:
 
@@ -3149,7 +3149,7 @@ The factor of safety prescribed in §25.303 must be multiplied by the highest pe
 
 \(B\) Inspection of structurally significant internal areas and areas where defects are likely to occur, using radiographic or equivalent inspection methods.
 
-\(iii\) Three sample castings undergo static tests and are shown to meet the strength and deformation requirements of §25.305(a) and (b).
+\(iii\) Three sample castings undergo static tests and are shown to meet the strength and deformation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.305   Strength and deformation.|§25.305]](a) and (b).
 
 \(2\) A casting factor of 1.25 or greater may be used, provided that each casting receives:
 
@@ -3191,7 +3191,7 @@ For each fitting (a part or terminal used to join one structural member to anoth
 
 \(c\) For each integral fitting, the part must be treated as a fitting up to the point at which the section properties become typical of the member.
 
-\(d\) For each seat, berth, safety belt, and harness, the fitting factor specified in §25.785(f)(3) applies.
+\(d\) For each seat, berth, safety belt, and harness, the fitting factor specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]](f)(3) applies.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5674, Apr. 8, 1970; Amdt. 25-72, 55 FR 29776, July 20, 1990\]
 
@@ -3203,9 +3203,9 @@ For each fitting (a part or terminal used to join one structural member to anoth
 
 \(1\) For normal conditions without failures, malfunctions, or adverse conditions, all combinations of altitudes and speeds encompassed by the VD/MD versus altitude envelope enlarged at all points by an increase of 15 percent in equivalent airspeed at both constant Mach number and constant altitude. In addition, a proper margin of stability must exist at all speeds up to VD/MD and, there must be no large and rapid reduction in stability as VD/MD is approached. The enlarged envelope may be limited to Mach 1.0 when MD is less than 1.0 at all design altitudes, and
 
-\(2\) For the conditions described in §25.629(d) below, for all approved altitudes, any airspeed up to the greater airspeed defined by;
+\(2\) For the conditions described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.629   Aeroelastic stability requirements.|§25.629]](d) below, for all approved altitudes, any airspeed up to the greater airspeed defined by;
 
-\(i\) The VD/MD envelope determined by §25.335(b); or,
+\(i\) The VD/MD envelope determined by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](b); or,
 
 \(ii\) An altitude-airspeed envelope defined by a 15 percent increase in equivalent airspeed above VC at constant altitude, from sea level to the altitude of the intersection of 1.15 VC with the extension of the constant cruise Mach number line, MC, then a linear variation in equivalent airspeed to MC + .05 at the altitude of the lowest VC/MC intersection; then, at higher altitudes, up to the maximum flight altitude, the boundary defined by a .05 Mach increase in MC at constant altitude.
 
@@ -3227,13 +3227,13 @@ For each fitting (a part or terminal used to join one structural member to anoth
 
 \(7\) Any single propeller or rotating device capable of significant dynamic forces rotating at the highest likely overspeed.
 
-\(8\) Any damage or failure condition, required or selected for investigation by §25.571. The single structural failures described in paragraphs (d)(4) and (d)(5) of this section need not be considered in showing compliance with this section if;
+\(8\) Any damage or failure condition, required or selected for investigation by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]]. The single structural failures described in paragraphs (d)(4) and (d)(5) of this section need not be considered in showing compliance with this section if;
 
-\(i\) The structural element could not fail due to discrete source damage resulting from the conditions described in §25.571(e), and
+\(i\) The structural element could not fail due to discrete source damage resulting from the conditions described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](e), and
 
-\(ii\) A damage tolerance investigation in accordance with §25.571(b) shows that the maximum extent of damage assumed for the purpose of residual strength evaluation does not involve complete failure of the structural element.
+\(ii\) A damage tolerance investigation in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]](b) shows that the maximum extent of damage assumed for the purpose of residual strength evaluation does not involve complete failure of the structural element.
 
-\(9\) Any damage, failure, or malfunction considered under §§25.631, 25.671, 25.672, and 25.1309.
+\(9\) Any damage, failure, or malfunction considered under §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.631   Bird strike damage.|§25.631]], 25.671, 25.672, and 25.1309.
 
 \(10\) Any other combination of failures, malfunctions, or adverse conditions not shown to be extremely improbable.
 
@@ -3243,7 +3243,7 @@ For each fitting (a part or terminal used to join one structural member to anoth
 
 ### §25.631   Bird strike damage.
 
-The empennage structure must be designed to assure capability of continued safe flight and landing of the airplane after impact with an 8-pound bird when the velocity of the airplane (relative to the bird along the airplane's flight path) is equal to *VC* at sea level, selected under §25.335(a). Compliance with this section by provision of redundant structure and protected location of control system elements or protective devices such as splitter plates or energy absorbing material is acceptable. Where compliance is shown by analysis, tests, or both, use of data on airplanes having similar structural design is acceptable.
+The empennage structure must be designed to assure capability of continued safe flight and landing of the airplane after impact with an 8-pound bird when the velocity of the airplane (relative to the bird along the airplane's flight path) is equal to *VC* at sea level, selected under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](a). Compliance with this section by provision of redundant structure and protected location of control system elements or protective devices such as splitter plates or energy absorbing material is acceptable. Where compliance is shown by analysis, tests, or both, use of data on airplanes having similar structural design is acceptable.
 
 \[Amdt. 25-23, 35 FR 5674, Apr. 8, 1970\]
 
@@ -3253,13 +3253,13 @@ The empennage structure must be designed to assure capability of continued safe 
 
 \(a\) Limit load tests of control surfaces are required. These tests must include the horn or fitting to which the control system is attached.
 
-\(b\) Compliance with the special factors requirements of §§25.619 through 25.625 and 25.657 for control surface hinges must be shown by analysis or individual load tests.
+\(b\) Compliance with the special factors requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.619   Special factors.|§25.619]] through 25.625 and 25.657 for control surface hinges must be shown by analysis or individual load tests.
 
 ### §25.655   Installation.
 
 \(a\) Movable tail surfaces must be installed so that there is no interference between any surfaces when one is held in its extreme position and the others are operated through their full angular movement.
 
-\(b\) If an adjustable stabilizer is used, it must have stops that will limit its range of travel to the maximum for which the airplane is shown to meet the trim requirements of §25.161.
+\(b\) If an adjustable stabilizer is used, it must have stops that will limit its range of travel to the maximum for which the airplane is shown to meet the trim requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.161   Trim.|§25.161]].
 
 ### §25.657   Hinges.
 
@@ -3291,11 +3291,11 @@ The empennage structure must be designed to assure capability of continued safe 
 
 ### §25.672   Stability augmentation and automatic and power-operated systems.
 
-If the functioning of stability augmentation or other automatic or power-operated systems is necessary to show compliance with the flight characteristics requirements of this part, such systems must comply with §25.671 and the following:
+If the functioning of stability augmentation or other automatic or power-operated systems is necessary to show compliance with the flight characteristics requirements of this part, such systems must comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.671   General.|§25.671]] and the following:
 
 \(a\) A warning which is clearly distinguishable to the pilot under expected flight conditions without requiring his attention must be provided for any failure in the stability augmentation system or in any other automatic or power-operated system which could result in an unsafe condition if the pilot were not aware of the failure. Warning systems must not activate the control systems.
 
-\(b\) The design of the stability augmentation system or of any other automatic or power-operated system must permit initial counteraction of failures of the type specified in §25.671(c) without requiring exceptional pilot skill or strength, by either the deactivation of the system, or a failed portion thereof, or by overriding the failure by movement of the flight controls in the normal sense.
+\(b\) The design of the stability augmentation system or of any other automatic or power-operated system must permit initial counteraction of failures of the type specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.671   General.|§25.671]](c) without requiring exceptional pilot skill or strength, by either the deactivation of the system, or a failed portion thereof, or by overriding the failure by movement of the flight controls in the normal sense.
 
 \(c\) It must be shown that after any single failure of the stability augmentation system or any other automatic or power-operated system—
 
@@ -3411,7 +3411,7 @@ Control system joints (in push-pull systems) that are subject to angular motion,
 
 ### §25.697   Lift and drag devices, controls.
 
-\(a\) Each lift device control must be designed so that the pilots can place the device in any takeoff, en route, approach, or landing position established under §25.101(d). Lift and drag devices must maintain the selected positions, except for movement produced by an automatic positioning or load limiting device, without further attention by the pilots.
+\(a\) Each lift device control must be designed so that the pilots can place the device in any takeoff, en route, approach, or landing position established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]](d). Lift and drag devices must maintain the selected positions, except for movement produced by an automatic positioning or load limiting device, without further attention by the pilots.
 
 \(b\) Each lift and drag device control must be designed and located to make inadvertent operation improbable. Lift and drag devices intended for ground operation only must have means to prevent the inadvertant operation of their controls in flight if that operation could be hazardous.
 
@@ -3451,7 +3451,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 \(1\) The wing flaps or leading edge devices are not within the approved range of takeoff positions.
 
-\(2\) Wing spoilers (except lateral control spoilers meeting the requirements of §25.671), speed brakes, or longitudinal trim devices are in a position that would not allow a safe takeoff.
+\(2\) Wing spoilers (except lateral control spoilers meeting the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.671   General.|§25.671]]), speed brakes, or longitudinal trim devices are in a position that would not allow a safe takeoff.
 
 \(b\) The warning required by paragraph (a) of this section must continue until—
 
@@ -3493,7 +3493,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 ### §25.723   Shock absorption tests.
 
-\(a\) The analytical representation of the landing gear dynamic characteristics that is used in determining the landing loads must be validated by energy absorption tests. A range of tests must be conducted to ensure that the analytical representation is valid for the design conditions specified in §25.473.
+\(a\) The analytical representation of the landing gear dynamic characteristics that is used in determining the landing loads must be validated by energy absorption tests. A range of tests must be conducted to ensure that the analytical representation is valid for the design conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.473   Landing load conditions and assumptions.|§25.473]].
 
 \(1\) The configurations subjected to energy absorption tests at limit design conditions must include at least the design landing weight or the design takeoff weight, whichever produces the greater value of landing impact energy.
 
@@ -3517,7 +3517,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 \(ii\) The combination of friction loads, inertia loads, brake torque loads, air loads, and gyroscopic loads resulting from the wheels rotating at a peripheral speed equal to 1.23VSR (with the wing-flaps in take-off position at design take-off weight), occurring during retraction and extension at any airspeed up to 1.5 VSR1 (with the wing-flaps in the approach position at design landing weight), and
 
-\(iii\) Any load factor up to those specified in §25.345(a) for the wing-flaps extended condition.
+\(iii\) Any load factor up to those specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.345   High lift devices.|§25.345]](a) for the wing-flaps extended condition.
 
 \(2\) Unless there are other means to decelerate the airplane in flight at this speed, the landing gear, the retracting mechanism, and the airplane structure (including wheel well doors) must be designed to withstand the flight loads occurring with the landing gear in the extended position at any speed up to 0.67 *VC*.
 
@@ -3573,7 +3573,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 \(d\) *Overpressure burst prevention.* Means must be provided in each wheel to prevent wheel failure and tire burst that may result from excessive pressurization of the wheel and tire assembly.
 
-\(e\) *Braked wheels.* Each braked wheel must meet the applicable requirements of §25.735.
+\(e\) *Braked wheels.* Each braked wheel must meet the applicable requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.735   Brakes and braking systems.|§25.735]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-72, 55 FR 29777, July 20, 1990; Amdt. 25-107, 67 FR 20420, Apr. 24, 2002\]
 
@@ -3611,7 +3611,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 \(b\) *Brake system capability.* The brake system, associated systems and components must be designed and constructed so that:
 
-\(1\) If any electrical, pneumatic, hydraulic, or mechanical connecting or transmitting element fails, or if any single source of hydraulic or other brake operating energy supply is lost, it is possible to bring the airplane to rest with a braked roll stopping distance of not more than two times that obtained in determining the landing distance as prescribed in §25.125.
+\(1\) If any electrical, pneumatic, hydraulic, or mechanical connecting or transmitting element fails, or if any single source of hydraulic or other brake operating energy supply is lost, it is possible to bring the airplane to rest with a braked roll stopping distance of not more than two times that obtained in determining the landing distance as prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.125   Landing.|§25.125]].
 
 \(2\) Fluid lost from a brake hydraulic system following a failure in, or in the vicinity of, the brakes is insufficient to cause or support a hazardous fire on the ground or in flight.
 
@@ -3649,7 +3649,7 @@ A takeoff warning system must be installed and must meet the following requireme
 
 \(i\) *Brake wear indicators.* Means must be provided for each brake assembly to indicate when the heat sink is worn to the permissible limit. The means must be reliable and readily visible.
 
-\(j\) *Overtemperature burst prevention.* Means must be provided in each braked wheel to prevent a wheel failure, a tire burst, or both, that may result from elevated brake temperatures. Additionally, all wheels must meet the requirements of §25.731(d).
+\(j\) *Overtemperature burst prevention.* Means must be provided in each braked wheel to prevent a wheel failure, a tire burst, or both, that may result from elevated brake temperatures. Additionally, all wheels must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.731   Wheels.|§25.731]](d).
 
 \(k\) *Compatibility.* Compatibility of the wheel and brake assemblies with the airplane and its systems must be substantiated.
 
@@ -3671,7 +3671,7 @@ Each main float must have—
 
 ### §25.753   Main float design.
 
-Each main float must be approved and must meet the requirements of §25.521.
+Each main float must be approved and must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.521   General.|§25.521]].
 
 ### §25.755   Hulls.
 
@@ -3683,9 +3683,9 @@ Each main float must be approved and must meet the requirements of §25.521.
 
 ### §25.771   Pilot compartment.
 
-\(a\) Each pilot compartment and its equipment must allow the minimum flight crew (established under §25.1523) to perform their duties without unreasonable concentration or fatigue.
+\(a\) Each pilot compartment and its equipment must allow the minimum flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]) to perform their duties without unreasonable concentration or fatigue.
 
-\(b\) The primary controls listed in §25.779(a), excluding cables and control rods, must be located with respect to the propellers so that no member of the minimum flight crew (established under §25.1523), or part of the controls, lies in the region between the plane of rotation of any inboard propeller and the surface generated by a line passing through the center of the propeller hub making an angle of five degrees forward or aft of the plane of rotation of the propeller.
+\(b\) The primary controls listed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.779   Motion and effect of cockpit controls.|§25.779]](a), excluding cables and control rods, must be located with respect to the propellers so that no member of the minimum flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]), or part of the controls, lies in the region between the plane of rotation of any inboard propeller and the surface generated by a line passing through the center of the propeller hub making an angle of five degrees forward or aft of the plane of rotation of the propeller.
 
 \(c\) If provision is made for a second pilot, the airplane must be controllable with equal safety from either pilot seat.
 
@@ -3713,7 +3713,7 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(1\) Each pilot compartment must be arranged to give the pilots a sufficiently extensive, clear, and undistorted view, to enable them to safely perform any maneuvers within the operating limitations of the airplane, including taxiing takeoff, approach, and landing.
 
-\(2\) Each pilot compartment must be free of glare and reflection that could interfere with the normal duties of the minimum flight crew (established under §25.1523). This must be shown in day and night flight tests under nonprecipitation conditions.
+\(2\) Each pilot compartment must be free of glare and reflection that could interfere with the normal duties of the minimum flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]). This must be shown in day and night flight tests under nonprecipitation conditions.
 
 \(b\) *Precipitation conditions.* For precipitation conditions, the following apply:
 
@@ -3723,11 +3723,11 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(ii\) The icing conditions specified in Appendix C of this part and the following icing conditions specified in Appendix O of this part, if certification for flight in icing conditions is sought:
 
-\(A\) For airplanes certificated in accordance with §25.1420(a)(1), the icing conditions that the airplane is certified to safely exit following detection.
+\(A\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the icing conditions that the airplane is certified to safely exit following detection.
 
-\(B\) For airplanes certificated in accordance with §25.1420(a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
+\(B\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
 
-\(C\) For airplanes certificated in accordance with §25.1420(a)(3) and for airplanes not subject to §25.1420, all icing conditions.
+\(C\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(3) and for airplanes not subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]], all icing conditions.
 
 \(2\) No single failure of the systems used to provide the view required by paragraph (b)(1) of this section must cause the loss of that view by both pilots in the specified precipitation conditions.
 
@@ -3741,13 +3741,13 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(4\) The openable window specified in paragraph (b)(3) of this section need not be provided if it is shown that an area of the transparent surface will remain clear sufficient for at least one pilot to land the airplane safely in the event of—
 
-\(i\) Any system failure or combination of failures which is not extremely improbable, in accordance with §25.1309, under the precipitation conditions specified in paragraph (b)(1) of this section.
+\(i\) Any system failure or combination of failures which is not extremely improbable, in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]], under the precipitation conditions specified in paragraph (b)(1) of this section.
 
 \(ii\) An encounter with severe hail, birds, or insects.
 
 \(c\) *Internal windshield and window fogging.* The airplane must have a means to prevent fogging of the internal portions of the windshield and window panels over an area which would provide the visibility specified in paragraph (a) of this section under all internal and external ambient conditions, including precipitation conditions, in which the airplane is intended to be operated.
 
-\(d\) Fixed markers or other guides must be installed at each pilot station to enable the pilots to position themselves in their seats for an optimum combination of outside visibility and instrument scan. If lighted markers or guides are used they must comply with the requirements specified in §25.1381.
+\(d\) Fixed markers or other guides must be installed at each pilot station to enable the pilots to position themselves in their seats for an optimum combination of outside visibility and instrument scan. If lighted markers or guides are used they must comply with the requirements specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1381   Instrument lights.|§25.1381]].
 
 \(e\) *Vision systems with transparent displays.* A vision system with a transparent display surface located in the pilot's outside field of view, such as a head up-display, head mounted display, or other equivalent display, must meet the following requirements in nonprecipitation and precipitation conditions:
 
@@ -3765,7 +3765,7 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(a\) Internal panes must be made of nonsplintering material.
 
-\(b\) Windshield panes directly in front of the pilots in the normal conduct of their duties, and the supporting structures for these panes, must withstand, without penetration, the impact of a four-pound bird when the velocity of the airplane (relative to the bird along the airplane's flight path) is equal to the value of *VC,* at sea level, selected under §25.335(a).
+\(b\) Windshield panes directly in front of the pilots in the normal conduct of their duties, and the supporting structures for these panes, must withstand, without penetration, the impact of a four-pound bird when the velocity of the airplane (relative to the bird along the airplane's flight path) is equal to the value of *VC,* at sea level, selected under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](a).
 
 \(c\) Unless it can be shown by analysis or tests that the probability of occurrence of a critical windshield fragmentation condition is of a low order, the airplane must have a means to minimize the danger to the pilots from flying windshield fragments due to bird impact. This must be shown for each transparent pane in the cockpit that—
 
@@ -3775,7 +3775,7 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(3\) Has any part of the pane located where its fragmentation will constitute a hazard to the pilots.
 
-\(d\) The design of windshields and windows in pressurized airplanes must be based on factors peculiar to high altitude operation, including the effects of continuous and cyclic pressurization loadings, the inherent characteristics of the material used, and the effects of temperatures and temperature differentials. The windshield and window panels must be capable of withstanding the maximum cabin pressure differential loads combined with critical aerodynamic pressure and temperature effects after any single failure in the installation or associated systems. It may be assumed that, after a single failure that is obvious to the flight crew (established under §25.1523), the cabin pressure differential is reduced from the maximum, in accordance with appropriate operating limitations, to allow continued safe flight of the airplane with a cabin pressure altitude of not more than 15,000 feet.
+\(d\) The design of windshields and windows in pressurized airplanes must be based on factors peculiar to high altitude operation, including the effects of continuous and cyclic pressurization loadings, the inherent characteristics of the material used, and the effects of temperatures and temperature differentials. The windshield and window panels must be capable of withstanding the maximum cabin pressure differential loads combined with critical aerodynamic pressure and temperature effects after any single failure in the installation or associated systems. It may be assumed that, after a single failure that is obvious to the flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]), the cabin pressure differential is reduced from the maximum, in accordance with appropriate operating limitations, to allow continued safe flight of the airplane with a cabin pressure altitude of not more than 15,000 feet.
 
 \(e\) The windshield panels in front of the pilots must be arranged so that, assuming the loss of vision through any one panel, one or more panels remain available for use by a pilot seated at a pilot station to permit continued safe flight and landing.
 
@@ -3785,9 +3785,9 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(a\) Each cockpit control must be located to provide convenient operation and to prevent confusion and inadvertent operation.
 
-\(b\) The direction of movement of cockpit controls must meet the requirements of §25.779. Wherever practicable, the sense of motion involved in the operation of other controls must correspond to the sense of the effect of the operation upon the airplane or upon the part operated. Controls of a variable nature using a rotary motion must move clockwise from the off position, through an increasing range, to the full on position.
+\(b\) The direction of movement of cockpit controls must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.779   Motion and effect of cockpit controls.|§25.779]]. Wherever practicable, the sense of motion involved in the operation of other controls must correspond to the sense of the effect of the operation upon the airplane or upon the part operated. Controls of a variable nature using a rotary motion must move clockwise from the off position, through an increasing range, to the full on position.
 
-\(c\) The controls must be located and arranged, with respect to the pilots' seats, so that there is full and unrestricted movement of each control without interference from the cockpit structure or the clothing of the minimum flight crew (established under §25.1523) when any member of this flight crew, from 5′2″ to 6′3″ in height, is seated with the seat belt and shoulder harness (if provided) fastened.
+\(c\) The controls must be located and arranged, with respect to the pilots' seats, so that there is full and unrestricted movement of each control without interference from the cockpit structure or the clothing of the minimum flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]) when any member of this flight crew, from 5′2″ to 6′3″ in height, is seated with the seat belt and shoulder harness (if provided) fastened.
 
 \(d\) Identical powerplant controls for each engine must be located to prevent confusion as to the engines they control.
 
@@ -3795,9 +3795,9 @@ For an airplane that has a lockable door installed between the pilot compartment
 
 \(f\) The landing gear control must be located forward of the throttles and must be operable by each pilot when seated with seat belt and shoulder harness (if provided) fastened.
 
-\(g\) Control knobs must be shaped in accordance with §25.781. In addition, the knobs must be of the same color, and this color must contrast with the color of control knobs for other purposes and the surrounding cockpit.
+\(g\) Control knobs must be shaped in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.781   Cockpit control knob shape.|§25.781]]. In addition, the knobs must be of the same color, and this color must contrast with the color of control knobs for other purposes and the surrounding cockpit.
 
-\(h\) If a flight engineer is required as part of the minimum flight crew (established under §25.1523), the airplane must have a flight engineer station located and arranged so that the flight crewmembers can perform their functions efficiently and without interfering with each other.
+\(h\) If a flight engineer is required as part of the minimum flight crew (established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]), the airplane must have a flight engineer station located and arranged so that the flight crewmembers can perform their functions efficiently and without interfering with each other.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-46, 43 FR 50596, Oct. 30, 1978\]
 
@@ -3881,9 +3881,9 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 \(4\) All sources of power that could initiate unlocking or unlatching of any door must be automatically isolated from the latching and locking systems prior to flight and it must not be possible to restore power to the door during flight.
 
-\(5\) Each removable bolt, screw, nut, pin, or other removable fastener must meet the locking requirements of §25.607.
+\(5\) Each removable bolt, screw, nut, pin, or other removable fastener must meet the locking requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.607   Fasteners.|§25.607]].
 
-\(6\) Certain doors, as specified by §25.807(h), must also meet the applicable requirements of §§25.809 through 25.812 for emergency exits.
+\(6\) Certain doors, as specified by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](h), must also meet the applicable requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.809   Emergency exit arrangement.|§25.809]] through 25.812 for emergency exits.
 
 \(b\) *Opening by persons.* There must be a means to safeguard each door against opening during flight due to inadvertent action by persons. In addition, design precautions must be taken to minimize the possibility for a person to open a door intentionally during flight. If these precautions include the use of auxiliary devices, those devices and their controlling systems must be designed so that—
 
@@ -3963,7 +3963,7 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 \(4\) The open door during flight would not create aerodynamic interference that could preclude safe flight and landing.
 
-\(5\) The airplane would meet the structural design requirements with the door open. This assessment must include the aeroelastic stability requirements of §25.629, as well as the strength requirements of subpart C of this part.
+\(5\) The airplane would meet the structural design requirements with the door open. This assessment must include the aeroelastic stability requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.629   Aeroelastic stability requirements.|§25.629]], as well as the strength requirements of subpart C of this part.
 
 \(6\) The unlatching or opening of the door must not preclude safe flight and landing as a result of interaction with other systems or structures.
 
@@ -3973,7 +3973,7 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 \(a\) A seat (or berth for a nonambulant person) must be provided for each occupant who has reached his or her second birthday.
 
-\(b\) Each seat, berth, safety belt, harness, and adjacent part of the airplane at each station designated as occupiable during takeoff and landing must be designed so that a person making proper use of these facilities will not suffer serious injury in an emergency landing as a result of the inertia forces specified in §§25.561 and 25.562.
+\(b\) Each seat, berth, safety belt, harness, and adjacent part of the airplane at each station designated as occupiable during takeoff and landing must be designed so that a person making proper use of these facilities will not suffer serious injury in an emergency landing as a result of the inertia forces specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]] and 25.562.
 
 \(c\) Each seat or berth must be approved.
 
@@ -3985,15 +3985,15 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 \(3\) An energy absorbing rest that will support the arms, shoulders, head, and spine.
 
-\(e\) Each berth must be designed so that the forward part has a padded end board, canvas diaphragm, or equivalent means, that can withstand the static load reaction of the occupant when subjected to the forward inertia force specified in §25.561. Berths must be free from corners and protuberances likely to cause injury to a person occupying the berth during emergency conditions.
+\(e\) Each berth must be designed so that the forward part has a padded end board, canvas diaphragm, or equivalent means, that can withstand the static load reaction of the occupant when subjected to the forward inertia force specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]]. Berths must be free from corners and protuberances likely to cause injury to a person occupying the berth during emergency conditions.
 
-\(f\) Each seat or berth, and its supporting structure, and each safety belt or harness and its anchorage must be designed for an occupant weight of 170 pounds, considering the maximum load factors, inertia forces, and reactions among the occupant, seat, safety belt, and harness for each relevant flight and ground load condition (including the emergency landing conditions prescribed in §25.561). In addition—
+\(f\) Each seat or berth, and its supporting structure, and each safety belt or harness and its anchorage must be designed for an occupant weight of 170 pounds, considering the maximum load factors, inertia forces, and reactions among the occupant, seat, safety belt, and harness for each relevant flight and ground load condition (including the emergency landing conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]]). In addition—
 
 \(1\) The structural analysis and testing of the seats, berths, and their supporting structures may be determined by assuming that the critical load in the forward, sideward, downward, upward, and rearward directions (as determined from the prescribed flight, ground, and emergency landing conditions) acts separately or using selected combinations of loads if the required strength in each specified direction is substantiated. The forward load factor need not be applied to safety belts for berths.
 
-\(2\) Each pilot seat must be designed for the reactions resulting from the application of the pilot forces prescribed in §25.395.
+\(2\) Each pilot seat must be designed for the reactions resulting from the application of the pilot forces prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.395   Control system.|§25.395]].
 
-\(3\) The inertia forces specified in §25.561 must be multiplied by a factor of 1.33 (instead of the fitting factor prescribed in §25.625) in determining the strength of the attachment of each seat to the structure and each belt or harness to the seat or structure.
+\(3\) The inertia forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]] must be multiplied by a factor of 1.33 (instead of the fitting factor prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.625   Fitting factors.|§25.625]]) in determining the strength of the attachment of each seat to the structure and each belt or harness to the seat or structure.
 
 \(g\) Each seat at a flight deck station must have a restraint system consisting of a combined safety belt and shoulder harness with a single-point release that permits the flight deck occupant, when seated with the restraint system fastened, to perform all of the occupant's necessary flight deck functions. There must be a means to secure each combined restraint system when not in use to prevent interference with the operation of the airplane and with rapid egress in an emergency.
 
@@ -4023,7 +4023,7 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 ### §25.787   Stowage compartments.
 
-\(a\) Each compartment for the stowage of cargo, baggage, carry-on articles, and equipment (such as life rafts), and any other stowage compartment, must be designed for its placarded maximum weight of contents and for the critical load distribution at the appropriate maximum load factors corresponding to the specified flight and ground load conditions, and to those emergency landing conditions of §25.561(b)(3) for which the breaking loose of the contents of such compartments in the specified direction could—
+\(a\) Each compartment for the stowage of cargo, baggage, carry-on articles, and equipment (such as life rafts), and any other stowage compartment, must be designed for its placarded maximum weight of contents and for the critical load distribution at the appropriate maximum load factors corresponding to the specified flight and ground load conditions, and to those emergency landing conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3) for which the breaking loose of the contents of such compartments in the specified direction could—
 
 \(1\) Cause direct injury to occupants;
 
@@ -4039,9 +4039,9 @@ Cockpit control knobs must conform to the general shapes (but not necessarily th
 
 ### §25.789   Retention of items of mass in passenger and crew compartments and galleys.
 
-\(a\) Means must be provided to prevent each item of mass (that is part of the airplane type design) in a passenger or crew compartment or galley from becoming a hazard by shifting under the appropriate maximum load factors corresponding to the specified flight and ground load conditions, and to the emergency landing conditions of §25.561(b).
+\(a\) Means must be provided to prevent each item of mass (that is part of the airplane type design) in a passenger or crew compartment or galley from becoming a hazard by shifting under the appropriate maximum load factors corresponding to the specified flight and ground load conditions, and to the emergency landing conditions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b).
 
-\(b\) Each interphone restraint system must be designed so that when subjected to the load factors specified in §25.561(b)(3), the interphone will remain in its stowed position.
+\(b\) Each interphone restraint system must be designed so that when subjected to the load factors specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3), the interphone will remain in its stowed position.
 
 \[Amdt. 25-32, 37 FR 3969, Feb. 24, 1972, as amended by Amdt. 25-46, 43 FR 50596, Oct. 30, 1978\]
 
@@ -4141,13 +4141,13 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 ### §25.801   Ditching.
 
-\(a\) If certification with ditching provisions is requested, the airplane must meet the requirements of this section and §§25.807(e), 25.1411, and 25.1415(a).
+\(a\) If certification with ditching provisions is requested, the airplane must meet the requirements of this section and §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](e), 25.1411, and 25.1415(a).
 
 \(b\) Each practicable design measure, compatible with the general characteristics of the airplane, must be taken to minimize the probability that in an emergency landing on water, the behavior of the airplane would cause immediate injury to the occupants or would make it impossible for them to escape.
 
 \(c\) The probable behavior of the airplane in a water landing must be investigated by model tests or by comparison with airplanes of similar configuration for which the ditching characteristics are known. Scoops, flaps, projections, and any other factor likely to affect the hydrodynamic characteristics of the airplane, must be considered.
 
-\(d\) It must be shown that, under reasonably probable water conditions, the flotation time and trim of the airplane will allow the occupants to leave the airplane and enter the liferafts required by §25.1415. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the airplane has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume.
+\(d\) It must be shown that, under reasonably probable water conditions, the flotation time and trim of the airplane will allow the occupants to leave the airplane and enter the liferafts required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1415   Ditching equipment.|§25.1415]]. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the airplane has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume.
 
 \(e\) Unless the effects of the collapse of external doors and windows are accounted for in the investigation of the probable behavior of the airplane in a water landing (as prescribed in paragraphs (c) and (d) of this section), the external doors and windows must be designed to withstand the probable maximum local pressures.
 
@@ -4235,11 +4235,11 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(i\) For a ventral exit, 12 additional passenger seats.
 
-\(ii\) For a tailcone exit incorporating a floor level opening of not less than 20 inches wide by 60 inches high, with corner radii not greater than seven inches, in the pressure shell and incorporating an approved assist means in accordance with §25.810(a), 25 additional passenger seats.
+\(ii\) For a tailcone exit incorporating a floor level opening of not less than 20 inches wide by 60 inches high, with corner radii not greater than seven inches, in the pressure shell and incorporating an approved assist means in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a), 25 additional passenger seats.
 
 \(iii\) For a tailcone exit incorporating an opening in the pressure shell which is at least equivalent to a Type III emergency exit with respect to dimensions, step-up and step-down distance, and with the top of the opening not less than 56 inches from the passenger compartment floor, 15 additional passenger seats.
 
-\(h\) *Other exits.* The following exits also must meet the applicable emergency exit requirements of §§25.809 through 25.812, and must be readily accessible:
+\(h\) *Other exits.* The following exits also must meet the applicable emergency exit requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.809   Emergency exit arrangement.|§25.809]] through 25.812, and must be readily accessible:
 
 \(1\) Each emergency exit in the passenger compartment in excess of the minimum number of required emergency exits.
 
@@ -4305,7 +4305,7 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(iv\) It must have the capability, in 25-knot winds directed from the most critical angle, to deploy and, with the assistance of only one person, to remain usable after full deployment to evacuate occupants safely to the ground.
 
-\(v\) For each system installation (mockup or airplane installed), five consecutive deployment and inflation tests must be conducted (per exit) without failure, and at least three tests of each such five-test series must be conducted using a single representative sample of the device. The sample devices must be deployed and inflated by the system's primary means after being subjected to the inertia forces specified in §25.561(b). If any part of the system fails or does not function properly during the required tests, the cause of the failure or malfunction must be corrected by positive means and after that, the full series of five consecutive deployment and inflation tests must be conducted without failure.
+\(v\) For each system installation (mockup or airplane installed), five consecutive deployment and inflation tests must be conducted (per exit) without failure, and at least three tests of each such five-test series must be conducted using a single representative sample of the device. The sample devices must be deployed and inflated by the system's primary means after being subjected to the inertia forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b). If any part of the system fails or does not function properly during the required tests, the cause of the failure or malfunction must be corrected by positive means and after that, the full series of five consecutive deployment and inflation tests must be conducted without failure.
 
 \(2\) The assisting means for flightcrew emergency exits may be a rope or any other means demonstrated to be suitable for the purpose. If the assisting means is a rope, or an approved device equivalent to a rope, it must be—
 
@@ -4333,7 +4333,7 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(e\) If an integral stair is installed in a passenger entry door that is qualified as a passenger emergency exit, the stair must be designed so that, under the following conditions, the effectiveness of passenger emergency egress will not be impaired:
 
-\(1\) The door, integral stair, and operating mechanism have been subjected to the inertia forces specified in §25.561(b)(3), acting separately relative to the surrounding structure.
+\(1\) The door, integral stair, and operating mechanism have been subjected to the inertia forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3), acting separately relative to the surrounding structure.
 
 \(2\) The airplane is in the normal ground attitude and in each of the attitudes corresponding to collapse of one or more legs of the landing gear.
 
@@ -4399,11 +4399,11 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(1\) For airplanes that have a passenger seating configuration, excluding pilot seats, of 10 seats or more must meet the following requirements:
 
-\(i\) Each passenger emergency exit locator sign required by §25.811(d)(1) and each passenger emergency exit marking sign required by §25.811(d)(2) must have red letters at least 11⁄2 inches high on an illuminated white background, and must have an area of at least 21 square inches excluding the letters. The lighted background-to-letter contrast must be at least 10:1. The letter height to stroke-width ratio may not be more than 7:1 nor less than 6:1. These signs must be internally electrically illuminated with a background brightness of at least 25 foot-lamberts and a high-to-low background contrast no greater than 3:1.
+\(i\) Each passenger emergency exit locator sign required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(1) and each passenger emergency exit marking sign required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(2) must have red letters at least 11⁄2 inches high on an illuminated white background, and must have an area of at least 21 square inches excluding the letters. The lighted background-to-letter contrast must be at least 10:1. The letter height to stroke-width ratio may not be more than 7:1 nor less than 6:1. These signs must be internally electrically illuminated with a background brightness of at least 25 foot-lamberts and a high-to-low background contrast no greater than 3:1.
 
-\(ii\) Each passenger emergency exit sign required by §25.811(d)(3) must have red letters at least 11⁄2 inches high on a white background having an area of at least 21 square inches excluding the letters. These signs must be internally electrically illuminated or self-illuminated by other than electrical means and must have an initial brightness of at least 400 microlamberts. The colors may be reversed in the case of a sign that is self-illuminated by other than electrical means.
+\(ii\) Each passenger emergency exit sign required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(3) must have red letters at least 11⁄2 inches high on a white background having an area of at least 21 square inches excluding the letters. These signs must be internally electrically illuminated or self-illuminated by other than electrical means and must have an initial brightness of at least 400 microlamberts. The colors may be reversed in the case of a sign that is self-illuminated by other than electrical means.
 
-\(2\) For airplanes that have a passenger seating configuration, excluding pilot seats, of nine seats or less, that are required by §25.811(d)(1), (2), and (3) must have red letters at least 1 inch high on a white background at least 2 inches high. These signs may be internally electrically illuminated, or self-illuminated by other than electrical means, with an initial brightness of at least 160 microlamberts. The colors may be reversed in the case of a sign that is self-illuminated by other than electrical means.
+\(2\) For airplanes that have a passenger seating configuration, excluding pilot seats, of nine seats or less, that are required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(1), (2), and (3) must have red letters at least 1 inch high on a white background at least 2 inches high. These signs may be internally electrically illuminated, or self-illuminated by other than electrical means, with an initial brightness of at least 160 microlamberts. The colors may be reversed in the case of a sign that is self-illuminated by other than electrical means.
 
 \(c\) General illumination in the passenger cabin must be provided so that when measured along the centerline of main passenger aisle(s), and cross aisle(s) between main aisles, at seat arm-rest height and at 40-inch intervals, the average illumination is not less than 0.05 foot-candle and the illumination at each 40-inch interval is not less than 0.01 foot-candle. A main passenger aisle(s) is considered to extend along the fuselage from the most forward passenger emergency exit or cabin occupant seat, whichever is farther forward, to the most rearward passenger emergency exit or cabin occupant seat, whichever is farther aft.
 
@@ -4429,13 +4429,13 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(i\) Not less than 0.03 foot-candle (measured normal to the direction of the incident light) on a 2-square-foot area where an evacuee is likely to make his first step outside the cabin;
 
-\(ii\) Not less than 0.05 foot-candle (measured normal to the direction of the incident light) for a minimum width of 42 inches for a Type A overwing emergency exit and two feet for all other overwing emergency exits along the 30 percent of the slip-resistant portion of the escape route required in §25.810(c) that is farthest from the exit; and
+\(ii\) Not less than 0.05 foot-candle (measured normal to the direction of the incident light) for a minimum width of 42 inches for a Type A overwing emergency exit and two feet for all other overwing emergency exits along the 30 percent of the slip-resistant portion of the escape route required in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](c) that is farthest from the exit; and
 
 \(iii\) Not less than 0.03 foot-candle on the ground surface with the landing gear extended (measured normal to the direction of the incident light) where an evacuee using the established escape route would normally make first contact with the ground.
 
-\(2\) At each non-overwing emergency exit not required by §25.810(a) to have descent assist means the illumination must be not less than 0.03 foot-candle (measured normal to the direction of the incident light) on the ground surface with the landing gear extended where an evacuee is likely to make first contact with the ground outside the cabin.
+\(2\) At each non-overwing emergency exit not required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a) to have descent assist means the illumination must be not less than 0.03 foot-candle (measured normal to the direction of the incident light) on the ground surface with the landing gear extended where an evacuee is likely to make first contact with the ground outside the cabin.
 
-\(h\) The means required in §§25.810(a)(1) and (d) to assist the occupants in descending to the ground must be illuminated so that the erected assist means is visible from the airplane.
+\(h\) The means required in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a)(1) and (d) to assist the occupants in descending to the ground must be illuminated so that the erected assist means is visible from the airplane.
 
 \(1\) If the assist means is illuminated by exterior emergency lighting, it must provide illumination of not less than 0.03 foot-candle (measured normal to the direction of the incident light) at the ground end of the erected assist means where an evacuee using the established escape route would normally make first contact with the ground, with the airplane in each of the attitudes corresponding to the collapse of one or more legs of the landing gear.
 
@@ -4449,13 +4449,13 @@ The floor surface of all areas which are likely to become wet in service must ha
 
 \(j\) If storage batteries are used as the energy supply for the emergency lighting system, they may be recharged from the airplane's main electric power system: *Provided,* That, the charging circuit is designed to preclude inadvertent battery discharge into charging circuit faults.
 
-\(k\) Components of the emergency lighting system, including batteries, wiring relays, lamps, and switches must be capable of normal operation after having been subjected to the inertia forces listed in §25.561(b).
+\(k\) Components of the emergency lighting system, including batteries, wiring relays, lamps, and switches must be capable of normal operation after having been subjected to the inertia forces listed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b).
 
 \(l\) The emergency lighting system must be designed so that after any single transverse vertical separation of the fuselage during crash landing—
 
 \(1\) Not more than 25 percent of all electrically illuminated emergency lights required by this section are rendered inoperative, in addition to the lights that are directly damaged by the separation;
 
-\(2\) Each electrically illuminated exit sign required under §25.811(d)(2) remains operative exclusive of those that are directly damaged by the separation; and
+\(2\) Each electrically illuminated exit sign required under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]](d)(2) remains operative exclusive of those that are directly damaged by the separation; and
 
 \(3\) At least one required exterior emergency light for each side of the airplane remains operative exclusive of those that are directly damaged by the separation.
 
@@ -4475,13 +4475,13 @@ Each required emergency exit must be accessible to the passengers and located wh
 
 \(1\) Each assist space must be a rectangle on the floor, of sufficient size to enable a crewmember, standing erect, to effectively assist evacuees. The assist space must not reduce the unobstructed width of the passageway below that required for the exit.
 
-\(2\) For each Type A or B exit, assist space must be provided at each side of the exit regardless of whether an assist means is required by §25.810(a).
+\(2\) For each Type A or B exit, assist space must be provided at each side of the exit regardless of whether an assist means is required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a).
 
-\(3\) For each Type C, I or II exit installed in an airplane with seating for more than 80 passengers, an assist space must be provided at one side of the passageway regardless of whether an assist means is required by §25.810(a).
+\(3\) For each Type C, I or II exit installed in an airplane with seating for more than 80 passengers, an assist space must be provided at one side of the passageway regardless of whether an assist means is required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a).
 
-\(4\) For each Type C, I or II exit, an assist space must be provided at one side of the passageway if an assist means is required by §25.810(a).
+\(4\) For each Type C, I or II exit, an assist space must be provided at one side of the passageway if an assist means is required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a).
 
-\(5\) For any tailcone exit that qualifies for 25 additional passenger seats under the provisions of §25.807(g)(9)(ii), an assist space must be provided, if an assist means is required by §25.810(a).
+\(5\) For any tailcone exit that qualifies for 25 additional passenger seats under the provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.807   Emergency exits.|§25.807]](g)(9)(ii), an assist space must be provided, if an assist means is required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a).
 
 \(6\) There must be a handle, or handles, at each assist space, located to enable the crewmember to steady himself or herself:
 
@@ -4513,7 +4513,7 @@ Each required emergency exit must be accessible to the passengers and located wh
 
 \(e\) No door may be installed between any passenger seat that is occupiable for takeoff and landing and any passenger emergency exit, such that the door crosses any egress path (including aisles, crossaisles and passageways).
 
-\(f\) If it is necessary to pass through a doorway separating any crewmember seat (except those seats on the flightdeck), occupiable for takeoff and landing, from any emergency exit, the door must have a means to latch it in the open position. The latching means must be able to withstand the loads imposed upon it when the door is subjected to the ultimate inertia forces, relative to the surrounding structure, listed in §25.561(b).
+\(f\) If it is necessary to pass through a doorway separating any crewmember seat (except those seats on the flightdeck), occupiable for takeoff and landing, from any emergency exit, the door must have a means to latch it in the open position. The latching means must be able to withstand the loads imposed upon it when the door is subjected to the ultimate inertia forces, relative to the surrounding structure, listed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b).
 
 \[Amdt. 25-1, 30 FR 3204, Mar. 9, 1965, as amended by Amdt. 25-15, 32 FR 13265, Sept. 20, 1967; Amdt. 25-32, 37 FR 3971, Feb. 24, 1972; Amdt. 25-46, 43 FR 50597, Oct. 30, 1978; Amdt. 25-72, 55 FR 29783, July 20, 1990; Amdt. 25-76, 57 FR 19244, May 4, 1992; Amdt. 25-76, 57 FR 29120, June 30, 1992; Amdt. 25-88, 61 FR 57958, Nov. 8, 1996; Amdt. 25-116, 69 FR 62788, Oct. 27, 2004; Amdt. 25-128, 74 FR 25645, May 29, 2009\]
 
@@ -4559,7 +4559,7 @@ For airplanes with a service compartment located below the main deck, which may 
 
 \(e\) If a public address system is installed in the airplane, speakers must be provided in each lower deck service compartment.
 
-\(f\) For each occupant permitted in a lower deck service compartment, there must be a forward or aft facing seat which meets the requirements of §25.785(d), and must be able to withstand maximum flight loads when occupied.
+\(f\) For each occupant permitted in a lower deck service compartment, there must be a forward or aft facing seat which meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.785   Seats, berths, safety belts, and harnesses.|§25.785]](d), and must be able to withstand maximum flight loads when occupied.
 
 \(g\) For each powered lift system installed between a lower deck service compartment and the main deck for the carriage of persons or equipment, or both, the system must meet the following requirements:
 
@@ -4671,13 +4671,13 @@ Combustion heaters must be approved.
 
 \(7\) A warning placard at the pilot or flight engineer station if the structure is not designed for pressure differentials up to the maximum relief valve setting in combination with landing loads.
 
-\(8\) The pressure sensors necessary to meet the requirements of paragraphs (b)(5) and (b)(6) of this section and §25.1447(c), must be located and the sensing system designed so that, in the event of loss of cabin pressure in any passenger or crew compartment (including upper and lower lobe galleys), the warning and automatic presentation devices, required by those provisions, will be actuated without any delay that would significantly increase the hazards resulting from decompression.
+\(8\) The pressure sensors necessary to meet the requirements of paragraphs (b)(5) and (b)(6) of this section and [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1447   Equipment standards for oxygen dispensing units.|§25.1447]](c), must be located and the sensing system designed so that, in the event of loss of cabin pressure in any passenger or crew compartment (including upper and lower lobe galleys), the warning and automatic presentation devices, required by those provisions, will be actuated without any delay that would significantly increase the hazards resulting from decompression.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-87, 61 FR 28696, June 5, 1996\]
 
 ### §25.843   Tests for pressurized cabins.
 
-\(a\) *Strength test.* The complete pressurized cabin, including doors, windows, and valves, must be tested as a pressure vessel for the pressure differential specified in §25.365(d).
+\(a\) *Strength test.* The complete pressurized cabin, including doors, windows, and valves, must be tested as a pressure vessel for the pressure differential specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.365   Pressurized compartment loads.|§25.365]](d).
 
 \(b\) *Functional tests.* The following functional tests must be performed:
 
@@ -4775,9 +4775,9 @@ For airplanes with a passenger capacity of 20 or more:
 
 For each cargo or baggage compartment, the following apply:
 
-\(a\) The compartment must meet one of the class requirements of §25.857.
+\(a\) The compartment must meet one of the class requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.857   Cargo compartment classification.|§25.857]].
 
-\(b\) Each of the following cargo or baggage compartments, as defined in §25.857, must have a liner that is separate from, but may be attached to, the airplane structure:
+\(b\) Each of the following cargo or baggage compartments, as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.857   Cargo compartment classification.|§25.857]], must have a liner that is separate from, but may be attached to, the airplane structure:
 
 \(1\) Any Class B through Class E cargo or baggage compartment, and
 
@@ -4797,7 +4797,7 @@ For each cargo or baggage compartment, the following apply:
 
 \(g\) Sources of heat within the compartment must be shielded and insulated to prevent igniting the cargo or baggage.
 
-\(h\) Flight tests must be conducted to show compliance with the provisions of §25.857 concerning—
+\(h\) Flight tests must be conducted to show compliance with the provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.857   Cargo compartment classification.|§25.857]] concerning—
 
 \(1\) Compartment accessibility,
 
@@ -4807,7 +4807,7 @@ For each cargo or baggage compartment, the following apply:
 
 \(i\) During the above tests, it must be shown that no inadvertent operation of smoke or fire detectors in any compartment would occur as a result of fire contained in any other compartment, either during or after extinguishment, unless the extinguishing system floods each such compartment simultaneously.
 
-\(j\) Cargo or baggage compartment electrical wiring interconnection system components must meet the requirements of §25.1721.
+\(j\) Cargo or baggage compartment electrical wiring interconnection system components must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1721   Protection of EWIS.|§25.1721]].
 
 \[Amdt. 25-72, 55 FR 29784, July 20, 1990, as amended by Amdt. 25-93, 63 FR 8048, Feb. 17, 1998; Amdt. 25-116, 69 FR 62788, Oct. 27, 2004; Amdt. 25-123, 72 FR 63405, Nov. 8, 2007; Doc. No. Docket FAA-2014-0001, Amdt. 25-142, 81 FR 7704, Feb. 16, 2016\]
 
@@ -4885,7 +4885,7 @@ If certification with cargo or baggage compartment smoke or fire detection provi
 
 ### §25.859   Combustion heater fire protection.
 
-\(a\) *Combustion heater fire zones.* The following combustion heater fire zones must be protected from fire in accordance with the applicable provisions of §§25.1181 through 25.1191 and §§25.1195 through 25.1203;
+\(a\) *Combustion heater fire zones.* The following combustion heater fire zones must be protected from fire in accordance with the applicable provisions of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1181   Designated fire zones; regions included.|§25.1181]] through 25.1191 and §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1195   Fire extinguishing systems.|§25.1195]] through 25.1203;
 
 \(1\) The region surrounding the heater, if this region contains any flammable fluid system components (excluding the heater fuel system), that could—
 
@@ -4937,7 +4937,7 @@ If certification with cargo or baggage compartment smoke or fire detection provi
 
 \(2\) As a result of the malfunctioning of any other component.
 
-\(g\) *Heater exhaust.* Heater exhaust systems must meet the provisions of §§25.1121 and 25.1123. In addition, there must be provisions in the design of the heater exhaust system to safely expel the products of combustion to prevent the occurrence of—
+\(g\) *Heater exhaust.* Heater exhaust systems must meet the provisions of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1121   General.|§25.1121]] and 25.1123. In addition, there must be provisions in the design of the heater exhaust system to safely expel the products of combustion to prevent the occurrence of—
 
 \(1\) Fuel leakage from the exhaust to surrounding compartments;
 
@@ -4997,13 +4997,13 @@ Essential flight controls, engine mounts, and other flight structures located in
 
 \(a\) Electrical system components:
 
-\(1\) Components of the electrical system must meet the applicable fire and smoke protection requirements of §§25.831(c) and 25.863.
+\(1\) Components of the electrical system must meet the applicable fire and smoke protection requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.831   Ventilation.|§25.831]](c) and 25.863.
 
 \(2\) Equipment that is located in designated fire zones and is used during emergency procedures must be at least fire resistant.
 
-\(3\) EWIS components must meet the requirements of §25.1713.
+\(3\) EWIS components must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1713   Fire protection: EWIS.|§25.1713]].
 
-\(b\) Each vacuum air system line and fitting on the discharge side of the pump that might contain flammable vapors or fluids must meet the requirements of §25.1183 if the line or fitting is in a designated fire zone. Other vacuum air systems components in designated fire zones must be at least fire resistant.
+\(b\) Each vacuum air system line and fitting on the discharge side of the pump that might contain flammable vapors or fluids must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1183   Flammable fluid-carrying components.|§25.1183]] if the line or fitting is in a designated fire zone. Other vacuum air systems components in designated fire zones must be at least fire resistant.
 
 \(c\) Oxygen equipment and lines must—
 
@@ -5065,7 +5065,7 @@ There must be means for determining when the airplane is in a level position on 
 
 \(1\) The installation must comply with—
 
-\(i\) The installation instructions provided under §§33.5 and 35.3 of this chapter; and
+\(i\) The installation instructions provided under §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]] and 35.3 of this chapter; and
 
 \(ii\) The applicable provisions of this subpart;
 
@@ -5083,7 +5083,7 @@ There must be means for determining when the airplane is in a level position on 
 
 ### §25.903   Engines.
 
-\(a\) *Engine type certificate.* (1) Each engine must have a type certificate and must meet the applicable requirements of part 34 of this chapter.
+\(a\) *Engine type certificate.* (1) Each engine must have a type certificate and must meet the applicable requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]].
 
 \(2\) Each turbine engine must comply with one of the following:
 
@@ -5091,13 +5091,13 @@ There must be means for determining when the airplane is in a level position on 
 
 \(ii\) Sections 33.77 and 33.78 of this chapter in effect on April 30, 1998, or as subsequently amended before December 13, 2000; or
 
-\(iii\) Comply with §33.77 of this chapter in effect on October 31, 1974, or as subsequently amended prior to April 30, 1998, unless that engine's foreign object ingestion service history has resulted in an unsafe condition; or
+\(iii\) Comply with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.77   Foreign object ingestion—ice.|§33.77]] of this chapter in effect on October 31, 1974, or as subsequently amended prior to April 30, 1998, unless that engine's foreign object ingestion service history has resulted in an unsafe condition; or
 
 \(iv\) Be shown to have a foreign object ingestion service history in similar installation locations which has not resulted in any unsafe condition.
 
 <div>
 
-Note: §33.77 of this chapter in effect on October 31, 1974, was published in 14 CFR parts 1 to 59, Revised as of January 1, 1975. See 39 FR 35467, October 1, 1974.
+Note: [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.77   Foreign object ingestion—ice.|§33.77]] of this chapter in effect on October 31, 1974, was published in 14 CFR parts 1 to 59, Revised as of January 1, 1975. See 39 FR 35467, October 1, 1974.
 
 </div>
 
@@ -5147,7 +5147,7 @@ Each applicant seeking approval for installation of an engine power control syst
 
 \(b\) Engine power and propeller shaft rotational speed may not exceed the limits for which the propeller is certificated.
 
-\(c\) The propeller blade pitch control system must meet the requirements of §§35.21, 35.23, 35.42 and 35.43 of this chapter.
+\(c\) The propeller blade pitch control system must meet the requirements of §[[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.21   Variable and reversible pitch propellers.|§35.21]], 35.23, 35.42 and 35.43 of this chapter.
 
 \(d\) Design precautions must be taken to minimize the hazards to the airplane in the event a propeller blade fails or is released by a hub failure. The hazards which must be considered include damage to structure and vital systems due to impact of a failed or released blade and the unbalance created by such failure or release.
 
@@ -5165,7 +5165,7 @@ This section does not apply to fixed-pitch wood propellers of conventional desig
 
 \(b\) The applicant must demonstrate by tests, analysis based on tests, or previous experience on similar designs that the propeller does not experience harmful effects of flutter throughout the operational envelope of the airplane.
 
-\(c\) The applicant must perform an evaluation of the propeller to show that failure due to fatigue will be avoided throughout the operational life of the propeller using the fatigue and structural data obtained in accordance with part 35 of this chapter and the vibration data obtained from compliance with paragraph (a) of this section. For the purpose of this paragraph, the propeller includes the hub, blades, blade retention component and any other propeller component whose failure due to fatigue could be catastrophic to the airplane. This evaluation must include:
+\(c\) The applicant must perform an evaluation of the propeller to show that failure due to fatigue will be avoided throughout the operational life of the propeller using the fatigue and structural data obtained in accordance with [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md|part 35 of this chapter]] and the vibration data obtained from compliance with paragraph (a) of this section. For the purpose of this paragraph, the propeller includes the hub, blades, blade retention component and any other propeller component whose failure due to fatigue could be catastrophic to the airplane. This evaluation must include:
 
 \(1\) The intended loading spectra including all reasonably foreseeable propeller vibration and cyclic load patterns, identified emergency conditions, allowable overspeeds and overtorques, and the effects of temperatures and humidity expected in service.
 
@@ -5179,7 +5179,7 @@ Unless smaller clearances are substantiated, propeller clearances with the airpl
 
 \(a\) *Ground clearance.* There must be a clearance of at least seven inches (for each airplane with nose wheel landing gear) or nine inches (for each airplane with tail wheel landing gear) between each propeller and the ground with the landing gear statically deflected and in the level takeoff, or taxiing attitude, whichever is most critical. In addition, there must be positive clearance between the propeller and the ground when in the level takeoff attitude with the critical tire(s) completely deflated and the corresponding landing gear strut bottomed.
 
-\(b\) *Water clearance.* There must be a clearance of at least 18 inches between each propeller and the water, unless compliance with §25.239(a) can be shown with a lesser clearance.
+\(b\) *Water clearance.* There must be a clearance of at least 18 inches between each propeller and the water, unless compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.239   Spray characteristics, control, and stability on water.|§25.239]](a) can be shown with a lesser clearance.
 
 \(c\) *Structural clearance.* There must be—
 
@@ -5195,7 +5195,7 @@ Unless smaller clearances are substantiated, propeller clearances with the airpl
 
 \(a\) If certification for flight in icing is sought there must be a means to prevent or remove hazardous ice accumulations that could form in the icing conditions defined in Appendix C of this part and in the portions of Appendix O of this part for which the airplane is approved for flight on propellers or on accessories where ice accumulation would jeopardize engine performance.
 
-\(b\) If combustible fluid is used for propeller deicing, §§25.1181 through 25.1185 and 25.1189 apply.
+\(b\) If combustible fluid is used for propeller deicing, §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1181   Designated fire zones; regions included.|§25.1181]] through 25.1185 and 25.1189 apply.
 
 \[ Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-140, 79 FR 65525, Nov. 4, 2014\]
 
@@ -5217,19 +5217,19 @@ Unless smaller clearances are substantiated, propeller clearances with the airpl
 
 \(1\) Each system intended for ground operation only must be designed so that no single failure (or reasonably likely combination of failures) or malfunction of the system will result in unwanted reverse thrust under any expected operating condition. Failure of structural elements need not be considered if this kind of failure is extremely remote.
 
-\(2\) Compliance with this section may be shown by failure analysis or testing, or both, for propeller systems that allow propeller blades to move from the flight low-pitch position to a position that is substantially less than that at the normal flight low-pitch position. The analysis may include or be supported by the analysis made to show compliance with the requirements of §35.21 of this chapter for the propeller and associated installation components.
+\(2\) Compliance with this section may be shown by failure analysis or testing, or both, for propeller systems that allow propeller blades to move from the flight low-pitch position to a position that is substantially less than that at the normal flight low-pitch position. The analysis may include or be supported by the analysis made to show compliance with the requirements of [[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.21   Variable and reversible pitch propellers.|§35.21]] of this chapter for the propeller and associated installation components.
 
 \[Amdt. 25-72, 55 FR 29784, July 20, 1990\]
 
 ### §25.934   Turbojet engine thrust reverser system tests.
 
-Thrust reversers installed on turbojet engines must meet the requirements of §33.97 of this chapter.
+Thrust reversers installed on turbojet engines must meet the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.97   Thrust reversers.|§33.97]] of this chapter.
 
 \[Amdt. 25-23, 35 FR 5677, Apr. 8, 1970\]
 
 ### §25.937   Turbopropeller-drag limiting systems.
 
-Turbopropeller power airplane propeller-drag limiting systems must be designed so that no single failure or malfunction of any of the systems during normal or emergency operation results in propeller drag in excess of that for which the airplane was designed under §25.367. Failure of structural elements of the drag limiting systems need not be considered if the probability of this kind of failure is extremely remote.
+Turbopropeller power airplane propeller-drag limiting systems must be designed so that no single failure or malfunction of any of the systems during normal or emergency operation results in propeller drag in excess of that for which the airplane was designed under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.367   Unsymmetrical loads due to engine failure.|§25.367]]. Failure of structural elements of the drag limiting systems need not be considered if the probability of this kind of failure is extremely remote.
 
 ### §25.939   Turbine engine operating characteristics.
 
@@ -5249,13 +5249,13 @@ For airplanes using variable inlet or exhaust system geometry, or both—
 
 \(b\) The dynamic effects of the operation of these (including consideration of probable malfunctions) upon the aerodynamic control of the airplane may not result in any condition that would require exceptional skill, alertness, or strength on the part of the pilot to avoid exceeding an operational or structural limitation of the airplane; and
 
-\(c\) In showing compliance with paragraph (b) of this section, the pilot strength required may not exceed the limits set forth in §25.143(d), subject to the conditions set forth in paragraphs (e) and (f) of §25.143.
+\(c\) In showing compliance with paragraph (b) of this section, the pilot strength required may not exceed the limits set forth in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](d), subject to the conditions set forth in paragraphs (e) and (f) of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]].
 
 \[Amdt. 25-38, 41 FR 55467, Dec. 20, 1976, as amended by Amdt. 25-121, 72 FR 44669, Aug. 8, 2007\]
 
 ### §25.943   Negative acceleration.
 
-No hazardous malfunction of an engine, an auxiliary power unit approved for use in flight, or any component or system associated with the powerplant or auxiliary power unit may occur when the airplane is operated at the negative accelerations within the flight envelopes prescribed in §25.333. This must be shown for the greatest duration expected for the acceleration.
+No hazardous malfunction of an engine, an auxiliary power unit approved for use in flight, or any component or system associated with the powerplant or auxiliary power unit may occur when the airplane is operated at the negative accelerations within the flight envelopes prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]]. This must be shown for the greatest duration expected for the acceleration.
 
 \[Amdt. 25-40, 42 FR 15043, Mar. 17, 1977\]
 
@@ -5275,7 +5275,7 @@ No hazardous malfunction of an engine, an auxiliary power unit approved for use 
 
 \(5\) Each tank must have an expansion space of not less than 2 percent of the tank capacity. It must be impossible to fill the expansion space inadvertently with the airplane in the normal ground attitude.
 
-\(c\) Augmentation system drains must be designed and located in accordance with §25.1455 if—
+\(c\) Augmentation system drains must be designed and located in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1455   Draining of fluids subject to freezing.|§25.1455]] if—
 
 \(1\) The augmentation system fluid is subject to freezing; and
 
@@ -5301,7 +5301,7 @@ No hazardous malfunction of an engine, an auxiliary power unit approved for use 
 
 \(c\) Each fuel system for a turbine engine must be capable of sustained operation throughout its flow and pressure range with fuel initially saturated with water at 80 °F and having 0.75cc of free water per gallon added and cooled to the most critical condition for icing likely to be encountered in operation.
 
-\(d\) Each fuel system for a turbine engine powered airplane must meet the applicable fuel venting requirements of part 34 of this chapter.
+\(d\) Each fuel system for a turbine engine powered airplane must meet the applicable fuel venting requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5677, Apr. 8, 1970; Amdt. 25-36, 39 FR 35460, Oct. 1, 1974; Amdt. 25-38, 41 FR 55467, Dec. 20, 1976; Amdt. 25-73, 55 FR 32861, Aug. 10, 1990\]
 
@@ -5315,7 +5315,7 @@ No hazardous malfunction of an engine, an auxiliary power unit approved for use 
 
 ### §25.953   Fuel system independence.
 
-Each fuel system must meet the requirements of §25.903(b) by—
+Each fuel system must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.903   Engines.|§25.903]](b) by—
 
 \(a\) Allowing the supply of fuel to each engine through a system independent of each part of the system supplying fuel to any other engine; or
 
@@ -5339,7 +5339,7 @@ Each fuel system must meet the requirements of §25.903(b) by—
 
 \(c\) To comply with paragraph (b) of this section, catastrophic fuel vapor ignition must be extremely improbable, taking into account flammability, critical lightning strikes, and failures within the fuel system.
 
-\(d\) To protect design features that prevent catastrophic fuel vapor ignition caused by lightning, the type design must include critical design configuration control limitations (CDCCLs) identifying those features and providing information to protect them. To ensure the continued effectiveness of those design features, the type design must also include inspection and test procedures, intervals between repetitive inspections and tests, and mandatory replacement times for those design features used in demonstrating compliance to paragraph (b) of this section. The applicant must include the information required by this paragraph in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §25.1529.
+\(d\) To protect design features that prevent catastrophic fuel vapor ignition caused by lightning, the type design must include critical design configuration control limitations (CDCCLs) identifying those features and providing information to protect them. To ensure the continued effectiveness of those design features, the type design must also include inspection and test procedures, intervals between repetitive inspections and tests, and mandatory replacement times for those design features used in demonstrating compliance to paragraph (b) of this section. The applicant must include the information required by this paragraph in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]].
 
 \[Doc. No. FAA-2014-1027, Amdt. 25-146, 83 FR 47556, Sept. 20, 2018\]
 
@@ -5349,7 +5349,7 @@ Each fuel system must meet the requirements of §25.903(b) by—
 
 \(1\) Fuel must be delivered to each engine at a pressure within the limits specified in the engine type certificate.
 
-\(2\) The quantity of fuel in the tank may not exceed the amount established as the unusable fuel supply for that tank under the requirements of §25.959 plus that necessary to show compliance with this section.
+\(2\) The quantity of fuel in the tank may not exceed the amount established as the unusable fuel supply for that tank under the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.959   Unusable fuel supply.|§25.959]] plus that necessary to show compliance with this section.
 
 \(3\) Each main pump must be used that is necessary for each operating condition and attitude for which compliance with this section is shown, and the appropriate emergency pump must be substituted for each main pump so used.
 
@@ -5375,7 +5375,7 @@ The unusable fuel quantity for each fuel tank and its fuel system components mus
 
 ### §25.961   Fuel system hot weather operation.
 
-\(a\) The fuel system must perform satisfactorily in hot weather operation. This must be shown by showing that the fuel system from the tank outlets to each engine is pressurized, under all intended operations, so as to prevent vapor formation, or must be shown by climbing from the altitude of the airport elected by the applicant to the maximum altitude established as an operating limitation under §25.1527. If a climb test is elected, there may be no evidence of vapor lock or other malfunctioning during the climb test conducted under the following conditions:
+\(a\) The fuel system must perform satisfactorily in hot weather operation. This must be shown by showing that the fuel system from the tank outlets to each engine is pressurized, under all intended operations, so as to prevent vapor formation, or must be shown by climbing from the altitude of the airport elected by the applicant to the maximum altitude established as an operating limitation under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1527   Ambient air temperature and operating altitude.|§25.1527]]. If a climb test is elected, there may be no evidence of vapor lock or other malfunctioning during the climb test conducted under the following conditions:
 
 \(1\) For reciprocating engine powered airplanes, the engines must operate at maximum continuous power, except that takeoff power must be used for the altitudes from 1,000 feet below the critical altitude through the critical altitude. The time interval during which takeoff power is used may not be less than the takeoff time limitation.
 
@@ -5423,21 +5423,21 @@ The unusable fuel quantity for each fuel tank and its fuel system components mus
 
 \(ii\) The lesser of the two following conditions:
 
-\(A\) Fuel pressures resulting from the accelerations specified in §25.561(b)(3) considering the fuel tank full of fuel at maximum fuel density. Fuel pressures based on the 9.0g forward acceleration may be calculated using the fuel static head equal to the streamwise local chord of the tank. For inboard and outboard conditions, an acceleration of 1.5g may be used in lieu of 3.0g as specified in §25.561(b)(3).
+\(A\) Fuel pressures resulting from the accelerations specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3) considering the fuel tank full of fuel at maximum fuel density. Fuel pressures based on the 9.0g forward acceleration may be calculated using the fuel static head equal to the streamwise local chord of the tank. For inboard and outboard conditions, an acceleration of 1.5g may be used in lieu of 3.0g as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3).
 
-\(B\) Fuel pressures resulting from the accelerations as specified in §25.561(b)(3) considering a fuel volume beyond 85 percent of the maximum permissible volume in each tank using the static head associated with the 85 percent fuel level. A typical density of the appropriate fuel may be used. For inboard and outboard conditions, an acceleration of 1.5g may be used in lieu of 3.0g as specified in §25.561(b)(3).
+\(B\) Fuel pressures resulting from the accelerations as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3) considering a fuel volume beyond 85 percent of the maximum permissible volume in each tank using the static head associated with the 85 percent fuel level. A typical density of the appropriate fuel may be used. For inboard and outboard conditions, an acceleration of 1.5g may be used in lieu of 3.0g as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3).
 
 \(3\) Fuel tank internal barriers and baffles may be considered as solid boundaries if shown to be effective in limiting fuel flow.
 
-\(4\) For each fuel tank and surrounding airframe structure, the effects of crushing and scraping actions with the ground must not cause the spillage of enough fuel, or generate temperatures that would constitute a fire hazard under the conditions specified in §25.721(b).
+\(4\) For each fuel tank and surrounding airframe structure, the effects of crushing and scraping actions with the ground must not cause the spillage of enough fuel, or generate temperatures that would constitute a fire hazard under the conditions specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.721   General.|§25.721]](b).
 
-\(5\) Fuel tank installations must be such that the tanks will not rupture as a result of the landing gear or an engine pylon or engine mount tearing away as specified in §25.721(a) and (c).
+\(5\) Fuel tank installations must be such that the tanks will not rupture as a result of the landing gear or an engine pylon or engine mount tearing away as specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.721   General.|§25.721]](a) and (c).
 
 \(e\) Fuel tank access covers must comply with the following criteria in order to avoid loss of hazardous quantities of fuel:
 
 \(1\) All covers located in an area where experience or analysis indicates a strike is likely must be shown by analysis or tests to minimize penetration and deformation by tire fragments, low energy engine debris, or other likely debris.
 
-\(2\) All covers must be fire resistant as defined in part 1 of this chapter.
+\(2\) All covers must be fire resistant as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md|part 1 of this chapter]].
 
 \(f\) For pressurized fuel tanks, a means with fail-safe features must be provided to prevent the buildup of an excessive pressure difference between the inside and the outside of the tank.
 
@@ -5497,7 +5497,7 @@ The unusable fuel quantity for each fuel tank and its fuel system components mus
 
 \(b\) Spaces adjacent to tank surfaces must be ventilated to avoid fume accumulation due to minor leakage. If the tank is in a sealed compartment, ventilation may be limited to drain holes large enough to prevent excessive pressure resulting from altitude changes.
 
-\(c\) The location of each tank must meet the requirements of §25.1185(a).
+\(c\) The location of each tank must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1185   Flammable fluids.|§25.1185]](a).
 
 \(d\) No engine nacelle skin immediately behind a major air outlet from the engine compartment may act as the wall of an integral tank.
 
@@ -5505,7 +5505,7 @@ The unusable fuel quantity for each fuel tank and its fuel system components mus
 
 ### §25.969   Fuel tank expansion space.
 
-Each fuel tank must have an expansion space of not less than 2 percent of the tank capacity. It must be impossible to fill the expansion space inadvertently with the airplane in the normal ground attitude. For pressure fueling systems, compliance with this section may be shown with the means provided to comply with §25.979(b).
+Each fuel tank must have an expansion space of not less than 2 percent of the tank capacity. It must be impossible to fill the expansion space inadvertently with the airplane in the normal ground attitude. For pressure fueling systems, compliance with this section may be shown with the means provided to comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.979   Pressure fueling system.|§25.979]](b).
 
 \[Amdt. 25-11, 32 FR 6913, May 5, 1967\]
 
@@ -5619,11 +5619,11 @@ For pressure fueling systems, the following apply:
 
 \(2\) Demonstrating that no temperature at each place inside each fuel tank where fuel ignition is possible will exceed the temperature determined under paragraph (a)(1) of this section. This must be verified under all probable operating, failure, and malfunction conditions of each component whose operation, failure, or malfunction could increase the temperature inside the tank.
 
-\(3\) Except for ignition sources due to lightning addressed by §25.954, demonstrating that an ignition source could not result from each single failure, from each single failure in combination with each latent failure condition not shown to be extremely remote, and from all combinations of failures not shown to be extremely improbable, taking into account the effects of manufacturing variability, aging, wear, corrosion, and likely damage.
+\(3\) Except for ignition sources due to lightning addressed by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.954   Fuel system lightning protection.|§25.954]], demonstrating that an ignition source could not result from each single failure, from each single failure in combination with each latent failure condition not shown to be extremely remote, and from all combinations of failures not shown to be extremely improbable, taking into account the effects of manufacturing variability, aging, wear, corrosion, and likely damage.
 
 \(b\) Except as provided in paragraphs (b)(2) and (c) of this section, no fuel tank Fleet Average Flammability Exposure on an airplane may exceed three percent of the Flammability Exposure Evaluation Time (FEET) as defined in Appendix N of this part, or that of a fuel tank within the wing of the airplane model being evaluated, whichever is greater. If the wing is not a conventional unheated aluminum wing, the analysis must be based on an assumed Equivalent Conventional Unheated Aluminum Wing Tank.
 
-\(1\) Fleet Average Flammability Exposure is determined in accordance with Appendix N of this part. The assessment must be done in accordance with the methods and procedures set forth in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference, see §25.5).
+\(1\) Fleet Average Flammability Exposure is determined in accordance with Appendix N of this part. The assessment must be done in accordance with the methods and procedures set forth in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference, see [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.5   Incorporations by reference.|§25.5]]).
 
 \(2\) Any fuel tank other than a main fuel tank on an airplane must meet the flammability exposure criteria of Appendix M to this part if any portion of the tank is located within the fuselage contour.
 
@@ -5637,7 +5637,7 @@ For pressure fueling systems, the following apply:
 
 \(c\) Paragraph (b) of this section does not apply to a fuel tank if means are provided to mitigate the effects of an ignition of fuel vapors within that fuel tank such that no damage caused by an ignition will prevent continued safe flight and landing.
 
-\(d\) To protect design features that prevent catastrophic ignition sources within the fuel tank or fuel tank system according to paragraph (a) of this section, and to prevent increasing the flammability exposure of the tanks above that permitted in paragraph (b) of this section, the type design must include critical design configuration control limitations (CDCCLs) identifying those features and providing instructions on how to protect them. To ensure the continued effectiveness of those features, and prevent degradation of the performance and reliability of any means provided according to paragraphs (a), (b), or (c) of this section, the type design must also include necessary inspection and test procedures, intervals between repetitive inspections and tests, and mandatory replacement times for those features. The applicant must include information required by this paragraph in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by §25.1529. The type design must also include visible means of identifying critical features of the design in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the CDCCLs.
+\(d\) To protect design features that prevent catastrophic ignition sources within the fuel tank or fuel tank system according to paragraph (a) of this section, and to prevent increasing the flammability exposure of the tanks above that permitted in paragraph (b) of this section, the type design must include critical design configuration control limitations (CDCCLs) identifying those features and providing instructions on how to protect them. To ensure the continued effectiveness of those features, and prevent degradation of the performance and reliability of any means provided according to paragraphs (a), (b), or (c) of this section, the type design must also include necessary inspection and test procedures, intervals between repetitive inspections and tests, and mandatory replacement times for those features. The applicant must include information required by this paragraph in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]]. The type design must also include visible means of identifying critical features of the design in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the CDCCLs.
 
 \[Doc. No. 1999-6411, 66 FR 23129, May 7, 2001, as amended by Doc. No. FAA-2005-22997, 73 FR 42494, July 21, 2008; Doc. No. FAA- 2014-1027, Amdt. No. 25-146, 83 FR 47556, Sept. 20, 2018\]
 
@@ -5667,13 +5667,13 @@ For pressure fueling systems, the following apply:
 
 ### §25.994   Fuel system components.
 
-Fuel system components in an engine nacelle or in the fuselage must be protected from damage that could result in spillage of enough fuel to constitute a fire hazard as a result of a wheels-up landing on a paved runway under each of the conditions prescribed in §25.721(b).
+Fuel system components in an engine nacelle or in the fuselage must be protected from damage that could result in spillage of enough fuel to constitute a fire hazard as a result of a wheels-up landing on a paved runway under each of the conditions prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.721   General.|§25.721]](b).
 
 \[Amdt. 25-139, 79 FR 59430, Oct. 2, 2014\]
 
 ### §25.995   Fuel valves.
 
-In addition to the requirements of §25.1189 for shutoff means, each fuel valve must—
+In addition to the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1189   Shutoff means.|§25.1189]] for shutoff means, each fuel valve must—
 
 \(a\) \[Reserved\]
 
@@ -5691,7 +5691,7 @@ There must be a fuel strainer or filter between the fuel tank outlet and the inl
 
 \(c\) Be mounted so that its weight is not supported by the connecting lines or by the inlet or outlet connections of the strainer or filter itself, unless adequate strength margins under all loading conditions are provided in the lines and connections; and
 
-\(d\) Have the capacity (with respect to operating limitations established for the engine) to ensure that engine fuel system functioning is not impaired, with the fuel contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine in Part 33 of this chapter.
+\(d\) Have the capacity (with respect to operating limitations established for the engine) to ensure that engine fuel system functioning is not impaired, with the fuel contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|Part 33 of this chapter]].
 
 \[Amdt. 25-36, 39 FR 35460, Oct. 1, 1974, as amended by Amdt. 25-57, 49 FR 6848, Feb. 23, 1984\]
 
@@ -5715,9 +5715,9 @@ There must be a fuel strainer or filter between the fuel tank outlet and the inl
 
 ### §25.1001   Fuel jettisoning system.
 
-\(a\) A fuel jettisoning system must be installed on each airplane unless it is shown that the airplane meets the climb requirements of §§25.119 and 25.121(d) at maximum takeoff weight, less the actual or computed weight of fuel necessary for a 15-minute flight comprised of a takeoff, go-around, and landing at the airport of departure with the airplane configuration, speed, power, and thrust the same as that used in meeting the applicable takeoff, approach, and landing climb performance requirements of this part.
+\(a\) A fuel jettisoning system must be installed on each airplane unless it is shown that the airplane meets the climb requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]] and 25.121(d) at maximum takeoff weight, less the actual or computed weight of fuel necessary for a 15-minute flight comprised of a takeoff, go-around, and landing at the airport of departure with the airplane configuration, speed, power, and thrust the same as that used in meeting the applicable takeoff, approach, and landing climb performance requirements of this part.
 
-\(b\) If a fuel jettisoning system is required it must be capable of jettisoning enough fuel within 15 minutes, starting with the weight given in paragraph (a) of this section, to enable the airplane to meet the climb requirements of §§25.119 and 25.121(d), assuming that the fuel is jettisoned under the conditions, except weight, found least favorable during the flight tests prescribed in paragraph (c) of this section.
+\(b\) If a fuel jettisoning system is required it must be capable of jettisoning enough fuel within 15 minutes, starting with the weight given in paragraph (a) of this section, to enable the airplane to meet the climb requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]] and 25.121(d), assuming that the fuel is jettisoned under the conditions, except weight, found least favorable during the flight tests prescribed in paragraph (c) of this section.
 
 \(c\) Fuel jettisoning must be demonstrated beginning at maximum takeoff weight with flaps and landing gear up and in—
 
@@ -5765,7 +5765,7 @@ There must be a fuel strainer or filter between the fuel tank outlet and the inl
 
 ### §25.1013   Oil tanks.
 
-\(a\) *Installation.* Each oil tank installation must meet the requirements of §25.967.
+\(a\) *Installation.* Each oil tank installation must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.967   Fuel tank installations.|§25.967]].
 
 \(b\) *Expansion space.* Oil tank expansion space must be provided as follows:
 
@@ -5795,21 +5795,21 @@ Each oil tank must be designed and installed so that—
 
 \(a\) It can withstand, without failure, each vibration, inertia, and fluid load that it may be subjected to in operation; and
 
-\(b\) It meets the provisions of §25.965, except—
+\(b\) It meets the provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.965   Fuel tank tests.|§25.965]], except—
 
 \(1\) The test pressure—
 
-\(i\) For pressurized tanks used with a turbine engine, may not be less than 5 p.s.i. plus the maximum operating pressure of the tank instead of the pressure specified in §25.965(a); and
+\(i\) For pressurized tanks used with a turbine engine, may not be less than 5 p.s.i. plus the maximum operating pressure of the tank instead of the pressure specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.965   Fuel tank tests.|§25.965]](a); and
 
-\(ii\) For all other tanks may not be less than 5 p.s.i. instead of the pressure specified in §25.965(a); and
+\(ii\) For all other tanks may not be less than 5 p.s.i. instead of the pressure specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.965   Fuel tank tests.|§25.965]](a); and
 
-\(2\) The test fluid must be oil at 250 °F. instead of the fluid specified in §25.965(c).
+\(2\) The test fluid must be oil at 250 °F. instead of the fluid specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.965   Fuel tank tests.|§25.965]](c).
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-36, 39 FR 35461, Oct. 1, 1974\]
 
 ### §25.1017   Oil lines and fittings.
 
-\(a\) Each oil line must meet the requirements of §25.993 and each oil line and fitting in any designated fire zone must meet the requirements of §25.1183.
+\(a\) Each oil line must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.993   Fuel system lines and fittings.|§25.993]] and each oil line and fitting in any designated fire zone must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1183   Flammable fluid-carrying components.|§25.1183]].
 
 \(b\) Breather lines must be arranged so that—
 
@@ -5825,13 +5825,13 @@ Each oil tank must be designed and installed so that—
 
 \(1\) Each oil strainer or filter that has a bypass must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter completely blocked.
 
-\(2\) The oil strainer or filter must have the capacity (with respect to operating limitations established for the engine) to ensure that engine oil system functioning is not impaired when the oil is contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine under Part 33 of this chapter.
+\(2\) The oil strainer or filter must have the capacity (with respect to operating limitations established for the engine) to ensure that engine oil system functioning is not impaired when the oil is contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|Part 33 of this chapter]].
 
 \(3\) The oil strainer or filter, unless it is installed at an oil tank outlet, must incorporate an indicator that will indicate contamination before it reaches the capacity established in accordance with paragraph (a)(2) of this section.
 
 \(4\) The bypass of a strainer or filter must be constructed and installed so that the release of collected contaminants is minimized by appropriate location of the bypass to ensure that collected contaminants are not in the bypass flow path.
 
-\(5\) An oil strainer or filter that has no bypass, except one that is installed at an oil tank outlet, must have a means to connect it to the warning system required in §25.1305(c)(7).
+\(5\) An oil strainer or filter that has no bypass, except one that is installed at an oil tank outlet, must have a means to connect it to the warning system required in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1305   Powerplant instruments.|§25.1305]](c)(7).
 
 \(b\) Each oil strainer or filter in a powerplant installation using reciprocating engines must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter element completely blocked.
 
@@ -5855,7 +5855,7 @@ A drain (or drains) must be provided to allow safe drainage of the oil system. E
 
 ### §25.1025   Oil valves.
 
-\(a\) Each oil shutoff must meet the requirements of §25.1189.
+\(a\) Each oil shutoff must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1189   Shutoff means.|§25.1189]].
 
 \(b\) The closing of oil shutoff means may not prevent propeller feathering.
 
@@ -5883,13 +5883,13 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 ### §25.1043   Cooling tests.
 
-\(a\) *General.* Compliance with §25.1041 must be shown by tests, under critical ground, water, and flight operating conditions. For these tests, the following apply:
+\(a\) *General.* Compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1041   General.|§25.1041]] must be shown by tests, under critical ground, water, and flight operating conditions. For these tests, the following apply:
 
 \(1\) If the tests are conducted under conditions deviating from the maximum ambient atmospheric temperature, the recorded powerplant temperatures must be corrected under paragraphs (c) and (d) of this section.
 
 \(2\) No corrected temperatures determined under paragraph (a)(1) of this section may exceed established limits.
 
-\(3\) For reciprocating engines, the fuel used during the cooling tests must be the minimum grade approved for the engines, and the mixture settings must be those normally used in the flight stages for which the cooling tests are conducted. The test procedures must be as prescribed in §25.1045.
+\(3\) For reciprocating engines, the fuel used during the cooling tests must be the minimum grade approved for the engines, and the mixture settings must be those normally used in the flight stages for which the cooling tests are conducted. The test procedures must be as prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1045   Cooling test procedures.|§25.1045]].
 
 \(b\) *Maximum ambient atmospheric temperature.* A maximum ambient atmospheric temperature corresponding to sea level conditions of at least 100 degrees F must be established. The assumed temperature lapse rate is 3.6 degrees F per thousand feet of altitude above sea level until a temperature of −69.7 degrees F is reached, above which altitude the temperature is considered constant at −69.7 degrees F. However, for winterization installations, the applicant may select a maximum ambient atmospheric temperature corresponding to sea level conditions of less than 100 degrees F.
 
@@ -5901,7 +5901,7 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 ### §25.1045   Cooling test procedures.
 
-\(a\) Compliance with §25.1041 must be shown for the takeoff, climb, en route, and landing stages of flight that correspond to the applicable performance requirements. The cooling tests must be conducted with the airplane in the configuration, and operating under the conditions, that are critical relative to cooling during each stage of flight. For the cooling tests, a temperature is “stabilized” when its rate of change is less than two degrees F. per minute.
+\(a\) Compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1041   General.|§25.1041]] must be shown for the takeoff, climb, en route, and landing stages of flight that correspond to the applicable performance requirements. The cooling tests must be conducted with the airplane in the configuration, and operating under the conditions, that are critical relative to cooling during each stage of flight. For the cooling tests, a temperature is “stabilized” when its rate of change is less than two degrees F. per minute.
 
 \(b\) Temperatures must be stabilized under the conditions from which entry is made into each stage of flight being investigated, unless the entry condition normally is not one during which component and the engine fluid temperatures would stabilize (in which case, operation through the full entry condition must be conducted before entry into the stage of flight being investigated in order to allow temperatures to reach their natural levels at the time of entry). The takeoff cooling test must be preceded by a period during which the powerplant component and engine fluid temperatures are stabilized with the engines at ground idle.
 
@@ -5913,7 +5913,7 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 \(3\) An operating limitation is reached.
 
-\(d\) For reciprocating engine powered airplanes, it may be assumed, for cooling test purposes, that the takeoff stage of flight is complete when the airplane reaches an altitude of 1,500 feet above the takeoff surface or reaches a point in the takeoff where the transition from the takeoff to the en route configuration is completed and a speed is reached at which compliance with §25.121(c) is shown, whichever point is at a higher altitude. The airplane must be in the following configuration:
+\(d\) For reciprocating engine powered airplanes, it may be assumed, for cooling test purposes, that the takeoff stage of flight is complete when the airplane reaches an altitude of 1,500 feet above the takeoff surface or reaches a point in the takeoff where the transition from the takeoff to the en route configuration is completed and a speed is reached at which compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](c) is shown, whichever point is at a higher altitude. The airplane must be in the following configuration:
 
 \(1\) Landing gear retracted.
 
@@ -5953,7 +5953,7 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 \(2\) The airplane must be designed to prevent water or slush on the runway, taxiway, or other airport operating surfaces from being directed into the engine or auxiliary power unit air inlet ducts in hazardous quantities, and the air inlet ducts must be located or protected so as to minimize the ingestion of foreign matter during takeoff, landing, and taxiing.
 
-\(e\) If the engine induction system contains parts or components that could be damaged by foreign objects entering the air inlet, it must be shown by tests or, if appropriate, by analysis that the induction system design can withstand the foreign object ingestion test conditions of §§33.76, 33.77 and 33.78(a)(1) of this chapter without failure of parts or components that could create a hazard.
+\(e\) If the engine induction system contains parts or components that could be damaged by foreign objects entering the air inlet, it must be shown by tests or, if appropriate, by analysis that the induction system design can withstand the foreign object ingestion test conditions of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.76   Bird ingestion.|§33.76]], 33.77 and 33.78(a)(1) of this chapter without failure of parts or components that could create a hazard.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55467, Dec. 20, 1976; Amdt. 25-40, 42 FR 15043, Mar. 17, 1977; Amdt. 25-57, 49 FR 6849, Feb. 23, 1984; Amdt. 25-100, 65 FR 55854, Sept. 14, 2000\]
 
@@ -5967,7 +5967,7 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 \(b\) *Turbine engines.* Except as provided in paragraph (b)(3) of this section, each engine, with all icing protection systems operating, must:
 
-\(1\) Operate throughout its flight power range, including the minimum descent idling speeds, in the icing conditions defined in Appendices C and O of this part, and Appendix D of part 33 of this chapter, and in falling and blowing snow within the limitations established for the airplane for such operation, without the accumulation of ice on the engine, inlet system components, or airframe components that would do any of the following:
+\(1\) Operate throughout its flight power range, including the minimum descent idling speeds, in the icing conditions defined in Appendices C and O of this part, and Appendix D of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and in falling and blowing snow within the limitations established for the airplane for such operation, without the accumulation of ice on the engine, inlet system components, or airframe components that would do any of the following:
 
 \(i\) Adversely affect installed engine operation or cause a sustained loss of power or thrust; or an unacceptable increase in gas path operating temperature; or an airframe/engine incompatibility; or
 
@@ -5975,7 +5975,7 @@ The powerplant and auxiliary power unit cooling provisions must be able to maint
 
 \(iii\) Cause a stall, surge, or flameout or loss of engine controllability (for example, rollback).
 
-\(2\) Operate at ground idle speed for a minimum of 30 minutes on the ground in the following icing conditions shown in Table 1 of this section, unless replaced by similar test conditions that are more critical. These conditions must be demonstrated with the available air bleed for icing protection at its critical condition, without adverse effect, followed by an acceleration to takeoff power or thrust in accordance with the procedures defined in the airplane flight manual. During the idle operation, the engine may be run up periodically to a moderate power or thrust setting in a manner acceptable to the Administrator. Analysis may be used to show ambient temperatures below the tested temperature are less critical. The applicant must document the engine run-up procedure (including the maximum time interval between run-ups from idle, run-up power setting, and duration at power), the associated minimum ambient temperature, and the maximum time interval. These conditions must be used in the analysis that establishes the airplane operating limitations in accordance with §25.1521.
+\(2\) Operate at ground idle speed for a minimum of 30 minutes on the ground in the following icing conditions shown in Table 1 of this section, unless replaced by similar test conditions that are more critical. These conditions must be demonstrated with the available air bleed for icing protection at its critical condition, without adverse effect, followed by an acceleration to takeoff power or thrust in accordance with the procedures defined in the airplane flight manual. During the idle operation, the engine may be run up periodically to a moderate power or thrust setting in a manner acceptable to the Administrator. Analysis may be used to show ambient temperatures below the tested temperature are less critical. The applicant must document the engine run-up procedure (including the maximum time interval between run-ups from idle, run-up power setting, and duration at power), the associated minimum ambient temperature, and the maximum time interval. These conditions must be used in the analysis that establishes the airplane operating limitations in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1521   Powerplant limitations.|§25.1521]].
 
 \(3\) For the purposes of this section, the icing conditions defined in appendix O of this part, including the conditions specified in Condition 3 of Table 1 of this section, are not applicable to airplanes with a maximum takeoff weight equal to or greater than 60,000 pounds.
 
@@ -6113,7 +6113,7 @@ For reciprocating engine powered airplanes, the following apply:
 
 ### §25.1141   Powerplant controls: general.
 
-Each powerplant control must be located, arranged, and designed under §§25.777 through 25.781 and marked under §25.1555. In addition, it must meet the following requirements:
+Each powerplant control must be located, arranged, and designed under §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.777   Cockpit controls.|§25.777]] through 25.781 and marked under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1555   Control markings.|§25.1555]]. In addition, it must meet the following requirements:
 
 \(a\) Each control must be located so that it cannot be inadvertently operated by persons entering, leaving, or moving normally in, the cockpit.
 
@@ -6273,9 +6273,9 @@ Each fuel jettisoning system control must have guards to prevent inadvertent ope
 
 For airplanes equipped with an accessory gearbox that is not certificated as part of an engine—
 
-\(a\) The engine with gearbox and connecting transmissions and shafts attached must be subjected to the tests specified in §33.49 or §33.87 of this chapter, as applicable;
+\(a\) The engine with gearbox and connecting transmissions and shafts attached must be subjected to the tests specified in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.49   Endurance test.|§33.49]] or [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]] of this chapter, as applicable;
 
-\(b\) The accessory gearbox must meet the requirements of §§33.25 and 33.53 or 33.91 of this chapter, as applicable; and
+\(b\) The accessory gearbox must meet the requirements of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.25   Accessory attachments.|§33.25]] and 33.53 or 33.91 of this chapter, as applicable; and
 
 \(c\) Possible misalignments and torsional loadings of the gearbox, transmission, and shaft system, expected to result under normal operating conditions must be evaluated.
 
@@ -6295,19 +6295,19 @@ For airplanes equipped with an accessory gearbox that is not certificated as par
 
 \(4\) Any auxiliary power unit compartment;
 
-\(5\) Any fuel-burning heater and other combustion equipment installation described in §25.859;
+\(5\) Any fuel-burning heater and other combustion equipment installation described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.859   Combustion heater fire protection.|§25.859]];
 
 \(6\) The compressor and accessory sections of turbine engines; and
 
 \(7\) Combustor, turbine, and tailpipe sections of turbine engine installations that contain lines or components carrying flammable fluids or gases.
 
-\(b\) Each designated fire zone must meet the requirements of §§25.863, 25.865, 25.867, 25.869, and 25.1185 through 25.1203.
+\(b\) Each designated fire zone must meet the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.863   Flammable fluid fire protection.|§25.863]], 25.865, 25.867, 25.869, and 25.1185 through 25.1203.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-11, 32 FR 6913, May 5, 1967; Amdt. 25-23, 35 FR 5677, Apr. 8, 1970; Amdt. 25-72, 55 FR 29785, July 20, 1990; Amdt. 25-115, 69 FR 40527, July 2, 2004\]
 
 ### §25.1182   Nacelle areas behind firewalls, and engine pod attaching structures containing flammable fluid lines.
 
-\(a\) Each nacelle area immediately behind the firewall, and each portion of any engine pod attaching structure containing flammable fluid lines, must meet each requirement of §§25.1103(b), 25.1165 (d) and (e), 25.1183, 25.1185(c), 25.1187, 25.1189, and 25.1195 through 25.1203, including those concerning designated fire zones. However, engine pod attaching structures need not contain fire detection or extinguishing means.
+\(a\) Each nacelle area immediately behind the firewall, and each portion of any engine pod attaching structure containing flammable fluid lines, must meet each requirement of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1103   Induction system ducts and air duct systems.|§25.1103]](b), 25.1165 (d) and (e), 25.1183, 25.1185(c), 25.1187, 25.1189, and 25.1195 through 25.1203, including those concerning designated fire zones. However, engine pod attaching structures need not contain fire detection or extinguishing means.
 
 \(b\) For each area covered by paragraph (a) of this section that contains a retractable landing gear, compliance with that paragraph need only be shown with the landing gear retracted.
 
@@ -6333,7 +6333,7 @@ For airplanes equipped with an accessory gearbox that is not certificated as par
 
 ### §25.1185   Flammable fluids.
 
-\(a\) Except for the integral oil sumps specified in §25.1183(a), no tank or reservoir that is a part of a system containing flammable fluids or gases may be in a designated fire zone unless the fluid contained, the design of the system, the materials used in the tank, the shut-off means, and all connections, lines, and control provide a degree of safety equal to that which would exist if the tank or reservoir were outside such a zone.
+\(a\) Except for the integral oil sumps specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1183   Flammable fluid-carrying components.|§25.1183]](a), no tank or reservoir that is a part of a system containing flammable fluids or gases may be in a designated fire zone unless the fluid contained, the design of the system, the materials used in the tank, the shut-off means, and all connections, lines, and control provide a degree of safety equal to that which would exist if the tank or reservoir were outside such a zone.
 
 \(b\) There must be at least one-half inch of clear airspace between each tank or reservoir and each firewall or shroud isolating a designated fire zone.
 
@@ -6359,7 +6359,7 @@ For airplanes equipped with an accessory gearbox that is not certificated as par
 
 ### §25.1189   Shutoff means.
 
-\(a\) Each engine installation and each fire zone specified in §25.1181(a)(4) and (5) must have a means to shut off or otherwise prevent hazardous quantities of fuel, oil, deicer, and other flammable fluids, from flowing into, within, or through any designated fire zone, except that shutoff means are not required for—
+\(a\) Each engine installation and each fire zone specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1181   Designated fire zones; regions included.|§25.1181]](a)(4) and (5) must have a means to shut off or otherwise prevent hazardous quantities of fuel, oil, deicer, and other flammable fluids, from flowing into, within, or through any designated fire zone, except that shutoff means are not required for—
 
 \(1\) Lines, fittings, and components forming an integral part of an engine; and
 
@@ -6397,7 +6397,7 @@ For airplanes equipped with an accessory gearbox that is not certificated as par
 
 ### §25.1192   Engine accessory section diaphragm.
 
-For reciprocating engines, the engine power section and all portions of the exhaust system must be isolated from the engine accessory compartment by a diaphragm that complies with the firewall requirements of §25.1191.
+For reciprocating engines, the engine power section and all portions of the exhaust system must be isolated from the engine accessory compartment by a diaphragm that complies with the firewall requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1191   Firewalls.|§25.1191]].
 
 \[Amdt. 25-23, 35 FR 5678, Apr. 8, 1970\]
 
@@ -6405,13 +6405,13 @@ For reciprocating engines, the engine power section and all portions of the exha
 
 \(a\) Each cowling must be constructed and supported so that it can resist any vibration, inertia, and air load to which it may be subjected in operation.
 
-\(b\) Cowling must meet the drainage and ventilation requirements of §25.1187.
+\(b\) Cowling must meet the drainage and ventilation requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1187   Drainage and ventilation of fire zones.|§25.1187]].
 
 \(c\) On airplanes with a diaphragm isolating the engine power section from the engine accessory section, each part of the accessory section cowling subject to flame in case of fire in the engine power section of the powerplant must—
 
 \(1\) Be fireproof; and
 
-\(2\) Meet the requirements of §25.1191.
+\(2\) Meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1191   Firewalls.|§25.1191]].
 
 \(d\) Each part of the cowling subject to high temperatures due to its nearness to exhaust system parts or exhaust gas impingement must be fireproof.
 
@@ -6499,13 +6499,13 @@ For reciprocating engines, the engine power section and all portions of the exha
 
 \(g\) Each fire detector system must be constructed so that when it is in the configuration for installation it will not exceed the alarm activation time approved for the detectors using the response time criteria specified in the appropriate Technical Standard Order for the detector.
 
-\(h\) EWIS for each fire or overheat detector system in a fire zone must meet the requirements of §25.1731.
+\(h\) EWIS for each fire or overheat detector system in a fire zone must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1731   Powerplant and APU fire detector system: EWIS.|§25.1731]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5678, Apr. 8, 1970; Amdt. 25-26, 36 FR 5493, Mar. 24, 1971; Amdt. 25-123, 72 FR 63405, Nov. 8, 2007\]
 
 ### §25.1207   Compliance.
 
-Unless otherwise specified, compliance with the requirements of §§25.1181 through 25.1203 must be shown by a full scale fire test or by one or more of the following methods:
+Unless otherwise specified, compliance with the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1181   Designated fire zones; regions included.|§25.1181]] through 25.1203 must be shown by a full scale fire test or by one or more of the following methods:
 
 \(a\) Tests of similar powerplant configurations;
 
@@ -6587,7 +6587,7 @@ This section applies to installed systems and equipment intended for flightcrew 
 
 \(3\) A rate-of-climb indicator (vertical speed).
 
-\(4\) A gyroscopic rate-of-turn indicator combined with an integral slip-skid indicator (turn-and-bank indicator) except that only a slip-skid indicator is required on large airplanes with a third attitude instrument system useable through flight attitudes of 360° of pitch and roll and installed in accordance with §121.305(k) of this title.
+\(4\) A gyroscopic rate-of-turn indicator combined with an integral slip-skid indicator (turn-and-bank indicator) except that only a slip-skid indicator is required on large airplanes with a third attitude instrument system useable through flight attitudes of 360° of pitch and roll and installed in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.305   Flight and navigational equipment.|§121.305]](k) of this title.
 
 \(5\) A bank and pitch indicator (gyroscopically stabilized).
 
@@ -6655,9 +6655,9 @@ The following are required powerplant instruments:
 
 \(5\) An indicator to indicate the functioning of the powerplant ice protection system for each engine.
 
-\(6\) An indicator for the fuel strainer or filter required by §25.997 to indicate the occurrence of contamination of the strainer or filter before it reaches the capacity established in accordance with §25.997(d).
+\(6\) An indicator for the fuel strainer or filter required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.997   Fuel strainer or filter.|§25.997]] to indicate the occurrence of contamination of the strainer or filter before it reaches the capacity established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.997   Fuel strainer or filter.|§25.997]](d).
 
-\(7\) A warning means for the oil strainer or filter required by §25.1019, if it has no bypass, to warn the pilot of the occurrence of contamination of the strainer or filter screen before it reaches the capacity established in accordance with §25.1019(a)(2).
+\(7\) A warning means for the oil strainer or filter required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1019   Oil strainer or filter.|§25.1019]], if it has no bypass, to warn the pilot of the occurrence of contamination of the strainer or filter screen before it reaches the capacity established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1019   Oil strainer or filter.|§25.1019]](a)(2).
 
 \(8\) An indicator to indicate the proper functioning of any heater used to prevent ice clogging of fuel system components.
 
@@ -6723,7 +6723,7 @@ The following is required miscellaneous equipment:
 
 \(e\) In showing compliance with paragraphs (a) and (b) of this section with regard to the electrical system and equipment design and installation, critical environmental conditions must be considered. For electrical generation, distribution, and utilization equipment required by or used in complying with this chapter, except equipment covered by Technical Standard Orders containing environmental test procedures, the ability to provide continuous, safe service under foreseeable environmental conditions may be shown by environmental tests, design analysis, or reference to previous comparable service experience on other aircraft.
 
-\(f\) EWIS must be assessed in accordance with the requirements of §25.1709.
+\(f\) EWIS must be assessed in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1709   System safety: EWIS.|§25.1709]].
 
 \[Amdt. 25-23, 35 FR 5679, Apr. 8, 1970, as amended by Amdt. 25-38, 41 FR 55467, Dec. 20, 1976; Amdt. 25-41, 42 FR 36970, July 18, 1977; Amdt. 25-123, 72 FR 63405, Nov. 8, 2007\]
 
@@ -6775,7 +6775,7 @@ The following is required miscellaneous equipment:
 
 \(d\) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of an airplane may be designed and installed without meeting the provisions of paragraph (a) provided—
 
-\(1\) The system has previously been shown to comply with special conditions for HIRF, prescribed under §21.16, issued before December 1, 2007;
+\(1\) The system has previously been shown to comply with special conditions for HIRF, prescribed under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.16   Special conditions.|§21.16]], issued before December 1, 2007;
 
 \(2\) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and
 
@@ -6789,7 +6789,7 @@ The following is required miscellaneous equipment:
 
 \(a\) Each flight, navigation, and powerplant instrument for use by any pilot must be plainly visible to him from his station with the minimum practicable deviation from his normal position and line of vision when he is looking forward along the flight path.
 
-\(b\) The flight instruments required by §25.1303 must be grouped on the instrument panel and centered as nearly as practicable about the vertical plane of the pilot's forward vision. In addition—
+\(b\) The flight instruments required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1303   Flight and navigation instruments.|§25.1303]] must be grouped on the instrument panel and centered as nearly as practicable about the vertical plane of the pilot's forward vision. In addition—
 
 \(1\) The instrument that most effectively indicates attitude must be on the panel in the top center position;
 
@@ -6873,7 +6873,7 @@ For each airspeed indicating system, the following apply:
 
 \(1\) From 0.8 of the minimum value of V1 to the maximum value of V2, considering the approved ranges of altitude and weight; and
 
-\(2\) With the flaps and power settings corresponding to the values determined in the establishment of the takeoff path under §25.111 assuming that the critical engine fails at the minimum value of V1.
+\(2\) With the flaps and power settings corresponding to the values determined in the establishment of the takeoff path under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.111   Takeoff path.|§25.111]] assuming that the critical engine fails at the minimum value of V1.
 
 \(c\) The airspeed error of the installation, excluding the airspeed indicator instrument calibration error, may not exceed three percent or five knots, whichever is greater, throughout the speed range, from—
 
@@ -6893,11 +6893,11 @@ For each airspeed indicating system, the following apply:
 
 \(i\) Each system must have a heated pitot tube or an equivalent means of preventing malfunction in the heavy rain conditions defined in Table 1 of this section; mixed phase and ice crystal conditions as defined in part 33, Appendix D, of this chapter; the icing conditions defined in Appendix C of this part; and the following icing conditions specified in Appendix O of this part:
 
-\(1\) For airplanes certificated in accordance with §25.1420(a)(1), the icing conditions that the airplane is certified to safely exit following detection.
+\(1\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the icing conditions that the airplane is certified to safely exit following detection.
 
-\(2\) For airplanes certificated in accordance with §25.1420(a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
+\(2\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
 
-\(3\) For airplanes certificated in accordance with §25.1420(a)(3) and for airplanes not subject to §25.1420, all icing conditions.
+\(3\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(3) and for airplanes not subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]], all icing conditions.
 
 <div>
 
@@ -6921,13 +6921,13 @@ Table 1—Heavy Rain Conditions for Airspeed Indicating System Tests
 
 ### §25.1324   Angle of attack system.
 
-Each angle of attack system sensor must be heated or have an equivalent means of preventing malfunction in the heavy rain conditions defined in Table 1 of §25.1323, the mixed phase and ice crystal conditions as defined in part 33, Appendix D, of this chapter, the icing conditions defined in Appendix C of this part, and the following icing conditions specified in Appendix O of this part:
+Each angle of attack system sensor must be heated or have an equivalent means of preventing malfunction in the heavy rain conditions defined in Table 1 of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1323   Airspeed indicating system.|§25.1323]], the mixed phase and ice crystal conditions as defined in part 33, Appendix D, of this chapter, the icing conditions defined in Appendix C of this part, and the following icing conditions specified in Appendix O of this part:
 
-\(a\) For airplanes certificated in accordance with §25.1420(a)(1), the icing conditions that the airplane is certified to safely exit following detection.
+\(a\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the icing conditions that the airplane is certified to safely exit following detection.
 
-\(b\) For airplanes certificated in accordance with §25.1420(a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
+\(b\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
 
-\(c\) For airplanes certificated in accordance with §25.1420(a)(3) and for airplanes not subject to §25.1420, all icing conditions.
+\(c\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(3) and for airplanes not subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]], all icing conditions.
 
 \[Amdt. 25-140, 79 FR 65527, Nov. 4, 2014\]
 
@@ -6941,11 +6941,11 @@ Each angle of attack system sensor must be heated or have an equivalent means of
 
 \(2\) The correlation between air pressure in the static pressure system and true ambient atmospheric static pressure is not changed when the airplane is exposed to the icing conditions defined in Appendix C of this part, and the following icing conditions specified in Appendix O of this part:
 
-\(i\) For airplanes certificated in accordance with §25.1420(a)(1), the icing conditions that the airplane is certified to safely exit following detection.
+\(i\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the icing conditions that the airplane is certified to safely exit following detection.
 
-\(ii\) For airplanes certificated in accordance with §25.1420(a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
+\(ii\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the icing conditions that the airplane is certified to safely operate in and the icing conditions that the airplane is certified to safely exit following detection.
 
-\(iii\) For airplanes certificated in accordance with §25.1420(a)(3) and for airplanes not subject to §25.1420, all icing conditions.
+\(iii\) For airplanes certificated in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(3) and for airplanes not subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]], all icing conditions.
 
 \(c\) The design and installation of the static pressure system must be such that—
 
@@ -6997,7 +6997,7 @@ If a flight instrument pitot heating system is installed, an indication system m
 
 \(a\) Quick disengagement controls for the autopilot and autothrust functions must be provided for each pilot. The autopilot quick disengagement controls must be located on both control wheels (or equivalent). The autothrust quick disengagement controls must be located on the thrust control levers. Quick disengagement controls must be readily accessible to each pilot while operating the control wheel (or equivalent) and thrust control levers.
 
-\(b\) The effects of a failure of the system to disengage the autopilot or autothrust functions when manually commanded by the pilot must be assessed in accordance with the requirements of §25.1309.
+\(b\) The effects of a failure of the system to disengage the autopilot or autothrust functions when manually commanded by the pilot must be assessed in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]].
 
 \(c\) Engagement or switching of the flight guidance system, a mode, or a sensor may not cause a transient response of the airplane's flight path any greater than a minor transient, as defined in paragraph (n)(1) of this section.
 
@@ -7029,7 +7029,7 @@ If a flight instrument pitot heating system is installed, an indication system m
 
 \(i\) Exceptional piloting skill, alertness, or strength.
 
-\(ii\) Forces applied by the pilot which are greater than those specified in §25.143(c).
+\(ii\) Forces applied by the pilot which are greater than those specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](c).
 
 \(iii\) Accelerations or attitudes in the airplane that might result in further hazard to secured or non-secured occupants.
 
@@ -7037,7 +7037,7 @@ If a flight instrument pitot heating system is installed, an indication system m
 
 ### §25.1331   Instruments using a power supply.
 
-\(a\) For each instrument required by §25.1303(b) that uses a power supply, the following apply:
+\(a\) For each instrument required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1303   Flight and navigation instruments.|§25.1303]](b) that uses a power supply, the following apply:
 
 \(1\) Each instrument must have a visual means integral with, the instrument, to indicate when power adequate to sustain proper instrument performance is not being supplied. The power must be measured at or near the point where it enters the instruments. For electric instruments, the power is considered to be adequate when the voltage is within approved limits.
 
@@ -7051,7 +7051,7 @@ If a flight instrument pitot heating system is installed, an indication system m
 
 ### §25.1333   Instrument systems.
 
-For systems that operate the instruments required by §25.1303(b) which are located at each pilot's station—
+For systems that operate the instruments required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1303   Flight and navigation instruments.|§25.1303]](b) which are located at each pilot's station—
 
 \(a\) Means must be provided to connect the required instruments at the first pilot's station to operating systems which are independent of the operating systems at other flight crew stations, or other equipment;
 
@@ -7063,7 +7063,7 @@ For systems that operate the instruments required by §25.1303(b) which are loca
 
 ### §25.1337   Powerplant instruments.
 
-\(a\) *Instruments and instrument lines.* (1) Each powerplant and auxiliary power unit instrument line must meet the requirements of §§25.993 and 25.1183.
+\(a\) *Instruments and instrument lines.* (1) Each powerplant and auxiliary power unit instrument line must meet the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.993   Fuel system lines and fittings.|§25.993]] and 25.1183.
 
 \(2\) Each line carrying flammable fluids under pressure must—
 
@@ -7075,7 +7075,7 @@ For systems that operate the instruments required by §25.1303(b) which are loca
 
 \(b\) *Fuel quantity indicator.* There must be means to indicate to the flight crewmembers, the quantity, in gallons or equivalent units, of usable fuel in each tank during flight. In addition—
 
-\(1\) Each fuel quantity indicator must be calibrated to read “zero” during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply determined under §25.959;
+\(1\) Each fuel quantity indicator must be calibrated to read “zero” during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.959   Unusable fuel supply.|§25.959]];
 
 \(2\) Tanks with interconnected outlets and airspaces may be treated as one tank and need not have separate indicators; and
 
@@ -7103,7 +7103,7 @@ For systems that operate the instruments required by §25.1303(b) which are loca
 
 \(1\) Be determined by an electrical load analysis; and
 
-\(2\) Meet the requirements of §25.1309.
+\(2\) Meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]].
 
 \(b\) *Generating system.* The generating system includes electrical power sources, main power busses, transmission cables, and associated control, regulation, and protective devices. It must be designed so that—
 
@@ -7219,13 +7219,13 @@ A suitable electrical supply must be provided to those services required for eme
 
 ### §25.1365   Electrical appliances, motors, and transformers.
 
-\(a\) Domestic appliances must be designed and installed so that in the event of failures of the electrical supply or control system, the requirements of §25.1309(b), (c), and (d) will be satisfied. Domestic appliances are items such as cooktops, ovens, coffee makers, water heaters, refrigerators, and toilet flush systems that are placed on the airplane to provide service amenities to passengers.
+\(a\) Domestic appliances must be designed and installed so that in the event of failures of the electrical supply or control system, the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]](b), (c), and (d) will be satisfied. Domestic appliances are items such as cooktops, ovens, coffee makers, water heaters, refrigerators, and toilet flush systems that are placed on the airplane to provide service amenities to passengers.
 
 \(b\) Galleys and cooking appliances must be installed in a way that minimizes risk of overheat or fire.
 
 \(c\) Domestic appliances, particularly those in galley areas, must be installed or protected so as to prevent damage or contamination of other equipment or systems from fluids or vapors which may be present during normal operation or as a result of spillage, if such damage or contamination could create a hazardous condition.
 
-\(d\) Unless compliance with §25.1309(b) is provided by the circuit protective device required by §25.1357(a), electric motors and transformers, including those installed in domestic systems, must have a suitable thermal protection device to prevent overheating under normal operation and failure conditions, if overheating could create a smoke or fire hazard.
+\(d\) Unless compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]](b) is provided by the circuit protective device required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1357   Circuit protective devices.|§25.1357]](a), electric motors and transformers, including those installed in domestic systems, must have a suitable thermal protection device to prevent overheating under normal operation and failure conditions, if overheating could create a smoke or fire hazard.
 
 \[Amdt. 25-123, 72 FR 63406, Nov. 8, 2007\]
 
@@ -7263,7 +7263,7 @@ A suitable electrical supply must be provided to those services required for eme
 
 ### §25.1385   Position light system installation.
 
-\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section and each system as a whole must meet the requirements of §§25.1387 through 25.1397.
+\(a\) *General.* Each part of each position light system must meet the applicable requirements of this section and each system as a whole must meet the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1387   Position light system dihedral angles.|§25.1387]] through 25.1397.
 
 \(b\) *Forward position lights.* Forward position lights must consist of a red and a green light spaced laterally as far apart as practicable and installed forward on the airplane so that, with the airplane in the normal flying position, the red light is on the left side and the green light is on the right side. Each light must be approved.
 
@@ -7283,7 +7283,7 @@ A suitable electrical supply must be provided to those services required for eme
 
 \(d\) Dihedral angle *A* (aft) is formed by two intersecting vertical planes making angles of 70 degrees to the right and to the left, respectively, to a vertical plane passing through the longitudinal axis, as viewed when looking aft along the longitudinal axis.
 
-\(e\) If the rear position light, when mounted as far aft as practicable in accordance with §25.1385(c), cannot show unbroken light within dihedral angle *A* (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
+\(e\) If the rear position light, when mounted as far aft as practicable in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1385   Position light system installation.|§25.1385]](c), cannot show unbroken light within dihedral angle *A* (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-30, 36 FR 21278, Nov. 5, 1971\]
 
@@ -7293,11 +7293,11 @@ A suitable electrical supply must be provided to those services required for eme
 
 \(b\) *Forward and rear position lights.* The light distribution and intensities of forward and rear position lights must be expressed in terms of minimum intensities in the horizontal plane, minimum intensities in any vertical plane, and maximum intensities in overlapping beams, within dihedral angles *L, R,* and *A,* and must meet the following requirements:
 
-\(1\) *Intensities in the horizontal plane.* Each intensity in the horizontal plane (the plane containing the longitudinal axis of the airplane and perpendicular to the plane of symmetry of the airplane) must equal or exceed the values in §25.1391.
+\(1\) *Intensities in the horizontal plane.* Each intensity in the horizontal plane (the plane containing the longitudinal axis of the airplane and perpendicular to the plane of symmetry of the airplane) must equal or exceed the values in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§25.1391]].
 
-\(2\) *Intensities in any vertical plane.* Each intensity in any vertical plane (the plane perpendicular to the horizontal plane) must equal or exceed the appropriate value in §25.1393, where *I* is the minimum intensity prescribed in §25.1391 for the corresponding angles in the horizontal plane.
+\(2\) *Intensities in any vertical plane.* Each intensity in any vertical plane (the plane perpendicular to the horizontal plane) must equal or exceed the appropriate value in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1393   Minimum intensities in any vertical plane of forward and rear position lights.|§25.1393]], where *I* is the minimum intensity prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§25.1391]] for the corresponding angles in the horizontal plane.
 
-\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values given in §25.1395, except that higher intensities in overlaps may be used with main beam intensities substantially greater than the minima specified in §§25.1391 and 25.1393 if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity. When the peak intensity of the forward position lights is more than 100 candles, the maximum overlap intensities between them may exceed the values given in §25.1395 if the overlap intensity in Area A is not more than 10 percent of peak position light intensity and the overlap intensity in Area B is not greater than 2.5 percent of peak position light intensity.
+\(3\) *Intensities in overlaps between adjacent signals.* No intensity in any overlap between adjacent signals may exceed the values given in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§25.1395]], except that higher intensities in overlaps may be used with main beam intensities substantially greater than the minima specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1391   Minimum intensities in the horizontal plane of forward and rear position lights.|§25.1391]] and 25.1393 if the overlap intensities in relation to the main beam intensities do not adversely affect signal clarity. When the peak intensity of the forward position lights is more than 100 candles, the maximum overlap intensities between them may exceed the values given in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1395   Maximum intensities in overlapping beams of forward and rear position lights.|§25.1395]] if the overlap intensity in Area A is not more than 10 percent of peak position light intensity and the overlap intensity in Area B is not greater than 2.5 percent of peak position light intensity.
 
 ### §25.1391   Minimum intensities in the horizontal plane of forward and rear position lights.
 
@@ -7333,7 +7333,7 @@ Each position light intensity must equal or exceed the applicable values in the 
 
 ### §25.1395   Maximum intensities in overlapping beams of forward and rear position lights.
 
-No position light intensity may exceed the applicable values in the following table, except as provided in §25.1389(b)(3).
+No position light intensity may exceed the applicable values in the following table, except as provided in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1389   Position light distribution and intensities.|§25.1389]](b)(3).
 
 <div>
 
@@ -7401,7 +7401,7 @@ Each position light color must have the applicable International Commission on I
 
 \(c\) *Flashing characteristics.* The arrangement of the system, that is, the number of light sources, beam width, speed of rotation, and other characteristics, must give an effective flash frequency of not less than 40, nor more than 100 cycles per minute. The effective flash frequency is the frequency at which the airplane's complete anticollision light system is observed from a distance, and applies to each sector of light including any overlaps that exist when the system consists of more than one light source. In overlaps, flash frequencies may exceed 100, but not 180 cycles per minute.
 
-\(d\) *Color.* Each anticollision light must be either aviation red or aviation white and must meet the applicable requirements of §25.1397.
+\(d\) *Color.* Each anticollision light must be either aviation red or aviation white and must meet the applicable requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1397   Color specifications.|§25.1397]].
 
 \(e\) *Light intensity.* The minimum light intensities in all vertical planes, measured with the red filter (if used) and expressed in terms of “effective” intensities, must meet the requirements of paragraph (f) of this section. The following relation must be assumed:
 
@@ -7441,21 +7441,21 @@ Unless operations at night in known or forecast icing conditions are prohibited 
 
 \(2\) Protect the safety equipment from inadvertent damage.
 
-\(c\) *Emergency exit descent device.* The stowage provisions for the emergency exit descent devices required by §25.810(a) must be at each exit for which they are intended.
+\(c\) *Emergency exit descent device.* The stowage provisions for the emergency exit descent devices required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.810   Emergency egress assist means and escape routes.|§25.810]](a) must be at each exit for which they are intended.
 
-\(d\) *Liferafts.* (1) The stowage provisions for the liferafts described in §25.1415 must accommodate enough rafts for the maximum number of occupants for which certification for ditching is requested.
+\(d\) *Liferafts.* (1) The stowage provisions for the liferafts described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1415   Ditching equipment.|§25.1415]] must accommodate enough rafts for the maximum number of occupants for which certification for ditching is requested.
 
 \(2\) Liferafts must be stowed near exits through which the rafts can be launched during an unplanned ditching.
 
-\(3\) Rafts automatically or remotely released outside the airplane must be attached to the airplane by means of the static line prescribed in §25.1415.
+\(3\) Rafts automatically or remotely released outside the airplane must be attached to the airplane by means of the static line prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1415   Ditching equipment.|§25.1415]].
 
 \(4\) The stowage provisions for each portable liferaft must allow rapid detachment and removal of the raft for use at other than the intended exits.
 
-\(e\) *Long-range signaling device.* The stowage provisions for the long-range signaling device required by §25.1415 must be near an exit available during an unplanned ditching.
+\(e\) *Long-range signaling device.* The stowage provisions for the long-range signaling device required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1415   Ditching equipment.|§25.1415]] must be near an exit available during an unplanned ditching.
 
-\(f\) *Life preserver stowage provisions.* The stowage provisions for life preservers described in §25.1415 must accommodate one life preserver for each occupant for which certification for ditching is requested. Each life preserver must be within easy reach of each seated occupant.
+\(f\) *Life preserver stowage provisions.* The stowage provisions for life preservers described in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1415   Ditching equipment.|§25.1415]] must accommodate one life preserver for each occupant for which certification for ditching is requested. Each life preserver must be within easy reach of each seated occupant.
 
-\(g\) *Life line stowage provisions.* If certification for ditching under §25.801 is requested, there must be provisions to store life lines. These provisions must—
+\(g\) *Life line stowage provisions.* If certification for ditching under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.801   Ditching.|§25.801]] is requested, there must be provisions to store life lines. These provisions must—
 
 \(1\) Allow one life line to be attached to each side of the fuselage; and
 
@@ -7465,7 +7465,7 @@ Unless operations at night in known or forecast icing conditions are prohibited 
 
 ### §25.1415   Ditching equipment.
 
-\(a\) Ditching equipment used in airplanes to be certificated for ditching under §25.801, and required by the operating rules of this chapter, must meet the requirements of this section.
+\(a\) Ditching equipment used in airplanes to be certificated for ditching under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.801   Ditching.|§25.801]], and required by the operating rules of this chapter, must meet the requirements of this section.
 
 \(b\) Each liferaft and each life preserver must be approved. In addition—
 
@@ -7477,7 +7477,7 @@ Unless operations at night in known or forecast icing conditions are prohibited 
 
 \(d\) There must be an approved survival type emergency locator transmitter for use in one life raft.
 
-\(e\) For airplanes not certificated for ditching under §25.801 and not having approved life preservers, there must be an approved flotation means for each occupant. This means must be within easy reach of each seated occupant and must be readily removable from the airplane.
+\(e\) For airplanes not certificated for ditching under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.801   Ditching.|§25.801]] and not having approved life preservers, there must be an approved flotation means for each occupant. This means must be within easy reach of each seated occupant and must be readily removable from the airplane.
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-29, 36 FR 18722, Sept. 21, 1971; Amdt. 25-50, 45 FR 38348, June 9, 1980; Amdt. 25-72, 55 FR 29785, July 20, 1990; Amdt. 25-82, 59 FR 32057, June 21, 1994\]
 
@@ -7523,7 +7523,7 @@ If the applicant seeks certification for flight in icing conditions, the airplan
 
 ### §25.1420   Supercooled large drop icing conditions.
 
-\(a\) If certification for flight in icing conditions is sought, in addition to the requirements of §25.1419, an airplane with a maximum takeoff weight less than 60,000 pounds or with reversible flight controls must be capable of operating in accordance with paragraphs (a)(1), (2), or (3), of this section.
+\(a\) If certification for flight in icing conditions is sought, in addition to the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1419   Ice protection.|§25.1419]], an airplane with a maximum takeoff weight less than 60,000 pounds or with reversible flight controls must be capable of operating in accordance with paragraphs (a)(1), (2), or (3), of this section.
 
 \(1\) Operating safely after encountering the icing conditions defined in Appendix O of this part:
 
@@ -7551,7 +7551,7 @@ If the applicant seeks certification for flight in icing conditions, the airplan
 
 \(5\) Flight tests of the airplane in natural icing conditions, measured as necessary to support the analysis.
 
-\(c\) For an airplane certified in accordance with paragraph (a)(2) or (3) of this section, the requirements of §25.1419(e), (f), (g), and (h) must be met for the icing conditions defined in Appendix O of this part in which the airplane is certified to operate.
+\(c\) For an airplane certified in accordance with paragraph (a)(2) or (3) of this section, the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1419   Ice protection.|§25.1419]](e), (f), (g), and (h) must be met for the icing conditions defined in Appendix O of this part in which the airplane is certified to operate.
 
 \(d\) For the purposes of this section, the following definitions apply:
 
@@ -7565,7 +7565,7 @@ If the applicant seeks certification for flight in icing conditions, the airplan
 
 ### §25.1421   Megaphones.
 
-If a megaphone is installed, a restraining means must be provided that is capable of restraining the megaphone when it is subjected to the ultimate inertia forces specified in §25.561(b)(3).
+If a megaphone is installed, a restraining means must be provided that is capable of restraining the megaphone when it is subjected to the ultimate inertia forces specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.561   General.|§25.561]](b)(3).
 
 \[Amdt. 25-41, 42 FR 36970, July 18, 1977\]
 
@@ -7597,9 +7597,9 @@ A public address system required by this chapter must—
 
 ### §25.1431   Electronic equipment.
 
-\(a\) In showing compliance with §25.1309 (a) and (b) with respect to radio and electronic equipment and their installations, critical environmental conditions must be considered.
+\(a\) In showing compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]] (a) and (b) with respect to radio and electronic equipment and their installations, critical environmental conditions must be considered.
 
-\(b\) Radio and electronic equipment must be supplied with power under the requirements of §25.1355(c).
+\(b\) Radio and electronic equipment must be supplied with power under the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1355   Distribution system.|§25.1355]](c).
 
 \(c\) Radio and electronic equipment, controls, and wiring must be installed so that operation of any one unit or system of units will not adversely affect the simultaneous operation of any other radio or electronic unit, or system of units, required by this chapter.
 
@@ -7647,13 +7647,13 @@ There must be means, in addition to the normal pressure relief, to automatically
 
 \(ii\) In the event of hydraulic system malfunction, corrective action by the crew to ensure continued safe flight and landing is necessary;
 
-\(2\) Have means to ensure that system pressures, including transient pressures and pressures from fluid volumetric changes in elements that are likely to remain closed long enough for such changes to occur, are within the design capabilities of each element, such that they meet the requirements defined in §25.1435(a)(1) through (a)(5);
+\(2\) Have means to ensure that system pressures, including transient pressures and pressures from fluid volumetric changes in elements that are likely to remain closed long enough for such changes to occur, are within the design capabilities of each element, such that they meet the requirements defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1435   Hydraulic systems.|§25.1435]](a)(1) through (a)(5);
 
 \(3\) Have means to minimize the release of harmful or hazardous concentrations of hydraulic fluid or vapors into the crew and passenger compartments during flight;
 
-\(4\) Meet the applicable requirements of §§25.863, 25.1183, 25.1185, and 25.1189 if a flammable hydraulic fluid is used; and
+\(4\) Meet the applicable requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.863   Flammable fluid fire protection.|§25.863]], 25.1183, 25.1185, and 25.1189 if a flammable hydraulic fluid is used; and
 
-\(5\) Be designed to use any suitable hydraulic fluid specified by the airplane manufacturer, which must be identified by appropriate markings as required by §25.1541.
+\(5\) Be designed to use any suitable hydraulic fluid specified by the airplane manufacturer, which must be identified by appropriate markings as required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1541   General.|§25.1541]].
 
 \(c\) *Tests.* Tests must be conducted on the hydraulic system(s), and/or subsystem(s) and elements, except that analysis may be used in place of or to supplement testing, where the analysis is shown to be reliable and appropriate. All internal and external influences must be taken into account to an extent necessary to evaluate their effects, and to assure reliable system and element functioning and integration. Failure or unacceptable deficiency of an element or system must be corrected and be sufficiently retested, where necessary.
 
@@ -7695,13 +7695,13 @@ There must be means, in addition to the normal pressure relief, to automatically
 
 \(5\) The equipment must supply protective oxygen of 15 minutes duration per crewmember at a pressure altitude of 8,000 feet with a respiratory minute volume of 30 liters per minute BTPD. The equipment and system must be designed to prevent any inward leakage to the inside of the device and prevent any outward leakage causing significant increase in the oxygen content of the local ambient atmosphere. If a demand oxygen system is used, a supply of 300 liters of free oxygen at 70 °F. and 760 mm. Hg. pressure is considered to be of 15-minute duration at the prescribed altitude and minute volume. If a continuous flow open circuit protective breathing system is used, a flow rate of 60 liters per minute at 8,000 feet (45 liters per minute at sea level) and a supply of 600 liters of free oxygen at 70 °F. and 760 mm. Hg. pressure is considered to be of 15-minute duration at the prescribed altitude and minute volume. Continuous flow systems must not increase the ambient oxygen content of the local atmosphere above that of demand systems. BTPD refers to body temperature conditions (that is, 37 °C., at ambient pressure, dry).
 
-\(6\) The equipment must meet the requirements of §25.1441.
+\(6\) The equipment must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1441   Oxygen equipment and supply.|§25.1441]].
 
 \[Doc. No. FAA-2002-13859, 69 FR 40528, July 2, 2004\]
 
 ### §25.1441   Oxygen equipment and supply.
 
-\(a\) If certification with supplemental oxygen equipment is requested, the equipment must meet the requirements of this section and §§25.1443 through 25.1453.
+\(a\) If certification with supplemental oxygen equipment is requested, the equipment must meet the requirements of this section and §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1443   Minimum mass flow of supplemental oxygen.|§25.1443]] through 25.1453.
 
 \(b\) The oxygen system must be free from hazards in itself, in its method of operation, and in its effect upon other components.
 
@@ -7777,7 +7777,7 @@ There must be a means to allow the crew to determine whether oxygen is being del
 
 \(2\) Means must be provided to relieve any internal pressure that may be hazardous.
 
-\(3\) Except as provided in SFAR 109, each chemical oxygen generator installation must meet the requirements of §25.795(d).
+\(3\) Except as provided in SFAR 109, each chemical oxygen generator installation must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.795   Security considerations.|§25.795]](d).
 
 \(c\) In addition to meeting the requirements in paragraph (b) of this section, each portable chemical oxygen generator that is capable of sustained operation by successive replacement of a generator element must be placarded to show—
 
@@ -7881,7 +7881,7 @@ If fluids subject to freezing may be drained overboard in flight or during groun
 
 \(a\) Each flight recorder required by the operating rules of this chapter must be installed so that—
 
-\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of §§25.1323, 25.1325, and 25.1327, as appropriate;
+\(1\) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1323   Airspeed indicating system.|§25.1323]], 25.1325, and 25.1327, as appropriate;
 
 \(2\) The vertical acceleration sensor is rigidly attached, and located longitudinally either within the approved center of gravity limits of the airplane, or at a distance forward or aft of these limits that does not exceed 25 percent of the airplane's mean aerodynamic chord;
 
@@ -7897,7 +7897,7 @@ If fluids subject to freezing may be drained overboard in flight or during groun
 
 \(7\) Any single electrical failure external to the recorder does not disable both the cockpit voice recorder and the flight data recorder; and
 
-\(8\) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. If a combination unit is installed as a cockpit voice recorder to comply with §25.1457(e)(2), a combination unit must be used to comply with this flight data recorder requirement.
+\(8\) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. If a combination unit is installed as a cockpit voice recorder to comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1457   Cockpit voice recorders.|§25.1457]](e)(2), a combination unit must be used to comply with this flight data recorder requirement.
 
 \(b\) Each nonejectable record container must be located and mounted so as to minimize the probability of container rupture resulting from crash impact and subsequent damage to the record from fire. In meeting this requirement the record container must be located as far aft as practicable, but need not be aft of the pressurized compartment, and may not be where aft-mounted engines may crush the container upon impact.
 
@@ -7935,9 +7935,9 @@ If fluids subject to freezing may be drained overboard in flight or during groun
 
 ### §25.1501   General.
 
-\(a\) Each operating limitation specified in §§25.1503 through 25.1533 and other limitations and information necessary for safe operation must be established.
+\(a\) Each operating limitation specified in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1503   Airspeed limitations: general.|§25.1503]] through 25.1533 and other limitations and information necessary for safe operation must be established.
 
-\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in §§25.1541 through 25.1587.
+\(b\) The operating limitations and other information necessary for safe operation must be made available to the crewmembers as prescribed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1541   General.|§25.1541]] through 25.1587.
 
 \[Amdt. 25-42, 43 FR 2323, Jan. 16, 1978\]
 
@@ -7949,27 +7949,27 @@ When airspeed limitations are a function of weight, weight distribution, altitud
 
 ### §25.1505   Maximum operating limit speed.
 
-The maximum operating limit speed (*VMO*/*MMO* airspeed or Mach Number, whichever is critical at a particular altitude) is a speed that may not be deliberately exceeded in any regime of flight (climb, cruise, or descent), unless a higher speed is authorized for flight test or pilot training operations. *VMO*/*MMO* must be established so that it is not greater than the design cruising speed *VC* and so that it is sufficiently below *VD*/*MD* or *VDF*/*MDF,* to make it highly improbable that the latter speeds will be inadvertently exceeded in operations. The speed margin between *VMO*/*MMO* and *VD*/*MD* or *VDFM/DF* may not be less than that determined under §25.335(b) or found necessary during the flight tests conducted under §25.253.
+The maximum operating limit speed (*VMO*/*MMO* airspeed or Mach Number, whichever is critical at a particular altitude) is a speed that may not be deliberately exceeded in any regime of flight (climb, cruise, or descent), unless a higher speed is authorized for flight test or pilot training operations. *VMO*/*MMO* must be established so that it is not greater than the design cruising speed *VC* and so that it is sufficiently below *VD*/*MD* or *VDF*/*MDF,* to make it highly improbable that the latter speeds will be inadvertently exceeded in operations. The speed margin between *VMO*/*MMO* and *VD*/*MD* or *VDFM/DF* may not be less than that determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](b) or found necessary during the flight tests conducted under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.253   High-speed characteristics.|§25.253]].
 
 \[Amdt. 25-23, 35 FR 5680, Apr. 8, 1970\]
 
 ### §25.1507   Maneuvering speed.
 
-The maneuvering speed must be established so that it does not exceed the design maneuvering speed *VA* determined under §25.335(c).
+The maneuvering speed must be established so that it does not exceed the design maneuvering speed *VA* determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](c).
 
 ### §25.1511   Flap extended speed.
 
-The established flap extended speed *VFE* must be established so that it does not exceed the design flap speed *VF* chosen under §§25.335(e) and 25.345, for the corresponding flap positions and engine powers.
+The established flap extended speed *VFE* must be established so that it does not exceed the design flap speed *VF* chosen under §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.335   Design airspeeds.|§25.335]](e) and 25.345, for the corresponding flap positions and engine powers.
 
 ### §25.1513   Minimum control speed.
 
-The minimum control speed *VMC* determined under §25.149 must be established as an operating limitation.
+The minimum control speed *VMC* determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.149   Minimum control speed.|§25.149]] must be established as an operating limitation.
 
 ### §25.1515   Landing gear speeds.
 
-\(a\) The established landing gear operating speed or speeds, *VLO,* may not exceed the speed at which it is safe both to extend and to retract the landing gear, as determined under §25.729 or by flight characteristics. If the extension speed is not the same as the retraction speed, the two speeds must be designated as *VLO(EXT)* and *VLO(RET),* respectively.
+\(a\) The established landing gear operating speed or speeds, *VLO,* may not exceed the speed at which it is safe both to extend and to retract the landing gear, as determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.729   Retracting mechanism.|§25.729]] or by flight characteristics. If the extension speed is not the same as the retraction speed, the two speeds must be designated as *VLO(EXT)* and *VLO(RET),* respectively.
 
-\(b\) The established landing gear extended speed *VLE* may not exceed the speed at which it is safe to fly with the landing gear secured in the fully extended position, and that determined under §25.729.
+\(b\) The established landing gear extended speed *VLE* may not exceed the speed at which it is safe to fly with the landing gear secured in the fully extended position, and that determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.729   Retracting mechanism.|§25.729]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55468, Dec. 20, 1976\]
 
@@ -7991,7 +7991,7 @@ Any other limitation associated with speed must be established.
 
 ### §25.1519   Weight, center of gravity, and weight distribution.
 
-The airplane weight, center of gravity, and weight distribution limitations determined under §§25.23 through 25.27 must be established as operating limitations.
+The airplane weight, center of gravity, and weight distribution limitations determined under §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.23   Load distribution limits.|§25.23]] through 25.27 must be established as operating limitations.
 
 ### §25.1521   Powerplant limitations.
 
@@ -8021,11 +8021,11 @@ The airplane weight, center of gravity, and weight distribution limitations dete
 
 \(2\) Fuel designation or specification.
 
-\(3\) Maximum time interval between engine run-ups from idle, run-up power setting and duration at power for ground operation in icing conditions, as defined in §25.1093(b)(2).
+\(3\) Maximum time interval between engine run-ups from idle, run-up power setting and duration at power for ground operation in icing conditions, as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1093   Induction system icing protection.|§25.1093]](b)(2).
 
 \(4\) Any other parameter for which a limitation has been established as part of the engine type certificate except that a limitation need not be established for a parameter that cannot be exceeded during normal operation due to the design of the installation or to another established limitation.
 
-\(d\) *Ambient temperature.* An ambient temperature limitation (including limitations for winterization installations, if applicable) must be established as the maximum ambient atmospheric temperature established in accordance with §25.1043(b).
+\(d\) *Ambient temperature.* An ambient temperature limitation (including limitations for winterization installations, if applicable) must be established as the maximum ambient atmospheric temperature established in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1043   Cooling tests.|§25.1043]](b).
 
 \[Amdt. 25-72, 55 FR 29786, July 20, 1990, as amended by Amdt. 25-140, 79 FR 65528, Nov. 4, 2014\]
 
@@ -8043,7 +8043,7 @@ The minimum flight crew must be established so that it is sufficient for safe op
 
 \(b\) The accessibility and ease of operation of necessary controls by the appropriate crewmember; and
 
-\(c\) The kind of operation authorized under §25.1525.
+\(c\) The kind of operation authorized under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1525   Kinds of operation.|§25.1525]].
 
 \[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-3, 30 FR 6067, Apr. 29, 1965\]
 
@@ -8065,21 +8065,21 @@ The applicant must prepare Instructions for Continued Airworthiness in accordanc
 
 ### §25.1531   Maneuvering flight load factors.
 
-Load factor limitations, not exceeding the positive limit load factors determined from the maneuvering diagram in §25.333(b), must be established.
+Load factor limitations, not exceeding the positive limit load factors determined from the maneuvering diagram in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.333   Flight maneuvering envelope.|§25.333]](b), must be established.
 
 ### §25.1533   Additional operating limitations.
 
 \(a\) Additional operating limitations must be established as follows:
 
-\(1\) The maximum takeoff weights must be established as the weights at which compliance is shown with the applicable provisions of this part (including the takeoff climb provisions of §25.121(a) through (c), for altitudes and ambient temperatures).
+\(1\) The maximum takeoff weights must be established as the weights at which compliance is shown with the applicable provisions of this part (including the takeoff climb provisions of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.121   Climb: One-engine-inoperative.|§25.121]](a) through (c), for altitudes and ambient temperatures).
 
-\(2\) The maximum landing weights must be established as the weights at which compliance is shown with the applicable provisions of this part (including the landing and approach climb provisions of §§25.119 and 25.121(d) for altitudes and ambient temperatures).
+\(2\) The maximum landing weights must be established as the weights at which compliance is shown with the applicable provisions of this part (including the landing and approach climb provisions of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]] and 25.121(d) for altitudes and ambient temperatures).
 
-\(3\) The minimum takeoff distances must be established as the distances at which compliance is shown with the applicable provisions of this part (including the provisions of §§25.109 and 25.113, for weights, altitudes, temperatures, wind components, runway surface conditions (dry and wet), and runway gradients) for smooth, hard-surfaced runways. Additionally, at the option of the applicant, wet runway takeoff distances may be established for runway surfaces that have been grooved or treated with a porous friction course, and may be approved for use on runways where such surfaces have been designed constructed, and maintained in a manner acceptable to the Administrator.
+\(3\) The minimum takeoff distances must be established as the distances at which compliance is shown with the applicable provisions of this part (including the provisions of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.109   Accelerate-stop distance.|§25.109]] and 25.113, for weights, altitudes, temperatures, wind components, runway surface conditions (dry and wet), and runway gradients) for smooth, hard-surfaced runways. Additionally, at the option of the applicant, wet runway takeoff distances may be established for runway surfaces that have been grooved or treated with a porous friction course, and may be approved for use on runways where such surfaces have been designed constructed, and maintained in a manner acceptable to the Administrator.
 
 \(b\) The extremes for variable factors (such as altitude, temperature, wind, and runway gradients) are those at which compliance with the applicable provisions of this part is shown.
 
-\(c\) For airplanes certified in accordance with §25.1420(a)(1) or (2), an operating limitation must be established to:
+\(c\) For airplanes certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1) or (2), an operating limitation must be established to:
 
 \(1\) Prohibit intentional flight, including takeoff and landing, into icing conditions defined in Appendix O of this part for which the airplane has not been certified to safely operate; and
 
@@ -8089,7 +8089,7 @@ Load factor limitations, not exceeding the positive limit load factors determine
 
 ### §25.1535   ETOPS approval.
 
-Except as provided in §25.3, each applicant seeking ETOPS type design approval must comply with the provisions of Appendix K of this part.
+Except as provided in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.3   Special provisions for ETOPS type design approvals.|§25.3]], each applicant seeking ETOPS type design approval must comply with the provisions of Appendix K of this part.
 
 \[Doc. No. FAA-2002-6717, 72 FR 1873, Jan. 16, 2007\]
 
@@ -8121,7 +8121,7 @@ For each instrument—
 
 ### §25.1545   Airspeed limitation information.
 
-The airspeed limitations required by §25.1583 (a) must be easily read and understood by the flight crew.
+The airspeed limitations required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1583   Operating limitations.|§25.1583]] (a) must be easily read and understood by the flight crew.
 
 ### §25.1547   Magnetic direction indicator.
 
@@ -8161,7 +8161,7 @@ If the unusable fuel supply for any tank exceeds one gallon, or five percent of 
 
 \(a\) Each cockpit control, other than primary flight controls and controls whose function is obvious, must be plainly marked as to its function and method of operation.
 
-\(b\) Each aerodynamic control must be marked under the requirements of §§25.677 and 25.699.
+\(b\) Each aerodynamic control must be marked under the requirements of §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.677   Trim systems.|§25.677]] and 25.699.
 
 \(c\) For powerplant fuel controls—
 
@@ -8175,7 +8175,7 @@ If the unusable fuel supply for any tank exceeds one gallon, or five percent of 
 
 \(1\) Each emergency control (including each fuel jettisoning and fluid shutoff must be colored red; and
 
-\(2\) Each visual indicator required by §25.729(e) must be marked so that the pilot can determine at any time when the wheels are locked in either extreme position, if retractable landing gear is used.
+\(2\) Each visual indicator required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.729   Retracting mechanism.|§25.729]](e) must be marked so that the pilot can determine at any time when the wheels are locked in either extreme position, if retractable landing gear is used.
 
 ### §25.1557   Miscellaneous markings and placards.
 
@@ -8197,7 +8197,7 @@ If the unusable fuel supply for any tank exceeds one gallon, or five percent of 
 
 \(3\) Augmentation fluid filler openings must be marked at or near the filler cover to identify the required fluid.
 
-\(c\) *Emergency exit placards.* Each emergency exit placard must meet the requirements of §25.811.
+\(c\) *Emergency exit placards.* Each emergency exit placard must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.811   Emergency exit marking.|§25.811]].
 
 \(d\) *Doors.* Each door that must be used in order to reach any required emergency exit must have a suitable placard stating that the door is to be latched in the open position during takeoff and landing.
 
@@ -8227,13 +8227,13 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(a\) *Furnishing information.* An Airplane Flight Manual must be furnished with each airplane, and it must contain the following:
 
-\(1\) Information required by §§25.1583 through 25.1587.
+\(1\) Information required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1583   Operating limitations.|§25.1583]] through 25.1587.
 
 \(2\) Other information that is necessary for safe operation because of design, operating, or handling characteristics.
 
-\(3\) Any limitation, procedure, or other information established as a condition of compliance with the applicable noise standards of part 36 of this chapter.
+\(3\) Any limitation, procedure, or other information established as a condition of compliance with the applicable noise standards of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]].
 
-\(b\) *Approved information.* Each part of the manual listed in §§25.1583 through 25.1587, that is appropriate to the airplane, must be furnished, verified, and approved, and must be segregated, identified, and clearly distinguished from each unapproved part of that manual.
+\(b\) *Approved information.* Each part of the manual listed in §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1583   Operating limitations.|§25.1583]] through 25.1587, that is appropriate to the airplane, must be furnished, verified, and approved, and must be segregated, identified, and clearly distinguished from each unapproved part of that manual.
 
 \(c\) \[Reserved\]
 
@@ -8249,7 +8249,7 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(2\) If an airspeed limitation is based upon compressibility effects, a statement to this effect and information as to any symptoms, the probable behavior of the airplane, and the recommended recovery procedures.
 
-\(3\) The maneuvering speed established under §25.1507 and statements, as applicable to the particular design, explaining that:
+\(3\) The maneuvering speed established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1507   Maneuvering speed.|§25.1507]] and statements, as applicable to the particular design, explaining that:
 
 \(i\) Full application of pitch, roll, or yaw controls should be confined to speeds below the maneuvering speed; and
 
@@ -8257,35 +8257,35 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(4\) The flap extended speed *VFE* and the pertinent flap positions and engine powers.
 
-\(5\) The landing gear operating speed or speeds, and a statement explaining the speeds as defined in §25.1515(a).
+\(5\) The landing gear operating speed or speeds, and a statement explaining the speeds as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1515   Landing gear speeds.|§25.1515]](a).
 
 \(6\) The landing gear extended speed *VLE,* if greater than *VLO,* and a statement that this is the maximum speed at which the airplane can be safely flown with the landing gear extended.
 
 \(b\) *Powerplant limitations.* The following information must be furnished:
 
-\(1\) Limitations required by §25.1521 and §25.1522.
+\(1\) Limitations required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1521   Powerplant limitations.|§25.1521]] and [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1522   Auxiliary power unit limitations.|§25.1522]].
 
 \(2\) Explanation of the limitations, when appropriate.
 
-\(3\) Information necessary for marking the instruments required by §§25.1549 through 25.1553.
+\(3\) Information necessary for marking the instruments required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1549   Powerplant and auxiliary power unit instruments.|§25.1549]] through 25.1553.
 
-\(c\) *Weight and loading distribution.* The weight and center of gravity limitations established under §25.1519 must be furnished in the Airplane Flight Manual. All of the following information, including the weight distribution limitations established under §25.1519, must be presented either in the Airplane Flight Manual or in a separate weight and balance control and loading document that is incorporated by reference in the Airplane Flight Manual:
+\(c\) *Weight and loading distribution.* The weight and center of gravity limitations established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1519   Weight, center of gravity, and weight distribution.|§25.1519]] must be furnished in the Airplane Flight Manual. All of the following information, including the weight distribution limitations established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1519   Weight, center of gravity, and weight distribution.|§25.1519]], must be presented either in the Airplane Flight Manual or in a separate weight and balance control and loading document that is incorporated by reference in the Airplane Flight Manual:
 
-\(1\) The condition of the airplane and the items included in the empty weight as defined in accordance with §25.29.
+\(1\) The condition of the airplane and the items included in the empty weight as defined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.29   Empty weight and corresponding center of gravity.|§25.29]].
 
 \(2\) Loading instructions necessary to ensure loading of the airplane within the weight and center of gravity limits, and to maintain the loading within these limits in flight.
 
 \(3\) If certification for more than one center of gravity range is requested, the appropriate limitations, with regard to weight and loading procedures, for each separate center of gravity range.
 
-\(d\) *Flight crew.* The number and functions of the minimum flight crew determined under §25.1523 must be furnished.
+\(d\) *Flight crew.* The number and functions of the minimum flight crew determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]] must be furnished.
 
-\(e\) *Kinds of operation.* The kinds of operation approved under §25.1525 must be furnished.
+\(e\) *Kinds of operation.* The kinds of operation approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1525   Kinds of operation.|§25.1525]] must be furnished.
 
-\(f\) *Ambient air temperatures and operating altitudes.* The extremes of the ambient air temperatures and operating altitudes established under §25.1527 must be furnished.
+\(f\) *Ambient air temperatures and operating altitudes.* The extremes of the ambient air temperatures and operating altitudes established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1527   Ambient air temperature and operating altitude.|§25.1527]] must be furnished.
 
 \(g\) \[Reserved\]
 
-\(h\) *Additional operating limitations.* The operating limitations established under §25.1533 must be furnished.
+\(h\) *Additional operating limitations.* The operating limitations established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1533   Additional operating limitations.|§25.1533]] must be furnished.
 
 \(i\) *Maneuvering flight load factors.* The positive maneuvering limit load factors for which the structure is proven, described in terms of accelerations, must be furnished.
 
@@ -8303,9 +8303,9 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(b\) Information or procedures not directly related to airworthiness or not under the control of the crew, must not be included, nor must any procedure that is accepted as basic airmanship.
 
-\(c\) Information identifying each operating condition in which the fuel system independence prescribed in §25.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+\(c\) Information identifying each operating condition in which the fuel system independence prescribed in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.953   Fuel system independence.|§25.953]] is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
 
-\(d\) The buffet onset envelopes, determined under §25.251 must be furnished. The buffet onset envelopes presented may reflect the center of gravity at which the airplane is normally loaded during cruise if corrections for the effect of different center of gravity locations are furnished.
+\(d\) The buffet onset envelopes, determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.251   Vibration and buffeting.|§25.251]] must be furnished. The buffet onset envelopes presented may reflect the center of gravity at which the airplane is normally loaded during cruise if corrections for the effect of different center of gravity locations are furnished.
 
 \(e\) Information must be furnished that indicates that when the fuel quantity indicator reads “zero” in level flight, any fuel remaining in the fuel tank cannot be used safely in flight.
 
@@ -8315,13 +8315,13 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 ### §25.1587   Performance information.
 
-\(a\) Each Airplane Flight Manual must contain information to permit conversion of the indicated temperature to free air temperature if other than a free air temperature indicator is used to comply with the requirements of §25.1303(a)(1).
+\(a\) Each Airplane Flight Manual must contain information to permit conversion of the indicated temperature to free air temperature if other than a free air temperature indicator is used to comply with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1303   Flight and navigation instruments.|§25.1303]](a)(1).
 
-\(b\) Each Airplane Flight Manual must contain the performance information computed under the applicable provisions of this part (including §§25.115, 25.123, and 25.125 for the weights, altitudes, temperatures, wind components, and runway gradients, as applicable) within the operational limits of the airplane, and must contain the following:
+\(b\) Each Airplane Flight Manual must contain the performance information computed under the applicable provisions of this part (including §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.115   Takeoff flight path.|§25.115]], 25.123, and 25.125 for the weights, altitudes, temperatures, wind components, and runway gradients, as applicable) within the operational limits of the airplane, and must contain the following:
 
 \(1\) In each case, the conditions of power, configuration, and speeds, and the procedures for handling the airplane and any system having a significant effect on the performance information.
 
-\(2\) VSR determined in accordance with §25.103.
+\(2\) VSR determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.103   Stall speed.|§25.103]].
 
 \(3\) The following performance information (determined by extrapolation and computed for the range of weights between the maximum landing weight and the maximum takeoff weight):
 
@@ -8331,7 +8331,7 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(iii\) Landing distance.
 
-\(4\) Procedures established under §25.101(f) and (g) that are related to the limitations and information required by §25.1533 and by this paragraph (b) in the form of guidance material, including any relevant limitations or information.
+\(4\) Procedures established under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.101   General.|§25.101]](f) and (g) that are related to the limitations and information required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1533   Additional operating limitations.|§25.1533]] and by this paragraph (b) in the form of guidance material, including any relevant limitations or information.
 
 \(5\) An explanation of significant or unusual flight or ground handling characteristics of the airplane.
 
@@ -8411,29 +8411,29 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(b\) For systems to which the following rules apply, the components of EWIS associated with those systems must be considered an integral part of that system or systems and must be considered in showing compliance with the applicable requirements for that system.
 
-\(1\) §25.773(b)(2)   Pilot compartment view.
+\(1\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.773   Pilot compartment view.|§25.773]](b)(2)   Pilot compartment view.
 
-\(2\) §25.981   Fuel tank ignition prevention.
+\(2\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]]   Fuel tank ignition prevention.
 
-\(3\) §25.1165   Engine ignition systems.
+\(3\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1165   Engine ignition systems.|§25.1165]]   Engine ignition systems.
 
-\(4\) §25.1310   Power source capacity and distribution.
+\(4\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1310   Power source capacity and distribution.|§25.1310]]   Power source capacity and distribution.
 
-\(5\) §25.1316   System lightning protection.
+\(5\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1316   Electrical and electronic system lightning protection.|§25.1316]]   System lightning protection.
 
-\(6\) §25.1331(a)(2)   Instruments using a power supply.
+\(6\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1331   Instruments using a power supply.|§25.1331]](a)(2)   Instruments using a power supply.
 
-\(7\) §25.1351   General.
+\(7\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1351   General.|§25.1351]]   General.
 
-\(8\) §25.1355   Distribution system.
+\(8\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1355   Distribution system.|§25.1355]]   Distribution system.
 
-\(9\) §25.1360   Precautions against injury.
+\(9\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1360   Precautions against injury.|§25.1360]]   Precautions against injury.
 
-\(10\) §25.1362   Electrical supplies for emergency conditions.
+\(10\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1362   Electrical supplies for emergency conditions.|§25.1362]]   Electrical supplies for emergency conditions.
 
-\(11\) §25.1365   Electrical appliances, motors, and transformers.
+\(11\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1365   Electrical appliances, motors, and transformers.|§25.1365]]   Electrical appliances, motors, and transformers.
 
-\(12\) §25.1431(c) and (d)   Electronic equipment.
+\(12\) [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1431   Electronic equipment.|§25.1431]](c) and (d)   Electronic equipment.
 
 ### §25.1707   System separation: EWIS.
 
@@ -8483,7 +8483,7 @@ A placard showing the maximum airspeeds for flap extension for the takeoff, appr
 
 \(2\) Any hot air leakage or heat generated onto EWIS components will not create a hazardous condition.
 
-\(k\) For systems for which redundancy is required, by certification rules, by operating rules, or as a result of the assessment required by §25.1709, EWIS components associated with those systems must be designed and installed with adequate physical separation.
+\(k\) For systems for which redundancy is required, by certification rules, by operating rules, or as a result of the assessment required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1709   System safety: EWIS.|§25.1709]], EWIS components associated with those systems must be designed and installed with adequate physical separation.
 
 \(l\) Each EWIS must be designed and installed so there is adequate physical separation between it and other aircraft components and aircraft structure, and so that the EWIS is protected from sharp edges and corners, to minimize potential for abrasion/chafing, vibration damage, and other types of mechanical damage.
 
@@ -8503,7 +8503,7 @@ Each EWIS must be designed and installed so that:
 
 \(a\) EWIS components must be labeled or otherwise identified using a consistent method that facilitates identification of the EWIS component, its function, and its design limitations, if any.
 
-\(b\) For systems for which redundancy is required, by certification rules, by operating rules, or as a result of the assessment required by §25.1709, EWIS components associated with those systems must be specifically identified with component part number, function, and separation requirement for bundles.
+\(b\) For systems for which redundancy is required, by certification rules, by operating rules, or as a result of the assessment required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1709   System safety: EWIS.|§25.1709]], EWIS components associated with those systems must be specifically identified with component part number, function, and separation requirement for bundles.
 
 \(1\) The identification must be placed along the wire, cable, or wire bundle at appropriate intervals and in areas of the airplane where it is readily visible to maintenance, repair, or alteration personnel.
 
@@ -8517,7 +8517,7 @@ Each EWIS must be designed and installed so that:
 
 ### §25.1713   Fire protection: EWIS.
 
-\(a\) All EWIS components must meet the applicable fire and smoke protection requirements of §25.831(c) of this part.
+\(a\) All EWIS components must meet the applicable fire and smoke protection requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.831   Ventilation.|§25.831]](c) of this part.
 
 \(b\) EWIS components that are located in designated fire zones and are used during emergency procedures must be fire resistant.
 
@@ -8525,13 +8525,13 @@ Each EWIS must be designed and installed so that:
 
 ### §25.1715   Electrical bonding and protection against static electricity: EWIS.
 
-\(a\) EWIS components used for electrical bonding and protection against static electricity must meet the requirements of §25.899.
+\(a\) EWIS components used for electrical bonding and protection against static electricity must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.899   Electrical bonding and protection against static electricity.|§25.899]].
 
 \(b\) On airplanes having grounded electrical systems, electrical bonding provided by EWIS components must provide an electrical return path capable of carrying both normal and fault currents without creating a shock hazard or damage to the EWIS components, other airplane system components, or airplane structure.
 
 ### §25.1717   Circuit protective devices: EWIS.
 
-Electrical wires and cables must be designed and installed so they are compatible with the circuit protection devices required by §25.1357, so that a fire or smoke hazard cannot be created under temporary or continuous fault conditions.
+Electrical wires and cables must be designed and installed so they are compatible with the circuit protection devices required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1357   Circuit protective devices.|§25.1357]], so that a fire or smoke hazard cannot be created under temporary or continuous fault conditions.
 
 ### §25.1719   Accessibility provisions: EWIS.
 
@@ -8551,17 +8551,17 @@ Access must be provided to allow inspection and replacement of any EWIS componen
 
 ### §25.1723   Flammable fluid fire protection: EWIS.
 
-EWIS components located in each area where flammable fluid or vapors might escape by leakage of a fluid system must be considered a potential ignition source and must meet the requirements of §25.863.
+EWIS components located in each area where flammable fluid or vapors might escape by leakage of a fluid system must be considered a potential ignition source and must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.863   Flammable fluid fire protection.|§25.863]].
 
 ### §25.1725   Powerplants: EWIS.
 
-\(a\) EWIS associated with any powerplant must be designed and installed so that the failure of an EWIS component will not prevent the continued safe operation of the remaining powerplants or require immediate action by any crewmember for continued safe operation, in accordance with the requirements of §25.903(b).
+\(a\) EWIS associated with any powerplant must be designed and installed so that the failure of an EWIS component will not prevent the continued safe operation of the remaining powerplants or require immediate action by any crewmember for continued safe operation, in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.903   Engines.|§25.903]](b).
 
-\(b\) Design precautions must be taken to minimize hazards to the airplane due to EWIS damage in the event of a powerplant rotor failure or a fire originating within the powerplant that burns through the powerplant case, in accordance with the requirements of §25.903(d)(1).
+\(b\) Design precautions must be taken to minimize hazards to the airplane due to EWIS damage in the event of a powerplant rotor failure or a fire originating within the powerplant that burns through the powerplant case, in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.903   Engines.|§25.903]](d)(1).
 
 ### §25.1727   Flammable fluid shutoff means: EWIS.
 
-EWIS associated with each flammable fluid shutoff means and control must be fireproof or must be located and protected so that any fire in a fire zone will not affect operation of the flammable fluid shutoff means, in accordance with the requirements of §25.1189.
+EWIS associated with each flammable fluid shutoff means and control must be fireproof or must be located and protected so that any fire in a fire zone will not affect operation of the flammable fluid shutoff means, in accordance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1189   Shutoff means.|§25.1189]].
 
 ### §25.1729   Instructions for Continued Airworthiness: EWIS.
 
@@ -8577,17 +8577,17 @@ The applicant must prepare Instructions for Continued Airworthiness applicable t
 
 \(2\) Each zone involved is simultaneously protected by the same detector and extinguishing system.
 
-\(c\) EWIS that are part of each fire or overheat detector system in a fire zone must meet the requirements of §25.1203.
+\(c\) EWIS that are part of each fire or overheat detector system in a fire zone must meet the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1203   Fire detector system.|§25.1203]].
 
 ### §25.1733   Fire detector systems, general: EWIS.
 
-EWIS associated with any installed fire protection system, including those required by §§25.854 and 25.858, must be considered an integral part of the system in showing compliance with the applicable requirements for that system.
+EWIS associated with any installed fire protection system, including those required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.854   Lavatory fire protection.|§25.854]] and 25.858, must be considered an integral part of the system in showing compliance with the applicable requirements for that system.
 
 ## Subpart I—Special Federal Aviation Regulations
 
 ### §25.1801   SFAR No. 111—Lavatory Oxygen Systems.
 
-The requirements of §121.1500 of this chapter also apply to this part.
+The requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1500   SFAR No. 111—Lavatory Oxygen Systems.|§121.1500]] of this chapter also apply to this part.
 
 ##    
 
@@ -8677,7 +8677,7 @@ The requirements of §121.1500 of this chapter also apply to this part.
 
 \(6\) *Landing ice* is the critical ice accretion on the unprotected surfaces, and any ice accretion on the protected surfaces appropriate to normal ice protection system operation following exit from the approach flight phase and transition to the final landing configuration.
 
-\(b\) In order to reduce the number of ice accretions to be considered when demonstrating compliance with the requirements of §25.21(g), any of the ice accretions defined in paragraph (a) of this section may be used for any other flight phase if it is shown to be more critical than the specific ice accretion defined for that flight phase. Configuration differences and their effects on ice accretions must be taken into account.
+\(b\) In order to reduce the number of ice accretions to be considered when demonstrating compliance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), any of the ice accretions defined in paragraph (a) of this section may be used for any other flight phase if it is shown to be more critical than the specific ice accretion defined for that flight phase. Configuration differences and their effects on ice accretions must be taken into account.
 
 \(c\) The ice accretion that has the most adverse effect on handling qualities may be used for airplane performance tests provided any difference in performance is conservatively taken into account.
 
@@ -8693,13 +8693,13 @@ The requirements of §121.1500 of this chapter also apply to this part.
 
 \(5\) Crew activation of the ice protection system is in accordance with a normal operating procedure provided in the Airplane Flight Manual, except that after beginning the takeoff roll, it must be assumed that the crew takes no action to activate the ice protection system until the airplane is at least 400 feet above the takeoff surface.
 
-\(e\) The ice accretion before the ice protection system has been activated and is performing its intended function is the critical ice accretion formed on the unprotected and normally protected surfaces before activation and effective operation of the ice protection system in continuous maximum atmospheric icing conditions. This ice accretion only applies in showing compliance to §§25.143(j) and 25.207(h), and 25.207(i).
+\(e\) The ice accretion before the ice protection system has been activated and is performing its intended function is the critical ice accretion formed on the unprotected and normally protected surfaces before activation and effective operation of the ice protection system in continuous maximum atmospheric icing conditions. This ice accretion only applies in showing compliance to §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](j) and 25.207(h), and 25.207(i).
 
 \[Doc. No. 4080, 29 FR 17955, Dec. 18, 1964, as amended by Amdt. 25-121, 72 FR 44669, Aug. 8, 2007; 72 FR 50467, Aug. 31, 2007; Amdt. 25-129, 74 FR 38340, Aug. 3, 2009; Amdt. 25-140, 79 FR 65528, Nov. 4, 2014\]
 
 ### Appendix D to Part 25
 
-*Criteria for determining minimum flight crew.* The following are considered by the Agency in determining the minimum flight crew under §25.1523:
+*Criteria for determining minimum flight crew.* The following are considered by the Agency in determining the minimum flight crew under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1523   Minimum flight crew.|§25.1523]]:
 
 \(a\) *Basic workload functions.* The following basic workload functions are considered:
 
@@ -8817,7 +8817,7 @@ The Administrator may grant performance credit for the use of standby power on t
 
 ### Appendix F to Part 25
 
-### Part I—Test Criteria and Procedures for Showing Compliance With §25.853 or §25.855
+### Part I—Test Criteria and Procedures for Showing Compliance With [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.853   Compartment interiors.|§25.853]] or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.855   Cargo or baggage compartments.|§25.855]]
 
 \(a\) *Material test criteria*—(1) *Interior compartments occupied by crew or passengers.* (i) Interior ceiling panels, interior wall panels, partitions, galley structure, large cabinet walls, structural flooring, and materials used in the construction of stowage compartments (other than underseat stowage compartments and compartments for stowing small items such as magazines and maps) must be self-extinguishing when tested vertically in accordance with the applicable portions of part I of this appendix. The average burn length may not exceed 6 inches and the average flame time after removal of the flame source may not exceed 15 seconds. Drippings from the test specimen may not continue to flame for more than an average of 3 seconds after falling.
 
@@ -8833,9 +8833,9 @@ The Administrator may grant performance credit for the use of standby power on t
 
 \(i\) \[Reserved\]
 
-\(ii\) A cargo or baggage compartment defined in §25.857 as Class B or E must have a liner constructed of materials that meet the requirements of paragraph (a)(1)(ii) of part I of this appendix and separated from the airplane structure (except for attachments). In addition, such liners must be subjected to the 45 degree angle test. The flame may not penetrate (pass through) the material during application of the flame or subsequent to its removal. The average flame time after removal of the flame source may not exceed 15 seconds, and the average glow time may not exceed 10 seconds.
+\(ii\) A cargo or baggage compartment defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.857   Cargo compartment classification.|§25.857]] as Class B or E must have a liner constructed of materials that meet the requirements of paragraph (a)(1)(ii) of part I of this appendix and separated from the airplane structure (except for attachments). In addition, such liners must be subjected to the 45 degree angle test. The flame may not penetrate (pass through) the material during application of the flame or subsequent to its removal. The average flame time after removal of the flame source may not exceed 15 seconds, and the average glow time may not exceed 10 seconds.
 
-\(iii\) A cargo or baggage compartment defined in §25.857 as Class B, C, E, or F must have floor panels constructed of materials which meet the requirements of paragraph (a)(1)(ii) of part I of this appendix and which are separated from the airplane structure (except for attachments). Such panels must be subjected to the 45 degree angle test. The flame may not penetrate (pass through) the material during application of the flame or subsequent to its removal. The average flame time after removal of the flame source may not exceed 15 seconds, and the average glow time may not exceed 10 seconds.
+\(iii\) A cargo or baggage compartment defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.857   Cargo compartment classification.|§25.857]] as Class B, C, E, or F must have floor panels constructed of materials which meet the requirements of paragraph (a)(1)(ii) of part I of this appendix and which are separated from the airplane structure (except for attachments). Such panels must be subjected to the 45 degree angle test. The flame may not penetrate (pass through) the material during application of the flame or subsequent to its removal. The average flame time after removal of the flame source may not exceed 15 seconds, and the average glow time may not exceed 10 seconds.
 
 \(iv\) Insulation blankets and covers used to protect cargo must be constructed of materials that meet the requirements of paragraph (a)(1)(ii) of part I of this appendix. Tiedown equipment (including containers, bins, and pallets) used in each cargo and baggage compartment must be constructed of materials that meet the requirements of paragraph (a)(1)(v) of part I of this appendix.
 
@@ -8865,7 +8865,7 @@ The Administrator may grant performance credit for the use of standby power on t
 
 \(2\) If the cushion is constructed with a fire blocking material, the fire blocking material must completely enclose the cushion foam core material.
 
-\(3\) Each specimen tested must be fabricated using the principal components (i.e., foam core, flotation material, fire blocking material, if used, and dress covering) and assembly processes (representative seams and closures) intended for use in the production articles. If a different material combination is used for the back cushion than for the bottom cushion, both material combinations must be tested as complete specimen sets, each set consisting of a back cushion specimen and a bottom cushion specimen. If a cushion, including outer dress covering, is demonstrated to meet the requirements of this appendix using the oil burner test, the dress covering of that cushion may be replaced with a similar dress covering provided the burn length of the replacement covering, as determined by the test specified in §25.853(c), does not exceed the corresponding burn length of the dress covering used on the cushion subjected to the oil burner test.
+\(3\) Each specimen tested must be fabricated using the principal components (i.e., foam core, flotation material, fire blocking material, if used, and dress covering) and assembly processes (representative seams and closures) intended for use in the production articles. If a different material combination is used for the back cushion than for the bottom cushion, both material combinations must be tested as complete specimen sets, each set consisting of a back cushion specimen and a bottom cushion specimen. If a cushion, including outer dress covering, is demonstrated to meet the requirements of this appendix using the oil burner test, the dress covering of that cushion may be replaced with a similar dress covering provided the burn length of the replacement covering, as determined by the test specified in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.853   Compartment interiors.|§25.853]](c), does not exceed the corresponding burn length of the dress covering used on the cushion subjected to the oil burner test.
 
 \(4\) For at least two-thirds of the total number of specimen sets tested, the burn length from the burner must not reach the side of the cushion opposite the burner. The burn length must not exceed 17 inches. Burn length is the perpendicular distance from the inside edge of the seat frame closest to the burner to the farthest evidence of damage to the test specimen due to flame impingement, including areas of partial or complete consumption, charring, or embrittlement, but not including areas sooted, stained, warped, or discolored, or areas where material has shrunk or melted away from the heat source.
 
@@ -9547,7 +9547,7 @@ Editorial Note: For Federal Register citations affecting appendix F to Part 25, 
 
 H25.1   *General.*
 
-\(a\) This appendix specifies requirements for preparation of Instructions for Continued Airworthiness as required by §§25.1529, 25.1729, and applicable provisions of parts 21 and 26 of this chapter.
+\(a\) This appendix specifies requirements for preparation of Instructions for Continued Airworthiness as required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]], 25.1729, and applicable provisions of parts 21 and 26 of this chapter.
 
 \(b\) The Instructions for Continued Airworthiness for each airplane must include the Instructions for Continued Airworthiness for each engine and propeller (hereinafter designated “products”), for each appliance required by this chapter, and any required information relating to the interface of those appliances and products with the airplane. If Instructions for Continued Airworthiness are not supplied by the manufacturer of an appliance or product installed in the airplane, the Instructions for Continued Airworthiness for the airplane must include the information essential to the continued airworthiness of the airplane.
 
@@ -9591,21 +9591,21 @@ The contents of the manual or manuals must be prepared in the English language. 
 
 \(a\) The Instructions for Continued Airworthiness must contain a section titled Airworthiness Limitations that is segregated and clearly distinguishable from the rest of the document. This section must set forth—
 
-\(1\) Each mandatory modification time, replacement time, structural inspection interval, and related structural inspection procedure approved under §25.571.
+\(1\) Each mandatory modification time, replacement time, structural inspection interval, and related structural inspection procedure approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]].
 
-\(2\) Each mandatory replacement time, inspection interval, related inspection procedure, and all critical design configuration control limitations approved under §25.981 for the fuel tank system.
+\(2\) Each mandatory replacement time, inspection interval, related inspection procedure, and all critical design configuration control limitations approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]] for the fuel tank system.
 
 \(3\) Any mandatory replacement time of EWIS components as defined in section 25.1701.
 
-\(4\) A limit of validity of the engineering data that supports the structural maintenance program (LOV), stated as a total number of accumulated flight cycles or flight hours or both, approved under §25.571. Until the full-scale fatigue testing is completed and the FAA has approved the LOV, the number of cycles accumulated by the airplane cannot be greater than 1⁄2 the number of cycles accumulated on the fatigue test article.
+\(4\) A limit of validity of the engineering data that supports the structural maintenance program (LOV), stated as a total number of accumulated flight cycles or flight hours or both, approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]]. Until the full-scale fatigue testing is completed and the FAA has approved the LOV, the number of cycles accumulated by the airplane cannot be greater than 1⁄2 the number of cycles accumulated on the fatigue test article.
 
-\(5\) Each mandatory replacement time, inspection interval, and related inspection and test procedure, and each critical design configuration control limitation for each lightning protection feature approved under §25.954.
+\(5\) Each mandatory replacement time, inspection interval, and related inspection and test procedure, and each critical design configuration control limitation for each lightning protection feature approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.954   Fuel system lightning protection.|§25.954]].
 
-\(b\) If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA-approved and specifies maintenance required under §§43.16 and 91.403 of the Federal Aviation Regulations, unless an alternative program has been FAA approved.”
+\(b\) If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA-approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of the Federal Aviation Regulations, unless an alternative program has been FAA approved.”
 
 H25.5   *Electrical Wiring Interconnection System (EWIS) Instructions for Continued Airworthiness.*
 
-\(a\) The applicant must prepare Instructions for Continued Airworthiness (ICA) applicable to EWIS as defined by §25.1701 that are approved by the FAA and include the following:
+\(a\) The applicant must prepare Instructions for Continued Airworthiness (ICA) applicable to EWIS as defined by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1701   Definition.|§25.1701]] that are approved by the FAA and include the following:
 
 \(1\) Maintenance and inspection requirements for the EWIS developed with the use of an enhanced zonal analysis procedure that includes:
 
@@ -9627,9 +9627,9 @@ H25.5   *Electrical Wiring Interconnection System (EWIS) Instructions for Con
 
 \(2\) Acceptable EWIS maintenance practices in a standard format.
 
-\(3\) Wire separation requirements as determined under §25.1707.
+\(3\) Wire separation requirements as determined under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1707   System separation: EWIS.|§25.1707]].
 
-\(4\) Information explaining the EWIS identification method and requirements for identifying any changes to EWIS under §25.1711.
+\(4\) Information explaining the EWIS identification method and requirements for identifying any changes to EWIS under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1711   Component identification: EWIS.|§25.1711]].
 
 \(5\) Electrical load data and instructions for updating that data.
 
@@ -9681,13 +9681,13 @@ The initial takeoff thrust or power setting on each engine at the beginning of t
 
 I25.5   *Powerplant Controls.*
 
-\(a\) In addition to the requirements of §25.1141, no single failure or malfunction, or probable combination thereof, of the ATTCS, including associated systems, may cause the failure of any powerplant function necessary for safety.
+\(a\) In addition to the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1141   Powerplant controls: general.|§25.1141]], no single failure or malfunction, or probable combination thereof, of the ATTCS, including associated systems, may cause the failure of any powerplant function necessary for safety.
 
 \(b\) The ATTCS must be designed to:
 
 \(1\) Apply thrust or power on the operating engine(s), following any one engine failure during takeoff, to achieve the maximum approved takeoff thrust or power without exceeding engine operating limits;
 
-\(2\) Permit manual decrease or increase in thrust or power up to the maximum takeoff thrust or power approved for the airplane under existing conditions through the use of the power lever. For airplanes equipped with limiters that automatically prevent engine operating limits from being exceeded under existing ambient conditions, other means may be used to increase the thrust or power in the event of an ATTCS failure provided the means is located on or forward of the power levers; is easily identified and operated under all operating conditions by a single action of either pilot with the hand that is normally used to actuate the power levers; and meets the requirements of §25.777 (a), (b), and (c);
+\(2\) Permit manual decrease or increase in thrust or power up to the maximum takeoff thrust or power approved for the airplane under existing conditions through the use of the power lever. For airplanes equipped with limiters that automatically prevent engine operating limits from being exceeded under existing ambient conditions, other means may be used to increase the thrust or power in the event of an ATTCS failure provided the means is located on or forward of the power levers; is easily identified and operated under all operating conditions by a single action of either pilot with the hand that is normally used to actuate the power levers; and meets the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.777   Cockpit controls.|§25.777]] (a), (b), and (c);
 
 \(3\) Provide a means to verify to the flightcrew before takeoff that the ATTCS is in a condition to operate; and
 
@@ -9695,7 +9695,7 @@ I25.5   *Powerplant Controls.*
 
 I25.6   *Powerplant Instruments.*
 
-In addition to the requirements of §25.1305:
+In addition to the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1305   Powerplant instruments.|§25.1305]]:
 
 \(a\) A means must be provided to indicate when the ATTCS is in the armed or ready condition; and
 
@@ -9705,7 +9705,7 @@ In addition to the requirements of §25.1305:
 
 ### Appendix J to Part 25—Emergency Evacuation
 
-The following test criteria and procedures must be used for showing compliance with §25.803:
+The following test criteria and procedures must be used for showing compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.803   Emergency evacuation.|§25.803]]:
 
 \(a\) The emergency evacuation must be conducted with exterior ambient light levels of no greater than 0.3 foot-candles prior to the activation of the airplane emergency lighting system. The source(s) of the initial exterior ambient light level may remain active or illuminated during the actual demonstration. There must, however, be no increase in the exterior ambient light level except for that due to activation of the airplane emergency lighting system.
 
@@ -9719,7 +9719,7 @@ The following test criteria and procedures must be used for showing compliance w
 
 \(f\) Each internal door or curtain must be in the takeoff configuration.
 
-\(g\) Each crewmember must be seated in the normally assigned seat for takeoff and must remain in the seat until receiving the signal for commencement of the demonstration. Each crewmember must be a person having knowledge of the operation of exits and emergency equipment and, if compliance with §121.291 is also being demonstrated, each flight attendant must be a member of a regularly scheduled line crew.
+\(g\) Each crewmember must be seated in the normally assigned seat for takeoff and must remain in the seat until receiving the signal for commencement of the demonstration. Each crewmember must be a person having knowledge of the operation of exits and emergency equipment and, if compliance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.291   Demonstration of emergency evacuation procedures.|§121.291]] is also being demonstrated, each flight attendant must be a member of a regularly scheduled line crew.
 
 \(h\) A representative passenger load of persons in normal health must be used as follows:
 
@@ -9743,7 +9743,7 @@ The following test criteria and procedures must be used for showing compliance w
 
 \(m\) The applicant may not practice, rehearse, or describe the demonstration for the participants nor may any participant have taken part in this type of demonstration within the preceding 6 months.
 
-\(n\) Prior to entering the demonstration aircraft, the passengers may also be advised to follow directions of crewmembers but may not be instructed on the procedures to be followed in the demonstration, except with respect to safety procedures in place for the demonstration or which have to do with the demonstration site. Prior to the start of the demonstration, the pre-takeoff passenger briefing required by §121.571 may be given. Flight attendants may assign demonstration subjects to assist persons from the bottom of a slide, consistent with their approved training program.
+\(n\) Prior to entering the demonstration aircraft, the passengers may also be advised to follow directions of crewmembers but may not be instructed on the procedures to be followed in the demonstration, except with respect to safety procedures in place for the demonstration or which have to do with the demonstration site. Prior to the start of the demonstration, the pre-takeoff passenger briefing required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.571   Briefing passengers before takeoff.|§121.571]] may be given. Flight attendants may assign demonstration subjects to assist persons from the bottom of a slide, consistent with their approved training program.
 
 \(o\) The airplane must be configured to prevent disclosure of the active emergency exits to demonstration participants in the airplane until the start of the demonstration.
 
@@ -9775,7 +9775,7 @@ K25.1.3   *Airplane systems.*
 
 \(a\) *Operation in icing conditions.*
 
-\(1\) The airplane must be certificated for operation in icing conditions in accordance with §25.1419.
+\(1\) The airplane must be certificated for operation in icing conditions in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1419   Ice protection.|§25.1419]].
 
 \(2\) The airplane must be able to safely conduct an ETOPS diversion with the most critical ice accretion resulting from:
 
@@ -9791,7 +9791,7 @@ K25.1.3   *Airplane systems.*
 
 K25.1.4   *Propulsion systems.*
 
-\(a\) *Fuel system design.* Fuel necessary to complete an ETOPS flight (including a diversion for the longest time for which the applicant seeks approval) must be available to the operating engines at the pressure and fuel-flow required by §25.955 under any airplane failure condition not shown to be extremely improbable. Types of failures that must be considered include, but are not limited to: crossfeed valve failures, automatic fuel management system failures, and normal electrical power generation failures.
+\(a\) *Fuel system design.* Fuel necessary to complete an ETOPS flight (including a diversion for the longest time for which the applicant seeks approval) must be available to the operating engines at the pressure and fuel-flow required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.955   Fuel flow.|§25.955]] under any airplane failure condition not shown to be extremely improbable. Types of failures that must be considered include, but are not limited to: crossfeed valve failures, automatic fuel management system failures, and normal electrical power generation failures.
 
 \(1\) If the engine has been certified for limited operation with negative engine-fuel-pump-inlet pressures, the following requirements apply:
 
@@ -9805,7 +9805,7 @@ K25.1.4   *Propulsion systems.*
 
 \(D\) Fuel system components degraded within their approved maintenance limits.
 
-\(ii\) Unusable-fuel quantity in the suction feed configuration must be determined in accordance with §25.959.
+\(ii\) Unusable-fuel quantity in the suction feed configuration must be determined in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.959   Unusable fuel supply.|§25.959]].
 
 \(2\) For two-engine airplanes to be certificated for ETOPS beyond 180 minutes, one fuel boost pump in each main tank and at least one crossfeed valve, or other means for transferring fuel, must be powered by an independent electrical power source other than the three power sources required to comply with section K25.1.3(b) of this appendix. This requirement does not apply if the normal fuel boost pressure, crossfeed valve actuation, or fuel transfer capability is not provided by electrical power.
 
@@ -9817,7 +9817,7 @@ K25.1.4   *Propulsion systems.*
 
 \(2\) If it is necessary that the APU be able to start in flight, it is able to start at any altitude up to the maximum operating altitude of the airplane, or 45,000 feet, whichever is lower, and run for the remainder of any flight .
 
-\(c\) *Engine oil tank design.* The engine oil tank filler cap must comply with §33.71(c)(4) of this chapter.
+\(c\) *Engine oil tank design.* The engine oil tank filler cap must comply with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.71   Lubrication system.|§33.71]](c)(4) of this chapter.
 
 K25.1.5   *Engine-condition monitoring.*
 
@@ -9843,7 +9843,7 @@ The airplane flight manual must contain the following information applicable to 
 
 \(2\) The most limiting ETOPS significant system other than fire suppression systems for Class C cargo or baggage compartments.
 
-\(e\) This statement: “The type-design reliability and performance of this airplane-engine combination has been evaluated under 14 CFR 25.1535 and found suitable for (identify maximum approved diversion time) extended operations (ETOPS) when the configuration, maintenance, and procedures standard contai[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1535   ETOPS approval.|14 CFR 25.1535]]fy the CMP document) are met. The actual maximum approved diversion time for this airplane may be less based on its most limiting system time capability. This finding does not constitute operational approval to conduct ETOPS.”
+\(e\) This statement: “The type-design reliability and performance of this airplane-engine combination has been evaluated under 14 CFR 25.1535 and found suitable for (identify maximum approved diversion time) extended operations (ETOPS) when the configuration, maintenance, and procedures standard contained in (identify the CMP document) are met. The actual maximum approved diversion time for this airplane may be less based on its most limiting system time capability. This finding does not constitute operational approval to conduct ETOPS.”
 
 K25.2.   *Two-engine airplanes.*
 
@@ -9903,7 +9903,7 @@ An applicant for ETOPS type design approval using the service experience method 
 
 \(B\) Is at or below 0.01 per 1,000 world-fleet engine-hours for approval greater than 180-minute ETOPS.
 
-\(d\) *Airplane systems assessment.* The applicant must conduct an airplane systems assessment. The applicant must show that the airplane systems comply with §25.1309(b) using available in-service reliability data for ETOPS significant systems on the candidate airplane-engine combination. Each cause or potential cause of a relevant design, manufacturing, operational, and maintenance problem occurring in service must have a corrective action or actions that are shown to be effective in preventing future occurrences. Each corrective action must be identified in the CMP document specified in section K25.1.6 of this appendix. A corrective action is not required if the problem would not significantly impact the safety or reliability of the airplane system involved. A relevant problem is a problem with an ETOPS group 1 significant system that has or could result in, an IFSD or diversion. The applicant must include in this assessment relevant problems with similar or identical equipment installed on other types of airplanes to the extent such information is reasonably available.
+\(d\) *Airplane systems assessment.* The applicant must conduct an airplane systems assessment. The applicant must show that the airplane systems comply with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]](b) using available in-service reliability data for ETOPS significant systems on the candidate airplane-engine combination. Each cause or potential cause of a relevant design, manufacturing, operational, and maintenance problem occurring in service must have a corrective action or actions that are shown to be effective in preventing future occurrences. Each corrective action must be identified in the CMP document specified in section K25.1.6 of this appendix. A corrective action is not required if the problem would not significantly impact the safety or reliability of the airplane system involved. A relevant problem is a problem with an ETOPS group 1 significant system that has or could result in, an IFSD or diversion. The applicant must include in this assessment relevant problems with similar or identical equipment installed on other types of airplanes to the extent such information is reasonably available.
 
 \(e\) *Airplane flight test.* The applicant must conduct a flight test to validate the flightcrew's ability to safely conduct an ETOPS diversion with an inoperative engine and worst-case ETOPS Significant System failures and malfunctions that could occur in service. The flight test must validate the airplane's flying qualities and performance with the demonstrated failures and malfunctions.
 
@@ -9913,7 +9913,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(a\) *Assessment of relevant experience with airplanes previously certificated under part 25.* The applicant must identify specific corrective actions taken on the candidate airplane to prevent relevant design, manufacturing, operational, and maintenance problems experienced on airplanes previously certificated under part 25 manufactured by the applicant. Specific corrective actions are not required if the nature of a problem is such that the problem would not significantly impact the safety or reliability of the airplane system involved. A relevant problem is a problem with an ETOPS group 1 significant system that has or could result in an IFSD or diversion. The applicant must include in this assessment relevant problems of supplier-provided ETOPS group 1 significant systems and similar or identical equipment used on airplanes built by other manufacturers to the extent such information is reasonably available.
 
-\(b\) *Propulsion system design.* (1) The engine used in the applicant's airplane design must be approved as eligible for Early ETOPS in accordance with §33.201 of this chapter.
+\(b\) *Propulsion system design.* (1) The engine used in the applicant's airplane design must be approved as eligible for Early ETOPS in accordance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.201   Design and test requirements for Early ETOPS eligibility.|§33.201]] of this chapter.
 
 \(2\) The applicant must design the propulsion system to preclude failures or malfunctions that could result in an IFSD. The applicant must show compliance with this requirement by analysis, test, in-service experience on other airplanes, or other means acceptable to the FAA. If analysis is used, the applicant must show that the propulsion system design will minimize failures and malfunctions with the objective of achieving the following IFSD rates:
 
@@ -9923,11 +9923,11 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(c\) *Maintenance and operational procedures.* The applicant must validate all maintenance and operational procedures for ETOPS significant systems. The applicant must identify, track, and resolve any problems found during the validation in accordance with the problem tracking and resolution system specified in section K25.2.2(h) of this appendix.
 
-\(d\) *Propulsion system validation test.* (1) The installed engine configuration for which approval is being sought must comply with §33.201(c) of this chapter. The test engine must be configured with a complete airplane nacelle package, including engine-mounted equipment, except for any configuration differences necessary to accommodate test stand interfaces with the engine nacelle package. At the conclusion of the test, the propulsion system must be—
+\(d\) *Propulsion system validation test.* (1) The installed engine configuration for which approval is being sought must comply with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.201   Design and test requirements for Early ETOPS eligibility.|§33.201]](c) of this chapter. The test engine must be configured with a complete airplane nacelle package, including engine-mounted equipment, except for any configuration differences necessary to accommodate test stand interfaces with the engine nacelle package. At the conclusion of the test, the propulsion system must be—
 
 \(i\) Visually inspected according to the applicant's on-wing inspection recommendations and limits; and
 
-\(ii\) Completely disassembled and the propulsion system hardware inspected to determine whether it meets the service limits specified in the Instructions for Continued Airworthiness submitted in compliance with §25.1529.
+\(ii\) Completely disassembled and the propulsion system hardware inspected to determine whether it meets the service limits specified in the Instructions for Continued Airworthiness submitted in compliance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]].
 
 \(2\) The applicant must identify, track, and resolve each cause or potential cause of IFSD, loss of thrust control, or other power loss encountered during this inspection in accordance with the problem tracking and resolution system specified in section K25.2.2 (h) of this appendix.
 
@@ -9935,7 +9935,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(f\) *APU validation test.* If an APU is needed to comply with this appendix, one APU of the type to be certified with the airplane must be tested for 3,000 equivalent airplane operational cycles. Following completion of the test, the APU must be disassembled and inspected. The applicant must identify, track, and resolve each cause or potential cause of an inability to start or operate the APU in flight as intended in accordance with the problem tracking and resolution system specified in section K25.2.2(h) of this appendix.
 
-\(g\) *Airplane demonstration.* For each airplane-engine combination to be approved for ETOPS, the applicant must flight test at least one airplane to demonstrate that the airplane, and its components and equipment are capable of functioning properly during ETOPS flights and diversions of the longest duration for which the applicant seeks approval. This flight testing may be performed in conjunction with, but may not substitute for the flight testing required by §21.35(b)(2) of this chapter.
+\(g\) *Airplane demonstration.* For each airplane-engine combination to be approved for ETOPS, the applicant must flight test at least one airplane to demonstrate that the airplane, and its components and equipment are capable of functioning properly during ETOPS flights and diversions of the longest duration for which the applicant seeks approval. This flight testing may be performed in conjunction with, but may not substitute for the flight testing required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.35   Flight tests.|§21.35]](b)(2) of this chapter.
 
 \(1\) The airplane demonstration flight test program must include:
 
@@ -9959,7 +9959,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(h\) *Problem tracking and resolution system.* (1) The applicant must establish and maintain a problem tracking and resolution system. The system must:
 
-\(i\) Contain a process for prompt reporting to the FAA office responsible for the design approval of each occurrence reportable under §21.4(a)(6) encountered during the phases of airplane and engine development used to assess Early ETOPS eligibility.
+\(i\) Contain a process for prompt reporting to the FAA office responsible for the design approval of each occurrence reportable under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.4   ETOPS reporting requirements.|§21.4]](a)(6) encountered during the phases of airplane and engine development used to assess Early ETOPS eligibility.
 
 \(ii\) Contain a process for notifying the FAA office responsible for the design approval of each proposed corrective action that the applicant determines necessary for each problem identified from the occurrences reported under section K25.2.2. (h)(1)(i) of this appendix. The timing of the notification must permit appropriate FAA review before taking the proposed corrective action.
 
@@ -9997,7 +9997,7 @@ An applicant for ETOPS type design approval using the service experience method 
 
 \(a\) *Service experience.* The world fleet for the airplane-engine combination must accumulate a minimum of 250,000 engine-hours. The FAA may reduce this number of hours if the applicant identifies compensating factors that are acceptable to the FAA. The compensating factors may include experience on another airplane, but experience on the candidate airplane must make up a significant portion of the total required service experience.
 
-\(b\) *Airplane systems assessment.* The applicant must conduct an airplane systems assessment. The applicant must show that the airplane systems comply with the §25.1309(b) using available in-service reliability data for ETOPS significant systems on the candidate airplane-engine combination. Each cause or potential cause of a relevant design, manufacturing, operational or maintenance problem occurring in service must have a corrective action or actions that are shown to be effective in preventing future occurrences. Each corrective action must be identified in the CMP document specified in section K25.1.6 of this appendix. A corrective action is not required if the problem would not significantly impact the safety or reliability of the airplane system involved. A relevant problem is a problem with an ETOPS group 1 significant system that has or could result in an IFSD or diversion. The applicant must include in this assessment relevant problems with similar or identical equipment installed on other types of airplanes to the extent such information is reasonably available.
+\(b\) *Airplane systems assessment.* The applicant must conduct an airplane systems assessment. The applicant must show that the airplane systems comply with the [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1309   Equipment, systems, and installations.|§25.1309]](b) using available in-service reliability data for ETOPS significant systems on the candidate airplane-engine combination. Each cause or potential cause of a relevant design, manufacturing, operational or maintenance problem occurring in service must have a corrective action or actions that are shown to be effective in preventing future occurrences. Each corrective action must be identified in the CMP document specified in section K25.1.6 of this appendix. A corrective action is not required if the problem would not significantly impact the safety or reliability of the airplane system involved. A relevant problem is a problem with an ETOPS group 1 significant system that has or could result in an IFSD or diversion. The applicant must include in this assessment relevant problems with similar or identical equipment installed on other types of airplanes to the extent such information is reasonably available.
 
 \(c\) *Airplane flight test.* The applicant must conduct a flight test to validate the flightcrew's ability to safely conduct an ETOPS diversion with an inoperative engine and worst-case ETOPS significant system failures and malfunctions that could occur in service. The flight test must validate the airplane's flying qualities and performance with the demonstrated failures and malfunctions.
 
@@ -10011,7 +10011,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(c\) *APU validation test.* If an APU is needed to comply with this appendix, one APU of the type to be certified with the airplane must be tested for 3,000 equivalent airplane operational cycles. Following completion of the test, the APU must be disassembled and inspected. The applicant must identify, track, and resolve each cause or potential cause of an inability to start or operate the APU in flight as intended in accordance with the problem tracking and resolution system specified in section K25.3.2(e) of this appendix.
 
-\(d\) *Airplane demonstration.* For each airplane-engine combination to be approved for ETOPS, the applicant must flight test at least one airplane to demonstrate that the airplane, and its components and equipment are capable of functioning properly during ETOPS flights and diversions of the longest duration for which the applicant seeks approval. This flight testing may be performed in conjunction with, but may not substitute for the flight testing required by §21.35(b)(2).
+\(d\) *Airplane demonstration.* For each airplane-engine combination to be approved for ETOPS, the applicant must flight test at least one airplane to demonstrate that the airplane, and its components and equipment are capable of functioning properly during ETOPS flights and diversions of the longest duration for which the applicant seeks approval. This flight testing may be performed in conjunction with, but may not substitute for the flight testing required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.35   Flight tests.|§21.35]](b)(2).
 
 \(1\) The airplane demonstration flight test program must include:
 
@@ -10035,7 +10035,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 \(e\) *Problem tracking and resolution system.* (1) The applicant must establish and maintain a problem tracking and resolution system. The system must:
 
-\(i\) Contain a process for prompt reporting to the FAA office responsible for the design approval of each occurrence reportable under §21.4(a)(6) encountered during the phases of airplane and engine development used to assess Early ETOPS eligibility.
+\(i\) Contain a process for prompt reporting to the FAA office responsible for the design approval of each occurrence reportable under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.4   ETOPS reporting requirements.|§21.4]](a)(6) encountered during the phases of airplane and engine development used to assess Early ETOPS eligibility.
 
 \(ii\) Contain a process for notifying the FAA office responsible for the design approval of each proposed corrective action that the applicant determines necessary for each problem identified from the occurrences reported under section K25.3.2(h)(1)(i) of this appendix. The timing of the notification must permit appropriate FAA review before taking the proposed corrective action.
 
@@ -10067,7 +10067,7 @@ An applicant for ETOPS type design approval using the Early ETOPS method must co
 
 ### Appendix L to Part 25—HIRF Environments and Equipment HIRF Test Levels
 
-This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under §25.1317. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle.
+This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1317   High-intensity Radiated Fields (HIRF) Protection.|§25.1317]]. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle.
 
 \(a\) HIRF environment I is specified in the following table:
 
@@ -10201,7 +10201,7 @@ The effects of airplane component failures on FRM reliability must be assessed o
 
 N25.1   *General.*
 
-\(a\) This appendix specifies the requirements for conducting fuel tank fleet average flammability exposure analyses required to meet §25.981(b) and Appendix M of this part. For fuel tanks installed in aluminum wings, a qualitative assessment is sufficient if it substantiates that the tank is a conventional unheated wing tank.
+\(a\) This appendix specifies the requirements for conducting fuel tank fleet average flammability exposure analyses required to meet [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]](b) and Appendix M of this part. For fuel tanks installed in aluminum wings, a qualitative assessment is sufficient if it substantiates that the tank is a conventional unheated wing tank.
 
 \(b\) This appendix defines parameters affecting fuel tank flammability that must be used in performing the analysis. These include parameters that affect all airplanes within the fleet, such as a statistical distribution of ambient temperature, fuel flash point, flight lengths, and airplane descent rate. Demonstration of compliance also requires application of factors specific to the airplane model being evaluated. Factors that need to be included are maximum range, cruise mach number, typical altitude where the airplane begins initial cruise phase of flight, fuel temperature during both ground and flight times, and the performance of a flammability reduction means (FRM) if installed.
 
@@ -10239,7 +10239,7 @@ N25.2   *Definitions.*
 
 N25.3   *Fuel tank flammability exposure analysis.*
 
-\(a\) A flammability exposure analysis must be conducted for the fuel tank under evaluation to determine fleet average flammability exposure for the airplane and fuel types under evaluation. For fuel tanks that are subdivided by baffles or compartments, an analysis must be performed either for each section of the tank, or for the section of the tank having the highest flammability exposure. Consideration of transport effects is not allowed in the analysis. The analysis must be done in accordance with the methods and procedures set forth in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference, see §25.5). The parameters specified in sections N25.3(b) and (c) of this appendix must be used in the fuel tank flammability exposure “Monte Carlo” analysis.
+\(a\) A flammability exposure analysis must be conducted for the fuel tank under evaluation to determine fleet average flammability exposure for the airplane and fuel types under evaluation. For fuel tanks that are subdivided by baffles or compartments, an analysis must be performed either for each section of the tank, or for the section of the tank having the highest flammability exposure. Consideration of transport effects is not allowed in the analysis. The analysis must be done in accordance with the methods and procedures set forth in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference, see [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.5   Incorporations by reference.|§25.5]]). The parameters specified in sections N25.3(b) and (c) of this appendix must be used in the fuel tank flammability exposure “Monte Carlo” analysis.
 
 \(b\) The following parameters are defined in the Monte Carlo analysis and provided in paragraph N25.4 of this appendix:
 
@@ -10251,7 +10251,7 @@ N25.3   *Fuel tank flammability exposure analysis.*
 
 \(4\) Flight Length Distribution, as defined in Table 2 of this appendix.
 
-\(5\) Airplane Climb and Descent Profiles, as defined in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference in §25.5).
+\(5\) Airplane Climb and Descent Profiles, as defined in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.5   Incorporations by reference.|§25.5]]).
 
 \(c\) Parameters that are specific to the particular airplane model under evaluation that must be provided as inputs to the Monte Carlo analysis are:
 
@@ -10269,7 +10269,7 @@ N25.3   *Fuel tank flammability exposure analysis.*
 
 \(7\) Airplane Utilization. The applicant must provide data supporting the number of flights per day and the number of hours per flight for the specific airplane model under evaluation. If there is no existing airplane fleet data to support the airplane being evaluated, the applicant must provide substantiation that the number of flights per day and the number of hours per flight for that airplane model is consistent with the existing fleet data they propose to use.
 
-\(d\) *Fuel Tank FRM Model.* If FRM is used, an FAA approved Monte Carlo program must be used to show compliance with the flammability requirements of §25.981 and Appendix M of this part. The program must determine the time periods during each flight phase when the fuel tank or compartment with the FRM would be flammable. The following factors must be considered in establishing these time periods:
+\(d\) *Fuel Tank FRM Model.* If FRM is used, an FAA approved Monte Carlo program must be used to show compliance with the flammability requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]] and Appendix M of this part. The program must determine the time periods during each flight phase when the fuel tank or compartment with the FRM would be flammable. The following factors must be considered in establishing these time periods:
 
 \(1\) Any time periods throughout the flammability exposure evaluation time and under the full range of expected operating conditions, when the FRM is operating properly but fails to maintain a non-flammable fuel tank because of the effects of the fuel tank vent system or other causes,
 
@@ -10279,7 +10279,7 @@ N25.3   *Fuel tank flammability exposure analysis.*
 
 \(4\) Effects of failures of the FRM that could increase the flammability exposure of the fuel tank.
 
-\(5\) If an FRM is used that is affected by oxygen concentrations in the fuel tank, the time periods when oxygen evolution from the fuel results in the fuel tank or compartment exceeding the inert level. The applicant must include any times when oxygen evolution from the fuel in the tank or compartment under evaluation would result in a flammable fuel tank. The oxygen evolution rate that must be used is defined in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference in §25.5).
+\(5\) If an FRM is used that is affected by oxygen concentrations in the fuel tank, the time periods when oxygen evolution from the fuel results in the fuel tank or compartment exceeding the inert level. The applicant must include any times when oxygen evolution from the fuel in the tank or compartment under evaluation would result in a flammable fuel tank. The oxygen evolution rate that must be used is defined in the Fuel Tank Flammability Assessment Method User's Manual, dated May 2008, document number DOT/FAA/AR-05/8 (incorporated by reference in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.5   Incorporations by reference.|§25.5]]).
 
 \(6\) If an inerting system FRM is used, the effects of any air that may enter the fuel tank following the last flight of the day due to changes in ambient temperature, as defined in Table 4, during a 12-hour overnight period.
 
@@ -10498,21 +10498,21 @@ H = horizontal extent in nautical miles
 
 \(a\) *General.* The most critical ice accretion in terms of airplane performance and handling qualities for each flight phase must be used to show compliance with the applicable airplane performance and handling qualities requirements for icing conditions contained in subpart B of this part. Applicants must demonstrate that the full range of atmospheric icing conditions specified in part I of this Appendix have been considered, including drop diameter distributions, liquid water content, and temperature appropriate to the flight conditions (for example, configuration, speed, angle of attack, and altitude).
 
-\(1\) For an airplane certified in accordance with §25.1420(a)(1), the ice accretions for each flight phase are defined in part II, paragraph (b) of this Appendix.
+\(1\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the ice accretions for each flight phase are defined in part II, paragraph (b) of this Appendix.
 
-\(2\) For an airplane certified in accordance with §25.1420(a)(2), the most critical ice accretion for each flight phase defined in part II, paragraphs (b) and (c) of this Appendix, must be used. For the ice accretions defined in part II, paragraph (c) of this Appendix, only the portion of part I of this Appendix in which the airplane is capable of operating safely must be considered.
+\(2\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the most critical ice accretion for each flight phase defined in part II, paragraphs (b) and (c) of this Appendix, must be used. For the ice accretions defined in part II, paragraph (c) of this Appendix, only the portion of part I of this Appendix in which the airplane is capable of operating safely must be considered.
 
-\(3\) For an airplane certified in accordance with §25.1420(a)(3), the ice accretions for each flight phase are defined in part II, paragraph (c) of this Appendix.
+\(3\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(3), the ice accretions for each flight phase are defined in part II, paragraph (c) of this Appendix.
 
-\(b\) Ice accretions for airplanes certified in accordance with §25.1420(a)(1) or (2).
+\(b\) Ice accretions for airplanes certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1) or (2).
 
-\(1\) *En route ice* is the en route ice as defined by part II, paragraph (c)(3), of this Appendix, for an airplane certified in accordance with §25.1420(a)(2), or defined by part II, paragraph (a)(3), of Appendix C of this part, for an airplane certified in accordance with §25.1420(a)(1), plus:
+\(1\) *En route ice* is the en route ice as defined by part II, paragraph (c)(3), of this Appendix, for an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), or defined by part II, paragraph (a)(3), of Appendix C of this part, for an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), plus:
 
 \(i\) Pre-detection ice as defined by part II, paragraph (b)(5), of this Appendix; and
 
 \(ii\) The ice accumulated during the transit of one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
 
-\(2\) *Holding ice* is the holding ice defined by part II, paragraph (c)(4), of this Appendix, for an airplane certified in accordance with §25.1420(a)(2), or defined by part II, paragraph (a)(4), of Appendix C of this part, for an airplane certified in accordance with §25.1420(a)(1), plus:
+\(2\) *Holding ice* is the holding ice defined by part II, paragraph (c)(4), of this Appendix, for an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), or defined by part II, paragraph (a)(4), of Appendix C of this part, for an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), plus:
 
 \(i\) Pre-detection ice as defined by part II, paragraph (b)(5), of this Appendix; and
 
@@ -10522,13 +10522,13 @@ H = horizontal extent in nautical miles
 
 \(3\) *Approach ice* is the more critical of the holding ice defined by part II, paragraph (b)(2), of this Appendix, or the ice calculated in the applicable paragraphs (b)(3)(i) or (ii) of part II, of this Appendix:
 
-\(i\) For an airplane certified in accordance with §25.1420(a)(2), the ice accumulated during descent from the maximum vertical extent of the icing conditions defined in part I of this Appendix to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration, plus:
+\(i\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the ice accumulated during descent from the maximum vertical extent of the icing conditions defined in part I of this Appendix to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration, plus:
 
 \(A\) Pre-detection ice, as defined by part II, paragraph (b)(5), of this Appendix; and
 
 \(B\) The ice accumulated during the transit at 2,000 feet above the landing surface of one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
 
-\(ii\) For an airplane certified in accordance with §25.1420(a)(1), the ice accumulated during descent from the maximum vertical extent of the maximum continuous icing conditions defined in part I of Appendix C to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration, plus:
+\(ii\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the ice accumulated during descent from the maximum vertical extent of the maximum continuous icing conditions defined in part I of Appendix C to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration, plus:
 
 \(A\) Pre-detection ice, as defined by part II, paragraph (b)(5), of this Appendix; and
 
@@ -10536,25 +10536,25 @@ H = horizontal extent in nautical miles
 
 \(4\) *Landing ice* is the more critical of the holding ice as defined by part II, paragraph (b)(2), of this Appendix, or the ice calculated in the applicable paragraphs (b)(4)(i) or (ii) of part II of this Appendix:
 
-\(i\) For an airplane certified in accordance with §25.1420(a)(2), the ice accretion defined by part II, paragraph (c)(5)(i), of this Appendix, plus a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration in the icing conditions defined in part I of this Appendix, plus:
+\(i\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the ice accretion defined by part II, paragraph (c)(5)(i), of this Appendix, plus a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration in the icing conditions defined in part I of this Appendix, plus:
 
 \(A\) Pre-detection ice, as defined in part II, paragraph (b)(5), of this Appendix; and
 
-\(B\) The ice accumulated during an exit maneuver, beginning with the minimum climb gradient required by §25.119, from a height of 200 feet above the landing surface through one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
+\(B\) The ice accumulated during an exit maneuver, beginning with the minimum climb gradient required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]], from a height of 200 feet above the landing surface through one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
 
-\(ii\) For an airplane certified in accordance with §25.1420(a)(1), the ice accumulated in the maximum continuous icing conditions defined in Appendix C of this part, during a descent from the maximum vertical extent of the icing conditions defined in Appendix C of this part, to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration and flying for 15 minutes at 2,000 feet above the landing surface, plus a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration, plus:
+\(ii\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the ice accumulated in the maximum continuous icing conditions defined in Appendix C of this part, during a descent from the maximum vertical extent of the icing conditions defined in Appendix C of this part, to 2,000 feet above the landing surface in the cruise configuration, plus transition to the approach configuration and flying for 15 minutes at 2,000 feet above the landing surface, plus a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration, plus:
 
 \(A\) Pre-detection ice, as described by part II, paragraph (b)(5), of this Appendix; and
 
-\(B\) The ice accumulated during an exit maneuver, beginning with the minimum climb gradient required by §25.119, from a height of 200 feet above the landing surface through one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
+\(B\) The ice accumulated during an exit maneuver, beginning with the minimum climb gradient required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]], from a height of 200 feet above the landing surface through one cloud with a horizontal extent of 17.4 nautical miles in the most critical of the icing conditions defined in part I of this Appendix and one cloud with a horizontal extent of 17.4 nautical miles in the continuous maximum icing conditions defined in Appendix C of this part.
 
-\(5\) *Pre-detection ice* is the ice accretion before detection of flight conditions in this Appendix that require exiting per §25.1420(a)(1) and (2). It is the pre-existing ice accretion that may exist from operating in icing conditions in which the airplane is approved to operate prior to encountering the icing conditions requiring an exit, plus the ice accumulated during the time needed to detect the icing conditions, followed by two minutes of further ice accumulation to take into account the time for the flightcrew to take action to exit the icing conditions, including coordination with air traffic control.
+\(5\) *Pre-detection ice* is the ice accretion before detection of flight conditions in this Appendix that require exiting per [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1) and (2). It is the pre-existing ice accretion that may exist from operating in icing conditions in which the airplane is approved to operate prior to encountering the icing conditions requiring an exit, plus the ice accumulated during the time needed to detect the icing conditions, followed by two minutes of further ice accumulation to take into account the time for the flightcrew to take action to exit the icing conditions, including coordination with air traffic control.
 
-\(i\) For an airplane certified in accordance with §25.1420(a)(1), the pre-existing ice accretion must be based on the icing conditions defined in Appendix C of this part.
+\(i\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(1), the pre-existing ice accretion must be based on the icing conditions defined in Appendix C of this part.
 
-\(ii\) For an airplane certified in accordance with §25.1420(a)(2), the pre-existing ice accretion must be based on the more critical of the icing conditions defined in Appendix C of this part, or the icing conditions defined in part I of this Appendix in which the airplane is capable of safely operating.
+\(ii\) For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), the pre-existing ice accretion must be based on the more critical of the icing conditions defined in Appendix C of this part, or the icing conditions defined in part I of this Appendix in which the airplane is capable of safely operating.
 
-\(c\) *Ice accretions for airplanes certified in accordance with §§25.1420(a)(2) or (3).* For an airplane certified in accordance with §25.1420(a)(2), only the portion of the icing conditions of part I of this Appendix in which the airplane is capable of operating safely must be considered.
+\(c\) *Ice accretions for airplanes certified in accordance with §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2) or (3).* For an airplane certified in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1420   Supercooled large drop icing conditions.|§25.1420]](a)(2), only the portion of the icing conditions of part I of this Appendix in which the airplane is capable of operating safely must be considered.
 
 \(1\) *Takeoff ice* is the most critical ice accretion on unprotected surfaces, and any ice accretion on the protected surfaces, occurring between the end of the takeoff distance and 400 feet above the takeoff surface, assuming accretion starts at the end of the takeoff distance in the icing conditions defined in part I of this Appendix.
 
@@ -10572,7 +10572,7 @@ H = horizontal extent in nautical miles
 
 \(6\) *Landing ice* is the ice accretion on the unprotected surfaces, and any ice accretion on the protected surfaces appropriate to normal ice protection system operation, resulting from the more critical of the:
 
-\(i\) Ice accretion defined by part II, paragraph (c)(5)(i), of this Appendix, plus ice accumulated in the icing conditions defined in part I of this Appendix during a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration, followed by a go-around at the minimum climb gradient required by §25.119, from a height of 200 feet above the landing surface to 2,000 feet above the landing surface, flying for 15 minutes at 2,000 feet above the landing surface in the approach configuration, and a descent to the landing surface (touchdown) in the landing configuration; or
+\(i\) Ice accretion defined by part II, paragraph (c)(5)(i), of this Appendix, plus ice accumulated in the icing conditions defined in part I of this Appendix during a descent from 2,000 feet above the landing surface to a height of 200 feet above the landing surface with a transition to the landing configuration, followed by a go-around at the minimum climb gradient required by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.119   Landing climb: All-engines-operating.|§25.119]], from a height of 200 feet above the landing surface to 2,000 feet above the landing surface, flying for 15 minutes at 2,000 feet above the landing surface in the approach configuration, and a descent to the landing surface (touchdown) in the landing configuration; or
 
 \(ii\) Holding ice as defined by part II, paragraph (c)(4), of this Appendix.
 
@@ -10588,9 +10588,9 @@ H = horizontal extent in nautical miles
 
 \(v\) Crew activation of the ice protection system is in accordance with a normal operating procedure provided in the airplane flight manual, except that after beginning the takeoff roll, it must be assumed that the crew takes no action to activate the ice protection system until the airplane is at least 400 feet above the takeoff surface.
 
-\(d\) The ice accretion before the ice protection system has been activated and is performing its intended function is the critical ice accretion formed on the unprotected and normally protected surfaces before activation and effective operation of the ice protection system in the icing conditions defined in part I of this Appendix. This ice accretion only applies in showing compliance to §§25.143(j) and 25.207(h).
+\(d\) The ice accretion before the ice protection system has been activated and is performing its intended function is the critical ice accretion formed on the unprotected and normally protected surfaces before activation and effective operation of the ice protection system in the icing conditions defined in part I of this Appendix. This ice accretion only applies in showing compliance to §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.143   General.|§25.143]](j) and 25.207(h).
 
-\(e\) In order to reduce the number of ice accretions to be considered when demonstrating compliance with the requirements of §25.21(g), any of the ice accretions defined in this Appendix may be used for any other flight phase if it is shown to be at least as critical as the specific ice accretion defined for that flight phase. Configuration differences and their effects on ice accretions must be taken into account.
+\(e\) In order to reduce the number of ice accretions to be considered when demonstrating compliance with the requirements of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.21   Proof of compliance.|§25.21]](g), any of the ice accretions defined in this Appendix may be used for any other flight phase if it is shown to be at least as critical as the specific ice accretion defined for that flight phase. Configuration differences and their effects on ice accretions must be taken into account.
 
 \(f\) The ice accretion that has the most adverse effect on handling qualities may be used for airplane performance tests provided any difference in performance is conservatively taken into account.
 

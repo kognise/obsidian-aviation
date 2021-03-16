@@ -22,7 +22,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.13](https://www.ecfr.
 
 \(c\) In conducting formal investigations, the Chief Counsel, the Deputy Chief Counsel, each Assistant Chief Counsel, each Regional Counsel, the Aeronautical Center Counsel, and the Technical Center Counsel may issue an order of investigation in accordance with subpart F of this part.
 
-\(d\) A complaint against the sponsor, proprietor, or operator of a Federally-assisted airport involving violations of the legal authorities listed in §16.1 of this chapter shall be filed in accordance with the provisions of part 16 of this chapter, except in the case of complaints, investigations, and proceedings initiated before December 16, 1996, the effective date of part 16 of this chapter.
+\(d\) A complaint against the sponsor, proprietor, or operator of a Federally-assisted airport involving violations of the legal authorities listed in [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md#§16.1   Applicability and description of part.|§16.1]] of this chapter shall be filed in accordance with the provisions of [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md|part 16 of this chapter]], except in the case of complaints, investigations, and proceedings initiated before December 16, 1996, the effective date of [[Volume 1/B Procedural rules/0016 Rules of practice for federally-assisted airport enforcement proceedings.md|part 16 of this chapter]].
 
 \[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-17, 53 FR 33783, Aug. 31, 1988; 53 FR 35255, Sept. 12, 1988; Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-27, 61 FR 54004, Oct. 16, 1996; Amdt. 13-29, 62 FR 46865, Sept. 4, 1997\]
 
@@ -44,11 +44,11 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.13](https://www.ecfr.
 
 \(6\) Be signed by the person filing the complaint or a duly authorized representative.
 
-\(c\) Complaints which do not meet the requirements of paragraph (b) of this section will be considered reports under §13.1.
+\(c\) Complaints which do not meet the requirements of paragraph (b) of this section will be considered reports under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.1   Reports of violations.|§13.1]].
 
 \(d\) Complaints which meet the requirements of paragraph (b) of this section will be docketed and a copy mailed to each person named in the complaint.
 
-\(e\) Any complaint filed against a member of the Armed Forces of the United States acting in the performance of official duties shall be referred to the Secretary of the Department concerned for action in accordance with the procedures set forth in §13.21 of this part.
+\(e\) Any complaint filed against a member of the Armed Forces of the United States acting in the performance of official duties shall be referred to the Secretary of the Department concerned for action in accordance with the procedures set forth in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.21   Military personnel.|§13.21]] of this part.
 
 \(f\) The person named in the complaint shall file an answer within 20 days after service of a copy of the complaint.
 
@@ -56,7 +56,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.13](https://www.ecfr.
 
 \(h\) If the Administrator determines that a complaint does not state facts which warrant an investigation or action, the complaint may be dismissed without a hearing and the reason for the dismissal shall be given, in writing, to the person who filed the complaint and the person named in the complaint.
 
-\(i\) If the Administrator determines that reasonable grounds exist, an informal investigation may be initiated or an order of investigation may be issued in accordance with subpart F of this part, or both. Each person named in the complaint shall be advised which official has been delegated the responsibility under §13.3(b) or (c) for conducting the investigation.
+\(i\) If the Administrator determines that reasonable grounds exist, an informal investigation may be initiated or an order of investigation may be issued in accordance with subpart F of this part, or both. Each person named in the complaint shall be advised which official has been delegated the responsibility under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.3   Investigations (general).|§13.3]](b) or (c) for conducting the investigation.
 
 \(j\) If the investigation substantiates the allegations set forth in the complaint, a notice of proposed order may be issued or other enforcement action taken in accordance with this part.
 
@@ -128,9 +128,9 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 ### §13.15   Civil penalties: Other than by administrative assessment.
 
-\(a\) The FAA uses the procedures in this section when it seeks a civil penalty other than by the administrative assessment procedures in §§13.16 or 13.18.
+\(a\) The FAA uses the procedures in this section when it seeks a civil penalty other than by the administrative assessment procedures in §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.|§13.16]] or 13.18.
 
-\(b\) The authority of the Administrator, under 49 U.S.C. chapter 463, to seek a civil penalty for a violation cited in §13.14(a), and the ability to refer cases to the United States Attorney General, or the delegate of the Attorney General, for prosecution of civil penalty actions sought by the Administrator is delegated to the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel. This delegation applies to cases involving:
+\(b\) The authority of the Administrator, under 49 U.S.C. chapter 463, to seek a civil penalty for a violation cited in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.14   Civil penalties: General.|§13.14]](a), and the ability to refer cases to the United States Attorney General, or the delegate of the Attorney General, for prosecution of civil penalty actions sought by the Administrator is delegated to the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel. This delegation applies to cases involving:
 
 \(1\) An amount in controversy in excess of:
 
@@ -144,7 +144,7 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 \(c\) The Administrator may compromise any civil penalty proposed under this section, before referral to the United States Attorney General, or the delegate of the Attorney General, for prosecution.
 
-\(1\) The Administrator, through the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; or the Technical Center Counsel sends a civil penalty letter to the person charged with a violation cited in §13.14(a). The civil penalty letter contains a statement of the charges, the applicable law, rule, regulation, or order, the amount of civil penalty that the Administrator will accept in full settlement of the action or an offer to compromise the civil penalty.
+\(1\) The Administrator, through the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; or the Technical Center Counsel sends a civil penalty letter to the person charged with a violation cited in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.14   Civil penalties: General.|§13.14]](a). The civil penalty letter contains a statement of the charges, the applicable law, rule, regulation, or order, the amount of civil penalty that the Administrator will accept in full settlement of the action or an offer to compromise the civil penalty.
 
 \(2\) Not later than 30 days after receipt of the civil penalty letter, the person charged with a violation may present any material or information in answer to the charges to the agency attorney, either orally or in writing, that may explain, mitigate, or deny the violation or that may show extenuating circumstances. The Administrator will consider any material or information submitted in accordance with this paragraph to determine whether the person is subject to a civil penalty or to determine the amount for which the Administrator will compromise the action.
 
@@ -228,17 +228,17 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 \(ii\) Request a hearing, in which case a complaint shall be filed with the hearing docket clerk.
 
-\(h\) Request for a hearing. Any person charged with a violation may request a hearing, pursuant to paragraph (f)(3) or paragraph (g)(2)(ii) of this section, to be conducted in accordance with the procedures in subpart G of this part. A person requesting a hearing shall file a written request for a hearing with the hearing docket clerk, using the appropriate address set forth in §13.210(a) of this part, and shall mail a copy of the request to the agency attorney. The request for a hearing may be in the form of a letter but must be dated and signed by the person requesting a hearing. The request for a hearing may be typewritten or may be legibly handwritten.
+\(h\) Request for a hearing. Any person charged with a violation may request a hearing, pursuant to paragraph (f)(3) or paragraph (g)(2)(ii) of this section, to be conducted in accordance with the procedures in subpart G of this part. A person requesting a hearing shall file a written request for a hearing with the hearing docket clerk, using the appropriate address set forth in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.210   Filing of documents.|§13.210]](a) of this part, and shall mail a copy of the request to the agency attorney. The request for a hearing may be in the form of a letter but must be dated and signed by the person requesting a hearing. The request for a hearing may be typewritten or may be legibly handwritten.
 
 \(i\) *Hearing.* If the person charged with a violation requests a hearing pursuant to paragraph (f)(3) or paragraph (g)(2)(ii) of this section, the original complaint shall be filed with the hearing docket clerk and a copy shall be sent to the person requesting the hearing. The procedural rules in subpart G of this part apply to the hearing and any appeal. At the close of the hearing, the administrative law judge shall issue, either orally on the record or in writing, an initial decision, including the reasons for the decision, that contains findings or conclusions on the allegations contained, and the civil penalty sought, in the complaint.
 
-\(j\) *Appeal.* Either party may appeal the administrative law judge's initial decision to the FAA decisionmaker pursuant to the procedures in subpart G of this part. If a party files a notice of appeal pursuant to §13.233 of subpart G, the effectiveness of the initial decision is stayed until a final decision and order of the Administrator have been entered on the record. The FAA decisionmaker shall review the record and issue a final decision and order of the Administrator that affirm, modify, or reverse the initial decision. The FAA decisionmaker may assess a civil penalty but shall not assess a civil penalty in an amount greater than that sought in the complaint.
+\(j\) *Appeal.* Either party may appeal the administrative law judge's initial decision to the FAA decisionmaker pursuant to the procedures in subpart G of this part. If a party files a notice of appeal pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.233   Appeal from initial decision.|§13.233]] of subpart G, the effectiveness of the initial decision is stayed until a final decision and order of the Administrator have been entered on the record. The FAA decisionmaker shall review the record and issue a final decision and order of the Administrator that affirm, modify, or reverse the initial decision. The FAA decisionmaker may assess a civil penalty but shall not assess a civil penalty in an amount greater than that sought in the complaint.
 
 \(k\) *Payment.* A person shall pay a civil penalty by sending a certified check or money order, payable to the Federal Aviation Administration, to the agency attorney.
 
 \(l\) *Collection of civil penalties.* If an individual does not pay a civil penalty imposed by an order assessing civil penalty or other final order, the Administrator may take action provided under the law to collect the penalty.
 
-\(m\) A party may seek review only of a final decision and order of the FAA decisionmaker involving a violation of the Federal aviation statute or the Federal hazardous materials transportation law. Judicial review is in the United States Court of Appeals for the District of Columbia Circuit or the United States court of appeals for the circuit in which the party resides or has the party's principal place of business as provided in §13.235 of this part. Neither an initial decision or an order issued by an administrative law judge that has not been appealed to the FAA decisionmaker, nor an order compromising a civil penalty action, may be appealed under any of those sections.
+\(m\) A party may seek review only of a final decision and order of the FAA decisionmaker involving a violation of the Federal aviation statute or the Federal hazardous materials transportation law. Judicial review is in the United States Court of Appeals for the District of Columbia Circuit or the United States court of appeals for the circuit in which the party resides or has the party's principal place of business as provided in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.235   Judicial review of a final decision and order.|§13.235]] of this part. Neither an initial decision or an order issued by an administrative law judge that has not been appealed to the FAA decisionmaker, nor an order compromising a civil penalty action, may be appealed under any of those sections.
 
 \(n\) *Compromise.* The FAA may compromise the amount of any civil penalty imposed under this section, under 49 U.S.C. 5123(e), 46031(f), 46303(b), or 46318 at any time before referring the action to the United States Attorney General, or the delegate of the Attorney General, for collection.
 
@@ -300,15 +300,15 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 \(b\) *Definitions.* As used in this part, the following definitions apply:
 
-\(1\) *Flight engineer* means an individual who holds a flight engineer certificate issued under part 63 of this chapter.
+\(1\) *Flight engineer* means an individual who holds a flight engineer certificate issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]].
 
 \(2\) *Individual acting as a pilot, flight engineer, mechanic, or repairman* means an individual acting in such capacity, whether or not that individual holds the respective airman certificate issued by the FAA.
 
-\(3\) *Mechanic* means an individual who holds a mechanic certificate issued under part 65 of this chapter.
+\(3\) *Mechanic* means an individual who holds a mechanic certificate issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]].
 
-\(4\) *Pilot* means an individual who holds a pilot certificate issued under part 61 of this chapter.
+\(4\) *Pilot* means an individual who holds a pilot certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
-\(5\) *Repairman* means an individual who holds a repairman certificate issued under part 65 of this chapter.
+\(5\) *Repairman* means an individual who holds a repairman certificate issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]].
 
 \(c\) *Delegation of authority.* (1) The authority of the Administrator under 49 U.S.C. 46301(d)(5), to initiate and assess civil penalties is delegated to the Chief Counsel; the Deputy Chief Counsel for Operations; the Assistant Chief Counsel for Enforcement; Assistant Chief Counsel, Europe, Africa, and Middle East Area Office; the Regional Counsel; the Aeronautical Center Counsel; and the Technical Center Counsel.
 
@@ -362,7 +362,7 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 \(a\) Under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), the Administrator may reinspect any civil aircraft, aircraft engine, propeller, appliance, air navigation facility, or air agency, and may re-examine any civil airman. Under section 501(e) of the FA Act, any Certificate of Aircraft Registration may be suspended or revoked by the Administrator for any cause that renders the aircraft ineligible for registration.
 
-\(b\) If, as a result of such a reinspection re-examination, or other investigation made by the Administrator under section 609 of the FA Act, the Administrator determines that the public interest and safety in air commerce requires it, the Administrator may issue an order amending, suspending, or revoking, all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate. This authority may be exercised for remedial purposes in cases involving the Hazardous Materials Transportation Act (49 U.S.C. 1801 *et seq.*) or regulations issued under that Act. This authority is also exercised by the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, and the Aeronautical Center Counsel. If the Administrator finds that any aircraft registered under Part 47 of this chapter is ineligible for registration, the Administrator issues an order suspending or revoking that certificate. This authority as to aircraft found ineligible for registration is also exercised by each Regional Counsel, the Aeronautical Center Counsel, and the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office.
+\(b\) If, as a result of such a reinspection re-examination, or other investigation made by the Administrator under section 609 of the FA Act, the Administrator determines that the public interest and safety in air commerce requires it, the Administrator may issue an order amending, suspending, or revoking, all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate. This authority may be exercised for remedial purposes in cases involving the Hazardous Materials Transportation Act (49 U.S.C. 1801 *et seq.*) or regulations issued under that Act. This authority is also exercised by the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, and the Aeronautical Center Counsel. If the Administrator finds that any aircraft registered under [[Volume 1/C Aircraft/0047 Aircraft registration.md|Part 47 of this chapter]] is ineligible for registration, the Administrator issues an order suspending or revoking that certificate. This authority as to aircraft found ineligible for registration is also exercised by each Regional Counsel, the Aeronautical Center Counsel, and the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office.
 
 \(c\) Before issuing an order under paragraph (b) of this section, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, or the Aeronautical Center Counsel advises the certificate holder of the charges or other reasons upon which the Administrator bases the proposed action and, except in an emergency, allows the holder to answer any charges and to be heard as to why the certificate should not be amended, suspended, or revoked. The holder may, by checking the appropriate box on the form that is sent to the holder with the notice of proposed certificate action, elect to—
 
@@ -426,7 +426,7 @@ Each record, document and report that the Federal Aviation Regulations require t
 
 \(l\) Except in the case of an appeal from the decision of a Hearing Officer, the authority of the Administrator under this section is also exercised by the Chief Counsel, Deputy Chief Counsel, each Assistant Chief Counsel, each Regional Counsel, and the Aeronautical Center Counsel (as to matters under Title V of the Federal Aviation Act of 1958).
 
-\(m\) Filing and service of documents under this section shall be accomplished in accordance with §13.43; and the periods of time specified in this section shall be computed in accordance with §13.44.
+\(m\) Filing and service of documents under this section shall be accomplished in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.43   Service and filing of pleadings, motions, and documents.|§13.43]]; and the periods of time specified in this section shall be computed in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.44   Computation of time and extension of time.|§13.44]].
 
 \[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-17, 53 FR 33783, Aug. 31, 1988; Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46865, Sept. 4, 1997; Amdt. 13-36, 79 FR 46967, Aug. 12, 2014\]
 
@@ -514,7 +514,7 @@ A final notice and order may be issued—
 
 ### §13.31   Applicability.
 
-This subpart applies to proceedings in which a hearing has been requested in accordance with §§13.19(c)(5), 13.20(c), 13.20(d), 13.75(a)(2), 13.75(b), or 13.81(e).
+This subpart applies to proceedings in which a hearing has been requested in accordance with §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.19   Certificate action.|§13.19]](c)(5), 13.20(c), 13.20(d), 13.75(a)(2), 13.75(b), or 13.81(e).
 
 \[Amdt. 13-18, 53 FR 34655, Sept. 7, 1988\]
 
@@ -630,7 +630,7 @@ The Hearing Officer shall set a reasonable date, time, and place for the hearing
 
 \(a\) The Hearing Officer to whom a case is assigned may, upon application by any party to the proceeding, issue subpoenas requiring the attendance of witnesses or the production of documentary or tangible evidence at a hearing or for the purpose of taking depositions. However, the application for producing evidence must show its general relevance and reasonable scope. This paragraph does not apply to the attendance of FAA employees or to the production of documentary evidence in the custody of such an employee at a hearing.
 
-\(b\) A person who applies for the production of a document in the custody of an FAA employee must follow the procedure in §13.49(f). A person who applies for the attendance of an FAA employee must send the application, in writing, to the Hearing Officer setting forth the need for that employee's attendance.
+\(b\) A person who applies for the production of a document in the custody of an FAA employee must follow the procedure in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.49   Motions.|§13.49]](f). A person who applies for the attendance of an FAA employee must send the application, in writing, to the Hearing Officer setting forth the need for that employee's attendance.
 
 \(c\) A witness in a proceeding under this subpart is entitled to the same fees and mileage as is paid to a witness in a court of the United States under comparable circumstances. The party at whose instance the witness is subpoenaed or appears shall pay the witness fees.
 
@@ -704,7 +704,7 @@ A compliance order proceeding commences when the Chief Counsel, the Assistant Ch
 
 ### §13.79   Hearing.
 
-If an alleged violator requests a hearing in accordance with §13.75, the procedure of subpart D of this part applies. At the close of the hearing, the Hearing Officer, on the record or subsequently in writing, sets forth the Hearing Officer's findings and conclusion and the reasons therefor, and either—
+If an alleged violator requests a hearing in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.75   Reply or request for hearing.|§13.75]], the procedure of subpart D of this part applies. At the close of the hearing, the Hearing Officer, on the record or subsequently in writing, sets forth the Hearing Officer's findings and conclusion and the reasons therefor, and either—
 
 \(a\) Dismisses the notice of proposed order of compliance; or
 
@@ -712,19 +712,19 @@ If an alleged violator requests a hearing in accordance with §13.75, the proced
 
 ### §13.81   Order of immediate compliance.
 
-\(a\) Notwithstanding §§13.73 through 13.79, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, or a Regional Counsel may issue an order of immediate compliance, which is effective upon issuance, if the person who issues the order finds that—
+\(a\) Notwithstanding §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] through 13.79, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, or a Regional Counsel may issue an order of immediate compliance, which is effective upon issuance, if the person who issues the order finds that—
 
 \(1\) There is strong probability that a violation is occurring or is about to occur;
 
 \(2\) The violation poses a substantial risk to health or to safety of life or property; and
 
-\(3\) The public interest requires the avoidance or amelioration of that risk through immediate compliance and waiver of the procedures afforded under §§13.73 through 13.79.
+\(3\) The public interest requires the avoidance or amelioration of that risk through immediate compliance and waiver of the procedures afforded under §[[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] through 13.79.
 
 \(b\) An order of immediate compliance is served promptly upon the person against whom the order is issued by telephone or telegram, and a written statement of the relevant facts and the legal basis for the order, including the findings required by paragraph (a) of this section, is served promptly by personal service or by mail.
 
-\(c\) The official who issued the order of immediate compliance may rescind or suspend the order if it appears that the criteria set forth in paragraph (a) of this section are no longer satisfied, and, when appropriate, may issue a notice of proposed order of compliance under §13.73 in lieu thereof.
+\(c\) The official who issued the order of immediate compliance may rescind or suspend the order if it appears that the criteria set forth in paragraph (a) of this section are no longer satisfied, and, when appropriate, may issue a notice of proposed order of compliance under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] in lieu thereof.
 
-\(d\) If at any time in the course of a proceeding commenced in accordance with §13.73 the criteria set forth in paragraph (a) of this section are satisfied, the official who issued the notice may issue an order of immediate compliance, even if the period for filing a reply or requesting a hearing specified in §13.75 has not expired.
+\(d\) If at any time in the course of a proceeding commenced in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.73   Notice of proposed order of compliance.|§13.73]] the criteria set forth in paragraph (a) of this section are satisfied, the official who issued the notice may issue an order of immediate compliance, even if the period for filing a reply or requesting a hearing specified in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.75   Reply or request for hearing.|§13.75]] has not expired.
 
 \(e\) Within three days after receipt of service of an order of immediate compliance, the alleged violator may request a hearing in accordance with Subpart D of this part and the procedure in that subpart will apply except that—
 
@@ -736,7 +736,7 @@ If an alleged violator requests a hearing in accordance with §13.75, the proced
 
 \(f\) The filing of a request for hearing in accordance with paragraph (e) of this section does not stay the effectiveness of an order of immediate compliance.
 
-\(g\) At any time after an order of immediate compliance has become effective, the official who issued the order may request the United States Attorney General, or the delegate of the Attorney General, to bring an action for appropriate relief in accordance with §13.25.
+\(g\) At any time after an order of immediate compliance has become effective, the official who issued the order may request the United States Attorney General, or the delegate of the Attorney General, to bring an action for appropriate relief in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.25   Injunctions.|§13.25]].
 
 \[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46866, Sept. 4, 1997\]
 
@@ -744,7 +744,7 @@ If an alleged violator requests a hearing in accordance with §13.75, the proced
 
 \(a\) Any party to the hearing may appeal from the order of the Hearing Officer by filing a notice of appeal with the Administrator within 20 days after the date of issuance of the order.
 
-\(b\) Any person against whom an order of immediate compliance has been issued in accordance with §13.81 or the official who issued the order of immediate compliance may appeal from the order of the Hearing Officer by filing a notice of appeal with the Administrator within three days after the date of issuance of the order by the Hearing Officer.
+\(b\) Any person against whom an order of immediate compliance has been issued in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.81   Order of immediate compliance.|§13.81]] or the official who issued the order of immediate compliance may appeal from the order of the Hearing Officer by filing a notice of appeal with the Administrator within three days after the date of issuance of the order by the Hearing Officer.
 
 \(c\) Unless the Administrator expressly so provides, the filing of a notice of appeal does not stay the effectiveness of an order of immediate compliance.
 
@@ -760,7 +760,7 @@ If an alleged violator requests a hearing in accordance with §13.75, the proced
 
 ### §13.85   Filing, service and computation of time.
 
-Filing and service of documents under this subpart shall be accomplished in accordance with §13.43 except service of orders of immediate compliance under §13.81(b); and the periods of time specified in this subpart shall be computed in accordance with §13.44.
+Filing and service of documents under this subpart shall be accomplished in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.43   Service and filing of pleadings, motions, and documents.|§13.43]] except service of orders of immediate compliance under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.81   Order of immediate compliance.|§13.81]](b); and the periods of time specified in this subpart shall be computed in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.44   Computation of time and extension of time.|§13.44]].
 
 ### §13.87   Extension of time.
 
@@ -772,7 +772,7 @@ Filing and service of documents under this subpart shall be accomplished in acco
 
 ### §13.101   Applicability.
 
-\(a\) This subpart applies to fact-finding investigations in which an order of investigation has been issued under §13.3(c) or §13.5(i) of this part.
+\(a\) This subpart applies to fact-finding investigations in which an order of investigation has been issued under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.3   Investigations (general).|§13.3]](c) or [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.5   Formal complaints.|§13.5]](i) of this part.
 
 \(b\) This subpart does not limit the authority of duly designated persons to issue subpoenas, administer oaths, examine witnesses and receive evidence in any informal investigation as provided for in sections 313 and 1004(a) of the Federal Aviation Act (49 U.S.C. 1354 and 1484(a)) and section 109(a) of the Hazardous Materials Transportation Act (49 U.S.C. 1808(a)).
 
@@ -884,7 +884,7 @@ Any question concerning the scope or conduct of a formal investigation not cover
 
 ### §13.201   Applicability.
 
-\(a\) This subpart applies to all civil penalty actions initiated under §13.16 of this part in which a hearing has been requested.
+\(a\) This subpart applies to all civil penalty actions initiated under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.|§13.16]] of this part in which a hearing has been requested.
 
 \(b\) This subpart applies only to proceedings initiated after September 7, 1988. All other cases, hearings, or other proceedings pending or in progress before September 7, 1988, are not affected by the rules in this subpart.
 
@@ -904,7 +904,7 @@ Any question concerning the scope or conduct of a formal investigation not cover
 
 *Attorney* means a person licensed by a state, the District of Columbia, or a territory of the United States to practice law or appear before the courts of that state or territory.
 
-*Complaint* means a document issued by an agency attorney alleging a violation of a provision of the Federal aviation statute listed in the first sentence of 49 U.S.C. 46301(d)(2) or in 49 U.S.C. 47531, or of the Federal hazardous materials transportation statute, 49 U.S.C. 5121-5128, or a rule, regulation, or order issued under those statutes, that has been filed with the Hearing Docket after a hearing has been requested under §13.16(f)(3) or (g)(2)(ii) of this part.
+*Complaint* means a document issued by an agency attorney alleging a violation of a provision of the Federal aviation statute listed in the first sentence of 49 U.S.C. 46301(d)(2) or in 49 U.S.C. 47531, or of the Federal hazardous materials transportation statute, 49 U.S.C. 5121-5128, or a rule, regulation, or order issued under those statutes, that has been filed with the Hearing Docket after a hearing has been requested under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.16   Civil Penalties: Administrative assessment against a person other than an individual acting as a pilot, flight engineer, mechanic, or repairman. Administrative assessment against all persons for hazardous materials violations.|§13.16]](f)(3) or (g)(2)(ii) of this part.
 
 *FAA decisionmaker* means the Administrator of the Federal Aviation Administration, acting in the capacity of the decisionmaker on appeal, or any person to whom the Administrator has delegated the Administrator's decisionmaking authority in a civil penalty action. As used in this subpart, the FAA decisionmaker is the official authorized to issue a final decision and order of the Administrator in a civil penalty action.
 
@@ -938,7 +938,7 @@ Any question concerning the scope or conduct of a formal investigation not cover
 
 \(a\) Any party may appear and be heard in person.
 
-\(b\) Any party may be accompanied, represented, or advised by an attorney or representative designated by the party and may be examined by that attorney or representative in any proceeding governed by this subpart. An attorney or representative who represents a party may file a notice of appearance in the action, in the manner provided in §13.210 of this subpart, and shall serve a copy of the notice of appearance on each party, in the manner provided in §13.211 of this subpart, before participating in any proceeding governed by this subpart. The attorney or representative shall include the name, address, and telephone number of the attorney or representative in the notice of appearance.
+\(b\) Any party may be accompanied, represented, or advised by an attorney or representative designated by the party and may be examined by that attorney or representative in any proceeding governed by this subpart. An attorney or representative who represents a party may file a notice of appearance in the action, in the manner provided in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.210   Filing of documents.|§13.210]] of this subpart, and shall serve a copy of the notice of appearance on each party, in the manner provided in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.211   Service of documents.|§13.211]] of this subpart, before participating in any proceeding governed by this subpart. The attorney or representative shall include the name, address, and telephone number of the attorney or representative in the notice of appearance.
 
 \(c\) Any person may request a copy of a document upon payment of reasonable costs. A person may keep an original document, data, or evidence, with the consent of the administrative law judge, by substituting a legible copy of the document for the record.
 
@@ -964,9 +964,9 @@ Any question concerning the scope or conduct of a formal investigation not cover
 
 \(9\) Make findings of fact and conclusions of law, and issue an initial decision.
 
-\(b\) *Limitations on the power of the administrative law judge.* The administrative law judge shall not issue an order of contempt, award costs to any party, or impose any sanction not specified in this subpart. If the administrative law judge imposes any sanction not specified in this subpart, a party may file an interlocutory appeal of right with the FAA decisionmaker pursuant to §13.219(c)(4) of this subpart. This section does not preclude an administrative law judge from issuing an order that bars a person from a specific proceeding based on a finding of obstreperous or disruptive behavior in that specific proceeding.
+\(b\) *Limitations on the power of the administrative law judge.* The administrative law judge shall not issue an order of contempt, award costs to any party, or impose any sanction not specified in this subpart. If the administrative law judge imposes any sanction not specified in this subpart, a party may file an interlocutory appeal of right with the FAA decisionmaker pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.219   Interlocutory appeals.|§13.219]](c)(4) of this subpart. This section does not preclude an administrative law judge from issuing an order that bars a person from a specific proceeding based on a finding of obstreperous or disruptive behavior in that specific proceeding.
 
-\(c\) *Disqualification.* The administrative law judge may disqualify himself or herself at any time. A party may file a motion, pursuant to §13.218(f)(6), requesting that an administrative law judge be disqualified from the proceedings.
+\(c\) *Disqualification.* The administrative law judge may disqualify himself or herself at any time. A party may file a motion, pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.218   Motions.|§13.218]](f)(6), requesting that an administrative law judge be disqualified from the proceedings.
 
 \[Amdt. 13-21, 55 FR 27575, July 3, 1990; 55 FR 29293, July 18, 1990\]
 
@@ -1016,15 +1016,15 @@ Any question concerning the scope or conduct of a formal investigation not cover
 
 \(2\) If the agency fails to show good cause for any delay, an administrative law judge may dismiss the complaint, or that part of the complaint, alleging a violation that occurred more than 2 years before an agency attorney issued the notice of proposed civil penalty to the respondent.
 
-\(3\) A party may appeal the administrative law judge's ruling on the motion to dismiss the complaint or any part of the complaint in accordance with §13.219(b) of this subpart.
+\(3\) A party may appeal the administrative law judge's ruling on the motion to dismiss the complaint or any part of the complaint in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.219   Interlocutory appeals.|§13.219]](b) of this subpart.
 
 \[Amdt. 13-21, 55 FR 27575, July 3, 1990, as amended by Amdt. 13-22, 55 FR 31176, Aug. 1, 1990\]
 
 ### §13.209   Answer.
 
-\(a\) *Writing required.* A respondent shall file a written answer to the complaint, or may file a written motion pursuant to §13.208(d) or §13.218(f)(1-4) of this subpart instead of filing an answer, not later than 30 days after service of the complaint. The answer may be in the form of a letter but must be dated and signed by the person responding to the complaint. An answer may be typewritten or may be legibly handwritten.
+\(a\) *Writing required.* A respondent shall file a written answer to the complaint, or may file a written motion pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.208   Complaint.|§13.208]](d) or [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.218   Motions.|§13.218]](f)(1-4) of this subpart instead of filing an answer, not later than 30 days after service of the complaint. The answer may be in the form of a letter but must be dated and signed by the person responding to the complaint. An answer may be typewritten or may be legibly handwritten.
 
-\(b\) *Filing and address.* A person filing an answer shall personally deliver or mail the original and one copy of the answer for filing with the hearing docket clerk, not later than 30 days after service of the complaint to the Hearing Docket at the appropriate address set forth in §13.210(a) of this subpart. The person filing an answer should suggest a location for the hearing when filing the answer.
+\(b\) *Filing and address.* A person filing an answer shall personally deliver or mail the original and one copy of the answer for filing with the hearing docket clerk, not later than 30 days after service of the complaint to the Hearing Docket at the appropriate address set forth in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.210   Filing of documents.|§13.210]](a) of this subpart. The person filing an answer should suggest a location for the hearing when filing the answer.
 
 \(c\) *Service.* A person filing an answer shall serve a copy of the answer on the agency attorney who filed the complaint.
 
@@ -1158,11 +1158,11 @@ Waivers of any rights provided by statute or regulation shall be in writing or b
 
 \(1\) *Motion to dismiss for insufficiency.* A respondent may file a motion to dismiss the complaint for insufficiency instead of filing an answer. If the administrative law judge denies the motion to dismiss the complaint for insufficiency, the respondent shall file an answer not later than 10 days after service of the administrative law judge's denial of the motion.A motion to dismiss the complaint for insufficiency must show that the complaint fails to state a violation of a provision of the Federal aviation statute listed in the first sentence in 49 U.S.C. 46301(d)(2) or in 49 U.S.C. 47531, or any implementing rule, regulation, or order, or a violation of the Federal hazardous materials transportation statute, 49 U.S.C. 5121-5128, or any implementing rule, regulation or order.
 
-\(2\) *Motion to dismiss.* A party may file a motion to dismiss, specifying the grounds for dismissal. If an administrative law judge grants a motion to dismiss in part, a party may appeal the administrative law judge's ruling on the motion to dismiss under §13.219(b) of this subpart.
+\(2\) *Motion to dismiss.* A party may file a motion to dismiss, specifying the grounds for dismissal. If an administrative law judge grants a motion to dismiss in part, a party may appeal the administrative law judge's ruling on the motion to dismiss under [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.219   Interlocutory appeals.|§13.219]](b) of this subpart.
 
-\(i\) *Motion to dismiss a request for a hearing.* An agency attorney may file a motion to dismiss a request for a hearing instead of filing a complaint. If the motion to dismiss is not granted, the agency attorney shall file the complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the respondent may file an appeal pursuant to §13.233 of this subpart. If required by the decision on appeal, the agency attorney shall file a complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the decision on appeal.
+\(i\) *Motion to dismiss a request for a hearing.* An agency attorney may file a motion to dismiss a request for a hearing instead of filing a complaint. If the motion to dismiss is not granted, the agency attorney shall file the complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the respondent may file an appeal pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.233   Appeal from initial decision.|§13.233]] of this subpart. If required by the decision on appeal, the agency attorney shall file a complaint and shall serve a copy of the complaint on each party not later than 10 days after service of the decision on appeal.
 
-\(ii\) *Motion to dismiss a complaint.* A respondent may file a motion to dismiss a complaint instead of filing an answer. If the motion to dismiss is not granted, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the agency attorney may file an appeal pursuant to §13.233 of this subpart. If required by the decision on appeal, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the decision on appeal.
+\(ii\) *Motion to dismiss a complaint.* A respondent may file a motion to dismiss a complaint instead of filing an answer. If the motion to dismiss is not granted, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the agency attorney may file an appeal pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.233   Appeal from initial decision.|§13.233]] of this subpart. If required by the decision on appeal, the respondent shall file an answer and shall serve a copy of the answer on each party not later than 10 days after service of the decision on appeal.
 
 \(3\) *Motion for more definite statement.* A party may file a motion for more definite statement of any pleading which requires a response under this subpart. A party shall set forth, in detail, the indefinite or uncertain allegations contained in a complaint or response to any pleading and shall submit the details that the party believes would make the allegation or response definite and certain.
 
@@ -1182,13 +1182,13 @@ Waivers of any rights provided by statute or regulation shall be in writing or b
 
 \(iii\) *Decision on motion for disqualification.* The administrative law judge shall render a decision on the motion for disqualification not later than 15 days after the motion has been filed. If the administrative law judge finds that the motion for disqualification and supporting affidavit show a basis for disqualification, the administrative law judge shall withdraw from the proceedings immediately. If the administrative law judge finds that disqualification is not warranted, the administrative law judge shall deny the motion and state the grounds for the denial on the record. If the administrative law judge fails to rule on a party's motion for disqualification within 15 days after the motion has been filed, the motion is deemed granted.
 
-\(iv\) *Appeal.* A party may appeal the administrative law judge's denial of the motion for disqualification in accordance with §13.219(b) of this subpart.
+\(iv\) *Appeal.* A party may appeal the administrative law judge's denial of the motion for disqualification in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.219   Interlocutory appeals.|§13.219]](b) of this subpart.
 
 \[Amdt. 13-21, 55 FR 27575, July 3, 1990, as amended by 71 FR 70464, Dec. 5, 2006\]
 
 ### §13.219   Interlocutory appeals.
 
-\(a\) *General.* Unless otherwise provided in this subpart, a party may not appeal a ruling or decision of the administrative law judge to the FAA decisionmaker until the initial decision has been entered on the record. A decision or order of the FAA decisionmaker on the interlocutory appeal does not constitute a final order of the Administrator for the purposes of judicial appellate review as provided in §13.235 of this subpart.
+\(a\) *General.* Unless otherwise provided in this subpart, a party may not appeal a ruling or decision of the administrative law judge to the FAA decisionmaker until the initial decision has been entered on the record. A decision or order of the FAA decisionmaker on the interlocutory appeal does not constitute a final order of the Administrator for the purposes of judicial appellate review as provided in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.235   Judicial review of a final decision and order.|§13.235]] of this subpart.
 
 \(b\) *Interlocutory appeal for cause.* If a party files a written request for an interlocutory appeal for cause with the administrative law judge, or orally requests an interlocutory appeal for cause, the proceedings are stayed until the administrative law judge issues a decision on the request. If the administrative law judge grants the request, the proceedings are stayed until the FAA decisionmaker issues a decision on the interlocutory appeal. The administrative law judge shall grant an interlocutory appeal for cause if a party shows that delay of the appeal would be detrimental to the public interest or would result in undue prejudice to any party.
 
@@ -1196,9 +1196,9 @@ Waivers of any rights provided by statute or regulation shall be in writing or b
 
 \(1\) A ruling or order by the administrative law judge barring a person from the proceedings.
 
-\(2\) Failure of the administrative law judge to dismiss the proceedings in accordance with §13.215 of this subpart.
+\(2\) Failure of the administrative law judge to dismiss the proceedings in accordance with [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.215   Withdrawal of complaint or request for hearing.|§13.215]] of this subpart.
 
-\(3\) A ruling or order by the administrative law judge in violation of §13.205(b) of this subpart.
+\(3\) A ruling or order by the administrative law judge in violation of [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.205   Administrative law judges.|§13.205]](b) of this subpart.
 
 \(d\) *Procedure.* A party shall file a notice of interlocutory appeal, with supporting documents, with the FAA decisionmaker and the hearing docket clerk, and shall serve a copy of the notice and supporting documents on each party and the administrative law judge, not later than 10 days after the administrative law judge's decision forming the basis of an interlocutory appeal of right or not later than 10 days after the administrative law judge's decision granting an interlocutory appeal for cause, whichever is appropriate. A party shall file a reply brief, if any, with the FAA decisionmaker and serve a copy of the reply brief on each party, not later than 10 days after service of the appeal brief. The FAA decisionmaker shall render a decision on the interlocutory appeal, on the record and as a part of the decision in the proceedings, within a reasonable time after receipt of the interlocutory appeal.
 
@@ -1380,11 +1380,11 @@ An employee of the agency may not be called as an expert or opinion witness, for
 
 \(c\) *Written decision.* The administrative law judge may issue a written initial decision not later than 30 days after the conclusion of the hearing or submission of the last posthearing brief if the administrative law judge finds that issuing a written initial decision is reasonable. The administrative law judge shall serve a copy of any written initial decision on each party.
 
-\(d\) *Order assessing civil penalty.* Unless appealed pursuant to §13.233 of this subpart, the initial decision issued by the administrative law judge shall be considered an order assessing civil penalty if the administrative law judge finds that an alleged violation occurred and determines that a civil penalty, in an amount found appropriate by the administrative law judge, is warranted.
+\(d\) *Order assessing civil penalty.* Unless appealed pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.233   Appeal from initial decision.|§13.233]] of this subpart, the initial decision issued by the administrative law judge shall be considered an order assessing civil penalty if the administrative law judge finds that an alleged violation occurred and determines that a civil penalty, in an amount found appropriate by the administrative law judge, is warranted.
 
 ### §13.233   Appeal from initial decision.
 
-\(a\) *Notice of appeal.* A party may appeal the initial decision, and any decision not previously appealed pursuant to §13.219, by filing a notice of appeal with the FAA decisionmaker. A party must file the notice of appeal in the FAA Hearing Docket using the appropriate address listed in §13.210(a). A party shall file the notice of appeal not later than 10 days after entry of the oral initial decision on the record or service of the written initial decision on the parties and shall serve a copy of the notice of appeal on each party.
+\(a\) *Notice of appeal.* A party may appeal the initial decision, and any decision not previously appealed pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.219   Interlocutory appeals.|§13.219]], by filing a notice of appeal with the FAA decisionmaker. A party must file the notice of appeal in the FAA Hearing Docket using the appropriate address listed in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.210   Filing of documents.|§13.210]](a). A party shall file the notice of appeal not later than 10 days after entry of the oral initial decision on the record or service of the written initial decision on the parties and shall serve a copy of the notice of appeal on each party.
 
 \(b\) *Issues on appeal.* In any appeal from a decision of an administrative law judge, the FAA decisionmaker considers only the following issues:
 
@@ -1424,7 +1424,7 @@ An employee of the agency may not be called as an expert or opinion witness, for
 
 \(1\) The FAA decisionmaker may raise any issue, on the FAA decisionmaker's own initiative, that is required for proper disposition of the proceedings. The FAA decisionmaker will give the parties a reasonable opportunity to submit arguments on the new issues before making a decision on appeal. If an issue raised by the FAA decisionmaker requires the consideration of additional testimony or evidence, the FAA decisionmaker will remand the case to the administrative law judge for further proceedings and an initial decision related to that issue. If an issue raised by the FAA decisionmaker is solely an issue of law or the issue was addressed at the hearing but was not raised by a party in the briefs on appeal, a remand of the case to the administrative law judge for further proceedings is not required but may be provided in the discretion of the FAA decisionmaker.
 
-\(2\) The FAA decisionmaker will issue the final decision and order of the Administrator on appeal in writing and will serve a copy of the decision and order on each party. Unless a petition for review is filed pursuant to §13.235, a final decision and order of the Administrator shall be considered an order assessing civil penalty if the FAA decisionmaker finds that an alleged violation occurred and a civil penalty is warranted.
+\(2\) The FAA decisionmaker will issue the final decision and order of the Administrator on appeal in writing and will serve a copy of the decision and order on each party. Unless a petition for review is filed pursuant to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.235   Judicial review of a final decision and order.|§13.235]], a final decision and order of the Administrator shall be considered an order assessing civil penalty if the FAA decisionmaker finds that an alleged violation occurred and a civil penalty is warranted.
 
 \(3\) A final decision and order of the Administrator after appeal is precedent in any other civil penalty action. Any issue, finding or conclusion, order, ruling, or initial decision of an administrative law judge that has not been appealed to the FAA decisionmaker is not precedent in any other civil penalty action.
 
@@ -1478,7 +1478,7 @@ An employee of the agency may not be called as an expert or opinion witness, for
 
 <div>
 
-Table 1 to §13.301—Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violations
+Table 1 to [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.301   Inflation adjustments of civil monetary penalties.|§13.301]]—Minimum and Maximum Civil Monetary Penalty Amounts for Certain Violations
 
 </div>
 
@@ -1525,7 +1525,7 @@ adjusted for inflation</th></tr><tr class="odd"><td style="text-align: left;" sc
 
 \(e\) *Enforcement.* Except for criminal or deliberate acts, the Administrator will not use an operator's FOQA data or aggregate FOQA data in an enforcement action against that operator or its employees when such FOQA data or aggregate FOQA data is obtained from a FOQA program that is approved by the Administrator.
 
-\(f\) *Disclosure.* FOQA data and aggregate FOQA data, if submitted in accordance with an order designating the information as protected under part 193 of this chapter, will be afforded the nondisclosure protections of part 193 of this chapter.
+\(f\) *Disclosure.* FOQA data and aggregate FOQA data, if submitted in accordance with an order designating the information as protected under [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md|part 193 of this chapter]], will be afforded the nondisclosure protections of [[Volume 3/K Administrative regulations/0193 Protection of voluntarily submitted information.md|part 193 of this chapter]].
 
 \(g\) *Withdrawal of program approval.* The Administrator may withdraw approval of a previously approved FOQA program for failure to comply with the requirements of this chapter. Grounds for withdrawal of approval may include, but are not limited to—
 

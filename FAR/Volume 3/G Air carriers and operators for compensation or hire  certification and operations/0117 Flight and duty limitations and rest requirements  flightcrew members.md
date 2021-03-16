@@ -6,7 +6,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.117](https://www.ecfr
 
 ### §117.1   Applicability.
 
-\(a\) This part prescribes flight and duty limitations and rest requirements for all flightcrew members and certificate holders conducting passenger operations under part 121 of this chapter.
+\(a\) This part prescribes flight and duty limitations and rest requirements for all flightcrew members and certificate holders conducting passenger operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]].
 
 \(b\) This part applies to all operations directed by part 121 certificate holders under part 91, other than subpart K, of this chapter if any segment is conducted as a domestic passenger, flag passenger, or supplemental passenger operation.
 
@@ -16,7 +16,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.117](https://www.ecfr
 
 ### §117.3   Definitions.
 
-In addition to the definitions in §§1.1 and 110.2 of this chapter, the following definitions apply to this part. In the event there is a conflict in definitions, the definitions in this part control for purposes of the flight and duty limitations and rest requirements of this part.
+In addition to the definitions in §[[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] and 110.2 of this chapter, the following definitions apply to this part. In the event there is a conflict in definitions, the definitions in this part control for purposes of the flight and duty limitations and rest requirements of this part.
 
 *Acclimated* means a condition in which a flightcrew member has been in a theater for 72 hours or has been given at least 36 consecutive hours free from duty.
 
@@ -26,7 +26,7 @@ In addition to the definitions in §§1.1 and 110.2 of this chapter, the followi
 
 *Calendar day* means a 24-hour period from 0000 through 2359 using Coordinated Universal Time or local time.
 
-*Certificate holder* means a person who holds or is required to hold an air carrier certificate or operating certificate issued under part 119 of this chapter.
+*Certificate holder* means a person who holds or is required to hold an air carrier certificate or operating certificate issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]].
 
 *Deadhead transportation* means transportation of a flightcrew member as a passenger or non-operating flightcrew member, by any mode of transportation, as required by a certificate holder, excluding transportation to or from a suitable accommodation. All time spent in deadhead transportation is duty and is not rest. For purposes of determining the maximum flight duty period in Table B of this part, deadhead transportation is not considered a flight segment.
 
@@ -44,7 +44,7 @@ In addition to the definitions in §§1.1 and 110.2 of this chapter, the followi
 
 *Lineholder* means a flightcrew member who has an assigned flight duty period and is not acting as a reserve flightcrew member.
 
-*Long-call reserve* means that, prior to beginning the rest period required by §117.25, the flightcrew member is notified by the certificate holder to report for a flight duty period following the completion of the rest period.
+*Long-call reserve* means that, prior to beginning the rest period required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]], the flightcrew member is notified by the certificate holder to report for a flight duty period following the completion of the rest period.
 
 *Physiological night's rest* means 10 hours of rest that encompasses the hours of 0100 and 0700 at the flightcrew member's home base, unless the individual has acclimated to a different theater. If the flightcrew member has acclimated to a different theater, the rest must encompass the hours of 0100 and 0700 at the acclimated location.
 
@@ -136,13 +136,13 @@ In addition to the definitions in §§1.1 and 110.2 of this chapter, the followi
 
 \(b\) If unforeseen operational circumstances arise after takeoff that are beyond the certificate holder's control, a flightcrew member may exceed the maximum flight time specified in paragraph (a) of this section and the cumulative flight time limits in 117.23(b) to the extent necessary to safely land the aircraft at the next destination airport or alternate, as appropriate.
 
-\(c\) Each certificate holder must report to the Administrator within 10 days any flight time that exceeded the maximum flight time limits permitted by this section or §117.23(b). The report must contain a description of the extended flight time limitation and the circumstances surrounding the need for the extension.
+\(c\) Each certificate holder must report to the Administrator within 10 days any flight time that exceeded the maximum flight time limits permitted by this section or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.23   Cumulative limitations.|§117.23]](b). The report must contain a description of the extended flight time limitation and the circumstances surrounding the need for the extension.
 
 \[Doc. No. FAA-2009-1093, 77 FR 398, Jan. 4, 2012; Amdt. 117-1, 78 FR 8362, Feb. 6, 2013; 78 FR 69288, Nov. 19, 2013\]
 
 ### §117.13   Flight duty period: Unaugmented operations.
 
-\(a\) Except as provided for in §117.15, no certificate holder may assign and no flightcrew member may accept an assignment for an unaugmented flight operation if the scheduled flight duty period will exceed the limits in Table B of this part.
+\(a\) Except as provided for in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.15   Flight duty period: Split duty.|§117.15]], no certificate holder may assign and no flightcrew member may accept an assignment for an unaugmented flight operation if the scheduled flight duty period will exceed the limits in Table B of this part.
 
 \(b\) If the flightcrew member is not acclimated:
 
@@ -184,15 +184,15 @@ For an unaugmented operation only, if a flightcrew member is provided with a res
 
 \(d\) No certificate holder may assign and no flightcrew member may accept an assignment involving more than three flight segments under this section.
 
-\(e\) At all times during flight, at least one flightcrew member qualified in accordance with §121.543(b)(3)(i) of this chapter must be at the flight controls.
+\(e\) At all times during flight, at least one flightcrew member qualified in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.543   Flight crewmembers at controls.|§121.543]](b)(3)(i) of this chapter must be at the flight controls.
 
 ### §117.19   Flight duty period extensions.
 
 \(a\) For augmented and unaugmented operations, if unforeseen operational circumstances arise prior to takeoff:
 
-\(1\) The pilot in command and the certificate holder may extend the maximum flight duty period permitted in Tables B or C of this part up to 2 hours. The pilot in command and the certificate holder may also extend the maximum combined flight duty period and reserve availability period limits specified in §117.21(c)(3) and (4) of this part up to 2 hours.
+\(1\) The pilot in command and the certificate holder may extend the maximum flight duty period permitted in Tables B or C of this part up to 2 hours. The pilot in command and the certificate holder may also extend the maximum combined flight duty period and reserve availability period limits specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.21   Reserve status.|§117.21]](c)(3) and (4) of this part up to 2 hours.
 
-\(2\) An extension in the flight duty period under paragraph (a)(1) of this section of more than 30 minutes may occur only once prior to receiving a rest period described in §117.25(b).
+\(2\) An extension in the flight duty period under paragraph (a)(1) of this section of more than 30 minutes may occur only once prior to receiving a rest period described in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]](b).
 
 \(3\) A flight duty period cannot be extended under paragraph (a)(1) of this section if it causes a flightcrew member to exceed the cumulative flight duty period limits specified in 117.23(c).
 
@@ -208,11 +208,11 @@ For an unaugmented operation only, if a flightcrew member is provided with a res
 
 \(1\) The pilot in command and the certificate holder may extend maximum flight duty periods specified in Tables B or C of this part to the extent necessary to safely land the aircraft at the next destination airport or alternate airport, as appropriate.
 
-\(2\) An extension of the flight duty period under paragraph (b)(1) of this section of more than 30 minutes may occur only once prior to receiving a rest period described in §117.25(b).
+\(2\) An extension of the flight duty period under paragraph (b)(1) of this section of more than 30 minutes may occur only once prior to receiving a rest period described in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]](b).
 
 \(3\) An extension taken under paragraph (b) of this section may exceed the cumulative flight duty period limits specified in 117.23(c).
 
-\(4\) Each certificate holder must report to the Administrator within 10 days any flight duty period that either exceeded the cumulative flight duty periods specified in §117.23(c), or exceeded the maximum flight duty period limits permitted by Tables B or C of this part by more than 30 minutes. The report must contain a description of the circumstances surrounding the affected flight duty period.
+\(4\) Each certificate holder must report to the Administrator within 10 days any flight duty period that either exceeded the cumulative flight duty periods specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.23   Cumulative limitations.|§117.23]](c), or exceeded the maximum flight duty period limits permitted by Tables B or C of this part by more than 30 minutes. The report must contain a description of the circumstances surrounding the affected flight duty period.
 
 \[Doc. No. FAA-2009-1093, 77 FR 398, Jan. 4, 2012; Amdt. 117-1A, 77 FR 28764, May 16, 2012; Amdt. 117-1, 78 FR 8362, Feb. 6, 2013; 78 FR 69288, Nov. 19, 2013\]
 
@@ -226,7 +226,7 @@ For an unaugmented operation only, if a flightcrew member is provided with a res
 
 \(1\) The reserve availability period may not exceed 14 hours.
 
-\(2\) For a flightcrew member who has completed a reserve availability period, no certificate holder may schedule and no flightcrew member may accept an assignment of a reserve availability period unless the flightcrew member receives the required rest in §117.25(e).
+\(2\) For a flightcrew member who has completed a reserve availability period, no certificate holder may schedule and no flightcrew member may accept an assignment of a reserve availability period unless the flightcrew member receives the required rest in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]](e).
 
 \(3\) For an unaugmented operation, the total number of hours a flightcrew member may spend in a flight duty period and a reserve availability period may not exceed the lesser of the maximum applicable flight duty period in Table B of this part plus 4 hours, or 16 hours, as measured from the beginning of the reserve availability period.
 
@@ -234,7 +234,7 @@ For an unaugmented operation only, if a flightcrew member is provided with a res
 
 \(d\) For long call reserve, if a certificate holder contacts a flightcrew member to assign him or her to a flight duty period that will begin before and operate into the flightcrew member's window of circadian low, the flightcrew member must receive a 12 hour notice of report time from the certificate holder.
 
-\(e\) A certificate holder may shift a reserve flightcrew member's reserve status from long-call to short-call only if the flightcrew member receives a rest period as provided in §117.25(e).
+\(e\) A certificate holder may shift a reserve flightcrew member's reserve status from long-call to short-call only if the flightcrew member receives a rest period as provided in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]](e).
 
 ### §117.23   Cumulative limitations.
 
@@ -274,15 +274,15 @@ For an unaugmented operation only, if a flightcrew member is provided with a res
 
 ### §117.27   Consecutive nighttime operations.
 
-A certificate holder may schedule and a flightcrew member may accept up to five consecutive flight duty periods that infringe on the window of circadian low if the certificate holder provides the flightcrew member with an opportunity to rest in a suitable accommodation during each of the consecutive nighttime flight duty periods. The rest opportunity must be at least 2 hours, measured from the time that the flightcrew member reaches the suitable accommodation, and must comply with the conditions specified in §117.15(a), (c), (d), and (e). Otherwise, no certificate holder may schedule and no flightcrew member may accept more than three consecutive flight duty periods that infringe on the window of circadian low. For purposes of this section, any split duty rest that is provided in accordance with §117.15 counts as part of a flight duty period.
+A certificate holder may schedule and a flightcrew member may accept up to five consecutive flight duty periods that infringe on the window of circadian low if the certificate holder provides the flightcrew member with an opportunity to rest in a suitable accommodation during each of the consecutive nighttime flight duty periods. The rest opportunity must be at least 2 hours, measured from the time that the flightcrew member reaches the suitable accommodation, and must comply with the conditions specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.15   Flight duty period: Split duty.|§117.15]](a), (c), (d), and (e). Otherwise, no certificate holder may schedule and no flightcrew member may accept more than three consecutive flight duty periods that infringe on the window of circadian low. For purposes of this section, any split duty rest that is provided in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.15   Flight duty period: Split duty.|§117.15]] counts as part of a flight duty period.
 
 ### §117.29   Emergency and government sponsored operations.
 
-\(a\) This section applies to operations conducted pursuant to contracts with the U.S. Government and operations conducted pursuant to a deviation under §119.57 of this chapter that cannot otherwise be conducted under this part because of circumstances that could prevent flightcrew members from being relieved by another crew or safely provided with the rest required under §117.25 at the end of the applicable flight duty period.
+\(a\) This section applies to operations conducted pursuant to contracts with the U.S. Government and operations conducted pursuant to a deviation under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.57   Obtaining deviation authority to perform an emergency operation.|§119.57]] of this chapter that cannot otherwise be conducted under this part because of circumstances that could prevent flightcrew members from being relieved by another crew or safely provided with the rest required under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.25   Rest period.|§117.25]] at the end of the applicable flight duty period.
 
 \(b\) The pilot-in-command may determine that the maximum applicable flight duty period, flight time, and/or combined flight duty period and reserve availability period limits must be exceeded to the extent necessary to allow the flightcrew to fly to the closest destination where they can safely be relieved from duty by another flightcrew or can receive the requisite amount of rest prior to commencing their next flight duty period.
 
-\(c\) A flight duty period may not be extended for an operation conducted pursuant to a contract with the U.S. Government if it causes a flightcrew member to exceed the cumulative flight time limits in §117.23(b) and the cumulative flight duty period limits in §117.23(c).
+\(c\) A flight duty period may not be extended for an operation conducted pursuant to a contract with the U.S. Government if it causes a flightcrew member to exceed the cumulative flight time limits in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.23   Cumulative limitations.|§117.23]](b) and the cumulative flight duty period limits in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.23   Cumulative limitations.|§117.23]](c).
 
 \(d\) The flightcrew shall be given a rest period immediately after reaching the destination described in paragraph (b) of this section equal to the length of the actual flight duty period or 24 hours, whichever is less.
 
@@ -290,9 +290,9 @@ A certificate holder may schedule and a flightcrew member may accept up to five 
 
 \(1\) Any flight duty period that exceeded the maximum flight duty period permitted in Tables B or C of this part, as applicable, by more than 30 minutes;
 
-\(2\) Any flight time that exceeded the maximum flight time limits permitted in Table A of this part and §117.11, as applicable; and
+\(2\) Any flight time that exceeded the maximum flight time limits permitted in Table A of this part and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.11   Flight time limitation.|§117.11]], as applicable; and
 
-\(3\) Any flight duty period or flight time that exceeded the cumulative limits specified in §117.23.
+\(3\) Any flight duty period or flight time that exceeded the cumulative limits specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0117 Flight and duty limitations and rest requirements  flightcrew members.md#§117.23   Cumulative limitations.|§117.23]].
 
 \(f\) The report must contain the following:
 

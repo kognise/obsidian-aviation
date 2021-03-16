@@ -28,15 +28,15 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 \(1\) Any aircraft for which the FAA has issued an experimental certificate, unless the FAA has previously issued a different kind of airworthiness certificate for that aircraft;
 
-\(2\) Any aircraft for which the FAA has issued an experimental certificate under the provisions of §21.191(i)(3) of this chapter, and the aircraft was previously issued a special airworthiness certificate in the light-sport category under the provisions of §21.190 of this chapter; or
+\(2\) Any aircraft for which the FAA has issued an experimental certificate under the provisions of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i)(3) of this chapter, and the aircraft was previously issued a special airworthiness certificate in the light-sport category under the provisions of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.190   Issue of a special airworthiness certificate for a light-sport category aircraft.|§21.190]] of this chapter; or
 
-\(3\) Any aircraft subject to the provisions of part 107 of this chapter.
+\(3\) Any aircraft subject to the provisions of [[Volume 2/F Air traffic and general operating rules/0107 Small unmanned aircraft systems.md|part 107 of this chapter]].
 
-\(c\) This part applies to all life-limited parts that are removed from a type certificated product, segregated, or controlled as provided in §43.10.
+\(c\) This part applies to all life-limited parts that are removed from a type certificated product, segregated, or controlled as provided in [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.10   Disposition of life-limited aircraft parts.|§43.10]].
 
 \(d\) This part applies to any aircraft issued a special airworthiness certificate in the light-sport category except:
 
-\(1\) The repair or alteration form specified in §§43.5(b) and 43.9(d) is not required to be completed for products not produced under an FAA approval;
+\(1\) The repair or alteration form specified in §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.5   Approval for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.5]](b) and 43.9(d) is not required to be completed for products not produced under an FAA approval;
 
 \(2\) Major repairs and major alterations for products not produced under an FAA approval are not required to be recorded in accordance with appendix B of this part; and
 
@@ -50,7 +50,7 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 \(1\) Using methods, techniques, and practices acceptable to the Administrator, it has been disassembled, cleaned, inspected, repaired as necessary, and reassembled; and
 
-\(2\) It has been tested in accordance with approved standards and technical data, or in accordance with current standards and technical data acceptable to the Administrator, which have been developed and documented by the holder of the type certificate, supplemental type certificate, or a material, part, process, or appliance approval under part 21 of this chapter.
+\(2\) It has been tested in accordance with approved standards and technical data, or in accordance with current standards and technical data acceptable to the Administrator, which have been developed and documented by the holder of the type certificate, supplemental type certificate, or a material, part, process, or appliance approval under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]].
 
 \(b\) No person may describe in any required maintenance entry or form an aircraft, airframe, aircraft engine, propeller, appliance, or component part as being rebuilt unless it has been disassembled, cleaned, inspected, repaired as necessary, reassembled, and tested to the same tolerances and limits as a new item, using either new parts or used parts that either conform to new part tolerances and limits or to approved oversized or undersized dimensions.
 
@@ -58,21 +58,21 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 ### §43.3   Persons authorized to perform maintenance, preventive maintenance, rebuilding, and alterations.
 
-\(a\) Except as provided in this section and §43.17, no person may maintain, rebuild, alter, or perform preventive maintenance on an aircraft, airframe, aircraft engine, propeller, appliance, or component part to which this part applies. Those items, the performance of which is a major alteration, a major repair, or preventive maintenance, are listed in appendix A.
+\(a\) Except as provided in this section and [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.17   Maintenance, preventive maintenance, and alterations performed on U.S. aeronautical products by certain Canadian persons.|§43.17]], no person may maintain, rebuild, alter, or perform preventive maintenance on an aircraft, airframe, aircraft engine, propeller, appliance, or component part to which this part applies. Those items, the performance of which is a major alteration, a major repair, or preventive maintenance, are listed in appendix A.
 
-\(b\) The holder of a mechanic certificate may perform maintenance, preventive maintenance, and alterations as provided in Part 65 of this chapter.
+\(b\) The holder of a mechanic certificate may perform maintenance, preventive maintenance, and alterations as provided in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|Part 65 of this chapter]].
 
-\(c\) The holder of a repairman certificate may perform maintenance, preventive maintenance, and alterations as provided in part 65 of this chapter.
+\(c\) The holder of a repairman certificate may perform maintenance, preventive maintenance, and alterations as provided in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]].
 
-\(d\) A person working under the supervision of a holder of a mechanic or repairman certificate may perform the maintenance, preventive maintenance, and alterations that his supervisor is authorized to perform, if the supervisor personally observes the work being done to the extent necessary to ensure that it is being done properly and if the supervisor is readily available, in person, for consultation. However, this paragraph does not authorize the performance of any inspection required by Part 91 or Part 125 of this chapter or any inspection performed after a major repair or alteration.
+\(d\) A person working under the supervision of a holder of a mechanic or repairman certificate may perform the maintenance, preventive maintenance, and alterations that his supervisor is authorized to perform, if the supervisor personally observes the work being done to the extent necessary to ensure that it is being done properly and if the supervisor is readily available, in person, for consultation. However, this paragraph does not authorize the performance of any inspection required by Part 91 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|Part 125 of this chapter]] or any inspection performed after a major repair or alteration.
 
-\(e\) The holder of a repair station certificate may perform maintenance, preventive maintenance, and alterations as provided in Part 145 of this chapter.
+\(e\) The holder of a repair station certificate may perform maintenance, preventive maintenance, and alterations as provided in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md|Part 145 of this chapter]].
 
 \(f\) The holder of an air carrier operating certificate or an operating certificate issued under Part 121 or 135, may perform maintenance, preventive maintenance, and alterations as provided in Part 121 or 135.
 
 \(g\) Except for holders of a sport pilot certificate, the holder of a pilot certificate issued under part 61 may perform preventive maintenance on any aircraft owned or operated by that pilot which is not used under part 121, 129, or 135 of this chapter. The holder of a sport pilot certificate may perform preventive maintenance on an aircraft owned or operated by that pilot and issued a special airworthiness certificate in the light-sport category.
 
-\(h\) Notwithstanding the provisions of paragraph (g) of this section, the Administrator may approve a certificate holder under Part 135 of this chapter, operating rotorcraft in a remote area, to allow a pilot to perform specific preventive maintenance items provided—
+\(h\) Notwithstanding the provisions of paragraph (g) of this section, the Administrator may approve a certificate holder under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|Part 135 of this chapter]], operating rotorcraft in a remote area, to allow a pilot to perform specific preventive maintenance items provided—
 
 \(1\) The items of preventive maintenance are a result of a known or suspected mechanical difficulty or malfunction that occurred en route to or in a remote area;
 
@@ -84,7 +84,7 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 \(5\) The items of preventive maintenance authorized by this section are those listed in paragraph (c) of appendix A of this part.
 
-\(i\) Notwithstanding the provisions of paragraph (g) of this section, in accordance with an approval issued to the holder of a certificate issued under part 135 of this chapter, a pilot of an aircraft type-certificated for 9 or fewer passenger seats, excluding any pilot seat, may perform the removal and reinstallation of approved aircraft cabin seats, approved cabin-mounted stretchers, and when no tools are required, approved cabin-mounted medical oxygen bottles, provided—
+\(i\) Notwithstanding the provisions of paragraph (g) of this section, in accordance with an approval issued to the holder of a certificate issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], a pilot of an aircraft type-certificated for 9 or fewer passenger seats, excluding any pilot seat, may perform the removal and reinstallation of approved aircraft cabin seats, approved cabin-mounted stretchers, and when no tools are required, approved cabin-mounted medical oxygen bottles, provided—
 
 \(1\) The pilot has satisfactorily completed an approved training program and is authorized in writing by the certificate holder to perform each task; and
 
@@ -96,7 +96,7 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 \(2\) Rebuild or alter any appliance or part of aircraft, aircraft engines, propellers, or appliances manufactured by him under a Technical Standard Order Authorization, an FAA-Parts Manufacturer Approval, or Product and Process Specification issued by the Administrator; and
 
-\(3\) Perform any inspection required by part 91 or part 125 of this chapter on aircraft it manufactured under a type certificate, or currently manufactures under a production certificate.
+\(3\) Perform any inspection required by part 91 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]] on aircraft it manufactured under a type certificate, or currently manufactures under a production certificate.
 
 \(k\) Updates of databases in installed avionics meeting the conditions of this paragraph are not considered maintenance and may be performed by pilots provided:
 
@@ -122,35 +122,35 @@ Editorial Note: For miscellaneous technical amendments to this part 43, see Amdt
 
 No person may approve for return to service any aircraft, airframe, aircraft engine, propeller, or appliance, that has undergone maintenance, preventive maintenance, rebuilding, or alteration unless—
 
-\(a\) The maintenance record entry required by §43.9 or §43.11, as appropriate, has been made;
+\(a\) The maintenance record entry required by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, §135.411(a)(1), and §135.419 of this chapter).|§43.9]] or [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §§135.411(a)(1) and 135.419 of this chapter.|§43.11]], as appropriate, has been made;
 
 \(b\) The repair or alteration form authorized by or furnished by the Administrator has been executed in a manner prescribed by the Administrator; and
 
-\(c\) If a repair or an alteration results in any change in the aircraft operating limitations or flight data contained in the approved aircraft flight manual, those operating limitations or flight data are appropriately revised and set forth as prescribed in §91.9 of this chapter.
+\(c\) If a repair or an alteration results in any change in the aircraft operating limitations or flight data contained in the approved aircraft flight manual, those operating limitations or flight data are appropriately revised and set forth as prescribed in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.9   Civil aircraft flight manual, marking, and placard requirements.|§91.9]] of this chapter.
 
 \[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as amended by Amdt. 43-23, 47 FR 41084, Sept. 16, 1982; Amdt. 43-31, 54 FR 34330, Aug. 18, 1989\]
 
 ### §43.7   Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, rebuilding, or alteration.
 
-\(a\) Except as provided in this section and §43.17, no person, other than the Administrator, may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service after it has undergone maintenance, preventive maintenance, rebuilding, or alteration.
+\(a\) Except as provided in this section and [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.17   Maintenance, preventive maintenance, and alterations performed on U.S. aeronautical products by certain Canadian persons.|§43.17]], no person, other than the Administrator, may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service after it has undergone maintenance, preventive maintenance, rebuilding, or alteration.
 
-\(b\) The holder of a mechanic certificate or an inspection authorization may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service as provided in Part 65 of this chapter.
+\(b\) The holder of a mechanic certificate or an inspection authorization may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service as provided in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|Part 65 of this chapter]].
 
-\(c\) The holder of a repair station certificate may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service as provided in Part 145 of this chapter.
+\(c\) The holder of a repair station certificate may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service as provided in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md|Part 145 of this chapter]].
 
-\(d\) A manufacturer may approve for return to service any aircraft, airframe, aircraft engine, propeller, appliance, or component part which that manufacturer has worked on under §43.3(j). However, except for minor alterations, the work must have been done in accordance with technical data approved by the Administrator.
+\(d\) A manufacturer may approve for return to service any aircraft, airframe, aircraft engine, propeller, appliance, or component part which that manufacturer has worked on under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.3   Persons authorized to perform maintenance, preventive maintenance, rebuilding, and alterations.|§43.3]](j). However, except for minor alterations, the work must have been done in accordance with technical data approved by the Administrator.
 
 \(e\) The holder of an air carrier operating certificate or an operating certificate issued under Part 121 or 135, may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service as provided in Part 121 or 135 of this chapter, as applicable.
 
-\(f\) A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance under the provisions of §43.3(g).
+\(f\) A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance under the provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.3   Persons authorized to perform maintenance, preventive maintenance, rebuilding, and alterations.|§43.3]](g).
 
-\(g\) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may approve an aircraft issued a special airworthiness certificate in light-sport category for return to service, as provided in part 65 of this chapter.
+\(g\) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may approve an aircraft issued a special airworthiness certificate in light-sport category for return to service, as provided in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]].
 
-\(h\) The holder of at least a sport pilot certificate may approve an aircraft owned or operated by that pilot and issued a special airworthiness certificate in the light-sport category for return to service after performing preventive maintenance under the provisions of §43.3(g).
+\(h\) The holder of at least a sport pilot certificate may approve an aircraft owned or operated by that pilot and issued a special airworthiness certificate in the light-sport category for return to service after performing preventive maintenance under the provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.3   Persons authorized to perform maintenance, preventive maintenance, rebuilding, and alterations.|§43.3]](g).
 
 \[Amdt. 43-23, 47 FR 41084, Sept. 16, 1982, as amended by Amdt. 43-36, 61 FR 19501, May 1, 1996; Amdt. 43-37, 66 FR 21066, Apr. 27, 2001; Amdt. 43-39, 69 FR 44863, July 27, 2004\]
 
-### §43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, §135.411(a)(1), and §135.419 of this chapter).
+### §43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), and [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter).
 
 \(a\) *Maintenance record entries.* Except as provided in paragraphs (b) and (c) of this section, each person who maintains, performs preventive maintenance, rebuilds, or alters an aircraft, airframe, aircraft engine, propeller, appliance, or component part shall make an entry in the maintenance record of that equipment containing the following information:
 
@@ -164,7 +164,7 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \(b\) Each holder of an air carrier operating certificate or an operating certificate issued under Part 121 or 135, that is required by its approved operations specifications to provide for a continuous airworthiness maintenance program, shall make a record of the maintenance, preventive maintenance, rebuilding, and alteration, on aircraft, airframes, aircraft engines, propellers, appliances, or component parts which it operates in accordance with the applicable provisions of Part 121 or 135 of this chapter, as appropriate.
 
-\(c\) This section does not apply to persons performing inspections in accordance with Part 91, 125, §135.411(a)(1), or §135.419 of this chapter.
+\(c\) This section does not apply to persons performing inspections in accordance with Part 91, 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] of this chapter.
 
 \(d\) In addition to the entry required by paragraph (a) of this section, major repairs and major alterations shall be entered on a form, and the form disposed of, in the manner prescribed in appendix B, by the person performing the work.
 
@@ -192,9 +192,9 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \(2\) *Tag or record attached to part.* A tag or other record may be attached to the part. The tag or record must include the part number, serial number, and current life status of the part. Each time the part is removed from a type certificated product, either a new tag or record must be created, or the existing tag or record must be updated with the current life status.
 
-\(3\) *Non-permanent marking.* The part may be legibly marked using a non-permanent method showing its current life status. The life status must be updated each time the part is removed from a type certificated product, or if the mark is removed, another method in this section may be used. The mark must be accomplished in accordance with the instructions under §45.16 of this chapter in order to maintain the integrity of the part.
+\(3\) *Non-permanent marking.* The part may be legibly marked using a non-permanent method showing its current life status. The life status must be updated each time the part is removed from a type certificated product, or if the mark is removed, another method in this section may be used. The mark must be accomplished in accordance with the instructions under [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.16   Marking of life-limited parts.|§45.16]] of this chapter in order to maintain the integrity of the part.
 
-\(4\) *Permanent marking.* The part may be legibly marked using a permanent method showing its current life status. The life status must be updated each time the part is removed from a type certificated product. Unless the part is permanently removed from use on type certificated products, this permanent mark must be accomplished in accordance with the instructions under §45.16 of this chapter in order to maintain the integrity of the part.
+\(4\) *Permanent marking.* The part may be legibly marked using a permanent method showing its current life status. The life status must be updated each time the part is removed from a type certificated product. Unless the part is permanently removed from use on type certificated products, this permanent mark must be accomplished in accordance with the instructions under [[Volume 1/C Aircraft/0045 Identification and registration marking.md#§45.16   Marking of life-limited parts.|§45.16]] of this chapter in order to maintain the integrity of the part.
 
 \(5\) *Segregation.* The part may be segregated using methods that deter its installation on a type-certificated product. These methods must include, at least—
 
@@ -210,9 +210,9 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \[Doc. No. FAA-2000-8017, 67 FR 2110, Jan. 15, 2002, as amended by Amdt. 43-38A, 79 FR 67055, Nov. 12, 2014\]
 
-### §43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §§135.411(a)(1) and 135.419 of this chapter.
+### §43.11   Content, form, and disposition of records for inspections conducted under parts 91 and 125 and §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) and 135.419 of this chapter.
 
-\(a\) *Maintenance record entries.* The person approving or disapproving for return to service an aircraft, airframe, aircraft engine, propeller, appliance, or component part after any inspection performed in accordance with part 91, 125, §135.411(a)(1), or §135.419 shall make an entry in the maintenance record of that equipment containing the following information:
+\(a\) *Maintenance record entries.* The person approving or disapproving for return to service an aircraft, airframe, aircraft engine, propeller, appliance, or component part after any inspection performed in accordance with part 91, 125, [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.419   Approved aircraft inspection program.|§135.419]] shall make an entry in the maintenance record of that equipment containing the following information:
 
 \(1\) The type of inspection and a brief description of the extent of the inspection.
 
@@ -226,9 +226,9 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \(6\) For progressive inspections, the following or a similarly worded statement—“I certify that in accordance with a progressive inspection program, a routine inspection of (identify whether aircraft or components) and a detailed inspection of (identify components) were performed and the (aircraft or components) are (approved or disapproved) for return to service.” If disapproved, the entry will further state “and a list of discrepancies and unairworthy items dated (date) has been provided to the aircraft owner or operator.”
 
-\(7\) If an inspection is conducted under an inspection program provided for in part 91, 125, or §135.411(a)(1), the entry must identify the inspection program, that part of the inspection program accomplished, and contain a statement that the inspection was performed in accordance with the inspections and procedures for that particular program.
+\(7\) If an inspection is conducted under an inspection program provided for in part 91, 125, or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1), the entry must identify the inspection program, that part of the inspection program accomplished, and contain a statement that the inspection was performed in accordance with the inspections and procedures for that particular program.
 
-\(b\) *Listing of discrepancies and placards.* If the person performing any inspection required by part 91 or 125 or §135.411(a)(1) of this chapter finds that the aircraft is unairworthy or does not meet the applicable type certificate data, airworthiness directives, or other approved data upon which its airworthiness depends, that persons must give the owner or lessee a signed and dated list of those discrepancies. For those items permitted to be inoperative under §91.213(d)(2) of this chapter, that person shall place a placard, that meets the aircraft's airworthiness certification regulations, on each inoperative instrument and the cockpit control of each item of inoperative equipment, marking it “Inoperative,” and shall add the items to the signed and dated list of discrepancies given to the owner or lessee.
+\(b\) *Listing of discrepancies and placards.* If the person performing any inspection required by part 91 or 125 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.411   Applicability.|§135.411]](a)(1) of this chapter finds that the aircraft is unairworthy or does not meet the applicable type certificate data, airworthiness directives, or other approved data upon which its airworthiness depends, that persons must give the owner or lessee a signed and dated list of those discrepancies. For those items permitted to be inoperative under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.213   Inoperative instruments and equipment.|§91.213]](d)(2) of this chapter, that person shall place a placard, that meets the aircraft's airworthiness certification regulations, on each inoperative instrument and the cockpit control of each item of inoperative equipment, marking it “Inoperative,” and shall add the items to the signed and dated list of discrepancies given to the owner or lessee.
 
 \[Amdt. 43-23, 47 FR 41085, Sept. 16, 1982, as amended by Amdt. 43-30, 53 FR 50195, Dec. 13, 1988; Amdt. 43-36, 61 FR 19501, May 1, 1996; 71 FR 44188, Aug. 4, 2006\]
 
@@ -248,7 +248,7 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 ### §43.13   Performance rules (general).
 
-\(a\) Each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the Administrator, except as noted in §43.16. He shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices. If special equipment or test apparatus is recommended by the manufacturer involved, he must use that equipment or apparatus or its equivalent acceptable to the Administrator.
+\(a\) Each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the Administrator, except as noted in [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]]. He shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices. If special equipment or test apparatus is recommended by the manufacturer involved, he must use that equipment or apparatus or its equivalent acceptable to the Administrator.
 
 \(b\) Each person maintaining or altering, or performing preventive maintenance, shall do that work in such a manner and use materials of such a quality, that the condition of the aircraft, airframe, aircraft engine, propeller, or appliance worked on will be at least equal to its original or properly altered condition (with regard to aerodynamic function, structural strength, resistance to vibration and deterioration, and other qualities affecting airworthiness).
 
@@ -262,7 +262,7 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 \(1\) Perform the inspection so as to determine whether the aircraft, or portion(s) thereof under inspection, meets all applicable airworthiness requirements; and
 
-\(2\) If the inspection is one provided for in part 125, 135, or §91.409(e) of this chapter, perform the inspection in accordance with the instructions and procedures set forth in the inspection program for the aircraft being inspected.
+\(2\) If the inspection is one provided for in part 125, 135, or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](e) of this chapter, perform the inspection in accordance with the instructions and procedures set forth in the inspection program for the aircraft being inspected.
 
 \(b\) *Rotorcraft.* Each person performing an inspection required by Part 91 on a rotorcraft shall inspect the following systems in accordance with the maintenance manual or Instructions for Continued Airworthiness of the manufacturer concerned:
 
@@ -296,7 +296,7 @@ No person may approve for return to service any aircraft, airframe, aircraft eng
 
 ### §43.16   Airworthiness limitations.
 
-Each person performing an inspection or other maintenance specified in an Airworthiness Limitations section of a manufacturer's maintenance manual or Instructions for Continued Airworthiness shall perform the inspection or other maintenance in accordance with that section, or in accordance with operations specifications approved by the Administrator under part 121 or 135, or an inspection program approved under §91.409(e).
+Each person performing an inspection or other maintenance specified in an Airworthiness Limitations section of a manufacturer's maintenance manual or Instructions for Continued Airworthiness shall perform the inspection or other maintenance in accordance with that section, or in accordance with operations specifications approved by the Administrator under part 121 or 135, or an inspection program approved under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.409   Inspections.|§91.409]](e).
 
 \[71 FR 44188, Aug. 4, 2006\]
 
@@ -322,7 +322,7 @@ Each person performing an inspection or other maintenance specified in an Airwor
 
 \(2\) The maintenance, preventive maintenance, or alteration is performed in accordance with a Bilateral Aviation Safety Agreement between the United States and Canada and associated Maintenance Implementation Procedures that provide a level of safety equivalent to that provided by the provisions of this chapter;
 
-\(3\) The maintenance, preventive maintenance, or alteration is performed such that the affected product complies with the applicable requirements of part 36 of this chapter; and
+\(3\) The maintenance, preventive maintenance, or alteration is performed such that the affected product complies with the applicable requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]]; and
 
 \(4\) The maintenance, preventive maintenance, or alteration is recorded in accordance with a Bilateral Aviation Safety Agreement between the United States and Canada and associated Maintenance Implementation Procedures that provide a level of safety equivalent to that provided by the provisions of this chapter.
 
@@ -564,13 +564,13 @@ Each person performing an inspection or other maintenance specified in an Airwor
 
 \(30\) The inspection and maintenance tasks prescribed and specifically identified as preventive maintenance in a primary category aircraft type certificate or supplemental type certificate holder's approved special inspection and preventive maintenance program when accomplished on a primary category aircraft provided:
 
-\(i\) They are performed by the holder of at least a private pilot certificate issued under part 61 who is the registered owner (including co-owners) of the affected aircraft and who holds a certificate of competency for the affected aircraft (1) issued by a school approved under §147.21(e) of this chapter; (2) issued by the holder of the production certificate for that primary category aircraft that has a special training program approved under §21.24 of this subchapter; or (3) issued by another entity that has a course approved by the Administrator; and
+\(i\) They are performed by the holder of at least a private pilot certificate issued under part 61 who is the registered owner (including co-owners) of the affected aircraft and who holds a certificate of competency for the affected aircraft (1) issued by a school approved under [[Volume 3/H Schools and other certificated agencies/0147 Aviation maintenance technician schools.md#§147.21   General curriculum requirements.|§147.21]](e) of this chapter; (2) issued by the holder of the production certificate for that primary category aircraft that has a special training program approved under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.24   Issuance of type certificate: primary category aircraft.|§21.24]] of this subchapter; or (3) issued by another entity that has a course approved by the Administrator; and
 
 \(ii\) The inspections and maintenance tasks are performed in accordance with instructions contained by the special inspection and preventive maintenance program approved as part of the aircraft's type design or supplemental type design.
 
-\(31\) Removing and replacing self-contained, front instrument panel-mounted navigation and communication devices that employ tray-mounted connectors that connect the unit when the unit is installed into the instrument panel, (excluding automatic flight control systems, transponders, and microwave frequency distance measuring equipment (DME)). The approved unit must be designed to be readily and repeatedly removed and replaced, and pertinent instructions must be provided. Prior to the unit's intended use, and operational check must be performed in accordance with the applicable sections of part 91 of this chapter.
+\(31\) Removing and replacing self-contained, front instrument panel-mounted navigation and communication devices that employ tray-mounted connectors that connect the unit when the unit is installed into the instrument panel, (excluding automatic flight control systems, transponders, and microwave frequency distance measuring equipment (DME)). The approved unit must be designed to be readily and repeatedly removed and replaced, and pertinent instructions must be provided. Prior to the unit's intended use, and operational check must be performed in accordance with the applicable sections of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]].
 
-(Secs. 313, 601 through 610, and 1102, Federal Aviation Act of 1958 as amended (49 U.S.C. 1354, 1421 through 1430 and 1502); (49 U.S.C. 106(g) (Revised Pub. L. 97-449, Jan. 21, 1983); and [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.45   Where and when do I file my comments?|14 CFR 11.45]])
+(Secs. 313, 601 through 610, and 1102, Federal Aviation Act of 1958 as amended (49 U.S.C. 1354, 1421 through 1430 and 1502); (49 U.S.C. 106(g) (Revised Pub. L. 97-449, Jan. 21, 1983); and 14 CFR 11.45)
 
 \[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as amended by Amdt. 43-14, 37 FR 14291, June 19, 1972; Amdt. 43-23, 47 FR 41086, Sept. 16, 1982; Amdt. 43-24, 49 FR 44602, Nov. 7, 1984; Amdt. 43-25, 51 FR 40703, Nov. 7, 1986; Amdt. 43-27, 52 FR 17277, May 6, 1987; Amdt. 43-34, 57 FR 41369, Sept. 9, 1992; Amdt. 43-36, 61 FR 19501, May 1, 1996; Amdt. 43-45, 77 FR 71096, Nov. 29, 2012\]
 
@@ -618,15 +618,15 @@ Signed
 
 (Address)
 
-\(c\) Except as provided in paragraph (d) of this appendix, for a major repair or major alteration made by a person authorized in §43.17, the person who performs the major repair or major alteration and the person authorized by §43.17 to approve that work shall execute an FAA Form 337 at least in duplicate. A completed copy of that form shall be—
+\(c\) Except as provided in paragraph (d) of this appendix, for a major repair or major alteration made by a person authorized in [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.17   Maintenance, preventive maintenance, and alterations performed on U.S. aeronautical products by certain Canadian persons.|§43.17]], the person who performs the major repair or major alteration and the person authorized by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.17   Maintenance, preventive maintenance, and alterations performed on U.S. aeronautical products by certain Canadian persons.|§43.17]] to approve that work shall execute an FAA Form 337 at least in duplicate. A completed copy of that form shall be—
 
 \(1\) Given to the aircraft owner; and
 
 \(2\) Forwarded to the Federal Aviation Administration, Aircraft Registration Branch, Post Office Box 25504, Oklahoma City, OK 73125, within 48 hours after the work is inspected.
 
-\(d\) For extended-range fuel tanks installed within the passenger compartment or a baggage compartment, the person who performs the work and the person authorized to approve the work by §43.7 shall execute an FAA Form 337 in at least triplicate. A completed copy of that form shall be—
+\(d\) For extended-range fuel tanks installed within the passenger compartment or a baggage compartment, the person who performs the work and the person authorized to approve the work by [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.7   Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, rebuilding, or alteration.|§43.7]] shall execute an FAA Form 337 in at least triplicate. A completed copy of that form shall be—
 
-\(1\) Placed on board the aircraft as specified in §91.417 of this chapter;
+\(1\) Placed on board the aircraft as specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.417   Maintenance records.|§91.417]] of this chapter;
 
 \(2\) Given to the aircraft owner; and
 
@@ -740,13 +740,13 @@ Signed
 
 ### Appendix E to Part 43—Altimeter System Test and Inspection
 
-Each person performing the altimeter system tests and inspections required by §91.411 of this chapter must comply with the following:
+Each person performing the altimeter system tests and inspections required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.411   Altimeter system and altitude reporting equipment tests and inspections.|§91.411]] of this chapter must comply with the following:
 
 \(a\) Static pressure system:
 
 \(1\) Ensure freedom from entrapped moisture and restrictions.
 
-\(2\) Perform a proof test to demonstrate the integrity of the static pressure system in a manner acceptable to the Administrator. For airplanes certificated under part 25 of this chapter, determine that leakage is within the tolerances established by §25.1325.
+\(2\) Perform a proof test to demonstrate the integrity of the static pressure system in a manner acceptable to the Administrator. For airplanes certificated under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], determine that leakage is within the tolerances established by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1325   Static pressure systems.|§25.1325]].
 
 \(3\) Determine that the static port heater, if installed, is operative.
 
@@ -772,7 +772,7 @@ Each person performing the altimeter system tests and inspections required by §
 
 \(c\) Automatic Pressure Altitude Reporting Equipment and ATC Transponder System Integration Test. The test must be conducted by an appropriately rated person under the conditions specified in paragraph (a). Measure the automatic pressure altitude at the output of the installed ATC transponder when interrogated on Mode C at a sufficient number of test points to ensure that the altitude reporting equipment, altimeters, and ATC transponders perform their intended functions as installed in the aircraft. The difference between the automatic reporting output and the altitude displayed at the altimeter shall not exceed 125 feet.
 
-\(d\) Records: Comply with the provisions of §43.9 of this chapter as to content, form, and disposition of the records. The person performing the altimeter tests shall record on the altimeter the date and maximum altitude to which the altimeter has been tested and the persons approving the airplane for return to service shall enter that data in the airplane log or other permanent record.
+\(d\) Records: Comply with the provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, §135.411(a)(1), and §135.419 of this chapter).|§43.9]] of this chapter as to content, form, and disposition of the records. The person performing the altimeter tests shall record on the altimeter the date and maximum altitude to which the altimeter has been tested and the persons approving the airplane for return to service shall enter that data in the airplane log or other permanent record.
 
 <div>
 
@@ -844,7 +844,7 @@ Table IV—Pressure-Altitude Difference
 
 ### Appendix F to Part 43—ATC Transponder Tests and Inspections
 
-The ATC transponder tests required by §91.413 of this chapter may be conducted using a bench check or portable test equipment and must meet the requirements prescribed in paragraphs (a) through (j) of this appendix. If portable test equipment with appropriate coupling to the aircraft antenna system is used, operate the test equipment for ATCRBS transponders at a nominal rate of 235 interrogations per second to avoid possible ATCRBS interference. Operate the test equipment at a nominal rate of 50 Mode S interrogations per second for Mode S. An additional 3 dB loss is allowed to compensate for antenna coupling errors during receiver sensitivity measurements conducted in accordance with paragraph (c)(1) when using portable test equipment.
+The ATC transponder tests required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.413   ATC transponder tests and inspections.|§91.413]] of this chapter may be conducted using a bench check or portable test equipment and must meet the requirements prescribed in paragraphs (a) through (j) of this appendix. If portable test equipment with appropriate coupling to the aircraft antenna system is used, operate the test equipment for ATCRBS transponders at a nominal rate of 235 interrogations per second to avoid possible ATCRBS interference. Operate the test equipment at a nominal rate of 50 Mode S interrogations per second for Mode S. An additional 3 dB loss is allowed to compensate for antenna coupling errors during receiver sensitivity measurements conducted in accordance with paragraph (c)(1) when using portable test equipment.
 
 \(a\) Radio Reply Frequency:
 
@@ -906,7 +906,7 @@ Note: The tests in (e) through (j) apply only to Mode S transponders.
 
 \(j\) Squitter: Verify that the Mode S transponder generates a correct squitter approximately once per second.
 
-\(k\) Records: Comply with the provisions of §43.9 of this chapter as to content, form, and disposition of the records.
+\(k\) Records: Comply with the provisions of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.9   Content, form, and disposition of maintenance, preventive maintenance, rebuilding, and alteration records (except inspections performed in accordance with part 91, part 125, §135.411(a)(1), and §135.419 of this chapter).|§43.9]] of this chapter as to content, form, and disposition of the records.
 
 \[Amdt. 43-26, 52 FR 3390, Feb. 3, 1987; 52 FR 6651, Mar. 4, 1987, as amended by Amdt. 43-31, 54 FR 34330, Aug. 18, 1989\]
 

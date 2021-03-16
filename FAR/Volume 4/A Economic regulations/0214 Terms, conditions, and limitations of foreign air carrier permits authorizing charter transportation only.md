@@ -14,7 +14,7 @@ This part establishes the terms, conditions, and limitations applicable to chart
 
 ### §214.2   Terms of service.
 
-Charter air transportation under this part shall be performed in accordance with the provisions of part 212 of this chapter.
+Charter air transportation under this part shall be performed in accordance with the provisions of [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md|part 212 of this chapter]].
 
 (Secs. 204, 402, Pub. L. 85-726, as amended, 72 Stat. 743, 757; 49 U.S.C. 1324, 1371)
 

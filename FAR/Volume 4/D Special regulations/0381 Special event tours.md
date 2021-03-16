@@ -30,7 +30,7 @@ No operator of a Special Event Tour or agent of such an operator shall conduct, 
 
 \(a\) Except as provided in paragraph (b) of this section:
 
-\(1\) No operator of a Special Event Tour shall accept money for a seat on a Special Event Tour, or authorize an agent to accept such money, unless the operator has physical possession of, or written contracts (in the manner described in §381.7) for, a ticket for admission to the event for that individual. To the extent that the operator receives an unsolicited booking for which the operator does not have physical possession of or written contracts for a ticket for admission to the event, any payment accompanying that booking must be returned within 3 business days.
+\(1\) No operator of a Special Event Tour shall accept money for a seat on a Special Event Tour, or authorize an agent to accept such money, unless the operator has physical possession of, or written contracts (in the manner described in [[Volume 4/D Special regulations/0381 Special event tours.md#§381.7   Advertising.|§381.7]]) for, a ticket for admission to the event for that individual. To the extent that the operator receives an unsolicited booking for which the operator does not have physical possession of or written contracts for a ticket for admission to the event, any payment accompanying that booking must be returned within 3 business days.
 
 \(2\) Upon acceptance of the money for a sale, the operator must reserve one event ticket for that individual. An operator may not sell more seats on the tour than it has event tickets in hand or under contract. (An operator need not continue to reserve an event ticket for an individual who withdraws from the tour by providing notice to the operator or by being notified by the operator that the individual's participation has been canceled due to failure to remit a required installment payment.)
 
@@ -38,7 +38,7 @@ No operator of a Special Event Tour or agent of such an operator shall conduct, 
 
 ### §381.11   Refunds.
 
-If promised admission to the primary event for which a Special Event Tour was organized is not furnished by the tour operator, at the tour price agreed to before departure (including any increases that the participant has accepted pursuant to §381.13(a)), the operator must provide each tour participant affected in this way a refund of the total tour price. This refund is to be provided within 14 calendar days after the scheduled return date of the tour.
+If promised admission to the primary event for which a Special Event Tour was organized is not furnished by the tour operator, at the tour price agreed to before departure (including any increases that the participant has accepted pursuant to [[Volume 4/D Special regulations/0381 Special event tours.md#§381.13   Price increases.|§381.13]](a)), the operator must provide each tour participant affected in this way a refund of the total tour price. This refund is to be provided within 14 calendar days after the scheduled return date of the tour.
 
 ### §381.13   Price increases.
 

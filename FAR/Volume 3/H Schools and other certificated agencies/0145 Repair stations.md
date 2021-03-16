@@ -68,19 +68,19 @@ For the purposes of this part, the following definitions apply:
 
 \(a\) An application for a repair station certificate and rating must be made in a format acceptable to the FAA and must include the following:
 
-\(1\) A repair station manual acceptable to the FAA as required by §145.207;
+\(1\) A repair station manual acceptable to the FAA as required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.207   Repair station manual.|§145.207]];
 
-\(2\) A quality control manual acceptable to the FAA as required by §145.211(c);
+\(2\) A quality control manual acceptable to the FAA as required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.211   Quality control system.|§145.211]](c);
 
 \(3\) A list by type, make, or model, as appropriate, of each article for which the application is made;
 
 \(4\) An organizational chart of the repair station and the names and titles of managing and supervisory personnel;
 
-\(5\) A description of the housing and facilities, including the physical address, in accordance with §145.103;
+\(5\) A description of the housing and facilities, including the physical address, in accordance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.103   Housing and facilities requirements.|§145.103]];
 
-\(6\) A list of the maintenance functions, for approval by the FAA, to be performed for the repair station under contract by another person in accordance with §145.217; and
+\(6\) A list of the maintenance functions, for approval by the FAA, to be performed for the repair station under contract by another person in accordance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.217   Contract maintenance.|§145.217]]; and
 
-\(7\) A training program for approval by the FAA in accordance with §145.163.
+\(7\) A training program for approval by the FAA in accordance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.163   Training requirements.|§145.163]].
 
 \(b\) The equipment, personnel, technical data, and housing and facilities required for the certificate and rating, or for an additional rating, must be in place for inspection at the time of certification or rating approval by the FAA. However, the requirement to have the equipment in place at the time of initial certification or rating approval may be met if the applicant has a contract acceptable to the FAA with another person to make the equipment available to the repair station at any time it is necessary when the relevant work is being performed.
 
@@ -104,13 +104,13 @@ For the purposes of this part, the following definitions apply:
 
 \(3\) An individual who will have control over or substantial ownership interest in the applicant had the same or similar control or interest in a certificate holder whose repair station certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing the revocation or causing the revocation process.
 
-\(f\) If the FAA revokes a repair station certificate, an individual described in paragraphs (e)(2) and (3) of this section is subject to an order under the procedures set forth in [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md#§13.20   Orders of compliance, cease and desist orders, orders of denial, and other orders.|14 CFR 13.20]], finding that the individual materially contributed to the circumstances causing the revocation or causing the revocation process.
+\(f\) If the FAA revokes a repair station certificate, an individual described in paragraphs (e)(2) and (3) of this section is subject to an order under the procedures set forth in 14 CFR 13.20, finding that the individual materially contributed to the circumstances causing the revocation or causing the revocation process.
 
 \[Doc. No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended by Amdt. 145-30, 79 FR 46984, Aug. 12, 2014\]
 
 ### §145.53   Issue of certificate.
 
-\(a\) Except as provided in §145.51(e) or paragraph (b), (c), or (d) of this section, a person who meets the requirements of subparts A through E of this part is entitled to a repair station certificate with appropriate ratings prescribing such operations specifications and limitations as are necessary in the interest of safety.
+\(a\) Except as provided in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.51   Application for certificate.|§145.51]](e) or paragraph (b), (c), or (d) of this section, a person who meets the requirements of subparts A through E of this part is entitled to a repair station certificate with appropriate ratings prescribing such operations specifications and limitations as are necessary in the interest of safety.
 
 \(b\) If the person is located in a country with which the United States has a bilateral aviation safety agreement, the FAA may find that the person meets the requirements of this part based on a certification from the civil aviation authority of that country. This certification must be made in accordance with implementation procedures signed by the Administrator or the Administrator's designee.
 
@@ -128,7 +128,7 @@ For the purposes of this part, the following definitions apply:
 
 \(c\) A certificated repair station located outside the United States that applies for a renewal of its repair station certificate must—
 
-\(1\) Submit its request for renewal no later than 30 days before the repair station's current certificate expires. If a request for renewal is not made within this period, the repair station must follow the application procedures in §145.51.
+\(1\) Submit its request for renewal no later than 30 days before the repair station's current certificate expires. If a request for renewal is not made within this period, the repair station must follow the application procedures in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.51   Application for certificate.|§145.51]].
 
 \(2\) Send its request for renewal to the FAA office that has jurisdiction over the certificated repair station.
 
@@ -140,13 +140,13 @@ For the purposes of this part, the following definitions apply:
 
 ### §145.57   Amendment to or transfer of certificate.
 
-\(a\) A repair station certificate holder applying for a change to its certificate must submit a request in a format acceptable to the Administrator. A change to the certificate must include certification in compliance with §145.53(c) or (d), if not previously submitted. A certificate change is necessary if the certificate holder—
+\(a\) A repair station certificate holder applying for a change to its certificate must submit a request in a format acceptable to the Administrator. A change to the certificate must include certification in compliance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.53   Issue of certificate.|§145.53]](c) or (d), if not previously submitted. A certificate change is necessary if the certificate holder—
 
 \(1\) Changes the name or location of the repair station, or
 
 \(2\) Requests to add or amend a rating.
 
-\(b\) If the holder of a repair station certificate sells or transfers its assets and the new owner chooses to operate as a repair station, the new owner must apply for an amended or new certificate in accordance with §145.51.
+\(b\) If the holder of a repair station certificate sells or transfers its assets and the new owner chooses to operate as a repair station, the new owner must apply for an amended or new certificate in accordance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.51   Application for certificate.|§145.51]].
 
 \[Doc. No. FAA-2006-26408, 79 FR 46984, Aug. 12, 2014\]
 
@@ -256,7 +256,7 @@ A certificated repair station must provide housing, facilities, equipment, mater
 
 \(v\) Ventilation, lighting, and control of temperature, humidity, and other climatic conditions sufficient to ensure personnel perform maintenance, preventive maintenance, or alterations to the standards required by this part.
 
-\(b\) A certificated repair station may perform maintenance, preventive maintenance, or alterations on articles outside of its housing if it provides suitable facilities that are acceptable to the FAA and meet the requirements of §145.103(a) so that the work can be done in accordance with the requirements of part 43 of this chapter.
+\(b\) A certificated repair station may perform maintenance, preventive maintenance, or alterations on articles outside of its housing if it provides suitable facilities that are acceptable to the FAA and meet the requirements of [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.103   Housing and facilities requirements.|§145.103]](a) so that the work can be done in accordance with the requirements of [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 \[Docket FAA-2016-8744, Amdt. 145-31, 81 FR 49163, July 27, 2016\]
 
@@ -264,7 +264,7 @@ A certificated repair station must provide housing, facilities, equipment, mater
 
 \(a\) A certificated repair station may not change the location of its housing without written approval from the FAA.
 
-\(b\) A certificated repair station may not make any changes to its housing or facilities required by §145.103 that could have a significant effect on its ability to perform the maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications without written approval from the FAA.
+\(b\) A certificated repair station may not make any changes to its housing or facilities required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.103   Housing and facilities requirements.|§145.103]] that could have a significant effect on its ability to perform the maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications without written approval from the FAA.
 
 \(c\) The FAA may prescribe the conditions, including any limitations, under which a certificated repair station must operate while it is changing its location, housing, or facilities.
 
@@ -276,9 +276,9 @@ A certificated repair station must provide housing, facilities, equipment, mater
 
 \(2\) Must meet the requirements for each rating it holds;
 
-\(3\) Must submit a repair station manual acceptable to the FAA as required by §145.207; and
+\(3\) Must submit a repair station manual acceptable to the FAA as required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.207   Repair station manual.|§145.207]]; and
 
-\(4\) Must submit a quality control manual acceptable to the FAA as required by §145.211(c).
+\(4\) Must submit a quality control manual acceptable to the FAA as required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.211   Quality control system.|§145.211]](c).
 
 \(b\) Unless the FAA indicates otherwise, personnel and equipment from the certificated repair station with managerial control and from each of the satellite repair stations may be shared. However, inspection personnel must be designated for each satellite repair station and available at the satellite repair station any time a determination of airworthiness or return to service is made. In other circumstances, inspection personnel may be away from the premises but must be available by telephone, radio, or other electronic means.
 
@@ -328,7 +328,7 @@ Each certificated repair station must—
 
 \(b\) Each supervisor must—
 
-\(1\) If employed by a repair station located inside the United States, be appropriately certificated as a mechanic or repairman under part 65 of this chapter for the work being supervised.
+\(1\) If employed by a repair station located inside the United States, be appropriately certificated as a mechanic or repairman under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] for the work being supervised.
 
 \(2\) If employed by a repair station located outside the United States—
 
@@ -372,7 +372,7 @@ A certificated repair station that chooses to use repairmen to meet the applicab
 
 \(a\) Is employed by the repair station, and
 
-\(b\) Meets the eligibility requirements of §65.101.
+\(b\) Meets the eligibility requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.101   Eligibility requirements: General.|§65.101]].
 
 ### §145.160   Employment of former FAA employees.
 
@@ -414,13 +414,13 @@ A certificated repair station that chooses to use repairmen to meet the applicab
 
 ### §145.163   Training requirements.
 
-\(a\) A certificated repair station must have and use an employee training program approved by the FAA that consists of initial and recurrent training. An applicant for a repair station certificate must submit a training program for approval by the FAA as required by §145.51(a)(7).
+\(a\) A certificated repair station must have and use an employee training program approved by the FAA that consists of initial and recurrent training. An applicant for a repair station certificate must submit a training program for approval by the FAA as required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.51   Application for certificate.|§145.51]](a)(7).
 
 \(b\) The training program must ensure each employee assigned to perform maintenance, preventive maintenance, or alterations, and inspection functions is capable of performing the assigned task.
 
 \(c\) A certificated repair station must document, in a format acceptable to the FAA, the individual employee training required under paragraph (a) of this section. These training records must be retained for a minimum of 2 years.
 
-\(d\) A certificated repair station must submit revisions to its training program to its responsible Flight Standards office in accordance with the procedures required by §145.209(e).
+\(d\) A certificated repair station must submit revisions to its training program to its responsible Flight Standards office in accordance with the procedures required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.209   Repair station manual contents.|§145.209]](e).
 
 \[Doc. No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended at 70 FR 15581, Mar. 28, 2005; Amdt. 145-30, 79 FR 46985, Aug. 12, 2014; Docket FAA-2018-0119, Amdt. 145-32, 83 FR 9176, Mar. 5, 2018\]
 
@@ -428,7 +428,7 @@ A certificated repair station that chooses to use repairmen to meet the applicab
 
 \(a\) Each repair station that meets the definition of a hazmat employer under 49 CFR 171.8 must have a hazardous materials training program that meets the training requirements of 49 CFR part 172 subpart H.
 
-\(b\) A repair station employee may not perform or directly supervise a job function listed in §121.1001 or §135.501 for, or on behalf of the part 121 or 135 operator including loading of items for transport on an aircraft operated by a part 121 or part 135 certificate holder unless that person has received training in accordance with the part 121 or part 135 operator's FAA approved hazardous materials training program.
+\(b\) A repair station employee may not perform or directly supervise a job function listed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1001   Applicability and definitions.|§121.1001]] or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.501   Applicability and definitions.|§135.501]] for, or on behalf of the part 121 or 135 operator including loading of items for transport on an aircraft operated by a part 121 or part 135 certificate holder unless that person has received training in accordance with the part 121 or part 135 operator's FAA approved hazardous materials training program.
 
 \[Doc. No. FAA-2003-15085, 70 FR 58831, Oct. 7, 2005\]
 
@@ -452,7 +452,7 @@ A certificated repair station that chooses to use repairmen to meet the applicab
 
 \(2\) Any article after a major repair or major alteration unless the major repair or major alteration was performed in accordance with applicable approved technical data; and
 
-\(3\) Any experimental aircraft after a major repair or major alteration performed under §43.1(b) unless the major repair or major alteration was performed in accordance with methods and applicable technical data acceptable to the FAA.
+\(3\) Any experimental aircraft after a major repair or major alteration performed under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.1   Applicability.|§43.1]](b) unless the major repair or major alteration was performed in accordance with methods and applicable technical data acceptable to the FAA.
 
 ### §145.203   Work performed at another location.
 
@@ -470,7 +470,7 @@ A certificated repair station may temporarily transport material, equipment, and
 
 \(c\) A certificated repair station that performs maintenance, preventive maintenance, or alterations for a foreign air carrier or foreign person operating a U.S.-registered aircraft under part 129 must follow the operator's FAA-approved maintenance program.
 
-\(d\) The FAA may grant approval for a certificated repair station to perform line maintenance for an air carrier certificated under part 121 or part 135 of this chapter, or a foreign air carrier or foreign person operating a U.S.-registered aircraft in common carriage under part 129 of this chapter on any aircraft of that air carrier or person, provided-
+\(d\) The FAA may grant approval for a certificated repair station to perform line maintenance for an air carrier certificated under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], or a foreign air carrier or foreign person operating a U.S.-registered aircraft in common carriage under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md|part 129 of this chapter]] on any aircraft of that air carrier or person, provided-
 
 \(1\) The certificated repair station performs such line maintenance in accordance with the operator's manual, if applicable, and approved maintenance program;
 
@@ -482,7 +482,7 @@ A certificated repair station may temporarily transport material, equipment, and
 
 ### §145.206   Notification of hazardous materials authorizations.
 
-\(a\) Each repair station must acknowledge receipt of the part 121 or part 135 operator notification required under §§121.1005(e) and 135.505(e) of this chapter prior to performing work for, or on behalf of that certificate holder.
+\(a\) Each repair station must acknowledge receipt of the part 121 or part 135 operator notification required under §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1005   Hazardous materials training required.|§121.1005]](e) and 135.505(e) of this chapter prior to performing work for, or on behalf of that certificate holder.
 
 \(b\) Prior to performing work for or on behalf of a part 121 or part 135 operator, each repair station must notify its employees, contractors, or subcontractors that handle or replace aircraft components or other items regulated by 49 CFR parts 171 through 180 of each certificate holder's operations specifications authorization permitting, or prohibition against, carrying hazardous materials. This notification must be provided subsequent to the notification by the part 121 or part 135 operator of such operations specifications authorization/designation.
 
@@ -498,7 +498,7 @@ A certificated repair station may temporarily transport material, equipment, and
 
 \(d\) A certificated repair station must provide to its responsible Flight Standards office the current repair station manual in a format acceptable to the FAA.
 
-\(e\) A certificated repair station must notify its responsible Flight Standards office of each revision of its repair station manual in accordance with the procedures required by §145.209(j).
+\(e\) A certificated repair station must notify its responsible Flight Standards office of each revision of its repair station manual in accordance with the procedures required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.209   Repair station manual contents.|§145.209]](j).
 
 \[Docket No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended by Docket FAA-2018-0119, Amdt. 145-32, 83 FR 9176, Mar. 5, 2018\]
 
@@ -514,27 +514,27 @@ A certificated repair station's manual must include the following:
 
 \(3\) The duties, responsibilities, and authority of each management position;
 
-\(b\) Procedures for maintaining and revising the rosters required by §145.161;
+\(b\) Procedures for maintaining and revising the rosters required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.161   Records of management, supervisory, and inspection personnel.|§145.161]];
 
 \(c\) A description of the certificated repair station's operations, including the housing, facilities, equipment, and materials as required by subpart C of this part;
 
 \(d\) Procedures for—
 
-\(1\) Revising the capability list provided for in §145.215 and notifying the responsible Flight Standards office of revisions to the list, including how often the responsible Flight Standards office will be notified of revisions; and
+\(1\) Revising the capability list provided for in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.215   Capability list.|§145.215]] and notifying the responsible Flight Standards office of revisions to the list, including how often the responsible Flight Standards office will be notified of revisions; and
 
-\(2\) The self-evaluation required under §145.215(c) for revising the capability list, including methods and frequency of such evaluations, and procedures for reporting the results to the appropriate manager for review and action;
+\(2\) The self-evaluation required under [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.215   Capability list.|§145.215]](c) for revising the capability list, including methods and frequency of such evaluations, and procedures for reporting the results to the appropriate manager for review and action;
 
-\(e\) Procedures for revising the training program required by §145.163 and submitting revisions to the responsible Flight Standards office for approval;
+\(e\) Procedures for revising the training program required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.163   Training requirements.|§145.163]] and submitting revisions to the responsible Flight Standards office for approval;
 
-\(f\) Procedures to govern work performed at another location in accordance with §145.203;
+\(f\) Procedures to govern work performed at another location in accordance with [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.203   Work performed at another location.|§145.203]];
 
-\(g\) Procedures for maintenance, preventive maintenance, or alterations performed under §145.205;
+\(g\) Procedures for maintenance, preventive maintenance, or alterations performed under [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.205   Maintenance, preventive maintenance, and alterations performed for certificate holders under parts 121, 125, and 135, and for foreign air carriers or foreign persons operating a U.S.-registered aircraft in common carriage under part 129.|§145.205]];
 
 \(h\) Procedures for—
 
-\(1\) Maintaining and revising the contract maintenance information required by §145.217(a)(2)(i), including submitting revisions to the responsible Flight Standards office for approval; and
+\(1\) Maintaining and revising the contract maintenance information required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.217   Contract maintenance.|§145.217]](a)(2)(i), including submitting revisions to the responsible Flight Standards office for approval; and
 
-\(2\) Maintaining and revising the contract maintenance information required by §145.217(a)(2)(ii) and notifying the responsible Flight Standards office of revisions to this information, including how often the responsible Flight Standards office will be notified of revisions;
+\(2\) Maintaining and revising the contract maintenance information required by [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.217   Contract maintenance.|§145.217]](a)(2)(ii) and notifying the responsible Flight Standards office of revisions to this information, including how often the responsible Flight Standards office will be notified of revisions;
 
 \(i\) A description of the required records and the recordkeeping system used to obtain, store, and retrieve the required records;
 
@@ -592,7 +592,7 @@ A certificated repair station's manual must include the following:
 
 \(2\) An inspector inspects the article on which the repair station has performed work and determines it to be airworthy with respect to the work performed.
 
-\(c\) For the purposes of paragraphs (a) and (b) of this section, an inspector must meet the requirements of §145.155.
+\(c\) For the purposes of paragraphs (a) and (b) of this section, an inspector must meet the requirements of [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.155   Inspection personnel requirements.|§145.155]].
 
 \(d\) Except for individuals employed by a repair station located outside the United States, only an employee appropriately certificated as a mechanic or repairman under part 65 is authorized to sign off on final inspections and maintenance releases for the repair station.
 
@@ -604,9 +604,9 @@ A certificated repair station's manual must include the following:
 
 \(b\) The capability list must identify each article by make and model or other nomenclature designated by the article's manufacturer and be available in a format acceptable to the FAA.
 
-\(c\) An article may be listed on the capability list only if the article is within the scope of the ratings of the repair station's certificate, and only after the repair station has performed a self-evaluation in accordance with the procedures under §145.209(d)(2). The repair station must perform this self-evaluation to determine that the repair station has all of the housing, facilities, equipment, material, technical data, processes, and trained personnel in place to perform the work on the article as required by part 145. The repair station must retain on file documentation of the evaluation.
+\(c\) An article may be listed on the capability list only if the article is within the scope of the ratings of the repair station's certificate, and only after the repair station has performed a self-evaluation in accordance with the procedures under [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.209   Repair station manual contents.|§145.209]](d)(2). The repair station must perform this self-evaluation to determine that the repair station has all of the housing, facilities, equipment, material, technical data, processes, and trained personnel in place to perform the work on the article as required by part 145. The repair station must retain on file documentation of the evaluation.
 
-\(d\) Upon listing an additional article on its capability list, the repair station must provide its responsible Flight Standards office with a copy of the revised list in accordance with the procedures required in §145.209(d)(1).
+\(d\) Upon listing an additional article on its capability list, the repair station must provide its responsible Flight Standards office with a copy of the revised list in accordance with the procedures required in [[Volume 3/H Schools and other certificated agencies/0145 Repair stations.md#§145.209   Repair station manual contents.|§145.209]](d)(1).
 
 \[Docket No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended by Docket FAA-2018-0119, Amdt. 145-32, 83 FR 9176, Mar. 5, 2018\]
 
@@ -668,9 +668,9 @@ A certificated repair station's manual must include the following:
 
 \(d\) A certificated repair station may submit a service difficulty report for the following:
 
-\(1\) A part 121 certificate holder, provided the report meets the requirements of part 121 of this chapter, as appropriate.
+\(1\) A part 121 certificate holder, provided the report meets the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]], as appropriate.
 
-\(2\) A part 125 certificate holder, provided the report meets the requirements of part 125 of this chapter, as appropriate.
+\(2\) A part 125 certificate holder, provided the report meets the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]], as appropriate.
 
 \(3\) A part 135 certificate holder, provided the report meets the requirements of part 135 of the chapter, as appropriate.
 

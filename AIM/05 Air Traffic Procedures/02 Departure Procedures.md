@@ -284,7 +284,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
 
         <em>**NOTE-**</em>
 
-        <em>ODPs are normally designed to terminate within thes[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.177   Minimum altitudes for IFR operations.|14 CFR 91.177]]mitations, however, some ODPs will contain routes that may exceed 25/46 NM; these routes will ensure obstacle protection until reaching the end of the ODP.</em>
+        <em>ODPs are normally designed to terminate within these distance limitations, however, some ODPs will contain routes that may exceed 25/46 NM; these routes will ensure obstacle protection until reaching the end of the ODP.</em>
 
         </div>
     4.  Obstacles that are located within 1 NM of the DER and penetrate the 40:1 OCS are referred to as “low, close-in obstacles.” The standard required obstacle clearance (ROC) of 48 feet per NM to clear these obstacles would require a climb gradient greater than 200 feet per NM for a very short distance, only until the aircraft was 200 feet above the DER. To eliminate publishing an excessive climb gradient, the obstacle AGL/MSL height and location relative to the DER is noted in the “Take-off Minimums and (OBSTACLE) Departure Procedures” section of a given Terminal Procedures Publication (TPP) booklet.
@@ -428,8 +428,8 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
             <em>**NOTE-**</em>
 
             1.  <em>When otherwise cleared along a route or procedure that contains published speed restrictions, the pilot must comply with those speed restrictions independent of a climb via clearance.</em>
-            2.  <em>ATC anticipates pilots will begin adjusting speed the minimum distance necessary prior to a published speed restriction so as to cross the waypoint/fix at the published speed. Once at the published speed ATC expects pilots will maintain the published speed until additional adjustment is required to comply with further published or ATC assigned speed restrictions or as required to ensure compliance with 14 CFR Section 91.117.</em>
-            3.  <em>If ATC interrupts lateral/vertical navigation while an aircraft is flying a SID, ATC must ensure obstacle clearance. When is[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]]learance to join or resume a procedure ATC must ensure obstacle clearance until the aircraft is established on the lateral and vertical path of the SID.</em>
+            2.  <em>ATC anticipates pilots will begin adjusting speed the minimum distance necessary prior to a published speed restriction so as to cross the waypoint/fix at the published speed. Once at the published speed ATC expects pilots will maintain the published speed until additional adjustment is required to comply with further published or ATC assigned speed restrictions or as required to ensure compliance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.117   Aircraft speed.|14 CFR Section 91.117]].</em>
+            3.  <em>If ATC interrupts lateral/vertical navigation while an aircraft is flying a SID, ATC must ensure obstacle clearance. When issuing a “climb via” clearance to join or resume a procedure ATC must ensure obstacle clearance until the aircraft is established on the lateral and vertical path of the SID.</em>
             4.  <em>ATC will assign an altitude to cross if no altitude is depicted at a waypoint/fix or when otherwise necessary/ required, for an aircraft on a direct route to a waypoint/fix where the SID will be joined or resumed.</em>
             5.  <em>SIDs will have a “top altitude;” the “top altitude” is the charted “maintain” altitude contained in the procedure description or assigned by ATC.</em>
 

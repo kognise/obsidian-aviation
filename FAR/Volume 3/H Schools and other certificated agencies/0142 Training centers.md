@@ -14,7 +14,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.142](https://www.ecfr
 
 \(1\) Approved under the provisions of parts 63, 91, 121, 127, 135, or 137 of this chapter;
 
-\(2\) Approved under subpart Y of part 121 of this chapter, Advanced Qualification Programs, for the authorization holder's own employees;
+\(2\) Approved under subpart Y of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]], Advanced Qualification Programs, for the authorization holder's own employees;
 
 \(3\) Conducted under part 61 unless that part requires certification under this part;
 
@@ -32,7 +32,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.142](https://www.ecfr
 
 As used in this part:
 
-*Advanced Flight Training Device* as used in this part, means a flight training device as defined in part 61 of this chapter that has a cockpit that accurately replicates a specific make, model, and type aircraft cockpit, and handling characteristics that accurately model the aircraft handling characteristics.
+*Advanced Flight Training Device* as used in this part, means a flight training device as defined in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] that has a cockpit that accurately replicates a specific make, model, and type aircraft cockpit, and handling characteristics that accurately model the aircraft handling characteristics.
 
 *Core Curriculum* means a set of courses approved by the Administrator, for use by a training center and its satellite training centers. The core curriculum consists of training which is required for certification. It does not include training for tasks and circumstances unique to a particular user.
 
@@ -42,13 +42,13 @@ As used in this part:
 
 \(2\) A program of instruction to meet a specified number of requirements of a program for pilot training, certification, qualification, authorization, or currency; or
 
-\(3\) A curriculum, or curriculum segment, as defined in subpart Y of part 121 of this chapter.
+\(3\) A curriculum, or curriculum segment, as defined in subpart Y of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]].
 
 *Courseware* means instructional material developed for each course or curriculum, including lesson plans, flight event descriptions, computer software programs, audiovisual programs, workbooks, and handouts.
 
 *Evaluator* means a person employed by a training center certificate holder who performs tests for certification, added ratings, authorizations, and proficiency checks that are authorized by the certificate holder's training specification, and who is authorized by the Administrator to administer such checks and tests.
 
-*Flight training equipment* means full flight simulators, as defined in §1.1 of this chapter, flight training devices, as defined in §1.1 of this chapter, and aircraft.
+*Flight training equipment* means full flight simulators, as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of this chapter, flight training devices, as defined in [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]] of this chapter, and aircraft.
 
 *Instructor* means a person employed by a training center and designated to provide instruction in accordance with subpart C of this part.
 
@@ -68,7 +68,7 @@ As used in this part:
 
 \(a\) No person may operate a certificated training center without, or in violation of, a training center certificate and training specifications issued under this part.
 
-\(b\) An applicant will be issued a training center certificate and training specifications with appropriate limitations if the applicant shows that it has adequate facilities, equipment, personnel, and courseware required by §142.11 to conduct training approved under §142.37.
+\(b\) An applicant will be issued a training center certificate and training specifications with appropriate limitations if the applicant shows that it has adequate facilities, equipment, personnel, and courseware required by [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.11   Application for issuance or amendment.|§142.11]] to conduct training approved under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.37   Approval of flight aircrew training program.|§142.37]].
 
 ### §142.7   Duration of a certificate.
 
@@ -118,7 +118,7 @@ As used in this part:
 
 \(9\) A description of quality control measures proposed; and
 
-\(10\) A method of demonstrating the applicant's qualification and ability to provide training for a certificate or rating in fewer than the minimum hours prescribed in part 61 of this chapter if the applicant proposes to do so.
+\(10\) A method of demonstrating the applicant's qualification and ability to provide training for a certificate or rating in fewer than the minimum hours prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] if the applicant proposes to do so.
 
 \(c\) The facilities and equipment described in paragraph (b)(6) of this section shall—
 
@@ -164,7 +164,7 @@ As used in this part:
 
 \(f\) At any time, the Administrator may amend a training center certificate—
 
-\(1\) On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), as amended, and part 13 of this chapter; or
+\(1\) On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), as amended, and [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md|part 13 of this chapter]]; or
 
 \(2\) Upon timely application by the certificate holder.
 
@@ -260,7 +260,7 @@ Each certificate holder must allow the Administrator to inspect training center 
 
 ### §142.33   Training agreements.
 
-A pilot school certificated under part 141 of this chapter may provide training, testing, and checking for a training center certificated under this part if—
+A pilot school certificated under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md|part 141 of this chapter]] may provide training, testing, and checking for a training center certificated under this part if—
 
 \(a\) There is a training, testing, and checking agreement between the certificated training center and the pilot school;
 
@@ -274,13 +274,13 @@ A pilot school certificated under part 141 of this chapter may provide training,
 
 ### §142.35   Applicability.
 
-This subpart prescribes the curriculum and syllabus requirements for the issuance of a training center certificate and training specifications for training, testing, and checking conducted to meet the requirements of part 61 of this chapter.
+This subpart prescribes the curriculum and syllabus requirements for the issuance of a training center certificate and training specifications for training, testing, and checking conducted to meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 ### §142.37   Approval of flight aircrew training program.
 
 \(a\) Except as provided in paragraph (b) of this section, each applicant for, or holder of, a training center certificate must apply to the Administrator for training program approval.
 
-\(b\) A curriculum approved under SFAR 58 of part 121 of this chapter is approved under this part without modifications.
+\(b\) A curriculum approved under SFAR 58 of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] is approved under this part without modifications.
 
 \(c\) Application for training program approval shall be made in a form and in a manner acceptable to the Administrator.
 
@@ -288,13 +288,13 @@ This subpart prescribes the curriculum and syllabus requirements for the issuanc
 
 \(1\) Which courses are part of the core curriculum and which courses are part of the specialty curriculum;
 
-\(2\) Which requirements of part 61 of this chapter would be satisfied by the curriculum or curriculums; and
+\(2\) Which requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] would be satisfied by the curriculum or curriculums; and
 
-\(3\) Which requirements of part 61 of this chapter would not be satisfied by the curriculum or curriculums.
+\(3\) Which requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] would not be satisfied by the curriculum or curriculums.
 
 \(e\) If, after a certificate holder begins operations under an approved training program, the Administrator finds that the certificate holder is not meeting the provisions of its approved training program, the Administrator may require the certificate holder to make revisions to that training program.
 
-\(f\) If the Administrator requires a certificate holder to make revisions to an approved training program and the certificate holder does not make those required revisions, within 30 calendar days, the Administrator may suspend, revoke, or terminate the training center certificate under the provisions of §142.11(e).
+\(f\) If the Administrator requires a certificate holder to make revisions to an approved training program and the certificate holder does not make those required revisions, within 30 calendar days, the Administrator may suspend, revoke, or terminate the training center certificate under the provisions of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.11   Application for issuance or amendment.|§142.11]](e).
 
 ### §142.39   Training program curriculum requirements.
 
@@ -308,7 +308,7 @@ Each training program curriculum submitted to the Administrator for approval mus
 
 \(d\) A curriculum for initial training and continuing training of each instructor or evaluator employed to instruct in a proposed curriculum; and
 
-\(e\) For each curriculum that provides for the issuance of a certificate or rating in fewer than the minimum hours prescribed by part 61 of this chapter—
+\(e\) For each curriculum that provides for the issuance of a certificate or rating in fewer than the minimum hours prescribed by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]]—
 
 \(1\) A means of demonstrating the ability to accomplish such training in the reduced number of hours; and
 
@@ -318,7 +318,7 @@ Each training program curriculum submitted to the Administrator for approval mus
 
 ### §142.45   Applicability.
 
-This subpart prescribes the personnel and flight training equipment requirements for a certificate holder that is training to meet the requirements of part 61 of this chapter.
+This subpart prescribes the personnel and flight training equipment requirements for a certificate holder that is training to meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 ### §142.47   Training center instructor eligibility requirements.
 
@@ -334,11 +334,11 @@ This subpart prescribes the personnel and flight training equipment requirements
 
 \(5\) Meets at least one of the following requirements—
 
-\(i\) Except as allowed by paragraph (a)(5)(ii) of this section, meets the aeronautical experience requirements of §61.129 (a), (b), (c), or (e) of this chapter, as applicable, excluding the required hours of instruction in preparation for the commercial pilot practical test;
+\(i\) Except as allowed by paragraph (a)(5)(ii) of this section, meets the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.129   Aeronautical experience.|§61.129]] (a), (b), (c), or (e) of this chapter, as applicable, excluding the required hours of instruction in preparation for the commercial pilot practical test;
 
-\(ii\) If instructing in flight simulator or flight training device that represents an airplane requiring a type rating or if instructing in a curriculum leading to the issuance of an airline transport pilot certificate or an added rating to an airline transport pilot certificate, meets the aeronautical experience requirements of §61.159, §61.161, or §61.163 of this chapter, as applicable; or
+\(ii\) If instructing in flight simulator or flight training device that represents an airplane requiring a type rating or if instructing in a curriculum leading to the issuance of an airline transport pilot certificate or an added rating to an airline transport pilot certificate, meets the aeronautical experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.159   Aeronautical experience: Airplane category rating.|§61.159]], [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.161   Aeronautical experience: Rotorcraft category and helicopter class rating.|§61.161]], or [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.163   Aeronautical experience: Powered-lift category rating.|§61.163]] of this chapter, as applicable; or
 
-\(iii\) Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of part 61 of this chapter on August 1, 1996.
+\(iii\) Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] on August 1, 1996.
 
 \(b\) A training center must designate each instructor in writing to instruct in each approved course, prior to that person functioning as an instructor in that course.
 
@@ -384,25 +384,25 @@ This subpart prescribes the personnel and flight training equipment requirements
 
 \(3\) Instruction, testing, and checking intended to satisfy the requirements of any part of this chapter.
 
-\(b\) A training center whose instructor or evaluator is designated in accordance with the requirements of this subpart to conduct training, testing, or checking in qualified and approved flight training equipment, may allow its instructor or evaluator to give endorsements required by part 61 of this chapter if that instructor or evaluator is authorized by the Administrator to instruct or evaluate in a part 142 curriculum that requires such endorsements.
+\(b\) A training center whose instructor or evaluator is designated in accordance with the requirements of this subpart to conduct training, testing, or checking in qualified and approved flight training equipment, may allow its instructor or evaluator to give endorsements required by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] if that instructor or evaluator is authorized by the Administrator to instruct or evaluate in a part 142 curriculum that requires such endorsements.
 
 \(c\) A training center may not allow an instructor to—
 
 \(1\) Excluding briefings and debriefings, conduct more than 8 hours of instruction in any 24-consecutive-hour period;
 
-\(2\) Provide flight training equipment instruction unless that instructor meets the requirements of §142.53 (a)(1) through (a)(4), and §142.53(b), as applicable; or
+\(2\) Provide flight training equipment instruction unless that instructor meets the requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.53   Training center instructor training and testing requirements.|§142.53]] (a)(1) through (a)(4), and [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.53   Training center instructor training and testing requirements.|§142.53]](b), as applicable; or
 
 \(3\) Provide flight instruction in an aircraft unless that instructor—
 
-\(i\) Meets the requirements of §142.53(a)(1), (a)(2), and (a)(5);
+\(i\) Meets the requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.53   Training center instructor training and testing requirements.|§142.53]](a)(1), (a)(2), and (a)(5);
 
-\(ii\) Is qualified and authorized in accordance with subpart H of part 61 of this chapter;
+\(ii\) Is qualified and authorized in accordance with subpart H of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]];
 
-\(iii\) Holds certificates and ratings specified by part 61 of this chapter appropriate to the category, class, and type aircraft in which instructing;
+\(iii\) Holds certificates and ratings specified by [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] appropriate to the category, class, and type aircraft in which instructing;
 
 \(iv\) If instructing or evaluating in an aircraft in flight while serving as a required crewmember, holds at least a valid second class medical certificate; and
 
-\(v\) Meets the recency of experience requirements of part 61 of this chapter.
+\(v\) Meets the recency of experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-2, 62 FR 68137, Dec. 30, 1997; Amdt. 142-9, 78 FR 42380, July 15, 2013\]
 
@@ -464,7 +464,7 @@ This subpart prescribes the personnel and flight training equipment requirements
 
 \(1\) Each instructor must have performed 2 hours in flight, including three takeoffs and three landings as the sole manipulator of the controls of an aircraft of the same category and class, and, if a type rating is required, of the same type replicated by the approved flight simulator in which that instructor is designated to instruct;
 
-\(2\) Each instructor must have participated in an approved line-observation program under part 121 or part 135 of this chapter, and that—
+\(2\) Each instructor must have participated in an approved line-observation program under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], and that—
 
 \(i\) Was accomplished in the same airplane type as the airplane represented by the flight simulator in which that instructor is designated to instruct; and
 
@@ -484,11 +484,11 @@ This subpart prescribes the personnel and flight training equipment requirements
 
 ### §142.54   Airline transport pilot certification training program.
 
-No certificate holder may use a person nor may any person serve as an instructor in a training program approved to meet the requirements of §61.156 of this chapter unless the instructor:
+No certificate holder may use a person nor may any person serve as an instructor in a training program approved to meet the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] of this chapter unless the instructor:
 
 \(a\) Holds an airline transport pilot certificate with an airplane category multiengine class rating;
 
-\(b\) Has at least 2 years of experience as a pilot in command in operations conducted under §91.1053(a)(2)(i) or §135.243(a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under part 121 of this chapter;
+\(b\) Has at least 2 years of experience as a pilot in command in operations conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1053   Crewmember experience.|§91.1053]](a)(2)(i) or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.243   Pilot in command qualifications.|§135.243]](a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]];
 
 \(c\) Except for the holder of a flight instructor certificate, receives initial training on the following topics:
 
@@ -506,7 +506,7 @@ No certificate holder may use a person nor may any person serve as an instructor
 
 \(1\) Holds an aircraft type rating for the aircraft represented by the flight simulation training device utilized in the training program and have received training and evaluation within the preceding 12 months from the certificate holder on the maneuvers that will be demonstrated in the flight simulation training device; and
 
-\(2\) Satisfies the requirements of §142.53(a)(4).
+\(2\) Satisfies the requirements of [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.53   Training center instructor training and testing requirements.|§142.53]](a)(4).
 
 \(e\) A certificate holder may not issue a graduation certificate to a student unless that student has completed all the curriculum requirements of the course.
 
@@ -520,7 +520,7 @@ No certificate holder may use a person nor may any person serve as an instructor
 
 \(1\) Is approved by the Administrator;
 
-\(2\) Is in compliance with §§142.47, 142.49, and 142.53 and applicable sections of part 183 of this chapter; and
+\(2\) Is in compliance with §[[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.47   Training center instructor eligibility requirements.|§142.47]], 142.49, and 142.53 and applicable sections of [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md|part 183 of this chapter]]; and
 
 \(3\) Prior to designation, and except as provided in paragraph (b) of this section, every 12-calendar-month period following initial designation, the certificate holder must ensure that the evaluator satisfactorily completes a curriculum that includes the following:
 
@@ -538,7 +538,7 @@ No certificate holder may use a person nor may any person serve as an instructor
 
 \(c\) The Administrator may give credit for the requirements of paragraph (a)(3) of this section to an evaluator who has satisfactorily completed an evaluator training course for a part 121 or part 135 certificate holder if the Administrator finds such a course equivalent to the requirements of paragraph (a)(3) of this section.
 
-\(d\) An evaluator who is qualified under subpart Y of part 121 of this chapter shall be authorized to conduct evaluations under the Advanced Qualification Program without complying with the requirements of this section.
+\(d\) An evaluator who is qualified under subpart Y of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] shall be authorized to conduct evaluations under the Advanced Qualification Program without complying with the requirements of this section.
 
 \[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-9, 78 FR 42380, July 15, 2013\]
 
@@ -630,9 +630,9 @@ A certificate holder may allow flight simulator instructors and evaluators to me
 
 \(c\) The holder of a training center certificate may not recommend a trainee for a certificate or rating, unless the trainee—
 
-\(1\) Has satisfactorily completed the training specified in the course approved under §142.37; and
+\(1\) Has satisfactorily completed the training specified in the course approved under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.37   Approval of flight aircrew training program.|§142.37]]; and
 
-\(2\) Has passed the final tests required by §142.37.
+\(2\) Has passed the final tests required by [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.37   Approval of flight aircrew training program.|§142.37]].
 
 \(d\) The holder of a training center certificate may not graduate a student from a course unless the student has satisfactorily completed the curriculum requirements of that course.
 
@@ -660,7 +660,7 @@ This subpart prescribes the training center recordkeeping requirements for train
 
 \(7\) The number of hours of additional training that was accomplished after any unsatisfactory practical test.
 
-\(b\) A certificate holder shall maintain a record for each instructor or evaluator designated to instruct a course approved in accordance with subpart B of this part that indicates that the instructor or evaluator has complied with the requirements of §§142.13, 142.45, 142.47, 142.49, and 142.53, as applicable.
+\(b\) A certificate holder shall maintain a record for each instructor or evaluator designated to instruct a course approved in accordance with subpart B of this part that indicates that the instructor or evaluator has complied with the requirements of §[[Volume 3/H Schools and other certificated agencies/0142 Training centers.md#§142.13   Management and personnel requirements.|§142.13]], 142.45, 142.47, 142.49, and 142.53, as applicable.
 
 \(c\) The certificate holder shall—
 

@@ -14,11 +14,12 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.136](https://www.ecfr
 
 \(1\) Part 121 or 135 operators conducting a commercial air tour and holding a part 119 certificate;
 
-\(2\) Part 91 operators conducting flights as described in §119.1(e)(2); and
+\(2\) Part 91 operators conducting flights as described in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.1   Applicability.|§119.1]](e)(2); and
 
 \(3\) Part 91 operators conducting flights as described in 14 CFR 91.146
 
-\(c\) This subpart is not applicable to operations conducted in balloons, gliders (powered or un-powered), parachutes (powered or un-powered), gyroplanes, o[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.146   Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event.|14 CFR 91.146]]
+\(c\) This subpart is not applicable to operations conducted in balloons, gliders (powered or un-powered), parachutes (powered or un-powered), gyroplanes, or airships.
+
 \(d\) For the purposes of this subpart the following definitions apply:
 
 *Commercial Air Tour* means a flight conducted for compensation or hire in an airplane or helicopter where a purpose of the flight is sightseeing. The FAA may consider the following factors in determining whether a flight is a commercial air tour for purposes of this subpart:
@@ -57,7 +58,7 @@ Operators subject to this subpart who have Letters of Authorization may use the 
 
 ### §136.5   Additional requirements for Hawaii.
 
-No person may conduct a commercial a[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.51   Amending operations specifications.|14 CFR 119.51]]e State of Hawaii unless they comply with the additional requirements and restrictions in appendix A to part 136.
+No person may conduct a commercial air tour in the State of Hawaii unless they comply with the additional requirements and restrictions in appendix A to part 136.
 
 ### §136.7   Passenger briefings.
 
@@ -115,7 +116,7 @@ No person may conduct a commercial a[[Volume 3/G Air carriers and operators for 
 
 ### §136.13   Helicopter performance plan and operations.
 
-\(a\) Each operator must complete a performance plan before each helicopter commercial air tour, or flight operated under 14 CFR 91.146 or 91.147. The pilot in command must review for accuracy and comply with the performance plan on the day the flight is flown. The performance plan must be base[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.146   Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event.|14 CFR 91.146]]rmation in the Rotorcraft Flight Manual (RFM) for that helicopter, taking into consideration the maximum density altitude for which the operation is planned, in order to determine:
+\(a\) Each operator must complete a performance plan before each helicopter commercial air tour, or flight operated under 14 CFR 91.146 or 91.147. The pilot in command must review for accuracy and comply with the performance plan on the day the flight is flown. The performance plan must be based on the information in the Rotorcraft Flight Manual (RFM) for that helicopter, taking into consideration the maximum density altitude for which the operation is planned, in order to determine:
 
 \(1\) Maximum gross weight and center of gravity (CG) limitations for hovering in ground effect;
 
@@ -177,7 +178,7 @@ For purposes of this subpart—
 
 \(ii\) Less than 1 mile laterally from any geographic feature within the park (unless more than 1⁄2 mile outside the boundary); or
 
-\(iii\) Except as provided in §136.35.
+\(iii\) Except as provided in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0136 Commercial air tours and national parks air tour management.md#§136.35   Prohibition of commercial air tour operations over the Rocky Mountain National Park.|§136.35]].
 
 \(2\) The Administrator may consider the following factors in determining whether a flight is a commercial air tour operation for purposes of this subpart—
 
@@ -197,7 +198,7 @@ For purposes of this subpart—
 
 \(viii\) Any other factors that the Administrator and Director consider appropriate.
 
-\(3\) For purposes of §136.35, means any flight conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park.
+\(3\) For purposes of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0136 Commercial air tours and national parks air tour management.md#§136.35   Prohibition of commercial air tour operations over the Rocky Mountain National Park.|§136.35]], means any flight conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park.
 
 \(e\) *National park* means any unit of the national park system. (See title 16 of the U.S. Code, section 1, *et seq.*)
 
@@ -231,21 +232,21 @@ All commercial air tour operations in the airspace over the Rocky Mountain Natio
 
 \(c\) *Number of operations authorized.* In determining the number of authorizations to issue to provide commercial air tour operations over a national park, the Administrator, in cooperation with the Director, shall take into consideration the provisions of the air tour management plan, the number of existing commercial air tour operators and current level of service and equipment provided by any such operators, and the financial viability of each commercial air tour operation.
 
-\(d\) *Cooperation with National Park Service.* Before granting an application under this subpart, the Administrator, in cooperation with the Director, shall develop an air tour management plan in accordance with §136.39 and implement such a plan.
+\(d\) *Cooperation with National Park Service.* Before granting an application under this subpart, the Administrator, in cooperation with the Director, shall develop an air tour management plan in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0136 Commercial air tours and national parks air tour management.md#§136.39   Air tour management plans (ATMP).|§136.39]] and implement such a plan.
 
 \(e\) *Time limit on response to applications.* Every effort will be made to act on any application under this subpart and issue a decision on the application not later than 24 months after it is received or amended.
 
 \(f\) *Priority.* In acting on applications under this paragraph to provide commercial air tour operations over a national park, the Administrator shall give priority to an application under this paragraph in any case where a new entrant commercial air tour operator is seeking operating authority with respect to that national park.
 
-\(g\) *Exception.* Notwithstanding this section, commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of this chapter if—
+\(g\) *Exception.* Notwithstanding this section, commercial air tour operators may conduct commercial air tour operations over a national park under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] if—
 
-\(1\) Such activity is permitted under part 119 of this chapter;
+\(1\) Such activity is permitted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]];
 
 \(2\) The operator secures a letter of agreement from the Administrator and the Superintendent for that park describing the conditions under which the operations will be conducted; and
 
 \(3\) The number of operations under this exception is limited to not more than a total of 5 flights by all operators in any 30-day period over a particular park.
 
-\(h\) *Special rule for safety requirement.* Notwithstanding §136.41, an existing commercial air tour operator shall apply, not later than January 23, 2003 for operating authority under part 119 of this chapter, for certification under part 121 or part 135 of this chapter. A new entrant commercial air tour operator shall apply for such authority before conducting commercial air tour operations over a national park or tribal lands that are within or abut a national park. The Administrator shall make every effort to act on such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
+\(h\) *Special rule for safety requirement.* Notwithstanding [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0136 Commercial air tours and national parks air tour management.md#§136.41   Interim operating authority.|§136.41]], an existing commercial air tour operator shall apply, not later than January 23, 2003 for operating authority under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]], for certification under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]]. A new entrant commercial air tour operator shall apply for such authority before conducting commercial air tour operations over a national park or tribal lands that are within or abut a national park. The Administrator shall make every effort to act on such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
 
 \[Doc. No. FAA-2001-8690, 67 FR 65667, Oct. 25, 2002. Redesignated and amended by Amdt. 136-1, 72 FR 6912, Feb. 13, 2007; Amdt. 136-1, 72 FR 31450, June 7, 2007\]
 
@@ -279,7 +280,7 @@ All commercial air tour operations in the airspace over the Rocky Mountain Natio
 
 \(4\) Solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in paragraph (d)(3) of this section.
 
-\(e\) *Amendments.* The Administrator, in cooperation with the Director, may make amendments to an air tour management plan. Any such amendments will be published in the Federal Register for notice and comment. A request for amendment of an ATMP will be made in accordance with §11.25 of this chapter as a petition for rulemaking.
+\(e\) *Amendments.* The Administrator, in cooperation with the Director, may make amendments to an air tour management plan. Any such amendments will be published in the Federal Register for notice and comment. A request for amendment of an ATMP will be made in accordance with [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.25   How does FAA issue rules?|§11.25]] of this chapter as a petition for rulemaking.
 
 \[Doc. No. FAA-2001-8690, 67 FR 65667, Oct. 25, 2002. Redesignated by Amdt. 136-1, 72 FR 6912, Feb. 13, 2007\]
 
@@ -373,7 +374,7 @@ The pilot in command (PIC) must comply with the performance plan.
 
 \(b\) Use of required flotation equipment; and
 
-\(c\) Emergency egress from the aircraft in even[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.107   Use of safety belts, shoulder harnesses, and child restraint systems.|14 CFR 91.107]]landing.
+\(c\) Emergency egress from the aircraft in event of a water landing.
 
 \[Doc. No. FAA-1998-4521, 72 FR 6914, Feb. 13, 2007\]
 

@@ -4,11 +4,11 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.252](https://www.ecfr
 
 <div>
 
-Cross Reference: For smoking rules of the Federal Aviation Administration, see [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.317   Passenger information requirements, smoking prohibitions, and additional seat belt requirements.|14 CFR 121.317]](c), 121.571(a)(1)(i), 129.29, 135.117(a)(1), and 135.127(a).
+Cross Reference: For smoking rules of the Federal Aviation Administration, see 14 CFR 121.317(c), 121.571(a)(1)(i), 129.29, 135.117(a)(1), and 135.127(a).
 
 ### §252.1   Purpose.
 
-This part implements a ban on smoking as defined in §252.3, including the use of electronic cigarettes and certain other devices, on flights by air carriers and foreign air carriers.
+This part implements a ban on smoking as defined in [[Volume 4/A Economic regulations/0252 Smoking aboard aircraft.md#§252.3   Definitions.|§252.3]], including the use of electronic cigarettes and certain other devices, on flights by air carriers and foreign air carriers.
 
 \[Docket DOT-OST-2011-0044, 81 FR 11427, Mar. 4, 2016\]
 
@@ -62,7 +62,7 @@ Air carriers shall prohibit smoking on the following flights:
 
 ### §252.8   Extent of smoking restrictions.
 
-The restrictions on smoking described in §§252.4 and 252.5 shall apply to all locations within the aircraft.
+The restrictions on smoking described in §[[Volume 4/A Economic regulations/0252 Smoking aboard aircraft.md#§252.4   Smoking ban: air carriers.|§252.4]] and 252.5 shall apply to all locations within the aircraft.
 
 \[Docket DOT-OST-2011-0044, 81 FR 11428, Mar. 4, 2016\]
 
@@ -74,7 +74,7 @@ Air carriers shall prohibit smoking whenever the ventilation system is not fully
 
 \(a\) Air carriers shall prohibit smoking whenever the aircraft is on the ground.
 
-\(b\) With respect to the restrictions on smoking described in §252.5, foreign air carriers shall prohibit smoking from the time an aircraft begins enplaning passengers until the time passengers complete deplaning.
+\(b\) With respect to the restrictions on smoking described in [[Volume 4/A Economic regulations/0252 Smoking aboard aircraft.md#§252.5   Smoking ban: foreign air carriers.|§252.5]], foreign air carriers shall prohibit smoking from the time an aircraft begins enplaning passengers until the time passengers complete deplaning.
 
 ### §252.17   Enforcement.
 

@@ -26,7 +26,7 @@ For the purposes of this part:
 
 *Charter flight* means a flight operated under the terms of a charter contract between a direct air carrier and its customer. It does not include scheduled air transportation, scheduled foreign air transportation, or nonscheduled cargo air transportation, sold on an individually ticketed or individually waybilled basis.
 
-*Direct air carrier* means a certificated commuter or foreign air carrier, or an air taxi operator registered under part 298 of this chapter, or a Canadian charter air taxi operator registered under part 294 of this chapter, that directly engages in the operation of aircraft under a certificate, authorization, permit or exemption issued by the Department.
+*Direct air carrier* means a certificated commuter or foreign air carrier, or an air taxi operator registered under [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]], or a Canadian charter air taxi operator registered under [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]], that directly engages in the operation of aircraft under a certificate, authorization, permit or exemption issued by the Department.
 
 *Educational institution* means a school that is operated as such on a year-round basis and is empowered to grant academic degrees or secondary school diplomas by any government in the United States or by a foreign government.
 
@@ -60,11 +60,11 @@ For the purposes of this part:
 
 \(a\) Public Charters may be operated on a one-way or round-trip basis, with no minimum group or contract size. Public Charters may be sold on an air-only basis, or with mandatory or optional land arrangements.
 
-\(b\) A U.S. Public Charter operator operating a Public Charter which originates in a foreign country shall not be subject to the requirements of §§380.25, 380.28, 380.30 through 380.35.
+\(b\) A U.S. Public Charter operator operating a Public Charter which originates in a foreign country shall not be subject to the requirements of §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.30 through 380.35.
 
 \(c\) The Department declines to exercise jurisdiction over a foreign Public Charter operator which operates a Public Charter originating in a foreign country, but reserves the right to exercise its jurisdiction over any foreign Public Charter operator at any time its finds that such action is in the public interest.
 
-(d)(1) An educational institution operating a Public Charter need not comply with the financial security requirements of §380.34 if each student participant in the charter is enrolled in a formal academic course of study outside the United States, sponsored by or in conjunction with that institution, that is of at least four weeks' duration.
+(d)(1) An educational institution operating a Public Charter need not comply with the financial security requirements of [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]] if each student participant in the charter is enrolled in a formal academic course of study outside the United States, sponsored by or in conjunction with that institution, that is of at least four weeks' duration.
 
 \(2\) The spouse, children, and parents of a student participant may accompany the participant on a charter operated under this section.
 
@@ -90,9 +90,9 @@ Public Charters under this part shall meet the following requirements:
 
 ### §380.11   Payment to direct air carrier(s).
 
-Except for air taxi operators and commuter air carriers (which are governed by 14 CFR 298.38) and Canadian charter air taxi operators (which are governed by 14 CFR 294.32), the direct air carrier(s) shall be paid in full for the cost of the charter transportation (for both legs, if a round-trip charter) prior to the scheduled date of flight departure, as provided for in the basic charter regulations applicable to th[[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.38   Financial security arrangements for operating Public Charters.|14 CFR 298.38]]carrier(s) under part 212 of this chapter.
+Except for air taxi operators and commuter air carriers (which are governed by 14 CFR 298.38) and Canadian charter air taxi operators (which are governed by 14 CFR 294.32), the direct air carrier(s) shall be paid in full for the cost of the charter transportation (for both legs, if a round-trip charter) prior to the scheduled date of flight departure, as provided for in the basic charter regulations applicable to the direct air carrier(s) under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md|part 212 of this chapter]].
 
-### §380.12   Cance[[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md#§294.32   Security arrangements for operating Public Charters.|14 CFR 294.32]]arter operator and notice to participants.
+### §380.12   Cancellation by charter operator and notice to participants.
 
 \(a\) The charter operator may not cancel a charter for any reason (including insufficient participation), except for circumstances that make it physically impossible to perform the charter trip, less than 10 days before the scheduled date of departure of the outbound trip.
 
@@ -118,9 +118,9 @@ Substitutes may be arranged for charter participants at any time preceding depar
 
 \(a\) This section shall apply only to charters conducted by educational institutions for charter groups comprised of bona fide participants in a formal academic course of study abroad which is of at least 4 weeks duration. The charter group may also include a student participant's immediate family (spouse, children, and parents). Except as modified in this section, all terms and conditions of this part applicable to the operation of Public Charters shall apply to charters conducted by educational institutions.
 
-\(b\) An educational institution conducting such a charter shall submit to theOffice of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, a statement, signed by its president, certifying that it meets the definition of “educational institution” set forth in §380.2.
+\(b\) An educational institution conducting such a charter shall submit to theOffice of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, a statement, signed by its president, certifying that it meets the definition of “educational institution” set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.2   Definitions.|§380.2]].
 
-\(c\) An educational institution conducting such a charter need not comply with the requirements of §§380.25, 380.28, 380.34, and 380.35.
+\(c\) An educational institution conducting such a charter need not comply with the requirements of §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.34, and 380.35.
 
 ## Subpart C—Requirements Applicable to Charter Operators
 
@@ -138,7 +138,7 @@ Substitutes may be arranged for charter participants at any time preceding depar
 
 \(5\) If foreign charter operators receive interstate air transportation rights, any other provision of 49 U.S.C. Subtitle VII that would otherwise prohibit them from organizing and arranging Public Charters in interstate air transportation.
 
-\(b\) A charter operator who is a citizen of the United States shall not be subject to the following requirements with respect to Public Charters that originate in a foreign country: §§380.25, 380.28, and 380.30 through 380.35.
+\(b\) A charter operator who is a citizen of the United States shall not be subject to the following requirements with respect to Public Charters that originate in a foreign country: §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, and 380.30 through 380.35.
 
 ### §§380.21-380.23   \[Reserved\]
 
@@ -150,7 +150,7 @@ The Department reserves the power to deny the exemption authority of any charter
 
 A charter operator may organize and operate a Public Charter only in accordance with this part, and subject to the following conditions:
 
-\(a\) No charter operator shall operate, sell, receive money from any prospective participant for, or offer to sell or otherwise advertise a charter or series of charters until the Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division , has accepted a Public Charter prospectus as described in §380.28.
+\(a\) No charter operator shall operate, sell, receive money from any prospective participant for, or offer to sell or otherwise advertise a charter or series of charters until the Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division , has accepted a Public Charter prospectus as described in [[Volume 4/D Special regulations/0380 Public charters.md#§380.28   Charter prospectus.|§380.28]].
 
 \(b\) If within 10 days after the filing the Department notifies the charter operator that it has rejected the prospectus for noncompliance with this part, the prohibitions set forth in paragraph (a) of this section shall continue until the Department advises that it has accepted the prospectus.
 
@@ -190,7 +190,7 @@ No charter operator shall engage in unfair or deceptive practices or unfair meth
 
 (2)(i) From the charter operator and the securer, a statement:
 
-\(A\) That they have entered into a security agreement covering the proposed flight schedule that complies with §380.34, including the amount of the coverage, the number assigned to it by the securer, and the amount of any outstanding claims against it, and
+\(A\) That they have entered into a security agreement covering the proposed flight schedule that complies with [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]], including the amount of the coverage, the number assigned to it by the securer, and the amount of any outstanding claims against it, and
 
 \(B\) That the securer has received a copy of the proposed flight schedule. The statement shall identify the proposed flight schedule by the schedule number assigned by the charter operator in accordance with paragraph (a) of this section. If there are any outstanding claims against the agreement, the charter operator and securer shall also state that they have executed a rider or amendment increasing the coverage by the amount of the claims, or that the securer will separately pay any claims for which it may be liable without impairing the agreement or reducing the amount of its coverage.
 
@@ -198,7 +198,7 @@ No charter operator shall engage in unfair or deceptive practices or unfair meth
 
 \(3\) If a depository agreement is used, a statement from the charter operator, the direct air carrier, and the depository bank:
 
-\(i\) That they have entered into a depository agreement covering the proposed flight schedule that complies with §380.34, and
+\(i\) That they have entered into a depository agreement covering the proposed flight schedule that complies with [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]], and
 
 \(ii\) That the bank has received a copy of the proposed flight schedule by the schedule number assigned by the charter operator in accordance with paragraph (a)(1) of this section. This statement shall be filed on OST Form 4534.
 
@@ -224,7 +224,7 @@ The charter contract between the charter operator or foreign charter operator an
 
 \(2\) The full text of the operator-participant contract.
 
-\(c\) Except as set forth in §380.33a for operator's option plan contracts, if the charter prospectus names alternative dates or cities, any solicitation material that states a price per passenger shall also state that the actual dates or cities have not yet been selected, if that is the case.
+\(c\) Except as set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.33   Major changes in itinerary or price; refunds.|§380.33]]a for operator's option plan contracts, if the charter prospectus names alternative dates or cities, any solicitation material that states a price per passenger shall also state that the actual dates or cities have not yet been selected, if that is the case.
 
 \(d\) Any solicitation material that names a hotel but does not name every hotel named in the operator-participant contract shall also state that substitutions may be made.
 
@@ -232,7 +232,7 @@ The charter contract between the charter operator or foreign charter operator an
 
 ### §380.31   General requirements for operator-participant contracts.
 
-\(a\) Except for telephone sales for which payment is made by credit card as described in paragraph (b) of this section, the charter operator shall not accept payment from or on behalf of a prospective participant unless the participant has agreed to the conditions of the charter by signing an operator-participant contract as described in §380.32. If a member of a group that will travel together pays for the group, that member may sign the contract on behalf of the group.
+\(a\) Except for telephone sales for which payment is made by credit card as described in paragraph (b) of this section, the charter operator shall not accept payment from or on behalf of a prospective participant unless the participant has agreed to the conditions of the charter by signing an operator-participant contract as described in [[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]]. If a member of a group that will travel together pays for the group, that member may sign the contract on behalf of the group.
 
 \(b\) For telephone sales only, the charter operator may accept payment by credit card without the participant having first signed an operator-participant contract provided that the charter operator first advises the customer:
 
@@ -248,9 +248,9 @@ The charter contract between the charter operator or foreign charter operator an
 
 \(d\) If there is no space available on the flight or specific alternative flights requested by the participant the operator shall return all the participant's money within 7 days after receiving it unless the participant, in accordance with paragraph (c) of this section, has authorized the operator to retain the payments while the operator attempts to make other arrangements for the participant. If the operator retains the payments while attempting to make other arrangements for the participant, it shall notify the participant of the fact within 7 days after receiving the payments, but in no event later than the departure. For the purpose of the time periods in this paragraph, receipt of money by a travel agent on behalf of a charter operator will not be considered as receipt by the operator.
 
-\(e\) Except as set forth in §380.33a for operator's option plan contracts, the operator-participant contract shall not specify alternative dates for the outbound or return flights, or alternative origin or destination cities for any flight leg.
+\(e\) Except as set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.33   Major changes in itinerary or price; refunds.|§380.33]]a for operator's option plan contracts, the operator-participant contract shall not specify alternative dates for the outbound or return flights, or alternative origin or destination cities for any flight leg.
 
-\(f\) The contract form shall be printed in 7-point or larger type. The statements required by paragraph (a), (f), (h), (l), (r), (s), and (x) of §380.32 shall be printed so as to contrast with the rest of the contract by the use of bold-faced type, capital letters, or a type size that is at least 50 percent larger than that used for the rest of the contract.
+\(f\) The contract form shall be printed in 7-point or larger type. The statements required by paragraph (a), (f), (h), (l), (r), (s), and (x) of [[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]] shall be printed so as to contrast with the rest of the contract by the use of bold-faced type, capital letters, or a type size that is at least 50 percent larger than that used for the rest of the contract.
 
 \(g\) The contract form shall include a space that participants may check to indicate that they wish to be furnished details of trip cancellation, health, and accident insurance.
 
@@ -270,7 +270,7 @@ Contracts between charter operators and charter participants shall state:
 
 \(e\) The amount and schedule of payments;
 
-\(f\) If a depository agreement as provided in §380.34(b) is used: That all checks, money orders, and credit card drafts must be made payable to the escrow account at the depository bank (identifying bank)1 or, when the charter is sold to the participant by a retail travel agent, checks and money orders may be made payable to the agent, who must in turn make his check payable to the escrow account at the depository bank;
+\(f\) If a depository agreement as provided in [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]](b) is used: That all checks, money orders, and credit card drafts must be made payable to the escrow account at the depository bank (identifying bank)1 or, when the charter is sold to the participant by a retail travel agent, checks and money orders may be made payable to the agent, who must in turn make his check payable to the escrow account at the depository bank;
 
 <div>
 
@@ -298,7 +298,7 @@ Contracts between charter operators and charter participants shall state:
 
 \(n\) The procedure for obtaining the refunds described in paragraph (m) of this section, including that they will be made within 14 days after the cancellation or substitution;
 
-\(o\) The meaning of “major change”, as set forth in §380.33(a);
+\(o\) The meaning of “major change”, as set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.33   Major changes in itinerary or price; refunds.|§380.33]](a);
 
 \(p\) That if the charter operator knows of a major change 10 or more days before scheduled departure, the operator will notify the participant of the change within 7 days after first knowing of it, but in any event at least 10 days before scheduled departure;
 
@@ -328,9 +328,9 @@ Contracts between charter operators and charter participants shall state:
 
 \(a\) For the purposes of this section, “major change” means any of the following:
 
-\(1\) A change in the departure or return date shown in the operator-participant contract, (or, if the contract states alternative dates, the date designated to the participant by the charter operator in accordance with §380.33a(b)), unless the change results from a flight delay. In any event, however, a date change that the operator knows of more than 2 days before the scheduled flight date, and any delay of more than 48 hours, will be considered a major change.
+\(1\) A change in the departure or return date shown in the operator-participant contract, (or, if the contract states alternative dates, the date designated to the participant by the charter operator in accordance with [[Volume 4/D Special regulations/0380 Public charters.md#§380.33   Major changes in itinerary or price; refunds.|§380.33]]a(b)), unless the change results from a flight delay. In any event, however, a date change that the operator knows of more than 2 days before the scheduled flight date, and any delay of more than 48 hours, will be considered a major change.
 
-\(2\) A change in the origin or destination city shown in the operator-participant contract for any flight leg (or, if the contract states alternative cities, the city designated to the participant by the operator in accordance with §380.33a(b)), unless the change affects only the order in which cities named in a tour package are visited.
+\(2\) A change in the origin or destination city shown in the operator-participant contract for any flight leg (or, if the contract states alternative cities, the city designated to the participant by the operator in accordance with [[Volume 4/D Special regulations/0380 Public charters.md#§380.33   Major changes in itinerary or price; refunds.|§380.33]]a(b)), unless the change affects only the order in which cities named in a tour package are visited.
 
 \(3\) A substitution of any hotel that is not named in the operator-participant contract; and
 
@@ -342,15 +342,15 @@ Contracts between charter operators and charter participants shall state:
 
 \(d\) Except as otherwise specified, notifications and refunds required by this part are considered made at the time they are mailed or sent by an equivalent method.
 
-\(e\) The charter operator shall make all refunds required to be described in the operator-participant contract within the time limits set forth in paragraphs (k), (n), (r), and (s) of §380.32, as applicable.
+\(e\) The charter operator shall make all refunds required to be described in the operator-participant contract within the time limits set forth in paragraphs (k), (n), (r), and (s) of [[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]], as applicable.
 
 ### §380.33a   Operator's option plan.
 
 \(a\) For the purposes of this part, an operator's option plan contract that states alternative dates for the outbound or return flights, or alternative origin or destination cities for any flight leg.
 
-\(b\) Operator's option plan contracts shall state, in addition to the information required by §380.32, that the selection of the actual dates or cities, as applicable, is at the charter operator's option and will not entitle the participant to a refund, and that the operator will notify the participant of the actual dates or cities at least 10 days before the earliest of any alternative dates for the outbound flight.
+\(b\) Operator's option plan contracts shall state, in addition to the information required by [[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]], that the selection of the actual dates or cities, as applicable, is at the charter operator's option and will not entitle the participant to a refund, and that the operator will notify the participant of the actual dates or cities at least 10 days before the earliest of any alternative dates for the outbound flight.
 
-\(c\) Contract forms for all operator's option plan contracts shall be labeled “OPERATOR'S OPTION PLAN” in bold-faced capital letters at least 1⁄4 inch high. The statement required by paragraph (b) of this section and the statement of alternative dates (§380.32(c)) or alternative cities (§380.32(d)), as applicable, shall be printed so as to contrast with the rest of the contract, as set forth in §380.31(f).
+\(c\) Contract forms for all operator's option plan contracts shall be labeled “OPERATOR'S OPTION PLAN” in bold-faced capital letters at least 1⁄4 inch high. The statement required by paragraph (b) of this section and the statement of alternative dates ([[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]](c)) or alternative cities ([[Volume 4/D Special regulations/0380 Public charters.md#§380.32   Specific requirements for operator-participant contracts.|§380.32]](d)), as applicable, shall be printed so as to contrast with the rest of the contract, as set forth in [[Volume 4/D Special regulations/0380 Public charters.md#§380.31   General requirements for operator-participant contracts.|§380.31]](f).
 
 \(d\) Any solicitation material that states a price per passenger for an operator's option plan contract shall clearly and conspicuously—
 
@@ -436,17 +436,17 @@ Contracts between charter operators and charter participants shall state:
 
 ### §380.34a   Substitution of direct air carrier's security or depository agreement.
 
-\(a\) A direct air carrier may substitute its own security agreement and/or depository arrangements, as specified in this section, for those required of the charter operator under §380.34, but only for charter trips in which all the air transportation is provided by one direct air carrier. Charter operators are relieved from §380.34 to the extent that the direct carrier substitutes its own arrangements.
+\(a\) A direct air carrier may substitute its own security agreement and/or depository arrangements, as specified in this section, for those required of the charter operator under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]], but only for charter trips in which all the air transportation is provided by one direct air carrier. Charter operators are relieved from [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]] to the extent that the direct carrier substitutes its own arrangements.
 
-\(b\) The direct air carrier may substitute its security agreement for all of the arrangements required of the charter operator under §380.34 (a) or (b). Alternatively, it may substitute its depository agreement for the depository agreement required of the charter operator under §380.34(b)(2). If the direct carrier substitutes its depository agreement, it may also obtain and substitute a security agreement for the one otherwise required of the charter operator under §380.34(b)(1). If the direct carrier substitutes its depository agreement only, the charter operator must supply the security agreement required under §380.34(b)(1).
+\(b\) The direct air carrier may substitute its security agreement for all of the arrangements required of the charter operator under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]] (a) or (b). Alternatively, it may substitute its depository agreement for the depository agreement required of the charter operator under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]](b)(2). If the direct carrier substitutes its depository agreement, it may also obtain and substitute a security agreement for the one otherwise required of the charter operator under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]](b)(1). If the direct carrier substitutes its depository agreement only, the charter operator must supply the security agreement required under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]](b)(1).
 
-\(c\) If the direct carrier substitutes a security agreement for all the charter operator's requirements under §380.34, the charter operator shall include in the charter prospectus, in place of the information in §380.28(a)(2) regarding the charter operator's security agreement:
+\(c\) If the direct carrier substitutes a security agreement for all the charter operator's requirements under [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]], the charter operator shall include in the charter prospectus, in place of the information in [[Volume 4/D Special regulations/0380 Public charters.md#§380.28   Charter prospectus.|§380.28]](a)(2) regarding the charter operator's security agreement:
 
 \(1\) A statement by the direct air carrier on OST Form 4535 that it will take responsibility for all charter participant payments (including those for ground accommodations and services) and for the fulfillment of all the charter operator's contractual and regulatory obligations to the charter participants.
 
-\(2\) A statement from the direct air carrier and its securer (under §212.12 of this chapter), OST Form 4533, that they have entered into a security agreement assuring the direct air carrier's responsibilities to charter participants under this section in an unlimited amount (except that the liability of the securer with respect to any charter participant may be limited to the charter price paid by or on behalf of such participant), and that the securer has received a copy of the proposed flight schedule identified by the schedule number assigned by the charter operator under this part.
+\(2\) A statement from the direct air carrier and its securer (under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.12   Waiver.|§212.12]] of this chapter), OST Form 4533, that they have entered into a security agreement assuring the direct air carrier's responsibilities to charter participants under this section in an unlimited amount (except that the liability of the securer with respect to any charter participant may be limited to the charter price paid by or on behalf of such participant), and that the securer has received a copy of the proposed flight schedule identified by the schedule number assigned by the charter operator under this part.
 
-\(d\) A substitute depository agreement under this section shall be signed by the direct air carrier, the charter operator, and the depository bank, and shall provide, in addition to existing requirements under §212.8 of this chapter, that:
+\(d\) A substitute depository agreement under this section shall be signed by the direct air carrier, the charter operator, and the depository bank, and shall provide, in addition to existing requirements under [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md#§212.8   Protection of customers' payments.|§212.8]] of this chapter, that:
 
 \(1\) Payments by or on behalf of charter participants shall be allocated to the flight accounts matching the participant's itinerary in the following way: Each account shall have allocated to it the charter cost of the participant's air transportation on that flight. The portion of each payment not intended for air transportation services shall be allocated to the account for the return flight in the participant's itinerary. If there is only one flight in the itinerary, the entire payment shall be allocated to that account.
 
@@ -458,7 +458,7 @@ Contracts between charter operators and charter participants shall state:
 
 \(f\) A copy of the depository agreement under paragraph (d) of this section shall be filed with the Department, and it shall not be effective until approved by the Department.
 
-\(g\) A copy of the security agreement under paragraph (c) or paragraph (e) of this section shall be filed with the Department. It shall insure the financial responsibility of the direct air carrier for supplying the transportation and all other accommodations, services, and facilities in accordance with the contracts between the charter operator and the charter participants. Such security agreement shall meet all the other requirements of §380.34 (c) and (d).
+\(g\) A copy of the security agreement under paragraph (c) or paragraph (e) of this section shall be filed with the Department. It shall insure the financial responsibility of the direct air carrier for supplying the transportation and all other accommodations, services, and facilities in accordance with the contracts between the charter operator and the charter participants. Such security agreement shall meet all the other requirements of [[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|§380.34]] (c) and (d).
 
 ### §380.35   Disbursements from depository account.
 
@@ -466,7 +466,7 @@ No charter operator or direct air carrier shall cause its agents or the deposito
 
 ### §380.36   Record retention.
 
-Every charter operator conducting a charter pursuant to this part shall comply with the applicable record-retention provisions of part 249 of this chapter.
+Every charter operator conducting a charter pursuant to this part shall comply with the applicable record-retention provisions of [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md|part 249 of this chapter]].
 
 ## Subpart D—Requirements Applicable to Direct Air Carriers
 
@@ -478,7 +478,7 @@ Every charter operator conducting a charter pursuant to this part shall comply w
 
 \(1\) The charter is conducted in accordance with subpart B of this part and
 
-\(2\) The charter operator conforms to all requirements of this part that are applicable to charter operators within the Department's jurisdiction, other than §§380.25, 380.28, 380.30 through 380.36, and 380.50.
+\(2\) The charter operator conforms to all requirements of this part that are applicable to charter operators within the Department's jurisdiction, other than §[[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]], 380.28, 380.30 through 380.36, and 380.50.
 
 ### §§380.41-380.42   \[Reserved\]
 
@@ -492,7 +492,7 @@ The Department reserves the power to suspend the exemption authority of any air 
 
 ### §380.46   Charter trip reporting.
 
-The direct air carrier shall promptly notify the Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, regarding any charters covered by a prospectus filed under §380.28 that are later canceled.
+The direct air carrier shall promptly notify the Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, regarding any charters covered by a prospectus filed under [[Volume 4/D Special regulations/0380 Public charters.md#§380.28   Charter prospectus.|§380.28]] that are later canceled.
 
 ## Subpart E—Registration of Foreign Charter Operators
 
@@ -502,7 +502,7 @@ This subpart establishes registration procedures for foreign charter operators i
 
 ### §380.61   Operation by foreign charter operators.
 
-\(a\) Each foreign charter operator shall be registered under this subpart and file a prospectus under §380.25 before organizing groups for transportation on Public Charters that originate in the United States.
+\(a\) Each foreign charter operator shall be registered under this subpart and file a prospectus under [[Volume 4/D Special regulations/0380 Public charters.md#§380.25   Prospectus filing and related requirements.|§380.25]] before organizing groups for transportation on Public Charters that originate in the United States.
 
 \(b\) Each foreign charter registered under this subpart shall comply with the other provisions of this part directed to charter operators.
 
@@ -570,7 +570,7 @@ By accepting an approved registration form under this subpart, an operator waive
 
 Know all persons by these presents, that we \_\_\_\_\_\_ (name of charter operator) \_\_\_\_\_\_ of\_\_\_\_\_\_ (city) \_\_\_\_\_\_ (state) as Principal (hereinafter called Principal), and \_\_\_\_\_\_ (name of surety) a corporation created and existing under the laws of the State of \_\_\_\_\_\_ (State) as Surety (hereinafter called Surety) are held and firmly bound unto the United States of America in the sum of \$\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(see 14 CFR 380.34) for which payment, well and truly to be made, we bind ourselves and our heirs, executors, administrators, successors, and assigns, jointly and severally, firmly by these presents.
 
-Whereas Principal intends to become a Public Charter operator pursuant to the provisions of [[Volume 4/D Special regulations/0380 Public chart[[Volume 4/D Special regulations/0380 Public charters.md#§380.34   Security and depository agreements.|14 CFR 380.34]] part 380]] and other rules and regulations of the Department relating to insurance or other security for the protection of charter participants, and has elected to file with the Department of Transportation such a bond as will insure financial responsibility with respect to all moneys received from charter participants for services in connection with a Public Charter to be operated subject to part 380 of the Department's regulations in accordance with contracts, agreements, or arrangements therefore, and
+Whereas Principal intends to become a Public Charter operator pursuant to the provisions of [[Volume 4/D Special regulations/0380 Public charters.md|14 CFR part 380]] and other rules and regulations of the Department relating to insurance or other security for the protection of charter participants, and has elected to file with the Department of Transportation such a bond as will insure financial responsibility with respect to all moneys received from charter participants for services in connection with a Public Charter to be operated subject to part 380 of the Department's regulations in accordance with contracts, agreements, or arrangements therefore, and
 
 Whereas this bond is written to assure compliance by Principal as an authorized charter operator with [[Volume 4/D Special regulations/0380 Public charters.md|14 CFR part 380]] and other rules and regulations of the Department relating to insurance and other security for the protection of charter participants, and shall inure to the benefit of any and all charter participants to whom Principal may be held legally liable for any damages herein described.
 

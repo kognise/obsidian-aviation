@@ -160,7 +160,7 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(e\) Unless a provision of this Part specifies application to a U.S. carrier or a foreign carrier, the provision applies to both U.S. and foreign carriers.
 
-\(f\) If you are an indirect carrier, §§382.1 through 382.15 of this part apply to you. §§382.17 through 382.157 of this part do not apply to you except insofar as provided by §382.11(b).
+\(f\) If you are an indirect carrier, §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.1   What is the purpose of this part?|§382.1]] through 382.15 of this part apply to you. §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§382.17]] through 382.157 of this part do not apply to you except insofar as provided by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.11   What is the general nondiscrimination requirement of this part?|§382.11]](b).
 
 \(g\) Notwithstanding any provisions of this part, you must comply with all FAA safety regulations, TSA security regulations, and foreign safety and security regulations having legally mandatory effect that apply to you.
 
@@ -220,13 +220,13 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(1\) You must not discriminate against any qualified individual with a disability, by reason of such disability, in the provision of air transportation;
 
-\(2\) You must not require a qualified individual with a disability to accept special services (including, but not limited to, preboarding) that the individual does not request. However, you may require preboarding as a condition of receiving certain seating or in-cabin stowage accommodations, as specified in §§382.83(c), 382.85(b), and 382.123(a) of this part.
+\(2\) You must not require a qualified individual with a disability to accept special services (including, but not limited to, preboarding) that the individual does not request. However, you may require preboarding as a condition of receiving certain seating or in-cabin stowage accommodations, as specified in §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§382.83]](c), 382.85(b), and 382.123(a) of this part.
 
 \(3\) You must not exclude a qualified individual with a disability from or deny the person the benefit of any air transportation or related services that are available to other persons, except where specifically permitted by this Part. This is true even if there are separate or different services available for individuals with a disability, except when specifically permitted by another section of this Part; and
 
 \(4\) You must not take any adverse action against an individual (e.g., refusing to provide transportation) because the individual asserts, on his or her own behalf or through or on behalf of others, rights protected by this part or the Air Carrier Access Act.
 
-\(b\) As an indirect carrier, you must comply with §§382.17 through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
+\(b\) As an indirect carrier, you must comply with §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.17   May carriers limit the number of passengers with a disability on a flight?|§382.17]] through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
 
 \[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 75 FR 44887, July 30, 2010\]
 
@@ -246,7 +246,7 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 \(1\) This assurance must commit the contractor to compliance with all applicable provisions of this Part in activities performed on behalf of the carrier.
 
-\(2\) The assurance must also commit the contractor to implementing directives issued by your CROs under §§382.151 through 382.153.
+\(2\) The assurance must also commit the contractor to implementing directives issued by your CROs under §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.151   What are the requirements for providing Complaints Resolution Officials?|§382.151]] through 382.153.
 
 \(c\) As a U.S. carrier, you must also include such an assurance of compliance in your contracts or agreements of appointment with U.S. travel agents. You are not required to include such an assurance in contracts with foreign travel agents.
 
@@ -256,7 +256,7 @@ As a U.S. or foreign carrier, you are required to comply with the requirements o
 
 ### §382.17   May carriers limit the number of passengers with a disability on a flight?
 
-As a carrier, you must not limit the number of passengers with a disability who travel on a flight. (See also §382.27(c)(6) of this part.)
+As a carrier, you must not limit the number of passengers with a disability who travel on a flight. (See also [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.27   May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight?|§382.27]](c)(6) of this part.)
 
 \[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 74 FR 11471, Mar. 18, 2009\]
 
@@ -268,9 +268,9 @@ As a carrier, you must not limit the number of passengers with a disability who 
 
 \(c\) You may refuse to provide transportation to any passenger on the basis of safety, as provided in 49 U.S.C. 44902 or 14 CFR 121.533, or to any passenger whose carriage would violate FAA or TSA requirements or applicable requirements of a foreign government.
 
-\(1\) You can determine that there is a disability-related safety basis for refusing to provide transportation to a passenger with a disability if you are able to demonstrate that the passenger poses a direct threat (see definition in §382.3). In determining whether an individual poses a direct threat, you must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain:
+\(1\) You can determine that there is a disability-related safety basis for refusing to provide transportation to a passenger with a disability if you are able to demonstrate that the passenger poses a direct threat (see definition in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.3   What do the terms in this rule mean?|§382.3]]). In determining whether an individual poses a direct threat, you must make an individualized assessment, based on reasonable judgment that relies on current medical knowledge or on the best available objective evidence, to ascertain:
 
-\(i\) The nat[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.533   Responsibility for operational control: Domestic operations.|14 CFR 121.533]] and severity of the risk;
+\(i\) The nature, duration, and severity of the risk;
 
 \(ii\) The probability that the potential harm to the health and safety of others will actually occur; and
 
@@ -296,7 +296,7 @@ As a carrier, you must not limit the number of passengers with a disability who 
 
 \(4\) Require the passenger to provide a medical certificate.
 
-\(b\) In assessing whether the passenger's condition poses a direct threat, you must apply the provisions of §382.19(c)(1)-(2) of this subpart.
+\(b\) In assessing whether the passenger's condition poses a direct threat, you must apply the provisions of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.19   May carriers refuse to provide transportation on the basis of disability?|§382.19]](c)(1)-(2) of this subpart.
 
 \(1\) In making this assessment, you may rely on directives issued by public health authorities (e.g., the U.S. Centers for Disease Control or Public Health Service; comparable agencies in other countries; the World Health Organization).
 
@@ -320,7 +320,7 @@ As a carrier, you must not limit the number of passengers with a disability who 
 
 </div>
 
-\(c\) If a passenger with a communicable disease meeting the direct threat criteria of this section gives you a medical certificate of the kind outlined in §382.23(c)(2) describing measures for preventing transmission of the disease during the normal course of the flight, you must provide transportation to the passenger, unless you are unable to carry out the measures.
+\(c\) If a passenger with a communicable disease meeting the direct threat criteria of this section gives you a medical certificate of the kind outlined in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.23   May carriers require a passenger with a disability to provide a medical certificate?|§382.23]](c)(2) describing measures for preventing transmission of the disease during the normal course of the flight, you must provide transportation to the passenger, unless you are unable to carry out the measures.
 
 \(d\) If your action under this section results in the postponement of a passenger's travel, you must permit the passenger to travel at a later time (up to 90 days from the date of the postponed travel) at the fare that would have applied to the passenger's originally scheduled trip without penalty or, at the passenger's discretion, provide a refund for any unused flights, including return flights.
 
@@ -352,7 +352,7 @@ As a carrier, you must not limit the number of passengers with a disability who 
 
 \(2\) For purposes of this paragraph, a medical certificate is a written statement from the passenger's physician saying that the disease or infection would not, under the present conditions in the particular passenger's case, be communicable to other persons during the normal course of a flight. The medical certificate must state any conditions or precautions that would have to be observed to prevent the transmission of the disease or infection to other persons in the normal course of a flight. A medical certificate under this paragraph must be dated within 10 days of the date of the flight for which it is presented.
 
-\(d\) As a carrier, you may require that a passenger with a medical certificate undergo additional medical review by you if there is a legitimate medical reason for believing that there has been a significant adverse change in the passenger's condition since the issuance of the medical certificate or that the certificate significantly understates the passenger's risk to the health of other persons on the flight. If the results of this medical review demonstrate that the passenger, notwithstanding the medical certificate, is likely to be unable to complete the flight without requiring extraordinary medical assistance (e.g., the passenger has apparent significant difficulty in breathing, appears to be in substantial pain, *etc.*) or would pose a direct threat to the health or safety of other persons on the flight, you may take an action otherwise prohibited under §382.21(a) of this part.
+\(d\) As a carrier, you may require that a passenger with a medical certificate undergo additional medical review by you if there is a legitimate medical reason for believing that there has been a significant adverse change in the passenger's condition since the issuance of the medical certificate or that the certificate significantly understates the passenger's risk to the health of other persons on the flight. If the results of this medical review demonstrate that the passenger, notwithstanding the medical certificate, is likely to be unable to complete the flight without requiring extraordinary medical assistance (e.g., the passenger has apparent significant difficulty in breathing, appears to be in substantial pain, *etc.*) or would pose a direct threat to the health or safety of other persons on the flight, you may take an action otherwise prohibited under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.21   May carriers limit access to transportation on the basis that a passenger has a communicable disease or other medical condition?|§382.21]](a) of this part.
 
 \[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 75 FR 44887, July 30, 2010\]
 
@@ -362,13 +362,13 @@ As a carrier, you must not require a passenger with a disability to provide adva
 
 ### §382.27   May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight?
 
-\(a\) Except as provided in paragraphs (b) and (c) of this section and §§382.75 and 382.133(e)(4), (5), (f)(5) and (6), as a carrier you must not require a passenger with a disability to provide advance notice in order to obtain services or accommodations required by this part.
+\(a\) Except as provided in paragraphs (b) and (c) of this section and §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§382.75]] and 382.133(e)(4), (5), (f)(5) and (6), as a carrier you must not require a passenger with a disability to provide advance notice in order to obtain services or accommodations required by this part.
 
 (b)(1) You may require a passenger with a disability to provide up to 72 hours' advance notice and check in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on international flights, and 48 hours' advance notice and check-in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on domestic flights. This service is optional; you are not required to provide carrier-supplied in-flight medical oxygen, but you may choose to do so.
 
 \(2\) You may require a passenger with a disability to provide 48 hours' advance notice and check-in one hour before the check-in time for the general public to use his/her ventilator, respirator, CPAP machine or POC.
 
-\(3\) You may require a passenger with a disability seeking to travel with a service animal in the cabin of the aircraft to provide up to 48 hours' advance notice through submission of the forms identified in §382.75 (a) and (b) as a condition of permitting the service animal to travel in the cabin if the reservation is made more than 48 hours prior to a flight's departure. In the alternative, you may require a passenger with a disability seeking to travel with a service animal in the cabin of the aircraft to provide the forms identified in §382.75 (a) and (b) at the passenger's departure gate on the date of travel as a condition of permitting the service animal to travel in the cabin.
+\(3\) You may require a passenger with a disability seeking to travel with a service animal in the cabin of the aircraft to provide up to 48 hours' advance notice through submission of the forms identified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§382.75]] (a) and (b) as a condition of permitting the service animal to travel in the cabin if the reservation is made more than 48 hours prior to a flight's departure. In the alternative, you may require a passenger with a disability seeking to travel with a service animal in the cabin of the aircraft to provide the forms identified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§382.75]] (a) and (b) at the passenger's departure gate on the date of travel as a condition of permitting the service animal to travel in the cabin.
 
 \(c\) You may require a passenger with a disability to provide up to 48 hours' advance notice and check in one hour before the check-in time for the general public to receive the following services and accommodations. The services listed in paragraphs (c)(1) through (c)(3) of this section are optional; you are not required to provide them, but you may choose to do so.
 
@@ -386,7 +386,7 @@ As a carrier, you must not require a passenger with a disability to provide adva
 
 \(7\) Provision of an on-board wheelchair on an aircraft with more than 60 seats that does not have an accessible lavatory.
 
-\(8\) Accommodation of a passenger who has both severe vision and hearing impairments (see §382.29(b)(4)).
+\(8\) Accommodation of a passenger who has both severe vision and hearing impairments (see [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.29   May a carrier require a passenger with a disability to travel with a safety assistant?|§382.29]](b)(4)).
 
 \(d\) If the passenger with a disability provides the advance notice you require, consistent with this section, for a service that you must provide (see paragraphs (b)(2) through (3) and (c)(4) through (8) of this section) or choose to provide (see paragraphs (b)(1) and (c)(1) through (c)(3) of this section), you must provide the requested service or accommodation except to comply with any applicable safety regulations.
 
@@ -410,9 +410,9 @@ As a carrier, you must not require a passenger with a disability to provide adva
 
 \(3\) A passenger with a mobility impairment so severe that the person is unable to physically assist in his or her own evacuation of the aircraft;
 
-\(4\) A passenger who has both severe hearing and severe vision impairments, if the passenger cannot establish some means of communication with carrier personnel that is adequate both to permit transmission of the safety briefing required by 14 CFR 121.57(a)(3) and (a)(4), 14 CFR 135,117(b) or the safety regulations of a foreign carrier's government, a[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.571   Briefing passengers before takeoff.|14 CFR 121.571]]and to enable the pas[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.117   Briefing of passengers before flight.|14 CFR 135.117]]st in his or her own evacuation of the aircraft in the event of an emergency. You may require a passenger with severe hearing and vision impairment who wishes to travel without a safety assistant to notify you at least 48 hours in advance to provide this explanation. If the passenger fails to meet this notice requirement, however, you must still accommodate him or her to the extent practicable.
+\(4\) A passenger who has both severe hearing and severe vision impairments, if the passenger cannot establish some means of communication with carrier personnel that is adequate both to permit transmission of the safety briefing required by 14 CFR 121.57(a)(3) and (a)(4), 14 CFR 135,117(b) or the safety regulations of a foreign carrier's government, as applicable, and to enable the passenger to assist in his or her own evacuation of the aircraft in the event of an emergency. You may require a passenger with severe hearing and vision impairment who wishes to travel without a safety assistant to notify you at least 48 hours in advance to provide this explanation. If the passenger fails to meet this notice requirement, however, you must still accommodate him or her to the extent practicable.
 
-(c)(1) If you determine that a person meeting the criteria of paragraph (b)[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.570   Airplane evacuation capability.|14 CFR 121.57]]r (b)(4) of this section must travel with a safety assistant, contrary to the individual's self-assessment that he or she is capable of traveling independently, you must not charge for the transportation of the safety assistant. You are not required to find or provide the safety assistant, however.
+(c)(1) If you determine that a person meeting the criteria of paragraph (b)(2), (b)(3) or (b)(4) of this section must travel with a safety assistant, contrary to the individual's self-assessment that he or she is capable of traveling independently, you must not charge for the transportation of the safety assistant. You are not required to find or provide the safety assistant, however.
 
 \(2\) For purposes of paragraph (b)(4) of this section, you may require, contrary to the individual's self-assessment, that an individual with both severe hearing and vision impairments must travel with a safety assistant if you determine that—
 
@@ -438,7 +438,7 @@ As a carrier, you must not require a passenger with a disability to provide adva
 
 ### §382.33   May carriers impose other restrictions on passengers with a disability that they do not impose on other passengers?
 
-\(a\) As a carrier, you must not subject passengers with a disability to restrictions that do not apply to other passengers, except as otherwise permitted in this part (*e.g.,* advance notice requirements for certain services permitted by §382.27).
+\(a\) As a carrier, you must not subject passengers with a disability to restrictions that do not apply to other passengers, except as otherwise permitted in this part (*e.g.,* advance notice requirements for certain services permitted by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.27   May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight?|§382.27]]).
 
 \(b\) Restrictions you must not impose on passengers with a disability include, but are not limited to, the following:
 
@@ -470,7 +470,7 @@ As a carrier, you must provide the following information, on request, to qualifi
 
 \(c\) Any aircraft-related, service-related or other limitations on the ability to accommodate passengers with a disability, including limitations on the availability of level-entry boarding to the aircraft at any airport involved with the flight. You must provide this information to any passenger who states that he or she uses a wheelchair for boarding, even if the passenger does not explicitly request the information.
 
-\(d\) Any limitations on the availability of storage facilities, in the cabin or in the cargo bay, for mobility aids or other assistive devices commonly used by passengers with a disability, including storage in the cabin of a passenger's wheelchair as provided in §§382.67 and 382.123 of this part;
+\(d\) Any limitations on the availability of storage facilities, in the cabin or in the cargo bay, for mobility aids or other assistive devices commonly used by passengers with a disability, including storage in the cabin of a passenger's wheelchair as provided in §[[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.67   What is the requirement for priority space in the cabin to store passengers' wheelchairs?|§382.67]] and 382.123 of this part;
 
 \(e\) Whether the aircraft has an accessible lavatory; and
 
@@ -566,7 +566,7 @@ As a carrier, you must provide the following information, on request, to qualifi
 
 \(8\) If you newly acquire televisions and other audio-visual displays for passenger safety briefings, information, or entertainment on or after May 13, 2009, such equipment must have high-contrast captioning capability.
 
-\(b\) As a carrier, you must ensure that passengers with a disability can readily use all terminal facilities you own, lease, or control at a foreign airport. In the case of foreign carriers, this requirement applies only to terminal facilities that serve flights covered by §382.7 of this part.
+\(b\) As a carrier, you must ensure that passengers with a disability can readily use all terminal facilities you own, lease, or control at a foreign airport. In the case of foreign carriers, this requirement applies only to terminal facilities that serve flights covered by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.7   To whom do the provisions of this part apply?|§382.7]] of this part.
 
 \(1\) This means that passengers with a disability must be able to move readily through such terminal facilities to get to or from the gate and any other area from which passengers board the aircraft you use for such flights (*e.g.*, the tarmac in the case of flights that do not use level-entry boarding). This obligation is in addition to your obligation to provide enplaning, deplaning, and connecting assistance to passengers.
 
@@ -758,13 +758,13 @@ As a carrier, you must provide the following information, on request, to qualifi
 
 ### §382.65   What are the requirements concerning on-board wheelchairs?
 
-\(a\) As a carrier, you must equip aircraft that have more than 60 passenger seats, and that have an accessible lavatory (whether or not having such a lavatory is required by §382.63 of this Part) with an on-board wheelchair. The Aerospatiale/Aeritalia ATR-72 and the British Aerospace Advanced Turboprop (ATP), in configurations having between 60 and 70 passenger seats, are exempt from this requirement.
+\(a\) As a carrier, you must equip aircraft that have more than 60 passenger seats, and that have an accessible lavatory (whether or not having such a lavatory is required by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.63   What are the requirements for accessible lavatories?|§382.63]] of this Part) with an on-board wheelchair. The Aerospatiale/Aeritalia ATR-72 and the British Aerospace Advanced Turboprop (ATP), in configurations having between 60 and 70 passenger seats, are exempt from this requirement.
 
 \(b\) If a passenger asks you to provide an on-board wheelchair on a particular flight, you must provide it if the aircraft being used for the flight has more than 60 passenger seats, even if the aircraft does not have an accessible lavatory.
 
 \(1\) The basis of the passenger's request must be that he or she can use an inaccessible lavatory but cannot reach it from a seat without using an on-board wheelchair.
 
-\(2\) You may require the passenger to provide the advance notice specified in §382.27 to receive this service.
+\(2\) You may require the passenger to provide the advance notice specified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.27   May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight?|§382.27]] to receive this service.
 
 \(c\) You must ensure that on-board wheelchairs meet the following standards:
 
@@ -780,7 +780,7 @@ As a carrier, you must provide the following information, on request, to qualifi
 
 \(b\) If you are a carrier that uses the seat-strapping method to stow a manual passenger wheelchair, you must ensure that there is priority space for at least two such wheelchairs, if stowing the second passenger wheelchair would not displace passengers.
 
-\(c\) If you are a carrier that uses a closet as the priority space to stow a manual passenger wheelchair, you must install a sign or placard prominently on the closet indicating that such wheelchairs and other assistive devices are to be stowed in this area with priority over other items brought onto the aircraft by other passengers or crew, including crew luggage, as set forth in §382.123.
+\(c\) If you are a carrier that uses a closet as the priority space to stow a manual passenger wheelchair, you must install a sign or placard prominently on the closet indicating that such wheelchairs and other assistive devices are to be stowed in this area with priority over other items brought onto the aircraft by other passengers or crew, including crew luggage, as set forth in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.123   What are the requirements concerning priority cabin stowage for wheelchairs and other assistive devices?|§382.123]].
 
 \(d\) If passengers holding confirmed reservations are not able to travel on a flight because their seats are being used to stow a passenger's wheelchair as required by paragraph (a) of this section, carriers must compensate those passengers in an amount to be calculated as provided for in instances of involuntary denied boarding under [[Volume 4/A Economic regulations/0250 Oversales.md|14 CFR part 250]], where part 250 applies.
 
@@ -890,13 +890,13 @@ While you generally cannot charge an individual with a disability for transporti
 
 \(a\) You may deny transport to a service animal under the following circumstances:
 
-\(1\) The animal poses a direct threat to the health or safety of others (see definition in §382.3);
+\(1\) The animal poses a direct threat to the health or safety of others (see definition in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.3   What do the terms in this rule mean?|§382.3]]);
 
 \(2\) The animal causes a significant disruption in the cabin or at an airport gate area, or its behavior on the aircraft or at an airport gate area indicates that it has not been trained to behave properly in public (e.g., running freely, barking or growling repeatedly at other persons on the aircraft, biting or jumping on people, or urinating or defecating in the cabin or gate area);
 
 \(3\) The animal's carriage would violate applicable safety or health requirements of any U.S. federal agency, U.S. territory or foreign government; or
 
-\(4\) The passenger with a disability seeking to travel with a service animal in the cabin of the aircraft does not provide completed current forms as set forth in §382.75 (a) and (b) to the carrier when requested to do so.
+\(4\) The passenger with a disability seeking to travel with a service animal in the cabin of the aircraft does not provide completed current forms as set forth in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.75   May a carrier require documentation from passengers with disabilities seeking to travel with a service animal?|§382.75]] (a) and (b) to the carrier when requested to do so.
 
 \(b\) In determining whether to deny transport to a service animal on the basis that the animal poses a direct threat under paragraph (a)(1) of this section, you must make an individualized assessment, independent of the dog's breed or type, based on reasonable judgment that relies on the best available objective evidence to ascertain the nature, duration, and severity of the risk; the probability that the potential injury will actually occur; and whether reasonable modifications of policies, practices, or procedure will mitigate the risk. A current completed U.S. Department of Transportation Service Animal Air Transportation Form may be used in making this determination.
 
@@ -930,7 +930,7 @@ As a carrier, you must provide the following seating accommodations to the follo
 
 \(3\) When a passenger with a hearing impairment is traveling with an interpreter who will be performing functions for the individual during the flight; or
 
-\(4\) When you require a passenger to travel with a safety assistant (see §382.29).
+\(4\) When you require a passenger to travel with a safety assistant (see [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.29   May a carrier require a passenger with a disability to travel with a safety assistant?|§382.29]]).
 
 \(c\) For a passenger with a disability traveling with a service animal, you must provide, as the passenger requests, either a bulkhead seat or a seat other than a bulkhead seat.
 
@@ -938,49 +938,49 @@ As a carrier, you must provide the following seating accommodations to the follo
 
 ### §382.83   Through what mechanisms do carriers make seating accommodations?
 
-\(a\) If you are a carrier that provides advance seat assignments to passengers (*i.e.,* offer seat assignments to passengers before the day of the flight), you must comply with the requirements of §382.81 of this part by any of the following methods:
+\(a\) If you are a carrier that provides advance seat assignments to passengers (*i.e.,* offer seat assignments to passengers before the day of the flight), you must comply with the requirements of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] of this part by any of the following methods:
 
-\(1\) You may “block” an adequate number of the seats used to provide the seating accommodations required by §382.81.
+\(1\) You may “block” an adequate number of the seats used to provide the seating accommodations required by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]].
 
-\(i\) You must not assign these seats to passengers who do not meet the criteria of §382.81 until 24 hours before the scheduled departure of the flight.
+\(i\) You must not assign these seats to passengers who do not meet the criteria of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] until 24 hours before the scheduled departure of the flight.
 
-\(ii\) At any time up until 24 hours before the scheduled departure of the flight, you must assign a seat meeting the requirements of this section to a passenger with a disability meeting one or more of the requirements of §382.81 who requests it, at the time the passenger initially makes the request.
+\(ii\) At any time up until 24 hours before the scheduled departure of the flight, you must assign a seat meeting the requirements of this section to a passenger with a disability meeting one or more of the requirements of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] who requests it, at the time the passenger initially makes the request.
 
-\(iii\) If a passenger with a disability specified in §382.81 does not make a request at least 24 hours before the scheduled departure of the flight, you must meet the passenger's request to the extent practicable, but you are not required to reassign a seat assigned to another passenger in order to do so.
+\(iii\) If a passenger with a disability specified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] does not make a request at least 24 hours before the scheduled departure of the flight, you must meet the passenger's request to the extent practicable, but you are not required to reassign a seat assigned to another passenger in order to do so.
 
-\(2\) You may designate an adequate number of the seats used to provide seating accommodations required by §382.81 as “priority seats” for passengers with a disability.
+\(2\) You may designate an adequate number of the seats used to provide seating accommodations required by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] as “priority seats” for passengers with a disability.
 
-\(i\) You must provide notice that all passengers assigned these seats (other than passengers with a disability listed in §382.81 of this part) are subject to being reassigned to another seat if necessary to provide a seating accommodation required by this section.
+\(i\) You must provide notice that all passengers assigned these seats (other than passengers with a disability listed in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] of this part) are subject to being reassigned to another seat if necessary to provide a seating accommodation required by this section.
 
 \(ii\) You may provide this notice through your computer reservation system, verbal information provided by reservation personnel, ticket notices, gate announcements, counter signs, seat cards or notices, frequent-flier literature, or other appropriate means.
 
-\(iii\) You must assign a seat meeting the requirements of this section to a passenger with a disability listed in §382.81 of this part who requests the accommodation at the time the passenger makes the request. You may require such a passenger to check in and request the seating accommodation at least one hour before the standard check-in time for the flight. If all designated priority seats that would accommodate the passenger have been assigned to other passengers, you must reassign the seats of the other passengers as needed to provide the requested accommodation.
+\(iii\) You must assign a seat meeting the requirements of this section to a passenger with a disability listed in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] of this part who requests the accommodation at the time the passenger makes the request. You may require such a passenger to check in and request the seating accommodation at least one hour before the standard check-in time for the flight. If all designated priority seats that would accommodate the passenger have been assigned to other passengers, you must reassign the seats of the other passengers as needed to provide the requested accommodation.
 
-\(iv\) If a passenger with a disability listed in §382.81 does not check in at least an hour before the standard check-in time for the general public, you must meet the individual's request to the extent practicable, but you are not required to reassign a seat assigned to another passenger in order to do so.
+\(iv\) If a passenger with a disability listed in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] does not check in at least an hour before the standard check-in time for the general public, you must meet the individual's request to the extent practicable, but you are not required to reassign a seat assigned to another passenger in order to do so.
 
 \(b\) If you assign seats to passengers, but not until the date of the flight, you must use the “priority seating” approach of paragraph (a)(2) of this section.
 
-\(c\) If you do not provide advance seat assignments to passengers, you must allow passengers specified in §382.81 to board the aircraft before other passengers, including other “preboarded” passengers, so that the passengers needing seating accommodations can select seats that best meet their needs.
+\(c\) If you do not provide advance seat assignments to passengers, you must allow passengers specified in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] to board the aircraft before other passengers, including other “preboarded” passengers, so that the passengers needing seating accommodations can select seats that best meet their needs.
 
-\(d\) As a carrier, if you wish to use a different method of providing seating assignment accommodations to passengers with disabilities from those specified in this subpart, you must obtain the written concurrence of the Department of Transportation. Contact the Department at the address cited in §382.159 of this part.
+\(d\) As a carrier, if you wish to use a different method of providing seating assignment accommodations to passengers with disabilities from those specified in this subpart, you must obtain the written concurrence of the Department of Transportation. Contact the Department at the address cited in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.159   How are complaints filed with DOT?|§382.159]] of this part.
 
-### §382.85   What seating accommodations must carriers make to passengers in circumstances not covered by §382.81 (a) through (d)?
+### §382.85   What seating accommodations must carriers make to passengers in circumstances not covered by [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] (a) through (d)?
 
-As a carrier, you must provide the following seating accommodations to a passenger who self-identifies as having a disability other than one in the four categories listed in §382.81 (a) through (d) of this part and as needing a seat assignment accommodation in order to readily access and use the carrier's air transportation services:
+As a carrier, you must provide the following seating accommodations to a passenger who self-identifies as having a disability other than one in the four categories listed in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] (a) through (d) of this part and as needing a seat assignment accommodation in order to readily access and use the carrier's air transportation services:
 
 \(a\) As a carrier that assigns seats in advance, you must provide accommodations in the following ways:
 
-\(1\) If you use the “seat-blocking” mechanism of §382.83(a)(1) of this part, you must implement the requirements of this section as follows:
+\(1\) If you use the “seat-blocking” mechanism of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§382.83]](a)(1) of this part, you must implement the requirements of this section as follows:
 
-\(i\) When a passenger with a disability not described in §382.81(a) through (d) of this part makes a reservation more than 24 hours before the scheduled departure time of the flight, you are not required to offer the passenger one of the seats blocked for the use of passengers with a disability listed under §382.81.
+\(i\) When a passenger with a disability not described in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]](a) through (d) of this part makes a reservation more than 24 hours before the scheduled departure time of the flight, you are not required to offer the passenger one of the seats blocked for the use of passengers with a disability listed under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]].
 
 \(ii\) However, you must assign to the passenger any seat, not already assigned to another passenger that accommodates the passenger's needs, even if that seat is not available for assignment to the general passenger population at the time of the request.
 
-\(2\) If you use the “designated priority seats” mechanism of §382.83(a)(2) of this part, you must implement the requirements of this section as follows:
+\(2\) If you use the “designated priority seats” mechanism of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§382.83]](a)(2) of this part, you must implement the requirements of this section as follows:
 
-\(i\) When a passenger with a disability not described in §382.81 makes a reservation, you must assign to the passenger any seat, not already assigned to another passenger, that accommodates the passenger's needs, even if that seat is not available for assignment to the general passenger population at the time of the request. You may require a passenger making such a request to check in one hour before the standard check-in time for the flight.
+\(i\) When a passenger with a disability not described in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.81   For which passengers must carriers make seating accommodations?|§382.81]] makes a reservation, you must assign to the passenger any seat, not already assigned to another passenger, that accommodates the passenger's needs, even if that seat is not available for assignment to the general passenger population at the time of the request. You may require a passenger making such a request to check in one hour before the standard check-in time for the flight.
 
-\(ii\) If such a passenger is assigned to a designated priority seat, he or she is subject to being reassigned to another seat as provided in §382.83(a)(2)(i) of this subpart.
+\(ii\) If such a passenger is assigned to a designated priority seat, he or she is subject to being reassigned to another seat as provided in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.83   Through what mechanisms do carriers make seating accommodations?|§382.83]](a)(2)(i) of this subpart.
 
 \(b\) On flights where advance seat assignments are not offered, you must provide seating accommodations under this section by allowing passengers to board the aircraft before other passengers, including other “preboarded” passengers, so that the individuals needing seating accommodations can select seats that best meet their needs.
 
@@ -992,9 +992,9 @@ As a carrier, you must provide the following seating accommodations to a passeng
 
 \(b\) In responding to requests from individuals for accommodations under this subpart, you must comply with FAA and applicable foreign government safety requirements, including those pertaining to exit seating (see 14 CFR 121.585 and 135.129).
 
-\(c\) If a passenger's disability results in involuntary active behavior that would result in the person properly being refused transportation under §382.19, and the passenger could be transported safely if seated in another location, you must offer to let the passenger sit in that location as an alternative to being refused transportation.
+\(c\) If a passenger's disability results in involuntary active behavior that would result in the person properly being refused transportation under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.19   May carriers refuse to provide transportation on the basis of disability?|§382.19]], and the passenger could be transported safely if seated in another location, you must offer to let the passenger sit in that location as an alternative to being refused transportation.
 
-\(d\) If you have already provided a seat to a passenger with a disability to furnish an accommodation required by this subpart, you must not (except in the circumstance described in §382.85(a)(2)(ii)) reassign that passenger to another seat in response to a [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.585   Exit seating.|14 CFR 121.585]]uest from another passenger with a disability, without the first passenger's consent.
+\(d\) If you have already provided a seat to a passenger with a disability to furnish an accommodation required by this subpart, you must not (except in the circumstance described in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.85   What seating accommodations must carriers make to passengers in circumstances not covered by §382.81 (a) through (d)?|§382.85]](a)(2)(ii)) reassign that passenger to another seat in response to a subsequent request from another passenger with a disability, without the first passenger's consent.
 
 \(e\) You must never deny transportation to any passenger in order to provide accommodations required by this subpart.
 
@@ -1012,7 +1012,7 @@ As a carrier, you must provide the following seating accommodations to a passeng
 
 \(2\) This requirement also includes a brief stop upon the passenger's request at the entrance to a rest room (including an accessible rest room when requested). As a carrier, you are required to make such a stop only if the rest room is available on the route to the destination of the enplaning, deplaning, or connecting assistance and you can make the stop without unreasonable delay. To receive such assistance, the passenger must self-identify as being an individual with a disability needing the assistance.
 
-\(c\) As a carrier at a U.S. airport, you must, on request, in cooperation with the airport operator, provide for escorting a passenger with a service animal to an animal relief area provided under §382.51(a)(5) of this part.
+\(c\) As a carrier at a U.S. airport, you must, on request, in cooperation with the airport operator, provide for escorting a passenger with a service animal to an animal relief area provided under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.51   What requirements must carriers meet concerning the accessibility of airport facilities?|§382.51]](a)(5) of this part.
 
 \(d\) As part of your obligation to provide or ensure the provision of assistance to passengers with disabilities in moving through the terminal (*e.g.,* between the terminal entrance and the gate, between gate and aircraft, from gate to a baggage claim area), you must assist passengers who are unable to carry their luggage because of a disability with transporting their gate-checked or carry-on luggage. You may request the credible verbal assurance that a passenger cannot carry the luggage in question. If a passenger is unable to provide credible assurance, you may require the passenger to provide documentation as a condition of providing this service.
 
@@ -1044,7 +1044,7 @@ The Department will make such a determination if it concludes that—
 
 ### §382.99   What agreements must carriers have with the airports they serve?
 
-\(a\) As a carrier, you must negotiate in good faith with the airport operator of each U.S. airport described in §382.95(b) to ensure the provision of lifts for boarding and deplaning where level-entry loading bridges are not available.
+\(a\) As a carrier, you must negotiate in good faith with the airport operator of each U.S. airport described in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.95   What are carriers' general obligations with respect to boarding and deplaning assistance?|§382.95]](b) to ensure the provision of lifts for boarding and deplaning where level-entry loading bridges are not available.
 
 \(b\) You must have a written, signed agreement with the airport operator allocating responsibility for meeting the boarding and deplaning assistance requirements of this subpart between or among the parties. For foreign carriers, with respect to all covered aircraft, this requirement becomes effective May 13, 2010.
 
@@ -1068,9 +1068,9 @@ When level-entry boarding and deplaning assistance is not required to be provide
 
 \(b\) The boarding or deplaning process occurs at a foreign airport;
 
-\(c\) You are using an aircraft subject to an exception from the lift boarding and deplaning assistance requirements under §382.97 (a)-(c) of this subpart;
+\(c\) You are using an aircraft subject to an exception from the lift boarding and deplaning assistance requirements under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.97   To which aircraft does the requirement to provide boarding and deplaning assistance through the use of lifts apply?|§382.97]] (a)-(c) of this subpart;
 
-\(d\) The deadlines established in §382.99(c) have not yet passed; and
+\(d\) The deadlines established in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.99   What agreements must carriers have with the airports they serve?|§382.99]](c) have not yet passed; and
 
 \(e\) Circumstances beyond your control (*e.g.,* unusually severe weather; unexpected mechanical problems) prevent the use of a lift.
 
@@ -1080,7 +1080,7 @@ As a carrier, you must not leave a passenger who has requested assistance requir
 
 ### §382.105   What is the responsibility of carriers at foreign airports at which airport operators have responsibility for enplaning, deplaning, and connecting assistance?
 
-At a foreign airport at which enplaning, deplaning, or connecting assistance is provided by the airport operator, rather than by carriers, as a carrier you may rely on the services provided by the airport operator to meet the requirements of this subpart. If the services provided by the airport operator are not sufficient to meet the requirements of this subpart, you must supplement the airport operator's services to ensure that these requirements are met. If you believe you are precluded by law from supplementing the airport operator's services, you may apply for a conflict of laws waiver under §382.9 of this part.
+At a foreign airport at which enplaning, deplaning, or connecting assistance is provided by the airport operator, rather than by carriers, as a carrier you may rely on the services provided by the airport operator to meet the requirements of this subpart. If the services provided by the airport operator are not sufficient to meet the requirements of this subpart, you must supplement the airport operator's services to ensure that these requirements are met. If you believe you are precluded by law from supplementing the airport operator's services, you may apply for a conflict of laws waiver under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.9   What may foreign carriers do if they believe a provision of a foreign nation's law conflicts with compliance with a provision of this part?|§382.9]] of this part.
 
 ## Subpart H—Services on Aircraft
 
@@ -1120,7 +1120,7 @@ As a carrier, you must comply with the following requirements with respect to on
 
 \(b\) You may offer an individual briefing to any other passenger, but you may not require an individual to have such a briefing except as provided in paragraph (a) of this section.
 
-\(c\) You must not require any passenger with a disability to demonstrate that he or she has listened to, read, or understood the information presented, except to the extent that carrier personnel impose such a requirement on all passengers with respect to the general safety briefing. You must not take any action adverse to a qualified individual with a disability on [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.571   Briefing passengers before takeoff.|14 CFR 121.571]] the person has not[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.117   Briefing of passengers before flight.|14 CFR 135.117]]e briefing.
+\(c\) You must not require any passenger with a disability to demonstrate that he or she has listened to, read, or understood the information presented, except to the extent that carrier personnel impose such a requirement on all passengers with respect to the general safety briefing. You must not take any action adverse to a qualified individual with a disability on the basis that the person has not “accepted” the briefing.
 
 \(d\) When you conduct an individual safety briefing for a passenger with a disability, you must do so as inconspicuously and discreetly as possible.
 
@@ -1148,7 +1148,7 @@ As a carrier, you must comply with the following requirements with respect to on
 
 ### §382.123   What are the requirements concerning priority cabin stowage for wheelchairs and other assistive devices?
 
-\(a\) The following rules apply to the stowage of passengers' wheelchairs or other assistive devices in the priority stowage area provided for in §382.67 of this part:
+\(a\) The following rules apply to the stowage of passengers' wheelchairs or other assistive devices in the priority stowage area provided for in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.67   What is the requirement for priority space in the cabin to store passengers' wheelchairs?|§382.67]] of this part:
 
 \(1\) You must ensure that a passenger with a disability who uses a wheelchair and takes advantage of the opportunity to preboard the aircraft can stow his or her wheelchair in this area, with priority over other items brought onto the aircraft by other passengers or crew enplaning at the same airport, consistent with FAA, PHMSA, TSA, or applicable foreign government requirements concerning security, safety, and hazardous materials with respect to the stowage of carry-on items. You must move items that you or your personnel have placed in the priority stowage area (*e.g.,* crew luggage, an on-board wheelchair) to make room for the passenger's wheelchair, even if these items were stowed in the priority stowage area before the passenger seeking to stow a wheelchair boarded the aircraft (*e.g.,* the items were placed there on a previous leg of the flight).
 
@@ -1156,7 +1156,7 @@ As a carrier, you must comply with the following requirements with respect to on
 
 \(3\) You must ensure that a passenger with a disability who does not take advantage of the opportunity to preboard is able to use the area to stow his or her wheelchair or other assistive device on a first-come, first-served basis along with all other passengers seeking to stow carry-on items in the area.
 
-\(b\) If a wheelchair exceeds the space provided for in §382.67 of this part while fully assembled but will fit if wheels or other components can be removed without the use of tools, you must remove the applicable components and stow the wheelchair in the designated space. In this case, you must stow the removed components in areas provided for stowage of carry-on luggage.
+\(b\) If a wheelchair exceeds the space provided for in [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.67   What is the requirement for priority space in the cabin to store passengers' wheelchairs?|§382.67]] of this part while fully assembled but will fit if wheels or other components can be removed without the use of tools, you must remove the applicable components and stow the wheelchair in the designated space. In this case, you must stow the removed components in areas provided for stowage of carry-on luggage.
 
 \[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67924, Nov. 12, 2013\]
 
@@ -1334,7 +1334,7 @@ With respect to transportation to which [[Volume 4/A Economic regulations/0254 D
 
 \(5\) Any requirement, if applicable, of the carrier operating the flight for an individual planning to use such a device to check-in up to one hour before that carrier's general check-in deadline; and
 
-\(6\) For POCs, the requirement of §382.23(b)(1)(ii) to present to the operating carrier at the airport a physician's statement (medical certificate).
+\(6\) For POCs, the requirement of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.23   May carriers require a passenger with a disability to provide a medical certificate?|§382.23]](b)(1)(ii) to present to the operating carrier at the airport a physician's statement (medical certificate).
 
 \(f\) As a foreign carrier operating flights to, from or within the United States, you must provide the information during the reservation process as indicated in paragraphs (f)(1) through (7) of this section upon inquiry from an individual concerning the use in the cabin during air transportation on such a flight of a ventilator, respirator, continuous positive airway machine, or POC. The information in this paragraph (f) must be provided:
 
@@ -1358,7 +1358,7 @@ With respect to transportation to which [[Volume 4/A Economic regulations/0254 D
 
 \(2\) You may require an individual to bring an adequate number of fully charged batteries onboard, based on the battery manufacturer's estimate of the hours of battery life while the device is in use and the information provided in the physician's statement, to power the device for not less than 150% of the expected maximum flight duration.
 
-\(3\) If an individual does not comply with the conditions for acceptance of a medical portable electronic device as outlined in this section, you may deny boarding to the individual in accordance with §382.19(c) and in that event you must provide a written explanation to the individual in accordance with §382.19(d).
+\(3\) If an individual does not comply with the conditions for acceptance of a medical portable electronic device as outlined in this section, you may deny boarding to the individual in accordance with [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.19   May carriers refuse to provide transportation on the basis of disability?|§382.19]](c) and in that event you must provide a written explanation to the individual in accordance with [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.19   May carriers refuse to provide transportation on the basis of disability?|§382.19]](d).
 
 \[Doc. No. FAA-2014-0554, 81 FR 33120, May 24, 2016\]
 
@@ -1386,7 +1386,7 @@ With respect to transportation to which [[Volume 4/A Economic regulations/0254 D
 
 \(6\) You must provide, or ensure that your contractors provide, training to the contractors' employees concerning travel by passengers with a disability. This training is required only for those contractor employees who deal directly with the traveling public, and it must be tailored to the employees' functions. Training for contractor employees must meet the requirements of paragraphs (a)(1) through (a)(5) of this section.
 
-\(7\) The employees you designate as CROs, for purposes of §382.151 of this part, must receive training concerning the requirements of this part and the duties of a CRO.
+\(7\) The employees you designate as CROs, for purposes of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.151   What are the requirements for providing Complaints Resolution Officials?|§382.151]] of this part, must receive training concerning the requirements of this part and the duties of a CRO.
 
 \(8\) Personnel subject to training required under this part, who are already employed on May 13, 2009, must be trained one time in the changes resulting from the reissuance of this part.
 
@@ -1394,17 +1394,17 @@ With respect to transportation to which [[Volume 4/A Economic regulations/0254 D
 
 ### §382.143   When must carriers complete training for their personnel?
 
-\(a\) As a U.S. carrier, you must meet the training requirements of §382.141 by the following times.
+\(a\) As a U.S. carrier, you must meet the training requirements of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.141   What training are carriers required to provide for their personnel?|§382.141]] by the following times.
 
-\(1\) Employees designated as CROs shall receive training concerning the requirements of this part and the duties of a CRO before assuming their duties under §382.151 (see §382.141(a)(7)). You must ensure that all employees performing the CRO function receive annual refresher training concerning their duties and the provisions of this regulation. The one-time training for CROs about the changes to Part 382 must take place by May 13, 2009. For employees who have already received CRO training, this training may be limited to changes from the previous version of Part 382.
+\(1\) Employees designated as CROs shall receive training concerning the requirements of this part and the duties of a CRO before assuming their duties under [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.151   What are the requirements for providing Complaints Resolution Officials?|§382.151]] (see [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.141   What training are carriers required to provide for their personnel?|§382.141]](a)(7)). You must ensure that all employees performing the CRO function receive annual refresher training concerning their duties and the provisions of this regulation. The one-time training for CROs about the changes to Part 382 must take place by May 13, 2009. For employees who have already received CRO training, this training may be limited to changes from the previous version of Part 382.
 
-\(2\) The one-time training for existing employees about changes to Part 382 (see §382.141(a)(8)) must take place for each such employee no later than the next scheduled recurrent training taking place after May 13, 2009 or within one year after May 13, 2009, whichever comes first.
+\(2\) The one-time training for existing employees about changes to Part 382 (see [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.141   What training are carriers required to provide for their personnel?|§382.141]](a)(8)) must take place for each such employee no later than the next scheduled recurrent training taking place after May 13, 2009 or within one year after May 13, 2009, whichever comes first.
 
 \(3\) For crewmembers subject to training requirements under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|14 CFR Part 121]] or 135 whose employment in any given position commences after May 13, 2009, before they assume their duties; and
 
 \(4\) For other personnel whose employment in any given position commences after May 13, 2009, within 60 days after the date on which they assume their duties.
 
-\(b\) As a foreign carrier that operates aircraft with 19 or more passenger seats, you must provide training meeting the requirements of §382.141(a) for all personnel who deal with the traveling public in connection with flights that begin or end at a U.S. airport, as appropriate to the duties of each employee. You must ensure that personnel required to receive training complete the training by the following times:
+\(b\) As a foreign carrier that operates aircraft with 19 or more passenger seats, you must provide training meeting the requirements of [[Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md#§382.141   What training are carriers required to provide for their personnel?|§382.141]](a) for all personnel who deal with the traveling public in connection with flights that begin or end at a U.S. airport, as appropriate to the duties of each employee. You must ensure that personnel required to receive training complete the training by the following times:
 
 \(1\) Employees designated as CROs shall receive training in accordance with paragraph (a)(1) of this section, by May 13, 2009.
 

@@ -36,7 +36,7 @@ For the purpose of this part:
 
 ### §157.3   Projects requiring notice.
 
-Each person who intends to do any of the following shall notify the Administrator in the manner prescribed in §157.5:
+Each person who intends to do any of the following shall notify the Administrator in the manner prescribed in [[Volume 3/I Airports/0157 Notice of construction, alteration, activation, and deactivation of airports.md#§157.5   Notice of intent.|§157.5]]:
 
 \(a\) Construct or otherwise establish a new airport or activate an airport.
 
@@ -56,9 +56,9 @@ Each person who intends to do any of the following shall notify the Administrato
 
 \(a\) Notice shall be submitted on FAA Form 7480-1, copies of which may be obtained from an FAA Airport District/Field Office or Regional Office, to one of those offices and shall be submitted at least—
 
-\(1\) In the cases prescribed in paragraphs (a) through (d) of §157.3, 90 days in advance of the day that work is to begin; or
+\(1\) In the cases prescribed in paragraphs (a) through (d) of [[Volume 3/I Airports/0157 Notice of construction, alteration, activation, and deactivation of airports.md#§157.3   Projects requiring notice.|§157.3]], 90 days in advance of the day that work is to begin; or
 
-\(2\) In the cases prescribed in paragraphs (e) through (g) of §157.3, 90 days in advance of the planned implementation date.
+\(2\) In the cases prescribed in paragraphs (e) through (g) of [[Volume 3/I Airports/0157 Notice of construction, alteration, activation, and deactivation of airports.md#§157.3   Projects requiring notice.|§157.3]], 90 days in advance of the planned implementation date.
 
 \(b\) Notwithstanding paragraph (a) of this section—
 

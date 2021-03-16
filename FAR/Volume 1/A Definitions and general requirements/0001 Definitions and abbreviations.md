@@ -174,7 +174,7 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 \(2\) An ETOPS group 2 significant system is an ETOPS significant system that is not an ETOPS group 1 significant system.
 
-*Extended Operations (ETOPS)* means an airplane flight operation, other than an all-cargo operation in an airplane with more than two engines, during which a portion of the flight is conducted beyond a time threshold identified in part 121 or part 135 of this chapter that is determined using an approved one-engine-inoperative cruise speed under standard atmospheric conditions in still air.
+*Extended Operations (ETOPS)* means an airplane flight operation, other than an all-cargo operation in an airplane with more than two engines, during which a portion of the flight is conducted beyond a time threshold identified in part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] that is determined using an approved one-engine-inoperative cruise speed under standard atmospheric conditions in still air.
 
 *Extended over-water operation* means—
 
@@ -224,7 +224,7 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 \(2\) For a glider without self-launch capability, pilot time that commences when the glider is towed for the purpose of flight and ends when the glider comes to rest after landing.
 
-*Flight training device (FTD)* means a replica of aircraft instruments, equipment, panels, and controls in an open flight deck area or an enclosed aircraft cockpit replica. It includes the equipment and computer programs necessary to represent aircraft (or set of aircraft) operations in ground and flight conditions having the full range of capabilities of the systems installed in the device as described in part 60 of this chapter and the qualification performance standard (QPS) for a specific FTD qualification level.
+*Flight training device (FTD)* means a replica of aircraft instruments, equipment, panels, and controls in an open flight deck area or an enclosed aircraft cockpit replica. It includes the equipment and computer programs necessary to represent aircraft (or set of aircraft) operations in ground and flight conditions having the full range of capabilities of the systems installed in the device as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] and the qualification performance standard (QPS) for a specific FTD qualification level.
 
 *Flight visibility* means the average forward horizontal distance, from the cockpit of an aircraft in flight, at which prominent unlighted objects may be seen and identified by day and prominent lighted objects may be seen and identified by night.
 
@@ -236,7 +236,7 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 *Forward wing* means a forward lifting surface of a canard configuration or tandem-wing configuration airplane. The surface may be a fixed, movable, or variable geometry surface, with or without control surfaces.
 
-*Full flight simulator (FFS)* means a replica of a specific type; or make, model, and series aircraft cockpit. It includes the assemblage of equipment and computer programs necessary to represent aircraft operations in ground and flight conditions, a visual system providing an out-of-the-cockpit view, a system that provides cues at least equivalent to those of a three-degree-of-freedom motion system, and has the full range of capabilities of the systems installed in the device as described in part 60 of this chapter and the qualification performance standards (QPS) for a specific FFS qualification level.
+*Full flight simulator (FFS)* means a replica of a specific type; or make, model, and series aircraft cockpit. It includes the assemblage of equipment and computer programs necessary to represent aircraft operations in ground and flight conditions, a visual system providing an out-of-the-cockpit view, a system that provides cues at least equivalent to those of a three-degree-of-freedom motion system, and has the full range of capabilities of the systems installed in the device as described in [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]] and the qualification performance standards (QPS) for a specific FFS qualification level.
 
 *Glider* means a heavier-than-air aircraft, that is supported in flight by the dynamic reaction of the air against its lifting surfaces and whose free flight does not depend principally on an engine.
 
@@ -370,7 +370,7 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 *Nonprecision approach procedure* means a standard instrument approach procedure in which no electronic glide slope is provided.
 
-*Operate,* with respect to aircraft, means use, cause to use or authorize to use aircraft, for the purpose (except as provided in §91.13 of this chapter) of air navigation including the piloting of aircraft, with or without the right of legal control (as owner, lessee, or otherwise).
+*Operate,* with respect to aircraft, means use, cause to use or authorize to use aircraft, for the purpose (except as provided in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.13   Careless or reckless operation.|§91.13]] of this chapter) of air navigation including the piloting of aircraft, with or without the right of legal control (as owner, lessee, or otherwise).
 
 *Operational control,* with respect to a flight, means the exercise of authority over initiating, conducting or terminating a flight.
 
@@ -436,27 +436,27 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 \(3\) An aircraft owned or operated by the National Guard of a State, the District of Columbia, or any territory or possession of the United States, and that meets the criteria of paragraph (2) of this definition, qualifies as a public aircraft only to the extent that it is operated under the direct control of the Department of Defense.
 
-*Rated 30-second OEI Power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter, for continuation of one flight operation after the failure or shutdown of one engine in multiengine rotorcraft, for up to three periods of use no longer than 30 seconds each in any one flight, and followed by mandatory inspection and prescribed maintenance action.
+*Rated 30-second OEI Power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], for continuation of one flight operation after the failure or shutdown of one engine in multiengine rotorcraft, for up to three periods of use no longer than 30 seconds each in any one flight, and followed by mandatory inspection and prescribed maintenance action.
 
-*Rated 2-minute OEI Power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter, for continuation of one flight operation after the failure or shutdown of one engine in multiengine rotorcraft, for up to three periods of use no longer than 2 minutes each in any one flight, and followed by mandatory inspection and prescribed maintenance action.
+*Rated 2-minute OEI Power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], for continuation of one flight operation after the failure or shutdown of one engine in multiengine rotorcraft, for up to three periods of use no longer than 2 minutes each in any one flight, and followed by mandatory inspection and prescribed maintenance action.
 
-*Rated continuous OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter, and limited in use to the time required to complete the flight after the failure or shutdown of one engine of a multiengine rotorcraft.
+*Rated continuous OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and limited in use to the time required to complete the flight after the failure or shutdown of one engine of a multiengine rotorcraft.
 
-*Rated maximum continuous augmented thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under Part 33 of this chapter, and approved for unrestricted periods of use.
+*Rated maximum continuous augmented thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|Part 33 of this chapter]], and approved for unrestricted periods of use.
 
 *Rated maximum continuous power,* with respect to reciprocating, turbopropeller, and turboshaft engines, means the approved brake horsepower that is developed statically or in flight, in standard atmosphere at a specified altitude, within the engine operating limitations established under part 33, and approved for unrestricted periods of use.
 
-*Rated maximum continuous thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under part 33 of this chapter, and approved for unrestricted periods of use.
+*Rated maximum continuous thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and approved for unrestricted periods of use.
 
-*Rated takeoff augmented thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically under standard sea level conditions, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under part 33 of this chapter, and limited in use to periods of not over 5 minutes for takeoff operation.
+*Rated takeoff augmented thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically under standard sea level conditions, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and limited in use to periods of not over 5 minutes for takeoff operation.
 
 *Rated takeoff power,* with respect to reciprocating, turbopropeller, and turboshaft engine type certification, means the approved brake horsepower that is developed statically under standard sea level conditions, within the engine operating limitations established under part 33, and limited in use to periods of not over 5 minutes for takeoff operation.
 
-*Rated takeoff thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically under standard sea level conditions, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under part 33 of this chapter, and limited in use to periods of not over 5 minutes for takeoff operation.
+*Rated takeoff thrust,* with respect to turbojet engine type certification, means the approved jet thrust that is developed statically under standard sea level conditions, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and limited in use to periods of not over 5 minutes for takeoff operation.
 
-*Rated 30-minute OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter, and limited in use to one period of use no longer than 30 minutes after the failure or shutdown of one engine of a multiengine rotorcraft.
+*Rated 30-minute OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]], and limited in use to one period of use no longer than 30 minutes after the failure or shutdown of one engine of a multiengine rotorcraft.
 
-*Rated 21⁄2 -minute OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter for periods of use no longer than 21⁄2 minutes each after the failure or shutdown of one engine of a multiengine rotorcraft.
+*Rated 21⁄2 -minute OEI power*, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md|part 33 of this chapter]] for periods of use no longer than 21⁄2 minutes each after the failure or shutdown of one engine of a multiengine rotorcraft.
 
 *Rating* means a statement that, as a part of a certificate, sets forth special conditions, privileges, or limitations.
 
@@ -558,7 +558,7 @@ Note: Controlled airspace is a generic term that covers Class A, Class B, Class 
 
 <div>
 
-Editorial Note: For Federal Register citations affecting §1.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Editorial Note: For Federal Register citations affecting [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.1   General definitions.|§1.1]], see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 </div>
 
@@ -600,7 +600,7 @@ In Subchapters A through K of this chapter:
 
 *ETOPS* means extended operations.
 
-*EWIS*, as defined by §25.1701 of this chapter, means electrical wiring interconnection system.
+*EWIS*, as defined by [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1701   Definition.|§25.1701]] of this chapter, means electrical wiring interconnection system.
 
 *FAA* means Federal Aviation Administration.
 
@@ -808,7 +808,7 @@ V*TOSS*   means takeoff safety speed for Category A rotorcraft.
 
 <div>
 
-Editorial Note: For Federal Register citations affecting §1.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Editorial Note: For Federal Register citations affecting [[Volume 1/A Definitions and general requirements/0001 Definitions and abbreviations.md#§1.2   Abbreviations and symbols.|§1.2]], see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 </div>
 

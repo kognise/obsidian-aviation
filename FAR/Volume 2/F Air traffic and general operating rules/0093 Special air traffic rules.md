@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.93](https://www.ecfr.
 
 <div>
 
-Editorial Note: For the text of SFAR No. 60, see part 91 of this chapter.
+Editorial Note: For the text of SFAR No. 60, see [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]].
 
 </div>
 
@@ -32,7 +32,7 @@ This subpart prescribes special air traffic rules for aircraft operating in the 
 
 ### §93.53   Description of area.
 
-The Anchorage, Alaska, Terminal Area is designated as that airspace extending upward from the surface to the upper limit of each of the segments described in §93.55. It is bounded by a line beginning at Point MacKenzie, extending westerly along the bank of Knik Arm to a point intersecting the 350° bearing from the Anchorage International ATCT; thence north to intercept the 5.2-mile arc centered on the geographical center of Anchorage, Alaska, ATCT; thence counterclockwise along that arc to its intersection with a line bearing 180° from the intersection of the new Seward Highway and International Airport Road; thence due north to O'Malley Road; thence east along O'Malley Road to its intersection with Lake Otis Parkway; thence northerly along Lake Otis Parkway to its intersection with Abbott Road; thence east along Abbott Road to its intersection with Abbott Loop Road; thence north to its intersection with Tudor Road; thence easterly along Tudor Road to its intersection with Muldoon Road; thence northerly along Muldoon Road to the intersection of the Glenn Highway; thence north and east along the Glenn Highway to Ski Bowl Road; thence southeast along the Ski Bowl Road to a point one-half mile south of the Glenn Highway; thence north and east one-half mile south of and parallel to the Glenn Highway to its intersection with a line one-half mile east of and parallel to the Bryant Airport Runway 16/34 extended centerline; thence northeast along a line one-half mile east of and parallel to Bryant Airport Runway 16/34 extended centerline to lat. 61°17′13″ N., long. 149°37′35″ W.; thence west along lat. 61°17′13″ N., to long. 149°43′08″ W.; thence north along long. 149°43′08″ W., to lat. 61°17′30″ N.; thence to lat. 61°17′58″ N., long 149°44′08″ W.; thence to lat. 61°19′10″ N., long. 149°46′44″ W.; thence north along long. 149°46′44″ W., to intercept the 4.7-mile radius arc centered on Elmendorf Air Force Base (AFB), Alaska; thence counterclockwise along the 4.7-mile radius arc to its intersection with the west bank of Knik Arm; thence southerly along the west bank of Knik Arm to the point of beginning.
+The Anchorage, Alaska, Terminal Area is designated as that airspace extending upward from the surface to the upper limit of each of the segments described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.55   Subdivision of Terminal Area.|§93.55]]. It is bounded by a line beginning at Point MacKenzie, extending westerly along the bank of Knik Arm to a point intersecting the 350° bearing from the Anchorage International ATCT; thence north to intercept the 5.2-mile arc centered on the geographical center of Anchorage, Alaska, ATCT; thence counterclockwise along that arc to its intersection with a line bearing 180° from the intersection of the new Seward Highway and International Airport Road; thence due north to O'Malley Road; thence east along O'Malley Road to its intersection with Lake Otis Parkway; thence northerly along Lake Otis Parkway to its intersection with Abbott Road; thence east along Abbott Road to its intersection with Abbott Loop Road; thence north to its intersection with Tudor Road; thence easterly along Tudor Road to its intersection with Muldoon Road; thence northerly along Muldoon Road to the intersection of the Glenn Highway; thence north and east along the Glenn Highway to Ski Bowl Road; thence southeast along the Ski Bowl Road to a point one-half mile south of the Glenn Highway; thence north and east one-half mile south of and parallel to the Glenn Highway to its intersection with a line one-half mile east of and parallel to the Bryant Airport Runway 16/34 extended centerline; thence northeast along a line one-half mile east of and parallel to Bryant Airport Runway 16/34 extended centerline to lat. 61°17′13″ N., long. 149°37′35″ W.; thence west along lat. 61°17′13″ N., to long. 149°43′08″ W.; thence north along long. 149°43′08″ W., to lat. 61°17′30″ N.; thence to lat. 61°17′58″ N., long 149°44′08″ W.; thence to lat. 61°19′10″ N., long. 149°46′44″ W.; thence north along long. 149°46′44″ W., to intercept the 4.7-mile radius arc centered on Elmendorf Air Force Base (AFB), Alaska; thence counterclockwise along the 4.7-mile radius arc to its intersection with the west bank of Knik Arm; thence southerly along the west bank of Knik Arm to the point of beginning.
 
 \[Doc. No. 29029, 64 FR 14976, Mar. 29, 1999; Amdt. 93-77, 64 FR 17439, Apr. 9, 1999\]
 
@@ -56,15 +56,15 @@ The Anchorage, Alaska, Terminal Area is subdivided as follows:
 
 ### §93.57   General rules: All segments.
 
-\(a\) Each person operating an aircraft to, from, or on an airport within the Anchorage, Alaska, Terminal Area shall operate that aircraft according to the rules set forth in this section and §§93.59, 93.61, 93.63, 93.65, 93.67, or 93.68 as applicable, unless otherwise authorized or required by ATC.
+\(a\) Each person operating an aircraft to, from, or on an airport within the Anchorage, Alaska, Terminal Area shall operate that aircraft according to the rules set forth in this section and §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.59   General rules: International segment.|§93.59]], 93.61, 93.63, 93.65, 93.67, or 93.68 as applicable, unless otherwise authorized or required by ATC.
 
 \(b\) Each person operating an airplane within the Anchorage, Alaska Terminal Area shall conform to the flow of traffic depicted on the appropriate aeronautical charts.
 
 \(c\) Each person operating a helicopter shall operate it in a manner so as to avoid the flow of airplanes.
 
-\(d\) Except as provided in §93.65 (d) and (e), and §93.67(b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall operate that aircraft only within the designated segment containing the arrival or departure airport.
+\(d\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.65   General rules: Elmendorf segment.|§93.65]] (d) and (e), and [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.67   General rules: Bryant segment.|§93.67]](b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall operate that aircraft only within the designated segment containing the arrival or departure airport.
 
-\(e\) Except as provided in §§93.63(d) and 93.67(b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall maintain two-way radio communications with the ATCT serving the segment containing the arrival or departure airport.
+\(e\) Except as provided in §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.63   General rules: Merrill segment.|§93.63]](d) and 93.67(b), each person operating an aircraft in the Anchorage, Alaska, Terminal Area shall maintain two-way radio communications with the ATCT serving the segment containing the arrival or departure airport.
 
 ### §93.59   General rules: International segment.
 
@@ -152,7 +152,7 @@ Each person operating an aircraft to or from Lake Campbell or Sixmile Lake Airpo
 
 \(7\) Use caution to avoid high-speed civil and military aircraft transiting the area to or from Niagara Falls Airport.
 
-\(f\) These procedures do not relieve pilots from the requirements of §91.113 of this chapter to see and avoid other aircraft.
+\(f\) These procedures do not relieve pilots from the requirements of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.113   Right-of-way rules: Except water operations.|§91.113]] of this chapter to see and avoid other aircraft.
 
 \(g\) Flight following, to and from the area, is available through Buffalo Approach.
 
@@ -234,13 +234,13 @@ Latitude 30°11′01″ N., Longitude 85°56′00″ W.; then 3 NM from and para
 
 ### §93.83   Aircraft operations.
 
-\(a\) *North-South Corridor.* Unless otherwise authorized by ATC (including the Eglin Radar Control Facility), no person may operate an aircraft in flight within the North-South Corridor designated in §93.81(b)(1) unless—
+\(a\) *North-South Corridor.* Unless otherwise authorized by ATC (including the Eglin Radar Control Facility), no person may operate an aircraft in flight within the North-South Corridor designated in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.81   Applicability and description of area.|§93.81]](b)(1) unless—
 
 \(1\) Before operating within the corridor, that person obtains a clearance from the Eglin Radar Control Facility or an appropriate FAA ATC facility; and
 
 \(2\) That person maintains two-way radio communication with the Eglin Radar Control Facility or an appropriate FAA ATC facility while within the corridor.
 
-\(b\) *East-West Corridor.* Unless otherwise authorized by ATC (including the Eglin Radar Control Facility), no person may operate an aircraft in flight within the East-West Corridor designated in §93.81(b)(2) unless—
+\(b\) *East-West Corridor.* Unless otherwise authorized by ATC (including the Eglin Radar Control Facility), no person may operate an aircraft in flight within the East-West Corridor designated in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.81   Applicability and description of area.|§93.81]](b)(2) unless—
 
 \(1\) Before operating within the corridor, that person establishes two-way radio communications with Eglin Radar Control Facility or an appropriate FAA ATC facility and receives an ATC advisory concerning operations being conducted therein; and
 
@@ -260,11 +260,11 @@ The Los Angeles Special Flight Rules Area is designated as that part of Area A o
 
 ### §93.95   General operating procedures.
 
-Unless otherwise authorized by the Administrator, no person may operate an aircraft in the airspace described in §93.93 unless the operation is conducted in accordance with the following procedures:
+Unless otherwise authorized by the Administrator, no person may operate an aircraft in the airspace described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.93   Description of area.|§93.93]] unless the operation is conducted in accordance with the following procedures:
 
-\(a\) The flight must be conducted under VFR and only when operation may be conducted in compliance with §91.155(a) of this chapter.
+\(a\) The flight must be conducted under VFR and only when operation may be conducted in compliance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.155   Basic VFR weather minimums.|§91.155]](a) of this chapter.
 
-\(b\) The aircraft must be equipped as specified in §91.215(b) of this chapter replying on code 1201 prior to entering and while operating in this area.
+\(b\) The aircraft must be equipped as specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.215   ATC transponder and altitude reporting equipment and use.|§91.215]](b) of this chapter replying on code 1201 prior to entering and while operating in this area.
 
 \(c\) The pilot shall have a current Los Angeles Terminal Area Chart in the aircraft.
 
@@ -282,7 +282,7 @@ Unless otherwise authorized by the Administrator, no person may operate an aircr
 
 ### §93.97   Operations in the SFRA.
 
-Notwithstanding the provisions of §91.131(a) of this chapter, an air traffic control authorization is not required in the Los Angeles Special Flight Rules Area for operations in compliance with §93.95. All other provisions of §91.131 of this chapter apply to operations in the Los Angeles Special Flight Rules Area.
+Notwithstanding the provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.131   Operations in Class B airspace.|§91.131]](a) of this chapter, an air traffic control authorization is not required in the Los Angeles Special Flight Rules Area for operations in compliance with [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.95   General operating procedures.|§93.95]]. All other provisions of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.131   Operations in Class B airspace.|§91.131]] of this chapter apply to operations in the Los Angeles Special Flight Rules Area.
 
 ## Subpart H—Mandatory Use of the New York North Shore Helicopter Route
 
@@ -328,7 +328,7 @@ This subpart designates high density traffic airports and prescribes air traffic
 
 ### §93.123   High density traffic airports.
 
-\(a\) Each of the following airports is designated as a high density traffic airport and, except as provided in §93.129 and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport:
+\(a\) Each of the following airports is designated as a high density traffic airport and, except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.129   Additional operations.|§93.129]] and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport:
 
 # IFR Operations per Hour
 
@@ -382,7 +382,7 @@ John F. Kennedy
 
 \(b\) Exceed 48 for air carriers, 14 for commuters, and 6 for “other” in any two consecutive 30-minute periods.
 
-<sup>5</sup>Pursuant to bilateral agreement, 14 slots at LaGuardia and 24 slots at O'Hare are allocated to the Canadian carriers. These slots are excluded from the hourly quotas set forth in §93.123 above.
+<sup>5</sup>Pursuant to bilateral agreement, 14 slots at LaGuardia and 24 slots at O'Hare are allocated to the Canadian carriers. These slots are excluded from the hourly quotas set forth in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]] above.
 
 </div>
 
@@ -408,7 +408,7 @@ John F. Kennedy
 
 \(2\) The number of operations allocated to scheduled commuters, as used in paragraph (a) of this section, refers to the number of operations conducted by air carriers with turboprop and reciprocating engine aircraft having a certificated maximum passenger seating capacity of less than 75 or by turbojet aircraft having a certificated maximum passenger seating capacity of less than 56, or if used for cargo service in air transportation, with any aircraft having a maximum payload capacity of less than 18,000 pounds. For purposes of aircraft operations at Ronald Reagan Washington National Airport, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
 
-\(3\) Notwithstanding the provisions of paragraph (c)(2) of this section, a limited number of operations allocated for “scheduled commuters” under paragraph (a) of this section may be conducted with aircraft described in §93.221(e) of this part pursuant to the requirements of §93.221(e).
+\(3\) Notwithstanding the provisions of paragraph (c)(2) of this section, a limited number of operations allocated for “scheduled commuters” under paragraph (a) of this section may be conducted with aircraft described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](e) of this part pursuant to the requirements of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](e).
 
 \[Doc. No. 9113, 34 FR 2603, Feb. 26, 1969, as amended by Amdt. 93-37, 45 FR 62408, Sept. 18, 1980; Amdt. 93-44, 46 FR 58048, Nov. 27, 1981; Amdt. 93-46, 49 FR 8244, Mar. 6, 1984; Amdt. 93-57, 54 FR 34906, Aug. 22, 1989; 54 FR 37303, Sept. 8, 1989; Amdt. 93-59, 54 FR 39843, Sept. 28, 1989; Amdt. 93-62, 56 FR 41207, Aug. 19, 1991; Amdt. 93-78, 64 FR 53564, Oct. 1, 1999; Amdt. 93-84, 70 FR 29063, May 19, 2005\]
 
@@ -432,13 +432,13 @@ Except between 12 Midnight and 6 a.m. local time, no person may operate an aircr
 
 ### §93.130   Suspension of allocations.
 
-The Administrator may suspend the effectiveness of any allocation prescribed in §93.123 and the reservation requirements prescribed in §93.125 if he finds such action to be consistent with the efficient use of the airspace. Such suspension may be terminated whenever the Administrator determines that such action is necessary for the efficient use of the airspace.
+The Administrator may suspend the effectiveness of any allocation prescribed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]] and the reservation requirements prescribed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.125   Arrival or departure reservation.|§93.125]] if he finds such action to be consistent with the efficient use of the airspace. Such suspension may be terminated whenever the Administrator determines that such action is necessary for the efficient use of the airspace.
 
 \[Doc. No. 9974, 35 FR 16592, Oct. 24, 1970, as amended by Amdt. 93-21, 35 FR 16636, Oct. 27, 1970; Amdt. 93-27, 38 FR 29464, Oct. 25, 1973\]
 
 ### §93.133   Exceptions.
 
-Except as provided in §93.130, the provisions of §§93.123 and 93.125 do not apply to—
+Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.130   Suspension of allocations.|§93.130]], the provisions of §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]] and 93.125 do not apply to—
 
 \(a\) The Newark Airport, Newark, NJ;
 
@@ -466,15 +466,15 @@ Within that airspace below 3,000 feet MSL within the lateral boundary of the sur
 
 ### §93.153   Communications.
 
-\(a\) When the Ketchikan Flight Service Station is in operation, no person may operate an aircraft within the airspace specified in §93.151, or taxi onto the runway at Ketchikan International Airport, unless that person has established two-way radio communications with the Ketchikan Flight Service Station for the purpose of receiving traffic advisories and continues to monitor the advisory frequency at all times while operating within the specified airspace.
+\(a\) When the Ketchikan Flight Service Station is in operation, no person may operate an aircraft within the airspace specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.151   Applicability.|§93.151]], or taxi onto the runway at Ketchikan International Airport, unless that person has established two-way radio communications with the Ketchikan Flight Service Station for the purpose of receiving traffic advisories and continues to monitor the advisory frequency at all times while operating within the specified airspace.
 
-\(b\) When the Ketchikan Flight Service Station is not in operation, no person may operate an aircraft within the airspace specified in §93.151, or taxi onto the runway at Ketchikan International Airport, unless that person continuously monitors and communicates, as appropriate, on the designated common traffic advisory frequency as follows:
+\(b\) When the Ketchikan Flight Service Station is not in operation, no person may operate an aircraft within the airspace specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.151   Applicability.|§93.151]], or taxi onto the runway at Ketchikan International Airport, unless that person continuously monitors and communicates, as appropriate, on the designated common traffic advisory frequency as follows:
 
 \(1\) *For inbound flights.* Announces position and intentions when no less than 10 miles from Ketchikan International Airport, and monitors the designated frequency until clear of the movement area on the airport or Ketchikan Harbor.
 
-\(2\) *For departing flights.* Announces position and intentions prior to taxiing onto the active runway on the airport or onto the movement area of Ketchikan Harbor and monitors the designated frequency until outside the airspace described in §93.151 and announces position and intentions upon departing that airspace.
+\(2\) *For departing flights.* Announces position and intentions prior to taxiing onto the active runway on the airport or onto the movement area of Ketchikan Harbor and monitors the designated frequency until outside the airspace described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.151   Applicability.|§93.151]] and announces position and intentions upon departing that airspace.
 
-\(c\) Notwithstanding the provisions of paragraphs (a) and (b) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace specified in §93.151, and land, if weather conditions are at or above basic VFR weather minimums.
+\(c\) Notwithstanding the provisions of paragraphs (a) and (b) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.151   Applicability.|§93.151]], and land, if weather conditions are at or above basic VFR weather minimums.
 
 \[Doc. No. 26653, 56 FR 48094, Sept. 23, 1991\]
 
@@ -500,15 +500,15 @@ The Pearson Field Airport Special Flight Rules Area is designated as that airspa
 
 ### §93.163   Aircraft operations.
 
-\(a\) Unless otherwise authorized by ATC, no person may operate an aircraft within the airspace described in §93.162, or taxi onto the runway at Pearson Field, unless-
+\(a\) Unless otherwise authorized by ATC, no person may operate an aircraft within the airspace described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.162   Description of area.|§93.162]], or taxi onto the runway at Pearson Field, unless-
 
 \(1\) That person establishes two-way radio communications with Pearson Advisory on the common traffic advisory frequency for the purpose of receiving air traffic advisories and continues to monitor the frequency at all times while operating within the specified airspace.
 
 \(2\) That person has obtained the Pearson Field weather prior to establishing two-way communications with Pearson Advisory.
 
-\(b\) Notwithstanding the provisions of paragraph (a) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace described in §93.162, and land, if weather conditions are at or above basic VFR weather minimums. If two-way radio communications failure occurs while in flight under IFR, the pilot must comply with §91.185.
+\(b\) Notwithstanding the provisions of paragraph (a) of this section, if two-way radio communications failure occurs in flight, a person may operate an aircraft within the airspace described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.162   Description of area.|§93.162]], and land, if weather conditions are at or above basic VFR weather minimums. If two-way radio communications failure occurs while in flight under IFR, the pilot must comply with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]].
 
-\(c\) Unless otherwise authorized by ATC, persons operating an aircraft within the airspace described in §93.162 must—
+\(c\) Unless otherwise authorized by ATC, persons operating an aircraft within the airspace described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.162   Description of area.|§93.162]] must—
 
 \(1\) When operating over the runway or extended runway centerline of Pearson Field Runway 8/26 maintain an altitude at or below 700 feet above mean sea level.
 
@@ -544,7 +544,7 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 ### §93.177   Operations in the Special Air Traffic Rule Area.
 
-\(a\) Unless otherwise authorized by Air Traffic Control (ATC), no person may operate an aircraft in flight within the Luke Terminal Area designated in §93.176 unless—
+\(a\) Unless otherwise authorized by Air Traffic Control (ATC), no person may operate an aircraft in flight within the Luke Terminal Area designated in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.176   Description of area.|§93.176]] unless—
 
 \(1\) Before operating within the Luke Terminal area, that person establishes radio contact with the Luke RAPCON; and
 
@@ -578,7 +578,7 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(i\) Returned to the FAA;
 
-\(ii\) Had recalled by the FAA under §93.227(a); or
+\(ii\) Had recalled by the FAA under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]](a); or
 
 \(iii\) Transferred to another party other than by trade for one or more slots at the same airport.
 
@@ -594,11 +594,11 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(b\) Any permanent slot whose use on December 16, 1985 is divided among different operators, by day of the week, or otherwise, as evidenced by records of the scheduling committees, shall be allocated in conformity with those records. The Chief Counsel of the FAA shall be the final decisionmaker for these determinations.
 
-\(c\) A carrier may permanently designate a slot it holds at Kennedy International Airport as a seasonal slot, to be held by the carrier only during the corresponding season in future years, if it notifies the FAA (at the address specified in §93.225(e)), in writing, the preceding winter seasons or by October 15 of the preceding year for summer seasons.
+\(c\) A carrier may permanently designate a slot it holds at Kennedy International Airport as a seasonal slot, to be held by the carrier only during the corresponding season in future years, if it notifies the FAA (at the address specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.225   Lottery of available slots.|§93.225]](e)), in writing, the preceding winter seasons or by October 15 of the preceding year for summer seasons.
 
-\(d\) Within 30 days after December 16, 1985, each U.S. air carrier and commuter operator must notify the office specified in §93.221(a)(1), in writing, of those slots used for operations described in §93.217(a)(1) on December 16, 1985.
+\(d\) Within 30 days after December 16, 1985, each U.S. air carrier and commuter operator must notify the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1), in writing, of those slots used for operations described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(1) on December 16, 1985.
 
-\(e\) Any slot not held by an operator on December 16, 1985 shall be allocated in accordance with the provisions of §§93.217, 93.219 or 93.225 of this subpart.
+\(e\) Any slot not held by an operator on December 16, 1985 shall be allocated in accordance with the provisions of §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]], 93.219 or 93.225 of this subpart.
 
 \[Doc. No. 24105, 50 FR 52195, Dec. 20, 1985, as amended by Amdt. 93-52, 51 FR 21717, June 13, 1986\]
 
@@ -606,23 +606,23 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(a\) Any air carrier of commuter operator having the authority to conduct international operations shall be provided slots for those operations, excluding transborder service solely between HDR airports and Canada, subject to the following conditions and the other provisions of this section:
 
-\(1\) The slot may be used only for a flight segment in which either the takeoff or landing is at a foreign point or, for foreign operators, the flight segment is a continuation of a flight that begins or ends at a foreign point. Slots may be obtained and used under this section only for operations at Kennedy and O'Hare airports unless otherwise required by bilateral agreement and only for scheduled service unless the requesting carrier qualifies for the slot on the basis of historic seasonal operations, under §93.217(a)(5).
+\(1\) The slot may be used only for a flight segment in which either the takeoff or landing is at a foreign point or, for foreign operators, the flight segment is a continuation of a flight that begins or ends at a foreign point. Slots may be obtained and used under this section only for operations at Kennedy and O'Hare airports unless otherwise required by bilateral agreement and only for scheduled service unless the requesting carrier qualifies for the slot on the basis of historic seasonal operations, under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(5).
 
 \(2\) Slots used for an operation described in paragraph (a)(1) of this section may not be bought, sold, leased, or otherwise transferred, except that such a slot may be traded to another slot-holder on a one-for-one basis for a slot at the same airport in a different hour or half-hour period if the trade is for the purpose of conducting such an operation in a different hour or half-hour period.
 
 \(3\) Slots used for operations described in paragraph (a)(1) of this section must be returned to the FAA if the slot will not be used for such operations for more than a 2-week period.
 
-\(4\) Each air carrier or commuter operator having a slot that is used for operations described in paragraph (a)(1) of this section but is not used every day of the week shall notify the office specified in §93.221(a)(1) in writing of those days on which the slots will not be used.
+\(4\) Each air carrier or commuter operator having a slot that is used for operations described in paragraph (a)(1) of this section but is not used every day of the week shall notify the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) in writing of those days on which the slots will not be used.
 
-\(5\) Except as provided in paragraph (a)(10) of this section, at Kennedy and O'Hare Airports, a slot shall be allocated, upon request, for seasonal international operations, including charter operations, if the Chief Counsel of the FAA determines that the slot had been permanently allocated to and used by the requesting carrier in the same hour and for the same time period during the corresponding season of the preceding year. Requests for such slots must be submitted to the office specified in §93.221(a)(1), by the deadline published in a Federal Register notice for each season. For operations during the 1986 summer season, requests under this paragraph must have been submitted to the FAA on or before February 1, 1986. Each carrier requesting a slot under this paragraph must submit its entire international schedule at the relevant airport for the particular season, noting which requests are in addition to or changes from the previous year.
+\(5\) Except as provided in paragraph (a)(10) of this section, at Kennedy and O'Hare Airports, a slot shall be allocated, upon request, for seasonal international operations, including charter operations, if the Chief Counsel of the FAA determines that the slot had been permanently allocated to and used by the requesting carrier in the same hour and for the same time period during the corresponding season of the preceding year. Requests for such slots must be submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1), by the deadline published in a Federal Register notice for each season. For operations during the 1986 summer season, requests under this paragraph must have been submitted to the FAA on or before February 1, 1986. Each carrier requesting a slot under this paragraph must submit its entire international schedule at the relevant airport for the particular season, noting which requests are in addition to or changes from the previous year.
 
-\(6\) Except as provided in paragraph (a)(10) of this section, additional slots shall be allocated at O'Hare Airport for international scheduled air carrier and commuter operations (beyond those slots allocated under §§93.215 and 93.217(a)(5) if a request is submitted to the office specified in §93.221(a)(1) and filed by the deadline published in a Federal Register notice for each season. These slots will be allocated at the time requested unless a slot is available within one hour of the requested time, in which case the unallocated slots will be used to satisfy the request.
+\(6\) Except as provided in paragraph (a)(10) of this section, additional slots shall be allocated at O'Hare Airport for international scheduled air carrier and commuter operations (beyond those slots allocated under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§93.215]] and 93.217(a)(5) if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) and filed by the deadline published in a Federal Register notice for each season. These slots will be allocated at the time requested unless a slot is available within one hour of the requested time, in which case the unallocated slots will be used to satisfy the request.
 
 \(7\) If required by bilateral agreement, additional slots shall be allocated at LaGuardia Airport for international scheduled passenger operations within the hour requested.
 
-\(8\) To the extent vacant slots are available, additional slots during the high density hours shall be allocated at Kennedy Airport for new international scheduled air carrier and commuter operations (beyond those operations for which slots have been allocated under §§93.215 and 93.217(a)(5)), if a request is submitted to the office specified in §93.221(a)(1) by the deadline published in a Federal Register notice for each season. In addition, slots may be withdrawn from domestic operations for operations at Kennedy Airport under this paragraph if required by international obligations.
+\(8\) To the extent vacant slots are available, additional slots during the high density hours shall be allocated at Kennedy Airport for new international scheduled air carrier and commuter operations (beyond those operations for which slots have been allocated under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§93.215]] and 93.217(a)(5)), if a request is submitted to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) by the deadline published in a Federal Register notice for each season. In addition, slots may be withdrawn from domestic operations for operations at Kennedy Airport under this paragraph if required by international obligations.
 
-\(9\) In determining the hour in which a slot request under §§93.217(a)(6) and 93.217(a)(8) will be granted, the following will be taken into consideration, among other things:
+\(9\) In determining the hour in which a slot request under §[[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(6) and 93.217(a)(8) will be granted, the following will be taken into consideration, among other things:
 
 \(i\) The availability of vacant slot times;
 
@@ -636,13 +636,13 @@ The Luke Air Force Base, Arizona Terminal Area is designated during official day
 
 \(10\) At O'Hare Airport, a slot will not be allocated under this section to a carrier holding or operating 100 or more permanent slots on the previous May 15 for a winter season or October 15 for a summer season unless:
 
-\(i\) Allocation of the slot does not result in a total allocation to that carrier under this section that exceeds the number of slots allocated to and scheduled by that carrier under this section on February 23, 1990, and as reduced by the number of slots reclassified under §93.218, and does not exceed by more than 2 the number of slots allocated to and scheduled by that carrier during any half hour of that day, or
+\(i\) Allocation of the slot does not result in a total allocation to that carrier under this section that exceeds the number of slots allocated to and scheduled by that carrier under this section on February 23, 1990, and as reduced by the number of slots reclassified under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.218   Slots for transborder service to and from Canada.|§93.218]], and does not exceed by more than 2 the number of slots allocated to and scheduled by that carrier during any half hour of that day, or
 
 \(ii\) Notwithstanding the number of slots allocated under paragraph (a)(10)(i) of this section, a slot is available for allocation without withdrawal of a permanent slot from any carrier.
 
-\(b\) If a slot allocated under §93.215 was scheduled for an operation described in paragraph (a)(1) of this section on December 16, 1985, its use shall be subject to the requirements of paragraphs (a)(1) through (a)(4) of this section. The requirements also apply to slots used for international operations at LaGuardia Airport.
+\(b\) If a slot allocated under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.215   Initial allocation of slots.|§93.215]] was scheduled for an operation described in paragraph (a)(1) of this section on December 16, 1985, its use shall be subject to the requirements of paragraphs (a)(1) through (a)(4) of this section. The requirements also apply to slots used for international operations at LaGuardia Airport.
 
-\(c\) If a slot is offered to a carrier in other than the hour requested, the carrier shall have 14 days after the date of the offer to accept the newly offered slot. Acceptance must be in writing and sent to the office specified in §93.221(a)(1) and must repeat the certified statements required by paragraph (e) of this section.
+\(c\) If a slot is offered to a carrier in other than the hour requested, the carrier shall have 14 days after the date of the offer to accept the newly offered slot. Acceptance must be in writing and sent to the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) and must repeat the certified statements required by paragraph (e) of this section.
 
 \(d\) The Office of the Secretary of Transportation reserves the right not to apply the provisions of this section, concerning the allocation of slots, to any foreign air carrier or commuter operator of a country that provides slots to U.S. air carriers and commuter operators on a basis more restrictive than provided by this subpart. Decisions not to apply the provisions of this section will be made by the Office of the Secretary of Transportation.
 
@@ -666,7 +666,7 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(a\) Slots obtained under this section may not be bought, sold, leased or otherwise transferred, except that such slots may be traded for other slots on a one-for-one basis at the same airport.
 
-\(b\) Any slot obtained under this section must be returned to the FAA if it will not be used for EAS purposes for more than a 2-week period. A slot returned under this paragraph may be reallocated to the operator which returned it upon request to the FAA office specified in §93.221(a)(1) if that slot has not been reallocated to an operator to provide substitute essential air service.
+\(b\) Any slot obtained under this section must be returned to the FAA if it will not be used for EAS purposes for more than a 2-week period. A slot returned under this paragraph may be reallocated to the operator which returned it upon request to the FAA office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) if that slot has not been reallocated to an operator to provide substitute essential air service.
 
 \(c\) Slots shall be allocated for EAS purposes in a time period within 90 minutes of the time period requested.
 
@@ -678,7 +678,7 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(a\) Except as otherwise provided in this subpart, effective April 1, 1986, slots may be bought, sold or leased for any consideration and any time period and they may be traded in any combination for slots at the same airport or any other high density traffic airport. Transfers, including leases, shall comply with the following conditions:
 
-\(1\) Requests for confirmation must be submitted in writing to Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591, in a format to be prescribed by the Administrator. Requests will provide the names of the transferor and recipient; business address and telephone number of the persons representing the transferor and recipient; whether the slot is to be used for an arrival or departure; the date the slot was acquired by the transferor; the section of this subpart under which the slot was allocated to the transferor; whether the slot has been used by the transferor for international or essential air service operations; and whether the slot will be used by the recipient for international or essential air service operations. After withdrawal priorities have been established under §93.223 of this part, the requests must include the slot designations of the transferred slots as described in §93.223(b)(5).
+\(1\) Requests for confirmation must be submitted in writing to Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591, in a format to be prescribed by the Administrator. Requests will provide the names of the transferor and recipient; business address and telephone number of the persons representing the transferor and recipient; whether the slot is to be used for an arrival or departure; the date the slot was acquired by the transferor; the section of this subpart under which the slot was allocated to the transferor; whether the slot has been used by the transferor for international or essential air service operations; and whether the slot will be used by the recipient for international or essential air service operations. After withdrawal priorities have been established under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.223   Slot withdrawal.|§93.223]] of this part, the requests must include the slot designations of the transferred slots as described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.223   Slot withdrawal.|§93.223]](b)(5).
 
 \(2\) The slot transferred must come from the transferor's then-current FAA-approved base.
 
@@ -686,21 +686,21 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(4\) The recipient of a transferred slot may not use the slot until written confirmation has been received from the FAA.
 
-(5)(i) Until a slot obtained by a new entrant or limited incumbent carrier in a lottery held under §93.225 after June 1, 1991, has been used by the carrier that obtained it for a continuous 24-month period after the lottery in accordance with §93.227(a), that slot may be transferred only by trade for one or more slots at the same airport or to other new entrant or limited incumbent carriers under §93.221(a)(5)(iii). This transfer restriction shall apply to the same extent to any slot or slots acquired by trading the slot obtained in a lottery. To remove the transfer restriction, documentation of 24 months' continuous use must be submitted to the FAA Office of the Chief Counsel.
+(5)(i) Until a slot obtained by a new entrant or limited incumbent carrier in a lottery held under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.225   Lottery of available slots.|§93.225]] after June 1, 1991, has been used by the carrier that obtained it for a continuous 24-month period after the lottery in accordance with [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]](a), that slot may be transferred only by trade for one or more slots at the same airport or to other new entrant or limited incumbent carriers under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(5)(iii). This transfer restriction shall apply to the same extent to any slot or slots acquired by trading the slot obtained in a lottery. To remove the transfer restriction, documentation of 24 months' continuous use must be submitted to the FAA Office of the Chief Counsel.
 
-\(ii\) Failure to use a slot acquired by trading a slot obtained in a lottery for a continuous 24-month period after the lottery, shall void all trades involving the lottery slot, which shall be returned to the FAA. All use of the lottery slot shall be counted toward fulfilling the minimum use requirements under §93.227(a) applicable to the slot or slots for which the lottery slot was traded, including subsequent trades.
+\(ii\) Failure to use a slot acquired by trading a slot obtained in a lottery for a continuous 24-month period after the lottery, shall void all trades involving the lottery slot, which shall be returned to the FAA. All use of the lottery slot shall be counted toward fulfilling the minimum use requirements under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]](a) applicable to the slot or slots for which the lottery slot was traded, including subsequent trades.
 
-\(iii\) Slots obtained by new entrant or limited incumbent carriers in a lottery may be sold, leased, or otherwise transferred to another entrant or limited incumbent carrier after a minimum of 60 days of use by the obtaining carrier. The transfer restrictions of §93.221(a)(5)(i) shall continue to apply to the slot until documentation of 24 months' continuous use has been submitted and the transfer restriction removed.
+\(iii\) Slots obtained by new entrant or limited incumbent carriers in a lottery may be sold, leased, or otherwise transferred to another entrant or limited incumbent carrier after a minimum of 60 days of use by the obtaining carrier. The transfer restrictions of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(5)(i) shall continue to apply to the slot until documentation of 24 months' continuous use has been submitted and the transfer restriction removed.
 
 \(6\) The Office of the Secretary of Transportation must determine that the transfer will not be injurious to the essential air service program.
 
 \(b\) A record of each slot transfer shall be kept on file by the office specified in paragraph (a)(1) of this section and will be made available to the public upon request.
 
-\(c\) Any person may buy or sell slots and any air carrier or commuter may use them. Notwithstanding §93.123, air carrier slots may be used with aircraft of the kind described in §93.123 (c)(1) or (c)(2) but commuter slots may only be used with aircraft of the kind described in §93.0123(c)(2).
+\(c\) Any person may buy or sell slots and any air carrier or commuter may use them. Notwithstanding [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]], air carrier slots may be used with aircraft of the kind described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]] (c)(1) or (c)(2) but commuter slots may only be used with aircraft of the kind described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.0123]](c)(2).
 
-\(d\) Air carriers and commuter operators considered to be a single operator under the provisions of §93.213(c) of this subpart but operating under separate names shall report transfers of slots between them.
+\(d\) Air carriers and commuter operators considered to be a single operator under the provisions of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.213   Definitions and general provisions.|§93.213]](c) of this subpart but operating under separate names shall report transfers of slots between them.
 
-\(e\) Notwithstanding §93.123(c)(2) of this part, a commuter slot at O'Hare International Airport may be used with an aircraft described in §93.123(c)(1) of this part on the following conditions:
+\(e\) Notwithstanding [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]](c)(2) of this part, a commuter slot at O'Hare International Airport may be used with an aircraft described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]](c)(1) of this part on the following conditions:
 
 \(1\) Air carrier aircraft that may be operated under this paragraph are limited to aircraft:
 
@@ -720,17 +720,17 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 ### §93.223   Slot withdrawal.
 
-\(a\) Slots do not represent a property right but represent an operating privilege subject to absolute FAA control. Slots may be withdrawn at any time to fulfill the Department's operational needs, such as providing slots for international or essential air service operations or eliminating slots. Before withdrawing any slots under this section to provide them for international operations, essential air services or other operational needs, those slots returned under §93.224 of this part and those recalled by the agency under §93.227 will be allocated.
+\(a\) Slots do not represent a property right but represent an operating privilege subject to absolute FAA control. Slots may be withdrawn at any time to fulfill the Department's operational needs, such as providing slots for international or essential air service operations or eliminating slots. Before withdrawing any slots under this section to provide them for international operations, essential air services or other operational needs, those slots returned under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.224   Return of slots.|§93.224]] of this part and those recalled by the agency under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]] will be allocated.
 
 \(b\) Separate slot pools shall be established for air carriers and commuter operators at each airport. The FAA shall assign, by random lottery, withdrawal priority numbers for the recall priority of slots at each airport. Each additional permanent slot, if any, will be assigned the next higher number for air carrier or commuter slots, as appropriate, at each airport. Each slot shall be assigned a designation consisting of the applicable withdrawal priority number; the airport code; a code indicating whether the slot is an air carrier or commuter operator slot; and the time period of the slot. The designation shall also indicate, as appropriate, if the slot is daily or for certain days of the week only; is limited to arrivals or departures; is allocated for international operations or for EAS purposes; and, at Kennedy International Airport, is a summer or winter slot.
 
 \(c\) Whenever slots must be withdrawn, they will be withdrawn in accordance with the priority list established under paragraph (b) of this section, except:
 
-\(1\) Slots obtained in a lottery held pursuant to §93.225 of this part shall be subject to withdrawal pursuant to paragraph (i) of that section, and
+\(1\) Slots obtained in a lottery held pursuant to [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.225   Lottery of available slots.|§93.225]] of this part shall be subject to withdrawal pursuant to paragraph (i) of that section, and
 
 \(2\) Slots necessary for international and essential air service operations shall be exempt from withdrawal for use for other international or essential air service operations.
 
-\(3\) Except as provided in §93.227(a), the FAA shall not withdraw slots held at an airport by an air carrier or commuter operator holding and operating 12 or fewer slots at that airport (excluding slots used for operations described in §93.212(a)(1)), if withdrawal would reduce the number of slots held below the number of slots operated.
+\(3\) Except as provided in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]](a), the FAA shall not withdraw slots held at an airport by an air carrier or commuter operator holding and operating 12 or fewer slots at that airport (excluding slots used for operations described in §93.212(a)(1)), if withdrawal would reduce the number of slots held below the number of slots operated.
 
 \(4\) No slot comprising the guaranteed base of slots, as defined in section 93.318(b), shall be withdrawn for use for international operations or for new entrants.
 
@@ -744,9 +744,9 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 ### §93.224   Return of slots.
 
-\(a\) Whenever a slot is required to be returned under this subpart, the holder must notify the office specified in §93.221(a)(1) in writing of the date after which the slot will not be used.
+\(a\) Whenever a slot is required to be returned under this subpart, the holder must notify the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) in writing of the date after which the slot will not be used.
 
-\(b\) Slots may be voluntarily returned for use by other operators by notifying the office specified in §93.221(a)(1) in writing.
+\(b\) Slots may be voluntarily returned for use by other operators by notifying the office specified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) in writing.
 
 ### §93.225   Lottery of available slots.
 
@@ -754,19 +754,19 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(b\) A random lottery shall be held to determine the order of slot selection.
 
-\(c\) Slot allocation lotteries shall be held on an airport-by-airport basis with separate lotteries for air carrier and commuter operator slots. The slots to be allocated in each lottery will be each unallocated slot not necessary for international or Essential Air Service Program operations, including any slot created by an increase in the operating limits set forth in §93.123(a).
+\(c\) Slot allocation lotteries shall be held on an airport-by-airport basis with separate lotteries for air carrier and commuter operator slots. The slots to be allocated in each lottery will be each unallocated slot not necessary for international or Essential Air Service Program operations, including any slot created by an increase in the operating limits set forth in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.123   High density traffic airports.|§93.123]](a).
 
 \(d\) The FAA shall publish a notice in the Federal Register announcing any lottery dates. The notice may include special procedures to be in effect for the lotteries.
 
-\(e\) Participation in a lottery is open to each U.S. air carrier or commuter operator operating at the airport and providing scheduled passenger service at the airport, as well as where provided for by bilateral agreement. Any U.S. carrier, or foreign air carrier where provided for by bilateral agreement, that is not operating scheduled service at the airport and has not failed to operate slots obtained in the previous lottery, or slots traded for those obtained by lottery, but wishes to initiate scheduled passenger service at the airport, shall be included in the lottery if that operator notifies, in writing, the Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591. The notification must be received 15 days prior to the lottery date and state whether there is any common ownership or control of, by, or with any other air carrier or commuter operator as defined in §93.213(c). New entrant and limited incumbent carriers will be permitted to complete their selections before participation by other incumbent carriers is initiated.
+\(e\) Participation in a lottery is open to each U.S. air carrier or commuter operator operating at the airport and providing scheduled passenger service at the airport, as well as where provided for by bilateral agreement. Any U.S. carrier, or foreign air carrier where provided for by bilateral agreement, that is not operating scheduled service at the airport and has not failed to operate slots obtained in the previous lottery, or slots traded for those obtained by lottery, but wishes to initiate scheduled passenger service at the airport, shall be included in the lottery if that operator notifies, in writing, the Slot Administration Office, AGC-230, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591. The notification must be received 15 days prior to the lottery date and state whether there is any common ownership or control of, by, or with any other air carrier or commuter operator as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.213   Definitions and general provisions.|§93.213]](c). New entrant and limited incumbent carriers will be permitted to complete their selections before participation by other incumbent carriers is initiated.
 
 \(f\) At the lottery, each operator must make its selection within 5 minutes after being called or it shall lose its turn. If capacity still remains after each operator has had an opportunity to select slots, the allocation sequence will be repeated in the same order. An operator may select any two slots available at the airport during each sequence, except that new entrant carriers may select four slots, if available, in the first sequence.
 
-\(g\) To select slots during a slot lottery session, a carrier must have appropriate economic authority for scheduled passenger service under Title IV of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1371 *et seq.*), and must hold FAA operating authority under part 121 or part 135 of this chapter as appropriate for the slots the operator seeks to select.
+\(g\) To select slots during a slot lottery session, a carrier must have appropriate economic authority for scheduled passenger service under Title IV of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1371 *et seq.*), and must hold FAA operating authority under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]] as appropriate for the slots the operator seeks to select.
 
 \(h\) During the first selection sequence, 25 percent of the slots available but no less than two slots shall be reserved for selection by new entrant carriers. If new entrant carriers do not select all of the slots set aside for new entrant carriers, limited incumbent carriers may select the remaining slots. If every participating new entrant carrier and limited incumbent carrier has ceased selection of available slots or has obtained 12 slots at that airport, other incumbent carriers may participate in selecting the remaining slots; however, slots selected by non-limited incumbent carriers will be allocated only until the date of the next lottery.
 
-\(i\) Slots obtained under this section shall retain their withdrawal priority as established under §93.223. If the slot is newly created, a withdrawal priority shall be assigned. That priority number shall be higher than any other slot assigned a withdrawal number previously.
+\(i\) Slots obtained under this section shall retain their withdrawal priority as established under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.223   Slot withdrawal.|§93.223]]. If the slot is newly created, a withdrawal priority shall be assigned. That priority number shall be higher than any other slot assigned a withdrawal number previously.
 
 \[Doc. No. 24105, 50 FR 52195, Dec. 20, 1985, as amended by Amdt. 93-52, 51 FR 21718, June 13, 1986; Amdt. 93-58, 54 FR 39293, Sept. 25, 1989; Amdt. 93-65, 57 FR 37314, Aug. 18, 1992; 57 FR 47993, Oct. 21, 1992; Amdt. 93-78, 64 FR 53565, Oct. 1, 1999\]
 
@@ -786,7 +786,7 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(b\) Slots will be allocated only to operators with the economic and operating authority and aircraft required to use the slots.
 
-\(c\) Requests for allocations under this section shall be submitted in writing to the address listed in §93.221(a)(1) and shall identify the request as made under this section.
+\(c\) Requests for allocations under this section shall be submitted in writing to the address listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1) and shall identify the request as made under this section.
 
 \(d\) The FAA may deny requests made under this section after a determination that all remaining slots in a particular category should be distributed by lottery.
 
@@ -798,7 +798,7 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(a\) Except as provided in paragraphs (b), (c), (d), (g), and (l) of this section, any slot not utilized 80 percent of the time over a 2-month period shall be recalled by the FAA.
 
-\(b\) Paragraph (a) of this section does not apply to slots obtained under §93.225 of this part during:
+\(b\) Paragraph (a) of this section does not apply to slots obtained under [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.225   Lottery of available slots.|§93.225]] of this part during:
 
 \(1\) The first 90 days after they are allocated to a new entrant carrier; or
 
@@ -812,11 +812,11 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(i\) 60 days after the carrier files the initial petition in bankruptcy; and
 
-\(ii\) 30 days after the carrier, in anticipation of transferring slots, submits information to a Federal government agency in connection with a statutory antitrust, economic impact, or similar review of the transfer, provided that the information is submitted more than 30 days after filing the initial petition in bankruptcy, and provided further that any slot to be transferred has not become subject to withdrawal under any other provision of this §93.227; and
+\(ii\) 30 days after the carrier, in anticipation of transferring slots, submits information to a Federal government agency in connection with a statutory antitrust, economic impact, or similar review of the transfer, provided that the information is submitted more than 30 days after filing the initial petition in bankruptcy, and provided further that any slot to be transferred has not become subject to withdrawal under any other provision of this [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]]; and
 
 \(2\) During a period after a carrier ceases operations at an airport, to any slot held or operated by that carrier at that airport, for:
 
-\(i\) 30 days after the carrier ceases operations at that airport, provided that the slot has not become subject to withdrawal under any other provision of this §93.227; and
+\(i\) 30 days after the carrier ceases operations at that airport, provided that the slot has not become subject to withdrawal under any other provision of this [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]]; and
 
 \(ii\) 30 days after the parties to a proposed transfer of any such slot comply with requests for additional information by a Federal government agency in connection with an antitrust, economic impact, or similar investigation of the transfer, provided that—
 
@@ -826,17 +826,17 @@ Whenever the Office of the Secretary of Transportation determines that slots are
 
 \(C\) The carrier submits the additional information to the Federal agency within 15 days of the request by such agency; and
 
-\(D\) Any slot to be transferred has not become subject to withdrawal under any other provision of this §93.227.
+\(D\) Any slot to be transferred has not become subject to withdrawal under any other provision of this [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.227   Slot use and loss.|§93.227]].
 
 \(e\) Persons having slots withdrawn pursuant to paragraph (a) of this section must cease all use of those slots upon receipt of notice from the FAA.
 
 \(f\) Persons holding slots but not using them pursuant to the provisions of paragraphs (b), (c) and (d) may lease those slots for use by others. A slot obtained in a lottery may not be leased after the expiration of the applicable time period specified in paragraph (b) of this section unless it has been operated for a 2-month period at least 65 percent of the time by the operator which obtained it in the lottery.
 
-\(g\) This section does not apply to slots used for the operations described in §93.217(a)(1) except that a U.S. air carrier or commuter operator required to file a report under paragraph (i) of this section shall include all slots operated at the airport, including slots described in §93.217(a)(1).
+\(g\) This section does not apply to slots used for the operations described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(1) except that a U.S. air carrier or commuter operator required to file a report under paragraph (i) of this section shall include all slots operated at the airport, including slots described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.217   Allocation of slots for international operations and applicable limitations.|§93.217]](a)(1).
 
 \(h\) Within 30 days after an operator files for protection under the Federal bankruptcy laws, the FAA shall recall any slots of that operator, if—(1) the slots were formerly used for essential air service and (2) the Office of the Secretary of Transportation determines those slots are required to provide substitute essential air service to or from the same points.
 
-\(i\) Every air carrier and commuter operator or other person holding a slot at a high density airport shall, within 14 days after the last day of the 2-month period beginning January 1, 1986, and every 2 months thereafter, forward, in writing, to the address identified in §93.221(a)(1), a list of all slots held by the air carrier, commuter operator or other person along with a listing of which air carrier or commuter operator actually operated the slot for each day of the 2-month period. The report shall identify the flight number for which the slot was used and the equipment used, and shall identify the flight as an arrival or departure. The report shall identify any common ownership or control of, by, or with any other carrier as defined in §93.213(c) of this subpart. The report shall be signed by a senior official of the air carrier or commuter operator. If the slot is held by an “other person,” the report must be signed by an official representative.
+\(i\) Every air carrier and commuter operator or other person holding a slot at a high density airport shall, within 14 days after the last day of the 2-month period beginning January 1, 1986, and every 2 months thereafter, forward, in writing, to the address identified in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.221   Transfer of slots.|§93.221]](a)(1), a list of all slots held by the air carrier, commuter operator or other person along with a listing of which air carrier or commuter operator actually operated the slot for each day of the 2-month period. The report shall identify the flight number for which the slot was used and the equipment used, and shall identify the flight as an arrival or departure. The report shall identify any common ownership or control of, by, or with any other carrier as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.213   Definitions and general provisions.|§93.213]](c) of this subpart. The report shall be signed by a senior official of the air carrier or commuter operator. If the slot is held by an “other person,” the report must be signed by an official representative.
 
 \(j\) The Chief Counsel of the FAA may waive the requirements of paragraph (a) of this section in the event of a highly unusual and unpredictable condition which is beyond the control of the slot-holder and which exists for a period of 9 or more days. Examples of conditions which could justify waiver under this paragraph are weather conditions which result in the restricted operation of an airport for an extended period of time or the grounding of an aircraft type.
 
@@ -888,7 +888,7 @@ For the purposes of this subpart:
 
 *Commercial Special Flight Rules Area Operation* means any portion of any flight within the Grand Canyon National Park Special Flight Rules Area that is conducted by a certificate holder that has operations specifications authorizing flights within the Grand Canyon National Park Special Flight Rules Area. This term does not include operations conducted under an FAA Form 7711-1, Certificate of Waiver or Authorization. For more information on commercial special flight rules area operations, *see* “Grand Canyon National Park Special Flight Rules Area (GCNP SFRA) Procedures Manual,” which is available online or from the responsible Flight Standards Office.
 
-*GCNP quiet aircraft technology designation* means an aircraft that is subject to §93.301 and has been shown to comply with the noise limit specified in appendix A of this part.
+*GCNP quiet aircraft technology designation* means an aircraft that is subject to [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.301   Applicability.|§93.301]] and has been shown to comply with the noise limit specified in appendix A of this part.
 
 *Number of passenger seats* means the number of passenger seats for which an individual aircraft is configured.
 
@@ -900,7 +900,7 @@ For the purposes of this subpart:
 
 ### §93.305   Flight-free zones and flight corridors.
 
-Except in an emergency or if otherwise necessary for safety of flight, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in §93.309, no person may operate an aircraft in the Special Flight Rules Area within the following flight-free zones:
+Except in an emergency or if otherwise necessary for safety of flight, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.309   General operating procedures.|§93.309]], no person may operate an aircraft in the Special Flight Rules Area within the following flight-free zones:
 
 \(a\) *Desert View Flight-free Zone.* That airspace extending from the surface up to but not including 14,500 feet MSL within an area bounded by a line beginning at Lat. 35°59′58″ N., Long. 111°52′47″ W.; thence east to Lat. 36°00′00″ N., Long. 111°51′04″ W.; thence north to 36°00′24″ N., Long. 111°51′04″ W.; thence east to 36°00′24″ N., Long. 111°45′44″ W.; thence north along the GCNP boundary to Lat. 36°14′05″ N., Long. 111°48′34″ W.; thence southwest to Lat. 36°12′06″ N., Long. 111°51′14″ W.; to the point of origin; but not including the airspace at and above 10,500 feet MSL within 1 nautical mile of the western boundary of the zone. The corridor to the west between the Desert View and Bright Angel Flight-free Zones, is designated the “Zuni Point Corridor.” This corridor is 2 nautical miles wide for commercial air tour flights and 4 nautical miles wide for transient and general aviation operations.
 
@@ -914,7 +914,7 @@ Except in an emergency or if otherwise necessary for safety of flight, or unless
 
 ### §93.307   Minimum flight altitudes.
 
-Except in an emergency, or if otherwise necessary for safety of flight, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in §93.309, no person may operate an aircraft in the Special Flight Rules Area at an altitude lower than the following:
+Except in an emergency, or if otherwise necessary for safety of flight, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.309   General operating procedures.|§93.309]], no person may operate an aircraft in the Special Flight Rules Area at an altitude lower than the following:
 
 \(a\) *Minimum sector altitudes*—(1) *Commercial air tours*—(i) *Marble Canyon Sector.* Lees Ferry to Boundary Ridge: 6,000 feet MSL.
 
@@ -948,17 +948,17 @@ Except in an emergency, or if otherwise necessary for safety of flight, or unles
 
 ### §93.309   General operating procedures.
 
-Except in an emergency, no person may operate an aircraft in the Special Flight Rules Area unless the operation is conducted in accordance with the following procedures. (Note: The following procedures do not relieve the pilot from see-and-avoid responsibility or compliance with the minimum safe altitude requirements specified in §91.119 of this chapter.):
+Except in an emergency, no person may operate an aircraft in the Special Flight Rules Area unless the operation is conducted in accordance with the following procedures. (Note: The following procedures do not relieve the pilot from see-and-avoid responsibility or compliance with the minimum safe altitude requirements specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.119   Minimum safe altitudes: General.|§91.119]] of this chapter.):
 
-\(a\) Unless necessary to maintain a safe distance from other aircraft or terrain remain clear of the flight-free zones described in §93.305;
+\(a\) Unless necessary to maintain a safe distance from other aircraft or terrain remain clear of the flight-free zones described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.305   Flight-free zones and flight corridors.|§93.305]];
 
-\(b\) Unless necessary to maintain a safe distance from other aircraft or terrain, proceed through the Zuni Point, Dragon, Tuckup, and Fossil Canyon Flight Corridors described in §93.305 at the following altitudes unless otherwise authorized in writing by the responsible Flight Standards Office:
+\(b\) Unless necessary to maintain a safe distance from other aircraft or terrain, proceed through the Zuni Point, Dragon, Tuckup, and Fossil Canyon Flight Corridors described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.305   Flight-free zones and flight corridors.|§93.305]] at the following altitudes unless otherwise authorized in writing by the responsible Flight Standards Office:
 
 \(1\) *Northbound.* 11,500 or 13,500 feet MSL.
 
 \(2\) *Southbound.* 10,500 or 12,500 feet MSL.
 
-\(c\) For operation in the flight-free zones described in §93.305, or flight below the altitudes listed in §93.307, is authorized in writing by the responsible Flight Standards Office and is conducted in compliance with the conditions contained in that authorization. Normally authorization will be granted for operation in the areas described in §93.305 or below the altitudes listed in §93.307 only for operations of aircraft necessary for law enforcement, firefighting, emergency medical treatment/evacuation of persons in the vicinity of the Park; for support of Park maintenance or activities; or for aerial access to and maintenance of other property located within the Special Flight Rules Area. Authorization may be issued on a continuing basis;
+\(c\) For operation in the flight-free zones described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.305   Flight-free zones and flight corridors.|§93.305]], or flight below the altitudes listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.307   Minimum flight altitudes.|§93.307]], is authorized in writing by the responsible Flight Standards Office and is conducted in compliance with the conditions contained in that authorization. Normally authorization will be granted for operation in the areas described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.305   Flight-free zones and flight corridors.|§93.305]] or below the altitudes listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.307   Minimum flight altitudes.|§93.307]] only for operations of aircraft necessary for law enforcement, firefighting, emergency medical treatment/evacuation of persons in the vicinity of the Park; for support of Park maintenance or activities; or for aerial access to and maintenance of other property located within the Special Flight Rules Area. Authorization may be issued on a continuing basis;
 
 \(d\) Is conducted in accordance with a specific authorization to operate in that airspace incorporated in the operator's operations specifications and approved by the responsible Flight Standards Office in accordance with the provisions of this subpart;
 
@@ -966,13 +966,13 @@ Except in an emergency, no person may operate an aircraft in the Special Flight 
 
 \(f\) Is conducted within 3 nautical miles of Grand Canyon Bar Ten Airstrip, Pearce Ferry Airstrip, Cliff Dwellers Airstrip, Marble Canyon Airstrip, or Tuweep Airstrip at an altitude less than 3,000 feet above airport elevation, for the purpose of landing at or taking off from that facility; or
 
-\(g\) Is conducted under an instrument flight rules (IFR) clearance and the pilot is acting in accordance with ATC instructions. An IFR flight plan may not be filed on a route or at an altitude that would require operation in an area described in §93.305.
+\(g\) Is conducted under an instrument flight rules (IFR) clearance and the pilot is acting in accordance with ATC instructions. An IFR flight plan may not be filed on a route or at an altitude that would require operation in an area described in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.305   Flight-free zones and flight corridors.|§93.305]].
 
 \[Doc. No. 28537, 61 FR 69330, Dec. 31, 1996, as amended by Amdt. 93-80, 65 FR 17742, 17743, Apr. 4, 2000; Amdt. 93-102, 83 FR 48212, Sept. 24, 2018\]
 
 ### §93.311   Minimum terrain clearance.
 
-Except in an emergency, when necessary for takeoff or landing, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in §93.309(c), no person may operate an aircraft within 500 feet of any terrain or structure located between the north and south rims of the Grand Canyon.
+Except in an emergency, when necessary for takeoff or landing, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.309   General operating procedures.|§93.309]](c), no person may operate an aircraft within 500 feet of any terrain or structure located between the north and south rims of the Grand Canyon.
 
 \[Docket No. FAA-2018-0851, Amdt. 93-102, 83 FR 48212, Sept. 24, 2018\]
 
@@ -1014,7 +1014,7 @@ Unless otherwise authorized by the responsible Flight Standards Office, no perso
 
 \(2\) Dragon corridor and Zuni Point corridor allocations.
 
-\(f\) Certificate holders satisfying the requirements of §93.315 of this subpart are not required to use a commercial air tour allocation for each commercial air tour flight in the GCNP SFRA provided the following conditions are satisfied:
+\(f\) Certificate holders satisfying the requirements of [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.315   Requirements for commercial Special Flight Rules Area operations.|§93.315]] of this subpart are not required to use a commercial air tour allocation for each commercial air tour flight in the GCNP SFRA provided the following conditions are satisfied:
 
 \(1\) The certificate holder conducts its operations in conformance with the routes and airspace authorizations as specified in its Grand Canyon National Park Special Flight Rules Area operations specifications;
 
@@ -1090,7 +1090,7 @@ Unless otherwise authorized by the responsible Flight Standards Office, no perso
 
 ### Appendix A to Subpart U of Part 93—GCNP Quiet Aircraft Technology Designation
 
-This appendix contains procedures for determining the GCNP quiet aircraft technology designation status for each aircraft subject to §93.301 determined during the noise certification process as prescribed under part 36 of this chapter. Where no certificated noise level is available, the Administrator may approve an alternative measurement procedure.
+This appendix contains procedures for determining the GCNP quiet aircraft technology designation status for each aircraft subject to [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.301   Applicability.|§93.301]] determined during the noise certification process as prescribed under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md|part 36 of this chapter]]. Where no certificated noise level is available, the Administrator may approve an alternative measurement procedure.
 
 *Aircraft Noise Limit for GCNP Quiet Aircraft Technology Designation*
 
@@ -1118,7 +1118,7 @@ LAmax(G) = 77 + 10log(\# PAX seats/2) dB for certifications obtained under [[Vol
 
 ### §93.331   Purpose and applicability of this subpart.
 
-This subpart prescribes special air traffic rules for aircraft operating in the Washington, DC Metropolitan Area. Because identification and control of aircraft is required for reasons of national security, the areas described in this subpart constitute national defense airspace. The purpose of establishing this area is to facilitate the tracking of, and communication with, aircraft to deter persons who would use an aircraft as a weapon, or as a means of delivering weapons, to conduct an attack on persons, property, or buildings in the area. This subpart applies to pilots conducting any type of flight operations in the airspace designated as the Washington, DC Metropolitan Area Special Flight Rules Area (DC SFRA) (as defined in §93.335), which includes the airspace designated as the Washington, DC Metropolitan Area Flight Restricted Zone (DC FRZ) (as defined in §93.335).
+This subpart prescribes special air traffic rules for aircraft operating in the Washington, DC Metropolitan Area. Because identification and control of aircraft is required for reasons of national security, the areas described in this subpart constitute national defense airspace. The purpose of establishing this area is to facilitate the tracking of, and communication with, aircraft to deter persons who would use an aircraft as a weapon, or as a means of delivering weapons, to conduct an attack on persons, property, or buildings in the area. This subpart applies to pilots conducting any type of flight operations in the airspace designated as the Washington, DC Metropolitan Area Special Flight Rules Area (DC SFRA) (as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.335   Definitions.|§93.335]]), which includes the airspace designated as the Washington, DC Metropolitan Area Flight Restricted Zone (DC FRZ) (as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.335   Definitions.|§93.335]]).
 
 ### §93.333   Failure to comply with this subpart.
 
@@ -1148,7 +1148,7 @@ A pilot conducting any type of flight operation in the DC SFRA must comply with 
 
 ### §93.339   Requirements for operating in the DC SFRA, including the DC FRZ.
 
-\(a\) Except as provided in paragraphs (b) and (c) of this section and in §93.345, or unless authorized by Air Traffic Control, no pilot may operate an aircraft, including an ultralight vehicle or any civil aircraft or public aircraft, in the DC SFRA, including the DC FRZ, unless—
+\(a\) Except as provided in paragraphs (b) and (c) of this section and in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.345   VFR outbound procedures for fringe airports.|§93.345]], or unless authorized by Air Traffic Control, no pilot may operate an aircraft, including an ultralight vehicle or any civil aircraft or public aircraft, in the DC SFRA, including the DC FRZ, unless—
 
 \(1\) The aircraft is equipped with an operable two-way radio capable of communicating with Air Traffic Control on appropriate radio frequencies;
 
@@ -1162,7 +1162,7 @@ A pilot conducting any type of flight operation in the DC SFRA must comply with 
 
 \(6\) Before operating the aircraft into, out of, or through the Washington, DC Tri-Area Class B Airspace Area, the pilot receives a specific Air Traffic Control clearance to operate in the Class B airspace area; and
 
-\(7\) Before operating the aircraft into, out of, or through Class D airspace area that is within the DC SFRA, the pilot complies with §91.129 of this chapter.
+\(7\) Before operating the aircraft into, out of, or through Class D airspace area that is within the DC SFRA, the pilot complies with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.129   Operations in Class D airspace.|§91.129]] of this chapter.
 
 \(b\) Paragraph (a)(5) of this section does not apply to operators of Department of Defense aircraft, law enforcement operations, or lifeguard or air ambulance operations under an FAA/TSA airspace authorization, if the flight crew is in contact with Air Traffic Control and is transmitting an Air Traffic Control-assigned discrete transponder code.
 
@@ -1248,7 +1248,7 @@ A pilot conducting any type of flight operation in the DC SFRA must comply with 
 
 ### §93.345   VFR outbound procedures for fringe airports.
 
-\(a\) A pilot may depart from a fringe airport as defined in §93.335 without filing a flight plan or communicating with Air Traffic Control, unless requested, provided:
+\(a\) A pilot may depart from a fringe airport as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.335   Definitions.|§93.335]] without filing a flight plan or communicating with Air Traffic Control, unless requested, provided:
 
 \(1\) The aircraft's transponder transmits code 1205;
 
@@ -1286,13 +1286,13 @@ Pilots must adhere to the following requirements:
 
 ### §93.352   Hudson River Exclusion specific operating procedures.
 
-In addition to the requirements in §93.351, the following procedures apply:
+In addition to the requirements in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.351   General requirements for operating in the East River and/or Hudson River Exclusions.|§93.351]], the following procedures apply:
 
 \(a\) Pilots must self announce, at the charted mandatory reporting points, the following information: aircraft type, current position, direction of flight, and altitude.
 
-\(b\) Pilots must fly along the west shoreline of the Hudson River when southbound, and along the east shoreline of the Hudson River when northbound; while remaining within the boundaries of the Hudson River Exclusion as defined in §93.350(d).
+\(b\) Pilots must fly along the west shoreline of the Hudson River when southbound, and along the east shoreline of the Hudson River when northbound; while remaining within the boundaries of the Hudson River Exclusion as defined in [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.350   Definitions.|§93.350]](d).
 
-\(c\) Aircraft transiting the area within the Hudson River Exclusion in accordance with §93.350(b) must transit the Hudson River Exclusion at or above an altitude of 1,000 feet MSL up to, but not including, the floor of the overlying Class B airspace.
+\(c\) Aircraft transiting the area within the Hudson River Exclusion in accordance with [[Volume 2/F Air traffic and general operating rules/0093 Special air traffic rules.md#§93.350   Definitions.|§93.350]](b) must transit the Hudson River Exclusion at or above an altitude of 1,000 feet MSL up to, but not including, the floor of the overlying Class B airspace.
 
 ### §93.353   East River Exclusion specific operating procedures.
 

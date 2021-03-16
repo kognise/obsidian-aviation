@@ -87,7 +87,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_sect
 
         </em>
         <table><tbody><tr class="odd"><td><p><strong>Altimeter Setting (Current Reported)</strong></p></td><td><p><strong>Lowest Usable Flight Level</strong></p></td></tr><tr class="even"><td><p>29.92 or higher</p></td><td><p>180</p></td></tr><tr class="odd"><td><p>29.91 to 28.92</p></td><td><p>190</p></td></tr><tr class="even"><td><p>28.91 to 27.92</p></td><td><p>200</p></td></tr></tbody></table>
-    3.  When the minimum altitude per 14 CFR Section 91.159 and 14 CFR Section 91.177 is above 18,000 feet MSL, the lowest usable flig[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]]fligh[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.177   Minimum altitudes for IFR operations.|14 CFR Section 91.177]] the minimum altitude plus the number of feet specified in TBL 7-2-2. ATC will accomplish this calculation. <em>
+    3.  When the minimum altitude per [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.159   VFR cruising altitude or flight level.|14 CFR Section 91.159]] and [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.177   Minimum altitudes for IFR operations.|14 CFR Section 91.177]] is above 18,000 feet MSL, the lowest usable flight level must be the flight level equivalent of the minimum altitude plus the number of feet specified in TBL 7-2-2. ATC will accomplish this calculation. <em>
         <div>
 
         ***TBL 7-2-2*** **  

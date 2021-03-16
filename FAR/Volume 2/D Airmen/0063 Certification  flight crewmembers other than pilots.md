@@ -8,13 +8,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.63](https://www.ecfr.
 
 <div>
 
-Editorial Note: For the text of SFAR No. 100-2, see part 61 of this chapter.
+Editorial Note: For the text of SFAR No. 100-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 </div>
 
 ### Special Federal Aviation Regulation No. 118-2—Relief for Certain Persons During the National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Public Health Emergency
 
-For the text of SFAR No. 118-2, see part 61 of this chapter.
+For the text of SFAR No. 118-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \[Doc. No. FAA-2020-0446, Amdt. No. 63-45, 85 FR 62975, Oct. 6, 2020\]
 
@@ -32,7 +32,7 @@ This part prescribes the requirements for issuing flight engineer and flight nav
 
 ### §63.2   Certification of foreign flight crewmembers other than pilots.
 
-A person who is neither a United States citizen nor a resident alien is issued a certificate under this part (other than under §63.23 or §63.42) outside the United States only when the Administrator finds that the certificate is needed for the operation of a U.S.-registered civil aircraft.
+A person who is neither a United States citizen nor a resident alien is issued a certificate under this part (other than under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.23   Special purpose flight engineer and flight navigator certificates: Operation of U.S.-registered civil airplanes leased by a person not a U.S. citizen.|§63.23]] or [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.42   Flight engineer certificate issued on basis of a foreign flight engineer license.|§63.42]]) outside the United States only when the Administrator finds that the certificate is needed for the operation of a U.S.-registered civil aircraft.
 
 (Secs. 313, 601, 602, Federal Aviation Act of 1958, as amended (49 U.S.C. 1354, 1421, and 1422); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)); Title V, Independent Offices Appropriations Act of 1952 (31 U.S.C. 483(a)); sec. 28, International Air Transportation Competition Act of 1979 (49 U.S.C. 1159(b)))
 
@@ -44,15 +44,15 @@ A person who is neither a United States citizen nor a resident alien is issued a
 
 \(1\) A current flight engineer certificate with appropriate ratings issued to that person under this part;
 
-\(2\) A document conveying temporary authority to exercise certificate privileges issued by the Airman Certification Branch under §63.16(f); or
+\(2\) A document conveying temporary authority to exercise certificate privileges issued by the Airman Certification Branch under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.16   Change of name; replacement of lost or destroyed certificate.|§63.16]](f); or
 
-\(3\) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under part 121 of this chapter, a temporary document provided by that certificate holder under an approved certificate verification plan.
+\(3\) When engaged in a flight operation within the United States for a part 119 certificate holder authorized to conduct operations under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]], a temporary document provided by that certificate holder under an approved certificate verification plan.
 
-\(b\) A person may act as a flight engineer of an aircraft only if that person holds a current second-class (or higher) medical certificate issued to that person under part 67 of this chapter, or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft.
+\(b\) A person may act as a flight engineer of an aircraft only if that person holds a current second-class (or higher) medical certificate issued to that person under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]], or other documentation acceptable to the FAA, that is in that person's physical possession or readily accessible in the aircraft.
 
-\(c\) When the aircraft is operated within a foreign country, a current flight engineer certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used. Also, in the case of a flight engineer certificate issued under §63.42, evidence of current medical qualification accepted for the issue of that certificate is used in place of a medical certificate.
+\(c\) When the aircraft is operated within a foreign country, a current flight engineer certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used. Also, in the case of a flight engineer certificate issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.42   Flight engineer certificate issued on basis of a foreign flight engineer license.|§63.42]], evidence of current medical qualification accepted for the issue of that certificate is used in place of a medical certificate.
 
-\(d\) No person may act as a flight navigator of a civil aircraft of U.S. registry unless that person has in his or her physical possession a current flight navigator certificate issued to him or her under this part and a second-class (or higher) medical certificate issued to him or her under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight navigator certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used.
+\(d\) No person may act as a flight navigator of a civil aircraft of U.S. registry unless that person has in his or her physical possession a current flight navigator certificate issued to him or her under this part and a second-class (or higher) medical certificate issued to him or her under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight navigator certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used.
 
 \(e\) Each person who holds a flight engineer or flight navigator certificate, medical certificate, or temporary document in accordance with paragraph (a)(3) of this section shall present it for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
 
@@ -60,7 +60,7 @@ A person who is neither a United States citizen nor a resident alien is issued a
 
 ### §63.11   Application and issue.
 
-\(a\) An application for a certificate and appropriate class rating, or for an additional rating, under this part must be made on a form and in a manner prescribed by the Administrator. Each person who applies for airmen certification services to be administered outside the United States for any certificate or rating issued under this part must show evidence that the fee prescribed in appendix A of part 187 of this chapter has been paid.
+\(a\) An application for a certificate and appropriate class rating, or for an additional rating, under this part must be made on a form and in a manner prescribed by the Administrator. Each person who applies for airmen certification services to be administered outside the United States for any certificate or rating issued under this part must show evidence that the fee prescribed in appendix A of [[Volume 3/K Administrative regulations/0187 Fees.md|part 187 of this chapter]] has been paid.
 
 \(b\) An applicant who meets the requirements of this part is entitled to an appropriate certificate and appropriate class ratings.
 
@@ -80,7 +80,7 @@ A person who is neither a United States citizen nor a resident alien is issued a
 
 \(2\) Suspension or revocation of any certificate or rating issued under this part.
 
-\(b\) The commission of an act prohibited by §91.17(a) or §91.19(a) of this chapter is grounds for—
+\(b\) The commission of an act prohibited by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]](a) or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter is grounds for—
 
 \(1\) Denial of an application for a certificate or rating issued under this part for a period of up to 1 year after the date of that act; or
 
@@ -90,7 +90,7 @@ A person who is neither a United States citizen nor a resident alien is issued a
 
 ### §63.12a   Refusal to submit to an alcohol test or to furnish test results.
 
-A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with §91.11(c) of this chapter, or a refusal to furnish or authorize the release of the test results when requested by the Administrator in accordance with §91.17 (c) or (d) of this chapter, is grounds for—
+A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.11   Prohibition on interference with crewmembers.|§91.11]](c) of this chapter, or a refusal to furnish or authorize the release of the test results when requested by the Administrator in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.17   Alcohol or drugs.|§91.17]] (c) or (d) of this chapter, is grounds for—
 
 \(a\) Denial of an application for any certificate or rating issued under this part for a period of up to 1 year after the date of that refusal; or
 
@@ -110,13 +110,13 @@ A certificate effective for a period of not more than 120 days may be issued to 
 
 ### §63.15   Duration of certificates.
 
-\(a\) Except as provided in §63.23 and paragraph (b) of this section, a certificate or rating issued under this part is effective until it is surrendered, suspended, or revoked.
+\(a\) Except as provided in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.23   Special purpose flight engineer and flight navigator certificates: Operation of U.S.-registered civil airplanes leased by a person not a U.S. citizen.|§63.23]] and paragraph (b) of this section, a certificate or rating issued under this part is effective until it is surrendered, suspended, or revoked.
 
-\(b\) A flight engineer certificate (with any amendment thereto) issued under §63.42 expires at the end of the 24th month after the month in which the certificate was issued or renewed. However, the holder may exercise the privileges of that certificate only while the foreign flight engineer license on which that certificate is based is effective.
+\(b\) A flight engineer certificate (with any amendment thereto) issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.42   Flight engineer certificate issued on basis of a foreign flight engineer license.|§63.42]] expires at the end of the 24th month after the month in which the certificate was issued or renewed. However, the holder may exercise the privileges of that certificate only while the foreign flight engineer license on which that certificate is based is effective.
 
 \(c\) Any certificate issued under this part ceases to be effective if it is surrendered, suspended, or revoked. The holder of any certificate issued under this part that is suspended or revoked shall, upon the Administrator's request, return it to the Administrator.
 
-\(d\) Except for temporary certificate issued under §63.13, the holder of a paper certificate issued under this part may not exercise the privileges of that certificate after March 31, 2013.
+\(d\) Except for temporary certificate issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.13   Temporary certificate.|§63.13]], the holder of a paper certificate issued under this part may not exercise the privileges of that certificate after March 31, 2013.
 
 (Sec. 6, 80 Stat. 937, 49 U.S.C. 1655; secs. 313, 601, 602, Federal Aviation Act of 1958, as amended (49 U.S.C. 1354, 1421, and 1422); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)); Title V, Independent Offices Appropriations Act of 1952 (31 U.S.C. 483(a)); sec. 28, International Air Transportation Competition Act of 1979 (49 U.S.C. 1159(b)))
 
@@ -224,7 +224,7 @@ Within 30 days after any change in his permanent mailing address, the holder of 
 
 ### §63.23   Special purpose flight engineer and flight navigator certificates: Operation of U.S.-registered civil airplanes leased by a person not a U.S. citizen.
 
-\(a\) *General.* The holder of a current foreign flight engineer or flight navigator certificate, license, or authorization issued by a foreign contracting State to the Convention on International Civil Aviation, who meets the requirements of this section, may hold a special purpose flight engineer or flight navigator certificate, as appropriate, authorizing the holder to perform flight engineer or flight navigator duties on a civil airplane of U.S. registry, leased to a person not a citizen of the United States, carrying persons or property for compensation or hire. Special purpose flight engineer and flight navigator certificates are issued under this section only for airplane types that can have a maximum passenger seating configuration, excluding any flight crewmember seat, of more than 30 seats or a maximum payload capacity (as defined in §135.2(e) of this chapter) of more than 7,500 pounds.
+\(a\) *General.* The holder of a current foreign flight engineer or flight navigator certificate, license, or authorization issued by a foreign contracting State to the Convention on International Civil Aviation, who meets the requirements of this section, may hold a special purpose flight engineer or flight navigator certificate, as appropriate, authorizing the holder to perform flight engineer or flight navigator duties on a civil airplane of U.S. registry, leased to a person not a citizen of the United States, carrying persons or property for compensation or hire. Special purpose flight engineer and flight navigator certificates are issued under this section only for airplane types that can have a maximum passenger seating configuration, excluding any flight crewmember seat, of more than 30 seats or a maximum payload capacity (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.2   Compliance schedule for operators that transition to part 121 of this chapter; certain new entrant operators.|§135.2]](e) of this chapter) of more than 7,500 pounds.
 
 \(b\) *Eligibility.* To be eligible for the issuance, or renewal, of a certificate under this section, an applicant must present the following to the Administrator:
 
@@ -238,7 +238,7 @@ Within 30 days after any change in his permanent mailing address, the holder of 
 
 \(iii\) Stating that the applicant has received ground and flight instruction which qualifies the applicant to perform the duties to be assigned on the airplane.
 
-\(3\) Documentation showing that the applicant currently meets the medical standards for the foreign flight engineer or flight navigator certificate, license, or authorization required by paragraph (b)(1) of this section, except that a U.S. medical certificate issued under part 67 of this chapter is not evidence that the applicant meets those standards unless the State which issued the applicant's foreign flight engineer or flight navigator certificate, license, or authorization accepts a U.S. medical certificate as evidence of medical fitness for a flight engineer or flight navigator certificate, license, or authorization.
+\(3\) Documentation showing that the applicant currently meets the medical standards for the foreign flight engineer or flight navigator certificate, license, or authorization required by paragraph (b)(1) of this section, except that a U.S. medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] is not evidence that the applicant meets those standards unless the State which issued the applicant's foreign flight engineer or flight navigator certificate, license, or authorization accepts a U.S. medical certificate as evidence of medical fitness for a flight engineer or flight navigator certificate, license, or authorization.
 
 \(c\) *Privileges.* The holder of a special purpose flight engineer or flight navigator certificate issued under this section may exercise the same privileges as those shown on the certificate, license, or authorization specified in paragraph (b)(1) of this section, subject to the limitations specified in this section.
 
@@ -262,7 +262,7 @@ Within 30 days after any change in his permanent mailing address, the holder of 
 
 \(ii\) The type of airplane.
 
-\(iii\) The limitation: “Issued under, and subject to, §63.23 of the Federal Aviation Regulations.”
+\(iii\) The limitation: “Issued under, and subject to, [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.23   Special purpose flight engineer and flight navigator certificates: Operation of U.S.-registered civil airplanes leased by a person not a U.S. citizen.|§63.23]] of the Federal Aviation Regulations.”
 
 \(iv\) The limitation: “Subject to the privileges and limitations shown on the holder's foreign flight (engineer or navigator) certificate, license, or authorization.”
 
@@ -294,7 +294,7 @@ To be eligible for a flight engineer certificate, a person must—
 
 \(b\) Be able to read, speak, and understand the English language, or have an appropriate limitation placed on his flight engineer certificate;
 
-\(c\) Hold at least a second-class medical certificate issued under part 67 of this chapter within the 12 months before the date he applies, or other evidence of medical qualification accepted for the issue of a flight engineer certificate under §63.42; and
+\(c\) Hold at least a second-class medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] within the 12 months before the date he applies, or other evidence of medical qualification accepted for the issue of a flight engineer certificate under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.42   Flight engineer certificate issued on basis of a foreign flight engineer license.|§63.42]]; and
 
 \(d\) Comply with the requirements of this subpart that apply to the rating he seeks.
 
@@ -348,7 +348,7 @@ To be eligible for a flight engineer certificate, a person must—
 
 \(8\) Mathematical computation of engine operations and fuel consumption.
 
-\(c\) Before taking the written tests prescribed in paragraphs (a) and (b) of this section, an applicant for a flight engineer certificate must present satisfactory evidence of having completed one of the experience requirements of §63.37. However, he may take the written tests before acquiring the flight training required by §63.37.
+\(c\) Before taking the written tests prescribed in paragraphs (a) and (b) of this section, an applicant for a flight engineer certificate must present satisfactory evidence of having completed one of the experience requirements of [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.37   Aeronautical experience requirements.|§63.37]]. However, he may take the written tests before acquiring the flight training required by [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.37   Aeronautical experience requirements.|§63.37]].
 
 \(d\) An applicant for a flight engineer certificate or rating must have passed the written tests required by paragraphs (a) and (b) of this section since the beginning of the 24th calendar month before the month in which the flight is taken. However, this limitation does not apply to an applicant for a flight engineer certificate or rating if—
 
@@ -362,7 +362,7 @@ To be eligible for a flight engineer certificate, a person must—
 
 \(2\) Within the period ending 24 calendar months after the month in which the applicant passed the written test, the applicant participated in a flight engineer or maintenance training program of a U.S. scheduled military air transportation service and is currently participating in that program.
 
-\(e\) An air carrier or commercial operator with an approved training program under part 121 of this chapter may, when authorized by the Administrator, provide as part of that program a written test that it may administer to satisfy the test required for an additional rating under paragraph (b) of this section.
+\(e\) An air carrier or commercial operator with an approved training program under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] may, when authorized by the Administrator, provide as part of that program a written test that it may administer to satisfy the test required for an additional rating under paragraph (b) of this section.
 
 (Sec. 6, 80 Stat. 937, 49 U.S.C. 1655; secs. 313(a), 601 through 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421 through 1425); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)); and 14 CFR 11.49)
 
@@ -398,7 +398,7 @@ To be eligible for a flight engineer certificate, a person must—
 
 ### §63.39   Skill requirements.
 
-\(a\) An applicant for a flight engineer certificate with a class rating must pass a practical test on the duties of a flight engineer in the class of airplane for which a rating is sought. The test may only be given on an airplane specified in §63.37(a).
+\(a\) An applicant for a flight engineer certificate with a class rating must pass a practical test on the duties of a flight engineer in the class of airplane for which a rating is sought. The test may only be given on an airplane specified in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.37   Aeronautical experience requirements.|§63.37]](a).
 
 \(b\) The applicant must—
 
@@ -420,7 +420,7 @@ An applicant for a flight engineer certificate who fails a written test or pract
 
 \(a\) *Certificates issued.* The holder of a current foreign flight engineer license issued by a contracting State to the Convention on International Civil Aviation, who meets the requirements of this section, may have a flight engineer certificate issued to him for the operation of civil aircraft of U.S. registry. Each flight engineer certificate issued under this section specifies the number and State of issuance of the foreign flight engineer license on which it is based. If the holder of the certificate cannot read, speak, or understand the English language, the Administrator may place any limitation on the certificate that he considers necessary for safety.
 
-\(b\) *Medical standards and certification.* An applicant must submit evidence that he currently meets the medical standards for the foreign flight engineer license on which the application for a certificate under this section is based. A current medical certificate issued under part 67 of this chapter will be excepted as evidence that the applicant meets those standards. However, a medical certificate issued under part 67 of this chapter is not evidence that the applicant meets those standards outside the United States unless the State that issued the applicant's foreign flight engineer license also accepts that medical certificate as evidence of the applicant's physical fitness for his foreign flight engineer license.
+\(b\) *Medical standards and certification.* An applicant must submit evidence that he currently meets the medical standards for the foreign flight engineer license on which the application for a certificate under this section is based. A current medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] will be excepted as evidence that the applicant meets those standards. However, a medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] is not evidence that the applicant meets those standards outside the United States unless the State that issued the applicant's foreign flight engineer license also accepts that medical certificate as evidence of the applicant's physical fitness for his foreign flight engineer license.
 
 \(c\) *Ratings issued.* Aircraft class ratings listed on the applicant's foreign flight engineer license, in addition to any issued to him after testing under the provisions of this part, are placed on the applicant's flight engineer certificate. An applicant without an aircraft class rating on his foreign flight engineer license may be issued a class rating if he shows that he currently meets the requirements for exercising the privileges of his foreign flight engineer license on that class of aircraft.
 
@@ -434,7 +434,7 @@ An applicant for a flight engineer certificate who fails a written test or pract
 
 ### §63.43   Flight engineer courses.
 
-An applicant for approval of a flight engineer course must submit a letter to the Administrator requesting approval, and must also submit three copies of each course outline, a description of the facilities and equipment, and a list of the instructors and their qualifications. An air carrier or commercial operator with an approved flight engineer training course under part 121 of this chapter may apply for approval of a training course under this part by letter without submitting the additional information required by this paragraph. Minimum requirements for obtaining approval of a flight engineer course are set forth in appendix C of this part.
+An applicant for approval of a flight engineer course must submit a letter to the Administrator requesting approval, and must also submit three copies of each course outline, a description of the facilities and equipment, and a list of the instructors and their qualifications. An air carrier or commercial operator with an approved flight engineer training course under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] may apply for approval of a training course under this part by letter without submitting the additional information required by this paragraph. Minimum requirements for obtaining approval of a flight engineer course are set forth in appendix C of this part.
 
 ## Subpart C—Flight Navigators
 
@@ -446,9 +446,9 @@ To be eligible for a flight navigator certificate, a person must—
 
 \(b\) Be able to read, write, speak, and understand the English language;
 
-\(c\) Hold at least a second-class medical certificate issued under part 67 of this chapter within the 12 months before the date he applies; and
+\(c\) Hold at least a second-class medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] within the 12 months before the date he applies; and
 
-\(d\) Comply with §§63.53, 63.55, and 63.57.
+\(d\) Comply with §[[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.53   Knowledge requirements.|§63.53]], 63.55, and 63.57.
 
 ### §63.53   Knowledge requirements.
 
@@ -498,7 +498,7 @@ To be eligible for a flight navigator certificate, a person must—
 
 \(3\) Radio aids to navigation.
 
-\(b\) An applicant must pass the written test prescribed by §63.53 before taking the test under this section. However, if a delay in taking the test under this section would inconvenience the applicant or an air carrier, he may take it before he receives the result of the written test, or after he has failed the written test.
+\(b\) An applicant must pass the written test prescribed by [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.53   Knowledge requirements.|§63.53]] before taking the test under this section. However, if a delay in taking the test under this section would inconvenience the applicant or an air carrier, he may take it before he receives the result of the written test, or after he has failed the written test.
 
 \(c\) The test requirements for this section are set forth in appendix A of this part.
 
@@ -748,7 +748,7 @@ An uncorrected error in computation (including reading instruments and books) wh
 
 The above subjects, except Theory of Flight and Aerodynamics, and Regulations must apply to the same type of airplane in which the student flight engineer is to receive flight training.
 
-\(3\) Flight Course Outline. (i) The flight training curriculum must include at least 10 hours of flight instruction in an airplane specified in §63.37(a). The flight time required for the practical test may not be credited as part of the required flight instruction.
+\(3\) Flight Course Outline. (i) The flight training curriculum must include at least 10 hours of flight instruction in an airplane specified in [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.37   Aeronautical experience requirements.|§63.37]](a). The flight time required for the practical test may not be credited as part of the required flight instruction.
 
 \(ii\) All of the flight training must be given in the same type airplane.
 
@@ -850,7 +850,7 @@ Use of oxygen.
 
 \(iv\) Names of students failed or dropped, together with their school grades and reasons for dropping.
 
-\(3\) Upon request, the Administrator may waive the reporting requirements of paragraph (2) of this section for an approved flight engineer course that is part of an approved training course under subpart N of part 121 of this chapter.
+\(3\) Upon request, the Administrator may waive the reporting requirements of paragraph (2) of this section for an approved flight engineer course that is part of an approved training course under subpart N of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]].
 
 \(h\) *Quality of instruction.* (1) Approval of a ground course is discontinued whenever less than 80 percent of the students pass the FAA written test on the first attempt.
 
@@ -870,7 +870,7 @@ Use of oxygen.
 
 \(3\) A course operator who is approved to conduct both the ground course and the flight course may include both courses in a single statement of course completion if the provisions of paragraphs (1) and (2) of this section are included.
 
-\(4\) The requirements of this paragraph do not apply to an air carrier or commercial operator with an approved training course under part 121 of this chapter providing the student receives a flight engineer certificate upon completion of that course.
+\(4\) The requirements of this paragraph do not apply to an air carrier or commercial operator with an approved training course under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] providing the student receives a flight engineer certificate upon completion of that course.
 
 \(k\) *Inspections.* Each course operator shall allow the Administrator at any time or place, to make any inspection necessary to ensure that the quality and effectiveness of the instruction are maintained at the required standards.
 
@@ -884,7 +884,7 @@ Use of oxygen.
 
 \(2\) If a course operator desires to voluntarily terminate the course, he should notify the Administrator in writing and return the last letter of approval.
 
-\(n\) *Duration.* Except for a course operated as part of an approved training course under subpart N of part 121 of this chapter, the approval to operate a flight engineer ground course or flight course terminates 24 months after the last day of the month of issue.
+\(n\) *Duration.* Except for a course operated as part of an approved training course under subpart N of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]], the approval to operate a flight engineer ground course or flight course terminates 24 months after the last day of the month of issue.
 
 \(o\) *Renewal.* (1) Renewal of approval to operate a flight engineer ground course or flight course is conditioned upon the course operator's meeting the requirements of this appendix.
 
@@ -892,7 +892,7 @@ Use of oxygen.
 
 \(p\) *Course operator approvals.* An applicant for approval of a flight engineer ground course, or flight course, or both, must meet all of the requirements of this appendix concerning application, approval, and continuing approval of that course or courses.
 
-\(q\) *Practical test eligibility.* An applicant for a flight engineer certificate and class rating under the provisions of §63.37(b)(6) is not eligible to take the practical test unless he has successfully completed an approved flight engineer ground school course in the same type of airplane for which he has completed an approved flight engineer flight course.
+\(q\) *Practical test eligibility.* An applicant for a flight engineer certificate and class rating under the provisions of [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md#§63.37   Aeronautical experience requirements.|§63.37]](b)(6) is not eligible to take the practical test unless he has successfully completed an approved flight engineer ground school course in the same type of airplane for which he has completed an approved flight engineer flight course.
 
 \[Doc. No. 6458, 30 FR 14560, Nov. 23, 1965, as amended by Amdt. 63-15, 37 FR 9758, May 17, 1972\]
 

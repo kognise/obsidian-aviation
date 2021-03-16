@@ -18,9 +18,9 @@ This part establishes procedures for issuing regulations and for filing a petiti
 
 \(2\) Waive any such requirement in the context of a specific application for a license or permit; or
 
-\(3\) Waive the requirement for a license, except as provided in §404.7(b).
+\(3\) Waive the requirement for a license, except as provided in [[Volume 4/B Procedure/0404 Petition and rulemaking procedures.md#§404.7   Action on a petition for waiver.|§404.7]](b).
 
-\(b\) A petition filed under this section may request, under §413.9 of this chapter, that the Associate Administrator withhold certain trade secrets or proprietary commercial or financial data from public disclosure.
+\(b\) A petition filed under this section may request, under [[Volume 4/C Licensing/0413 License application procedures.md#§413.9   Confidentiality.|§413.9]] of this chapter, that the Associate Administrator withhold certain trade secrets or proprietary commercial or financial data from public disclosure.
 
 \(c\) Each petitioner filing under this section must:
 
@@ -74,13 +74,13 @@ A petition for waiver must be submitted at least 60 days before the proposed eff
 
 ### §404.9   Filing a petition for rulemaking.
 
-A petition for rulemaking filed under this part must be made in accordance with [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.71   What information must I include in my petition for rulemaking?|14 CFR 11.71]].
+A petition for rulemaking filed under this part must be made in accordance with 14 CFR 11.71.
 
 \[Doc. No. FAA-2016-6761, Amdt. No. 404-6, 83 FR 28534, June 20, 2018\]
 
 ### §404.11   Action on a petition for rulemaking.
 
-The FAA will process petitions for rulemaking under this part in accordance with [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.73   How does FAA process petitions for rulemaking?|14 CFR 11.73]].
+The FAA will process petitions for rulemaking under this part in accordance with 14 CFR 11.73.
 
 \[Doc. No. FAA-2016-6761, Amdt. No. 404-6, 83 FR 28534, June 20, 2018\]
 
@@ -88,7 +88,7 @@ The FAA will process petitions for rulemaking under this part in accordance with
 
 \(a\) The FAA's rulemaking procedures are located in subpart A of part 11 of this title, under the General, Written Comments, and Public Meetings and Other Proceedings headings.
 
-\(b\) In addition to the rulemaking procedures referenced in paragraph (a) of this section, the provisions of §§404.17 and 404.19 also apply.
+\(b\) In addition to the rulemaking procedures referenced in paragraph (a) of this section, the provisions of §[[Volume 4/B Procedure/0404 Petition and rulemaking procedures.md#§404.17   Additional rulemaking proceedings.|§404.17]] and 404.19 also apply.
 
 \[Doc. No. FAA-2016-6761, Amdt. No. 404-6, 83 FR 28534, June 20, 2018\]
 

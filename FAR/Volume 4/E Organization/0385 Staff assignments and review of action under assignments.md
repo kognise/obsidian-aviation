@@ -28,7 +28,7 @@ This part describes the organization of the Department insofar as, pursuant to a
 
 ### §385.3   Scope of staff action.
 
-Applications for relief which, pursuant to this part, may be granted by staff members under assigned authority, and proceedings on such requests shall be governed by applicable rules in the same manner as if no assignment had been made (see §385.5). In such proceedings, each staff member may determine any procedural matters which may arise, including, inter alia, service of documents on additional persons; filing of otherwise unauthorized documents; waivers of procedural requirements; requests for hearing; requests for additional information; dismissal of applications upon the applicant's request, moot applications, or incomplete or otherwise defective applications; and extensions of time. Such determinations, except those which would terminate the matter, shall be subject to review only in connection with review of the staff member's decision on the merits. The dismissal of incomplete or otherwise defective applications under authority set forth in this part shall be without prejudice except where under otherwise applicable law the time for making application has run out or where the defect is not corrected within a reasonable time fixed by the staff member. Under the authority assigned to the staff as set forth in this part to approve, disapprove, grant, or deny, relief may be granted or denied in part and grants may be made subject to lawful and reasonable conditions. Moreover, where applicable, the authority to grant relief also includes authority to renew or extend an existing authorization.
+Applications for relief which, pursuant to this part, may be granted by staff members under assigned authority, and proceedings on such requests shall be governed by applicable rules in the same manner as if no assignment had been made (see [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.5   Procedures prescribed in other regulations.|§385.5]]). In such proceedings, each staff member may determine any procedural matters which may arise, including, inter alia, service of documents on additional persons; filing of otherwise unauthorized documents; waivers of procedural requirements; requests for hearing; requests for additional information; dismissal of applications upon the applicant's request, moot applications, or incomplete or otherwise defective applications; and extensions of time. Such determinations, except those which would terminate the matter, shall be subject to review only in connection with review of the staff member's decision on the merits. The dismissal of incomplete or otherwise defective applications under authority set forth in this part shall be without prejudice except where under otherwise applicable law the time for making application has run out or where the defect is not corrected within a reasonable time fixed by the staff member. Under the authority assigned to the staff as set forth in this part to approve, disapprove, grant, or deny, relief may be granted or denied in part and grants may be made subject to lawful and reasonable conditions. Moreover, where applicable, the authority to grant relief also includes authority to renew or extend an existing authorization.
 
 \[Doc. No. T-1, 49 FR 50985, Dec. 31, 1984; Amdt. 1, 50 FR 7170, Feb. 21, 1985\]
 
@@ -66,11 +66,11 @@ The Chief Administrative Law Judge has authority to:
 
 \(b\) With respect to matters to be decided after notice and hearing:
 
-\(1\) Dismiss applications or complaints (except those falling under subpart D of part 302 of this chapter (Procedural Regulations)) when such dismissal is requested or consented to by the applicant or complainant, or where such party has failed to prosecute such application or complaint;
+\(1\) Dismiss applications or complaints (except those falling under subpart D of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] (Procedural Regulations)) when such dismissal is requested or consented to by the applicant or complainant, or where such party has failed to prosecute such application or complaint;
 
 \(2\) Dismiss proceedings upon his or her finding that the proceeding has become moot or that no further basis for continuation exists; and
 
-\(3\) Dismiss an application subject to dismissal as stale under part 302 of this chapter.
+\(3\) Dismiss an application subject to dismissal as stale under [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]].
 
 \[49 FR 50985, Dec. 31, 1984, as amended at 55 FR 20448, May 17, 1990; 65 FR 6457, Feb. 9, 2000\]
 
@@ -80,11 +80,11 @@ The Administrative Law Judges, Office of Hearings, have authority to take the fo
 
 \(a\) Grant or deny intervention in formal proceedings.
 
-\(b\) With respect to matters to be decided after notice and hearing, dismiss applications or complaints (except those falling under subpart D of part 302 of this chapter (Procedural Regulations)) when such dismissal is requested or consented to by the applicant or complainant, or where such party has failed to prosecute such application or complaint.
+\(b\) With respect to matters to be decided after notice and hearing, dismiss applications or complaints (except those falling under subpart D of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] (Procedural Regulations)) when such dismissal is requested or consented to by the applicant or complainant, or where such party has failed to prosecute such application or complaint.
 
 \(c\) Grant requests for consolidation of applications for route authority within the scope of the proceeding before him or her, and deny requests for consolidation of applications for route authority not within the scope of the proceeding.
 
-\(d\) Approve or disapprove proposed settlements of enforcement proceedings submitted under §302.215 of this chapter.
+\(d\) Approve or disapprove proposed settlements of enforcement proceedings submitted under [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.215   Briefs to the administrative law judge.|§302.215]] of this chapter.
 
 \[Doc. No. T-1, 49 FR 50985, Dec. 31, 1984, as amended at 65 FR 6457, Feb. 9, 2000\]
 
@@ -122,21 +122,21 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(1\) For exemptions from section 41102 or 41103of 49 U.S.C. Subtitle VII, and from orders issued thereunder, and from applicable regulations under this chapter where the course of action is clear under current policy or precedent.
 
-\(2\) For waivers of the Department's filing fee requirements under part 389 of this chapter, in accordance with current policy or precedent.
+\(2\) For waivers of the Department's filing fee requirements under [[Volume 4/E Organization/0389 Fees and charges for special services.md|part 389 of this chapter]], in accordance with current policy or precedent.
 
 \(3\) For relief under section 40109 of 49 U.S.C. Subtitle VII to hold out, arrange, and coordinate the operation of air ambulance flights as indirect air carriers in accordance with established precedent.
 
-\(c\) To waive the deadlines in §377.10(c) of this chapter for filing applications for the renewal of temporary authorizations when, in the Director's judgment, the public interest would be served. The provisions of §377.10(d) of this chapter shall apply in the same manner as to a timely filed application.
+\(c\) To waive the deadlines in [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](c) of this chapter for filing applications for the renewal of temporary authorizations when, in the Director's judgment, the public interest would be served. The provisions of [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](d) of this chapter shall apply in the same manner as to a timely filed application.
 
 \(d\) With respect to air carrier names:
 
-\(1\) To register names and trade names of certificated and commuter air carriers pursuant to part 215 of this chapter.
+\(1\) To register names and trade names of certificated and commuter air carriers pursuant to [[Volume 4/A Economic regulations/0215 Use and change of names of air carriers, foreign air carriers and commuter air carriers.md|part 215 of this chapter]].
 
 \(2\) To reissue certificates issued under sections 41102 or 41103 of 49 U.S.C. Subtitle VII when revisions thereof are necessitated by a change in the name of a carrier, provided that no issue of substance concerning the operating authority of the carrier is involved.
 
-\(e\) To approve, deny, or cancel registrations filed with the Department by air taxi operators pursuant to part 298 of this chapter.
+\(e\) To approve, deny, or cancel registrations filed with the Department by air taxi operators pursuant to [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]].
 
-\(f\) To approve certificates of insurance filed with the Department on behalf of U.S. and foreign air carriers in accordance with the provisions of part 205 of this chapter.
+\(f\) To approve certificates of insurance filed with the Department on behalf of U.S. and foreign air carriers in accordance with the provisions of [[Volume 4/A Economic regulations/0205 Aircraft accident liability insurance.md|part 205 of this chapter]].
 
 \(g\) With respect to mail rates:
 
@@ -150,7 +150,7 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(3\) To issue final orders amending mail rate orders of air carriers to reflect changes in the names of the carriers subject to the orders.
 
-\(4\) To issue a letter, in the case of air mail contracts filed with the Department under part 302 of this chapter against which no complaints have been filed, stating that the contract will not be disapproved by the Department and may become effective immediately.
+\(4\) To issue a letter, in the case of air mail contracts filed with the Department under [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] against which no complaints have been filed, stating that the contract will not be disapproved by the Department and may become effective immediately.
 
 \(5\) To issue final orders making quarterly fuel rate adjustments to Alaska bush and mainline mail rates set by the Department under 49 U.S.C. 41901, 41902, and 41903.
 
@@ -176,7 +176,7 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(7\) To issue final orders establishing interim or final subsidy rates under section 41732 or final adjustments of compensation for continued service under section 41732 in those cases where no objection has been filed to a show-cause order, and where the rates established are the same as or less than those proposed in the approved show-cause order.
 
-\(8\) With respect to provisions for terminations, suspensions, or reductions of service under part 323 of this chapter:
+\(8\) With respect to provisions for terminations, suspensions, or reductions of service under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md|part 323 of this chapter]]:
 
 \(i\) To require any person who files a notice, objection, or answer to supply additional information.
 
@@ -184,7 +184,7 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(iii\) To accept late-filed objections or answers, upon motion, for good cause shown.
 
-\(iv\) To extend the time for filing objections for answers, when the initial notice has been filed earlier than required under §323.5 of this chapter.
+\(iv\) To extend the time for filing objections for answers, when the initial notice has been filed earlier than required under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.5   Time for filing notices.|§323.5]] of this chapter.
 
 \(9\) To issue final air carrier selection orders establishing final subsidy rates for EAS provided under 49 U.S.C. 41733:
 
@@ -194,7 +194,7 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(iii\) In cases where only one air carrier submitted one service or subsidy option.
 
-\(10\) With respect to provisions for terminations, suspensions, or reductions of service under part 323 of this chapter:
+\(10\) With respect to provisions for terminations, suspensions, or reductions of service under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md|part 323 of this chapter]]:
 
 \(i\) To require any person who files a notice, objection, or answer to supply additional information.
 
@@ -202,15 +202,15 @@ The Director, Office of Aviation Analysis, has authority:
 
 \(iii\) To accept late-filed objections or answers, upon motion, for good cause shown.
 
-\(iv\) To extend the time for filing objections for answers, when the initial notice has been filed earlier than required under §323.5 of this chapter.
+\(iv\) To extend the time for filing objections for answers, when the initial notice has been filed earlier than required under [[Volume 4/B Procedural regulations/0323 Terminations, suspensions, and reductions of service.md#§323.5   Time for filing notices.|§323.5]] of this chapter.
 
-\(i\) To issue procedural orders or notices in antitrust immunity cases filed under part 303 of this chapter with respect to:
+\(i\) To issue procedural orders or notices in antitrust immunity cases filed under [[Volume 4/B Procedural regulations/0303 Review of air carrier agreements.md|part 303 of this chapter]] with respect to:
 
 \(1\) Granting or denying requests for adjustments to procedural deadlines where there is no objection;
 
 \(2\) Making other adjustments to a procedural schedule where the policy is clear and consistent with precedent;
 
-\(3\) Granting parties to a proceeding access to confidential documents filed under a request for public non-disclosure pursuant to §302.12 of this chapter, where providing such access is consistent under current policy and precedent; and
+\(3\) Granting parties to a proceeding access to confidential documents filed under a request for public non-disclosure pursuant to [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.12   Objections to public disclosure of information.|§302.12]] of this chapter, where providing such access is consistent under current policy and precedent; and
 
 \(4\) In uncontested proceedings, ordering the filing of additional documents deemed relevant to the Department's consideration of the application, including the filing of documents for in-camera review, where doing so is consistent with past policy and precedent.
 
@@ -258,7 +258,7 @@ The Director, Office of International Aviation, has authority to:
 
 \(e\) Approve or disapprove requests by foreign air carriers for authorizations provided for, or waivers of restrictions contained, in any agreement or in any permit or order of the Department, when no person disclosing a substantial interest objects or where the course of action is clear under current policy or precedent.
 
-\(f\) Waive the deadlines in §377.10(c) of this chapter for filing applications for renewal of unexpired temporary authorizations when, in the Director's judgment, the public interest would be served. The provisions of §377.10(d) of this chapter shall apply in the same manner as to a timely filed application.
+\(f\) Waive the deadlines in [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](c) of this chapter for filing applications for renewal of unexpired temporary authorizations when, in the Director's judgment, the public interest would be served. The provisions of [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](d) of this chapter shall apply in the same manner as to a timely filed application.
 
 \(g\) Extend the time allowed for action on a complaint of unfair or discriminatory practices, filed under section 41310, for an additional period or periods of 30 days each, not to exceed the 180th day after filing unless that deadline has been waived by the complainant.
 
@@ -270,27 +270,27 @@ The Director, Office of International Aviation, has authority to:
 
 \(2\) An order of the Department.
 
-\(j\) Approve or disapprove requests by foreign air carriers for waivers of the 30-day advance filing requirement for proposed schedules whose filing the Department has ordered under part 213 of this chapter.
+\(j\) Approve or disapprove requests by foreign air carriers for waivers of the 30-day advance filing requirement for proposed schedules whose filing the Department has ordered under [[Volume 4/A Economic regulations/0213 Terms, conditions and limitations of foreign air carrier permits.md|part 213 of this chapter]].
 
-\(k\) Approve, when no person disclosing a substantial interest objects, or disapprove requests by foreign air carriers for special authorizations provided for in part 216 of this chapter.
+\(k\) Approve, when no person disclosing a substantial interest objects, or disapprove requests by foreign air carriers for special authorizations provided for in [[Volume 4/A Economic regulations/0216 Commingling of blind sector traffic by foreign air carriers.md|part 216 of this chapter]].
 
-\(l\) With respect to applications for statements of authorization to conduct intermodal cargo services under part 222 of this chapter:
+\(l\) With respect to applications for statements of authorization to conduct intermodal cargo services under [[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md|part 222 of this chapter]]:
 
-\(1\) Approve applications under part 222 of this chapter where no person with a substantial interest raises objections citing specific facts of nonreciprocity or of restraints on competition by U.S. air carriers;
+\(1\) Approve applications under [[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md|part 222 of this chapter]] where no person with a substantial interest raises objections citing specific facts of nonreciprocity or of restraints on competition by U.S. air carriers;
 
-\(2\) Reject applications under part 222 of this chapter where there is no agreement by the United States permitting the proposed services; or
+\(2\) Reject applications under [[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md|part 222 of this chapter]] where there is no agreement by the United States permitting the proposed services; or
 
-\(3\) Require that an applicant under part 222 of this chapter submit additional information.
+\(3\) Require that an applicant under [[Volume 4/A Economic regulations/0222 Intermodal cargo services by foreign air carriers.md|part 222 of this chapter]] submit additional information.
 
 \(m\) Approve or disapprove issuance of foreign aircraft permits provided for in part 375, subparts E and H, of this chapter.
 
 \(n\) Grant or deny applications of foreign air carriers for renewal of emergency exemptions granted under 49 U.S.C. 40109(g).
 
-\(o\) Grant or deny applications by air carriers and foreign air carriers under part 389 of this chapter for waivers of the Department's filing fee requirements, in accordance with current policy or precedent.
+\(o\) Grant or deny applications by air carriers and foreign air carriers under [[Volume 4/E Organization/0389 Fees and charges for special services.md|part 389 of this chapter]] for waivers of the Department's filing fee requirements, in accordance with current policy or precedent.
 
-\(p\) Determine matters in proceedings under section 40109 and chapters 411, 413 and 415, that have not been set for oral evidentiary hearing, in addition to those authorized under §385.3, such matters to include, *inter alia,* filing times, service of documents, submissions of additional information, filing of otherwise unauthorized documents, access to information for which confidential treatment has been requested, rejection of incomplete or otherwise defective applications, and solicitation of applications for authority.
+\(p\) Determine matters in proceedings under section 40109 and chapters 411, 413 and 415, that have not been set for oral evidentiary hearing, in addition to those authorized under [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.3   Scope of staff action.|§385.3]], such matters to include, *inter alia,* filing times, service of documents, submissions of additional information, filing of otherwise unauthorized documents, access to information for which confidential treatment has been requested, rejection of incomplete or otherwise defective applications, and solicitation of applications for authority.
 
-\(q\) Approve or disapprove applications under part 223 of this chapter for permission to furnish free or reduced-rate foreign air transportation.
+\(q\) Approve or disapprove applications under [[Volume 4/A Economic regulations/0223 Free and reduced-rate transportation.md|part 223 of this chapter]] for permission to furnish free or reduced-rate foreign air transportation.
 
 \(r\) With respect to International Air Transport Association (IATA) agreements filed with the Department pursuant to sections 41309 and 41308 of 49 U.S.C. Subtitle VII, or agreements filed pursuant to previous statutory authority of the Department's predecessor:
 
@@ -302,7 +302,7 @@ The Director, Office of International Aviation, has authority to:
 
 \(t\) Approve or disapprove any application for special tariff permission under part 221, subpart P, of this chapter to make tariff changes upon less than statutory notice.
 
-\(u\) Approve or disapprove applications for waiver of part 221 of this chapter.
+\(u\) Approve or disapprove applications for waiver of [[Volume 4/A Economic regulations/0221 Tariffs.md|part 221 of this chapter]].
 
 \(v\) Institute an investigation of, or institute an investigation and suspend the effectiveness of, a tariff or change in a tariff which:
 
@@ -328,9 +328,9 @@ The Director, Office of International Aviation, has authority to:
 
 (bb) With respect to Canadian charter air taxi operations:
 
-\(1\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with part 294 of this chapter.
+\(1\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]].
 
-\(2\) To cancel, revoke, or suspend the registration of any Canadian charter air taxi operator using small aircraft registered under part 294 of this chapter that:
+\(2\) To cancel, revoke, or suspend the registration of any Canadian charter air taxi operator using small aircraft registered under [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]] that:
 
 \(i\) Filed with the Department a written notice that it is discontinuing operations;
 
@@ -350,33 +350,33 @@ The Director, Office of International Aviation, has authority to:
 
 \(vi\) No longer holds current effective Operations Specifications issued by the FAA.
 
-\(3\) To grant or deny requests for a waiver of part 294 of this chapter, where grant or denial of the request is in accordance with current policy or precedent.
+\(3\) To grant or deny requests for a waiver of [[Volume 4/A Economic regulations/0294 Canadian charter air taxi operators.md|part 294 of this chapter]], where grant or denial of the request is in accordance with current policy or precedent.
 
 \(cc\) With respect to foreign air freight forwarders:
 
-\(1\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with part 297 of this chapter.
+\(1\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with [[Volume 4/A Economic regulations/0297 Foreign air freight forwarders and foreign cooperative shippers associations.md|part 297 of this chapter]].
 
 \(2\) To cancel the registration of any foreign air freight forwarder or foreign cooperative shippers association that files a written notice with the Department indicating the discontinuance of common carrier activities.
 
-\(3\) To exempt the registrant from the requirement contained in §297.20 of this chapter that substantial ownership and effective control reside in citizens of the country that the applicant claims as its country of citizenship, where the course of action is clear under current precedent or policies.
+\(3\) To exempt the registrant from the requirement contained in [[Volume 4/A Economic regulations/0297 Foreign air freight forwarders and foreign cooperative shippers associations.md#§297.20   Filing for registration.|§297.20]] of this chapter that substantial ownership and effective control reside in citizens of the country that the applicant claims as its country of citizenship, where the course of action is clear under current precedent or policies.
 
 (dd) With respect to charter operations:
 
 \(1\) To grant or deny requests for waiver of parts 212, 372, and 380 of this chapter, where grant or denial of the request is in accordance with established precedent.
 
-\(2\) To approve or disapprove direct air carrier escrow agreements filed pursuant to part 212 of this chapter.
+\(2\) To approve or disapprove direct air carrier escrow agreements filed pursuant to [[Volume 4/A Economic regulations/0212 Charter rules for u.s. and foreign direct air carriers.md|part 212 of this chapter]].
 
-\(3\) To reject or accept Public Charter prospectuses filed under part 380 of this chapter.
+\(3\) To reject or accept Public Charter prospectuses filed under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
-\(4\) With respect to the procedures for the registration of foreign charter operators under subpart E of part 380 of this chapter:
+\(4\) With respect to the procedures for the registration of foreign charter operators under subpart E of [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]]:
 
-\(i\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with part 380 of this chapter.
+\(i\) To approve applications for registration, or require that a registrant submit additional information, or reject an application for registration for failure to comply with [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 \(ii\) To notify the applicant that its application will require further analysis or procedures, or is being referred to the Assistant Secretary for Aviation and International Affairs for formal action.
 
 \(iii\) To cancel the registration of a foreign charter operator if it files a written notice with the Department that it is discontinuing its charter operations.
 
-\(iv\) To waive provisions of subpart E of part 380 of this chapter.
+\(iv\) To waive provisions of subpart E of [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 \[Doc. No. OST-96-1268, 61 FR 19169, May 1, 1996, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15943, Apr. 16, 2019\]
 
@@ -394,7 +394,7 @@ The General Counsel has authority to:
 
 \(e\) Compromise any civil penalties being imposed in enforcement cases.
 
-\(f\) Issue orders initiating and terminating informal nonpublic investigations under part 305 of this chapter (Procedural Regulations).
+\(f\) Issue orders initiating and terminating informal nonpublic investigations under [[Volume 4/B Procedural regulations/0305 Rules of practice in informal nonpublic investigations.md|part 305 of this chapter]] (Procedural Regulations).
 
 \(g\) Issue orders requiring air carriers to prepare and submit within a specified reasonable period, special reports, copies of agreements, records, accounts, papers, documents, and specific answers to questions upon which information is deemed necessary. Special reports shall be under oath whenever the General Counsel so requires.
 
@@ -464,11 +464,11 @@ The Director, Office of Airline Information, Bureau of Transportation Statistics
 
 \(h\) Determine the data necessary to complete the International Civil Aviation Organization reports required by U.S. Treaty; as provided in Order 81-3-120, establish any necessary supplemental reporting requirements; and dispose of petitions for extensions of filing dates or waivers with respect to the data required for such reports.
 
-\(i\) Grant or deny motions filed under §302.12 of this chapter requesting confidential treatment of aviation economic information or reports filed with BTS and place the decision in the motion's docket, which decision will be subject to review through a petition for reconsideration filed within ten days of issuance, to be acted upon by the Director, BTS.
+\(i\) Grant or deny motions filed under [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.12   Objections to public disclosure of information.|§302.12]] of this chapter requesting confidential treatment of aviation economic information or reports filed with BTS and place the decision in the motion's docket, which decision will be subject to review through a petition for reconsideration filed within ten days of issuance, to be acted upon by the Director, BTS.
 
 \(j\) Grant or deny requests filed under §241.22 of this chapter for confidential treatment of preliminary year-end financial reports.
 
-\(k\) Grant or deny requests filed under §248.5 of this chapter for confidential treatment of individual air carrier special reports.
+\(k\) Grant or deny requests filed under [[Volume 4/A Economic regulations/0248 Submission of audit reports.md#§248.5   Withholding from public disclosure.|§248.5]] of this chapter for confidential treatment of individual air carrier special reports.
 
 \(l\) Grant or deny requests for use of domestic and international service segment and market data in accordance with the limitations on the availability of these data contained in §241.19-6 of this chapter and Order 81-12-9.
 
@@ -476,7 +476,7 @@ The Director, Office of Airline Information, Bureau of Transportation Statistics
 
 \(n\) Grant or deny requests for individual air carrier fuel data in accordance with the limitations on the availability of these data contained in paragraph (k) of the reporting instructions for Schedule P-12(a), which are contained in §241.24 of this chapter.
 
-\(o\) Grant or deny requests for individual air carrier financial data in accordance with the limitation on the availability of these data contained in paragraph (d) of the reporting instructions for Schedule F-1, which are contained in §298.62 of this chapter.
+\(o\) Grant or deny requests for individual air carrier financial data in accordance with the limitation on the availability of these data contained in paragraph (d) of the reporting instructions for Schedule F-1, which are contained in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.62   Reporting of financial data.|§298.62]] of this chapter.
 
 \(p\) Grant or deny requests for individual air carrier financial data as reported on Schedule P-1(a) in accordance with §241.22(b)(3) of this chapter.
 
@@ -502,7 +502,7 @@ The Inspector General has authority to:
 
 The Chief, Accounting Division, Office of Budget and Policy, Federal Transit Administration, has authority to:
 
-\(a\) Approve and order the payment of refunds of filing fees paid under §389.27(b) of this chapter when such refunds have been authorized by either the Director, Office of Aviation Analysis, or the Director, Office of International Aviation.
+\(a\) Approve and order the payment of refunds of filing fees paid under [[Volume 4/E Organization/0389 Fees and charges for special services.md#§389.27   Refund of fee.|§389.27]](b) of this chapter when such refunds have been authorized by either the Director, Office of Aviation Analysis, or the Director, Office of International Aviation.
 
 \(b\) Pay from appropriated funds all properly documented claims consistent with Treasury, OMB, GAO, and DOT policies.
 
@@ -526,7 +526,7 @@ Petitions for review may be filed by the applicant; by persons who have availed 
 
 \(b\) *Contents.* Petitions for review shall demonstrate that (1) a finding of material fact is clearly erroneous; (2) a legal conclusion is contrary to law, Department rules, or precedent; (3) a substantial and important question of policy is involved; (4) a prejudicial procedural error has occurred; or (5) the staff action is substantially deficient on its face. The petition shall briefly and specifically state the alleged grounds for review and the relief sought. If persons who participated at the staff action level set forth any new facts, arguments, or other new matter, an explanation must be furnished as to why said matter was not previously adduced at the staff action level. In the absence of a valid explanation, the Department may disregard such new matter.
 
-\(c\) *Form and filing.* Petitions shall comply with the form and filing requirements of §§302.3 and 302.4 of this chapter. (Rules of practice in Economic Proceedings). Petitions shall not exceed 10 pages in length. A greater length, however, may be specified in the staff action taken. The petitions shall be accompanied by proof of required service. However, persons who seek review of a civil penalty proposed by the Assistant General Counsel for Aviation Enforcement and Proceedings pursuant to §385.15(a) may submit their request therefor by letter to the Department with a copy to the Assistant General Counsel for Aviation Enforcement and Proceedings and need not comply with the above form and filing requirements.
+\(c\) *Form and filing.* Petitions shall comply with the form and filing requirements of §[[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md#§302.3   Filing of documents.|§302.3]] and 302.4 of this chapter. (Rules of practice in Economic Proceedings). Petitions shall not exceed 10 pages in length. A greater length, however, may be specified in the staff action taken. The petitions shall be accompanied by proof of required service. However, persons who seek review of a civil penalty proposed by the Assistant General Counsel for Aviation Enforcement and Proceedings pursuant to [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.15   \[Reserved\]|§385.15]](a) may submit their request therefor by letter to the Department with a copy to the Assistant General Counsel for Aviation Enforcement and Proceedings and need not comply with the above form and filing requirements.
 
 \(d\) *Service.* A petition filed by a person other than the applicant shall be served on the applicant. Petitions shall also be served on any persons who have served documents on the petitioner at the staff action level; and on such other persons as may be directed by the Department or the staff member who took the action to be reviewed.
 

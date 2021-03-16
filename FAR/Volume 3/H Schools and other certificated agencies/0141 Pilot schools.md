@@ -6,7 +6,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.141](https://www.ecfr
 
 ### Special Federal Aviation Regulation No. 118-2—Relief for Certain Persons During the National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Public Health Emergency
 
-For the text of SFAR No. 118-2, see part 61 of this chapter.
+For the text of SFAR No. 118-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \[Amdt. No. 141-22, 85 FR 38783, June 29, 2020; 85 FR 47303, Aug. 5, 2020; Amdt. No. 118-2, 85 FR 62975, Oct. 6, 2020\]
 
@@ -44,7 +44,7 @@ The FAA may issue a pilot school certificate with the appropriate ratings if, wi
 
 \(3\) End-of-course tests for an approved training course specified in appendix K of this part; and
 
-\(4\) End-of-course tests for special curricula courses approved under §141.57.
+\(4\) End-of-course tests for special curricula courses approved under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.57   Special curricula.|§141.57]].
 
 \(e\) Has graduated at least 10 different people from the school's approved training courses.
 
@@ -52,7 +52,7 @@ The FAA may issue a pilot school certificate with the appropriate ratings if, wi
 
 ### §141.7   Provisional pilot school certificate.
 
-An applicant that meets the applicable requirements of subparts A, B, and C of this part, but does not meet the recent training activity requirements of §141.5(d) of this part, may be issued a provisional pilot school certificate with ratings.
+An applicant that meets the applicable requirements of subparts A, B, and C of this part, but does not meet the recent training activity requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]](d) of this part, may be issued a provisional pilot school certificate with ratings.
 
 ### §141.9   Examining authority.
 
@@ -64,9 +64,9 @@ The FAA issues examining authority to a pilot school for a training course if th
 
 \(a\) The ratings listed in paragraph (b) of this section may be issued to an applicant for:
 
-\(1\) A pilot school certificate, provided the applicant meets the requirements of §141.5 of this part; or
+\(1\) A pilot school certificate, provided the applicant meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]] of this part; or
 
-\(2\) A provisional pilot school certificate, provided the applicant meets the requirements of §141.7 of this part.
+\(2\) A provisional pilot school certificate, provided the applicant meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.7   Provisional pilot school certificate.|§141.7]] of this part.
 
 \(b\) An applicant may be authorized to conduct the following courses:
 
@@ -142,7 +142,7 @@ The FAA issues examining authority to a pilot school for a training course if th
 
 ### §141.18   Carriage of narcotic drugs, marijuana, and depressant or stimulant drugs or substances.
 
-If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of §91.19(a) of this chapter, that operation is a basis for suspending or revoking the certificate.
+If the holder of a certificate issued under this part permits any aircraft owned or leased by that holder to be engaged in any operation that the certificate holder knows to be in violation of [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter, that operation is a basis for suspending or revoking the certificate.
 
 ### §141.19   Display of certificate.
 
@@ -170,7 +170,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(a\) The holder of a pilot school certificate or a provisional pilot school certificate may not make any statement relating to its certification and ratings that is false or designed to mislead any person contemplating enrollment in that school.
 
-\(b\) The holder of a pilot school certificate or a provisional pilot school certificate may not advertise that the school is certificated unless it clearly differentiates between courses that have been approved under part 141 of this chapter and those that have not been approved under part 141 of this chapter.
+\(b\) The holder of a pilot school certificate or a provisional pilot school certificate may not advertise that the school is certificated unless it clearly differentiates between courses that have been approved under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md|part 141 of this chapter]] and those that have not been approved under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md|part 141 of this chapter]].
 
 \(c\) The holder of a pilot school certificate or a provisional pilot school certificate must promptly remove:
 
@@ -202,7 +202,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 ### §141.26   Training agreements.
 
-\(a\) A training center certificated under part 142 of this chapter may provide the training, testing, and checking for pilot schools certificated under this part and is considered to meet the requirements of this part, provided—
+\(a\) A training center certificated under [[Volume 3/H Schools and other certificated agencies/0142 Training centers.md|part 142 of this chapter]] may provide the training, testing, and checking for pilot schools certificated under this part and is considered to meet the requirements of this part, provided—
 
 \(1\) There is a training agreement between the certificated training center and the pilot school;
 
@@ -212,7 +212,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(4\) Upon completion of the training, testing, and checking conducted under part 142, a copy of each student's training record is forwarded to the part 141 school and becomes part of the student's permanent training record.
 
-\(b\) A pilot school that provides flight training for an institution of higher education that holds a letter of authorization under §61.169 of this chapter must have a training agreement with that institution of higher education.
+\(b\) A pilot school that provides flight training for an institution of higher education that holds a letter of authorization under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.169   Letters of authorization for institutions of higher education.|§61.169]] of this chapter must have a training agreement with that institution of higher education.
 
 \[Doc. No. FAA-2010-0100, 78 FR 42379, July 15, 2013\]
 
@@ -222,11 +222,11 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(2\) A pilot school may have its school certificate and ratings renewed for an additional 24 calendar months if the Administrator determines the school's personnel, aircraft, facility and airport, approved training courses, training records, and recent training ability and quality meet the requirements of this part.
 
-\(3\) A pilot school that does not meet the renewal requirements in paragraph (a)(2) of this section, may apply for a provisional pilot school certificate if the school meets the requirements of §141.7 of this part.
+\(3\) A pilot school that does not meet the renewal requirements in paragraph (a)(2) of this section, may apply for a provisional pilot school certificate if the school meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.7   Provisional pilot school certificate.|§141.7]] of this part.
 
 \(b\) *Provisional pilot school.* (1) Except as provided in paragraph (b)(3) of this section, a provisional pilot school may not have its provisional pilot school certificate or the ratings on that certificate renewed.
 
-\(2\) A provisional pilot school may apply for a pilot school certificate and associated ratings provided that school meets the requirements of §141.5 of this part.
+\(2\) A provisional pilot school may apply for a pilot school certificate and associated ratings provided that school meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]] of this part.
 
 \(3\) A former provisional pilot school may apply for another provisional pilot school certificate, provided 180 days have elapsed since its last provisional pilot school certificate expired.
 
@@ -260,11 +260,11 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(3\) Each instructor to be used for ground or flight training must hold a flight instructor certificate, ground instructor certificate, or commercial pilot certificate with a lighter-than-air rating, as appropriate, with ratings for the approved course of training and any aircraft used in that course.
 
-\(4\) In addition to meeting the requirements of paragraph (a)(3) of this section, each instructor used for the airline transport pilot certification training program in §61.156 of this chapter must:
+\(4\) In addition to meeting the requirements of paragraph (a)(3) of this section, each instructor used for the airline transport pilot certification training program in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] of this chapter must:
 
 \(i\) Hold an airline transport pilot certificate with an airplane category multiengine class rating;
 
-\(ii\) Have at least 2 years of experience as a pilot in command in operations conducted under §91.1053(a)(2)(i) or §135.243(a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under part 121 of this chapter; and
+\(ii\) Have at least 2 years of experience as a pilot in command in operations conducted under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.1053   Crewmember experience.|§91.1053]](a)(2)(i) or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.243   Pilot in command qualifications.|§135.243]](a)(1) of this chapter, or as a pilot in command or second in command in any operation conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]; and
 
 \(iii\) If providing training in a flight simulation training device, have received training and evaluation within the preceding 12 months from the certificate holder on—
 
@@ -278,13 +278,13 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(E\) The maneuvers that will be demonstrated in the flight simulation training device.
 
-\(b\) An applicant for a pilot school certificate or for a provisional pilot school certificate must designate a chief instructor for each of the school's approved training courses, who must meet the requirements of §141.35 of this part.
+\(b\) An applicant for a pilot school certificate or for a provisional pilot school certificate must designate a chief instructor for each of the school's approved training courses, who must meet the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.35   Chief instructor qualifications.|§141.35]] of this part.
 
-\(c\) When necessary, an applicant for a pilot school certificate or for a provisional pilot school certificate may designate a person to be an assistant chief instructor for an approved training course, provided that person meets the requirements of §141.36 of this part.
+\(c\) When necessary, an applicant for a pilot school certificate or for a provisional pilot school certificate may designate a person to be an assistant chief instructor for an approved training course, provided that person meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.36   Assistant chief instructor qualifications.|§141.36]] of this part.
 
 \(d\) A pilot school and a provisional pilot school may designate a person to be a check instructor for conducting student stage checks, end-of-course tests, and instructor proficiency checks, provided:
 
-\(1\) That person meets the requirements of §141.37 of this part; and
+\(1\) That person meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.37   Check instructor qualifications.|§141.37]] of this part; and
 
 \(2\) The school has an enrollment of at least 10 students at the time designation is sought.
 
@@ -312,7 +312,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(1\) Hold a commercial pilot certificate or an airline transport pilot certificate, and, except for a chief instructor for a course of training solely for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category and class ratings for the category and class of aircraft used in the course and an instrument rating, if an instrument rating is required for enrollment in the course of training;
 
-\(2\) Meet the pilot-in-command recent flight experience requirements of §61.57 of this chapter;
+\(2\) Meet the pilot-in-command recent flight experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter;
 
 \(3\) Pass a knowledge test on—
 
@@ -372,7 +372,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(1\) Hold a commercial pilot or an airline transport pilot certificate and, except for the assistant chief instructor for a course of training solely for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category, class, and instrument ratings if an instrument rating is required by the course of training for the category and class of aircraft used in the course;
 
-\(2\) Meet the pilot-in-command recent flight experience requirements of §61.57 of this chapter;
+\(2\) Meet the pilot-in-command recent flight experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter;
 
 \(3\) Pass a knowledge test on—
 
@@ -444,7 +444,7 @@ Each holder of a certificate issued under this part must allow the Administrator
 
 \(ii\) Hold a commercial pilot certificate or an airline transport pilot certificate and, except for a check instructor for a course of training for a lighter-than-air rating, a current flight instructor certificate. The certificates must contain the appropriate aircraft category, class, and instrument ratings for the category and class of aircraft used in the course;
 
-\(iii\) Meet the pilot-in-command recent flight experience requirements of §61.57 of this chapter; and
+\(iii\) Meet the pilot-in-command recent flight experience requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.57   Recent flight experience: Pilot in command.|§61.57]] of this chapter; and
 
 \(iv\) Pass a proficiency test, given by the chief instructor or assistant chief instructor, on the flight procedures and maneuvers of the approved training course for the designation sought.
 
@@ -536,7 +536,7 @@ An applicant for a pilot school certificate or a provisional pilot school certif
 
 \(a\) *Full flight simulators and flight training devices.* Each full flight simulator and flight training device used to obtain flight training credit in an approved pilot training course curriculum must be:
 
-\(1\) Qualified under part 60 of this chapter, or a previously qualified device, as permitted in accordance with §60.17 of this chapter; and
+\(1\) Qualified under [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md|part 60 of this chapter]], or a previously qualified device, as permitted in accordance with [[Volume 2/D Airmen/0060 Flight simulation training device initial and continuing qualification and use.md#§60.17   Previously qualified FSTDs.|§60.17]] of this chapter; and
 
 \(2\) Approved by the Administrator for the tasks and maneuvers.
 
@@ -588,7 +588,7 @@ This subpart prescribes the curriculum and course outline requirements for the i
 
 \(3\) An application for amending a training course must be accompanied by two copies of the amendment.
 
-\(c\) *Training courses.* An applicant for a pilot school certificate or provisional pilot school certificate may request approval for the training courses specified under §141.11(b).
+\(c\) *Training courses.* An applicant for a pilot school certificate or provisional pilot school certificate may request approval for the training courses specified under [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.11   Pilot school ratings.|§141.11]](b).
 
 \(d\) *Additional rules for internet based training courses.* An application for an initial or amended training course offered through an internet based medium must comply with the following:
 
@@ -678,7 +678,7 @@ This subpart prescribes the curriculum and course outline requirements for the i
 
 ### §141.57   Special curricula.
 
-An applicant for a pilot school certificate or provisional pilot school certificate may apply for approval to conduct a special course of airman training for which a curriculum is not prescribed in the appendixes of this part, if the applicant shows that the training course contains features that could achieve a level of pilot proficiency equivalent to that achieved by a training course prescribed in the appendixes of this part or the requirements of part 61 of this chapter.
+An applicant for a pilot school certificate or provisional pilot school certificate may apply for approval to conduct a special course of airman training for which a curriculum is not prescribed in the appendixes of this part, if the applicant shows that the training course contains features that could achieve a level of pilot proficiency equivalent to that achieved by a training course prescribed in the appendixes of this part or the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 ## Subpart D—Examining Authority
 
@@ -742,7 +742,7 @@ A pilot school that holds examining authority may only recommend the issuance of
 
 \(5\) The receiving school retains a copy of the person's training record from the previous school.
 
-\(c\) Tests given by a pilot school that holds examining authority must be approved by the Administrator and be at least equal in scope, depth, and difficulty to the comparable knowledge and practical tests prescribed by the Administrator under part 61 of this chapter.
+\(c\) Tests given by a pilot school that holds examining authority must be approved by the Administrator and be at least equal in scope, depth, and difficulty to the comparable knowledge and practical tests prescribed by the Administrator under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \(d\) A pilot school that holds examining authority may not use its knowledge or practical tests if the school:
 
@@ -864,7 +864,7 @@ The following items must be carried on each aircraft used for flight training an
 
 \(1\) Comply with its approved training course; and
 
-\(2\) Provide training of such quality that meets the requirements of §141.5(d) of this part.
+\(2\) Provide training of such quality that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.5   Requirements for a pilot school certificate.|§141.5]](d) of this part.
 
 \(b\) The failure of a pilot school or provisional pilot school to maintain the quality of training specified in paragraph (a) of this section may be the basis for suspending or revoking that school's certificate.
 
@@ -918,7 +918,7 @@ Whenever a pilot school or provisional pilot school makes a change of designatio
 
 \(1\) Designating and approving another chief instructor;
 
-\(2\) Showing it meets the requirements of §141.27(a)(2) of this part; and
+\(2\) Showing it meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.27   Renewal of certificates and ratings.|§141.27]](a)(2) of this part; and
 
 \(3\) Applying for reinstatement on a form and in a manner prescribed by the Administrator.
 
@@ -930,7 +930,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(a\) Each airport, aircraft, and facility necessary for that training meets the standards specified in the holder's approved training course outline and the appropriate requirements of this part; and
 
-\(b\) Except as provided in §141.87 of this part, each chief instructor, assistant chief instructor, check instructor, or instructor meets the qualifications specified in the holder's approved course of training and the appropriate requirements of this part.
+\(b\) Except as provided in [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.87   Change of chief instructor.|§141.87]] of this part, each chief instructor, assistant chief instructor, check instructor, or instructor meets the qualifications specified in the holder's approved course of training and the appropriate requirements of this part.
 
 ### §141.91   Satellite bases.
 
@@ -940,7 +940,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(b\) The airport, facilities, and personnel used at the satellite base meet the appropriate requirements of subpart B of this part and its approved training course outline;
 
-\(c\) The instructors are under the direct supervision of the chief instructor or assistant chief instructor for the appropriate training course, who is readily available for consultation in accordance with §141.85(b) of this part; and
+\(c\) The instructors are under the direct supervision of the chief instructor or assistant chief instructor for the appropriate training course, who is readily available for consultation in accordance with [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.85   Chief instructor responsibilities.|§141.85]](b) of this part; and
 
 \(d\) The responsible Flight Standards office for the area in which the school is located is notified in writing if training is conducted at a base other than the school's main operations base for more than 7 consecutive days.
 
@@ -1018,7 +1018,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(2\) A chronological log of the student's course attendance, subjects, and flight operations covered in the student's training, and the names and grades of any tests taken by the student; and
 
-\(3\) The date the student graduated, terminated training, or transferred to another school. In the case of graduation from a course based on internet media, the school must maintain the identifying graduation certificate code required by §141.95(b)(8).
+\(3\) The date the student graduated, terminated training, or transferred to another school. In the case of graduation from a course based on internet media, the school must maintain the identifying graduation certificate code required by [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.95   Graduation certificate.|§141.95]](b)(8).
 
 \(b\) The records required to be maintained in a student's logbook will not suffice for the record required by paragraph (a) of this section.
 
@@ -1082,7 +1082,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 4\. *Flight training.* (a) Each approved course must include at least 30 hours of flight training (of which 15 hours must be with a certificated flight instructor and 3 hours must be solo flight training as provided in section No. 5 of this appendix) on the approved areas of operation listed in paragraph (c) of this section that are appropriate to the aircraft category and class rating for which the course applies, including:
 
-\(1\) Except as provided in §61.100 of this chapter, 2 hours of dual flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with at least three takeoffs and three landings; and
+\(1\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter, 2 hours of dual flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with at least three takeoffs and three landings; and
 
 \(2\) 3 hours of dual flight training in an aircraft that is appropriate to the aircraft category and class for which the course applies, in preparation for the practical test within 60 days preceding the date of the test.
 
@@ -1234,7 +1234,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) *For an airplane single-engine course:* 20 hours of flight training from a certificated flight instructor on the approved areas of operation in paragraph (d)(1) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a single-engine airplane;
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a single-engine airplane;
 
 \(ii\) 3 hours of night flight training in a single-engine airplane that includes—
 
@@ -1248,7 +1248,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(2\) *For an airplane multiengine course:* 20 hours of flight training from a certificated flight instructor on the approved areas of operation in paragraph (d)(2) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a multiengine airplane;
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a multiengine airplane;
 
 \(ii\) 3 hours of night flight training in a multiengine airplane that includes—
 
@@ -1262,7 +1262,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(3\) *For a rotorcraft helicopter course:* 20 hours of flight training from a certificated flight instructor on the approved areas of operation in paragraph (d)(3) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a helicopter.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a helicopter.
 
 \(ii\) 3 hours of night flight training in a helicopter that includes—
 
@@ -1274,7 +1274,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(4\) *For a rotorcraft gyroplane course:* 20 hours of flight training from a certificated flight instructor on the approved areas of operation in paragraph (d)(4) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a gyroplane.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a gyroplane.
 
 \(ii\) 3 hours of night flight training in a gyroplane that includes—
 
@@ -1286,7 +1286,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(5\) *For a powered-lift course:* 20 hours of flight training from a certificated flight instructor on the approved areas of operation in paragraph (d)(5) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a powered-lift;
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a powered-lift;
 
 \(ii\) 3 hours of night flight training in a powered-lift that includes—
 
@@ -1306,7 +1306,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(7\) *For a lighter-than-air airship course:* 20 hours of flight training from a commercial pilot with an airship rating on the approved areas of operation in paragraph (d)(7) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in an airship;
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in an airship;
 
 \(ii\) 3 hours of night flight training in an airship that includes—
 
@@ -1340,11 +1340,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a) may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a) may be credited for a maximum of 15 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 15 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in full flight simulators or flight training devices described in paragraphs (c)(2) and (3) of this section, if used in combination, may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (c)(3) of this section.
+\(4\) Training in full flight simulators or flight training devices described in paragraphs (c)(2) and (3) of this section, if used in combination, may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (c)(3) of this section.
 
 \(d\) Each approved course must include the flight training on the approved areas of operation listed in this paragraph that are appropriate to the aircraft category and class rating—
 
@@ -1620,9 +1620,9 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator, flight training device, or aviation training device, provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(2\) Credit for training in a full flight simulator that meets the requirements of §141.41(a) cannot exceed 50 percent of the total flight training hour requirements of the course or of this section, whichever is less.
+\(2\) Credit for training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed 50 percent of the total flight training hour requirements of the course or of this section, whichever is less.
 
-\(3\) Credit for training in a flight training device that meets the requirements of §141.41(a), an advanced aviation training device that meets the requirements of §141.41(b), or a combination of these devices cannot exceed 40 percent of the total flight training hour requirements of the course or of this section, whichever is less. Credit for training in a basic aviation training device that meets the requirements of §141.41(b) cannot exceed 25 percent of the total training hour requirements permitted under this paragraph.
+\(3\) Credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), an advanced aviation training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](b), or a combination of these devices cannot exceed 40 percent of the total flight training hour requirements of the course or of this section, whichever is less. Credit for training in a basic aviation training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](b) cannot exceed 25 percent of the total training hour requirements permitted under this paragraph.
 
 \(4\) Credit for training in full flight simulators, flight training devices, and aviation training devices if used in combination, cannot exceed 50 percent of the total flight training hour requirements of the course or of this section, whichever is less. However, credit for training in a flight training device or aviation training device cannot exceed the limitation provided for in paragraph (b)(3) of this section.
 
@@ -1774,7 +1774,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(i\) Ten hours of instrument training using a view-limiting device including attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. Five hours of the 10 hours required on instrument training must be in a single engine airplane;
 
-\(ii\) Ten hours of training in a complex airplane, a turbine-powered airplane, or a technically advanced airplane that meets the requirements of §61.129(j) of this chapter, or any combination thereof. The airplane must be appropriate to land or sea for the rating sought;
+\(ii\) Ten hours of training in a complex airplane, a turbine-powered airplane, or a technically advanced airplane that meets the requirements of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.129   Aeronautical experience.|§61.129]](j) of this chapter, or any combination thereof. The airplane must be appropriate to land or sea for the rating sought;
 
 \(iii\) One 2-hour cross country flight in daytime conditions in a single engine airplane that consists of a total straight-line distance of more than 100 nautical miles from the original point of departure;
 
@@ -1862,11 +1862,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a) may be credited for a maximum of 30 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 30 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a) may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 20 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in the flight training devices described in paragraphs (c)(2) and (3) of this section, if used in combination, may be credited for a maximum of 30 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (c)(3) of this section.
+\(4\) Training in the flight training devices described in paragraphs (c)(2) and (3) of this section, if used in combination, may be credited for a maximum of 30 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (c)(3) of this section.
 
 \(d\) Each approved course must include the flight training on the approved areas of operation listed in this paragraph that are appropriate to the aircraft category and class rating—
 
@@ -2112,7 +2112,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(a\) Hold a commercial pilot certificate and an instrument rating, or an airline transport pilot certificate with instrument privileges;
 
-\(b\) Meet the military experience requirements under §61.73 of this chapter to qualify for a commercial pilot certificate and an instrument rating, if the person is a rated military pilot or former rated military pilot of an Armed Force of the United States; or
+\(b\) Meet the military experience requirements under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.73   Military pilots or former military pilots: Special rules.|§61.73]] of this chapter to qualify for a commercial pilot certificate and an instrument rating, if the person is a rated military pilot or former rated military pilot of an Armed Force of the United States; or
 
 \(c\) Hold either a foreign airline transport pilot license or foreign commercial pilot license and an instrument rating, if the person holds a pilot license issued by a contracting State to the Convention on International Civil Aviation.
 
@@ -2152,11 +2152,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a) may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a) may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
+\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
 
 \(c\) Each approved course must include flight training on the approved areas of operation listed in this paragraph appropriate to the aircraft category and class rating for which the course applies:
 
@@ -2246,11 +2246,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets the requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
+\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
 
 \(c\) Each approved course must include flight training on the approved areas of operation listed in this paragraph that are appropriate to the aircraft category and class rating for which the course applies—
 
@@ -2476,11 +2476,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved for, meets requirements of this paragraph, and the training is given by an instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(b) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
+\(4\) Training in full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](b) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
 
 \(c\) An approved course for the flight instructor-instrument rating must include flight training on the following approved areas of operation that are appropriate to the instrument-aircraft category and class rating for which the course applies:
 
@@ -2660,13 +2660,13 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the recreational pilot certificate, the course must include 15 hours of flight training on the areas of operations under part 141, appendix A, paragraph 4(c)(1) that include—
 
-\(i\) Two hours of flight training to an airport and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under §61.100 of this chapter; and
+\(i\) Two hours of flight training to an airport and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter; and
 
 \(ii\) Three hours of flight training in an aircraft with the airplane category and single engine class within 2 calendar months before the date of the practical test.
 
 \(2\) For the private pilot certificate, the course must include 20 hours of flight training on the areas of operations under part 141, appendix B, paragraph 4(d)(1). A flight simulator and flight training device cannot be used to meet more than 4 hours of the training requirements, and the use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in a single engine airplane, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in a single engine airplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a single engine airplane that includes one cross country flight of more than 100 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2692,7 +2692,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 20 hours flight training on the areas of operations under part 141, appendix B, paragraph 4.(d)(2). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in a multiengine airplane, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in a multiengine airplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a multiengine airplane that includes one cross country flight of more than 100 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2718,13 +2718,13 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the recreational pilot certificate, the course requires 15 hours of flight training on the areas of operations under part 141, appendix A, paragraph 4.(c)(2) that includes—
 
-\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under §61.100 of this chapter; and
+\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter; and
 
 \(ii\) Three hours of flight training in a rotorcraft category and a helicopter class aircraft within 2 calendar months before the date of the practical test.
 
 \(2\) For the private pilot certificate, the course requires 20 hours flight training on the areas of operations under part 141, appendix B, paragraph 4.(d)(3). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Except as provided under §61.111 of this chapter, 3 hours of cross country flight training in a helicopter;
+\(i\) Except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross country flight training in a helicopter;
 
 \(ii\) Three hours of nighttime flight training in a helicopter that includes one cross country flight of more than 50 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport; and
 
@@ -2746,13 +2746,13 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the recreational pilot certificate, the course requires 15 hours flight training on the areas of operations under part 141, appendix A, paragraph 4.(c)(3) that includes—
 
-\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under §61.100 of this chapter; and
+\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter; and
 
 \(ii\) Three hours of flight training in a gyroplane class within 2 calendar months before the date of the practical test.
 
 \(2\) For the private pilot certificate, the course requires 20 hours flight training on the areas of operations under part 141, appendix B, paragraph 4.(d)(4). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country flight training in a gyroplane, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country flight training in a gyroplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a gyroplane that includes one cross country flight of more than 50 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport; and
 
@@ -2772,7 +2772,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 20 hours of flight training on the areas of operation under part 141, appendix B, paragraph 4.(d)(7). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country flight training in an airship, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country flight training in an airship, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in an airship that includes one cross country flight of more than 25 nautical miles total distance and 5 takeoffs and 5 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2830,7 +2830,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 20 hours flight training on the areas of operations under part 141, appendix B, paragraph 4(d)(5). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country flight training in a powered-lift except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country flight training in a powered-lift except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a powered-lift that includes one cross-country flight of more than 100 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2864,7 +2864,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 3 hours of flight training in the areas of operations under part 141, appendix B, paragraph 4.(d)(1). A flight simulator and flight training device cannot be used more than 0.6 hours to meet the training requirements, and use of the flight training device is limited to 0.4 hours of the 0.6 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in a single engine airplane, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in a single engine airplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a single engine airplane that includes one cross country flight of more than 100 nautical miles total distance in a single engine airplane and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2890,7 +2890,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 3 hours of flight training on the areas of operations of appendix B to part 141, paragraph 4(d)(2). A flight simulator and flight training device cannot be used more than 0.6 hours to meet the training requirements, and use of the flight training device is limited to 0.4 hours of the 0.6 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in a multiengine airplane, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in a multiengine airplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a multiengine airplane that includes one cross country flight of more than 100 nautical miles total distance in a multiengine airplane, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -2916,13 +2916,13 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the recreational pilot certificate, the course requires 3 hours of flight training on the areas of operations under appendix A of part 141, paragraph 4.(c)(2) that includes—
 
-\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under §61.100 of this chapter; and
+\(i\) Two hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter; and
 
 \(ii\) Three hours of flight training in a helicopter within 2 calendar months before the date of the practical test.
 
 \(2\) For the private pilot certificate, the course requires 3 hours flight training on the areas of operations under appendix B of part 141, paragraph 4.(d)(3). A flight simulator and flight training device cannot be used more than 0.6 hours to meet the training requirements, and use of the flight training device is limited to 0.4 hours of the 0.6 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in a helicopter, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in a helicopter, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in a helicopter that includes one cross country flight of more than 50 nautical miles total distance, and 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport; and
 
@@ -2944,7 +2944,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the recreational pilot certificate, the course requires 3 hours flight training on the areas of operations of appendix A to part 141, paragraph 4.(c)(3) that includes—
 
-\(i\) Except as provided under §61.100 of this chapter, 2 hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings; and
+\(i\) Except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.100   Pilots based on small islands.|§61.100]] of this chapter, 2 hours of flight training to and at an airport that is located more than 25 nautical miles from the airport where the applicant normally trains, with three takeoffs and three landings; and
 
 \(ii\) Within 2 calendar months before the date of the practical test, 3 hours of flight training in a gyroplane.
 
@@ -2960,7 +2960,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(i\) 2.5 hours on the control and maneuvering of a gyroplane solely by reference to instruments, and must include training using a view-limiting device for attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems. This aeronautical experience may be performed in an aircraft, flight simulator, flight training device, or an aviation training device.
 
-\(ii\) Three hours of cross country flight training in a gyroplane, except as provided under §61.111 of this chapter;
+\(ii\) Three hours of cross country flight training in a gyroplane, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(iii\) Two hours of flight training during nighttime conditions in a gyroplane at an airport that includes 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern); and
 
@@ -2970,7 +2970,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) For the private pilot certificate, the course requires 20 hours of flight training on the areas of operation under appendix B of part 141, paragraph 4.(d)(7). A flight simulator and flight training device cannot be used more than 4 hours to meet the training requirements, and use of the flight training device is limited to 3 hours of the 4 hours permitted. The course must include—
 
-\(i\) Three hours of cross country training in an airship, except as provided under §61.111 of this chapter;
+\(i\) Three hours of cross country training in an airship, except as provided under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter;
 
 \(ii\) Three hours of nighttime flight training in an airship that includes one cross country flight of more than 25 nautical miles total distance, and 5 takeoffs and 5 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport;
 
@@ -3078,11 +3078,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a), may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a), may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in the full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
+\(4\) Training in the full flight simulators or flight training devices described in paragraphs (b)(2) and (3) of this section, if used in combination, may be credited for a maximum of 50 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (b)(3) of this section.
 
 \(c\) Each approved course must include the flight training on the areas of operation listed in this paragraph, that are appropriate to the aircraft category and class rating for which the course applies:
 
@@ -3184,7 +3184,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 ### Appendix K to Part 141—Special Preparation Courses
 
-1\. *Applicability.* This appendix prescribes the minimum curriculum for the special preparation courses that are listed in §141.11 of this part.
+1\. *Applicability.* This appendix prescribes the minimum curriculum for the special preparation courses that are listed in [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.11   Pilot school ratings.|§141.11]] of this part.
 
 2\. *Eligibility for enrollment.* Prior to enrolling in the flight portion of a special preparation course, a person must hold a pilot certificate, flight instructor certificate, or ground instructor certificate that is appropriate for the exercise of the operating privileges or authorizations sought.
 
@@ -3198,11 +3198,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 4\. *Use of full flight simulators or flight training devices.* (a) The approved special preparation course may include training in a full flight simulator or flight training device, provided it is representative of the aircraft for which the course is approved, meets requirements of this paragraph, and the training is given by an authorized instructor.
 
-\(b\) Except for the airline transport pilot certification program in section 13 of this appendix, training in a full flight simulator that meets the requirements of §141.41(a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(b\) Except for the airline transport pilot certification program in section 13 of this appendix, training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(c\) Except for the airline transport pilot certification program in section 13 of this appendix, training in a flight training device that meets the requirements of §141.41(a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(c\) Except for the airline transport pilot certification program in section 13 of this appendix, training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a), may be credited for a maximum of 5 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(d\) Training in the full flight simulators or flight training devices described in paragraphs (b) and (c) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of §141.41(a) cannot exceed the limitation provided for in paragraph (c) of this section.
+\(d\) Training in the full flight simulators or flight training devices described in paragraphs (b) and (c) of this section, if used in combination, may be credited for a maximum of 10 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) cannot exceed the limitation provided for in paragraph (c) of this section.
 
 5\. *Stage check and end-of-course tests.* Each person enrolled in a special preparation course must satisfactorily accomplish the stage checks and end-of-course tests, in accordance with the school's approved training course, consisting of the approved areas of operation that are appropriate to the operating privileges or authorization sought, and for which the course applies.
 
@@ -3214,7 +3214,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(2\) Safe piloting and operating practices and procedures for handling, dispensing, and disposing agricultural and industrial chemicals, including operating in and around congested areas; and
 
-\(3\) Applicable provisions of part 137 of this chapter.
+\(3\) Applicable provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md|part 137 of this chapter]].
 
 \(b\) 15 hours of flight training on agricultural aircraft operations.
 
@@ -3226,7 +3226,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(2\) Safe piloting and operating practices and procedures for external-load operations, including operating in and around congested areas; and
 
-\(3\) Applicable provisions of part 133 of this chapter.
+\(3\) Applicable provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md|part 133 of this chapter]].
 
 \(b\) 15 hours of flight training on external-load operations.
 
@@ -3278,9 +3278,9 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(a\) Aeronautical knowledge training on:
 
-\(1\) The aeronautical knowledge areas of part 61 of this chapter that apply to student, recreational, private, and commercial pilot certificates and instrument ratings;
+\(1\) The aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] that apply to student, recreational, private, and commercial pilot certificates and instrument ratings;
 
-\(2\) The aeronautical knowledge areas of part 61 of this chapter that apply to flight instructor certificates;
+\(2\) The aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] that apply to flight instructor certificates;
 
 \(3\) Safe piloting operating practices and procedures, including airport operations and operating in the National Airspace System; and
 
@@ -3294,15 +3294,15 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 12\. *Ground instructor refresher course.* An approved special preparation ground instructor refresher course must include at least 16 hours of aeronautical knowledge training on:
 
-\(a\) The aeronautical knowledge areas of part 61 of this chapter that apply to student, recreational, private, and commercial pilots and instrument rated pilots;
+\(a\) The aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] that apply to student, recreational, private, and commercial pilots and instrument rated pilots;
 
-\(b\) The aeronautical knowledge areas of part 61 of this chapter that apply to ground instructors;
+\(b\) The aeronautical knowledge areas of [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] that apply to ground instructors;
 
 \(c\) Safe piloting operating practices and procedures, including airport operations and operating in the National Airspace System; and
 
 \(d\) Applicable provisions of parts 61 and 91 of this chapter that apply to pilots and ground instructors.
 
-13\. Airline transport pilot certification training program. An approved airline transport pilot certification training program must include the academic and FSTD training set forth in §61.156 of this chapter. The FAA will not approve a course with fewer hours than those prescribed in §61.156 of this chapter.
+13\. Airline transport pilot certification training program. An approved airline transport pilot certification training program must include the academic and FSTD training set forth in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] of this chapter. The FAA will not approve a course with fewer hours than those prescribed in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.156   Training requirements: Airplane category—multiengine class rating or airplane type rating concurrently with airline transport pilot certificate.|§61.156]] of this chapter.
 
 \[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40910, July 30, 1997, as amended by Amdt. 141-17, 78 FR 42380, July 15, 2013; Amdt. 141-17A, 78 FR 53026, Aug. 28, 2013; Docket FAA-2015-1846, Amdt. 141-18, 81 FR 21462, Apr. 12, 2016\]
 
@@ -3394,7 +3394,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) *For an airplane single engine course:* 70 hours of flight training from an authorized instructor on the approved areas of operation in paragraph (d)(1) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a single engine airplane.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a single engine airplane.
 
 \(ii\) 3 hours of night flight training in a single-engine airplane that includes—
 
@@ -3414,7 +3414,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(2\) *For an airplane multiengine course:* 70 hours of training from an authorized instructor on the approved areas of operation in paragraph (d)(2) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a multiengine airplane.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a multiengine airplane.
 
 \(ii\) 3 hours of night flight training in a multiengine airplane that includes—
 
@@ -3434,7 +3434,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(3\) *For a rotorcraft helicopter course:* 70 hours of training from an authorized instructor on the approved areas of operation in paragraph (d)(3) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a helicopter.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a helicopter.
 
 \(ii\) 3 hours of night flight training in a helicopter that includes—
 
@@ -3454,7 +3454,7 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(4\) *For a powered-lift course:* 70 hours of training from an authorized instructor on the approved areas of operation in paragraph (d)(4) of this section that includes at least—
 
-\(i\) Except as provided in §61.111 of this chapter, 3 hours of cross-country flight training in a powered-lift.
+\(i\) Except as provided in [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md#§61.111   Cross-country flights: Pilots based on small islands.|§61.111]] of this chapter, 3 hours of cross-country flight training in a powered-lift.
 
 \(ii\) 3 hours of night flight training in a powered-lift that includes—
 
@@ -3476,11 +3476,11 @@ The holder of a pilot school certificate or provisional pilot school certificate
 
 \(1\) The course may include training in a combination of full flight simulators, flight training devices, and aviation training devices, provided it is representative of the aircraft for which the course is approved, meets the requirements of this section, and the training is given by an authorized instructor.
 
-\(2\) Training in a full flight simulator that meets the requirements of §141.41(a) may be credited for a maximum of 35 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(2\) Training in a full flight simulator that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) may be credited for a maximum of 35 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(3\) Training in a flight training device that meets the requirements of §141.41(a) or an aviation training device that meets the requirements of §141.41(b) may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
+\(3\) Training in a flight training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](a) or an aviation training device that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](b) may be credited for a maximum of 25 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less.
 
-\(4\) Training in a combination of flight simulators, flight training devices, or aviation training devices, described in paragraphs (c)(2) and (3) of this section, may be credited for a maximum of 35 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device and aviation training device, that meets the requirements of §141.41(b), cannot exceed the limitation provided for in paragraph (c)(3) of this section.
+\(4\) Training in a combination of flight simulators, flight training devices, or aviation training devices, described in paragraphs (c)(2) and (3) of this section, may be credited for a maximum of 35 percent of the total flight training hour requirements of the approved course, or of this section, whichever is less. However, credit for training in a flight training device and aviation training device, that meets the requirements of [[Volume 3/H Schools and other certificated agencies/0141 Pilot schools.md#§141.41   Full flight simulators, flight training devices, aviation training devices, and training aids.|§141.41]](b), cannot exceed the limitation provided for in paragraph (c)(3) of this section.
 
 \(d\) Each approved course must include the flight training on the approved areas of operation listed in this section that are appropriate to the aircraft category and class rating course—
 

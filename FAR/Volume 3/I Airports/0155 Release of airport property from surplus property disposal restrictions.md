@@ -10,7 +10,7 @@ This part applies to releases from terms, conditions, reservations, or restricti
 
 ### §155.3   Applicable law.
 
-\(a\) Section 4 of the Act of October 1, 1949 (63 Stat. 700) authorizes the Administrator to grant the releases described in §155.1, if he determines that—
+\(a\) Section 4 of the Act of October 1, 1949 (63 Stat. 700) authorizes the Administrator to grant the releases described in [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.1   Applicability.|§155.1]], if he determines that—
 
 \(1\) The property to which the release relates no longer serves the purpose for which it was made subject to the terms, conditions, reservations, or restrictions concerned; or
 
@@ -24,7 +24,7 @@ This part applies to releases from terms, conditions, reservations, or restricti
 
 This part applies to—
 
-\(a\) Any real or personal property that is subject to the terms, conditions, reservations, or restrictions in an instrument of disposal described in §155.1; and
+\(a\) Any real or personal property that is subject to the terms, conditions, reservations, or restrictions in an instrument of disposal described in [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.1   Applicability.|§155.1]]; and
 
 \(b\) Any release from a term, condition, reservation, or restriction in such an instrument, including a release of—
 
@@ -40,11 +40,11 @@ This part applies to—
 
 ### §155.7   General policies.
 
-\(a\) Upon a request under §155.11, the Administrator issues any instrument that is necessary to remove, of record, any restriction against the use of property for industrial purposes that is in an instrument of disposal covered by this part.
+\(a\) Upon a request under [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.11   Form and content of requests for release.|§155.11]], the Administrator issues any instrument that is necessary to remove, of record, any restriction against the use of property for industrial purposes that is in an instrument of disposal covered by this part.
 
 \(b\) The Administrator does not issue a release under this part if it would allow the sale of the property concerned to a third party, unless the public agency concerned has obligated itself to use the proceeds from the sale exclusively for developing, improving, operating, or maintaining a public airport.
 
-\(c\) Except for a release from a restriction against using property for industrial purposes, the Administrator does not issue a release under this part unless it is justified under §155.3(a) (1) or (2).
+\(c\) Except for a release from a restriction against using property for industrial purposes, the Administrator does not issue a release under this part unless it is justified under [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.3   Applicable law.|§155.3]](a) (1) or (2).
 
 \(d\) The Administrator may issue a release from the terms, conditions, reservations, or restrictions of an instrument of disposal subject to any other terms or conditions that he considers necessary to protect or advance the interests of the United States in civil aviation. Such a term or condition, including one regarding the use of proceeds from the sale of property, is imposed as a personal covenant or obligation of the public agency concerned rather than as a term or condition to the release or as a covenant running with the land, unless the Administrator determines that the purpose of the term or condition would be better achieved as a condition or covenant running with the land.
 
@@ -80,9 +80,9 @@ This part applies to—
 
 \(6\) The purpose of the release.
 
-\(7\) A statement of the circumstances justifying the release on the basis set forth in §155.3(a) (1) or (2) with supporting documents.
+\(7\) A statement of the circumstances justifying the release on the basis set forth in [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.3   Applicable law.|§155.3]](a) (1) or (2) with supporting documents.
 
-\(8\) Maps, photographs, plans, or similar material of the airport and the property concerned that are appropriate to determining whether the release is justified under §155.9.
+\(8\) Maps, photographs, plans, or similar material of the airport and the property concerned that are appropriate to determining whether the release is justified under [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.9   Release from war or national emergency restrictions.|§155.9]].
 
 \(9\) The proposed use or disposition of the property, including the terms and conditions of any proposed sale or lease and the status of negotiations therefor.
 
@@ -96,7 +96,7 @@ This part applies to—
 
 ### §155.13   Determinations by FAA.
 
-\(a\) An FAA office that receives a request for a release under this part, and supporting documents therefore, examines it to determine whether the request meets the requirements of the Act of October 1, 1949 (63 Stat. 700) so far as it concerns the interests of the United States in civil aviation and whether it might prejudice the needs and interests of the armed forces. Upon a determination that the release might prejudice those needs and interests, the Department of Defense is consulted as provided in §155.9(b).
+\(a\) An FAA office that receives a request for a release under this part, and supporting documents therefore, examines it to determine whether the request meets the requirements of the Act of October 1, 1949 (63 Stat. 700) so far as it concerns the interests of the United States in civil aviation and whether it might prejudice the needs and interests of the armed forces. Upon a determination that the release might prejudice those needs and interests, the Department of Defense is consulted as provided in [[Volume 3/I Airports/0155 Release of airport property from surplus property disposal restrictions.md#§155.9   Release from war or national emergency restrictions.|§155.9]](b).
 
 \(b\) Upon completing the review, and receiving the advice of the Department of Defense if the case was referred to it, the FAA advises the airport owner as to whether the release or a modification of it, may be granted. If the release, or a modification of it acceptable to the owner, is granted, the FAA prepares the necessary instruments and delivers them to the airport owner.
 

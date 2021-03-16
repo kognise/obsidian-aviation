@@ -16,7 +16,7 @@ Note: For miscellaneous amendments to cross references in this Part 33, see Amdt
 
 \(a\) This part prescribes airworthiness standards for the issue of type certificates and changes to those certificates, for aircraft engines.
 
-\(b\) Each person who applies under part 21 for such a certificate or change must show compliance with the applicable requirements of this part and the applicable requirements of part 34 of this chapter.
+\(b\) Each person who applies under part 21 for such a certificate or change must show compliance with the applicable requirements of this part and the applicable requirements of [[Volume 1/C Aircraft/0034 Fuel venting and exhaust emission requirements for turbine engine powered airplanes.md|part 34 of this chapter]].
 
 \[Amdt. 33-7, 41 FR 55474, Dec. 20, 1976, as amended by Amdt. 33-14, 55 FR 32861, Aug. 10, 1990\]
 
@@ -62,13 +62,13 @@ Each applicant must prepare and make available to the Administrator prior to the
 
 \(5\) A description of the primary and all alternate modes, and any back-up system, together with any associated limitations, of the engine control system and its interface with the aircraft systems, including the propeller when applicable.
 
-\(c\) *Safety analysis assumptions.* The assumptions of the safety analysis as described in §33.75(d) with respect to the reliability of safety devices, instrumentation, early warning devices, maintenance checks, and similar equipment or procedures that are outside the control of the engine manufacturer.
+\(c\) *Safety analysis assumptions.* The assumptions of the safety analysis as described in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.75   Safety analysis.|§33.75]](d) with respect to the reliability of safety devices, instrumentation, early warning devices, maintenance checks, and similar equipment or procedures that are outside the control of the engine manufacturer.
 
 \[Amdt. 33-6, 39 FR 35463, Oct. 1, 1974, as amended by Amdt. 33-9, 45 FR 60181, Sept. 11, 1980; Amdt. 33-24, 47 FR 50867, Sept. 4, 2007; Amdt. 33-25, 73 FR 48123, Aug. 18, 2008; Amdt. 33-26, 73 FR 48284, Aug. 19, 2008\]
 
 ### §33.7   Engine ratings and operating limitations.
 
-\(a\) Engine ratings and operating limitations are established by the Administrator and included in the engine certificate data sheet specified in §21.41 of this chapter, including ratings and limitations based on the operating conditions and information specified in this section, as applicable, and any other information found necessary for safe operation of the engine.
+\(a\) Engine ratings and operating limitations are established by the Administrator and included in the engine certificate data sheet specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.41   Type certificate.|§21.41]] of this chapter, including ratings and limitations based on the operating conditions and information specified in this section, as applicable, and any other information found necessary for safe operation of the engine.
 
 \(b\) For reciprocating engines, ratings and operating limitations are established relating to the following:
 
@@ -178,7 +178,7 @@ Each applicant must prepare and make available to the Administrator prior to the
 
 \(18\) For engines to be used in supersonic aircraft, engine rotor windmilling rotational r.p.m.
 
-\(d\) In determining the engine performance and operating limitations, the overall limits of accuracy of the engine control system and of the necessary instrumentation as defined in §33.5(a)(6) must be taken into account.
+\(d\) In determining the engine performance and operating limitations, the overall limits of accuracy of the engine control system and of the necessary instrumentation as defined in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]](a)(6) must be taken into account.
 
 \[Amdt. 33-6, 39 FR 35463, Oct. 1, 1974, as amended by Amdt. 33-10, 49 FR 6850, Feb. 23, 1984; Amdt. 33-11, 51 FR 10346, Mar. 25, 1986; Amdt. 33-12, 53 FR 34220, Sept. 2, 1988; Amdt. 33-18, 61 FR 31328, June 19, 1996; Amdt. 33-26, 73 FR 48284, Aug. 19, 2008; Amdt. 33-30, 74 FR 45310, Sept. 2, 2009\]
 
@@ -238,7 +238,7 @@ The suitability and durability of materials used in the engine must—
 
 \(a\) Engine design and construction must minimize the development of an unsafe condition of the engine between overhaul periods. The design of the compressor and turbine rotor cases must provide for the containment of damage from rotor blade failure. Energy levels and trajectories of fragments resulting from rotor blade failure that lie outside the compressor and turbine rotor cases must be defined.
 
-\(b\) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of §§35.21, 35.23, 35.42 and 35.43 of this chapter.
+\(b\) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of §[[Volume 1/C Aircraft/0035 Airworthiness standards  propellers.md#§35.21   Variable and reversible pitch propellers.|§35.21]], 35.23, 35.42 and 35.43 of this chapter.
 
 \[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-9, 45 FR 60181, Sept. 11, 1980; Amdt. 33-10, 49 FR 6851, Feb. 23, 1984; Amdt. 33-28, 73 FR 63346, Oct. 24, 2008\]
 
@@ -296,23 +296,23 @@ The engine must operate properly with the accessory drive and mounting attachmen
 
 \(ii\) Release high-energy debris through the engine casing or result in a hazardous failure of the engine casing,
 
-\(iii\) Generate loads greater than those ultimate loads specified in §33.23(a), or
+\(iii\) Generate loads greater than those ultimate loads specified in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.23   Engine mounting attachments and structure.|§33.23]](a), or
 
 \(iv\) Lose the capability of being shut down.
 
 \(2\) Following an overspeed event and after continued operation, the rotor may not exhibit conditions such as cracking or distortion which preclude continued safe operation.
 
-\(e\) The design and functioning of engine control systems, instruments, and other methods not covered under §33.28 must ensure that the engine operating limitations that affect turbine, compressor, fan, and turbosupercharger rotor structural integrity will not be exceeded in service.
+\(e\) The design and functioning of engine control systems, instruments, and other methods not covered under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.28   Engine control systems.|§33.28]] must ensure that the engine operating limitations that affect turbine, compressor, fan, and turbosupercharger rotor structural integrity will not be exceeded in service.
 
 \(f\) Failure of a shaft section may be excluded from consideration in determining the highest overspeed that would result from a complete loss of load on a turbine rotor if the applicant:
 
-\(1\) Identifies the shaft as an engine life-limited-part and complies with §33.70.
+\(1\) Identifies the shaft as an engine life-limited-part and complies with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.70   Engine life-limited parts.|§33.70]].
 
 \(2\) Uses material and design features that are well understood and that can be analyzed by well-established and validated stress analysis techniques.
 
 \(3\) Determines, based on an assessment of the environment surrounding the shaft section, that environmental influences are unlikely to cause a shaft failure. This assessment must include complexity of design, corrosion, wear, vibration, fire, contact with adjacent components or structure, overheating, and secondary effects from other failures or combination of failures.
 
-\(4\) Identifies and declares, in accordance with §33.5, any assumptions regarding the engine installation in making the assessment described above in paragraph (f)(3) of this section.
+\(4\) Identifies and declares, in accordance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]], any assumptions regarding the engine installation in making the assessment described above in paragraph (f)(3) of this section.
 
 \(5\) Assesses, and considers as appropriate, experience with shaft sections of similar design.
 
@@ -330,13 +330,13 @@ The engine must operate properly with the accessory drive and mounting attachmen
 
 \(i\) Enables selected values of relevant control parameters to be maintained and the engine kept within the approved operating limits over changing atmospheric conditions in the declared flight envelope;
 
-\(ii\) Complies with the operability requirements of §§33.51, 33.65 and 33.73, as appropriate, under all likely system inputs and allowable engine power or thrust demands, unless it can be demonstrated that failure of the control function results in a non-dispatchable condition in the intended application;
+\(ii\) Complies with the operability requirements of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.51   Operation test.|§33.51]], 33.65 and 33.73, as appropriate, under all likely system inputs and allowable engine power or thrust demands, unless it can be demonstrated that failure of the control function results in a non-dispatchable condition in the intended application;
 
 \(iii\) Allows modulation of engine power or thrust with adequate sensitivity over the declared range of engine operating conditions; and
 
 \(iv\) Does not create unacceptable power or thrust oscillations.
 
-\(2\) *Environmental limits.* The applicant must demonstrate, when complying with §§33.53 or 33.91, that the engine control system functionality will not be adversely affected by declared environmental conditions, including electromagnetic interference (EMI), High Intensity Radiated Fields (HIRF), and lightning. The limits to which the system has been qualified must be documented in the engine installation instructions.
+\(2\) *Environmental limits.* The applicant must demonstrate, when complying with §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.53   Engine system and component tests.|§33.53]] or 33.91, that the engine control system functionality will not be adversely affected by declared environmental conditions, including electromagnetic interference (EMI), High Intensity Radiated Fields (HIRF), and lightning. The limits to which the system has been qualified must be documented in the engine installation instructions.
 
 \(c\) *Control transitions.* (1) The applicant must demonstrate that, when fault or failure results in a change from one control mode to another, from one channel to another, or from the primary system to the back-up system, the change occurs so that:
 
@@ -358,7 +358,7 @@ The engine must operate properly with the accessory drive and mounting attachmen
 
 \(4\) Foreseeable failures or malfunctions leading to local events in the intended aircraft installation, such as fire, overheat, or failures leading to damage to engine control system components, do not result in a hazardous engine effect due to engine control system failures or malfunctions.
 
-\(e\) S*ystem safety assessment.* When complying with this section and §33.75, the applicant must complete a System Safety Assessment for the engine control system. This assessment must identify faults or failures that result in a change in thrust or power, transmission of erroneous data, or an effect on engine operability producing a surge or stall together with the predicted frequency of occurrence of these faults or failures.
+\(e\) S*ystem safety assessment.* When complying with this section and [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.75   Safety analysis.|§33.75]], the applicant must complete a System Safety Assessment for the engine control system. This assessment must identify faults or failures that result in a change in thrust or power, transmission of erroneous data, or an effect on engine operability producing a surge or stall together with the predicted frequency of occurrence of these faults or failures.
 
 \(f\) *Protection systems.* (1) The design and functioning of engine control devices and systems, together with engine instruments and operating and maintenance instructions, must provide reasonable assurance that those engine operating limitations that affect turbine, compressor, fan, and turbosupercharger rotor structural integrity will not be exceeded in service.
 
@@ -416,7 +416,7 @@ The engine must operate properly with the accessory drive and mounting attachmen
 
 \(e\) The applicant must make provision for the installation of instrumentation necessary to ensure operation in compliance with engine operating limitations. Where, in presenting the safety analysis, or complying with any other requirement, dependence is placed on instrumentation that is not otherwise mandatory in the assumed aircraft installation, then the applicant must specify this instrumentation in the engine installation instructions and declare it mandatory in the engine approval documentation.
 
-\(f\) As part of the System Safety Assessment of §33.28(e), the applicant must assess the possibility and subsequent effect of incorrect fit of instruments, sensors, or connectors. Where necessary, the applicant must take design precautions to prevent incorrect configuration of the system.
+\(f\) As part of the System Safety Assessment of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.28   Engine control systems.|§33.28]](e), the applicant must assess the possibility and subsequent effect of incorrect fit of instruments, sensors, or connectors. Where necessary, the applicant must take design precautions to prevent incorrect configuration of the system.
 
 \(g\) The sensors, together with associated wiring and signal conditioning, must be segregated, electrically and physically, to the extent necessary to ensure that the probability of a fault propagating from instrumentation and monitoring functions to control functions, or vice versa, is consistent with the failure effect of the fault.
 
@@ -498,7 +498,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 ### §33.45   Calibration tests.
 
-\(a\) Each engine must be subjected to the calibration tests necessary to establish its power characteristics and the conditions for the endurance test specified in §33.49. The results of the power characteristics calibration tests form the basis for establishing the characteristics of the engine over its entire operating range of crankshaft rotational speeds, manifold pressures, fuel/air mixture settings, and altitudes. Power ratings are based upon standard atmospheric conditions with only those accessories installed which are essential for engine functioning.
+\(a\) Each engine must be subjected to the calibration tests necessary to establish its power characteristics and the conditions for the endurance test specified in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.49   Endurance test.|§33.49]]. The results of the power characteristics calibration tests form the basis for establishing the characteristics of the engine over its entire operating range of crankshaft rotational speeds, manifold pressures, fuel/air mixture settings, and altitudes. Power ratings are based upon standard atmospheric conditions with only those accessories installed which are essential for engine functioning.
 
 \(b\) A power check at sea level conditions must be accomplished on the endurance test engine after the endurance test. Any change in power characteristics which occurs during the endurance test must be determined. Measurements taken during the final portion of the endurance test may be used in showing compliance with the requirements of this paragraph.
 
@@ -550,7 +550,7 @@ Each engine must be tested to establish that the engine can function without det
 
 \(10\) A 5-hour run in the lower gear ratio at maximum best economy cruising power and speed or at maximum recommended cruising power and speed.
 
-\(d\) *Helicopter engines.* To be eligible for use on a helicopter each engine must either comply with paragraphs (a) through (j) of §29.923 of this chapter, or must undergo the following series of runs:
+\(d\) *Helicopter engines.* To be eligible for use on a helicopter each engine must either comply with paragraphs (a) through (j) of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.923   Rotor drive system and control mechanism tests.|§29.923]] of this chapter, or must undergo the following series of runs:
 
 \(1\) A 35-hour run consisting of alternate periods of 30 minutes each at rated takeoff power with takeoff speed, and at rated maximum continuous power with maximum continuous speed.
 
@@ -598,7 +598,7 @@ The operation test must include the testing found necessary by the Administrator
 
 ### §33.53   Engine system and component tests.
 
-\(a\) For those systems and components that cannot be adequately substantiated in accordance with endurance testing of §33.49, the applicant must conduct additional tests to demonstrate that systems or components are able to perform the intended functions in all declared environmental and operating conditions.
+\(a\) For those systems and components that cannot be adequately substantiated in accordance with endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.49   Endurance test.|§33.49]], the applicant must conduct additional tests to demonstrate that systems or components are able to perform the intended functions in all declared environmental and operating conditions.
 
 \(b\) Temperature limits must be established for each component that requires temperature controlling provisions in the aircraft installation to assure satisfactory functioning, reliability, and durability.
 
@@ -612,7 +612,7 @@ After completing the endurance test—
 
 \(b\) Each component having an adjustment setting and a functioning characteristic that can be established independent of installation on the engine must retain each setting and functioning characteristic within the limits that were established and recorded at the beginning of the test; and
 
-\(c\) Each engine component must conform to the type design and be eligible for incorporation into an engine for continued operation, in accordance with information submitted in compliance with §33.4.
+\(c\) Each engine component must conform to the type design and be eligible for incorporation into an engine for continued operation, in accordance with information submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]].
 
 \[Amdt. 33-6, 39 FR 35466, Oct. 1, 1974, as amended by Amdt. 33-9, 45 FR 60181, Sept. 11, 1980\]
 
@@ -620,7 +620,7 @@ After completing the endurance test—
 
 \(a\) The applicant may, in conducting the block tests, use separate engines of identical design and construction in the vibration, calibration, detonation, endurance, and operation tests, except that, if a separate engine is used for the endurance test it must be subjected to a calibration check before starting the endurance test.
 
-\(b\) The applicant may service and make minor repairs to the engine during the block tests in accordance with the service and maintenance instructions submitted in compliance with §33.4. If the frequency of the service is excessive, or the number of stops due to engine malfunction is excessive, or a major repair, or replacement of a part is found necessary during the block tests or as the result of findings from the teardown inspection, the engine or its parts may be subjected to any additional test the Administrator finds necessary.
+\(b\) The applicant may service and make minor repairs to the engine during the block tests in accordance with the service and maintenance instructions submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]]. If the frequency of the service is excessive, or the number of stops due to engine malfunction is excessive, or a major repair, or replacement of a part is found necessary during the block tests or as the result of findings from the teardown inspection, the engine or its parts may be subjected to any additional test the Administrator finds necessary.
 
 \(c\) Each applicant must furnish all testing facilities, including equipment and competent personnel, to conduct the block tests.
 
@@ -678,13 +678,13 @@ Each engine must be designed and constructed to function throughout its declared
 
 ### §33.65   Surge and stall characteristics.
 
-When the engine is operated in accordance with operating instructions required by §33.5(b), starting, a change of power or thrust, power or thrust augmentation, limiting inlet air distortion, or inlet air temperature may not cause surge or stall to the extent that flameout, structural failure, overtemperature, or failure of the engine to recover power or thrust will occur at any point in the operating envelope.
+When the engine is operated in accordance with operating instructions required by [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]](b), starting, a change of power or thrust, power or thrust augmentation, limiting inlet air distortion, or inlet air temperature may not cause surge or stall to the extent that flameout, structural failure, overtemperature, or failure of the engine to recover power or thrust will occur at any point in the operating envelope.
 
 \[Amdt. 33-6, 39 FR 35466, Oct. 1, 1974\]
 
 ### §33.66   Bleed air system.
 
-The engine must supply bleed air without adverse effect on the engine, excluding reduced thrust or power output, at all conditions up to the discharge flow conditions established as a limitation under §33.7(c)(11). If bleed air used for engine anti-icing can be controlled, provision must be made for a means to indicate the functioning of the engine ice protection system.
+The engine must supply bleed air without adverse effect on the engine, excluding reduced thrust or power output, at all conditions up to the discharge flow conditions established as a limitation under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.7   Engine ratings and operating limitations.|§33.7]](c)(11). If bleed air used for engine anti-icing can be controlled, provision must be made for a means to indicate the functioning of the engine ice protection system.
 
 \[Amdt. 33-10, 49 FR 6851, Feb. 23, 1984\]
 
@@ -722,7 +722,7 @@ The engine must supply bleed air without adverse effect on the engine, excluding
 
 Each engine, with all icing protection systems operating, must:
 
-\(a\) Operate throughout its flight power range, including the minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of part 25 of this chapter, and Appendix D of this part, and for turboshaft engines in Appendix C of part 29 of this chapter, without the accumulation of ice on the engine components that:
+\(a\) Operate throughout its flight power range, including the minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], and Appendix D of this part, and for turboshaft engines in Appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]], without the accumulation of ice on the engine components that:
 
 \(1\) Adversely affects engine operation or that causes an unacceptable permanent loss of power or thrust or unacceptable increase in engine operating temperature; or
 
@@ -730,19 +730,19 @@ Each engine, with all icing protection systems operating, must:
 
 \(3\) Causes a stall, surge, or flameout or loss of engine controllability. The applicant must account for in-flight ram effects in any critical point analysis or test demonstration of these flight conditions.
 
-\(b\) Operate throughout its flight power range, including minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of part 25 of this chapter, and for turboshaft engines in Appendix C of part 29 of this chapter. In addition:
+\(b\) Operate throughout its flight power range, including minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], and for turboshaft engines in Appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]]. In addition:
 
 \(1\) It must be shown through Critical Point Analysis (CPA) that the complete ice envelope has been analyzed, and that the most critical points must be demonstrated by engine test, analysis, or a combination of the two to operate acceptably. Extended flight in critical flight conditions such as hold, descent, approach, climb, and cruise, must be addressed, for the ice conditions defined in these appendices.
 
 \(2\) It must be shown by engine test, analysis, or a combination of the two that the engine can operate acceptably for the following durations:
 
-\(i\) At engine powers that can sustain level flight: A duration that achieves repetitive, stabilized operation for turbojet, turbofan, and turboprop engines in the icing conditions defined in Appendices C and O of part 25 of this chapter, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter.
+\(i\) At engine powers that can sustain level flight: A duration that achieves repetitive, stabilized operation for turbojet, turbofan, and turboprop engines in the icing conditions defined in Appendices C and O of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]], and for turboshaft engines in the icing conditions defined in Appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]].
 
 \(ii\) At engine power below that which can sustain level flight:
 
-\(A\) Demonstration in altitude flight simulation test facility: A duration of 10 minutes consistent with a simulated flight descent of 10,000 ft (3 km) in altitude while operating in Continuous Maximum icing conditions defined in Appendix C of part 25 of this chapter for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter, plus 40 percent liquid water content margin, at the critical level of airspeed and air temperature; or
+\(A\) Demonstration in altitude flight simulation test facility: A duration of 10 minutes consistent with a simulated flight descent of 10,000 ft (3 km) in altitude while operating in Continuous Maximum icing conditions defined in Appendix C of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]], plus 40 percent liquid water content margin, at the critical level of airspeed and air temperature; or
 
-\(B\) Demonstration in ground test facility: A duration of 3 cycles of alternating icing exposure corresponding to the liquid water content levels and standard cloud lengths starting in Intermittent Maximum and then in Continuous Maximum icing conditions defined in Appendix C of part 25 of this chapter for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter, at the critical level of air temperature.
+\(B\) Demonstration in ground test facility: A duration of 3 cycles of alternating icing exposure corresponding to the liquid water content levels and standard cloud lengths starting in Intermittent Maximum and then in Continuous Maximum icing conditions defined in Appendix C of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md|part 29 of this chapter]], at the critical level of air temperature.
 
 \(c\) In addition to complying with paragraph (b) of this section, the following conditions shown in Table 1 of this section unless replaced by similar CPA test conditions that are more critical or produce an equivalent level of severity, must be demonstrated by an engine test:
 
@@ -798,9 +798,9 @@ Each engine must be equipped with an ignition system for starting the engine on 
 
 ### §33.70   Engine life-limited parts.
 
-By a procedure approved by the FAA, operating limitations must be established which specify the maximum allowable number of flight cycles for each engine life-limited part. Engine life-limited parts are rotor and major static structural parts whose primary failure is likely to result in a hazardous engine effect. Typically, engine life-limited parts include, but are not limited to disks, spacers, hubs, shafts, high-pressure casings, and non-redundant mount components. For the purposes of this section, a hazardous engine effect is any of the conditions listed in §33.75 of this part. The applicant will establish the integrity of each engine life-limited part by:
+By a procedure approved by the FAA, operating limitations must be established which specify the maximum allowable number of flight cycles for each engine life-limited part. Engine life-limited parts are rotor and major static structural parts whose primary failure is likely to result in a hazardous engine effect. Typically, engine life-limited parts include, but are not limited to disks, spacers, hubs, shafts, high-pressure casings, and non-redundant mount components. For the purposes of this section, a hazardous engine effect is any of the conditions listed in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.75   Safety analysis.|§33.75]] of this part. The applicant will establish the integrity of each engine life-limited part by:
 
-\(a\) An engineering plan that contains the steps required to ensure each engine life-limited part is withdrawn from service at an approved life before hazardous engine effects can occur. These steps include validated analysis, test, or service experience which ensures that the combination of loads, material properties, environmental influences and operating conditions, including the effects of other engine parts influencing these parameters, are sufficiently well known and predictable so that the operating limitations can be established and maintained for each engine life-limited part. Applicants must perform appropriate damage tolerance assessments to address the potential for failure from material, manufacturing, and service induced anomalies within the approved life of the part. Applicants must publish a list of the life-limited engine parts and the approved life for each part in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness as required by §33.4 of this part.
+\(a\) An engineering plan that contains the steps required to ensure each engine life-limited part is withdrawn from service at an approved life before hazardous engine effects can occur. These steps include validated analysis, test, or service experience which ensures that the combination of loads, material properties, environmental influences and operating conditions, including the effects of other engine parts influencing these parameters, are sufficiently well known and predictable so that the operating limitations can be established and maintained for each engine life-limited part. Applicants must perform appropriate damage tolerance assessments to address the potential for failure from material, manufacturing, and service induced anomalies within the approved life of the part. Applicants must publish a list of the life-limited engine parts and the approved life for each part in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness as required by [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]] of this part.
 
 \(b\) A manufacturing plan that identifies the specific manufacturing constraints necessary to consistently produce each engine life-limited part with the attributes required by the engineering plan.
 
@@ -844,7 +844,7 @@ By a procedure approved by the FAA, operating limitations must be established wh
 
 \(8\) There must be a shutoff valve at the outlet of each oil tank, unless the external portion of the oil system (including oil tank supports) is fireproof.
 
-\(9\) Each unpressurized oil tank may not leak when subjected to a maximum operating temperature and an internal pressure of 5 p.s.i., and each pressurized oil tank must meet the requirements of §33.64.
+\(9\) Each unpressurized oil tank may not leak when subjected to a maximum operating temperature and an internal pressure of 5 p.s.i., and each pressurized oil tank must meet the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.64   Pressurized engine static parts.|§33.64]].
 
 \(10\) Leaked or spilled oil may not accumulate between the tank and the remainder of the engine.
 
@@ -870,7 +870,7 @@ By a procedure approved by the FAA, operating limitations must be established wh
 
 ### §33.72   Hydraulic actuating systems.
 
-Each hydraulic actuating system must function properly under all conditions in which the engine is expected to operate. Each filter or screen must be accessible for servicing and each tank must meet the design criteria of §33.71.
+Each hydraulic actuating system must function properly under all conditions in which the engine is expected to operate. Each filter or screen must be accessible for servicing and each tank must meet the design criteria of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.71   Lubrication system.|§33.71]].
 
 \[Amdt. 33-6, 39 FR 35467, Oct. 1, 1974\]
 
@@ -886,7 +886,7 @@ The design and construction of the engine must enable an increase—
 
 ### §33.74   Continued rotation.
 
-If any of the engine main rotating systems continue to rotate after the engine is shutdown for any reason while in flight, and if means to prevent that continued rotation are not provided, then any continued rotation during the maximum period of flight, and in the flight conditions expected to occur with that engine inoperative, may not result in any condition described in §33.75(g)(2)(i) through (vi) of this part.
+If any of the engine main rotating systems continue to rotate after the engine is shutdown for any reason while in flight, and if means to prevent that continued rotation are not provided, then any continued rotation during the maximum period of flight, and in the flight conditions expected to occur with that engine inoperative, may not result in any condition described in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.75   Safety analysis.|§33.75]](g)(2)(i) through (vi) of this part.
 
 \[Amdt. 33-24, 72 FR 50867, Sept. 4, 2007\]
 
@@ -908,19 +908,19 @@ If any of the engine main rotating systems continue to rotate after the engine i
 
 \(b\) The FAA may require that any assumption as to the effects of failures and likely combination of failures be verified by test.
 
-\(c\) The primary failure of certain single elements cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous engine effects, then compliance may be shown by reliance on the prescribed integrity requirements of §§33.15, 33.27, and 33.70 as applicable. These instances must be stated in the safety analysis.
+\(c\) The primary failure of certain single elements cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous engine effects, then compliance may be shown by reliance on the prescribed integrity requirements of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.15   Materials.|§33.15]], 33.27, and 33.70 as applicable. These instances must be stated in the safety analysis.
 
-\(d\) If reliance is placed on a safety system to prevent a failure from progressing to hazardous engine effects, the possibility of a safety system failure in combination with a basic engine failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of a safety system are outside the control of the engine manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the installation instructions under §33.5 of this part.
+\(d\) If reliance is placed on a safety system to prevent a failure from progressing to hazardous engine effects, the possibility of a safety system failure in combination with a basic engine failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of a safety system are outside the control of the engine manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the installation instructions under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]] of this part.
 
 \(e\) If the safety analysis depends on one or more of the following items, those items must be identified in the analysis and appropriately substantiated.
 
-\(1\) Maintenance actions being carried out at stated intervals. This includes the verification of the serviceability of items that could fail in a latent manner. When necessary to prevent hazardous engine effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under §33.4 of this part. Additionally, if errors in maintenance of the engine, including the control system, could lead to hazardous engine effects, the appropriate procedures must be included in the relevant engine manuals.
+\(1\) Maintenance actions being carried out at stated intervals. This includes the verification of the serviceability of items that could fail in a latent manner. When necessary to prevent hazardous engine effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]] of this part. Additionally, if errors in maintenance of the engine, including the control system, could lead to hazardous engine effects, the appropriate procedures must be included in the relevant engine manuals.
 
 \(2\) Verification of the satisfactory functioning of safety or other devices at pre-flight or other stated periods. The details of this satisfactory functioning must be published in the appropriate manual.
 
 \(3\) The provisions of specific instrumentation not otherwise required.
 
-\(4\) Flight crew actions to be specified in the operating instructions established under §33.5.
+\(4\) Flight crew actions to be specified in the operating instructions established under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]].
 
 \(f\) If applicable, the safety analysis must also include, but not be limited to, investigation of the following:
 
@@ -972,7 +972,7 @@ If any of the engine main rotating systems continue to rotate after the engine i
 
 \(1\) Except as specified in paragraph (d) of this section, all ingestion tests must be conducted with the engine stabilized at no less than 100-percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power.
 
-\(2\) The engine inlet throat area as used in this section to determine the bird quantity and weights will be established by the applicant and identified as a limitation in the installation instructions required under §33.5.
+\(2\) The engine inlet throat area as used in this section to determine the bird quantity and weights will be established by the applicant and identified as a limitation in the installation instructions required under [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]].
 
 \(3\) The impact to the front of the engine from the large single bird, the single largest medium bird which can enter the inlet, and the large flocking bird must be evaluated. Applicants must show that the associated components when struck under the conditions prescribed in paragraphs (b), (c) or (d) of this section, as applicable, will not affect the engine to the extent that the engine cannot comply with the requirements of paragraphs (b)(3), (c)(6) and (d)(4) of this section.
 
@@ -988,15 +988,15 @@ If any of the engine main rotating systems continue to rotate after the engine i
 
 \(2\) Power lever movement is not permitted within 15 seconds following ingestion of the large bird.
 
-\(3\) Ingestion of a single large bird tested under the conditions prescribed in this section may not result in any condition described in §33.75(g)(2) of this part.
+\(3\) Ingestion of a single large bird tested under the conditions prescribed in this section may not result in any condition described in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.75   Safety analysis.|§33.75]](g)(2) of this part.
 
-\(4\) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of §33.94(a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph.
-
-<div>
+\(4\) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.94   Blade containment and rotor unbalance tests.|§33.94]](a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph.
 
 <div>
 
-Table 1 to §33.76—Large Bird Weight Requirements
+<div>
+
+Table 1 to [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.76   Bird ingestion.|§33.76]]—Large Bird Weight Requirements
 
 </div>
 
@@ -1072,7 +1072,7 @@ Table 1 to §33.76—Large Bird Weight Requirements
 
 <div>
 
-Table 2 to §33.76—Medium Flocking Bird Weight and Quantity Requirements
+Table 2 to [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.76   Bird ingestion.|§33.76]]—Medium Flocking Bird Weight and Quantity Requirements
 
 </div>
 
@@ -1089,7 +1089,7 @@ Square-meters (square-inches)</th><th scope="col">Bird quantity</th><th scope="c
 
 <div>
 
-Table 3 to §33.76—Additional Integrity Assessment
+Table 3 to [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.76   Bird ingestion.|§33.76]]—Additional Integrity Assessment
 
 </div>
 
@@ -1150,7 +1150,7 @@ square-meters (square-inches)</th><th scope="col">Bird quantity</th><th scope="c
 
 <div>
 
-Table 4 to §33.76—Large Flocking Bird Mass and Weight
+Table 4 to [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.76   Bird ingestion.|§33.76]]—Large Flocking Bird Mass and Weight
 
 </div>
 
@@ -1296,7 +1296,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(e\) The effects on vibration characteristics of excitation forces caused by fault conditions (such as, but not limited to, out-of balance, local blockage or enlargement of stator vane passages, fuel nozzle blockage, incorrectly schedule compressor variables, etc.) shall be evaluated by test or analysis, or by reference to previous experience and shall be shown not to create a hazardous condition.
 
-\(f\) Compliance with this section shall be substantiated for each specific installation configuration that can affect the vibration characteristics of the engine. If these vibration effects cannot be fully investigated during engine certification, the methods by which they can be evaluated and methods by which compliance can be shown shall be substantiated and defined in the installation instructions required by §33.5.
+\(f\) Compliance with this section shall be substantiated for each specific installation configuration that can affect the vibration characteristics of the engine. If these vibration effects cannot be fully investigated during engine certification, the methods by which they can be evaluated and methods by which compliance can be shown shall be substantiated and defined in the installation instructions required by [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]].
 
 \[Doc. No. 28107, 61 FR 28433, June 4, 1996, as amended by Amdt. 33-33, 77 FR 39624, July 5, 2012; 77 FR 58301, Sept. 20, 2012\]
 
@@ -1304,9 +1304,9 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(a\) If approval of a maximum engine overtorque is sought for an engine incorporating a free power turbine, compliance with this section must be demonstrated by testing.
 
-\(1\) The test may be run as part of the endurance test requirement of §33.87. Alternatively, tests may be performed on a complete engine or equivalent testing on individual groups of components.
+\(1\) The test may be run as part of the endurance test requirement of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]]. Alternatively, tests may be performed on a complete engine or equivalent testing on individual groups of components.
 
-\(2\) Upon conclusion of tests conducted to show compliance with this section, each engine part or individual groups of components must meet the requirements of §33.93(a)(1) and (a)(2).
+\(2\) Upon conclusion of tests conducted to show compliance with this section, each engine part or individual groups of components must meet the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.93   Teardown inspection.|§33.93]](a)(1) and (a)(2).
 
 \(b\) The test conditions must be as follows:
 
@@ -1322,13 +1322,13 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 ### §33.85   Calibration tests.
 
-\(a\) Each engine must be subjected to those calibration tests necessary to establish its power characteristics and the conditions for the endurance test specified §33.87. The results of the power characteristics calibration tests form the basis for establishing the characteristics of the engine over its entire operating range of speeds, pressures, temperatures, and altitudes. Power ratings are based upon standard atmospheric conditions with no airbleed for aircraft services and with only those accessories installed which are essential for engine functioning.
+\(a\) Each engine must be subjected to those calibration tests necessary to establish its power characteristics and the conditions for the endurance test specified [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]]. The results of the power characteristics calibration tests form the basis for establishing the characteristics of the engine over its entire operating range of speeds, pressures, temperatures, and altitudes. Power ratings are based upon standard atmospheric conditions with no airbleed for aircraft services and with only those accessories installed which are essential for engine functioning.
 
 \(b\) A power check at sea level conditions must be accomplished on the endurance test engine after the endurance test and any change in power characteristics which occurs during the endurance test must be determined. Measurements taken during the final portion of the endurance test may be used in showing compliance with the requirements of this paragraph.
 
 \(c\) In showing compliance with this section, each condition must stabilize before measurements are taken, except as permitted by paragraph (d) of this section.
 
-\(d\) In the case of engines having 30-second OEI, and 2-minute OEI ratings, measurements taken during the applicable endurance test prescribed in §33.87(f) (1) through (8) may be used in showing compliance with the requirements of this section for these OEI ratings.
+\(d\) In the case of engines having 30-second OEI, and 2-minute OEI ratings, measurements taken during the applicable endurance test prescribed in [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f) (1) through (8) may be used in showing compliance with the requirements of this section for these OEI ratings.
 
 \[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-6, 39 FR 35468, Oct. 1, 1974; Amdt. 33-18, 61 FR 31328, June 19, 1996\]
 
@@ -1342,7 +1342,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(3\) Except as provided in paragraph (a)(5) of this section, power or thrust, gas temperature, rotor shaft rotational speed, and, if limited, temperature of external surfaces of the engine must be at least 100 percent of the value associated with the particular engine operation being tested. More than one test may be run if all parameters cannot be held at the 100 percent level simultaneously.
 
-\(4\) The runs must be made using fuel, lubricants and hydraulic fluid which conform to the specifications specified in complying with §33.7(c).
+\(4\) The runs must be made using fuel, lubricants and hydraulic fluid which conform to the specifications specified in complying with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.7   Engine ratings and operating limitations.|§33.7]](c).
 
 \(5\) Maximum air bleed for engine and aircraft services must be used during at least one-fifth of the runs, except for the test required under paragraph (f) of this section, provided the validity of the test is not compromised. However, for these runs, the power or thrust or the rotor shaft rotational speed may be less than 100 percent of the value associated with the particular operation being tested if the FAA finds that the validity of the endurance test is not compromised.
 
@@ -1366,7 +1366,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(iii\) During the simulated supersonic runs the fuel temperature and induction air temperature may not be less than the limiting temperature.
 
-\(iv\) The endurance test must be conducted with the fuel burning thrust augmentor installed, with the primary and secondary exhaust nozzles installed, and with the variable area exhaust nozzles operated during each run according to the methods specified in complying with §33.5(b).
+\(iv\) The endurance test must be conducted with the fuel burning thrust augmentor installed, with the primary and secondary exhaust nozzles installed, and with the variable area exhaust nozzles operated during each run according to the methods specified in complying with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]](b).
 
 \(v\) During the runs at thrust settings for maximum continuous thrust and percentages thereof, the engine must be operated with the inlet air distortion at the limit for those thrust settings.
 
@@ -1434,7 +1434,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(2\) The tests required in paragraphs (b)(2) through (b)(6), or (c)(2) through (c)(7), or (d)(2) through (d)(7) of this section, as applicable, except that in one of the 6-hour test sequences, the last 5 minutes of the 30 minutes at takeoff power test period of paragraph (b)(2) of this section, or of the 30 minutes at 30-minute OEI power test period of paragraph (c)(4) of this section, or of the l hour at continuous OEI power test period of paragraph (d)(3) of this section, must be run at 21⁄2 -minute OEI power.
 
-\(f\) *Rotorcraft Engines for which 30-second OEI and 2-minute OEI ratings are desired.* For each rotorcraft engine for which 30-second OEI and 2-minute OEI power ratings are desired, and following completion of the tests under paragraphs (b), (c), (d), or (e) of this section, the applicant may disassemble the tested engine to the extent necessary to show compliance with the requirements of §33.93(a). The tested engine must then be reassembled using the same parts used during the test runs of paragraphs (b), (c), (d), or (e) of this section, except those parts described as consumables in the Instructions for Continued Airworthiness. Additionally, the tests required in paragraphs (f)(1) through (f)(8) of this section must be run continuously. If a stop occurs during these tests, the interrupted sequence must be repeated unless the applicant shows that the severity of the test would not be reduced if it were continued. The applicant must conduct the following test sequence four times, for a total time of not less than 120 minutes:
+\(f\) *Rotorcraft Engines for which 30-second OEI and 2-minute OEI ratings are desired.* For each rotorcraft engine for which 30-second OEI and 2-minute OEI power ratings are desired, and following completion of the tests under paragraphs (b), (c), (d), or (e) of this section, the applicant may disassemble the tested engine to the extent necessary to show compliance with the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.93   Teardown inspection.|§33.93]](a). The tested engine must then be reassembled using the same parts used during the test runs of paragraphs (b), (c), (d), or (e) of this section, except those parts described as consumables in the Instructions for Continued Airworthiness. Additionally, the tests required in paragraphs (f)(1) through (f)(8) of this section must be run continuously. If a stop occurs during these tests, the interrupted sequence must be repeated unless the applicant shows that the severity of the test would not be reduced if it were continued. The applicant must conduct the following test sequence four times, for a total time of not less than 120 minutes:
 
 \(1\) *Takeoff power.* Three minutes at rated takeoff power.
 
@@ -1484,7 +1484,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(a\) Each engine must run for 5 minutes at maximum permissible rpm with the gas temperature at least 75 °F (42 °C) higher than the maximum rating's steady-state operating limit, excluding maximum values of rpm and gas temperature associated with the 30-second OEI and 2-minute OEI ratings. Following this run, the turbine assembly must be within serviceable limits.
 
-\(b\) In addition to the test requirements in paragraph (a) of this section, each engine for which 30-second OEI and 2-minute OEI ratings are desired, that incorporates a means for automatic temperature control within its operating limitations in accordance with §33.28(k), must run for a period of 4 minutes at the maximum power-on rpm with the gas temperature at least 35 °F (19 °C) higher than the maximum operating limit at 30-second OEI rating. Following this run, the turbine assembly may exhibit distress beyond the limits for an overtemperature condition provided the engine is shown by analysis or test, as found necessary by the FAA, to maintain the integrity of the turbine assembly.
+\(b\) In addition to the test requirements in paragraph (a) of this section, each engine for which 30-second OEI and 2-minute OEI ratings are desired, that incorporates a means for automatic temperature control within its operating limitations in accordance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.28   Engine control systems.|§33.28]](k), must run for a period of 4 minutes at the maximum power-on rpm with the gas temperature at least 35 °F (19 °C) higher than the maximum operating limit at 30-second OEI rating. Following this run, the turbine assembly may exhibit distress beyond the limits for an overtemperature condition provided the engine is shown by analysis or test, as found necessary by the FAA, to maintain the integrity of the turbine assembly.
 
 \(c\) A separate test vehicle may be used for each test condition.
 
@@ -1496,7 +1496,7 @@ Before each endurance test required by this subpart, the adjustment setting and 
 
 \(1\) Starting, idling, acceleration, overspeeding, ignition, functioning of the propeller (if the engine is designated to operate with a propeller);
 
-\(2\) Compliance with the engine response requirements of §33.73; and
+\(2\) Compliance with the engine response requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.73   Power or thrust response.|§33.73]]; and
 
 \(3\) The minimum power or thrust response time to 95 percent rated takeoff power or thrust, from power lever positions representative of minimum idle and of minimum flight idle, starting from stabilized idle operation, under the following engine load conditions:
 
@@ -1518,17 +1518,17 @@ Each applicant, except an applicant for an engine being type certificated throug
 
 \(a\) An approved engine test that simulates the conditions in which the engine is expected to operate in service, including typical start-stop cycles.
 
-\(b\) An approved engine test conducted in accordance with §33.201 (c) through (f).
+\(b\) An approved engine test conducted in accordance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.201   Design and test requirements for Early ETOPS eligibility.|§33.201]] (c) through (f).
 
 \[Doc. No. FAA-2002-6717, 72 FR 1877, Jan. 16, 2007\]
 
 ### §33.91   Engine system and component tests.
 
-\(a\) For those systems or components that cannot be adequately substantiated in accordance with endurance testing of §33.87, the applicant must conduct additional tests to demonstrate that the systems or components are able to perform the intended functions in all declared environmental and operating conditions.
+\(a\) For those systems or components that cannot be adequately substantiated in accordance with endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]], the applicant must conduct additional tests to demonstrate that the systems or components are able to perform the intended functions in all declared environmental and operating conditions.
 
 \(b\) Temperature limits must be established for those components that require temperature controlling provisions in the aircraft installation to assure satisfactory functioning, reliability, and durability.
 
-\(c\) Each unpressurized hydraulic fluid tank may not fail or leak when subjected to a maximum operating temperature and an internal pressure of 5 p.s.i., and each pressurized hydraulic fluid tank must meet the requirements of §33.64.
+\(c\) Each unpressurized hydraulic fluid tank may not fail or leak when subjected to a maximum operating temperature and an internal pressure of 5 p.s.i., and each pressurized hydraulic fluid tank must meet the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.64   Pressurized engine static parts.|§33.64]].
 
 \(d\) For an engine type certificated for use in supersonic aircraft, the systems, safety devices, and external components that may fail because of operation at maximum and minimum operating temperatures must be identified and tested at maximum and minimum operating temperatures and while temperature and other operating conditions are cycled between maximum and minimum operating values.
 
@@ -1548,19 +1548,19 @@ If continued rotation is prevented by a means to lock the rotor(s), the engine m
 
 ### §33.93   Teardown inspection.
 
-\(a\) After completing the endurance testing of §33.87 (b), (c), (d), (e), or (g) of this part, each engine must be completely disassembled, and
+\(a\) After completing the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]] (b), (c), (d), (e), or (g) of this part, each engine must be completely disassembled, and
 
 \(1\) Each component having an adjustment setting and a functioning characteristic that can be established independent of installation on the engine must retain each setting and functioning characteristic within the limits that were established and recorded at the beginning of the test; and
 
-\(2\) Each engine part must conform to the type design and be eligible for incorporation into an engine for continued operation, in accordance with information submitted in compliance with §33.4.
+\(2\) Each engine part must conform to the type design and be eligible for incorporation into an engine for continued operation, in accordance with information submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]].
 
-\(b\) After completing the endurance testing of §33.87(f), each engine must be completely disassembled, and
+\(b\) After completing the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f), each engine must be completely disassembled, and
 
 \(1\) Each component having an adjustment setting and a functioning characteristic that can be established independent of installation on the engine must retain each setting and functioning characteristic within the limits that were established and recorded at the beginning of the test; and
 
 \(2\) Each engine may exhibit deterioration in excess of that permitted in paragraph (a)(2) of this section, including some engine parts or components that may be unsuitable for further use. The applicant must show by inspection, analysis, test, or by any combination thereof as found necessary by the FAA, that structural integrity of the engine is maintained; or
 
-\(c\) In lieu of compliance with paragraph (b) of this section, each engine for which the 30-second OEI and 2-minute OEI ratings are desired, may be subjected to the endurance testing of §§33.87 (b), (c), (d), or (e) of this part, and followed by the testing of §33.87(f) without intervening disassembly and inspection. However, the engine must comply with paragraph (a) of this section after completing the endurance testing of §33.87(f).
+\(c\) In lieu of compliance with paragraph (b) of this section, each engine for which the 30-second OEI and 2-minute OEI ratings are desired, may be subjected to the endurance testing of §[[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]] (b), (c), (d), or (e) of this part, and followed by the testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f) without intervening disassembly and inspection. However, the engine must comply with paragraph (a) of this section after completing the endurance testing of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]](f).
 
 \[Doc. No. 26019, 61 FR 31329, June 19, 1996, as amended by Amdt. 33-25, 73 FR 48124, Aug. 18, 2008\]
 
@@ -1598,7 +1598,7 @@ If the engine is designed to operate with a propeller, the following tests must 
 
 ### §33.96   Engine tests in auxiliary power unit (APU) mode.
 
-If the engine is designed with a propeller brake which will allow the propeller to be brought to a stop while the gas generator portion of the engine remains in operation, and remain stopped during operation of the engine as an auxiliary power unit (“APU mode”), in addition to the requirements of §33.87, the applicant must conduct the following tests:
+If the engine is designed with a propeller brake which will allow the propeller to be brought to a stop while the gas generator portion of the engine remains in operation, and remain stopped during operation of the engine as an auxiliary power unit (“APU mode”), in addition to the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]], the applicant must conduct the following tests:
 
 \(a\) Ground locking: A total of 45 hours with the propeller brake engaged in a manner which clearly demonstrates its ability to function without adverse effects on the complete engine while the engine is operating in the APU mode under the maximum conditions of engine speed, torque, temperature, air bleed, and power extraction as specified by the applicant.
 
@@ -1606,9 +1606,9 @@ If the engine is designed with a propeller brake which will allow the propeller 
 
 \(c\) One hundred engine starts and stops with the propeller brake engaged.
 
-\(d\) The tests required by paragraphs (a), (b), and (c) of this section must be performed on the same engine, but this engine need not be the same engine used for the tests required by §33.87.
+\(d\) The tests required by paragraphs (a), (b), and (c) of this section must be performed on the same engine, but this engine need not be the same engine used for the tests required by [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.87   Endurance test.|§33.87]].
 
-\(e\) The tests required by paragraphs (a), (b), and (c) of this section must be followed by engine disassembly to the extent necessary to show compliance with the requirements of §33.93(a) and §33.93(b).
+\(e\) The tests required by paragraphs (a), (b), and (c) of this section must be followed by engine disassembly to the extent necessary to show compliance with the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.93   Teardown inspection.|§33.93]](a) and [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.93   Teardown inspection.|§33.93]](b).
 
 \[Amdt. 33-11, 51 FR 10346, Mar. 25, 1986\]
 
@@ -1624,7 +1624,7 @@ If the engine is designed with a propeller brake which will allow the propeller 
 
 \(a\) Each applicant may, in making a block test, use separate engines of identical design and construction in the vibration, calibration, endurance, and operation tests, except that, if a separate engine is used for the endurance test it must be subjected to a calibration check before starting the endurance test.
 
-\(b\) Each applicant may service and make minor repairs to the engine during the block tests in accordance with the service and maintenance instructions submitted in compliance with §33.4. If the frequency of the service is excessive, or the number of stops due to engine malfunction is excessive, or a major repair, or replacement of a part is found necessary during the block tests or as the result of findings from the teardown inspection, the engine or its parts must be subjected to any additional tests the Administrator finds necessary.
+\(b\) Each applicant may service and make minor repairs to the engine during the block tests in accordance with the service and maintenance instructions submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]]. If the frequency of the service is excessive, or the number of stops due to engine malfunction is excessive, or a major repair, or replacement of a part is found necessary during the block tests or as the result of findings from the teardown inspection, the engine or its parts must be subjected to any additional tests the Administrator finds necessary.
 
 \(c\) Each applicant must furnish all testing facilities, including equipment and competent personnel, to conduct the block tests.
 
@@ -1650,7 +1650,7 @@ An applicant seeking type design approval for an engine to be installed on a two
 
 \(4\) Include a minimum of 300,000 vibration cycles for each 60 rpm incremental step of the high-speed rotor approved operational speed range between minimum flight idle and cruise power not covered by paragraph (c)(3) of this section. The test may be conducted using any rotor speed step increment from 60 to 200 rpm provided the test encompasses the applicable speed range. For incremental steps greater than 60 rpm the minimum number of vibration cycles must be linearly increased up to 1 million for a 200 rpm incremental step.
 
-\(5\) Include vibration surveys at periodic intervals throughout the test. The equivalent value of the peak vibration level observed during the surveys must meet the minimum vibration requirement of §33.201(c)(2).
+\(5\) Include vibration surveys at periodic intervals throughout the test. The equivalent value of the peak vibration level observed during the surveys must meet the minimum vibration requirement of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.201   Design and test requirements for Early ETOPS eligibility.|§33.201]](c)(2).
 
 \(d\) Prior to the test required by paragraph (c) of this section, the engine must be subjected to a calibration test to document power and thrust characteristics.
 
@@ -1658,11 +1658,11 @@ An applicant seeking type design approval for an engine to be installed on a two
 
 \(1\) Be subjected to a calibration test at sea-level conditions. Any change in power or thrust characteristics must be within approved limits.
 
-\(2\) Be visually inspected in accordance with the on-wing inspection recommendations and limits contained in the Instructions for Continued Airworthiness submitted in compliance with §33.4.
+\(2\) Be visually inspected in accordance with the on-wing inspection recommendations and limits contained in the Instructions for Continued Airworthiness submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]].
 
 \(3\) Be completely disassembled and inspected—
 
-\(i\) In accordance with the applicable inspection recommendations and limits contained in the Instructions for Continued Airworthiness submitted in compliance with §33.4;
+\(i\) In accordance with the applicable inspection recommendations and limits contained in the Instructions for Continued Airworthiness submitted in compliance with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]];
 
 \(ii\) With consideration of the causes of IFSD, loss of thrust control, or other power loss identified by paragraph (b) of this section; and
 
@@ -1672,7 +1672,7 @@ An applicant seeking type design approval for an engine to be installed on a two
 
 \(f\) An alternative mission cycle endurance test that provides an equivalent demonstration of the unbalance and vibration specified in paragraph (c) of this section may be used when approved by the FAA.
 
-\(g\) For an applicant using the simulated ETOPS mission cyclic endurance test to comply with §33.90, the test may be interrupted so that the engine may be inspected by an on-wing or other method, using criteria acceptable to the FAA, after completion of the test cycles required to comply with §33.90(a). Following the inspection, the ETOPS test must be resumed to complete the requirements of this section.
+\(g\) For an applicant using the simulated ETOPS mission cyclic endurance test to comply with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.90   Initial maintenance inspection test.|§33.90]], the test may be interrupted so that the engine may be inspected by an on-wing or other method, using criteria acceptable to the FAA, after completion of the test cycles required to comply with [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.90   Initial maintenance inspection test.|§33.90]](a). Following the inspection, the ETOPS test must be resumed to complete the requirements of this section.
 
 ##    
 
@@ -1680,7 +1680,7 @@ An applicant seeking type design approval for an engine to be installed on a two
 
 # a33.1   general
 
-\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by §33.4.
+\(a\) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.4   Instructions for Continued Airworthiness.|§33.4]].
 
 \(b\) The Instructions for Continued Airworthiness for each engine must include the Instructions for Continued Airworthiness for all engine parts. If Instructions for Continued Airworthiness are not supplied by the engine part manufacturer for an engine part, the Instructions for Continued Airworthiness for the engine must include the information essential to the continued airworthiness of the engine.
 
@@ -1740,7 +1740,7 @@ The Instructions for Continued Airworthiness must contain a section titled Airwo
 
 \(1\) The Airworthiness Limitations section must set forth each mandatory replacement time, inspection interval, and related procedure required for type certification. If the Instructions for Continued Airworthiness consist of multiple documents, the section required under this paragraph must be included in the principal manual.
 
-\(2\) This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §§43.16 and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
+\(2\) This section must contain a legible statement in a prominent location that reads: “The Airworthiness Limitations section is FAA approved and specifies maintenance required under §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.16   Airworthiness limitations.|§43.16]] and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative program has been FAA approved.”
 
 \(b\) For rotorcraft engines having 30-second OEI and 2-minute OEI ratings:
 
@@ -1748,13 +1748,13 @@ The Instructions for Continued Airworthiness must contain a section titled Airwo
 
 \(2\) The applicant must validate the adequacy of the inspections and maintenance actions required under paragraph (b)(1) of this section A33.4.
 
-\(3\) The applicant must establish an in-service engine evaluation program to ensure the continued adequacy of the instructions for mandatory post-flight inspections and maintenance actions prescribed under paragraph (b)(1) of this section A33.4 and of the data for §33.5(b)(4) pertaining to power availability. The program must include service engine tests or equivalent service engine test experience on engines of similar design and evaluations of service usage of the 30-second OEI or 2-minute OEI ratings.
+\(3\) The applicant must establish an in-service engine evaluation program to ensure the continued adequacy of the instructions for mandatory post-flight inspections and maintenance actions prescribed under paragraph (b)(1) of this section A33.4 and of the data for [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.5   Instruction manual for installing and operating the engine.|§33.5]](b)(4) pertaining to power availability. The program must include service engine tests or equivalent service engine test experience on engines of similar design and evaluations of service usage of the 30-second OEI or 2-minute OEI ratings.
 
 \[Amdt. 33-9, 45 FR 60181, Sept. 11, 1980, as amended by Amdt. 33-13, 54 FR 34330, Aug. 18, 1989; Amdt. 33-21, 72 FR 1878, Jan. 16, 2007; Amdt. 33-25, 73 FR 48124, Aug. 18, 2008\]
 
 ### Appendix B to Part 33—Certification Standard Atmospheric Concentrations of Rain and Hail
 
-Figure B1, Table B1, Table B2, Table B3, and Table B4 specify the atmospheric concentrations and size distributions of rain and hail for establishing certification, in accordance with the requirements of §33.78(a)(2). In conducting tests, normally by spraying liquid water to simulate rain conditions and by delivering hail fabricated from ice to simulate hail conditions, the use of water droplets and hail having shapes, sizes and distributions of sizes other than those defined in this appendix B, or the use of a single size or shape for each water droplet or hail, can be accepted, provided that applicant shows that the substitution does not reduce the severity of the test.
+Figure B1, Table B1, Table B2, Table B3, and Table B4 specify the atmospheric concentrations and size distributions of rain and hail for establishing certification, in accordance with the requirements of [[Volume 1/C Aircraft/0033 Airworthiness standards  aircraft engines.md#§33.78   Rain and hail ingestion.|§33.78]](a)(2). In conducting tests, normally by spraying liquid water to simulate rain conditions and by delivering hail fabricated from ice to simulate hail conditions, the use of water droplets and hail having shapes, sizes and distributions of sizes other than those defined in this appendix B, or the use of a single size or shape for each water droplet or hail, can be accepted, provided that applicant shows that the substitution does not reduce the severity of the test.
 
 ![eCFR graphic er26mr98.000.gif](https://www.ecfr.gov/graphics/er26mr98.000.gif)
 

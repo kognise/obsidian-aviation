@@ -10,7 +10,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.99](https://www.ecfr.
 
 \(a\) This subpart prescribes rules for operating all aircraft (except for Department of Defense and law enforcement aircraft) in a defense area, or into, within, or out of the United States through an Air Defense Identification Zone (ADIZ) designated in subpart B.
 
-\(b\) Except for §§99.7, 99.13, and 99.15 this subpart does not apply to the operation of any aircraft-
+\(b\) Except for §[[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.7   Special security instructions.|§99.7]], 99.13, and 99.15 this subpart does not apply to the operation of any aircraft-
 
 \(1\) Within the 48 contiguous States and the District of Columbia, or within the State of Alaska, on a flight which remains within 10 nautical miles of the point of departure;
 
@@ -20,7 +20,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.99](https://www.ecfr.
 
 \(4\) Operating at true airspeed of less than 180 knots in the Guam ADIZ.
 
-\(c\) An FAA ATC center may exempt the following operations from this subpart (except §99.7) on a local basis only, with the concurrence of the U.S. military commanders concerned, or pursuant to an agreement with a U.S. Federal security or intelligence agency:
+\(c\) An FAA ATC center may exempt the following operations from this subpart (except [[Volume 2/F Air traffic and general operating rules/0099 Security control of air traffic.md#§99.7   Special security instructions.|§99.7]]) on a local basis only, with the concurrence of the U.S. military commanders concerned, or pursuant to an agreement with a U.S. Federal security or intelligence agency:
 
 \(1\) Aircraft operations that are conducted wholly within the boundaries of an ADIZ and are not currently significant to the air defense system.
 
@@ -62,7 +62,7 @@ Each person operating an aircraft in an ADIZ or Defense Area must, in addition t
 
 \(c\) If the pilot operating an aircraft under DVFR in an ADIZ cannot maintain two-way radio communications, the pilot may proceed, in accordance with original DVFR flight plan, or land as soon as practicable. The pilot must report the radio failure to an appropriate aeronautical facility as soon as possible.
 
-\(d\) If a pilot operating an aircraft under IFR in an ADIZ cannot maintain two-way radio communications, the pilot must proceed in accordance with §91.185 of this chapter.
+\(d\) If a pilot operating an aircraft under IFR in an ADIZ cannot maintain two-way radio communications, the pilot must proceed in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.185   IFR operations: Two-way radio communications failure.|§91.185]] of this chapter.
 
 \[Doc. No. FAA-2001-10693, 66 FR 49822, Sept. 28, 2001, as amended at 69 FR 16756, Mar. 30, 2004\]
 
@@ -72,9 +72,9 @@ Each person operating an aircraft in an ADIZ or Defense Area must, in addition t
 
 \(b\) Unless ATC authorizes an abbreviated flight plan—
 
-\(1\) A flight plan for IFR flight must contain the information specified in §91.169; and
+\(1\) A flight plan for IFR flight must contain the information specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.169   IFR flight plan: Information required.|§91.169]]; and
 
-\(2\) A flight plan for VFR flight must contain the information specified in §91.153(a) (1) through (6).
+\(2\) A flight plan for VFR flight must contain the information specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|§91.153]](a) (1) through (6).
 
 \(3\) If airport of departure is within the Alaskan ADIZ and there is no facility for filing a flight plan then:
 
@@ -106,7 +106,7 @@ Each person operating an aircraft in an ADIZ or Defense Area must, in addition t
 
 \(a\) The pilot of an aircraft operating in or penetrating an ADIZ under IFR—
 
-\(1\) In controlled airspace, must make the position reports required in §91.183; and
+\(1\) In controlled airspace, must make the position reports required in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.183   IFR communications.|§91.183]]; and
 
 \(2\) In uncontrolled airspace, must make the position reports required in this section.
 
@@ -124,7 +124,7 @@ Each person operating an aircraft in an ADIZ or Defense Area must, in addition t
 
 ### §99.17   Deviation from flight plans and ATC clearances and instructions.
 
-\(a\) No pilot may deviate from the provisions of an ATC clearance or ATC instruction except in accordance with §91.123 of this chapter.
+\(a\) No pilot may deviate from the provisions of an ATC clearance or ATC instruction except in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.123   Compliance with ATC clearances and instructions.|§91.123]] of this chapter.
 
 \(b\) No pilot may deviate from the filed IFR flight plan when operating an aircraft in uncontrolled airspace unless that pilot notifies an appropriate aeronautical facility before deviating.
 

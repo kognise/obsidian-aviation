@@ -22,9 +22,9 @@ This part applies to interstate air transportation of property and to foreign ai
 
 For purpose of this part:
 
-\(a\) *Foreign air freight forwarder* means a foreign indirect air carrier that is responsible for the transportation of property from the point of receipt to point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, of another foreign indirect cargo air carrier as defined in part 296 of this chapter.
+\(a\) *Foreign air freight forwarder* means a foreign indirect air carrier that is responsible for the transportation of property from the point of receipt to point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, of another foreign indirect cargo air carrier as defined in [[Volume 4/A Economic regulations/0296 Indirect air transportation of property.md|part 296 of this chapter]].
 
-\(b\) *Foreign cooperative shippers association* means a bona fide association of shippers operating as a foreign indirect air carrier on a nonprofit basis that undertakes to ship property by air for the account of such association or its members, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, of a foreign indirect cargo air carrier as defined in part 296 of this chapter.
+\(b\) *Foreign cooperative shippers association* means a bona fide association of shippers operating as a foreign indirect air carrier on a nonprofit basis that undertakes to ship property by air for the account of such association or its members, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, of a foreign indirect cargo air carrier as defined in [[Volume 4/A Economic regulations/0296 Indirect air transportation of property.md|part 296 of this chapter]].
 
 \(c\) *Direct air carrier* means an air carrier or foreign air carrier directly engaged in the operation of aircraft under a certificate, regulation, order, or permit issued by the Department of Transportation or the Civil Aeronautics Board.
 
@@ -74,7 +74,7 @@ The Department declines to exercise its jurisdiction over foreign indirect air c
 
 ### §297.12   General requirements.
 
-\(a\) The direct air transportation provided must be performed by direct air carriers that hold authority under section 41102, 41103, 41302, or 41701 of 49 U.S.C. Subtitle VII or are operating under part 298 of this chapter;
+\(a\) The direct air transportation provided must be performed by direct air carriers that hold authority under section 41102, 41103, 41302, or 41701 of 49 U.S.C. Subtitle VII or are operating under [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]];
 
 \(b\) Only U.S. citizen direct air carriers may provide direct air transportation operations in interstate air transportation.
 
@@ -100,7 +100,7 @@ Persons objecting to registration by a foreign air freight forwarder or foreign 
 
 ### §297.22   Procedure on receipt of registration application.
 
-After review of a registration form filed under §297.20, the Department will take one or more of the following actions:
+After review of a registration form filed under [[Volume 4/A Economic regulations/0297 Foreign air freight forwarders and foreign cooperative shippers associations.md#§297.20   Filing for registration.|§297.20]], the Department will take one or more of the following actions:
 
 \(a\) Indicate by stamp on OST Form 4506 the effective date of registration, and return to the carrier the duplicate copy of OST Form 4506 as evidence of registration with the Department under this part;
 

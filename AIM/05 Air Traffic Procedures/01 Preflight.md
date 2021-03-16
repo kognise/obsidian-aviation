@@ -110,7 +110,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
 **Notice to Airmen (NOTAM) System ^5-1-3**
 
 1.  Time-critical aeronautical information that is of either a temporary nature or not sufficiently known in advance to permit publication on aeronautical charts or in other operational publications, receives immediate dissemination via the NOTAM System. When data appearing in a NOTAM is printed correctly in a publication or on a chart, or when a temporary condition is returned to normal status, the corresponding NOTAM is canceled. NOTAMs are eligible to be disseminated up to 7 days before the start of activity. Pilots can access NOTAM information via FSS or online via NOTAM Search at: [**https://notams.aim.faa.gov/notamSearch/**](https://notams.aim.faa.gov/notamSearch/).
-2.  In accordance with 14 CFR § 91.103, Preflight Action, prior to departure, pilots must become familiar with a[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.103   Preflight action.|14 CFR § 91.103]]formation concerning that flight, including NOTAMs. NOTAM information is aeronautical information that could affect a pilot's decision to make a flight and includes changes to:
+2.  In accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.103   Preflight action.|14 CFR § 91.103]], Preflight Action, prior to departure, pilots must become familiar with all available information concerning that flight, including NOTAMs. NOTAM information is aeronautical information that could affect a pilot's decision to make a flight and includes changes to:
     1.  Aerodromes.
     2.  Runways, taxiways, and ramp restrictions.
     3.  Obstructions.
@@ -1120,13 +1120,13 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
 
     <em>**REFERENCE-**</em>
 
-    <em> 14 CFR Section 91.167.  
-    [[04 Air Traffic Control/01 Services Available to Pilots#^4[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.167   Fuel requirements for flight in IFR conditions.|14 CFR Section 91.167]]4-1-19]], Tower En Route Control (TEC)  
+    <em> [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.167   Fuel requirements for flight in IFR conditions.|14 CFR Section 91.167]].  
+    [[04 Air Traffic Control/01 Services Available to Pilots#^4-1-19|AIM, Paragraph 4-1-19]], Tower En Route Control (TEC)  
     </em>
 
     </div>
 2.  The FAA has identified three possible situations where the failure to plan for an alternate airport when flying IFR to such a destination airport could result in a critical situation if the weather is less than forecast and sufficient fuel is not available to proceed to a suitable airport.
-    1.  An IFR flight to an airport where the Minimum Descent Altitudes (MDAs) or landing visibility minimums for <em>all instrument approaches</em> are higher than the forecast weather minimums specified in 14 CFR Section 91.167(b). For example, there are 3 high altitude airports in the U.S. wit[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.167   Fuel requirements for flight in IFR conditions.|14 CFR Section 91.167]] approach procedures where all of the MDAs are greater than 2,000 feet and/or the landing visibility minimums are greater than 3 miles (Bishop, California; South Lake Tahoe, California; and Aspen-Pitkin Co./Sardy Field, Colorado). In the case of these airports, it is possible for a pilot to elect, on the basis of forecasts, not to carry sufficient fuel to get to an alternate when the ceiling and/or visibility is actually lower than that necessary to complete the approach.
+    1.  An IFR flight to an airport where the Minimum Descent Altitudes (MDAs) or landing visibility minimums for <em>all instrument approaches</em> are higher than the forecast weather minimums specified in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.167   Fuel requirements for flight in IFR conditions.|14 CFR Section 91.167]](b). For example, there are 3 high altitude airports in the U.S. with approved instrument approach procedures where all of the MDAs are greater than 2,000 feet and/or the landing visibility minimums are greater than 3 miles (Bishop, California; South Lake Tahoe, California; and Aspen-Pitkin Co./Sardy Field, Colorado). In the case of these airports, it is possible for a pilot to elect, on the basis of forecasts, not to carry sufficient fuel to get to an alternate when the ceiling and/or visibility is actually lower than that necessary to complete the approach.
     2.  A small number of other airports in mountainous terrain have MDAs which are slightly (100 to 300 feet) below 2,000 feet AGL. In situations where there is an option as to whether to plan for an alternate, pilots should bear in mind that just a slight worsening of the weather conditions from those forecast could place the airport below the published IFR landing minimums.
     3.  An IFR flight to an airport which requires special equipment; i.e., DME, glide slope, etc., in order to make the available approaches to the lowest minimums. Pilots should be aware that all other minimums on the approach charts may require weather conditions better than those specified in 14 CFR Section 91.167(b). An inflight equipment malfunction could result in the inability to comply with the published approach procedures or, again, in the position of having the airport below the published IFR landing minimums for all remaining instrument approach alternatives.
 
@@ -1163,12 +1163,14 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
 
 <em>**REFERENCE-**</em>
 
-<em> 14 CFR Section 91.153.  
-14 CFR Section 91.169. </em>
+<em> [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|14 CFR Section 91.153]].  
+[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.169   IFR flight plan: Information required.|14 CFR Section 91.169]]. </em>
 
 </div>
 
-**Canceling IFR Fligh[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.153   VFR flight plan: Information required.|14 CFR Section 91.153]].  14[[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.169   IFR flight plan: Information required.|14 CFR Section 91.169]]and 91.169 include the statement “When a flight plan has been activated, the pilot‐in‐command, upon canceling or completing the flight under the flight plan, must notify an FAA Flight Service Station or ATC facility.”
+**Canceling IFR Flight Plan ^5-1-15**
+
+1.  14 CFR Sections 91.153 and 91.169 include the statement “When a flight plan has been activated, the pilot‐in‐command, upon canceling or completing the flight under the flight plan, must notify an FAA Flight Service Station or ATC facility.”
 2.  An IFR flight plan may be canceled at any time the flight is operating in VFR conditions outside Class A airspace by pilots stating “CANCEL MY IFR FLIGHT PLAN” to the controller or air/ground station with which they are communicating. Immediately after canceling an IFR flight plan, a pilot should take the necessary action to change to the appropriate air/ground frequency, VFR radar beacon code and VFR altitude or flight level.
 3.  ATC separation and information services will be discontinued, including radar services (where applicable). Consequently, if the canceling flight desires VFR radar advisory service, the pilot must specifically request it.
     <div>

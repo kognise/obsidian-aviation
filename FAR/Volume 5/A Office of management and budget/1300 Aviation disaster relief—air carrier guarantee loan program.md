@@ -44,9 +44,9 @@ This part is issued by the Office of Management and Budget, (OMB) pursuant to Ti
 
 ### §1300.3   Supplementary regulations of the Air Transportation Stabilization Board.
 
-\(a\) The regulations in this part are supplemented by the regulations of the Air Transportation Stabilization Board in part 1310 of this chapter in accordance with section 102(c)(2)(B) of the Act.
+\(a\) The regulations in this part are supplemented by the regulations of the Air Transportation Stabilization Board in [[Volume 5/B Air transportation stabilization board/1310 Air carrier guarantee loan program administrative regulations and amendment or waiver of a term or condition of guaranteed loan.md|part 1310 of this chapter]] in accordance with section 102(c)(2)(B) of the Act.
 
-\(b\) This part and part 1310 of this chapter jointly govern the application procedures and the requirements for issuance of Federal credit instruments under section 101(a)(1) of the Act.
+\(b\) This part and [[Volume 5/B Air transportation stabilization board/1310 Air carrier guarantee loan program administrative regulations and amendment or waiver of a term or condition of guaranteed loan.md|part 1310 of this chapter]] jointly govern the application procedures and the requirements for issuance of Federal credit instruments under section 101(a)(1) of the Act.
 
 \[67 FR 17258, Apr. 9, 2002\]
 
@@ -162,9 +162,9 @@ A guarantee issued by the Board must be less than 100 percent of the amount of p
 
 ### §1300.17   Application evaluation.
 
-\(a\) Eligibility screening. Applications will be reviewed to determine whether the lender and borrower are eligible, the information required under §1300.16(b) is complete, and the proposed loan complies with applicable statutes and regulations. The Board may at any time reject an application that does not meet these requirements.
+\(a\) Eligibility screening. Applications will be reviewed to determine whether the lender and borrower are eligible, the information required under [[Volume 5/A Office of management and budget/1300 Aviation disaster relief—air carrier guarantee loan program.md#§1300.16   Application process.|§1300.16]](b) is complete, and the proposed loan complies with applicable statutes and regulations. The Board may at any time reject an application that does not meet these requirements.
 
-\(b\) Evaluation criteria. Applications that are determined to be eligible pursuant to paragraph (a) of this section shall be subject to a substantive review by the Board. In addition to the general standards for Board issuance of Federal credit instruments set forth in §1300.10, the Board shall consider the following evaluation factors:
+\(b\) Evaluation criteria. Applications that are determined to be eligible pursuant to paragraph (a) of this section shall be subject to a substantive review by the Board. In addition to the general standards for Board issuance of Federal credit instruments set forth in [[Volume 5/A Office of management and budget/1300 Aviation disaster relief—air carrier guarantee loan program.md#§1300.10   General standards for Board issuance of Federal credit instruments.|§1300.10]], the Board shall consider the following evaluation factors:
 
 \(1\) Reasonable assurance that the borrower will be able to repay the loan by the date specified in the loan document, which shall be no later than seven years from the date on which the first disbursement of the loan is made;
 
@@ -220,11 +220,11 @@ A guarantee issued by the Board must be less than 100 percent of the amount of p
 
 \(3\) Other arrangements, satisfactory to the agency responsible for collecting the debt are made.
 
-\(d\) Decisions by the Board. The Board shall approve or deny applications received on or before June 28, 2002, in a timely manner as such applications are received. The Board may limit the amount of a loan guarantee made to initial applicants to ensure that sufficient funds remain available for subsequent applicants. The Board shall notify the borrower in writing of the approval or denial of an application. Approvals for loan guarantees shall be conditioned upon compliance with §1300.18.
+\(d\) Decisions by the Board. The Board shall approve or deny applications received on or before June 28, 2002, in a timely manner as such applications are received. The Board may limit the amount of a loan guarantee made to initial applicants to ensure that sufficient funds remain available for subsequent applicants. The Board shall notify the borrower in writing of the approval or denial of an application. Approvals for loan guarantees shall be conditioned upon compliance with [[Volume 5/A Office of management and budget/1300 Aviation disaster relief—air carrier guarantee loan program.md#§1300.18   Issuance of the guarantee.|§1300.18]].
 
 ### §1300.18   Issuance of the guarantee.
 
-\(a\) The Board's decisions to approve any application for a guarantee under §1300.17 is conditioned upon:
+\(a\) The Board's decisions to approve any application for a guarantee under [[Volume 5/A Office of management and budget/1300 Aviation disaster relief—air carrier guarantee loan program.md#§1300.17   Application evaluation.|§1300.17]] is conditioned upon:
 
 \(1\) The lender and borrower obtaining any required regulatory or judicial approvals;
 

@@ -48,7 +48,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.241](https://www.ecfr
 
 *Airport, alternate.* An approved airport to which a flight may proceed if a landing at the airport to which the flight was dispatched becomes inadvisable.
 
-*Airport-to-airport distance.* The great circle distance between airports, measured in statute miles in accordance with part 247 of this chapter.
+*Airport-to-airport distance.* The great circle distance between airports, measured in statute miles in accordance with [[Volume 4/A Economic regulations/0247 Direct airport-to-airport mileage records.md|part 247 of this chapter]].
 
 *Air transportation.* The carriage by aircraft of persons, property, or mail.
 
@@ -2650,7 +2650,7 @@ Record here the difference between the amount of retained earnings at the beginn
 
 \(a\) *United States air carrier.* Each large certificated U.S. air carrier shall file with the Department, on a monthly basis, Form 41 Schedule T-100 “U.S. Air Carrier Traffic and Capacity Data By Nonstop Segment and On-flight Market,” and summary data as prescribed in this section and in sections 22 and 25 of this part.
 
-\(b\) *Foreign (non-U.S.) air carrier:* Each foreign air carrier as required by part 217 of this chapter shall file Form 41 Schedule T-100(f) “Foreign Air Carrier Traffic Data by Nonstop Segment and On-flight Market.” The “Instructions to Foreign Air Carriers for Reporting Traffic Data on Form 41 Schedule T-100(f),” (Instructions-Foreign Air Carriers) are included in the Appendix to §217.10 of this chapter.
+\(b\) *Foreign (non-U.S.) air carrier:* Each foreign air carrier as required by [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md|part 217 of this chapter]] shall file Form 41 Schedule T-100(f) “Foreign Air Carrier Traffic Data by Nonstop Segment and On-flight Market.” The “Instructions to Foreign Air Carriers for Reporting Traffic Data on Form 41 Schedule T-100(f),” (Instructions-Foreign Air Carriers) are included in the Appendix to [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.10   Instructions.|§217.10]] of this chapter.
 
 \(c\) Reports required by this section shall be submitted to the Bureau of Transportation Statistics in a format specified in accounting and reporting directives issued by the Bureau of Transportation Statistics' Director of Airline Information.
 
@@ -2676,7 +2676,7 @@ Record here the difference between the amount of retained earnings at the beginn
 
 ### Sec. 19-3   Accessibility and transmittal of data.
 
-\(a\) Each reporting air carrier shall maintain its prescribed operating statistics in a manner and at such locations as will permit ready accessability for examination by representatives of the Department. The record retention requirements are prescribed in part 249 of this chapter.
+\(a\) Each reporting air carrier shall maintain its prescribed operating statistics in a manner and at such locations as will permit ready accessability for examination by representatives of the Department. The record retention requirements are prescribed in [[Volume 4/A Economic regulations/0249 Preservation of air carrier records.md|part 249 of this chapter]].
 
 \(b\) \[Reserved\]
 
@@ -2770,7 +2770,7 @@ U.S. Air Carriers:
 
 \(1\) *Reporting period date.* The year and month or quarter to which the reported data are applicable.
 
-\(2\) *Carrier, Carrier entity code.* Each foreign air carrier shall report its name and code (assigned by DOT). Each U.S. air carrier shall report its name and entity code (a five digit code assigned by DOT that identifies both the carrier and its entity) for its particular operations. The Office of Airline Information (OAI) will assign or confirm codes upon request; OAI's address is in the Appendix to section 25 of this part and the Appendix to §217.10 of this chapter.
+\(2\) *Carrier, Carrier entity code.* Each foreign air carrier shall report its name and code (assigned by DOT). Each U.S. air carrier shall report its name and entity code (a five digit code assigned by DOT that identifies both the carrier and its entity) for its particular operations. The Office of Airline Information (OAI) will assign or confirm codes upon request; OAI's address is in the Appendix to section 25 of this part and the Appendix to [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.10   Instructions.|§217.10]] of this chapter.
 
 \(3\) *Service class code.* The service class codes are prescribed in section 19-4 of this part. In general, classes are divided into two broad categories, either K (scheduled) or V (nonscheduled), where K = F + G for all carriers and V = L + N + P + R for U.S. air carriers and comprises L + P and Q for foreign air carriers. Refer to section 19-4 for the more information on service class codes F, G, L, N, P, R and Q.
 
@@ -2840,7 +2840,7 @@ U.S. Air Carriers:
 
 \(21\) *430 Revenue aircraft miles scheduled.* The number of revenue aircraft miles scheduled. All such data shall be maintained in conformity with the airport pairs between which service is scheduled, whether or not in accordance with actual performance.
 
-\(22\) *501 Interairport distance.* The great circle distance, in official statute miles as prescribed in part 247 of this chapter, between airports served by each flight stage. Official interairport mileage may be obtained from the Office of Airline Information at the address included in section 25 of this part.
+\(22\) *501 Interairport distance.* The great circle distance, in official statute miles as prescribed in [[Volume 4/A Economic regulations/0247 Direct airport-to-airport mileage records.md|part 247 of this chapter]], between airports served by each flight stage. Official interairport mileage may be obtained from the Office of Airline Information at the address included in section 25 of this part.
 
 \(23\) Revenue aircraft departures performed. The number of revenue aircraft departures performed.
 

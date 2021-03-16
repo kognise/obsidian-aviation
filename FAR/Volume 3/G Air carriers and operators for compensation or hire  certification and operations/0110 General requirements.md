@@ -12,7 +12,7 @@ This part governs all operations conducted under subchapter G of this chapter.
 
 For the purpose of this subchapter, the term—
 
-*All-cargo operation* means any operation for compensation or hire that is other than a passenger-carrying operation or, if passengers are carried, they are only those specified in §121.583(a) or §135.85 of this chapter.
+*All-cargo operation* means any operation for compensation or hire that is other than a passenger-carrying operation or, if passengers are carried, they are only those specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.583   Carriage of persons without compliance with the passenger-carrying requirements of this part.|§121.583]](a) or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.85   Carriage of persons without compliance with the passenger-carrying provisions of this part.|§135.85]] of this chapter.
 
 *Commercial air tour* means a flight conducted for compensation or hire in an airplane or helicopter where a purpose of the flight is sightseeing. The FAA may consider the following factors in determining whether a flight is a commercial air tour:
 
@@ -114,9 +114,9 @@ For the purpose of this subchapter, the term—
 
 *On-demand operation* means any operation for compensation or hire that is one of the following:
 
-\(1\) Passenger-carrying operations conducted as a public charter under part 380 of this chapter or any operations in which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative that are any of the following types of operations:
+\(1\) Passenger-carrying operations conducted as a public charter under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]] or any operations in which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative that are any of the following types of operations:
 
-\(i\) Common carriage operations conducted with airplanes, including turbojet-powered airplanes, having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, except that operations using a specific airplane that is also used in domestic or flag operations and that is so listed in the operations specifications as required by §119.49(a)(4) of this chapter for those operations are considered supplemental operations;
+\(i\) Common carriage operations conducted with airplanes, including turbojet-powered airplanes, having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, except that operations using a specific airplane that is also used in domestic or flag operations and that is so listed in the operations specifications as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.49   Contents of operations specifications.|§119.49]](a)(4) of this chapter for those operations are considered supplemental operations;
 
 \(ii\) Noncommon or private carriage operations conducted with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds; or
 
@@ -130,7 +130,7 @@ For the purpose of this subchapter, the term—
 
 \(3\) All-cargo operations conducted with airplanes having a payload capacity of 7,500 pounds or less, or with rotorcraft.
 
-*Passenger-carrying operation* means any aircraft operation carrying any person, unless the only persons on the aircraft are those identified in §§121.583(a) or 135.85 of this chapter, as applicable. An aircraft used in a passenger-carrying operation may also carry cargo or mail in addition to passengers.
+*Passenger-carrying operation* means any aircraft operation carrying any person, unless the only persons on the aircraft are those identified in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.583   Carriage of persons without compliance with the passenger-carrying requirements of this part.|§121.583]](a) or 135.85 of this chapter, as applicable. An aircraft used in a passenger-carrying operation may also carry cargo or mail in addition to passengers.
 
 *Principal base of operations* means the primary operating location of a certificate holder as established by the certificate holder.
 
@@ -138,7 +138,7 @@ For the purpose of this subchapter, the term—
 
 *Regular airport* means an airport used by a certificate holder in scheduled operations and listed in its operations specifications.
 
-*Scheduled operation* means any common carriage passenger-carrying operation for compensation or hire conducted by an air carrier or commercial operator for which the certificate holder or its representative offers in advance the departure location, departure time, and arrival location. It does not include any passenger-carrying operation that is conducted as a public charter operation under part 380 of this chapter.
+*Scheduled operation* means any common carriage passenger-carrying operation for compensation or hire conducted by an air carrier or commercial operator for which the certificate holder or its representative offers in advance the departure location, departure time, and arrival location. It does not include any passenger-carrying operation that is conducted as a public charter operation under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 *Supplemental operation* means any common carriage operation for compensation or hire conducted with any airplane described in paragraph (1) of this definition that is a type of operation described in paragraph (2) of this definition:
 
@@ -148,9 +148,9 @@ For the purpose of this subchapter, the term—
 
 \(ii\) Airplanes having a payload capacity of more than 7,500 pounds; or
 
-\(iii\) Each propeller-powered airplane having a passenger-seat configuration of more than 9 seats and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by §119.49(a)(4) of this chapter for those operations; or
+\(iii\) Each propeller-powered airplane having a passenger-seat configuration of more than 9 seats and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.49   Contents of operations specifications.|§119.49]](a)(4) of this chapter for those operations; or
 
-\(iv\) Each turbojet powered airplane having a passenger seat configuration of 1 or more and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by §119.49(a)(4) of this chapter for those operations.
+\(iv\) Each turbojet powered airplane having a passenger seat configuration of 1 or more and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md#§119.49   Contents of operations specifications.|§119.49]](a)(4) of this chapter for those operations.
 
 \(2\) Types of operation:
 
@@ -158,7 +158,7 @@ For the purpose of this subchapter, the term—
 
 \(ii\) All-cargo operations; or
 
-\(iii\) Passenger-carrying public charter operations conducted under part 380 of this chapter.
+\(iii\) Passenger-carrying public charter operations conducted under [[Volume 4/D Special regulations/0380 Public charters.md|part 380 of this chapter]].
 
 *Wet lease* means any leasing arrangement whereby a person agrees to provide an entire aircraft and at least one crewmember. A wet lease does not include a code-sharing arrangement.
 

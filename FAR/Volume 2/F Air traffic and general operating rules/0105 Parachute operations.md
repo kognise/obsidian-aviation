@@ -102,7 +102,7 @@ The Administrator may inspect any parachute operation to which this part applies
 
 ### §105.15   Information required and notice of cancellation or postponement of a parachute operation.
 
-\(a\) Each person requesting an authorization under §§105.21(b) and 105.25(a)(2) of this part and each person submitting a notification under §105.25(a)(3) of this part must provide the following information (on an individual or group basis):
+\(a\) Each person requesting an authorization under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notification under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must provide the following information (on an individual or group basis):
 
 \(1\) The date and time the parachute operation will begin.
 
@@ -124,9 +124,9 @@ The Administrator may inspect any parachute operation to which this part applies
 
 \(8\) The name of the air traffic control facility with jurisdiction of the airspace at the first intended exit altitude to be used for the parachute operation.
 
-\(b\) Each holder of a certificate of authorization issued under §§105.21(b) and 105.25(b) of this part must present that certificate for inspection upon the request of the Administrator or any Federal, State, or local official.
+\(b\) Each holder of a certificate of authorization issued under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(b) of this part must present that certificate for inspection upon the request of the Administrator or any Federal, State, or local official.
 
-\(c\) Each person requesting an authorization under §§105.21(b) and 105.25(a)(2) of this part and each person submitting a notice under §105.25(a)(3) of this part must promptly notify the air traffic control facility having jurisdiction over the affected airspace if the proposed or scheduled parachute operation is canceled or postponed.
+\(c\) Each person requesting an authorization under §[[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.21   Parachute operations over or into a congested area or an open-air assembly of persons.|§105.21]](b) and 105.25(a)(2) of this part and each person submitting a notice under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.25   Parachute operations in designated airspace.|§105.25]](a)(3) of this part must promptly notify the air traffic control facility having jurisdiction over the affected airspace if the proposed or scheduled parachute operation is canceled or postponed.
 
 ### §105.17   Flight visibility and clearance from cloud requirements.
 
@@ -161,7 +161,7 @@ No person may conduct a parachute operation, and no pilot in command of an aircr
 
 \(1\) Be made in the form and manner prescribed by the Administrator, and
 
-\(2\) Contain the information required in §105.15(a) of this part.
+\(2\) Contain the information required in [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.15   Information required and notice of cancellation or postponement of a parachute operation.|§105.15]](a) of this part.
 
 \(c\) Each holder of, and each person named as a participant in a certificate of authorization issued under this section must comply with all requirements contained in the certificate of authorization.
 
@@ -193,9 +193,9 @@ No person may conduct a parachute operation, and no pilot in command of an aircr
 
 \(3\) Except as provided in paragraph (c) and (d) of this section, within or into Class E or G airspace area unless the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude is notified of the parachute operation no earlier than 24 hours before or no later than 1 hour before the parachute operation begins.
 
-\(b\) Each request for a parachute operation authorization or notification required under this section must be submitted to the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude and must include the information prescribed by §105.15(a) of this part.
+\(b\) Each request for a parachute operation authorization or notification required under this section must be submitted to the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude and must include the information prescribed by [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.15   Information required and notice of cancellation or postponement of a parachute operation.|§105.15]](a) of this part.
 
-\(c\) For the purposes of paragraph (a)(3) of this section, air traffic control facilities may accept a written notification from an organization that conducts parachute operations and lists the scheduled series of parachute operations to be conducted over a stated period of time not longer than 12 calendar months. The notification must contain the information prescribed by §105.15(a) of this part, identify the responsible persons associated with that parachute operation, and be submitted at least 15 days, but not more than 30 days, before the parachute operation begins. The FAA may revoke the acceptance of the notification for any failure of the organization conducting the parachute operations to comply with its requirements.
+\(c\) For the purposes of paragraph (a)(3) of this section, air traffic control facilities may accept a written notification from an organization that conducts parachute operations and lists the scheduled series of parachute operations to be conducted over a stated period of time not longer than 12 calendar months. The notification must contain the information prescribed by [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.15   Information required and notice of cancellation or postponement of a parachute operation.|§105.15]](a) of this part, identify the responsible persons associated with that parachute operation, and be submitted at least 15 days, but not more than 30 days, before the parachute operation begins. The FAA may revoke the acceptance of the notification for any failure of the organization conducting the parachute operations to comply with its requirements.
 
 \(d\) Paragraph (a)(3) of this section does not apply to a parachute operation conducted by a member of an Armed Force within a restricted area that extends upward from the surface when that area is under the control of an Armed Force.
 
@@ -247,7 +247,7 @@ No person may conduct a parachute operation using a single-harness, dual-parachu
 
 \(1\) The main parachute has been packed by a certificated parachute rigger, the parachutist in command making the next jump with that parachute, or a person under the direct supervision of a certificated parachute rigger.
 
-\(2\) The reserve parachute has been packed by a certificated parachute rigger in accordance with §105.43(b) of this part.
+\(2\) The reserve parachute has been packed by a certificated parachute rigger in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.43   Use of single-harness, dual-parachute systems.|§105.43]](b) of this part.
 
 \(3\) The tandem parachute system contains an operational automatic activation device for the reserve parachute, approved by the manufacturer of that tandem parachute system. The device must—
 

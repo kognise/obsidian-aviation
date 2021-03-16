@@ -34,7 +34,7 @@ To be eligible for recording, a conveyance must be mailed to the FAA Aircraft Re
 
 \(a\) Each signature on a conveyance must be in ink.
 
-\(b\) Paragraphs (b) through (f) of §47.13 of this chapter apply to a conveyance made by, or on behalf of, one or more persons doing business under a trade name, or by an agent, corporation, partnership, coowner, or unincorporated association.
+\(b\) Paragraphs (b) through (f) of [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.13   Signatures and instruments made by representatives.|§47.13]] of this chapter apply to a conveyance made by, or on behalf of, one or more persons doing business under a trade name, or by an agent, corporation, partnership, coowner, or unincorporated association.
 
 \(c\) No conveyance or other instrument need be acknowledged, as provided in 49 U.S.C. 44107(c), in order to be recorded under this part. The law of the place of delivery of the conveyance determines when a conveyance or other instrument must be acknowledged in order to be valid for the purposes of that place.
 
@@ -64,7 +64,7 @@ To be eligible for recording, a conveyance must be mailed to the FAA Aircraft Re
 
 </div>
 
-\(b\) There is no fee for recording a bill of sale that accompanies an application for aircraft registration and the proper fee under Part 47 of this chapter.
+\(b\) There is no fee for recording a bill of sale that accompanies an application for aircraft registration and the proper fee under [[Volume 1/C Aircraft/0047 Aircraft registration.md|Part 47 of this chapter]].
 
 \(c\) Each conveyance must be accompanied by the proper fee, that may be paid by check or money order to the Federal Aviation Administration.
 
@@ -82,15 +82,15 @@ To be eligible for recording, a conveyance must be mailed to the FAA Aircraft Re
 
 \(2\) A notice of Federal tax lien is not recordable under this part, since it is required to be filed elsewhere by the Internal Revenue Code (26 U.S.C. 6321, 6323; 26 CFR 301.6321-1, 301.6323-1).
 
-\(b\) The kinds of conveyance recordable under this part include those used as evidence of ownership under §47.11 of this chapter.
+\(b\) The kinds of conveyance recordable under this part include those used as evidence of ownership under [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.11   Evidence of ownership.|§47.11]] of this chapter.
 
 \(c\) The validity of any instrument, eligible for recording under this part, is governed by the laws of the State, possession, Puerto Rico, or District of Columbia, as the case may be, in which the instrument was delivered, regardless of the location or place of delivery of the property affected by the instrument. If the place where an instrument is intended to be delivered is stated in the instrument, it is presumed that the instrument was delivered at that place. The recording of a conveyance is not a decision of the FAA that the instrument does, in fact, affect title to, or an interest in, the aircraft or other property it covers.
 
 \(d\) The following rules apply to conveyances executed for security purposes and assignments thereof:
 
-\(1\) A security agreement must be signed by the debtor. If the debtor is not the registered owner of the aircraft, the security agreement must be accompanied by the debtor's Application for Aircraft Registration and evidence of ownership, as prescribed in Part 47 of this chapter, unless the debtor—
+\(1\) A security agreement must be signed by the debtor. If the debtor is not the registered owner of the aircraft, the security agreement must be accompanied by the debtor's Application for Aircraft Registration and evidence of ownership, as prescribed in [[Volume 1/C Aircraft/0047 Aircraft registration.md|Part 47 of this chapter]], unless the debtor—
 
-\(i\) Holds a Dealer's Aircraft Registration Certificate and submits evidence of ownership as provided in §47.67 of this chapter (if applicable);
+\(i\) Holds a Dealer's Aircraft Registration Certificate and submits evidence of ownership as provided in [[Volume 1/C Aircraft/0047 Aircraft registration.md#§47.67   Evidence of ownership.|§47.67]] of this chapter (if applicable);
 
 \(ii\) Was the owner of the aircraft on the date the security agreement was signed, as shown by documents recorded at the FAA Aircraft Registry; or
 
@@ -130,17 +130,17 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.33   Eligibility for recording: general requirements.
 
-A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §§49.11, 49.13, and 49.17, the following requirements are met:
+A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(a\) It is in a form prescribed by, or acceptable to, the Administrator for that kind of conveyance;
 
 \(b\) It describes the aircraft by make and model, manufacturer's serial number, and United States registration number, or other detail that makes identification possible;
 
-\(c\) It is an original document, or a duplicate original document, or if neither the original nor a duplicate original of a document is available, a true copy of an original document, certified under §49.21;
+\(c\) It is an original document, or a duplicate original document, or if neither the original nor a duplicate original of a document is available, a true copy of an original document, certified under [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.21   Return of original conveyance.|§49.21]];
 
 \(d\) It affects aircraft registered under 49 U.S.C. 44101-44104; and
 
-\(e\) It is accompanied by the recording fee required by §49.15, but there is no fee for recording a conveyance named in §49.31(b).
+\(e\) It is accompanied by the recording fee required by [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.15   Fees for recording.|§49.15]], but there is no fee for recording a conveyance named in [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.31   Applicability.|§49.31]](b).
 
 \[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-1, 31 FR 4499, Mar. 17, 1966; Amdt. 49-10, 70 FR 246, Jan. 3, 2005\]
 
@@ -158,7 +158,7 @@ The right to a charge arising out of a claim for compensation for salvage of an 
 
 This subpart applies to the recording of the following kinds of conveyances:
 
-\(a\) Any lease, a notice of tax lien or other lien (except a notice of Federal tax lien referred to in §49.17(a)), and any mortgage, equipment trust, contract of conditional sale, or other instrument executed for security purposes, which affects title to, or any interest in, any specifically identified aircraft engine of 550 or more rated takeoff horsepower, or the equivalent of that horsepower, or a specifically identified aircraft propeller capable of absorbing 750 or more rated takeoff shaft horsepower.
+\(a\) Any lease, a notice of tax lien or other lien (except a notice of Federal tax lien referred to in [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.17   Conveyances recorded.|§49.17]](a)), and any mortgage, equipment trust, contract of conditional sale, or other instrument executed for security purposes, which affects title to, or any interest in, any specifically identified aircraft engine of 550 or more rated takeoff horsepower, or the equivalent of that horsepower, or a specifically identified aircraft propeller capable of absorbing 750 or more rated takeoff shaft horsepower.
 
 \(b\) An assignment or amendment of, or supplement to, an instrument named in paragraph (a) of this section.
 
@@ -168,11 +168,11 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.43   Eligibility for recording: general requirements.
 
-A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §§49.11, 49.13, and 49.17, the following requirements are met:
+A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(a\) It affects and describes an aircraft engine or propeller to which this subpart applies, specifically identified by make, model, horsepower, and manufacturer's serial number; and
 
-\(b\) It is accompanied by the recording fee required by §49.15, but there is no fee for recording a conveyance named in §49.41(c).
+\(b\) It is accompanied by the recording fee required by [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.15   Fees for recording.|§49.15]], but there is no fee for recording a conveyance named in [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.41   Applicability.|§49.41]](c).
 
 ### §49.45   Recording of releases, cancellations, discharges, and satisfactions: special requirements.
 
@@ -188,7 +188,7 @@ A conveyance is eligible for recording under this subpart only if, in addition t
 
 This subpart applies to the recording of the following kinds of conveyances:
 
-\(a\) Any lease, a notice of tax lien or other lien (except a notice of Federal tax lien referred to in §49.17 (a), and any mortgage, equipment trust, contract of conditional sale, or other instrument executed for security purposes, which affects title to, or any interest in, any aircraft engine, propeller, or appliance maintained by or on behalf of an air carrier certificated under 49 U.S.C. 44705 for installation or use in aircraft, aircraft engines, or propellers, or any spare parts, maintained at a designated location or locations by or on behalf of such an air carrier.
+\(a\) Any lease, a notice of tax lien or other lien (except a notice of Federal tax lien referred to in [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.17   Conveyances recorded.|§49.17]] (a), and any mortgage, equipment trust, contract of conditional sale, or other instrument executed for security purposes, which affects title to, or any interest in, any aircraft engine, propeller, or appliance maintained by or on behalf of an air carrier certificated under 49 U.S.C. 44705 for installation or use in aircraft, aircraft engines, or propellers, or any spare parts, maintained at a designated location or locations by or on behalf of such an air carrier.
 
 \(b\) An assignment or amendment of, or supplement to, an instrument named in paragraph (a) of this section.
 
@@ -198,7 +198,7 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 ### §49.53   Eligibility for recording: general requirements.
 
-\(a\) A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §§49.11, 49.13, and 49.17, the following requirements are met:
+\(a\) A conveyance is eligible for recording under this subpart only if, in addition to the requirements of §[[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.11   FAA Aircraft Registry.|§49.11]], 49.13, and 49.17, the following requirements are met:
 
 \(1\) It affects any aircraft engine, propeller, appliance, or spare part, maintained by or on behalf of an air carrier certificated under 49 U.S.C. 44705;
 
@@ -206,7 +206,7 @@ This subpart applies to the recording of the following kinds of conveyances:
 
 \(3\) It specifically describes the location or locations of each aircraft engine, propeller, appliance, or spare part covered by it; and
 
-\(4\) It is accompanied by the recording fee required by §49.15, but there is no fee for recording a conveyance named in §49.51(c).
+\(4\) It is accompanied by the recording fee required by [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.15   Fees for recording.|§49.15]], but there is no fee for recording a conveyance named in [[Volume 1/C Aircraft/0049 Recording of aircraft titles and security documents.md#§49.51   Applicability.|§49.51]](c).
 
 \(b\) The conveyance need only describe generally, by type, the engines, propellers, appliances, or spare parts covered by it.
 

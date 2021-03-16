@@ -10,11 +10,11 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.120](https://www.ecfr
 
 This part applies to the following persons:
 
-\(a\) All air carriers and operators certificated under part 119 of this chapter authorized to conduct operations under part 121 or part 135 of this chapter, all air traffic control facilities not operated by the FAA or by or under contract to the U.S. military; and all operators as defined in 14 CFR 91.147.
+\(a\) All air carriers and operators certificated under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]] authorized to conduct operations under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], all air traffic control facilities not operated by the FAA or by or under contract to the U.S. military; and all operators as defined in 14 CFR 91.147.
 
 \(b\) All individuals who perform, either directly or by contract, a safety-sensitive function listed in subpart E or subpart F of this part.
 
-\(c\) All part 145 certificate holders who perform safety-sensitive functions and elect to implement [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|14 CFR 91.147]]cohol testing program under this part.
+\(c\) All part 145 certificate holders who perform safety-sensitive functions and elect to implement a drug and alcohol testing program under this part.
 
 \(d\) All contractors who elect to implement a drug and alcohol testing program under this part.
 
@@ -40,13 +40,13 @@ For the purposes of this part, the following definitions apply:
 
 \(e\) *Contractor* is an individual or company that performs a safety-sensitive function by contract for an employer or another contractor.
 
-\(f\) *Covered employee* means an individual who performs, either directly or by contract, a safety-sensitive function listed in §§120.105 and 120.215 for an employer (as defined in paragraph (i) of this section). For purposes of pre-employment testing only, the term “covered employee” includes an individual applying to perform a safety-sensitive function.
+\(f\) *Covered employee* means an individual who performs, either directly or by contract, a safety-sensitive function listed in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] and 120.215 for an employer (as defined in paragraph (i) of this section). For purposes of pre-employment testing only, the term “covered employee” includes an individual applying to perform a safety-sensitive function.
 
 \(g\) *DOT agency* means an agency (or “operating administration”) of the United States Department of Transportation administering regulations requiring drug and alcohol testing (14 CFR parts 61, 65, 121, and 135; 46 CFR part 16; 49 CFR parts 199, 219, and 382) in accordance with 49 CFR part 40.
 
 \(h\) *Employee* is an individual who is hired, either directly or by contract, to perform a safety-sensitive function for an employer, as defined in paragraph (i) of this section. An employee is also an individual who transfers into a position to perform a safety-sensitive function for an employer.
 
-\(i\) *Employer* is a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operator as defined in §91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military. An employer may use a contract employee who is not included under that employer's FAA-mandated drug and alcohol testing program to perform a safety-sensitive function only if that contract employee is included under the contractor's FAA-mandated drug and alcohol testing program and is performing a safety-sensitive function on behalf of that contractor (*i.e.* , within the scope of employment with the contractor.)
+\(i\) *Employer* is a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military. An employer may use a contract employee who is not included under that employer's FAA-mandated drug and alcohol testing program to perform a safety-sensitive function only if that contract employee is included under the contractor's FAA-mandated drug and alcohol testing program and is performing a safety-sensitive function on behalf of that contractor (*i.e.* , within the scope of employment with the contractor.)
 
 \(j\) *Hire* means retaining an individual for a safety-sensitive function as a paid employee, as a volunteer, or through barter or other form of compensation.
 
@@ -60,7 +60,7 @@ For the purposes of this part, the following definitions apply:
 
 \(o\) *Refusal to submit to drug test* means that an employee engages in conduct including but not limited to that described in 49 CFR 40.191.
 
-\(p\) *Safety-sensitive function* means a function listed in §§120.105 and 120.215.
+\(p\) *Safety-sensitive function* means a function listed in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] and 120.215.
 
 \(q\) *Verified negative drug test result* means a drug test result from an HHS-certified laboratory that has undergone review by an MRO and has been determined by the MRO to be a negative result.
 
@@ -74,35 +74,35 @@ For the purposes of this part, the following definitions apply:
 
 ### §120.11   Refusal to submit to a drug or alcohol test by a Part 61 certificate holder.
 
-\(a\) This section applies to all individuals who hold a certificate under part 61 of this chapter and who are subject to drug and alcohol testing under this part.
+\(a\) This section applies to all individuals who hold a certificate under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] and who are subject to drug and alcohol testing under this part.
 
-\(b\) Refusal by the holder of a certificate issued under part 61 of this chapter to take a drug or alcohol test required under the provisions of this part is grounds for:
+\(b\) Refusal by the holder of a certificate issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] to take a drug or alcohol test required under the provisions of this part is grounds for:
 
-\(1\) Denial of an application for any certificate, rating, or authorization issued under part 61 of this chapter for a period of up to 1 year after the date of such refusal; and
+\(1\) Denial of an application for any certificate, rating, or authorization issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]] for a period of up to 1 year after the date of such refusal; and
 
-\(2\) Suspension or revocation of any certificate, rating, or authorization issued under part 61 of this chapter.
+\(2\) Suspension or revocation of any certificate, rating, or authorization issued under [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 ### §120.13   Refusal to submit to a drug or alcohol test by a Part 63 certificate holder.
 
-\(a\) This section applies to all individuals who hold a certificate under part 63 of this chapter and who are subject to drug and alcohol testing under this part.
+\(a\) This section applies to all individuals who hold a certificate under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]] and who are subject to drug and alcohol testing under this part.
 
-\(b\) Refusal by the holder of a certificate issued under part 63 of this chapter to take a drug or alcohol test required under the provisions of this part is grounds for:
+\(b\) Refusal by the holder of a certificate issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]] to take a drug or alcohol test required under the provisions of this part is grounds for:
 
-\(1\) Denial of an application for any certificate or rating issued under part 63 of this chapter for a period of up to 1 year after the date of such refusal; and
+\(1\) Denial of an application for any certificate or rating issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]] for a period of up to 1 year after the date of such refusal; and
 
-\(2\) Suspension or revocation of any certificate or rating issued under part 63 of this chapter.
+\(2\) Suspension or revocation of any certificate or rating issued under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]].
 
 \[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009; Amdt. 120-0A, 75 FR 3153, Jan. 20, 2010\]
 
 ### §120.15   Refusal to submit to a drug or alcohol test by a Part 65 certificate holder.
 
-\(a\) This section applies to all individuals who hold a certificate under part 65 of this chapter and who are subject to drug and alcohol testing under this part.
+\(a\) This section applies to all individuals who hold a certificate under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] and who are subject to drug and alcohol testing under this part.
 
-\(b\) Refusal by the holder of a certificate issued under part 65 of this chapter to take a drug or alcohol test required under the provisions of this part is grounds for:
+\(b\) Refusal by the holder of a certificate issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] to take a drug or alcohol test required under the provisions of this part is grounds for:
 
-\(1\) Denial of an application for any certificate or rating issued under part 65 of this chapter for a period of up to 1 year after the date of such refusal; and
+\(1\) Denial of an application for any certificate or rating issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] for a period of up to 1 year after the date of such refusal; and
 
-\(2\) Suspension or revocation of any certificate or rating issued under part 65 of this chapter.
+\(2\) Suspension or revocation of any certificate or rating issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]].
 
 \[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009; Amdt. 120-0A, 75 FR 3153, Jan. 20, 2010\]
 
@@ -140,7 +140,7 @@ For the purposes of this part, the following definitions apply:
 
 \(b\) No employer shall use any individual who meets the definition of covered employee in subpart A of this part to perform a safety-sensitive function listed in subpart F of this part unless that individual is subject to testing for alcohol misuse in accordance with the provisions of that subpart.
 
-## Subpart D—Part 119 Certificate Holders Authorized To Conduct Operations under Part 121 or Part 135 or Operators Under §91.147 of This Chapter and Safety-Sensitive Employees
+## Subpart D—Part 119 Certificate Holders Authorized To Conduct Operations under Part 121 or Part 135 or Operators Under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of This Chapter and Safety-Sensitive Employees
 
 ### §120.31   Prohibited drugs.
 
@@ -232,15 +232,15 @@ This subpart contains the standards and components that must be included in a dr
 
 \(2\) 14 CFR:
 
-\(i\) §67.107—First-Class Airman Medical Certificate, Mental.
+\(i\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]]—First-Class Airman Medical Certificate, Mental.
 
-\(ii\) §67.207—Second-Class Airman Medical Certificate, Mental.
+\(ii\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.207   Mental.|§67.207]]—Second-Class Airman Medical Certificate, Mental.
 
-\(iii\) §67.307—Third-Class Airman Medical Certificate, Mental.
+\(iii\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.307   Mental.|§67.307]]—Third-Class Airman Medical Certificate, Mental.
 
-\(iv\) §91.147—Passenger carrying flight for compensation or hire.
+\(iv\) [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]]—Passenger carrying flight for compensation or hire.
 
-\(v\) §135.1—Applicability
+\(v\) [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.1   Applicability.|§135.1]]—Applicability
 
 \(e\) Falsification. No individual may make, or cause to be made, any of the following:
 
@@ -278,7 +278,7 @@ Each employee, including any assistant, helper, or individual in a training stat
 
 ### §120.107   Substances for which testing must be conducted.
 
-Each employer shall test each employee who performs a safety-sensitive function for evidence of a prohibited drug during each test required by §120.109.
+Each employer shall test each employee who performs a safety-sensitive function for evidence of a prohibited drug during each test required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.109   Types of drug testing required.|§120.109]].
 
 \[84 FR 16773, Apr. 23, 2019\]
 
@@ -286,7 +286,7 @@ Each employer shall test each employee who performs a safety-sensitive function 
 
 Each employer shall conduct the types of testing described in this section in accordance with the procedures set forth in this subpart and the DOT “Procedures for Transportation Workplace Drug Testing Programs” (49 CFR part 40).
 
-\(a\) *Pre-employment drug testing.* (1) No employer may hire any individual for a safety-sensitive function listed in §120.105 unless the employer first conducts a pre-employment test and receives a verified negative drug test result for that individual.
+\(a\) *Pre-employment drug testing.* (1) No employer may hire any individual for a safety-sensitive function listed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] unless the employer first conducts a pre-employment test and receives a verified negative drug test result for that individual.
 
 \(2\) No employer may allow an individual to transfer from a nonsafety-sensitive to a safety-sensitive function unless the employer first conducts a pre-employment test and receives a verified negative drug test result for the individual.
 
@@ -304,7 +304,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(b\) *Random drug testing.* (1) Except as provided in paragraphs (b)(2) through (b)(4) of this section, the minimum annual percentage rate for random drug testing shall be 50 percent of covered employees.
 
-\(2\) The Administrator's decision to increase or decrease the minimum annual percentage rate for random drug testing is based on the reported positive rate for the entire industry. All information used for this determination is drawn from the statistical reports required by §120.119. In order to ensure reliability of the data, the Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from employers, and may make appropriate modifications in calculating the industry positive rate. Each year, the Administrator will publish in the Federal Register the minimum annual percentage rate for random drug testing of covered employees. The new minimum annual percentage rate for random drug testing will be applicable starting January 1 of the calendar year following publication.
+\(2\) The Administrator's decision to increase or decrease the minimum annual percentage rate for random drug testing is based on the reported positive rate for the entire industry. All information used for this determination is drawn from the statistical reports required by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.119   Annual reports.|§120.119]]. In order to ensure reliability of the data, the Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from employers, and may make appropriate modifications in calculating the industry positive rate. Each year, the Administrator will publish in the Federal Register the minimum annual percentage rate for random drug testing of covered employees. The new minimum annual percentage rate for random drug testing will be applicable starting January 1 of the calendar year following publication.
 
 \(3\) When the minimum annual percentage rate for random drug testing is 50 percent, the Administrator may lower this rate to 25 percent of all covered employees if the Administrator determines that the data received under the reporting requirements of this subpart for two consecutive calendar years indicate that the reported positive rate is less than 1.0 percent.
 
@@ -370,7 +370,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(c\) *Release of drug testing information.* An employer shall release information regarding an employee's drug testing results, evaluation, or rehabilitation to a third party in accordance with 49 CFR part 40. Except as required by law, this subpart, or 49 CFR part 40, no employer shall release employee information.
 
-\(d\) *Refusal to submit to testing.* Each employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or part 65 of this chapter who has refused to submit to a drug test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
+\(d\) *Refusal to submit to testing.* Each employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] who has refused to submit to a drug test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
 
 \(e\) *Permanent disqualification from service.* (1) An employee who has verified positive drug test results on two drug tests required by this subpart of this chapter, and conducted after September 19, 1994, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed prior to the second drug test.
 
@@ -392,9 +392,9 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(3\) An employer must forward to the Federal Air Surgeon within 2 working days of receipt, copies of all reports provided to the employer by a SAP regarding the following:
 
-\(i\) An individual who the MRO has reported to the Federal Air Surgeon under §120.113 (d)(1); or
+\(i\) An individual who the MRO has reported to the Federal Air Surgeon under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.113   Medical Review Officer, Substance Abuse Professional, and Employer Responsibilities.|§120.113]] (d)(1); or
 
-\(ii\) An individual who the employer has reported to the Federal Air Surgeon under §120.111(d).
+\(ii\) An individual who the employer has reported to the Federal Air Surgeon under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.111   Administrative and other matters.|§120.111]](d).
 
 \(4\) The employer must not permit an employee who is required to hold an airman medical certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md|14 CFR part 67]] to perform a safety-sensitive duty to resume that duty until the employee has:
 
@@ -426,7 +426,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(ii\) The manifestations and behavioral cues that may indicate drug use and abuse; and
 
-\(2\) The employer's supervisory personnel who will determine when an employee is subject to testing based on reasonable cause shall receive specific training on specific, contemporaneous physical, behavioral, and performance indicators of probable drug use in addition to the training specified in §120.115 (c).
+\(2\) The employer's supervisory personnel who will determine when an employee is subject to testing based on reasonable cause shall receive specific training on specific, contemporaneous physical, behavioral, and performance indicators of probable drug use in addition to the training specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.115   Employee Assistance Program (EAP).|§120.115]] (c).
 
 \(3\) The employer shall ensure that supervisors who will make reasonable cause determinations receive at least 60 minutes of initial training.
 
@@ -446,31 +446,31 @@ Each employer shall conduct the types of testing described in this section in ac
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A part 119 certificate holder with authority to operate under parts 121 or 135</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your FAA Principal Operations Inspector.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) An operator as defined in §91.147 of this chapter</td><td style="text-align: left;">Obtain a Letter of Authorization by contacting the Flight Standards District Office nearest to your principal place of business.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) A part 119 certificate holder with authority to operate under parts 121 or 135 and an operator as defined in §91.147 of this chapter</td><td style="text-align: left;">Complete the requirements in paragraphs 1 and 2 of this chart and advise the Flight Standards District Office and the Drug Abatement Division that the §91.147 operation will be included under the part 119 testing program. Contact the Drug Abatement Division at FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) An air traffic control facility not operated by the FAA or by or under contract to the U.S. Military</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(5) A part 145 certificate holder who has your own drug testing program</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your Principal Maintenance Inspector or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own drug testing program.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(6) A contractor who has your own drug testing program</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own drug testing program.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A part 119 certificate holder with authority to operate under parts 121 or 135</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your FAA Principal Operations Inspector.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) An operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">Obtain a Letter of Authorization by contacting the Flight Standards District Office nearest to your principal place of business.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) A part 119 certificate holder with authority to operate under parts 121 or 135 and an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">Complete the requirements in paragraphs 1 and 2 of this chart and advise the Flight Standards District Office and the Drug Abatement Division that the [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] operation will be included under the part 119 testing program. Contact the Drug Abatement Division at FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) An air traffic control facility not operated by the FAA or by or under contract to the U.S. Military</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(5) A part 145 certificate holder who has your own drug testing program</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your Principal Maintenance Inspector or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own drug testing program.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(6) A contractor who has your own drug testing program</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own drug testing program.</td></tr></tbody></table>
 
 </div>
 
 </div>
 
-\(b\) Use the following chart for implementing a drug testing program if you are applying for a part 119 certificate with authority to operate under parts 121 or 135 of this chapter, if you intend to begin operations as defined in §91.147 of this chapter, or if you intend to begin air traffic control operations (not operated by the FAA or by or under contract to the U.S. Military). Use it to determine whether you need to have an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA. Your employees who perform safety-sensitive functions must be tested in accordance with this subpart. The chart follows:
+\(b\) Use the following chart for implementing a drug testing program if you are applying for a part 119 certificate with authority to operate under parts 121 or 135 of this chapter, if you intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or if you intend to begin air traffic control operations (not operated by the FAA or by or under contract to the U.S. Military). Use it to determine whether you need to have an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA. Your employees who perform safety-sensitive functions must be tested in accordance with this subpart. The chart follows:
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Apply for a part 119 certificate with authority to operate under parts 121 or 135</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Intend to begin operations as defined in §91.147 of this chapter</td><td style="text-align: left;">(i) Have a Letter of Authorization,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) Apply for a part 119 certificate with authority to operate under parts 121 or 135 and intend to begin operations as defined in §91.147 of this chapter</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification and a Letter of Authorization,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement your combined FAA drug testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) Intend to begin air traffic control operations (at an air traffic control facility not operated by the FAA or by or under contract to the U.S. military)</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, prior to starting operations,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Apply for a part 119 certificate with authority to operate under parts 121 or 135</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">(i) Have a Letter of Authorization,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) Apply for a part 119 certificate with authority to operate under parts 121 or 135 and intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification and a Letter of Authorization,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement your combined FAA drug testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) Intend to begin air traffic control operations (at an air traffic control facility not operated by the FAA or by or under contract to the U.S. military)</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, prior to starting operations,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start operations, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr></tbody></table>
 
 </div>
 
 </div>
 
-\(c\) If you are an individual or company that intends to provide safety-sensitive services by contract to a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operation as defined in §91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military, use the following chart to determine what you must do if you opt to have your own drug testing program.
+\(c\) If you are an individual or company that intends to provide safety-sensitive services by contract to a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operation as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military, use the following chart to determine what you must do if you opt to have your own drug testing program.
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you . . .</th><th scope="col">And you opt to conduct your own drug program, you must . . .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Are a part 145 certificate holder</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="even"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 or 135, or operator as defined in §91.147 of this chapter, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Are a contractor</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="odd"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 or 135, or operator as defined in §91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military, and</td></tr><tr class="even"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you . . .</th><th scope="col">And you opt to conduct your own drug program, you must . . .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Are a part 145 certificate holder</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="even"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 or 135, or operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Are a contractor</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="odd"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(ii) Implement an FAA drug testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 or 135, or operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military, and</td></tr><tr class="even"><td style="text-align: left;" scope="row"></td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr></tbody></table>
 
 </div>
 
@@ -486,7 +486,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(iv\) Address where your drug and alcohol testing program records are kept.
 
-\(v\) Whether you have 50 or more safety-sensitive employees, or 49 or fewer safety-sensitive employees. (Part 119 certificate holders with authority to operate only under part 121 of this chapter are not required to provide this information.)
+\(v\) Whether you have 50 or more safety-sensitive employees, or 49 or fewer safety-sensitive employees. (Part 119 certificate holders with authority to operate only under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] are not required to provide this information.)
 
 \(2\) You must certify on your Antidrug and Alcohol Misuse Prevention Program Operations Specification issued by your FAA Principal Operations Inspector or Principal Maintenance Inspector that you will comply with this part and 49 CFR part 40.
 
@@ -494,7 +494,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(4\) You must update the Antidrug and Alcohol Misuse Prevention Program Operations Specification when any changes to the information contained in the Operation Specification occur.
 
-\(e\) *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with §91.147.* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
+\(e\) *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]].* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
 
 \(i\) Company name.
 
@@ -512,7 +512,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(3\) Update the Letter of Authorization information as changes occur. Send the updates to the Flight Standards District Office nearest your principal place of business.
 
-\(4\) If you are a part 119 certificate holder with authority to operate under parts 121 or 135 and intend to begin operations as defined in §91.147 of this chapter, you must also advise the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
+\(4\) If you are a part 119 certificate holder with authority to operate under parts 121 or 135 and intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, you must also advise the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 
 \(f\) *Obtaining a Drug and Alcohol Testing Program Registration from the FAA.* (1) Except as provided in paragraphs (d) and (e) of this section, to obtain a Drug and Alcohol Testing Program Registration from the FAA, you must submit the following information to the Office of Aerospace Medicine, Drug Abatement Division:
 
@@ -526,7 +526,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(v\) Whether you have 50 or more covered employees, or 49 or fewer covered employees.
 
-\(vi\) A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or part 135 of this chapter, an operator as defined in §91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
+\(vi\) A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
 
 \(2\) Send this information to the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 
@@ -566,7 +566,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 \(2\) Each covered employee who is removed from the random testing pool under this section shall be returned to the random testing pool when the employee resumes the performance of safety-sensitive functions wholly or partially within the territory of the United States.
 
-\(b\) The provisions of this subpart shall not apply to any individual who performs a function listed in §120.105 by contract for an employer outside the territory of the United States.
+\(b\) The provisions of this subpart shall not apply to any individual who performs a function listed in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.105   Employees who must be tested.|§120.105]] by contract for an employer outside the territory of the United States.
 
 ### §120.125   Waivers from 49 CFR 40.21.
 
@@ -618,15 +618,15 @@ The following applicable regulations appear in 49 CFR and 14 CFR:
 
 \(b\) 14 CFR:
 
-\(1\) §67.107—First-Class Airman Medical Certificate, Mental.
+\(1\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]]—First-Class Airman Medical Certificate, Mental.
 
-\(2\) §67.207—Second-Class Airman Medical Certificate, Mental.
+\(2\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.207   Mental.|§67.207]]—Second-Class Airman Medical Certificate, Mental.
 
-\(3\) §67.307—Third-Class Airman Medical Certificate, Mental.
+\(3\) [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.307   Mental.|§67.307]]—Third-Class Airman Medical Certificate, Mental.
 
-\(4\) §91.147—Passenger carrying flights for compensation or hire.
+\(4\) [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]]—Passenger carrying flights for compensation or hire.
 
-\(5\) §135.1—Applicability
+\(5\) [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md#§135.1   Applicability.|§135.1]]—Applicability
 
 \[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009; Amdt. 120-0A, 75 FR 3154, Jan. 20, 2010\]
 
@@ -678,7 +678,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(4\) You must conduct all pre-employment alcohol tests using the alcohol testing procedures of 49 CFR part 40.
 
-\(5\) You must not allow a covered employee to begin performing safety-sensitive functions unless the result of the employee's test indicates an alcohol concentration of less than 0.04. If a pre-employment test result under this paragraph indicates an alcohol concentration of 0.02 or greater but less than 0.04, the provisions of §120.221(f) apply.
+\(5\) You must not allow a covered employee to begin performing safety-sensitive functions unless the result of the employee's test indicates an alcohol concentration of less than 0.04. If a pre-employment test result under this paragraph indicates an alcohol concentration of 0.02 or greater but less than 0.04, the provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.221   Consequences for employees engaging in alcohol-related conduct.|§120.221]](f) apply.
 
 \(b\) *Post-accident alcohol testing.* (1) As soon as practicable following an accident, each employer shall test each surviving covered employee for alcohol if that employee's performance of a safety-sensitive function either contributed to the accident or cannot be completely discounted as a contributing factor to the accident. The decision not to administer a test under this section shall be based on the employer's determination, using the best available information at the time of the determination, that the covered employee's performance could not have contributed to the accident.
 
@@ -730,7 +730,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(ii\) Randomly select such employees for testing at the highest percentage rate established for the calendar year by any DOT agency to which the employer is subject.
 
-\(d\) *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in §§120.19 or 120.37.
+\(d\) *Reasonable suspicion alcohol testing.* (1) An employer shall require a covered employee to submit to an alcohol test when the employer has reasonable suspicion to believe that the employee has violated the alcohol misuse prohibitions in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
 
 \(2\) The employer's determination that reasonable suspicion exists to require the covered employee to undergo an alcohol test shall be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech or body odors of the employee. The required observations shall be made by a supervisor who is trained in detecting the symptoms of alcohol misuse. The supervisor who makes the determination that reasonable suspicion exists shall not conduct the breath alcohol test on that employee.
 
@@ -742,13 +742,13 @@ No individual may make, or cause to be made, any of the following:
 
 \(A\) An alcohol test is administered and the employee's alcohol concentration measures less than 0.02; or
 
-\(B\) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in §§120.19 or 120.37.
+\(B\) The start of the employee's next regularly scheduled duty period, but not less than 8 hours following the determination made under paragraph (d)(2) of this section that there is reasonable suspicion that the employee has violated the alcohol misuse provisions in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
 
 \(iii\) No employer shall take any action under this subpart against a covered employee based solely on the employee's behavior and appearance in the absence of an alcohol test. This does not prohibit an employer with authority independent of this subpart from taking any action otherwise consistent with law.
 
-\(e\) *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in §§120.19 or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
+\(e\) *Return-to-duty alcohol testing.* Each employer shall ensure that before a covered employee returns to duty requiring the performance of a safety-sensitive function after engaging in conduct prohibited in §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 the employee shall undergo a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02. The test cannot occur until after the SAP has determined that the employee has successfully complied with the prescribed education and/or treatment.
 
-\(f\) *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by §§120.19 or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
+\(f\) *Follow-up alcohol testing.* (1) Each employer shall ensure that the employee who engages in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, is subject to unannounced follow-up alcohol testing as directed by a SAP.
 
 \(2\) The number and frequency of such testing shall be determined by the employer's SAP, but must consist of at least six tests in the first 12 months following the employee's return to duty.
 
@@ -758,7 +758,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(5\) A covered employee shall be tested for alcohol under this section only while the employee is performing safety-sensitive functions, just before the employee is to perform safety-sensitive functions, or just after the employee has ceased performing such functions.
 
-\(g\) *Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04.* Each employer shall retest a covered employee to ensure compliance with the provisions of §120.221(f) if the employer chooses to permit the employee to perform a safety-sensitive function within 8 hours following the administration of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04.
+\(g\) *Retesting of covered employees with an alcohol concentration of 0.02 or greater but less than 0.04.* Each employer shall retest a covered employee to ensure compliance with the provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.221   Consequences for employees engaging in alcohol-related conduct.|§120.221]](f) if the employer chooses to permit the employee to perform a safety-sensitive function within 8 hours following the administration of an alcohol test indicating an alcohol concentration of 0.02 or greater but less than 0.04.
 
 ### §120.219   Handling of test results, record retention, and confidentiality.
 
@@ -770,11 +770,11 @@ No individual may make, or cause to be made, any of the following:
 
 \(A\) Copies of any annual reports submitted to the FAA under this subpart for a minimum of 5 years.
 
-\(B\) Records of notifications to the Federal Air Surgeon of refusals to submit to testing and violations of the alcohol misuse prohibitions in this chapter by covered employees who hold medical certificates issued under part 67 of this chapter.
+\(B\) Records of notifications to the Federal Air Surgeon of refusals to submit to testing and violations of the alcohol misuse prohibitions in this chapter by covered employees who hold medical certificates issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]].
 
 \(C\) Documents presented by a covered employee to dispute the result of an alcohol test administered under this subpart.
 
-\(D\) Records related to other violations of §§120.19 or 120.37.
+\(D\) Records related to other violations of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37.
 
 \(ii\) *Two years.* Records related to the testing process and training required under this subpart.
 
@@ -788,7 +788,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(E\) Materials on alcohol misuse awareness, including a copy of the employer's policy on alcohol misuse.
 
-\(F\) Documentation of compliance with the requirements of §120.223(a).
+\(F\) Documentation of compliance with the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.223   Alcohol misuse information, training, and substance abuse professionals.|§120.223]](a).
 
 \(G\) Documentation of training provided to supervisors for the purpose of qualifying the supervisors to make a determination concerning the need for alcohol testing based on reasonable suspicion.
 
@@ -814,17 +814,17 @@ No individual may make, or cause to be made, any of the following:
 
 ### §120.221   Consequences for employees engaging in alcohol-related conduct.
 
-\(a\) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §§120.19 or 120.37, or an alcohol misuse rule of another DOT agency.
+\(a\) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, or an alcohol misuse rule of another DOT agency.
 
 \(2\) No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.
 
-\(b\) *Permanent disqualification from service.* (1) An employee who violates §§120.19(c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+\(b\) *Permanent disqualification from service.* (1) An employee who violates §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]](c) or 120.37(c) is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
 
-\(2\) An employee who engages in alcohol use that violates another alcohol misuse provision of §§120.19 or 120.37, and who had previously engaged in alcohol use that violated the provisions of §§120.19 or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
+\(2\) An employee who engages in alcohol use that violates another alcohol misuse provision of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37, and who had previously engaged in alcohol use that violated the provisions of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 after becoming subject to such prohibitions, is permanently precluded from performing for an employer the safety-sensitive duties the employee performed before such violation.
 
-\(c\) *Notice to the Federal Air Surgeon.* (1) An employer who determines that a covered employee who holds an airman medical certificate issued under part 67 of this chapter has engaged in alcohol use that violated the alcohol misuse provisions of §§120.19 or 120.37 shall notify the Federal Air Surgeon within 2 working days.
+\(c\) *Notice to the Federal Air Surgeon.* (1) An employer who determines that a covered employee who holds an airman medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] has engaged in alcohol use that violated the alcohol misuse provisions of §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 shall notify the Federal Air Surgeon within 2 working days.
 
-\(2\) Each such employer shall forward to the Federal Air Surgeon a copy of the report of any evaluation performed under the provisions of §120.223(c) within 2 working days of the employer's receipt of the report.
+\(2\) Each such employer shall forward to the Federal Air Surgeon a copy of the report of any evaluation performed under the provisions of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.223   Alcohol misuse information, training, and substance abuse professionals.|§120.223]](c) within 2 working days of the employer's receipt of the report.
 
 \(3\) All documents must be sent to the Federal Air Surgeon, Federal Aviation Administration, Office of Aerospace Medicine, Attn: Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591.
 
@@ -832,9 +832,9 @@ No individual may make, or cause to be made, any of the following:
 
 \(5\) Once the Federal Air Surgeon has recommended under paragraph (c)(4) of this section that the employee be permitted to perform safety-sensitive duties, the employer cannot permit the employee to perform those safety-sensitive duties until the employer has ensured that the employee meets the return to duty requirements in accordance with 49 CFR part 40.
 
-\(d\) *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or part 65 of this chapter who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
+\(d\) *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]] who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
 
-\(e\) *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by §§120.19 or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
+\(e\) *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.19   Misuse of alcohol.|§120.19]] or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
 
 \(f\) *Other alcohol-related conduct.* (1) No covered employee tested under this subpart who is found to have an alcohol concentration of 0.02 or greater but less than 0.04 shall perform or continue to perform safety-sensitive functions for an employer, nor shall an employer permit the employee to perform or continue to perform safety-sensitive functions, until:
 
@@ -880,7 +880,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(xii\) Optional provisions. The materials supplied to covered employees may also include information on additional employer policies with respect to the use or possession of alcohol, including any consequences for an employee found to have a specified alcohol level, that are based on the employer's authority independent of this subpart. Any such additional policies or consequences must be clearly and obviously described as being based on independent authority.
 
-\(b\) *Training for supervisors.* Each employer shall ensure that persons designated to determine whether reasonable suspicion exists to require a covered employee to undergo alcohol testing under §120.217(d) of this subpart receive at least 60 minutes of training on the physical, behavioral, speech, and performance indicators of probable alcohol misuse.
+\(b\) *Training for supervisors.* Each employer shall ensure that persons designated to determine whether reasonable suspicion exists to require a covered employee to undergo alcohol testing under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0120 Drug and alcohol testing program.md#§120.217   Tests required.|§120.217]](d) of this subpart receive at least 60 minutes of training on the physical, behavioral, speech, and performance indicators of probable alcohol misuse.
 
 \(c\) *Substance abuse professional (SAP) duties.* The SAP must perform the functions set forth in 49 CFR part 40, subpart O, and this subpart.
 
@@ -892,33 +892,33 @@ No individual may make, or cause to be made, any of the following:
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A part 119 certificate holder with authority to operate under part 121 or 135</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your FAA Principal Operations Inspector.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) An operator as defined in §91.147 of this chapter</td><td style="text-align: left;">Obtain a Letter of Authorization by contacting the Flight Standards District Office nearest to your principal place of business.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) A part 119 certificate holder with authority to operate under part 121 or part 135 and an operator as defined in §91.147 of this chapter</td><td style="text-align: left;">Complete the requirements in paragraphs 1 and 2 of this chart and advise the Flight Standards District Office and Drug Abatement Division that the §91.147 operation will be included under the part 119 testing program. Contact Drug Abatement Division at FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) An air traffic control facility not operated by the FAA or by or under contract to the U.S. Military</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(5) A part 145 certificate holder who has your own alcohol testing program</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your Principal Maintenance Inspector or register with the FAA Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own alcohol testing program.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(6) A contractor who has your own alcohol testing program</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own alcohol testing program.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you are .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) A part 119 certificate holder with authority to operate under part 121 or 135</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your FAA Principal Operations Inspector.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) An operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">Obtain a Letter of Authorization by contacting the Flight Standards District Office nearest to your principal place of business.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(3) A part 119 certificate holder with authority to operate under part 121 or part 135 and an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">Complete the requirements in paragraphs 1 and 2 of this chart and advise the Flight Standards District Office and Drug Abatement Division that the [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] operation will be included under the part 119 testing program. Contact Drug Abatement Division at FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) An air traffic control facility not operated by the FAA or by or under contract to the U.S. Military</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.</td></tr><tr class="odd"><td style="text-align: left;" scope="row">(5) A part 145 certificate holder who has your own alcohol testing program</td><td style="text-align: left;">Obtain an Antidrug and Alcohol Misuse Prevention Program Operations Specification by contacting your Principal Maintenance Inspector or register with the FAA Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own alcohol testing program.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(6) A contractor who has your own alcohol testing program</td><td style="text-align: left;">Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, if you opt to conduct your own alcohol testing program.</td></tr></tbody></table>
 
 </div>
 
 </div>
 
-\(b\) Use the following chart for implementing an alcohol testing program if you are applying for a part 119 certificate with authority to operate under part 121 or part 135 of this chapter, if you intend to begin operations as defined in §91.147 of this chapter, or if you intend to begin air traffic control operations (not operated by the FAA or by or under contract to the U.S. Military). Use it to determine whether you need to have an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA. Your employees who perform safety-sensitive duties must be tested in accordance with this subpart. The chart follows:
+\(b\) Use the following chart for implementing an alcohol testing program if you are applying for a part 119 certificate with authority to operate under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], if you intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or if you intend to begin air traffic control operations (not operated by the FAA or by or under contract to the U.S. Military). Use it to determine whether you need to have an Antidrug and Alcohol Misuse Prevention Program Operations Specification, Letter of Authorization, or Drug and Alcohol Testing Program Registration from the FAA. Your employees who perform safety-sensitive duties must be tested in accordance with this subpart. The chart follows:
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="header"><th scope="col">If you .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Apply for a part 119 certificate with authority to operate under parts 121 or 135</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Intend to begin operations as defined in §91.147 of this chapter</td><td style="text-align: left;">(i) Have a Letter of Authorization,<br />
-(ii) Implement an FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(3) Apply for a part 119 certificate with authority to operate under parts 121 or 135 and intend to begin operations as defined in §91.147 of this chapter</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification and a Letter of Authorization,<br />
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="header"><th scope="col">If you .  .  .</th><th scope="col">You must .  .  .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Apply for a part 119 certificate with authority to operate under parts 121 or 135</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">(i) Have a Letter of Authorization,<br />
+(ii) Implement an FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(3) Apply for a part 119 certificate with authority to operate under parts 121 or 135 and intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specification and a Letter of Authorization,<br />
 (ii) Implement your combined FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(4) Intend to begin air traffic control operations (at an air traffic control facility not operated by the FAA or by or under contract to the U.S. military)</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591, prior to starting operations,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start operations, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart.</td></tr></tbody></table>
 
 </div>
 
 </div>
 
-\(c\) If you are an individual or a company that intends to provide safety-sensitive services by contract to a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter or an operator as defined in §91.147 of this chapter, use the following chart to determine what you must do if you opt to have your own alcohol testing program.
+\(c\) If you are an individual or a company that intends to provide safety-sensitive services by contract to a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter or an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, use the following chart to determine what you must do if you opt to have your own alcohol testing program.
 
 <div>
 
 <div>
 
-<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you . . .</th><th scope="col">And you opt to conduct your own Alcohol Testing Program, you must . . .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Are a part 145 certificate holder</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specifications or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with the authority to operate under parts 121 and/or 135, or operator as defined in §91.147 of this chapter, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Are a contractor</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 and/or 135, or operator as defined in §91.147 of this chapter, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr></tbody></table>
+<table data-border="1" data-cellpadding="1" data-cellspacing="1" data-frame="void" width="100%"><tbody><tr class="header"><th scope="col">If you . . .</th><th scope="col">And you opt to conduct your own Alcohol Testing Program, you must . . .</th></tr><tr class="odd"><td style="text-align: left;" scope="row">(1) Are a part 145 certificate holder</td><td style="text-align: left;">(i) Have an Antidrug and Alcohol Misuse Prevention Program Operations Specifications or register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with the authority to operate under parts 121 and/or 135, or operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, and</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr><tr class="even"><td style="text-align: left;" scope="row">(2) Are a contractor</td><td style="text-align: left;">(i) Register with the FAA, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591,</td></tr><tr class="odd"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(ii) Implement an FAA alcohol testing program no later than the date you start performing safety-sensitive functions for a part 119 certificate holder with authority to operate under parts 121 and/or 135, or operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, and</td></tr><tr class="even"><td style="text-align: left;" scope="row">   </td><td style="text-align: left;">(iii) Meet the requirements of this subpart as if you were an employer.</td></tr></tbody></table>
 
 </div>
 
@@ -934,7 +934,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(iv\) Address where your drug and alcohol testing program records are kept.
 
-\(v\) Whether you have 50 or more covered employees, or 49 or fewer covered employees. (Part 119 certificate holders with authority to operate only under part 121 of this chapter are not required to provide this information.)
+\(v\) Whether you have 50 or more covered employees, or 49 or fewer covered employees. (Part 119 certificate holders with authority to operate only under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] are not required to provide this information.)
 
 \(2\) You must certify on your Antidrug and Alcohol Misuse Prevention Program Operations Specification, issued by your FAA Principal Operations Inspector or Principal Maintenance Inspector, that you will comply with this part and 49 CFR part 40.
 
@@ -942,7 +942,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(4\) You must update the Antidrug and Alcohol Misuse Prevention Program Operations Specification when any changes to the information contained in the Operation Specification occur.
 
-\(e\) *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with §91.147.* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
+\(e\) *Register your Drug and Alcohol Testing Program by obtaining a Letter of Authorization from the FAA in accordance with [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]].* (1) A drug and alcohol testing program is considered registered when the following information is submitted to the Flight Standards District Office nearest your principal place of business:
 
 \(i\) Company name.
 
@@ -960,7 +960,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(3\) Update the Letter of Authorization information as changes occur. Send the updates to the Flight Standards District Office nearest your principal place of business.
 
-\(4\) If you are a part 119 certificate holder with authority to operate under part 121 or part 135 and intend to begin operations as defined in §91.147 of this chapter, you must also advise the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
+\(4\) If you are a part 119 certificate holder with authority to operate under part 121 or part 135 and intend to begin operations as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, you must also advise the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 
 \(f\) *Obtaining a Drug and Alcohol Testing Program Registration from the FAA.* (1) Except as provided in paragraphs (d) and (e) of this section, to obtain a Drug and Alcohol Testing Program Registration from the FAA you must submit the following information to the Office of Aerospace Medicine, Drug Abatement Division:
 
@@ -974,7 +974,7 @@ No individual may make, or cause to be made, any of the following:
 
 \(v\) Whether you have 50 or more covered employees, or 49 or fewer covered employees.
 
-\(vi\) A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or part 135 of this chapter, an operator as defined in §91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
+\(vi\) A signed statement indicating that: your company will comply with this part and 49 CFR part 40; and you intend to provide safety-sensitive functions by contract (including subcontract at any tier) to a part 119 certificate holder with authority to operate under part 121 or [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md|part 135 of this chapter]], an operator as defined in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.147   Passenger carrying flights for compensation or hire.|§91.147]] of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. military.
 
 \(2\) Send this information to the Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue SW., Washington, DC 20591.
 

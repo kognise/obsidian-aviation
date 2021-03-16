@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.3.129](https://www.ecfr
 
 <div>
 
-Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
+Editorial Note: For the text of SFAR No. 97, see [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]].
 
 </div>
 
@@ -22,7 +22,7 @@ Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
 
 \(2\) Other appropriate economic or exemption authority issued by the U.S. Department of Transportation.
 
-\(b\) *Operations of U.S.-registered aircraft solely outside the United States.* In addition to the operations specified under paragraph (a) of this section, §§129.5, 129.7, 129.9, 129.11, 129.14, 129.20 and 129.24, and subpart B of this part also apply to operations of U.S.-registered aircraft operated solely outside the United States in common carriage by a foreign person or foreign air carrier.
+\(b\) *Operations of U.S.-registered aircraft solely outside the United States.* In addition to the operations specified under paragraph (a) of this section, §[[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.5   Operations specifications.|§129.5]], 129.7, 129.9, 129.11, 129.14, 129.20 and 129.24, and subpart B of this part also apply to operations of U.S.-registered aircraft operated solely outside the United States in common carriage by a foreign person or foreign air carrier.
 
 \(c\) *Definitions.* For the purpose of this part—
 
@@ -50,11 +50,11 @@ Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
 
 \(2\) The Administrator suspends or terminates the operations specifications; or
 
-\(3\) The operations specifications are amended as provided in §129.11.
+\(3\) The operations specifications are amended as provided in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.11   Amendment, suspension and termination of operations specifications.|§129.11]].
 
 \(g\) Within 30 days after a foreign air carrier or foreign person terminates operations under part 129 of this subchapter, the operations specifications must be surrendered by the foreign air carrier or foreign person to the responsible Flight Standards office.
 
-\(h\) No person operating under this part may operate or list on its operations specifications any airplane listed on operations specifications issued under part 125 of this chapter.
+\(h\) No person operating under this part may operate or list on its operations specifications any airplane listed on operations specifications issued under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0125 Certification and operations  airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules governing persons on board such aircraft.md|part 125 of this chapter]].
 
 \[Doc. No. FAA-2009-0140; 76 FR 7489, Feb. 10, 2011, as amended by Docket FAA-2018-0119, Amdt. 129-53, 83 FR 9174, Mar. 5, 2018\]
 
@@ -86,7 +86,7 @@ Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
 
 ### §129.9   Contents of operations specifications.
 
-\(a\) The contents of operations specifications issued to a foreign air carrier conducting operations within the United States under §129.1(a) shall include:
+\(a\) The contents of operations specifications issued to a foreign air carrier conducting operations within the United States under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]](a) shall include:
 
 \(1\) The specific location and mailing address of the applicant's principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier;
 
@@ -102,7 +102,7 @@ Editorial Note: For the text of SFAR No. 97, see part 91 of this chapter.
 
 \(7\) Any other item the Administrator determines is necessary.
 
-\(b\) The contents of operations specifications issued to a foreign air carrier or foreign person operating U.S.-registered aircraft solely outside the United States in common carriage in accordance with §129.1(b) shall include—
+\(b\) The contents of operations specifications issued to a foreign air carrier or foreign person operating U.S.-registered aircraft solely outside the United States in common carriage in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]](b) shall include—
 
 \(1\) The specific location and mailing address of the principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier or foreign person;
 
@@ -246,7 +246,7 @@ Each person acting as a flightcrew member must hold a certificate or license tha
 
 \(b\) *Aircraft communication equipment requirements.* No foreign air carrier may operate an aircraft under IFR or over the top, unless it is equipped with—
 
-\(1\) At least two independent communication systems necessary under normal operating conditions to fulfill the functions specified in §121.347(a) of this chapter; and
+\(1\) At least two independent communication systems necessary under normal operating conditions to fulfill the functions specified in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.347   Communication and navigation equipment for operations under VFR over routes navigated by pilotage.|§121.347]](a) of this chapter; and
 
 \(2\) At least one of the communication systems required by paragraph (b)(1) of this section must have two-way voice communication capability.
 
@@ -370,17 +370,17 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 ### §129.28   Flightdeck security.
 
-\(a\) After August 20, 2002, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by §129.1(a), may operate:
+\(a\) After August 20, 2002, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]](a), may operate:
 
 \(1\) A passenger carrying transport category airplane within the United States, except for overflights, unless the airplane is equipped with a door between the passenger and pilot compartment that incorporates features to restrict the unwanted entry of persons into the flightdeck that are operable from the flightdeck only; or
 
 \(2\) A transport category all-cargo airplane within the United States, except for overflights, that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, unless the door incorporates features to restrict the unwanted entry of persons into the flightdeck that are operable from the flightdeck only.
 
-\(b\) To the extent necessary to meet the requirements of paragraph (a) of this section, the requirements of §129.13(a) to maintain airworthiness certification are waived until April 9, 2003. After that date, the requirements of §129.13(a) apply in full.
+\(b\) To the extent necessary to meet the requirements of paragraph (a) of this section, the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.13   Airworthiness and registration certificates.|§129.13]](a) to maintain airworthiness certification are waived until April 9, 2003. After that date, the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.13   Airworthiness and registration certificates.|§129.13]](a) apply in full.
 
-\(c\) After April 9, 2003, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by §129.1(a) may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(1) and(2) of this section or an alternative standard found acceptable to the Administrator.
+\(c\) After April 9, 2003, except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]](a) may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(1) and(2) of this section or an alternative standard found acceptable to the Administrator.
 
-\(1\) Except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by §129.1(a) may operate:
+\(1\) Except for a newly manufactured airplane on a non-revenue delivery flight, no foreign air carrier covered by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]](a) may operate:
 
 \(i\) After April 9, 2003, a passenger carrying transport category airplane within the United States, except on overflights, unless the airplane's flightdeck door installation meets the requirements of paragraphs (c)(2) and (c)(3) of this section or an alternative standard found acceptable to the Administrator.
 
@@ -390,11 +390,11 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 \(3\) The door must resist penetration by small arms fire and fragmentation devices to a level equivalent to Level IIIa of the National Institute of Justice Standard (NIJ) 0101.04.
 
-\(d\) After August 20, 2002, no foreign air carrier covered by §129.1 may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the carrier has procedures in place that are acceptable to the civil aviation authority responsible for oversight of the foreign air carriers operating under this part to prevent access to the flightdeck except as authorized as follows:
+\(d\) After August 20, 2002, no foreign air carrier covered by [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.1   Applicability and definitions.|§129.1]] may operate a passenger carrying transport category airplane, or a transport category all-cargo airplane that has a door installed between the pilot compartment and any other occupied compartment on or after June 21, 2002, within the United States, except for overflights, unless the carrier has procedures in place that are acceptable to the civil aviation authority responsible for oversight of the foreign air carriers operating under this part to prevent access to the flightdeck except as authorized as follows:
 
 \(1\) No person other than a person who is assigned to perform duty on the flight deck may have a key to the flight deck door that will provide access to the flightdeck.
 
-\(2\) Except when it is necessary to permit access and egress by persons authorized in accordance with paragraph (d)(3) of this section, a pilot in command of an airplane that has a lockable flight deck door in accordance with §129.28(a) and that is carrying passengers shall ensure that the door separating the flight crew compartment from the passenger compartment is closed and locked at all times when the airplane is being operated.
+\(2\) Except when it is necessary to permit access and egress by persons authorized in accordance with paragraph (d)(3) of this section, a pilot in command of an airplane that has a lockable flight deck door in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.28   Flightdeck security.|§129.28]](a) and that is carrying passengers shall ensure that the door separating the flight crew compartment from the passenger compartment is closed and locked at all times when the airplane is being operated.
 
 \(3\) No person may admit any person to the flight deck of an airplane unless the person being admitted is—
 
@@ -532,11 +532,11 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 \(b\) After March 10, 2011, no foreign person or foreign air carrier may operate a U.S.-registered airplane identified in paragraph (a) of this section unless the maintenance program for that airplane includes inspections and procedures for EWIS.
 
-\(c\) The proposed EWIS maintenance program changes must be based on EWIS Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the provisions of Appendix H of part 25 of this chapter applicable to each affected airplane (including those ICA developed for supplemental type certificates installed on each airplane) and that have been approved by the responsible Aircraft Certification Service office.
+\(c\) The proposed EWIS maintenance program changes must be based on EWIS Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the provisions of Appendix H of [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md|part 25 of this chapter]] applicable to each affected airplane (including those ICA developed for supplemental type certificates installed on each airplane) and that have been approved by the responsible Aircraft Certification Service office.
 
-\(1\) For airplanes subject to §26.11 of this chapter, the EWIS ICA must comply with paragraphs H25.5(a)(1) and (b).
+\(1\) For airplanes subject to [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.11   Electrical wiring interconnection systems (EWIS) maintenance program.|§26.11]] of this chapter, the EWIS ICA must comply with paragraphs H25.5(a)(1) and (b).
 
-\(2\) For airplanes subject to §25.1729 of this chapter, the EWIS ICA must comply with paragraph H25.4 and all of paragraph H25.5.
+\(2\) For airplanes subject to [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1729   Instructions for Continued Airworthiness: EWIS.|§25.1729]] of this chapter, the EWIS ICA must comply with paragraph H25.4 and all of paragraph H25.5.
 
 \(d\) After March 10, 2011, before returning a U.S.-registered airplane to service after any alterations for which EWIS ICA are developed, the foreign person or foreign air carrier must include in the maintenance program for that airplane inspections and procedures for EWIS based on those ICA.
 
@@ -584,9 +584,9 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 \(c\) After December 16, 2008, no foreign person or foreign air carrier may operate a U.S.-registered airplane identified in paragraph (a) of this section unless the maintenance program for that airplane has been revised to include applicable inspections, procedures, and limitations for fuel tank systems.
 
-\(d\) The proposed fuel tank system maintenance program revisions must be based on fuel tank system Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the applicable provisions of SFAR 88 of this chapter or §25.1529 and part 25, Appendix H, of this chapter, in effect on June 6, 2001 (including those developed for auxiliary fuel tanks, if any, installed under supplemental type certificates or other design approval) and that have been approved by the responsible Aircraft Certification Service office.
+\(d\) The proposed fuel tank system maintenance program revisions must be based on fuel tank system Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the applicable provisions of SFAR 88 of this chapter or [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] and part 25, Appendix H, of this chapter, in effect on June 6, 2001 (including those developed for auxiliary fuel tanks, if any, installed under supplemental type certificates or other design approval) and that have been approved by the responsible Aircraft Certification Service office.
 
-\(e\) After December 16, 2008, before returning a U.S.-registered airplane to service after any alteration for which fuel tank ICA are developed under SFAR 88, or under §25.1529 in effect on June 6, 2001, the foreign person or foreign air carrier must include in the maintenance program for the airplane inspections and procedures for the fuel tank system based on those ICA.
+\(e\) After December 16, 2008, before returning a U.S.-registered airplane to service after any alteration for which fuel tank ICA are developed under SFAR 88, or under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1529   Instructions for Continued Airworthiness.|§25.1529]] in effect on June 6, 2001, the foreign person or foreign air carrier must include in the maintenance program for the airplane inspections and procedures for the fuel tank system based on those ICA.
 
 \(f\) The fuel tank system maintenance program changes identified in paragraphs (d) and (e) of this section and any later fuel tank system revisions must be submitted to the Principal Inspector or Flight Standards office responsible for review and approval.
 
@@ -616,17 +616,17 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 ### §129.115   Limit of validity.
 
-\(a\) *Applicability.* This section applies to foreign air carriers or foreign persons operating any U.S.-registered transport category, turbine-powered airplane with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to foreign air carriers or foreign persons operating any other U.S.-registered transport category, turbine-powered airplane with a type certificate issued after January 1, 1958, regardless of the maximum takeoff gross weight, for which a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) is required in accordance with §25.571 or §26.21 of this chapter after January 14, 2011.
+\(a\) *Applicability.* This section applies to foreign air carriers or foreign persons operating any U.S.-registered transport category, turbine-powered airplane with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to foreign air carriers or foreign persons operating any other U.S.-registered transport category, turbine-powered airplane with a type certificate issued after January 1, 1958, regardless of the maximum takeoff gross weight, for which a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) is required in accordance with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]] or [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]] of this chapter after January 14, 2011.
 
-\(b\) *Limit of validity.* No foreign air carrier or foreign person may operate a U.S.-registered airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section, unless an Airworthiness Limitations section (ALS) approved under Appendix H to part 25 or §26.21 of this chapter is incorporated into its maintenance program. The ALS must—
+\(b\) *Limit of validity.* No foreign air carrier or foreign person may operate a U.S.-registered airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section, unless an Airworthiness Limitations section (ALS) approved under Appendix H to part 25 or [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]] of this chapter is incorporated into its maintenance program. The ALS must—
 
-\(1\) Include an LOV approved under §25.571 or §26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
+\(1\) Include an LOV approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]] or [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]] of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
 \(2\) Be clearly distinguishable within its maintenance program.
 
-\(c\) *Operation of airplanes excluded from §26.21.* No certificate holder may operate an airplane identified in §26.21(g) of this chapter after July 14, 2013, unless an ALS approved under Appendix H to part 25 or §26.21 of this chapter is incorporated into its maintenance program. The ALS must—
+\(c\) *Operation of airplanes excluded from [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]].* No certificate holder may operate an airplane identified in [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]](g) of this chapter after July 14, 2013, unless an ALS approved under Appendix H to part 25 or [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]] of this chapter is incorporated into its maintenance program. The ALS must—
 
-\(1\) Include an LOV approved under §25.571 or §26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
+\(1\) Include an LOV approved under [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.571]] or [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]] of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
 \(2\) Be clearly distinguishable within its maintenance program
 
@@ -634,9 +634,9 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 \(1\) An ALS must be incorporated into its maintenance program that—
 
-\(i\) Includes an extended LOV and any widespread fatigue damage airworthiness limitation items (ALIs) approved under §26.23 of this chapter; and
+\(i\) Includes an extended LOV and any widespread fatigue damage airworthiness limitation items (ALIs) approved under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.23   Extended limit of validity.|§26.23]] of this chapter; and
 
-\(ii\) Is approved under §26.23 of this chapter;
+\(ii\) Is approved under [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.23   Extended limit of validity.|§26.23]] of this chapter;
 
 \(2\) The extended LOV and the airworthiness limitation items pertaining to widespread fatigue damage must be clearly distinguishable within its maintenance program.
 
@@ -648,7 +648,7 @@ Foreign air carriers conducting operations under this part must comply with the 
 
 <div>
 
-Table 1—Airplanes Subject to §26.21
+Table 1—Airplanes Subject to [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]]
 
 </div>
 
@@ -681,7 +681,7 @@ Note: Airplane operation limitation is stated in the Airworthiness Limitation se
 
 <div>
 
-Table 2—Airplanes Excluded from §26.21
+Table 2—Airplanes Excluded from [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.21   Limit of validity.|§26.21]]
 
 </div>
 
@@ -705,7 +705,7 @@ hours (FH)]</th></tr><tr class="odd"><td style="text-align: left;" scope="row">A
 
 \(2\) A maximum payload capacity of 7,500 pounds or more.
 
-\(b\) *New Production Airplanes.* Except in accordance with §129.14, no foreign air carrier or foreign person may operate an airplane identified in Table 1 of this section (including all-cargo airplanes) for which application is made for original certificate of airworthiness or export airworthiness approval after December 27, 2010 unless an Ignition Mitigation Means (IMM) or Flammability Reduction Means (FRM) meeting the requirements of §26.33 of this chapter is operational.
+\(b\) *New Production Airplanes.* Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.14   Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.|§129.14]], no foreign air carrier or foreign person may operate an airplane identified in Table 1 of this section (including all-cargo airplanes) for which application is made for original certificate of airworthiness or export airworthiness approval after December 27, 2010 unless an Ignition Mitigation Means (IMM) or Flammability Reduction Means (FRM) meeting the requirements of [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]] of this chapter is operational.
 
 <div>
 
@@ -723,19 +723,19 @@ Table 1
 
 </div>
 
-\(c\) *Auxiliary Fuel Tanks.* After the applicable date stated in paragraph (e) of this section, no foreign air carrier or foreign person may operate any airplane subject §26.33 of this chapter that has an Auxiliary Fuel Tank installed pursuant to a field approval, unless the following requirements are met:
+\(c\) *Auxiliary Fuel Tanks.* After the applicable date stated in paragraph (e) of this section, no foreign air carrier or foreign person may operate any airplane subject [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]] of this chapter that has an Auxiliary Fuel Tank installed pursuant to a field approval, unless the following requirements are met:
 
-\(1\) The foreign air carrier or foreign person complies with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.35   Changes to type certificates affecting fuel tank flammability.|14 CFR 26.35]] by the applicable date stated in that section.
+\(1\) The foreign air carrier or foreign person complies with 14 CFR 26.35 by the applicable date stated in that section.
 
 \(2\) The foreign air carrier or foreign person installs Flammability Impact Mitigation Means (FIMM), if applicable, that are approved by the responsible Aircraft Certification Service office.
 
-\(3\) Except in accordance with §129.14, the FIMM, if applicable, are operational.
+\(3\) Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.14   Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.|§129.14]], the FIMM, if applicable, are operational.
 
 \(d\) *Retrofit.* After the dates specified in paragraph (e) of this section, no foreign air carrier or foreign person may operate an airplane to which this section applies unless the requirements of paragraphs (d)(1) and (d)(2) of this section are met.
 
-\(1\) IMM, FRM or FIMM, if required by §§26.33, 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
+\(1\) IMM, FRM or FIMM, if required by §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter, that are approved by the responsible Aircraft Certification Service office, are installed within the compliance times specified in paragraph (e) of this section.
 
-\(2\) Except in accordance with §129.14, the IMM, FRM or FIMM, as applicable, are operational.
+\(2\) Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.14   Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.|§129.14]], the IMM, FRM or FIMM, as applicable, are operational.
 
 \(e\) *Compliance Times.* Except as provided in paragraphs (k) and (l) of this section, the installations required by paragraph (d) of this section must be accomplished no later than the applicable dates specified in paragraph (e)(1) or (e)(2) of this section.
 
@@ -745,15 +745,15 @@ Table 1
 
 \(3\) For those foreign air carriers or foreign persons that have only one airplane for a model identified in Table 1, the airplane must be modified no later than December 26, 2017.
 
-\(f\) *Compliance after Installation.* Except in accordance with §129.14, no person may—
+\(f\) *Compliance after Installation.* Except in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.14   Maintenance program and minimum equipment list requirements for U.S.-registered aircraft.|§129.14]], no person may—
 
 \(1\) Operate an airplane on which IMM or FRM has been installed before the dates specified in paragraph (e) of this section unless the IMM or FRM is operational.
 
 \(2\) Deactivate or remove an IMM or FRM once installed unless it is replaced by a means that complies with paragraph (d) of this section.
 
-\(g\) *Maintenance Program Revisions.* No foreign air carrier or foreign person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with §§26.33, 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the maintenance program for that airplane is revised to include those applicable airworthiness limitations.
+\(g\) *Maintenance Program Revisions.* No foreign air carrier or foreign person may operate an airplane for which airworthiness limitations have been approved by the responsible Aircraft Certification Service office in accordance with §[[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]], 26.35, or 26.37 of this chapter after the airplane is modified in accordance with paragraph (d) of this section unless the maintenance program for that airplane is revised to include those applicable airworthiness limitations.
 
-\(h\) After the maintenance program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by §§25.981, 26.33, 26.35, or 26.37 of this chapter, the foreign person or foreign air carrier must revise the maintenance program for the airplane to include those airworthiness limitations.
+\(h\) After the maintenance program is revised as required by paragraph (g) of this section, before returning an airplane to service after any alteration for which airworthiness limitations are required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]], 26.33, 26.35, or 26.37 of this chapter, the foreign person or foreign air carrier must revise the maintenance program for the airplane to include those airworthiness limitations.
 
 \(i\) The maintenance program changes identified in paragraphs (g) and (h) of this section must be submitted to the operator's responsible Flight Standards office or Principal Inspector for review and approval prior to incorporation.
 
@@ -763,7 +763,7 @@ Table 1
 
 \(1\) No later than March 26, 2009, the foreign air carrier or foreign person notifies its responsible Flight Standards office or Principal Inspector that it intends to comply with this paragraph;
 
-\(2\) No later than June 24, 2009, the foreign air carrier or foreign person applies for an amendment to its operations specifications in accordance with §129.11 to include a requirement for the airplane models specified in Table 2 of this section to use ground air conditioning systems for actual gate times of more than 30 minutes, when available at the gate and operational, whenever the ambient temperature exceeds 60 degrees Fahrenheit; and
+\(2\) No later than June 24, 2009, the foreign air carrier or foreign person applies for an amendment to its operations specifications in accordance with [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0129 Operations  foreign air carriers and foreign operators of u.s.-registered aircraft engaged in common carriage.md#§129.11   Amendment, suspension and termination of operations specifications.|§129.11]] to include a requirement for the airplane models specified in Table 2 of this section to use ground air conditioning systems for actual gate times of more than 30 minutes, when available at the gate and operational, whenever the ambient temperature exceeds 60 degrees Fahrenheit; and
 
 \(3\) Thereafter, the certificate holder uses ground air conditioning systems as described in paragraph (k)(2) of this section on each airplane subject to the extension.
 
@@ -785,7 +785,7 @@ Table 2
 
 \(l\) For any foreign air carrier or foreign person for which the operating certificate is issued after December 26, 2008, the compliance date specified in paragraph (e) of this section may be extended by one year, provided that the foreign air carrier or foreign person meets the requirements of paragraph (k)(2) of this section when its initial operations specifications are issued and, thereafter, uses ground air conditioning systems as described in paragraph (k)(2) of this section on each airplane subject to the extension.
 
-\(m\) After the date by which any person is required by this section to modify 100 percent of the affected fleet, no person may operate in passenger service any airplane model specified in Table 2 of this section unless the airplane has been modified to comply with §26.33(c) of this chapter.
+\(m\) After the date by which any person is required by this section to modify 100 percent of the affected fleet, no person may operate in passenger service any airplane model specified in Table 2 of this section unless the airplane has been modified to comply with [[Volume 1/C Aircraft/0026 Continued airworthiness and safety improvements for transport category airplanes.md#§26.33   Holders of type certificates: Fuel tank flammability.|§26.33]](c) of this chapter.
 
 <div>
 
@@ -803,7 +803,7 @@ Table 3
 
 </div>
 
-\(n\) No foreign air carrier or foreign person may operate any airplane on which an auxiliary fuel tank is installed after December 26, 2017 unless the FAA has certified the tank as compliant with §25.981 of this chapter, in effect on December 26, 2008.
+\(n\) No foreign air carrier or foreign person may operate any airplane on which an auxiliary fuel tank is installed after December 26, 2017 unless the FAA has certified the tank as compliant with [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.981   Fuel tank explosion prevention.|§25.981]] of this chapter, in effect on December 26, 2008.
 
 \(o\) *Exclusions.* The requirements of this section do not apply to the following airplane models:
 
@@ -859,7 +859,7 @@ Table 3
 
 ### §129.201   SFAR No. 111—Lavatory Oxygen Systems.
 
-The requirements of §121.1500 of this chapter also apply to this part.
+The requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md#§121.1500   SFAR No. 111—Lavatory Oxygen Systems.|§121.1500]] of this chapter also apply to this part.
 
 \[Doc. No. FAA-2011-0186, 76 FR 12556, Mar. 8, 2011\]
 

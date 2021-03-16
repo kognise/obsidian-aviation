@@ -142,7 +142,7 @@ The applicant must consult with the FAA before submitting an application. Unless
 
 ### §414.17   Maintaining the continued accuracy of the initial application.
 
-The applicant is responsible for the continuing accuracy and completeness of information provided to the FAA as part of the safety approval application. If at any time after submitting the application, circumstances occur that cause the information to no longer be accurate and complete in any material respect, the applicant must submit a written statement to the Associate Administrator explaining the circumstances and providing the new or corrected information. The revised application must meet all requirements under §414.11.
+The applicant is responsible for the continuing accuracy and completeness of information provided to the FAA as part of the safety approval application. If at any time after submitting the application, circumstances occur that cause the information to no longer be accurate and complete in any material respect, the applicant must submit a written statement to the Associate Administrator explaining the circumstances and providing the new or corrected information. The revised application must meet all requirements under [[Volume 4/C Licensing/0414 Safety approvals.md#§414.11   Application.|§414.11]].
 
 ## Subpart C—Safety Approval Review and Issuance
 
@@ -184,7 +184,7 @@ The applicant is responsible for the continuing accuracy and completeness of inf
 
 \(a\) The holder of a safety approval must ensure the continued accuracy and completeness of representations contained in the safety approval application, on which the approval was issued, for the entire term of the safety approval.
 
-\(b\) If any representation contained in the application that is material to public health and safety or safety of property ceases to be accurate and complete, the safety approval holder must prepare and submit a revised application according to §414.11 under this part. The safety approval holder must point out any part of the safety approval or the associated application that would be changed or affected by a proposed modification. The FAA will review and make a determination on the revised application under the terms of this part.
+\(b\) If any representation contained in the application that is material to public health and safety or safety of property ceases to be accurate and complete, the safety approval holder must prepare and submit a revised application according to [[Volume 4/C Licensing/0414 Safety approvals.md#§414.11   Application.|§414.11]] under this part. The safety approval holder must point out any part of the safety approval or the associated application that would be changed or affected by a proposed modification. The FAA will review and make a determination on the revised application under the terms of this part.
 
 \(c\) If the FAA approves the revised application, the FAA will provide written notice to the holder, stating the terms and conditions to which the approval is subject.
 
@@ -196,7 +196,7 @@ The holder of a safety approval must maintain all records necessary to verify th
 
 \(a\) *Eligibility.* A holder of a safety approval may apply to renew it by sending the FAA a written application at least 90 days before the expiration date of the approval.
 
-\(b\) *Application.* (1) A safety approval renewal application must meet all the requirements under §414.11.
+\(b\) *Application.* (1) A safety approval renewal application must meet all the requirements under [[Volume 4/C Licensing/0414 Safety approvals.md#§414.11   Application.|§414.11]].
 
 \(2\) The application may incorporate by reference information provided as part of the application for the expiring safety approval or any modification to that approval.
 
@@ -218,7 +218,7 @@ The holder of a safety approval must maintain all records necessary to verify th
 
 \(c\) Both the holder and prospective transferee must agree to the transfer.
 
-\(d\) The person requesting the transfer must submit a safety approval application according to §414.11, must meet the applicable requirements of this part, and may incorporate by reference relevant portions of the initial application.
+\(d\) The person requesting the transfer must submit a safety approval application according to [[Volume 4/C Licensing/0414 Safety approvals.md#§414.11   Application.|§414.11]], must meet the applicable requirements of this part, and may incorporate by reference relevant portions of the initial application.
 
 \(e\) The FAA will approve a transfer of a safety approval only after all the approvals and determinations required under this chapter for a safety approval have been met. In conducting reviews and issuing approvals and determinations, the FAA may incorporate by reference any findings made part of the record to support the initial safety approval determination. The FAA may modify the terms and conditions of a safety approval to reflect any changes necessary because of a safety approval transfer.
 
@@ -268,7 +268,7 @@ For each grant of a safety approval, the FAA will publish in the Federal Registe
 
 \(b\) Submissions must include a detailed exposition of the evidence or arguments supporting the petition.
 
-\(c\) Petitions must be filed as soon as practicable, but in no event more than 30 days after issuance of decision or finding under §414.37.
+\(c\) Petitions must be filed as soon as practicable, but in no event more than 30 days after issuance of decision or finding under [[Volume 4/C Licensing/0414 Safety approvals.md#§414.37   Hearings in safety approval actions.|§414.37]].
 
 ### §414.41   Administrative law judge's recommended decision in safety approval actions.
 

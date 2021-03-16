@@ -46,7 +46,7 @@ This part describes the requirements for designating private persons to act as r
 
 ### §183.13   Certification.
 
-\(a\) A “Certificate of Designation” and an appropriate Identification Card is issued to each Aviation Medical Examiner and to each forensic pathologist designated under §183.11(a).
+\(a\) A “Certificate of Designation” and an appropriate Identification Card is issued to each Aviation Medical Examiner and to each forensic pathologist designated under [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.11   Selection.|§183.11]](a).
 
 \(b\) A “Certificate of Authority” specifying the kinds of designation for which the person concerned is qualified and stating an expiration date is issued to each Flight Standards Designated Representative, along with a “Certificate of Designation” for display purposes, designating the holder as a Flight Standards Representative and specifying the kind of designation for which he is qualified.
 
@@ -58,7 +58,7 @@ This part describes the requirements for designating private persons to act as r
 
 ### §183.15   Duration of certificates.
 
-\(a\) Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in §§183.21, 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
+\(a\) Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in §[[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.21   Aviation Medical Examiners.|§183.21]], 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
 
 \(b\) A designation made under this subpart terminates:
 
@@ -86,11 +86,11 @@ Each representative designated under this part shall make such reports as are pr
 
 An Aviation Medical Examiner may—
 
-\(a\) Accept applications for physical examinations necessary for issuing medical certificates under part 67 of this chapter;
+\(a\) Accept applications for physical examinations necessary for issuing medical certificates under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]];
 
 \(b\) Under the general supervision of the Federal Air Surgeon or the appropriate senior regional flight surgeon, conduct those physical examinations;
 
-\(c\) Issue or deny medical certificates in accordance with part 67 of this chapter, subject to reconsideration by the Federal Air Surgeon or his or her authorized representatives within the FAA; and
+\(c\) Issue or deny medical certificates in accordance with [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]], subject to reconsideration by the Federal Air Surgeon or his or her authorized representatives within the FAA; and
 
 \(d\) \[Reserved\]
 
@@ -118,37 +118,37 @@ Any pilot examiner, instrument rating examiner, or airline transport pilot exami
 
 \(a\) A designated mechanic examiner (DME) (airframe and power plant) may—
 
-\(1\) Accept applications for, and conduct, mechanic, oral and practical tests necessary for issuing mechanic certificates under part 65 of this chapter; and
+\(1\) Accept applications for, and conduct, mechanic, oral and practical tests necessary for issuing mechanic certificates under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]]; and
 
 \(2\) In the discretion of the appropriate local Flight Standards Inspector, issue temporary mechanic certificates to qualified applicants.
 
 \(b\) A designated parachute rigger examiner (DPRE) may—
 
-\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing parachute rigger certificates under part 65 of this chapter; and
+\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing parachute rigger certificates under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]]; and
 
 \(2\) In the discretion of the appropriate local Flight Standards Inspector, issue temporary parachute rigger certificates to qualified applicants.
 
 \(c\) An air traffic control tower operator examiner may—
 
-\(1\) Accept applications for, and conduct, written and practical tests necessary for issuing control tower operator certificates under part 65 of this chapter; and
+\(1\) Accept applications for, and conduct, written and practical tests necessary for issuing control tower operator certificates under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]]; and
 
 \(2\) In the discretion of the Associate Administrator for Air Traffic issue temporary control tower operator certificates to qualified applicants.
 
 \(d\) A designated flight engineer examiner (DFEE) may—
 
-\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing flight engineer certificates under part 63 of this chapter; and
+\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing flight engineer certificates under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]]; and
 
 \(2\) In the discretion of the appropriate local Flight Standards Inspector, issue temporary flight engineer certificates to qualified applicants.
 
 \(e\) A designated flight navigator examiner (DFNE) may—
 
-\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing flight navigator certificates under part 63 of this chapter; and
+\(1\) Accept applications for, and conduct, oral and practical tests necessary for issuing flight navigator certificates under [[Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md|part 63 of this chapter]]; and
 
 \(2\) In the discretion of the appropriate local Flight Standards Inspector, issue temporary flight navigator certificates to qualified applicants.
 
 \(f\) A designated aircraft dispatcher examiner (DADE) may—
 
-\(1\) Accept applications for, and conduct, written and practical tests necessary for issuing aircraft dispatcher certificates under part 65 of this chapter; and
+\(1\) Accept applications for, and conduct, written and practical tests necessary for issuing aircraft dispatcher certificates under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md|part 65 of this chapter]]; and
 
 \(2\) In the discretion of the appropriate local Flight Standards Inspector, issue temporary aircraft dispatcher certificates to qualified applicants.
 
@@ -188,7 +188,7 @@ A designated manufacturing inspection representative (DMIR) may, within limits p
 
 \(1\) Original airworthiness certificates for aircraft and airworthiness approvals for engines, propellers, and product parts that conform to the approved design requirements and are in a condition for safe operation;
 
-\(2\) Export certificates of airworthiness and airworthiness approval tags in accordance with subpart L of part 21 of this chapter;
+\(2\) Export certificates of airworthiness and airworthiness approval tags in accordance with subpart L of [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|part 21 of this chapter]];
 
 \(3\) Experimental certificates for aircraft for which the manufacturer holds the type certificate and which have undergone changes to the type design requiring a flight test; and
 
@@ -238,11 +238,11 @@ An application for an ODA may be submitted after November 14, 2006. An applicati
 
 \(a\) A description of the functions for which authorization is requested.
 
-\(b\) A description of how the applicant satisfies the requirements of §183.47 of this part;
+\(b\) A description of how the applicant satisfies the requirements of [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.47   Qualifications.|§183.47]] of this part;
 
 \(c\) A description of the applicant's organizational structure, including a description of the proposed ODA Unit as it relates to the applicant's organizational structure; and
 
-\(d\) A proposed procedures manual as described in §183.53 of this part.
+\(d\) A proposed procedures manual as described in [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.53   Procedures manual.|§183.53]] of this part.
 
 ### §183.45   Issuance of Organization Designation Authorizations.
 
@@ -312,9 +312,9 @@ No ODA Letter of Designation may be issued before the Administrator approves an 
 
 \(11\) A description of each ODA Unit position, and the knowledge and experience required for each position;
 
-\(12\) The procedures for appointing ODA Unit members and the means of documenting Unit membership, as required under §183.61(a)(4) of this part;
+\(12\) The procedures for appointing ODA Unit members and the means of documenting Unit membership, as required under [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.61   Records and reports.|§183.61]](a)(4) of this part;
 
-\(13\) The procedures for performing the activities required by §183.63 or §183.65 of this part;
+\(13\) The procedures for performing the activities required by [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.63   Continuing requirements: Products, parts or appliances.|§183.63]] or [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.65   Continuing requirements: Operational approvals.|§183.65]] of this part;
 
 \(14\) The procedures for revising the manual, pursuant to the limitations of paragraph (b) of this section; and
 
@@ -368,7 +368,7 @@ The Administrator, at any time and for any reason, may inspect an ODA Holder's o
 
 \(7\) Any other records specified in the ODA Holder's procedures manual.
 
-\(8\) The procedures manual required under §183.53 of this part, including all changes.
+\(8\) The procedures manual required under [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md#§183.53   Procedures manual.|§183.53]] of this part, including all changes.
 
 \(b\) Each ODA Holder must ensure that the following are maintained for five years:
 

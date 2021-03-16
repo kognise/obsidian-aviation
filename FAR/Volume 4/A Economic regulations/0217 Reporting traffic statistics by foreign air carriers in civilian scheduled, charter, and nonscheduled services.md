@@ -76,7 +76,7 @@ This part applies to foreign air carriers that are authorized by the Department 
 
 \(a\) Each foreign air carrier shall file BTS Form 41 Schedule T-100(f) “Foreign Air Carrier Traffic Data by Nonstop Segment and On-flight Market.” All traffic statistics shall be compiled in terms of each flight stage as actually performed.
 
-\(b\) The traffic statistics reported on Schedule T-100(f) shall be accumulated in accordance with the data elements prescribed in §217.5 of this part, and these data elements are patterned after those in section 19-5 of part 241 of this chapter.
+\(b\) The traffic statistics reported on Schedule T-100(f) shall be accumulated in accordance with the data elements prescribed in [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.5   Data collected (data elements).|§217.5]] of this part, and these data elements are patterned after those in section 19-5 of [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]].
 
 \(c\) One set of Form 41 Schedule T-100(f) data shall be filed.
 
@@ -104,7 +104,7 @@ This part applies to foreign air carriers that are authorized by the Department 
 
 ### §217.5   Data collected (data elements).
 
-\(a\) Within each of the service classifications prescribed in §217.4, data shall be reported in applicable traffic elements.
+\(a\) Within each of the service classifications prescribed in [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.4   Data collected (service classes).|§217.4]], data shall be reported in applicable traffic elements.
 
 \(b\) The statistical data to be reported on Schedule T-100(f) are:
 
@@ -114,9 +114,9 @@ This part applies to foreign air carriers that are authorized by the Department 
 
 \(3\) *Origin airport code.* This code represents the industry designator as described in appendix A of this part. A common private industry source of these industry designator codes is the *Official Airline Guides* (OAG). Where none exists, OAI will furnish a code upon request. OAI's address is in appendix A of this part.
 
-\(4\) *Destination airport code.* This represents the industry designator, from the source described in §217.5(b)(3).
+\(4\) *Destination airport code.* This represents the industry designator, from the source described in [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.5   Data collected (data elements).|§217.5]](b)(3).
 
-\(5\) *Service class code.* For scheduled and other services, the applicable service class prescribed in §217.4 of this part shall be reported.
+\(5\) *Service class code.* For scheduled and other services, the applicable service class prescribed in [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.4   Data collected (service classes).|§217.4]] of this part shall be reported.
 
 \(6\) *Aircraft type code.* This code represents the aircraft type, as specified in appendix A of this part. Where none exists, OAI will furnish a code upon request.
 
@@ -138,9 +138,9 @@ This part applies to foreign air carriers that are authorized by the Department 
 
 ### §217.6   Extension of filing time.
 
-\(a\) If circumstances prevent the filing of a Schedule T-100(f) report on or before the due date prescribed in section 22 of part 241 of this chapter and appendix A of this part, a request for an extension must be filed with the Director, Office of Airline Information.
+\(a\) If circumstances prevent the filing of a Schedule T-100(f) report on or before the due date prescribed in section 22 of [[Volume 4/A Economic regulations/0241 Uniform system of accounts and reports for large certificated air carriers.md|part 241 of this chapter]] and appendix A of this part, a request for an extension must be filed with the Director, Office of Airline Information.
 
-\(b\) The extension request must be received at the address provided in §217.10 at least 3 days in advance of the due date, and must set forth reasons to justify granting an extension, and the date when the report can be filed. If a request is denied, the air carrier must submit the required report within 5 days of its receipt of the denial of extension.
+\(b\) The extension request must be received at the address provided in [[Volume 4/A Economic regulations/0217 Reporting traffic statistics by foreign air carriers in civilian scheduled, charter, and nonscheduled services.md#§217.10   Instructions.|§217.10]] at least 3 days in advance of the due date, and must set forth reasons to justify granting an extension, and the date when the report can be filed. If a request is denied, the air carrier must submit the required report within 5 days of its receipt of the denial of extension.
 
 \[53 FR 46294, Nov. 16, 1988, as amended at 60 FR 66722, Dec. 26, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15926, Apr. 16, 2019\]
 

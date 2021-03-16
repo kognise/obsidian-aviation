@@ -20,9 +20,9 @@ An aircraft operation is eligible for insurance if—
 
 ### §198.3   Basis of insurance.
 
-\(a\) Premium insurance may be issued by the FAA is the requirements of §198.1 (a), (b)(1) and (c) are met.
+\(a\) Premium insurance may be issued by the FAA is the requirements of [[Volume 3/N War risk insurance/0198 Aviation insurance.md#§198.1   Eligibility of aircraft operation for insurance.|§198.1]] (a), (b)(1) and (c) are met.
 
-\(b\) Subject to §198.9(c), standby insurance without premium may be issued by the FAA if all of the following conditions have been met:
+\(b\) Subject to [[Volume 3/N War risk insurance/0198 Aviation insurance.md#§198.9   Applicant for insurance.|§198.9]](c), standby insurance without premium may be issued by the FAA if all of the following conditions have been met:
 
 \(1\) A department, agency, or instrumentality of the U.S. Government seeks performance of air services operations, pursuant to a contract of the department, agency, or instrumentality; or transportation of military forces or materiel on behalf of the United States, pursuant to an agreement between the United States and a foreign government.
 
@@ -32,7 +32,7 @@ An aircraft operation is eligible for insurance if—
 
 \(c\) Insurance is activated, placing the insurance in full force, as specified by the FAA's written notification to the operator and remains in force until such time as either of the following occurs:
 
-\(1\) The requirements in §198.1 are no longer met; or
+\(1\) The requirements in [[Volume 3/N War risk insurance/0198 Aviation insurance.md#§198.1   Eligibility of aircraft operation for insurance.|§198.1]] are no longer met; or
 
 \(2\) In the case of non-premium insurance, an aircraft operation is no longer performed under contract to a department, agency, or instrumentality of the U.S. Government; or pursuant to an agreement between the United States and a foreign government; or the Administrator finds that commercial insurance can now be obtained on reasonable terms.
 
@@ -46,7 +46,7 @@ An aircraft operation is eligible for insurance if—
 
 Application may be made for insurance against loss or damage to the following persons, property, or interests:
 
-\(a\) Aircraft, or insurable items of an aircraft, engaged in eligible operations under §198.1.
+\(a\) Aircraft, or insurable items of an aircraft, engaged in eligible operations under [[Volume 3/N War risk insurance/0198 Aviation insurance.md#§198.1   Eligibility of aircraft operation for insurance.|§198.1]].
 
 \(b\) Any individual employed or transported on the aircraft referred to in paragraph (a) of this section.
 
@@ -92,6 +92,6 @@ The insured must pay the premium for insurance issued under this part within the
 
 ### §198.17   Ground support and other coverage.
 
-An aircraft operator may apply for insurance to cover any risks arising from the provision of goods or services directly supporting the operation of an aircraft that meets the requirements of §198.3(b).
+An aircraft operator may apply for insurance to cover any risks arising from the provision of goods or services directly supporting the operation of an aircraft that meets the requirements of [[Volume 3/N War risk insurance/0198 Aviation insurance.md#§198.3   Basis of insurance.|§198.3]](b).
 
 </div>

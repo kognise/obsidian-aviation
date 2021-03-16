@@ -50,7 +50,7 @@ Unless granted under 49 U.S.C. 41102, an authorization that by its terms is subj
 
 \(a\) Will not be considered a “license with reference to an activity of a continuing nature” within the meaning of 5 U.S.C. 558(c), if the event occurs before the specified date; and
 
-\(b\) Ordinarily (subject to interpretation under §377.5) will be considered such a license, if the event does not occur before the specified date and that date is more than 180 days after the effective date of the authorization.
+\(b\) Ordinarily (subject to interpretation under [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.5   Procedure to obtain Department interpretation.|§377.5]]) will be considered such a license, if the event does not occur before the specified date and that date is more than 180 days after the effective date of the authorization.
 
 \[SPR-184, 47 FR 7212, Feb. 18, 1982, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019\]
 
@@ -58,9 +58,9 @@ Unless granted under 49 U.S.C. 41102, an authorization that by its terms is subj
 
 \(a\) The Department will determine upon written request by the holder of a temporary authorization or by any competitively affected air carrier or foreign air carrier, or upon its own initiative, whether the temporary authorization is a “license with reference to an activity of a continuing nature” within the meaning of 5 U.S.C. 558(c).
 
-\(b\) A written request for such a Department determination shall be filed at least 60 days before the deadline set forth in §377.10 for a timely renewal application.
+\(b\) A written request for such a Department determination shall be filed at least 60 days before the deadline set forth in [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]] for a timely renewal application.
 
-\(c\) The filing of such a written request shall not affect the timeliness requirements for renewal applications that are set forth in §377.10 or any other applicable Department rule or order.
+\(c\) The filing of such a written request shall not affect the timeliness requirements for renewal applications that are set forth in [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]] or any other applicable Department rule or order.
 
 \[SPR-184, 47 FR 7212, Feb. 18, 1982, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019\]
 
@@ -80,7 +80,7 @@ Unless granted under 49 U.S.C. 41102, an authorization that by its terms is subj
 
 \(3\) For foreign air carrier permits issued under 49 U.S.C. 41301 and exemptions issued under 49 U.S.C. 41708 to non-U.S. citizens, the deadline is the expiration date itself;
 
-\(4\) For renewal by substantially equivalent certificate authority of fixed term route authorizations granted by exemption and for interim extension of the exemption, pursuant to §399.18 of this chapter, the deadline is 90 days before the expiration date; and
+\(4\) For renewal by substantially equivalent certificate authority of fixed term route authorizations granted by exemption and for interim extension of the exemption, pursuant to [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.18   Maximum duration of fixed-term route authorization granted by exemption; renewal of such authority.|§399.18]] of this chapter, the deadline is 90 days before the expiration date; and
 
 \(5\) Nothing in this part supersedes a requirement for earlier filing contained in any law, Department rule or order, or temporary authorization.
 
@@ -90,7 +90,7 @@ Unless granted under 49 U.S.C. 41102, an authorization that by its terms is subj
 
 ### §377.11   Processing of defective renewal applications.
 
-When the Department determines that a renewal application does not comply with the requirements of this part, or that it does not relate to a license with reference to an activity of a continuing nature, it will so notify the applicant. The applicant may amend his application to cure the deficiency as a matter of right at any time prior to the date when the application was due pursuant to §377.10(c).
+When the Department determines that a renewal application does not comply with the requirements of this part, or that it does not relate to a license with reference to an activity of a continuing nature, it will so notify the applicant. The applicant may amend his application to cure the deficiency as a matter of right at any time prior to the date when the application was due pursuant to [[Volume 4/D Special regulations/0377 Continuance of expired authorizations by operation of law pending final determination of applications for renewal thereof.md#§377.10   Requirements for, and effect of, renewal applications.|§377.10]](c).
 
 \[SPR-84, 40 FR 24998, June 12, 1975, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019\]
 

@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.2.65](https://www.ecfr.
 
 <div>
 
-Editorial Note: For the text of SFAR No. 100-2, see part 61 of this chapter.
+Editorial Note: For the text of SFAR No. 100-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 </div>
 
@@ -102,7 +102,7 @@ c\. Action to separate you from your covered position becomes effective on the l
 
 ### Special Federal Aviation Regulation No. 118-2—Relief for Certain Persons During the National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Public Health Emergency
 
-For the text of SFAR No. 118-2, see part 61 of this chapter.
+For the text of SFAR No. 118-2, see [[Volume 2/D Airmen/0061 Certification  pilots, flight instructors, and ground instructors.md|part 61 of this chapter]].
 
 \[Doc. No. FAA-2020-0446; Amdt. No. 65-62, 85 FR 62975, Oct. 6, 2020\]\]
 
@@ -136,7 +136,7 @@ A person who is neither a U.S. citizen nor a resident alien is issued a certific
 
 ### §65.11   Application and issue.
 
-\(a\) Application for a certificate and appropriate class rating, or for an additional rating, under this part must be made on a form and in a manner prescribed by the Administrator. Each person who applies for airmen certification services to be administered outside the United States or for any certificate or rating issued under this part must show evidence that the fee prescribed in appendix A of part 187 of this chapter has been paid.
+\(a\) Application for a certificate and appropriate class rating, or for an additional rating, under this part must be made on a form and in a manner prescribed by the Administrator. Each person who applies for airmen certification services to be administered outside the United States or for any certificate or rating issued under this part must show evidence that the fee prescribed in appendix A of [[Volume 3/K Administrative regulations/0187 Fees.md|part 187 of this chapter]] has been paid.
 
 \(b\) Except for FAA Credential holders with tower ratings, an applicant who meets the requirements of this part is entitled to an appropriate certificate and rating.
 
@@ -158,7 +158,7 @@ A person who is neither a U.S. citizen nor a resident alien is issued a certific
 
 \(2\) Suspension or revocation of any certificate or rating issued under this part.
 
-\(b\) The commission of an act prohibited by §91.19(a) of this chapter is grounds for—
+\(b\) The commission of an act prohibited by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.19   Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.|§91.19]](a) of this chapter is grounds for—
 
 \(1\) Denial of an application for a certificate or rating issued under this part for a period of up to 1 year after the date of that act; or
 
@@ -182,7 +182,7 @@ A certificate and ratings effective for a period of not more than 120 days may b
 
 \(c\) The holder of a certificate issued under this part that is suspended, revoked, or no longer effective shall return it to the Administrator.
 
-\(d\) Except for temporary certificates issued under §65.13, the holder of a paper certificate issued under this part may not exercise the privileges of that certificate after March 31, 2013.
+\(d\) Except for temporary certificates issued under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.13   Temporary certificate.|§65.13]], the holder of a paper certificate issued under this part may not exercise the privileges of that certificate after March 31, 2013.
 
 \[Doc. No. 22052, 47 FR 35693, Aug. 16, 1982, as amended by Amdt. 65-51, 73 FR 10668, Feb. 28, 2008\]
 
@@ -272,7 +272,7 @@ No person may act as an air traffic control tower operator at an air traffic con
 
 \(b\) Holds a facility rating for that control tower issued under this subpart, or has qualified for the operating position at which he or she acts and is under the supervision of the holder of a facility rating for that control tower; and
 
-\(c\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy or the Coast Guard, holds at least a second-class medical certificate issued under part 67 of this chapter.
+\(c\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy or the Coast Guard, holds at least a second-class medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]].
 
 \[Doc. No. 10193, 35 FR 12326, Aug. 1, 1970, as amended by Amdt. 65-25, 45 FR 18911, Mar. 24, 1980; Amdt. 65-31, 52 FR 17518, May 8, 1987; Amdt. 65-56, 79 FR 74611, Dec. 16, 2014\]
 
@@ -286,9 +286,9 @@ To be eligible for an air traffic control tower operator certificate a person mu
 
 \(c\) Be able to read, write, and understand the English language and speak it without accent or impediment of speech that would interfere with two-way radio conversation;
 
-\(d\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy or the Coast Guard, hold at least a second-class medical certificate issued under part 67 of this chapter within the 12 months before the date application is made; and
+\(d\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy or the Coast Guard, hold at least a second-class medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]] within the 12 months before the date application is made; and
 
-\(e\) Comply with §65.35.
+\(e\) Comply with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.35   Knowledge requirements.|§65.35]].
 
 \[Doc. No. 10193, 35 FR 12326, Aug. 1, 1970, as amended by Amdt. 65-25, 45 FR 18911, Mar. 24, 1980; Amdt. 65-31, 52 FR 17518, May 8, 1987\]
 
@@ -296,7 +296,7 @@ To be eligible for an air traffic control tower operator certificate a person mu
 
 Each applicant for an air traffic control tower operator certificate must pass a written test on—
 
-\(a\) The flight rules in part 91 of this chapter:
+\(a\) The flight rules in [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]]:
 
 \(b\) Airport traffic control procedures, and this subpart:
 
@@ -360,7 +360,7 @@ Each applicant for a facility rating at any air traffic control tower must have 
 
 ### §65.41   Skill requirements: Facility ratings.
 
-Each applicant for a facility rating at an air traffic control tower must have passed a practical test on each item listed in §65.37 of this part that is applicable to each operating position at the control tower at which the rating is sought.
+Each applicant for a facility rating at an air traffic control tower must have passed a practical test on each item listed in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.37   Skill requirements: Operating positions.|§65.37]] of this part that is applicable to each operating position at the control tower at which the rating is sought.
 
 ### §65.43   \[Reserved\]
 
@@ -386,7 +386,7 @@ Except in an emergency, a certificated air traffic control tower operator must b
 
 ### §65.49   General operating rules.
 
-\(a\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy, or the Coast Guard, no person may act as an air traffic control tower operator under a certificate issued to him or her under this part unless he or she has in his or her personal possession an appropriate current medical certificate issued under part 67 of this chapter.
+\(a\) Except for a person employed by the FAA or employed by, or on active duty with, the Department of the Air Force, Army, or Navy, or the Coast Guard, no person may act as an air traffic control tower operator under a certificate issued to him or her under this part unless he or she has in his or her personal possession an appropriate current medical certificate issued under [[Volume 2/D Airmen/0067 Medical standards and certification.md|part 67 of this chapter]].
 
 \(b\) Each person holding an air traffic control tower operator certificate shall keep it readily available when performing duties in an air traffic control tower, and shall present that certificate or his medical certificate or both for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
 
@@ -426,11 +426,11 @@ The holder of an air traffic control tower operator certificate may not perform 
 
 \(2\) Be able to read, speak, write, and understand the English language;
 
-\(3\) Pass the required knowledge test prescribed by §65.55 of this part;
+\(3\) Pass the required knowledge test prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.55   Knowledge requirements.|§65.55]] of this part;
 
-\(4\) Pass the required practical test prescribed by §65.59 of this part; and
+\(4\) Pass the required practical test prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.59   Skill requirements.|§65.59]] of this part; and
 
-\(5\) Comply with the requirements of §65.57 of this part.
+\(5\) Comply with the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.57   Experience or training requirements.|§65.57]] of this part.
 
 ### §65.55   Knowledge requirements.
 
@@ -478,7 +478,7 @@ An applicant for an aircraft dispatcher certificate must present documentary evi
 
 \(iii\) Meteorologist.
 
-\(2\) In aircraft operations conducted under part 121 of this chapter as—
+\(2\) In aircraft operations conducted under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] as—
 
 \(i\) An assistant in dispatching air carrier aircraft, under the direct supervision of a dispatcher certificated under this subpart;
 
@@ -496,7 +496,7 @@ An applicant for an aircraft dispatcher certificate must present documentary evi
 
 \(4\) In aircraft operations, performing other duties that the Administrator finds provide equivalent experience.
 
-\(b\) A statement of graduation issued or revalidated in accordance with §65.70(b) of this part, showing that the person has successfully completed an approved aircraft dispatcher course.
+\(b\) A statement of graduation issued or revalidated in accordance with [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.70   Aircraft dispatcher certification courses: Records.|§65.70]](b) of this part, showing that the person has successfully completed an approved aircraft dispatcher course.
 
 ### §65.59   Skill requirements.
 
@@ -516,7 +516,7 @@ An applicant for an aircraft dispatcher certificate must pass a practical test g
 
 \(c\) Additional subject headings for an aircraft dispatcher certification course may also be included, however the hours proposed for any subjects not listed in appendix A of this part must be in addition to the minimum 200 course hours required in paragraph (a) of this section.
 
-\(d\) For the purpose of completing an approved course, a student may substitute previous experience or training for a portion of the minimum 200 hours of training. The course operator determines the number of hours of credit based on an evaluation of the experience or training to determine if it is comparable to portions of the approved course curriculum. The credit allowed, including the total hours and the basis for it, must be placed in the student's record required by §65.70(a) of this part.
+\(d\) For the purpose of completing an approved course, a student may substitute previous experience or training for a portion of the minimum 200 hours of training. The course operator determines the number of hours of credit based on an evaluation of the experience or training to determine if it is comparable to portions of the approved course curriculum. The credit allowed, including the total hours and the basis for it, must be placed in the student's record required by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.70   Aircraft dispatcher certification courses: Records.|§65.70]](a) of this part.
 
 ### §65.63   Aircraft dispatcher certification courses: Application, duration, and other general requirements.
 
@@ -524,7 +524,7 @@ An applicant for an aircraft dispatcher certificate must pass a practical test g
 
 \(1\) Made in writing to the Administrator;
 
-\(2\) Accompanied by two copies of the course outline required under §65.61(b) of this part, for which approval is sought;
+\(2\) Accompanied by two copies of the course outline required under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.61   Aircraft dispatcher certification courses: Content and minimum hours.|§65.61]](b) of this part, for which approval is sought;
 
 \(3\) Accompanied by a description of the equipment and facilities to be used; and
 
@@ -538,11 +538,11 @@ An applicant for an aircraft dispatcher certificate must pass a practical test g
 
 \(c\) *Renewal.* Application for renewal of an approved aircraft dispatcher certification course must be made within 30 days preceding the month the approval expires, provided the course operator meets the following requirements:
 
-\(1\) At least 80 percent of the graduates from that aircraft dispatcher certification course, who applied for the practical test required by §65.59 of this part, passed the practical test on their first attempt; and
+\(1\) At least 80 percent of the graduates from that aircraft dispatcher certification course, who applied for the practical test required by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.59   Skill requirements.|§65.59]] of this part, passed the practical test on their first attempt; and
 
 \(2\) The aircraft dispatcher certification course continues to meet the requirements of this subpart for course approval.
 
-\(d\) *Course revisions.* Requests for approval of a revision of the course outline, facilities, or equipment must be in accordance with paragraph (a) of this section. Proposed revisions of the course outline or the description of facilities and equipment must be submitted in a format that will allow an entire page or pages of the approved outline or description to be removed and replaced by any approved revision. The list of instructors may be revised at any time without request for approval, provided the minimum requirements of §65.67 of this part are maintained and the Administrator is notified in writing.
+\(d\) *Course revisions.* Requests for approval of a revision of the course outline, facilities, or equipment must be in accordance with paragraph (a) of this section. Proposed revisions of the course outline or the description of facilities and equipment must be submitted in a format that will allow an entire page or pages of the approved outline or description to be removed and replaced by any approved revision. The list of instructors may be revised at any time without request for approval, provided the minimum requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.67   Aircraft dispatcher certification courses: Personnel.|§65.67]] of this part are maintained and the Administrator is notified in writing.
 
 \(e\) *Withdrawal or cancellation of approval.* Failure to continue to meet the requirements of this subpart for the approval or operation of an approved aircraft dispatcher certification course is grounds for withdrawal of approval of the course. A course operator may request cancellation of course approval by a letter to the Administrator. The operator must forward any records to the FAA as requested by the Administrator.
 
@@ -592,7 +592,7 @@ An applicant for approval of authority to operate an aircraft dispatcher course 
 
 \(4\) Comply with the sections of this subpart that apply to the rating he seeks.
 
-\(b\) A certificated mechanic who applies for an additional rating must meet the requirements of §65.77 and, within a period of 24 months, pass the tests prescribed by §§65.75 and 65.79 for the additional rating sought.
+\(b\) A certificated mechanic who applies for an additional rating must meet the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.77   Experience requirements.|§65.77]] and, within a period of 24 months, pass the tests prescribed by §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.75   Knowledge requirements.|§65.75]] and 65.79 for the additional rating sought.
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-6, 31 FR 5950, Apr. 19, 1966\]
 
@@ -608,9 +608,9 @@ An applicant for approval of authority to operate an aircraft dispatcher course 
 
 ### §65.75   Knowledge requirements.
 
-\(a\) Each applicant for a mechanic certificate or rating must, after meeting the applicable experience requirements of §65.77, pass a written test covering the construction and maintenance of aircraft appropriate to the rating he seeks, the regulations in this subpart, and the applicable provisions of parts 43 and 91 of this chapter. The basic principles covering the installation and maintenance of propellers are included in the powerplant test.
+\(a\) Each applicant for a mechanic certificate or rating must, after meeting the applicable experience requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.77   Experience requirements.|§65.77]], pass a written test covering the construction and maintenance of aircraft appropriate to the rating he seeks, the regulations in this subpart, and the applicable provisions of parts 43 and 91 of this chapter. The basic principles covering the installation and maintenance of propellers are included in the powerplant test.
 
-\(b\) The applicant must pass each section of the test before applying for the oral and practical tests prescribed by §65.79. A report of the written test is sent to the applicant.
+\(b\) The applicant must pass each section of the test before applying for the oral and practical tests prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.79   Skill requirements.|§65.79]]. A report of the written test is sent to the applicant.
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-1, 27 FR 10410, Oct. 25, 1962; Amdt. 65-6, 31 FR 5950, Apr. 19, 1966\]
 
@@ -630,13 +630,13 @@ Each applicant for a mechanic certificate or rating must pass an oral and a prac
 
 ### §65.80   Certificated aviation maintenance technician school students.
 
-Whenever an aviation maintenance technician school certificated under part 147 of this chapter shows to an FAA inspector that any of its students has made satisfactory progress at the school and is prepared to take the oral and practical tests prescribed by §65.79, that student may take those tests during the final subjects of his training in the approved curriculum, before he meets the applicable experience requirements of §65.77 and before he passes each section of the written test prescribed by §65.75.
+Whenever an aviation maintenance technician school certificated under [[Volume 3/H Schools and other certificated agencies/0147 Aviation maintenance technician schools.md|part 147 of this chapter]] shows to an FAA inspector that any of its students has made satisfactory progress at the school and is prepared to take the oral and practical tests prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.79   Skill requirements.|§65.79]], that student may take those tests during the final subjects of his training in the approved curriculum, before he meets the applicable experience requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.77   Experience requirements.|§65.77]] and before he passes each section of the written test prescribed by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.75   Knowledge requirements.|§65.75]].
 
 \[Doc. No. 9444, 35 FR 5533, Apr. 3, 1970\]
 
 ### §65.81   General privileges and limitations.
 
-\(a\) A certificated mechanic may perform or supervise the maintenance, preventive maintenance or alteration of an aircraft or appliance, or a part thereof, for which he is rated (but excluding major repairs to, and major alterations of, propellers, and any repair to, or alteration of, instruments), and may perform additional duties in accordance with §§65.85, 65.87, and 65.95. However, he may not supervise the maintenance, preventive maintenance, or alteration of, or approve and return to service, any aircraft or appliance, or part thereof, for which he is rated unless he has satisfactorily performed the work concerned at an earlier date. If he has not so performed that work at an earlier date, he may show his ability to do it by performing it to the satisfaction of the Administrator or under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned.
+\(a\) A certificated mechanic may perform or supervise the maintenance, preventive maintenance or alteration of an aircraft or appliance, or a part thereof, for which he is rated (but excluding major repairs to, and major alterations of, propellers, and any repair to, or alteration of, instruments), and may perform additional duties in accordance with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.85   Airframe rating; additional privileges.|§65.85]], 65.87, and 65.95. However, he may not supervise the maintenance, preventive maintenance, or alteration of, or approve and return to service, any aircraft or appliance, or part thereof, for which he is rated unless he has satisfactorily performed the work concerned at an earlier date. If he has not so performed that work at an earlier date, he may show his ability to do it by performing it to the satisfaction of the Administrator or under the direct supervision of a certificated and appropriately rated mechanic, or a certificated repairman, who has had previous experience in the specific operation concerned.
 
 \(b\) A certificated mechanic may not exercise the privileges of his certificate and rating unless he understands the current instructions of the manufacturer, and the maintenance manuals, for the specific operation concerned.
 
@@ -660,7 +660,7 @@ A certificated mechanic may not exercise the privileges of his certificate and r
 
 ### §65.85   Airframe rating; additional privileges.
 
-\(a\) Except as provided in paragraph (b) of this section, a certificated mechanic with an airframe rating may approve and return to service an airframe, or any related part or appliance, after he has performed, supervised, or inspected its maintenance or alteration (excluding major repairs and major alterations). In addition, he may perform the 100-hour inspection required by part 91 of this chapter on an airframe, or any related part or appliance, and approve and return it to service.
+\(a\) Except as provided in paragraph (b) of this section, a certificated mechanic with an airframe rating may approve and return to service an airframe, or any related part or appliance, after he has performed, supervised, or inspected its maintenance or alteration (excluding major repairs and major alterations). In addition, he may perform the 100-hour inspection required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] on an airframe, or any related part or appliance, and approve and return it to service.
 
 \(b\) A certificated mechanic with an airframe rating can approve and return to service an airframe, or any related part or appliance, of an aircraft with a special airworthiness certificate in the light-sport category after performing and inspecting a major repair or major alteration for products that are not produced under an FAA approval provided the work was performed in accordance with instructions developed by the manufacturer or a person acceptable to the FAA.
 
@@ -668,7 +668,7 @@ A certificated mechanic may not exercise the privileges of his certificate and r
 
 ### §65.87   Powerplant rating; additional privileges.
 
-\(a\) Except as provided in paragraph (b) of this section, a certificated mechanic with a powerplant rating may approve and return to service a powerplant or propeller or any related part or appliance, after he has performed, supervised, or inspected its maintenance or alteration (excluding major repairs and major alterations). In addition, he may perform the 100-hour inspection required by part 91 of this chapter on a powerplant or propeller, or any part thereof, and approve and return it to service.
+\(a\) Except as provided in paragraph (b) of this section, a certificated mechanic with a powerplant rating may approve and return to service a powerplant or propeller or any related part or appliance, after he has performed, supervised, or inspected its maintenance or alteration (excluding major repairs and major alterations). In addition, he may perform the 100-hour inspection required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md|part 91 of this chapter]] on a powerplant or propeller, or any part thereof, and approve and return it to service.
 
 \(b\) A certificated mechanic with a powerplant rating can approve and return to service a powerplant or propeller, or any related part or appliance, of an aircraft with a special airworthiness certificate in the light-sport category after performing and inspecting a major repair or major alteration for products that are not produced under an FAA approval, provided the work was performed in accordance with instructions developed by the manufacturer or a person acceptable to the FAA.
 
@@ -696,7 +696,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(4\) Have available to him the equipment, facilities, and inspection data necessary to properly inspect airframes, powerplants, propellers, or any related part or appliance; and
 
-\(5\) Pass a written test on his ability to inspect according to safety standards for returning aircraft to service after major repairs and major alterations and annual and progressive inspections performed under part 43 of this chapter.
+\(5\) Pass a written test on his ability to inspect according to safety standards for returning aircraft to service after major repairs and major alterations and annual and progressive inspections performed under [[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md|part 43 of this chapter]].
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-5, 31 FR 3337, Mar. 3, 1966; Amdt. 65-22, 42 FR 46279, Sept. 15, 1977; Amdt. 65-30, 50 FR 15700, Apr. 19, 1985\]
 
@@ -710,7 +710,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(2\) The holder no longer has a fixed base of operation.
 
-\(3\) The holder no longer has the equipment, facilities, and inspection data required by §65.91(c) (3) and (4) for issuance of his authorization.
+\(3\) The holder no longer has the equipment, facilities, and inspection data required by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.91   Inspection authorization.|§65.91]](c) (3) and (4) for issuance of his authorization.
 
 \(c\) The holder of an inspection authorization that is suspended or revoked shall, upon the Administrator's request, return it to the Administrator.
 
@@ -718,7 +718,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 ### §65.93   Inspection authorization: Renewal.
 
-\(a\) To be eligible for renewal of an inspection authorization for a 2-year period an applicant must present evidence during the month of March of each odd-numbered year, at the responsible Flight Standards office, that the applicant still meets the requirements of §65.91(c) (1) through (4). In addition, during the time the applicant held the inspection authorization, the applicant must show completion of one of the activities in §65.93(a) (1) through (5) below by March 31 of the first year of the 2-year inspection authorization period, and completion of one of the five activities during the second year of the 2-year period:
+\(a\) To be eligible for renewal of an inspection authorization for a 2-year period an applicant must present evidence during the month of March of each odd-numbered year, at the responsible Flight Standards office, that the applicant still meets the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.91   Inspection authorization.|§65.91]](c) (1) through (4). In addition, during the time the applicant held the inspection authorization, the applicant must show completion of one of the activities in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a) (1) through (5) below by March 31 of the first year of the 2-year inspection authorization period, and completion of one of the five activities during the second year of the 2-year period:
 
 \(1\) Performed at least one annual inspection for each 90 days that the applicant held the current authority; or
 
@@ -736,7 +736,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(2\) for less than 90 days before March 31 of an even-numbered year need not comply with paragraphs (a)(1) through (5) of this section for the first year of the 2-year inspection authorization period.
 
-\(c\) An inspection authorization holder who does not complete one of the activities set forth in §65.93(a) (1) through (5) of this section by March 31 of the first year of the 2-year inspection authorization period may not exercise inspection authorization privileges after March 31 of the first year. The inspection authorization holder may resume exercising inspection authorization privileges after passing an oral test from an FAA inspector to determine that the applicant's knowledge of the applicable regulations and standards is current. An inspection authorization holder who passes this oral test is deemed to have completed the requirements of §65.93(a) (1) through (5) by March 31 of the first year.
+\(c\) An inspection authorization holder who does not complete one of the activities set forth in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a) (1) through (5) of this section by March 31 of the first year of the 2-year inspection authorization period may not exercise inspection authorization privileges after March 31 of the first year. The inspection authorization holder may resume exercising inspection authorization privileges after passing an oral test from an FAA inspector to determine that the applicant's knowledge of the applicable regulations and standards is current. An inspection authorization holder who passes this oral test is deemed to have completed the requirements of [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.93   Inspection authorization: Renewal.|§65.93]](a) (1) through (5) by March 31 of the first year.
 
 \[Doc. No. FAA-2007-27108, 72 FR 4404, Jan. 30, 2007, as amended by Docket FAA-2018-0119, Amdt. 65-57A, 83 FR 9171, Mar. 5, 2018\]
 
@@ -744,9 +744,9 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(a\) The holder of an inspection authorization may—
 
-\(1\) Inspect and approve for return to service any aircraft or related part or appliance (except any aircraft maintained in accordance with a continuous airworthiness program under part 121 of this chapter) after a major repair or major alteration to it in accordance with part 43 \[New\] of this chapter, if the work was done in accordance with technical data approved by the Administrator; and
+\(1\) Inspect and approve for return to service any aircraft or related part or appliance (except any aircraft maintained in accordance with a continuous airworthiness program under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]]) after a major repair or major alteration to it in accordance with part 43 \[New\] of this chapter, if the work was done in accordance with technical data approved by the Administrator; and
 
-\(2\) Perform an annual, or perform or supervise a progressive inspection according to §§43.13 and 43.15 of this chapter.
+\(2\) Perform an annual, or perform or supervise a progressive inspection according to §[[Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md#§43.13   Performance rules (general).|§43.13]] and 43.15 of this chapter.
 
 \(b\) When he exercises the privileges of an inspection authorization the holder shall keep it available for inspection by the aircraft owner, the mechanic submitting the aircraft, repair, or alteration for approval (if any), and shall present it upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
 
@@ -776,7 +776,7 @@ Each person who holds a mechanic certificate shall keep it within the immediate 
 
 \(6\) Be able to read, write, speak, and understand the English language, or, in the case of an applicant who does not meet this requirement and who is employed outside the United States by a certificated repair station, a certificated U.S. commercial operator, or a certificated U.S. air carrier, described in paragraph (a)(3) of this section, have this certificate endorsed “Valid only outside the United States.”
 
-\(b\) This section does not apply to the issuance of a repairman certificate (experimental aircraft builder) under §65.104 or to a repairman certificate (light-sport aircraft) under §65.107.
+\(b\) This section does not apply to the issuance of a repairman certificate (experimental aircraft builder) under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.104   Repairman certificate—experimental aircraft builder—Eligibility, privileges and limitations.|§65.104]] or to a repairman certificate (light-sport aircraft) under [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.107   Repairman certificate (light-sport aircraft): Eligibility, privileges, and limits.|§65.107]].
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-11, 32 FR 13506, Sept. 27, 1967; Amdt. 65-24, 44 FR 46781, Aug. 9, 1979; Amdt. 65-27, 47 FR 13316, Mar. 29, 1982; Amdt. 65-45, 69 FR 44879, July 27, 2004; 72 FR 7739, Feb. 20, 2007\]
 
@@ -834,15 +834,15 @@ Each person who holds a repairman certificate shall keep it within the immediate
 
 \(1\) That is owned by the holder;
 
-\(2\) That has been issued an experimental certificate for operating a light-sport aircraft under §21.191(i) of this chapter; and
+\(2\) That has been issued an experimental certificate for operating a light-sport aircraft under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i) of this chapter; and
 
 \(3\) That is in the same class of light-sport-aircraft for which the holder has completed the training specified in paragraph (a)(2)(ii) of this section.
 
 \(c\) The holder of a repairman certificate (light-sport aircraft) with a maintenance rating may—
 
-\(1\) Approve and return to service an aircraft that has been issued a special airworthiness certificate in the light-sport category under §21.190 of this chapter, or any part thereof, after performing or inspecting maintenance (to include the annual condition inspection and the 100-hour inspection required by §91.327 of this chapter), preventive maintenance, or an alteration (excluding a major repair or a major alteration on a product produced under an FAA approval);
+\(1\) Approve and return to service an aircraft that has been issued a special airworthiness certificate in the light-sport category under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.190   Issue of a special airworthiness certificate for a light-sport category aircraft.|§21.190]] of this chapter, or any part thereof, after performing or inspecting maintenance (to include the annual condition inspection and the 100-hour inspection required by [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.327   Aircraft having a special airworthiness certificate in the light-sport category: Operating limitations.|§91.327]] of this chapter), preventive maintenance, or an alteration (excluding a major repair or a major alteration on a product produced under an FAA approval);
 
-\(2\) Perform the annual condition inspection on a light-sport aircraft that has been issued an experimental certificate for operating a light-sport aircraft under §21.191(i) of this chapter; and
+\(2\) Perform the annual condition inspection on a light-sport aircraft that has been issued an experimental certificate for operating a light-sport aircraft under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.191   Experimental certificates.|§21.191]](i) of this chapter; and
 
 \(3\) Only perform maintenance, preventive maintenance, and an alteration on a light-sport aircraft that is in the same class of light-sport aircraft for which the holder has completed the training specified in paragraph (a)(3)(ii) of this section. Before performing a major repair, the holder must complete additional training acceptable to the FAA and appropriate to the repair performed.
 
@@ -854,7 +854,7 @@ Each person who holds a repairman certificate shall keep it within the immediate
 
 ### §65.111   Certificate required.
 
-\(a\) No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with §§65.127 through 65.133.
+\(a\) No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§65.127]] through 65.133.
 
 \(b\) No person may pack any main parachute of a dual-parachute system to be used for intentional parachute jumping in connection with civil aircraft of the United States unless that person—
 
@@ -862,9 +862,9 @@ Each person who holds a repairman certificate shall keep it within the immediate
 
 \(2\) Is under the supervision of a current certificated parachute rigger;
 
-\(3\) Is the person making the next parachute jump with that parachute in accordance with §105.43(a) of this chapter; or
+\(3\) Is the person making the next parachute jump with that parachute in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.43   Use of single-harness, dual-parachute systems.|§105.43]](a) of this chapter; or
 
-\(4\) Is the parachutist in command making the next parachute jump with that parachute in a tandem parachute operation conducted under §105.45(b)(1) of this chapter.
+\(4\) Is the parachutist in command making the next parachute jump with that parachute in a tandem parachute operation conducted under [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.45   Use of tandem parachute systems.|§105.45]](b)(1) of this chapter.
 
 \(c\) No person may maintain or alter any main parachute of a dual-parachute system to be used for intentional parachute jumping in connection with civil aircraft of the United States unless that person—
 
@@ -898,7 +898,7 @@ Each person who holds a repairman certificate shall keep it within the immediate
 
 ### §65.115   Senior parachute rigger certificate: Experience, knowledge, and skill requirements.
 
-Except as provided in §65.117, an applicant for a senior parachute rigger certificate must—
+Except as provided in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.117   Military riggers or former military riggers: Special certification rule.|§65.117]], an applicant for a senior parachute rigger certificate must—
 
 \(a\) Present evidence satisfactory to the Administrator that he has packed at least 20 parachutes of each type for which he seeks a rating, in accordance with the manufacturer's instructions and under the supervision of a certificated parachute rigger holding a rating for that type or a person holding an appropriate military rating;
 
@@ -916,13 +916,13 @@ Except as provided in §65.117, an applicant for a senior parachute rigger certi
 
 ### §65.117   Military riggers or former military riggers: Special certification rule.
 
-In place of the procedure in §65.115, an applicant for a senior parachute rigger certificate is entitled to it if he passes a written test on the regulations of this subpart and presents satisfactory documentary evidence that he—
+In place of the procedure in [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.115   Senior parachute rigger certificate: Experience, knowledge, and skill requirements.|§65.115]], an applicant for a senior parachute rigger certificate is entitled to it if he passes a written test on the regulations of this subpart and presents satisfactory documentary evidence that he—
 
 \(a\) Is a member or civilian employee of an Armed Force of the United States, is a civilian employee of a regular armed force of a foreign country, or has, within the 12 months before he applies, been honorably discharged or released from any status covered by this paragraph;
 
 \(b\) Is serving, or has served within the 12 months before he applies, as a parachute rigger for such an Armed Force; and
 
-\(c\) Has the experience required by §65.115(a).
+\(c\) Has the experience required by [[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.115   Senior parachute rigger certificate: Experience, knowledge, and skill requirements.|§65.115]](a).
 
 ### §65.119   Master parachute rigger certificate: Experience, knowledge, and skill requirements.
 
@@ -976,15 +976,15 @@ A certificated parachute rigger who applies for an additional type rating must�
 
 \(1\) Pack or maintain (except for major repair) any type of parachute for which he is rated; and
 
-\(2\) Supervise other persons in packing any type of parachute for which that person is rated in accordance with §105.43(a) or §105.45(b)(1) of this chapter.
+\(2\) Supervise other persons in packing any type of parachute for which that person is rated in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.43   Use of single-harness, dual-parachute systems.|§105.43]](a) or [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.45   Use of tandem parachute systems.|§105.45]](b)(1) of this chapter.
 
 \(b\) A certificated master parachute rigger may—
 
 \(1\) Pack, maintain, or alter any type of parachute for which he is rated; and
 
-\(2\) Supervise other persons in packing, maintaining, or altering any type of parachute for which the certificated parachute rigger is rated in accordance with §105.43(a) or §105.45(b)(1) of this chapter.
+\(2\) Supervise other persons in packing, maintaining, or altering any type of parachute for which the certificated parachute rigger is rated in accordance with [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.43   Use of single-harness, dual-parachute systems.|§105.43]](a) or [[Volume 2/F Air traffic and general operating rules/0105 Parachute operations.md#§105.45   Use of tandem parachute systems.|§105.45]](b)(1) of this chapter.
 
-\(c\) A certificated parachute rigger need not comply with §§65.127 through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
+\(c\) A certificated parachute rigger need not comply with §[[Volume 2/D Airmen/0065 Certification  airmen other than flight crewmembers.md#§65.127   Facilities and equipment.|§65.127]] through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
 
 \[Doc. No. 1179, 27 FR 7973, Aug. 10, 1962, as amended by Amdt. 65-20, 37 FR 13252, July 6, 1972; Amdt. 65-42, 66 FR 23553, May 9, 2001\]
 

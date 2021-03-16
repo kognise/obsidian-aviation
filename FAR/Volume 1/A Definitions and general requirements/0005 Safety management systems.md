@@ -8,7 +8,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.5](https://www.ecfr.g
 
 ### §5.1   Applicability.
 
-\(a\) A certificate holder under part 119 of this chapter authorized to conduct operations in accordance with the requirements of part 121 of this chapter must have a Safety Management System that meets the requirements of this part and is acceptable to the Administrator by March 9, 2018.
+\(a\) A certificate holder under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md|part 119 of this chapter]] authorized to conduct operations in accordance with the requirements of [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md|part 121 of this chapter]] must have a Safety Management System that meets the requirements of this part and is acceptable to the Administrator by March 9, 2018.
 
 \(b\) A certificate holder must submit an implementation plan to the FAA Administrator for review no later than September 9, 2015. The implementation plan must be approved no later than March 9, 2016.
 
@@ -70,9 +70,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.5](https://www.ecfr.g
 
 \(5\) A policy that defines unacceptable behavior and conditions for disciplinary action.
 
-\(6\) An emergency response plan that provides for the safe transition from normal to emergency operations in accordance with the requirements of §5.27.
+\(6\) An emergency response plan that provides for the safe transition from normal to emergency operations in accordance with the requirements of [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.27   Coordination of emergency response planning.|§5.27]].
 
-\(b\) The safety policy must be signed by the accountable executive described in §5.25.
+\(b\) The safety policy must be signed by the accountable executive described in [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.25   Designation and responsibilities of required safety management personnel.|§5.25]].
 
 \(c\) The safety policy must be documented and communicated throughout the certificate holder's organization.
 
@@ -82,7 +82,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.5](https://www.ecfr.g
 
 \(a\) The certificate holder must define accountability for safety within the organization's safety policy for the following individuals:
 
-\(1\) Accountable executive, as described in §5.25.
+\(1\) Accountable executive, as described in [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.25   Designation and responsibilities of required safety management personnel.|§5.25]].
 
 \(2\) All members of management in regard to developing, implementing, and maintaining SMS processes within their area of responsibility, including, but not limited to:
 
@@ -120,7 +120,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.5](https://www.ecfr.g
 
 \(4\) Regularly review the certificate holder's safety policy to ensure it remains relevant and appropriate to the certificate holder.
 
-\(5\) Regularly review the safety performance of the certificate holder's organization and direct actions necessary to address substandard safety performance in accordance with §5.75.
+\(5\) Regularly review the safety performance of the certificate holder's organization and direct actions necessary to address substandard safety performance in accordance with [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.75   Continuous improvement.|§5.75]].
 
 \(c\) *Designation of management personnel.* The accountable executive must designate sufficient management personnel who, on behalf of the accountable executive, are responsible for the following:
 
@@ -160,7 +160,7 @@ A certificate holder must apply safety risk management to the following:
 
 ### §5.53   System analysis and hazard identification.
 
-\(a\) When applying safety risk management, the certificate holder must analyze the systems identified in §5.51. Those system analyses must be used to identify hazards under paragraph (c) of this section, and in developing and implementing risk controls related to the system under §5.55(c).
+\(a\) When applying safety risk management, the certificate holder must analyze the systems identified in [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.51   Applicability.|§5.51]]. Those system analyses must be used to identify hazards under paragraph (c) of this section, and in developing and implementing risk controls related to the system under [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.55   Safety risk assessment and control.|§5.55]](c).
 
 \(b\) In conducting the system analysis, the following information must be considered:
 
@@ -176,7 +176,7 @@ A certificate holder must apply safety risk management to the following:
 
 ### §5.55   Safety risk assessment and control.
 
-\(a\) The certificate holder must develop and maintain processes to analyze safety risk associated with the hazards identified in §5.53(c).
+\(a\) The certificate holder must develop and maintain processes to analyze safety risk associated with the hazards identified in [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.53   System analysis and hazard identification.|§5.53]](c).
 
 \(b\) The certificate holder must define a process for conducting risk assessment that allows for the determination of acceptable safety risk.
 
@@ -216,7 +216,7 @@ A certificate holder must apply safety risk management to the following:
 
 \(2\) Evaluate the performance of the SMS.
 
-\(3\) Evaluate the effectiveness of the safety risk controls established under §5.55(c) and identify any ineffective controls.
+\(3\) Evaluate the effectiveness of the safety risk controls established under [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.55   Safety risk assessment and control.|§5.55]](c) and identify any ineffective controls.
 
 \(4\) Identify changes in the operational environment that may introduce new hazards.
 
@@ -226,13 +226,13 @@ A certificate holder must apply safety risk management to the following:
 
 ### §5.75   Continuous improvement.
 
-The certificate holder must establish and implement processes to correct safety performance deficiencies identified in the assessments conducted under §5.73.
+The certificate holder must establish and implement processes to correct safety performance deficiencies identified in the assessments conducted under [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.73   Safety performance assessment.|§5.73]].
 
 ## Subpart E—Safety Promotion
 
 ### §5.91   Competencies and training.
 
-The certificate holder must provide training to each individual identified in §5.23 to ensure the individuals attain and maintain the competencies necessary to perform their duties relevant to the operation and performance of the SMS.
+The certificate holder must provide training to each individual identified in [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.23   Safety accountability and authority.|§5.23]] to ensure the individuals attain and maintain the competencies necessary to perform their duties relevant to the operation and performance of the SMS.
 
 ### §5.93   Safety communication.
 
@@ -262,8 +262,8 @@ The certificate holder must develop and maintain SMS documentation that describe
 
 \(b\) The certificate holder must maintain records of outputs of safety assurance processes as described in subpart D of this part. Such records must be retained for a minimum of 5 years.
 
-\(c\) The certificate holder must maintain a record of all training provided under §5.91 for each individual. Such records must be retained for as long as the individual is employed by the certificate holder.
+\(c\) The certificate holder must maintain a record of all training provided under [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.91   Competencies and training.|§5.91]] for each individual. Such records must be retained for as long as the individual is employed by the certificate holder.
 
-\(d\) The certificate holder must retain records of all communications provided under §5.93 for a minimum of 24 consecutive calendar months.
+\(d\) The certificate holder must retain records of all communications provided under [[Volume 1/A Definitions and general requirements/0005 Safety management systems.md#§5.93   Safety communication.|§5.93]] for a minimum of 24 consecutive calendar months.
 
 </div>

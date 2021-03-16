@@ -22,7 +22,7 @@ An applicant for first-, second- and third-class medical certification must:
 
 \(a\) Apply on a form and in a manner prescribed by the Administrator;
 
-\(b\) Be examined by an aviation medical examiner designated in accordance with part 183 of this chapter. An applicant may obtain a list of aviation medical examiners from the FAA Office of Aerospace Medicine homepage on the FAA Web site, from any FAA Regional Flight Surgeon, or by contacting the Manager of the Aerospace Medical Education Division, P.O. Box 26200, Oklahoma City, Oklahoma 73125.
+\(b\) Be examined by an aviation medical examiner designated in accordance with [[Volume 3/K Administrative regulations/0183 Representatives of the administrator.md|part 183 of this chapter]]. An applicant may obtain a list of aviation medical examiners from the FAA Office of Aerospace Medicine homepage on the FAA Web site, from any FAA Regional Flight Surgeon, or by contacting the Manager of the Aerospace Medical Education Division, P.O. Box 26200, Oklahoma City, Oklahoma 73125.
 
 \(c\) Show proof of age and identity by presenting a government-issued photo identification (such as a valid U.S. driver's license, identification card issued by a driver's license authority, military identification, or passport). If an applicant does not have government-issued identification, he or she may use non-photo, government-issued identification (such as a birth certificate or voter registration card) in conjunction with photo identification (such as a work identification card or a student identification card).
 
@@ -198,7 +198,7 @@ The general medical standards for a first-class airman medical certificate are:
 
 ### §67.115   Discretionary issuance.
 
-A person who does not meet the provisions of §§67.103 through 67.113 may apply for the discretionary issuance of a certificate under §67.401.
+A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.103   Eye.|§67.103]] through 67.113 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart C—Second-Class Airman Medical Certificate
 
@@ -356,7 +356,7 @@ The general medical standards for a second-class airman medical certificate are:
 
 ### §67.215   Discretionary issuance.
 
-A person who does not meet the provisions of §§67.203 through 67.213 may apply for the discretionary issuance of a certificate under §67.401.
+A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.203   Eye.|§67.203]] through 67.213 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart D—Third-Class Airman Medical Certificate
 
@@ -510,7 +510,7 @@ The general medical standards for a third-class airman medical certificate are:
 
 ### §67.315   Discretionary issuance.
 
-A person who does not meet the provisions of §§67.303 through 67.313 may apply for the discretionary issuance of a certificate under §67.401.
+A person who does not meet the provisions of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.303   Eye.|§67.303]] through 67.313 may apply for the discretionary issuance of a certificate under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.401   Special issuance of medical certificates.|§67.401]].
 
 ## Subpart E—Certification Procedures
 
@@ -548,7 +548,7 @@ A person who does not meet the provisions of §§67.303 through 67.313 may apply
 
 \(4\) The holder fails to provide medical information reasonably needed by the Federal Air Surgeon for certification under this section; or
 
-\(5\) The holder makes or causes to be made a statement or entry that is the basis for withdrawal of an Authorization or SODA under §67.403.
+\(5\) The holder makes or causes to be made a statement or entry that is the basis for withdrawal of an Authorization or SODA under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.403   Applications, certificates, logbooks, reports, and records: Falsification, reproduction, or alteration; incorrect statements.|§67.403]].
 
 \(g\) A person who has been granted an Authorization or SODA under this section based on a special medical flight or practical test need not take the test again during later physical examinations unless the Federal Air Surgeon determines or has reason to believe that the physical deficiency has or may have degraded to a degree to require another special medical flight test or practical test.
 
@@ -610,7 +610,7 @@ A person who does not meet the provisions of §§67.303 through 67.313 may apply
 
 \(b\) Subject to limitations in this chapter, the delegated functions of the Federal Air Surgeon to examine applicants for and holders of medical certificates for compliance with applicable medical standards and to issue, renew, and deny medical certificates are also delegated to aviation medical examiners and to authorized representatives of the Federal Air Surgeon within the FAA.
 
-\(c\) The authority of the Administrator under 49 U.S.C. 44702, to reconsider the action of an aviation medical examiner is delegated to the Federal Air Surgeon; the Manager, Aeromedical Certification Division; and each Regional Flight Surgeon. Where the person does not meet the standards of §§67.107(b)(3) and (c), 67.109(b), 67.113(b) and (c), 67.207(b)(3) and (c), 67.209(b), 67.213(b) and (c), 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c), any action taken under this paragraph other than by the Federal Air Surgeon is subject to reconsideration by the Federal Air Surgeon. A certificate issued by an aviation medical examiner is considered to be affirmed as issued unless an FAA official named in this paragraph (authorized official) reverses that issuance within 60 days after the date of issuance. However, if within 60 days after the date of issuance an authorized official requests the certificate holder to submit additional medical information, an authorized official may reverse the issuance within 60 days after receipt of the requested information.
+\(c\) The authority of the Administrator under 49 U.S.C. 44702, to reconsider the action of an aviation medical examiner is delegated to the Federal Air Surgeon; the Manager, Aeromedical Certification Division; and each Regional Flight Surgeon. Where the person does not meet the standards of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]](b)(3) and (c), 67.109(b), 67.113(b) and (c), 67.207(b)(3) and (c), 67.209(b), 67.213(b) and (c), 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c), any action taken under this paragraph other than by the Federal Air Surgeon is subject to reconsideration by the Federal Air Surgeon. A certificate issued by an aviation medical examiner is considered to be affirmed as issued unless an FAA official named in this paragraph (authorized official) reverses that issuance within 60 days after the date of issuance. However, if within 60 days after the date of issuance an authorized official requests the certificate holder to submit additional medical information, an authorized official may reverse the issuance within 60 days after receipt of the requested information.
 
 \(d\) The authority of the Administrator under 49 U.S.C. 44709 to re-examine any civil airman to the extent necessary to determine an airman's qualification to continue to hold an airman medical certificate, is delegated to the Federal Air Surgeon and his or her authorized representatives within the FAA.
 
@@ -624,9 +624,9 @@ A person who does not meet the provisions of §§67.303 through 67.313 may apply
 
 \(2\) By the Federal Air Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703.
 
-\(3\) By the Manager, Aeromedical Certification Division, or a Regional Flight Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703 except where the person does not meet the standards of §§67.107(b)(3) and (c), 67.109(b), or 67.113(b) and (c); 67.207(b)(3) and (c), 67.209(b), or 67.213(b) and (c); or 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c).
+\(3\) By the Manager, Aeromedical Certification Division, or a Regional Flight Surgeon is considered to be a denial by the Administrator under 49 U.S.C. 44703 except where the person does not meet the standards of §[[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.107   Mental.|§67.107]](b)(3) and (c), 67.109(b), or 67.113(b) and (c); 67.207(b)(3) and (c), 67.209(b), or 67.213(b) and (c); or 67.307(b)(3) and (c), 67.309(b), or 67.313(b) and (c).
 
-\(c\) Any action taken under §67.407(c) that wholly or partly reverses the issue of a medical certificate by an aviation medical examiner is the denial of a medical certificate under paragraph (b) of this section.
+\(c\) Any action taken under [[Volume 2/D Airmen/0067 Medical standards and certification.md#§67.407   Delegation of authority.|§67.407]](c) that wholly or partly reverses the issue of a medical certificate by an aviation medical examiner is the denial of a medical certificate under paragraph (b) of this section.
 
 \(d\) If the issue of a medical certificate is wholly or partly reversed by the Federal Air Surgeon; the Manager, Aeromedical Certification Division; or a Regional Flight Surgeon, the person holding that certificate shall surrender it, upon request of the FAA.
 

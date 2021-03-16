@@ -8,9 +8,9 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.201](https://www.ecfr
 
 ### §201.1   Formal requirements.
 
-\(a\) Applications for certificates of public convenience and necessity under section 41102 of 49 U.S.C. Subtitle VII and for interstate all-cargo air transportation certificates under section 41103 of 49 U.S.C. Subtitle VII shall meet the requirements set forth in part 302 of this chapter as to general requirements, execution, number of copies, service, and formal specifications of papers.
+\(a\) Applications for certificates of public convenience and necessity under section 41102 of 49 U.S.C. Subtitle VII and for interstate all-cargo air transportation certificates under section 41103 of 49 U.S.C. Subtitle VII shall meet the requirements set forth in [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] as to general requirements, execution, number of copies, service, and formal specifications of papers.
 
-\(b\) Any person desiring to provide air transportation as a commuter air carrier must comply with the provisions of part 298 of this chapter and submit data to support a fitness determination in accordance with part 204 of this chapter. An executed original plus two (2) true copies of the fitness data shall be filed with Docket Operations Office, U.S. Department of Transportation, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590-0001. Requests for confidential treatment of documents should be filed in accordance with the requirements of part 302 of this chapter.
+\(b\) Any person desiring to provide air transportation as a commuter air carrier must comply with the provisions of [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]] and submit data to support a fitness determination in accordance with [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md|part 204 of this chapter]]. An executed original plus two (2) true copies of the fitness data shall be filed with Docket Operations Office, U.S. Department of Transportation, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590-0001. Requests for confidential treatment of documents should be filed in accordance with the requirements of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]].
 
 (Approved by the Office of Management and Budget under control number 2106-0023)
 
@@ -36,7 +36,7 @@ Incorporation by reference shall be avoided. However, where two or more applicat
 
 \(e\) Each application for foreign scheduled air transportation shall include an adequate identification of each route for which a certificate is desired, including the terminal and intermediate points to be included in the certificate for which application is made.
 
-\(f\) Each application shall give full and adequate information with respect to each of the relevant filing requirements set forth in part 204 of this chapter. In addition, the application may contain such other information and data as the applicant shall deem necessary or appropriate in order to acquaint the Department fully with the particular circumstances of its case; however, the statements contained in an application shall be restricted to significant and relevant facts.
+\(f\) Each application shall give full and adequate information with respect to each of the relevant filing requirements set forth in [[Volume 4/A Economic regulations/0204 Data to support fitness determinations.md|part 204 of this chapter]]. In addition, the application may contain such other information and data as the applicant shall deem necessary or appropriate in order to acquaint the Department fully with the particular circumstances of its case; however, the statements contained in an application shall be restricted to significant and relevant facts.
 
 (Approved by the Office of Management and Budget under control number 2106-0023)
 

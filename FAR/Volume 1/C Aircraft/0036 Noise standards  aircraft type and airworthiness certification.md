@@ -12,19 +12,19 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.36](https://www.ecfr.
 
 \(1\) Type certificates, and changes to those certificates, and standard airworthiness certificates, for subsonic transport category large airplanes, and for subsonic jet airplanes regardless of category.
 
-\(2\) Type certificates and changes to those certificates, standard airworthiness certificates, and restricted category airworthiness certificates, for propeller-driven, small airplanes, and for propeller-driven, commuter category airplanes except those airplanes that are designed for “agricultural aircraft operations” (as defined in §137.3 of this chapter, as effective on January 1, 1966) or for dispersing fire fighting materials to which §36.1583 of this part does not apply.
+\(2\) Type certificates and changes to those certificates, standard airworthiness certificates, and restricted category airworthiness certificates, for propeller-driven, small airplanes, and for propeller-driven, commuter category airplanes except those airplanes that are designed for “agricultural aircraft operations” (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.3   Definition of terms.|§137.3]] of this chapter, as effective on January 1, 1966) or for dispersing fire fighting materials to which [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1583   Noncomplying agricultural and fire fighting airplanes.|§36.1583]] of this part does not apply.
 
 \(3\) A type certificate and changes to that certificate, and standard airworthiness certificates, for Concorde airplanes.
 
-\(4\) Type certificates, and changes to those certificates, for helicopters except those helicopters that are designated exclusively for “argicultural aircraft operations” (as defined in §137.3 of this chapter, as effective on January 1, 1966), for dispensing fire fighting materials, or for carrying external loads (as defined in §133.1(b) of this chapter, as effective on December 20, 1976).
+\(4\) Type certificates, and changes to those certificates, for helicopters except those helicopters that are designated exclusively for “argicultural aircraft operations” (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.3   Definition of terms.|§137.3]] of this chapter, as effective on January 1, 1966), for dispensing fire fighting materials, or for carrying external loads (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0133 Rotorcraft external-load operations.md#§133.1   Applicability.|§133.1]](b) of this chapter, as effective on December 20, 1976).
 
 \(5\) Type certificates, changes to those certificates, and standard airworthiness certificates, for tiltrotors.
 
-\(b\) Each person who applies under Part 21 of this chapter for a type of airworthiness certificate specified in this part must show compliance with the applicable requirements of this part, in addition to the applicable airworthiness requirements of this chapter.
+\(b\) Each person who applies under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] for a type of airworthiness certificate specified in this part must show compliance with the applicable requirements of this part, in addition to the applicable airworthiness requirements of this chapter.
 
-\(c\) Each person who applies under Part 21 of this chapter for approval of an acoustical change described in §21.93(b) of this chapter must show that the aircraft complies with the applicable provisions of §§36.7, 36.9, 36.11 or 36.13 of this part in addition to the applicable airworthiness requirements of this chapter.
+\(c\) Each person who applies under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md|Part 21 of this chapter]] for approval of an acoustical change described in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter must show that the aircraft complies with the applicable provisions of §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]], 36.9, 36.11 or 36.13 of this part in addition to the applicable airworthiness requirements of this chapter.
 
-\(d\) Each person who applies for the original issue of a standard airworthiness certificate for a transport category large airplane or for a jet airplane under §21.183 must, regardless of date of application, show compliance with the following provisions of this part (including appendix B):
+\(d\) Each person who applies for the original issue of a standard airworthiness certificate for a transport category large airplane or for a jet airplane under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.|§21.183]] must, regardless of date of application, show compliance with the following provisions of this part (including appendix B):
 
 \(1\) The provisions of this part in effect on December 1, 1969, for subsonic airplanes that have not had any flight time before—
 
@@ -36,7 +36,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.36](https://www.ecfr.
 
 \(2\) The provisions of this part in effect on October 13, 1977, including the stage 2 noise limits, for Concorde airplanes that have not had flight time before January 1, 1980.
 
-\(e\) Each person who applies for the original issue of a standard airworthiness certificate under §21.183, or for the original issue of a restricted category airworthiness certificate under §21.185, for propeller-driven, commuter category airplanes for a propeller driven small airplane that has not had any flight time before January 1, 1980, must show compliance with the applicable provisions of this part.
+\(e\) Each person who applies for the original issue of a standard airworthiness certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.183   Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft.|§21.183]], or for the original issue of a restricted category airworthiness certificate under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.185   Issue of airworthiness certificates for restricted category aircraft.|§21.185]], for propeller-driven, commuter category airplanes for a propeller driven small airplane that has not had any flight time before January 1, 1980, must show compliance with the applicable provisions of this part.
 
 \(f\) For the purpose of showing compliance with this part for transport category large airplanes and jet airplanes regardless of category, the following terms have the following meanings:
 
@@ -60,13 +60,13 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.36](https://www.ecfr.
 
 \(10\) A “Stage 4 airplane” means an airplane that has been shown under this part not to exceed the Stage 4 noise limit prescribed in section B36.5(d) of appendix B of this part.
 
-\(11\) A “Chapter 4 noise level” means a noise level at or below the maximum noise level prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Volume I, Amendment 7, effective March 21, 2002. \[Incorporated by reference, see §36.6\].
+\(11\) A “Chapter 4 noise level” means a noise level at or below the maximum noise level prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Volume I, Amendment 7, effective March 21, 2002. \[Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]\].
 
 \(12\) A “Stage 5 noise level” means a noise level at or below the Stage 5 noise limit prescribed in section B36.5(e) of appendix B to this part.
 
 \(13\) A “Stage 5 airplane” means an airplane that has been shown under this part not to exceed the Stage 5 noise limit prescribed in section B36.5(e) of appendix B to this part.
 
-\(14\) A “Chapter 14 noise level” means a noise level at or below the Chapter 14 maximum noise level prescribed in Chapter 14 of the ICAO Annex 16, Volume 1, Seventh Edition, Amendment 11-B (Incorporated by reference, see §36.6).
+\(14\) A “Chapter 14 noise level” means a noise level at or below the Chapter 14 maximum noise level prescribed in Chapter 14 of the ICAO Annex 16, Volume 1, Seventh Edition, Amendment 11-B (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 \(g\) For the purpose of showing compliance with this part for transport category large airplanes and jet airplanes regardless of category, each airplane may not be identified as complying with more than one stage or configuration simultaneously.
 
@@ -110,7 +110,7 @@ VCON is defined as the maximum authorized speed for any nacelle angle in VTOL/Co
 
 <div>
 
-Editorial Note: For Federal Register citations affecting §36.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Editorial Note: For Federal Register citations affecting [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]], see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 </div>
 
@@ -118,7 +118,7 @@ Editorial Note: For Federal Register citations affecting §36.1, see the List of
 
 \(a\) Section 21.17 of this chapter notwithstanding, each person who applies for a type certificate for an aircraft covered by this part, must show that the aircraft meets the applicable requirements of this part that are effective on the date of application for that type certificate. When the time interval between the date of application for the type certificate and the issuance of the type certificate exceeds 5 years, the applicant must show that the aircraft meets the applicable requirements of this part that were effective on a date, to be selected by the applicant, not earlier than 5 years before the issue of the type certificate.
 
-\(b\) Section 21.101(a) of this chapter notwithstanding, each person who applies for an acoustical change to a type design specified in §21.93(b) of this chapter must show compliance with the applicable requirements of this part that are effective on the date of application for the change in type design. When the time interval between the date of application for the change in type design and the issuance of the amended or supplemental type certificate exceeds 5 years, the applicant must show that the aircraft meets the applicable requirements of this part that were effective on a date, to be selected by the applicant, not earlier than 5 years before the issue of the amended or supplemental type certificate.
+\(b\) Section 21.101(a) of this chapter notwithstanding, each person who applies for an acoustical change to a type design specified in [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter must show compliance with the applicable requirements of this part that are effective on the date of application for the change in type design. When the time interval between the date of application for the change in type design and the issuance of the amended or supplemental type certificate exceeds 5 years, the applicant must show that the aircraft meets the applicable requirements of this part that were effective on a date, to be selected by the applicant, not earlier than 5 years before the issue of the amended or supplemental type certificate.
 
 \(c\) If an applicant elects to comply with a standard in this part that was effective after the filing of the application for a type certificate or change to a type design, the election:
 
@@ -172,9 +172,9 @@ Pursuant to 49 U.S.C. 44715, the noise levels in this part have been determined 
 
 \(b\) International Civil Aviation Organization (ICAO), Document Sales Unit, 999 University Street, Montreal, Quebec, H3C 5H7, Canada. *http://www.icao.int/publications/Pages/default.aspx*.
 
-\(1\) International Standards and Recommended Practices, Annex 16 to the Convention on International Civil Aviation, Environmental Protection, Volume I, Aircraft Noise, Third Edition, July 1993, Amendment 7 effective March 21, 2002, IBR approved for §36.1(f), and appendices A and B to part 36.
+\(1\) International Standards and Recommended Practices, Annex 16 to the Convention on International Civil Aviation, Environmental Protection, Volume I, Aircraft Noise, Third Edition, July 1993, Amendment 7 effective March 21, 2002, IBR approved for [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]](f), and appendices A and B to part 36.
 
-\(2\) International Standards and Recommended Practices, Annex 16 to the Convention on International Civil Aviation, Environmental Protection, Volume I, Aircraft Noise, Seventh Edition, July 2014, Amendment 11-B, applicable January 1, 2015, IBR approved for §36.1(f) and appendices A and B to part 36.
+\(2\) International Standards and Recommended Practices, Annex 16 to the Convention on International Civil Aviation, Environmental Protection, Volume I, Aircraft Noise, Seventh Edition, July 2014, Amendment 11-B, applicable January 1, 2015, IBR approved for [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]](f) and appendices A and B to part 36.
 
 \(c\) International Electrotechnical Commission (IEC) 3 Rue de Varembe, Case Postale 131, 1211 Geneva 20, Switzerland, *http://www.iec.ch/standardsdev/publications/?ref=menu.*
 
@@ -204,7 +204,7 @@ Pursuant to 49 U.S.C. 44715, the noise levels in this part have been determined 
 
 ### §36.7   Acoustical change: Transport category large airplanes and jet airplanes.
 
-\(a\) *Applicability.* This section applies to all transport category large airplanes and jet airplanes for which an acoustical change approval is applied for under §21.93(b) of this chapter.
+\(a\) *Applicability.* This section applies to all transport category large airplanes and jet airplanes for which an acoustical change approval is applied for under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter.
 
 \(b\) *General requirements.* Except as otherwise specifically provided, for each airplane covered by this section, the acoustical change approval requirements are as follows:
 
@@ -264,21 +264,21 @@ Pursuant to 49 U.S.C. 44715, the noise levels in this part have been determined 
 
 ### §36.9   Acoustical change: Propeller-driven small airplanes and propeller-driven commuter category airplanes.
 
-For propeller-driven small airplanes in the primary, normal, utility, acrobatic, transport, and restricted categories and for propeller-driven, commuter category airplanes for which an acoustical change approval is applied for under §21.93(b) of this chapter after January 1, 1975, the following apply:
+For propeller-driven small airplanes in the primary, normal, utility, acrobatic, transport, and restricted categories and for propeller-driven, commuter category airplanes for which an acoustical change approval is applied for under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter after January 1, 1975, the following apply:
 
-\(a\) If the airplane was type certificated under this part prior to a change in type design, it may not subsequently exceed the noise limits specified in §36.501 of this part.
+\(a\) If the airplane was type certificated under this part prior to a change in type design, it may not subsequently exceed the noise limits specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.501   Noise limits.|§36.501]] of this part.
 
 \(b\) If the airplane was not type certificated under this part prior to a change in type design, it may not exceed the higher of the two following values:
 
-\(1\) The noise limit specified in §36.501 of this part, or
+\(1\) The noise limit specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.501   Noise limits.|§36.501]] of this part, or
 
-\(2\) The noise level created prior to the change in type design, measured and corrected as prescribed in §36.501 of this part.
+\(2\) The noise level created prior to the change in type design, measured and corrected as prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.501   Noise limits.|§36.501]] of this part.
 
 \[Amdt. 36-16, 53 FR 47400, Nov. 22, 1988; 53 FR 50157, Dec. 13, 1988; Amdt. 36-19, 57 FR 41369, Sept. 9, 1992\]
 
 ### §36.11   Acoustical change: Helicopters.
 
-This section applies to all helicopters in the primary, normal, transport, and restricted categories for which an acoustical change approval is applied for under §21.93(b) of this chapter on or after March 6, 1986. Compliance with the requirements of this section must be demonstrated under appendix H of this part, or, for helicopters having a maximum certificated takeoff weight of not more than 7,000 pounds, compliance with this section may be demonstrated under appendix J of this part.
+This section applies to all helicopters in the primary, normal, transport, and restricted categories for which an acoustical change approval is applied for under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter on or after March 6, 1986. Compliance with the requirements of this section must be demonstrated under appendix H of this part, or, for helicopters having a maximum certificated takeoff weight of not more than 7,000 pounds, compliance with this section may be demonstrated under appendix J of this part.
 
 \(a\) *General requirements.* Except as otherwise provided, for helicopters covered by this section, the acoustical change approval requirements are as follows:
 
@@ -286,7 +286,7 @@ This section applies to all helicopters in the primary, normal, transport, and r
 
 \(2\) Compliance with the noise limits prescribed in section H36.305 of appendix H of this part must be shown in accordance with the applicable provisions of part D of appendix H of this part. For those helicopters that demonstrate compliance with the requirements of appendix J of this part, compliance with the noise levels prescribed in section J36.305 of appendix J of this part must be shown in accordance with the applicable provisions of part D of appendix J of this part.
 
-\(b\) *Stage 1 helicopters.* Except as provided in §36.805(c), for each Stage 1 helicopter prior to a change in type design, the helicopter noise levels may not, after a change in type design, exceed the noise levels specified in section H36.305(a)(1) of appendix H of this part where the demonstration of compliance is under appendix H of this part. The tradeoff provisions under section H36.305(b) of appendix H of this part may not be used to increase any Stage 1 noise level beyond these limits. If an applicant chooses to demonstrate compliance under appendix J of this part, for each Stage 1 helicopter prior to a change in type design, the helicopter noise levels may not, after a change in type design, exceed the Stage 2 noise levels specified in section J36.305(a) of appendix J of this part.
+\(b\) *Stage 1 helicopters.* Except as provided in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]](c), for each Stage 1 helicopter prior to a change in type design, the helicopter noise levels may not, after a change in type design, exceed the noise levels specified in section H36.305(a)(1) of appendix H of this part where the demonstration of compliance is under appendix H of this part. The tradeoff provisions under section H36.305(b) of appendix H of this part may not be used to increase any Stage 1 noise level beyond these limits. If an applicant chooses to demonstrate compliance under appendix J of this part, for each Stage 1 helicopter prior to a change in type design, the helicopter noise levels may not, after a change in type design, exceed the Stage 2 noise levels specified in section J36.305(a) of appendix J of this part.
 
 \(c\) *Stage 2 helicopters.* For each helicopter that is Stage 2 prior to a change in type design, after a change in type design the helicopter must either:
 
@@ -300,13 +300,13 @@ This section applies to all helicopters in the primary, normal, transport, and r
 
 ### §36.13   Acoustical change: Tiltrotor aircraft.
 
-The following requirements apply to tiltrotors in any category for which an acoustical change approval is applied for under §21.93(b) of this chapter on or after March 11, 2013:
+The following requirements apply to tiltrotors in any category for which an acoustical change approval is applied for under [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.93   Classification of changes in type design.|§21.93]](b) of this chapter on or after March 11, 2013:
 
 \(a\) In showing compliance with Appendix K of this part, noise levels must be measured, evaluated, and calculated in accordance with the applicable procedures and conditions prescribed in Appendix K of this part.
 
 \(b\) Compliance with the noise limits prescribed in section K4 (Noise Limits) of Appendix K of this part must be shown in accordance with the applicable provisions of sections K2 (Noise Evaluation Measure), K3 (Noise Measurement Reference Points), K6 (Noise Certification Reference Procedures), and K7 (Test Procedures) of Appendix K of this part.
 
-\(c\) After a change in type design, tiltrotor noise levels may not exceed the limits specified in §36.1103.
+\(c\) After a change in type design, tiltrotor noise levels may not exceed the limits specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1103   Noise limits.|§36.1103]].
 
 \[Amdt. 36-29, 78 FR 1139, Jan. 8, 2013\]
 
@@ -324,11 +324,11 @@ For transport category large airplanes and jet airplanes, the noise generated by
 
 \(b\) Type certification applications between November 5, 1975 and December 31, 2005. If application is made on or after November 5, 1975, and before January 1, 2006, it must be shown that the noise levels of the airplane are no greater than the Stage 3 noise limit prescribed in section B36.5(c) of appendix B of this part.
 
-\(c\) Type certification applications between January 1, 2006, and the date specified in paragraph (d) or (e) of this section, as applicable for airplane weight. If application is made on or after January 1, 2006, and before the date specified in paragraph (d) or (e) of this section (as applicable for airplane weight), it must be shown that the noise levels of the airplane are no greater than the Stage 4 noise limit prescribed in section B36.5(d) of appendix B of this part. If an applicant chose to voluntarily certificate an airplane to Stage 4 prior to January 2006, then the requirements of §36.7(f) apply to that airplane.
+\(c\) Type certification applications between January 1, 2006, and the date specified in paragraph (d) or (e) of this section, as applicable for airplane weight. If application is made on or after January 1, 2006, and before the date specified in paragraph (d) or (e) of this section (as applicable for airplane weight), it must be shown that the noise levels of the airplane are no greater than the Stage 4 noise limit prescribed in section B36.5(d) of appendix B of this part. If an applicant chose to voluntarily certificate an airplane to Stage 4 prior to January 2006, then the requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]](f) apply to that airplane.
 
-\(d\) For airplanes with a maximum certificated takeoff weight of 121,254 pounds (55,000 kg) or more, type certification applications on or after December 31, 2017. If application is made on or after December 31, 2017, it must be shown that the noise levels of the airplane are no greater than the Stage 5 noise limit prescribed in section B36.5(e) of appendix B of this part. Prior to December 31, 2017, an applicant may seek voluntary certification to Stage 5. If Stage 5 certification is chosen, the requirements of §36.7(g) will apply.
+\(d\) For airplanes with a maximum certificated takeoff weight of 121,254 pounds (55,000 kg) or more, type certification applications on or after December 31, 2017. If application is made on or after December 31, 2017, it must be shown that the noise levels of the airplane are no greater than the Stage 5 noise limit prescribed in section B36.5(e) of appendix B of this part. Prior to December 31, 2017, an applicant may seek voluntary certification to Stage 5. If Stage 5 certification is chosen, the requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]](g) will apply.
 
-\(e\) For airplanes with a maximum certificated take-off weight of less than 121,254 pounds (55,000 kg), type certification applications on or after December 31, 2020. If application is made on or after December 31, 2020, it must be shown that the noise levels of the airplane are no greater than the Stage 5 noise limit prescribed in section B36.5(e) of appendix B of this part. Prior to December 31, 2020, an applicant may seek voluntary certification to Stage 5. If Stage 5 certification is chosen, the requirements of §36.7(g) will apply.
+\(e\) For airplanes with a maximum certificated take-off weight of less than 121,254 pounds (55,000 kg), type certification applications on or after December 31, 2020. If application is made on or after December 31, 2020, it must be shown that the noise levels of the airplane are no greater than the Stage 5 noise limit prescribed in section B36.5(e) of appendix B of this part. Prior to December 31, 2020, an applicant may seek voluntary certification to Stage 5. If Stage 5 certification is chosen, the requirements of [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]](g) will apply.
 
 \[Amdt. 36-54, 67 FR 45212, July 8, 2002, as amended by Amdt. 36-26, 70 FR 38749, July 5, 2005; FAA Doc. No. FAA-2015-3782, Amdt. No. 36-31, 82 FR 46130, Oct. 4, 2017\]
 
@@ -392,7 +392,7 @@ For primary, normal, transport, or restricted category helicopters for which cer
 
 ### §36.803   Noise evaluation and calculation.
 
-The noise measurement data required under §36.801 and obtained under appendix H of this part must be corrected to the reference conditions contained in part A of appendix H of this part, and evaluated under the procedures of part C of appendix H of this part, or an FAA-approved equivalent procedure. The noise measurement data required under §36.801 and obtained under appendix J of this part must be corrected to the reference conditions contained in part A of appendix J of this part, and evaluated under the procedures of part C of appendix J of this part, or an FAA-approved equivalent procedure.
+The noise measurement data required under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]] and obtained under appendix H of this part must be corrected to the reference conditions contained in part A of appendix H of this part, and evaluated under the procedures of part C of appendix H of this part, or an FAA-approved equivalent procedure. The noise measurement data required under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]] and obtained under appendix J of this part must be corrected to the reference conditions contained in part A of appendix J of this part, and evaluated under the procedures of part C of appendix J of this part, or an FAA-approved equivalent procedure.
 
 \[Doc. No. 26910, 57 FR 42854, Sept. 16, 1992\]
 
@@ -454,7 +454,7 @@ For tiltrotors, the noise generated must be measured and evaluated under Appendi
 
 ### §36.1581   Manuals, markings, and placards.
 
-\(a\) If an Airplane Flight Manual or Rotorcraft Flight Manual is approved, the approved portion of the Airplane Flight Manual or Rotorcraft Flight Manual must contain the following information, in addition to that specified under §36.1583 of this part. If an Airplane Flight Manual or Rotorcraft Flight Manual is not approved, the procedures and information must be furnished in any combination of approved manual material, markings, and placards.
+\(a\) If an Airplane Flight Manual or Rotorcraft Flight Manual is approved, the approved portion of the Airplane Flight Manual or Rotorcraft Flight Manual must contain the following information, in addition to that specified under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1583   Noncomplying agricultural and fire fighting airplanes.|§36.1583]] of this part. If an Airplane Flight Manual or Rotorcraft Flight Manual is not approved, the procedures and information must be furnished in any combination of approved manual material, markings, and placards.
 
 \(1\) For transport category large airplanes and jet airplanes, the noise level information must be one value for each flyover, lateral, and approach as defined and required by appendix B of this part, along with the maximum takeoff weight, maximum landing weight, and configuration.
 
@@ -462,7 +462,7 @@ For tiltrotors, the noise generated must be measured and evaluated under Appendi
 
 \(3\) For rotorcraft, the noise level information must be one value for each takeoff, flyover, and approach as defined and required by appendix H of this part, or one value for flyover as defined and required by appendix J of this part, at the maximum takeoff weight and configuration.
 
-\(b\) If supplemental operational noise level information is included in the approved portion of the Airplane Flight Manual, it must be segregated, identified as information in addition to the certificated noise levels, and clearly distinguished from the information required under §36.1581(a).
+\(b\) If supplemental operational noise level information is included in the approved portion of the Airplane Flight Manual, it must be segregated, identified as information in addition to the certificated noise levels, and clearly distinguished from the information required under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1581   Manuals, markings, and placards.|§36.1581]](a).
 
 \(c\) The following statement must be furnished near the listed noise levels:
 
@@ -470,7 +470,7 @@ For tiltrotors, the noise generated must be measured and evaluated under Appendi
 
 \(e\) For propeller driven small airplanes and for propeller-driven, commuter category airplanes for which the weight used in meeting the flyover noise requirements of this part is less than the maximum weight by an amount exceeding the amount of fuel needed to conduct the test, that lesser weight must be furnished, as an operating limitation, in the operating limitations section of an approved Airplane Flight Manual, in approved manual material, or on an approved placard.
 
-\(f\) For primary, normal, transport, and restricted category helicopters, if the weight used in meeting the takeoff, flyover, or approach noise requirements of appendix H of this part, or the weight used in meeting the flyover noise requirement of appendix J of this part, is less than the certificated maximum takeoff weight established under either §27.25(a) or §29.25(a) of this chapter, that lesser weight must be furnished as an operating limitation in the operating limitations section of the Rotorcraft Flight Manual, in FAA-approved manual material, or on an FAA-approved placard.
+\(f\) For primary, normal, transport, and restricted category helicopters, if the weight used in meeting the takeoff, flyover, or approach noise requirements of appendix H of this part, or the weight used in meeting the flyover noise requirement of appendix J of this part, is less than the certificated maximum takeoff weight established under either [[Volume 1/C Aircraft/0027 Airworthiness standards  normal category rotorcraft.md#§27.25   Weight limits.|§27.25]](a) or [[Volume 1/C Aircraft/0029 Airworthiness standards  transport category rotorcraft.md#§29.25   Weight limits.|§29.25]](a) of this chapter, that lesser weight must be furnished as an operating limitation in the operating limitations section of the Rotorcraft Flight Manual, in FAA-approved manual material, or on an FAA-approved placard.
 
 \(g\) Except as provided in paragraphs (d), (e), and (f) of this section, no operating limitations are furnished under this part.
 
@@ -478,7 +478,7 @@ For tiltrotors, the noise generated must be measured and evaluated under Appendi
 
 <div>
 
-Editorial Note: For Federal Register citations affecting §36.1581, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Editorial Note: For Federal Register citations affecting [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1581   Manuals, markings, and placards.|§36.1581]], see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 </div>
 
@@ -486,7 +486,7 @@ Editorial Note: For Federal Register citations affecting §36.1581, see the List
 
 \(a\) This section applies to propeller-driven, small airplanes that—
 
-\(1\) Are designed for “agricultural aircraft operations” (as defined in §137.3 of this chapter, effective on January 1, 1966) or for dispensing fire fighting materials; and
+\(1\) Are designed for “agricultural aircraft operations” (as defined in [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0137 Agricultural aircraft operations.md#§137.3   Definition of terms.|§137.3]] of this chapter, effective on January 1, 1966) or for dispensing fire fighting materials; and
 
 \(2\) Have not been shown to comply with the noise levels prescribed under appendix F of this part—
 
@@ -494,11 +494,11 @@ Editorial Note: For Federal Register citations affecting §36.1581, see the List
 
 \(ii\) For which application is made for an acoustical change approval, for airplanes which have a standard airworthiness certificate after the change in the type design, and that do not have any flight time in the changed configuration before January 1, 1980.
 
-\(b\) For airplanes covered by this section an operating limitation reading as follows must be furnished in the manner prescribed in §36.1581:
+\(b\) For airplanes covered by this section an operating limitation reading as follows must be furnished in the manner prescribed in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1581   Manuals, markings, and placards.|§36.1581]]:
 
 <div>
 
-Noise abatement: This airplane has not been shown to comply with the noise limits in FAR Part 36 and must be operated in accordance with the noise operating limitation prescribed under FAR §91.815.
+Noise abatement: This airplane has not been shown to comply with the noise limits in FAR Part 36 and must be operated in accordance with the noise operating limitation prescribed under FAR [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.815   Agricultural and fire fighting airplanes: Noise operating limitations.|§91.815]].
 
 </div>
 
@@ -506,7 +506,7 @@ Noise abatement: This airplane has not been shown to comply with the noise limit
 
 ##    
 
-### Appendix A to Part 36—Aircraft Noise Measurement and Evaluation Under §36.101
+### Appendix A to Part 36—Aircraft Noise Measurement and Evaluation Under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.101   Noise measurement and evaluation.|§36.101]]
 
 A36.1 *Introduction.*
 
@@ -528,15 +528,15 @@ A36.9 *Adjustment of Airplane Flight Test Results.*
 
 ### Section A36.1 Introduction
 
-A36.1.1 This appendix prescribes the conditions under which airplane noise certification tests must be conducted and states the measurement procedures that must be used to measure airplane noise. The procedures that must be used to determine the noise evaluation quantity designated as effective perceived noise level, EPNL, under §§36.101 and 36.803 are also stated.
+A36.1.1 This appendix prescribes the conditions under which airplane noise certification tests must be conducted and states the measurement procedures that must be used to measure airplane noise. The procedures that must be used to determine the noise evaluation quantity designated as effective perceived noise level, EPNL, under §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.101   Noise measurement and evaluation.|§36.101]] and 36.803 are also stated.
 
 A36.1.2 The instructions and procedures given are intended to ensure uniformity during compliance tests and to permit comparison between tests of various types of airplanes conducted in various geographical locations.
 
 A36.1.3 A complete list of symbols and units, the mathematical formulation of perceived noisiness, a procedure for determining atmospheric attenuation of sound, and detailed procedures for correcting noise levels from non-reference to reference conditions are included in this appendix.
 
-A36.1.4 For Stage 4 airplanes, an acceptable alternative for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume I, Amendment 7 (incorporated by reference, see §36.6).
+A36.1.4 For Stage 4 airplanes, an acceptable alternative for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume I, Amendment 7 (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
-A36.1.5 For Stage 5 airplanes, an acceptable alternative for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume 1, Amendment 11-B (incorporated by reference, see §36.6).
+A36.1.5 For Stage 5 airplanes, an acceptable alternative for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume 1, Amendment 11-B (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 ### Section A36.2 Noise Certification Test and Measurement Conditions
 
@@ -614,7 +614,7 @@ Note: Practical installations may include a number of microphone systems, the ou
 
 A36.3.1.2 *Microphone system* means the components of the measurement system which produce an electrical output signal in response to a sound pressure input signal, and which generally include a microphone, a preamplifier, extension cables, and other devices as necessary.
 
-A36.3.1.3 *Sound incidence angle* means in degrees, an angle between the principal axis of the microphone, as defined in IEC 61094-3 and IEC 61094-4, as amended and a line from the sound source to the center of the diaphragm of the microphone (incorporated by reference, see §36.6).
+A36.3.1.3 *Sound incidence angle* means in degrees, an angle between the principal axis of the microphone, as defined in IEC 61094-3 and IEC 61094-4, as amended and a line from the sound source to the center of the diaphragm of the microphone (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 <div>
 
@@ -778,7 +778,7 @@ A36.3.7.2 The output of the analysis system must consist of one-third octave ban
 
 \(e\) The analysis system must operate in real time from 50 Hz through at least 12 kHz inclusive. This requirement applies to all operating channels of a multi-channel spectral analysis system.
 
-A36.3.7.3 The minimum standard for the one-third octave band analysis system is the class 2 electrical performance requirements of IEC 61260 as amended, over the range of one-third octave nominal midband frequencies from 50 Hz through 10 kHz inclusive (incorporated by reference, see §36.6).
+A36.3.7.3 The minimum standard for the one-third octave band analysis system is the class 2 electrical performance requirements of IEC 61260 as amended, over the range of one-third octave nominal midband frequencies from 50 Hz through 10 kHz inclusive (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 <div>
 
@@ -818,7 +818,7 @@ A36.3.7.7 The resolution of the sound pressure levels, both displayed and stored
 
 A36.3.8 *Calibration systems.*
 
-A36.3.8.1 The acoustical sensitivity of the measurement system must be determined using a sound calibrator generating a known sound pressure level at a known frequency. The minimum standard for the sound calibrator is the class 1L requirements of IEC 60942 as amended (incorporated by reference, see §36.6).
+A36.3.8.1 The acoustical sensitivity of the measurement system must be determined using a sound calibrator generating a known sound pressure level at a known frequency. The minimum standard for the sound calibrator is the class 1L requirements of IEC 60942 as amended (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 A36.3.9 *Calibration and checking of system.*
 
@@ -1540,7 +1540,7 @@ A36.9.6 Flight Path Distances
 
 \[Amdt. 36-54, 67 FR 45212, July 8, 2002; Amdt. 36-24, 67 FR 63195, 63196, Oct. 10, 2002; 68 FR 1512, Jan. 10, 2003; Amdt. 36-26, 70 FR 38749, July 5, 2005; FAA Doc. No. FAA-2015-3782, Amdt. No. 36-31, 82 FR 46131, Oct. 4, 2017\]
 
-### Appendix B to Part 36—Noise Levels for Transport Category and Jet Airplanes Under §36.103
+### Appendix B to Part 36—Noise Levels for Transport Category and Jet Airplanes Under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.103   Noise limits.|§36.103]]
 
 B36.1 *Noise Measurement and Evaluation.*
 
@@ -1562,9 +1562,9 @@ B36.8 *Noise Certification Test Procedures.*
 
 \(a\) The procedures of Appendix A of this part, or approved equivalent procedures, must be used to determine noise levels of an airplane. These noise levels must be used to show compliance with the requirements of this appendix.
 
-\(b\) For Stage 4 airplanes, an acceptable alternative to paragraph (a) of this section for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume I, Amendment 7 (Incorporated by reference, see §36.6).
+\(b\) For Stage 4 airplanes, an acceptable alternative to paragraph (a) of this section for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume I, Amendment 7 (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
-\(c\) For Stage 5 airplanes, an acceptable alternative to paragraph (a) of this section for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume 1, Amendment 11-B (Incorporated by reference, see §36.6).
+\(c\) For Stage 5 airplanes, an acceptable alternative to paragraph (a) of this section for noise measurement and evaluation is Appendix 2 to ICAO Annex 16, Volume 1, Amendment 11-B (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 ### Section B36.2 Noise Evaluation Metric
 
@@ -1594,7 +1594,7 @@ When tested using the procedures of this part, except as provided in section B36
 
 Except as provided in section B36.6 of this appendix, maximum noise levels, when determined in accordance with the noise evaluation methods of appendix A of this part, may not exceed the following:
 
-\(a\) For acoustical changes to Stage 1 airplanes, regardless of the number of engines, the noise levels prescribed under §36.7(c) of this part.
+\(a\) For acoustical changes to Stage 1 airplanes, regardless of the number of engines, the noise levels prescribed under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.7   Acoustical change: Transport category large airplanes and jet airplanes.|§36.7]](c) of this part.
 
 \(b\) For any Stage 2 airplane regardless of the number of engines:
 
@@ -1616,9 +1616,9 @@ Except as provided in section B36.6 of this appendix, maximum noise levels, when
 
 \(3\) Approach, regardless of the number of engines: 105 EPNdB for maximum weight of 617,300 pounds or more; for each halving of maximum weight (from 617,300 pounds), reduce the limit by 2.33 EPNdB; the limit is 98 EPNdB for a maximum weight of 77,200 pounds or less.
 
-\(d\) For any Stage 4 airplane, the flyover, lateral, and approach maximum noise levels are prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, and Chapter 3, Paragraph 3.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Environmental Protection, Volume I, Aircraft Noise, Third Edition, July 1993, Amendment 7, effective March 21, 2002. \[Incorporated by reference, see §36.6\].
+\(d\) For any Stage 4 airplane, the flyover, lateral, and approach maximum noise levels are prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, and Chapter 3, Paragraph 3.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Environmental Protection, Volume I, Aircraft Noise, Third Edition, July 1993, Amendment 7, effective March 21, 2002. \[Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]\].
 
-\(e\) For any Stage 5 airplane, the flyover, lateral, and approach maximum noise levels are prescribed in Chapter 14, Paragraph 14.4, Maximum Noise Levels of ICAO Annex 16, Volume I, Amendment 11-B (Incorporated by reference, see §36.6).
+\(e\) For any Stage 5 airplane, the flyover, lateral, and approach maximum noise levels are prescribed in Chapter 14, Paragraph 14.4, Maximum Noise Levels of ICAO Annex 16, Volume I, Amendment 11-B (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 ### Section B36.6 Trade-Offs
 
@@ -1686,7 +1686,7 @@ The takeoff reference flight path is to be calculated using the following:
 
 \(5\) The takeoff configuration selected by the applicant must be maintained constantly throughout the takeoff reference procedure, except that the landing gear may be retracted. Configuration means the center of gravity position, and the status of the airplane systems that can affect airplane performance or noise. Examples include, the position of lift augmentation devices, whether the APU is operating, and whether air bleeds and engine power take-offs are operating;
 
-\(6\) The weight of the airplane at the brake release must be the maximum takeoff weight at which the noise certification is requested, which may result in an operating limitation as specified in §36.1581(d); and
+\(6\) The weight of the airplane at the brake release must be the maximum takeoff weight at which the noise certification is requested, which may result in an operating limitation as specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1581   Manuals, markings, and placards.|§36.1581]](d); and
 
 \(7\) The average engine is defined as the average of all the certification compliant engines used during the airplane flight tests, up to and during certification, when operating within the limitations and according to the procedures given in the Flight Manual. This will determine the relationship of thrust/power to control parameters (e.g., N1 or EPR). Noise measurements made during certification tests must be corrected using this relationship.
 
@@ -1700,7 +1700,7 @@ The approach reference flight path must be calculated using the following:
 
 \(3\) The constant approach configuration used in the airworthiness certification tests, but with the landing gear down, must be maintained throughout the approach reference procedure;
 
-\(4\) The weight of the airplane at touchdown must be the maximum landing weight permitted in the approach configuration defined in paragraph (c)(3) of this section at which noise certification is requested, except as provided in §36.1581(d) of this part; and
+\(4\) The weight of the airplane at touchdown must be the maximum landing weight permitted in the approach configuration defined in paragraph (c)(3) of this section at which noise certification is requested, except as provided in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1581   Manuals, markings, and placards.|§36.1581]](d) of this part; and
 
 \(5\) The most critical configuration must be used; this configuration is defined as that which produces the highest noise level with normal deployment of aerodynamic control surfaces including lift and drag producing devices, at the weight at which certification is requested. This configuration includes all those items listed in section A36.5.2.5 of appendix A of this part that contribute to the noisiest continuous state at the maximum landing weight in normal operation.
 
@@ -1762,7 +1762,7 @@ F36.301 *Aircraft noise limits.*
 
 # part a—general
 
-*Section F36.1 Scope.* This appendix prescribes noise level limits and procedures for measuring and correcting noise data for the propeller driven small airplanes specified in §§36.1 and 36.501(b).
+*Section F36.1 Scope.* This appendix prescribes noise level limits and procedures for measuring and correcting noise data for the propeller driven small airplanes specified in §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] and 36.501(b).
 
 # part b—noise measurement
 
@@ -1800,7 +1800,7 @@ F36.301 *Aircraft noise limits.*
 
 \(a\) The noise produced by the airplane must be recorded. A magnetic tape recorder is acceptable.
 
-\(b\) The characteristics of the system must comply with the recommendations in IEC 179 (incorporated by reference, see §36.6).
+\(b\) The characteristics of the system must comply with the recommendations in IEC 179 (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
 \(c\) The response of the complete system to a sensibly plane progressive sinusoidal wave of constant amplitude must lie within the tolerance limits specified in IEC Publication No. 179, dated 1973, over the frequency range 45 to 11,200 Hz.
 
@@ -1936,7 +1936,7 @@ G36.301 *Aircraft Noise Limits.*
 
 # part a—general
 
-*Section G36.1 Scope.* This appendix prescribes limiting noise levels and procedures for measuring noise and adjusting these data to standard conditions, for propeller driven small airplanes and propeller-driven, commuter category airplanes specified in §§36.1 and 36.501(c).
+*Section G36.1 Scope.* This appendix prescribes limiting noise levels and procedures for measuring noise and adjusting these data to standard conditions, for propeller driven small airplanes and propeller-driven, commuter category airplanes specified in §[[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] and 36.501(c).
 
 # part b—noise measurement
 
@@ -1976,7 +1976,7 @@ The acoustical measurement system must consist of approved equipment with the fo
 
 \(a\) The noise produced by the airplane must be recorded. A magnetic tape recorder, graphic level recorder, or sound level meter is acceptable when approved by the regional certificating authority.
 
-\(b\) The characteristics of the complete system must comply with the requirements in IEC 651 and IEC 561 (incorporated by reference, see §36.6). Sound level meters must comply with the requirements for Type 1 sound level meters as specified in IEC 651.
+\(b\) The characteristics of the complete system must comply with the requirements in IEC 651 and IEC 561 (incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]). Sound level meters must comply with the requirements for Type 1 sound level meters as specified in IEC 651.
 
 \(c\) The response of the complete system to a sensibly plane progressive sinusoidal wave of constant amplitude must be within the tolerance limits specified in IEC 651, over the frequency range 45 to 11,200 Hz.
 
@@ -2098,7 +2098,7 @@ The acoustical measurement system must consist of approved equipment with the fo
 
 Delta (M) = (HT α—0.7 HR)/1000
 
-where HT is the height in feet under test conditions, HR is the height in feet under reference conditions when the aircraft is directly over the noise measurement point and α is the rate of absorption for the test day conditions at 500 Hz as specified in SAE ARP 866A, entitled “Standard Values of Atmospheric Absorption as a function of Temperature and Humidity for use in Evaluating Aircraft Flyover Noise” as incorporated by reference under §36.6.
+where HT is the height in feet under test conditions, HR is the height in feet under reference conditions when the aircraft is directly over the noise measurement point and α is the rate of absorption for the test day conditions at 500 Hz as specified in SAE ARP 866A, entitled “Standard Values of Atmospheric Absorption as a function of Temperature and Humidity for use in Evaluating Aircraft Flyover Noise” as incorporated by reference under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]].
 
 \(2\) Measured sound levels in decibels must be corrected for height by algebraically adding an increment equal to Delta (1). When test day conditions are within those specified in figure G1:
 
@@ -2142,7 +2142,7 @@ where PR and PT are the test and reference engine powers respectively obtained f
 
 [View or download PDF](https://www.ecfr.gov/graphics/pdfs/er04ja06.033.pdf)
 
-(Secs. 313(a), 603, and 611(b), Federal Aviation Act of 1958 as amended (49 U.S.C. 1354(a), 1423, and 1431(b)); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655 (c)); Title I, National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*); E. O. 11514, March 5, 1970 and [[Volume 1/B Procedural rules/0011 General rulemaking procedures.md#§11.45   Where and when do I file my comments?|14 CFR 11.45]]).
+(Secs. 313(a), 603, and 611(b), Federal Aviation Act of 1958 as amended (49 U.S.C. 1354(a), 1423, and 1431(b)); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655 (c)); Title I, National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*); E. O. 11514, March 5, 1970 and 14 CFR 11.45).
 
 \[Amdt. 36-16, 53 FR 47400, Nov. 22, 1988; 53 FR 50157, Dec. 13, 1988, as amended by Amdt. 36-22, 64 FR 55602, Oct. 13, 1999; Amdt. 36-54, 67 FR 45236, July 8, 2002; Amdt. 36-27, 70 FR 45504, Aug. 5, 2005; Amdt. 36-28, 71 FR 532, Jan. 4, 2006; FAA Doc. No. FAA-2015-3782, Amdt. No. 36-31, 82 FR 46131, Oct. 4, 2017\]
 
@@ -2156,7 +2156,7 @@ H36.3 *Reference Test Conditions.*
 
 H36.5 *Symbols and Units.*
 
-# part b—noise measurement under §36.801
+# part b—noise measurement under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]]
 
 H36.101 *Noise certification test and measurement conditions.*
 
@@ -2172,7 +2172,7 @@ H36.111 *Reporting and correcting measured data.*
 
 H36.113 *Atmospheric attenuation of sound.*
 
-# part c—noise evaluation and calculation under §36.803
+# part c—noise evaluation and calculation under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]]
 
 H36.201 *Noise evaluation in EPNdB.*
 
@@ -2180,7 +2180,7 @@ H36.203 *Calculation of noise levels.*
 
 H36.205 *Detailed data correction procedures.*
 
-# part d—noise limits under §36.805
+# part d—noise limits under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]]
 
 H36.301 *Noise measurement, evaluation, and calculation.*
 
@@ -2190,13 +2190,13 @@ H36.305 *Noise levels.*
 
 # part a—reference conditions
 
-*Section H36.1 General.* This appendix prescribes noise requirements for helicopters specified under §36.1, including:
+*Section H36.1 General.* This appendix prescribes noise requirements for helicopters specified under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]], including:
 
-\(a\) The conditions under which helicopter noise certification tests under Part H must be conducted and the measurement procedures that must be used under §36.801 to measure helicopter noise during each test;
+\(a\) The conditions under which helicopter noise certification tests under Part H must be conducted and the measurement procedures that must be used under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]] to measure helicopter noise during each test;
 
-\(b\) The procedures which must be used under §36.803 to correct the measured data to the reference conditions and to calculate the noise evaluation quantity designated as Effective Perceived Noise Level (EPNL); and
+\(b\) The procedures which must be used under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]] to correct the measured data to the reference conditions and to calculate the noise evaluation quantity designated as Effective Perceived Noise Level (EPNL); and
 
-\(c\) The noise limits for which compliance must be shown under §36.805.
+\(c\) The noise limits for which compliance must be shown under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]].
 
 ### Section H36.3 Reference Test Conditions.
 
@@ -2262,7 +2262,7 @@ Flight Profile Distances
 
 </div>
 
-# part b—noise measurement under §36.801
+# part b—noise measurement under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]]
 
 ### Section H36.101 Noise certification test and measurement conditions.
 
@@ -2440,7 +2440,7 @@ The measurement system and the measurement, calibration and general analysis pro
 
 \(a\) The values of the one-third octave band spectra measured during helicopter noise certification tests under this appendix must conform, or be corrected, to the reference conditions prescribed in section H36.3(a). Each correction must account for any differences in the atmospheric attenuation of sound between the test-day conditions and the reference-day conditions along the sound propagation path between the aircraft and the microphone. Unless the meteorological conditions are within the test window prescribed in this appendix, the test data are not acceptable.
 
-\(b\) *Attenuation rates.* The procedure for determining the atmospheric attenuation rates of sound with distance for each one-third octave bands must be determined in accordance with SAE ARP 866A (Incorporated by reference, see §36.6). The atmospheric attenuation equations are provided in both the International and English systems of units in section A36.7 of appendix A to this part.
+\(b\) *Attenuation rates.* The procedure for determining the atmospheric attenuation rates of sound with distance for each one-third octave bands must be determined in accordance with SAE ARP 866A (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]). The atmospheric attenuation equations are provided in both the International and English systems of units in section A36.7 of appendix A to this part.
 
 \(c\) *Correction for atmospheric attenuation.* (1) EPNL values calculated for measured data must be corrected whenever—
 
@@ -2452,11 +2452,11 @@ The measurement system and the measurement, calibration and general analysis pro
 
 \(2\) The mean attenuation rate over the complete sound propagation path from the aircraft to the microphone must be computed for each one-third octave band from 50 Hz to 10,000 Hz. These rates must be used in computing the corrections required in section H36.111(d) of this appendix.
 
-# part c—noise evaluation and calculation under §36.803
+# part c—noise evaluation and calculation under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]]
 
 ### Section H36.201 Noise Evaluation in EPNdB.
 
-\(a\) Effective Perceived Noise Level (EPNL), in units of effective perceived noise decibels (EPNdB), shall be used for evaluating noise level values under §36.803 of this part. Except as provided in paragraph (b) of this section, the procedures in appendix A of Part 36 must be used for computing EPNL. appendix A includes requirements governing determination of noise values, including calculations of:
+\(a\) Effective Perceived Noise Level (EPNL), in units of effective perceived noise decibels (EPNdB), shall be used for evaluating noise level values under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]] of this part. Except as provided in paragraph (b) of this section, the procedures in appendix A of Part 36 must be used for computing EPNL. appendix A includes requirements governing determination of noise values, including calculations of:
 
 \(1\) Perceived noise levels;
 
@@ -2602,7 +2602,7 @@ X = N, and Xr = Nr for approach
 
 \(2\) The adjustment procedure described in this section shall apply to the sideline microphones in the take-off, overflight, and approach cases. Although the noise emission is strongly dependent on the directivity pattern, variable from one helicopter type to another, the propagation angle θ shall be the same for test and reference flight paths. The elevation angle ψ shall not be constrained but must be determined and reported. The certification authority shall specify the acceptable limitations on ψ. Corrections to data obtained when these limits are exceeded shall be applied using FAA approved procedures.
 
-# part d—noise limits under §36.805
+# part d—noise limits under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]]
 
 ### Section H36.301 Noise measurement, evaluation, and calculation.
 
@@ -2636,7 +2636,7 @@ Compliance with this part of this appendix must be shown with noise levels measu
 
 \(iii\) For approach—For a helicopter having a maximum certificated takeoff weight of 176,370 pounds (80,000 kg) or more, the noise limit is 109 EPNdB, which decreases linearly with the logarithm of the helicopter weight (mass) at a rate of 3.0 EPNdB per halving of the weight (mass) down to 89 EPNdB, after which the limit is constant.
 
-\(b\) *Tradeoffs.* Except to the extent limited under §36.11(b) of this part, the noise limits prescribed in paragraph (a) of this section may be exceeded by one or two of the takeoff, flyover, or approach calculated noise levels determined under section H36.203 of this appendix if
+\(b\) *Tradeoffs.* Except to the extent limited under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.11   Acoustical change: Helicopters.|§36.11]](b) of this part, the noise limits prescribed in paragraph (a) of this section may be exceeded by one or two of the takeoff, flyover, or approach calculated noise levels determined under section H36.203 of this appendix if
 
 \(1\) The sum of the exceedances is not greater than 4 EPNdB;
 
@@ -2658,7 +2658,7 @@ J36.3 *Reference Test Conditions.*
 
 J36.5 \[Reserved\]
 
-# part b—noise measurement procedure under §36.801
+# part b—noise measurement procedure under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]]
 
 J36.101 *Noise certification test and measurement conditions.*
 
@@ -2674,7 +2674,7 @@ J36.111 *Reporting requirements.*
 
 J36.113 \[Reserved\]
 
-# part c—noise evaluation and calculation under §36.803
+# part c—noise evaluation and calculation under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]]
 
 J36.201 *Noise evaluation in SEL.*
 
@@ -2682,7 +2682,7 @@ J36.203 *Calculation of noise levels.*
 
 J36.205 *Detailed data correction procedures.*
 
-# part d—noise limits procedure under §36.805
+# part d—noise limits procedure under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]]
 
 J36.301 *Noise measurement, evaluation, and calculation.*
 
@@ -2694,13 +2694,13 @@ J36.305 *Noise limits.*
 
 ### Section J36.1 General.
 
-This appendix prescribes the alternative noise certification requirements identified under §36.1 of this part and subpart H of this part for helicopters in the primary, normal, transport, and restricted categories having maximum certificated takeoff weight of not more than 7,000 pounds including:
+This appendix prescribes the alternative noise certification requirements identified under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] of this part and subpart H of this part for helicopters in the primary, normal, transport, and restricted categories having maximum certificated takeoff weight of not more than 7,000 pounds including:
 
-\(a\) The conditions under which an alternative noise certification test under subpart H of this part must be conducted and the alternative measurement procedure that must be used under §36.801 of this part to measure the helicopter noise during the test;
+\(a\) The conditions under which an alternative noise certification test under subpart H of this part must be conducted and the alternative measurement procedure that must be used under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]] of this part to measure the helicopter noise during the test;
 
-\(b\) The alternative procedures which must be used under §36.803 of this part to correct the measured data to the reference conditions and to calculate the noise evaluation quantity designated as Sound Exposure Level (SEL); and
+\(b\) The alternative procedures which must be used under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]] of this part to correct the measured data to the reference conditions and to calculate the noise evaluation quantity designated as Sound Exposure Level (SEL); and
 
-\(c\) The noise limits for which compliance must be shown under §36.805 of this part.
+\(c\) The noise limits for which compliance must be shown under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]] of this part.
 
 ### Section J36.3 Reference Test Conditions.
 
@@ -2726,7 +2726,7 @@ This appendix prescribes the alternative noise certification requirements identi
 
 ### Section J36.5 \[Reserved\]
 
-# Part B—Noise Measurement Procedure Under §36.801
+# Part B—Noise Measurement Procedure Under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.801   Noise measurement.|§36.801]]
 
 ### Section J36.101 Noise certification test and measurement conditions.
 
@@ -2836,11 +2836,11 @@ where T = (t2-t1)/2 and LAMAX is defined as the maximum level, in decibels, of t
 
 \(d\) *Sensing, recording, and reproducing equipment.* (1) The noise levels measured from helicopter flyovers under this appendix may be determined directly by an integrating sound level meter, or the A-weighted sound level time history may be written onto a graphic level recorder set at “slow” response from which the SEL value may be determined. With the approval of the FAA, the noise signal may be tape recorded for subsequent analysis.
 
-\(i\) The SEL values from each flyover test may be directly determined from an integrating sound level meter complying with the standards of IEC 804 (Incorporated by reference, see §36.6) for a Type 1 instrument set at “slow” response.
+\(i\) The SEL values from each flyover test may be directly determined from an integrating sound level meter complying with the standards of IEC 804 (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]) for a Type 1 instrument set at “slow” response.
 
-\(ii\) The acoustic signal from the helicopter, along with the calibration signals specified under paragraph (e) of this section and the background noise signal required under paragraph (f) of this section, may be recorded on a magnetic tape recorder for subsequent analysis for an integrating sound level meter identified in paragraph (d)(1)(i) of this section. The record/playback system (including the audio tape) of the tape recorder must conform to the requirements prescribed in section A36.3.6 of appendix A to this part. The tape recorder shall comply with the specifications of IEC 561 (Incorporated by reference, see §36.6).
+\(ii\) The acoustic signal from the helicopter, along with the calibration signals specified under paragraph (e) of this section and the background noise signal required under paragraph (f) of this section, may be recorded on a magnetic tape recorder for subsequent analysis for an integrating sound level meter identified in paragraph (d)(1)(i) of this section. The record/playback system (including the audio tape) of the tape recorder must conform to the requirements prescribed in section A36.3.6 of appendix A to this part. The tape recorder shall comply with the specifications of IEC 561 (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]).
 
-\(iii\) The characteristics of the complete system shall comply with the recommendations given in IEC 651 (Incorporated by reference, see §36.6) with regard to the specifications concerning microphone, amplifier, and indicating instrument characteristics.
+\(iii\) The characteristics of the complete system shall comply with the recommendations given in IEC 651 (Incorporated by reference, see [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.6   Incorporation by reference.|§36.6]]) with regard to the specifications concerning microphone, amplifier, and indicating instrument characteristics.
 
 \(iv\) The response of the complete system to a sensibly plane progressive wave of constant amplitude shall lie within the tolerance limits specified in Table IV and Table V for Type 1 instruments in IEC 651 for weighting curve “A” over the frequency range of 45 Hz to 11500 Hz.
 
@@ -2908,7 +2908,7 @@ where T = (t2-t1)/2 and LAMAX is defined as the maximum level, in decibels, of t
 
 ### Section J36.113 \[Reserved\]
 
-# Part C—Noise Evaluation and Calculations Under §36.803
+# Part C—Noise Evaluation and Calculations Under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.803   Noise evaluation and calculation.|§36.803]]
 
 ### Section J36.201 Noise Evaluation in SEL.
 
@@ -2948,7 +2948,7 @@ Where \<delta\>J3 is the quantity in decibels that must be algebraically added t
 
 \(h\) All data used and calculations performed under this section must be documented and provided under the reporting requirements specified under section J36.111 of this appendix.
 
-# Part D—Noise Limits Procedure Under §36.805
+# Part D—Noise Limits Procedure Under [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.805   Noise limits.|§36.805]]
 
 ### Section J36.301 Noise Measurement, Evaluation, and Calculation.
 
@@ -2996,7 +2996,7 @@ K7 *Test Procedures*
 
 ### Section K1 General
 
-This appendix prescribes noise limits and procedures for measuring noise and adjusting the data to standard conditions for tiltrotors as specified in §36.1 of this part.
+This appendix prescribes noise limits and procedures for measuring noise and adjusting the data to standard conditions for tiltrotors as specified in [[Volume 1/C Aircraft/0036 Noise standards  aircraft type and airworthiness certification.md#§36.1   Applicability and definitions.|§36.1]] of this part.
 
 ### Section K2 Noise Evaluation Measure
 

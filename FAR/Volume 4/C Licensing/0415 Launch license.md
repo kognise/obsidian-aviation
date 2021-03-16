@@ -40,11 +40,11 @@ To obtain a launch license, an applicant must obtain policy and safety approvals
 
 ### §415.7   Payload determination.
 
-A payload determination is required for a launch license unless the proposed payload is exempt from payload review under §415.53 of this part. The FAA conducts a payload review, as described in subpart D of this part, to make the determination. Either a launch license applicant or a payload owner or operator may request a review of its proposed payload using the application procedures contained in part 413 of this subchapter. Upon receipt of an application, the FAA may conduct a payload review independently of a launch license application.
+A payload determination is required for a launch license unless the proposed payload is exempt from payload review under [[Volume 4/C Licensing/0415 Launch license.md#§415.53   Payloads not subject to review.|§415.53]] of this part. The FAA conducts a payload review, as described in subpart D of this part, to make the determination. Either a launch license applicant or a payload owner or operator may request a review of its proposed payload using the application procedures contained in part 413 of this subchapter. Upon receipt of an application, the FAA may conduct a payload review independently of a launch license application.
 
 ### §415.8   Human space flight.
 
-To obtain a launch license, an applicant proposing to conduct a launch with flight crew or a space flight participant on board must demonstrate compliance with §§460.5, 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
+To obtain a launch license, an applicant proposing to conduct a launch with flight crew or a space flight participant on board must demonstrate compliance with §[[Volume 4/C Licensing/0460 Human space flight requirements.md#§460.5   Crew qualifications and training.|§460.5]], 460.7, 460.11, 460.13, 460.15, 460.17, 460.51 and 460.53 of this subchapter.
 
 \[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006\]
 
@@ -52,7 +52,7 @@ To obtain a launch license, an applicant proposing to conduct a launch with flig
 
 \(a\) The FAA issues a launch license to an applicant who has obtained all approvals and determinations required under this chapter for a license.
 
-\(b\) A launch license authorizes a licensee to conduct a launch or launches in accordance with the representations contained in the licensee's application, subject to the licensee's compliance with terms and conditions contained in license orders accompanying the license, including financial responsibility requirements, and part 417 of this chapter.
+\(b\) A launch license authorizes a licensee to conduct a launch or launches in accordance with the representations contained in the licensee's application, subject to the licensee's compliance with terms and conditions contained in license orders accompanying the license, including financial responsibility requirements, and [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
 \[Amdt. 415-03, 64 FR 19616, Apr. 21, 1999, as amended by Amdt. 415-4, 71 FR 50531, Aug. 25, 2006\]
 
@@ -128,7 +128,7 @@ The FAA notifies an applicant, in writing, if it has denied policy approval for 
 
 ### §415.31   General.
 
-\(a\) The FAA conducts a safety review to determine whether an applicant is capable of launching a launch vehicle and its payload without jeopardizing public health and safety and safety of property. The FAA issues a safety approval to a license applicant proposing to launch from a Federal launch range if the applicant satisfies the requirements of this subpart and has contracted with the Federal launch range for the provision of safety-related launch services and property, as long as an FAA launch site safety assessment shows that the range's launch services and launch property satisfy part 417 of this chapter. The FAA evaluates on an individual basis all other safety-related launch services and property associated with an applicant's proposal, in accordance with part 417 of this chapter. A safety approval is part of the licensing record on which the FAA's licensing determination is based.
+\(a\) The FAA conducts a safety review to determine whether an applicant is capable of launching a launch vehicle and its payload without jeopardizing public health and safety and safety of property. The FAA issues a safety approval to a license applicant proposing to launch from a Federal launch range if the applicant satisfies the requirements of this subpart and has contracted with the Federal launch range for the provision of safety-related launch services and property, as long as an FAA launch site safety assessment shows that the range's launch services and launch property satisfy [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The FAA evaluates on an individual basis all other safety-related launch services and property associated with an applicant's proposal, in accordance with [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. A safety approval is part of the licensing record on which the FAA's licensing determination is based.
 
 \(b\) The FAA advises an applicant, in writing, of any issue raised during a safety review that would impede issuance of a safety approval. The applicant may respond, in writing, or revise its license application.
 
@@ -146,7 +146,7 @@ The FAA notifies an applicant, in writing, if it has denied policy approval for 
 
 [Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.](https://www.ecfr.gov/cgi-bin/text-idx?SID=c655fceaa2f6bc66ffb5e82b9f70b618&mc=true&node=20210309y1.1)
 
-\(a\) *Flight risk through orbital insertion or impact.* Acceptable flight risk through orbital insertion for an orbital launch vehicle, and through impact for a suborbital launch vehicle, is measured in terms of the expected average number of casualties (Ec) to the collective members of the public exposed to debris hazards from any one launch. To obtain safety approval, an applicant must demonstrate that the risk level associated with debris from an applicant's proposed launch meets the public risk criteria of §417.107(b)(1) of this chapter for impacting inert and impacting explosive debris.
+\(a\) *Flight risk through orbital insertion or impact.* Acceptable flight risk through orbital insertion for an orbital launch vehicle, and through impact for a suborbital launch vehicle, is measured in terms of the expected average number of casualties (Ec) to the collective members of the public exposed to debris hazards from any one launch. To obtain safety approval, an applicant must demonstrate that the risk level associated with debris from an applicant's proposed launch meets the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](b)(1) of this chapter for impacting inert and impacting explosive debris.
 
 \(b\) *Hazard identification and risk assessment.* To demonstrate compliance with paragraph (a) of this section, an applicant must file an analysis that identifies hazards and assesses risks to public health and safety and safety of property associated with nominal and non-nominal flight of its proposed launch.
 
@@ -166,7 +166,7 @@ The FAA notifies an applicant, in writing, if it has denied policy approval for 
 
 \(a\) *Flight readiness requirements.* An applicant must designate an individual responsible for flight readiness. The applicant must file the following procedures for verifying readiness for safe flight:
 
-\(1\) Launch readiness review procedures involving the applicant's flight safety personnel and Federal launch range personnel involved in the launch, as required by §417.117(b)(3) of this chapter.
+\(1\) Launch readiness review procedures involving the applicant's flight safety personnel and Federal launch range personnel involved in the launch, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.117   Reviews.|§417.117]](b)(3) of this chapter.
 
 \(2\) Procedures that ensure mission constraints, rules and abort procedures are listed and consolidated in a safety directive or notebook approved by licensee flight safety and Federal launch range personnel.
 
@@ -180,9 +180,9 @@ The FAA notifies an applicant, in writing, if it has denied policy approval for 
 
 \(iii\) Verify currency and consistency of licensee and Federal launch range countdown checklists.
 
-\(5\) Procedures for ensuring the licensee's flight safety personnel adhere to the crew rest rules of §417.113(f) of this chapter.
+\(5\) Procedures for ensuring the licensee's flight safety personnel adhere to the crew rest rules of [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](f) of this chapter.
 
-\(b\) *Communications plan requirements.* An applicant must file a communications plan that meets §417.111(k) of this chapter, and that provides licensee and Federal launch range personnel communications procedures during countdown and flight.
+\(b\) *Communications plan requirements.* An applicant must file a communications plan that meets [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](k) of this chapter, and that provides licensee and Federal launch range personnel communications procedures during countdown and flight.
 
 \(c\) An applicant must file procedures that ensure that licensee and Federal launch range personnel receive a copy of the communications plan required by paragraph (b) of this section, and that the Federal launch range concurs in the communications plan.
 
@@ -190,13 +190,13 @@ The FAA notifies an applicant, in writing, if it has denied policy approval for 
 
 ### §415.39   Safety at end of launch.
 
-To obtain safety approval, an applicant must demonstrate compliance with §417.129 of this chapter, for any proposed launch of a launch vehicle with a stage or component that will reach Earth orbit.
+To obtain safety approval, an applicant must demonstrate compliance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.129   Safety at end of launch.|§417.129]] of this chapter, for any proposed launch of a launch vehicle with a stage or component that will reach Earth orbit.
 
 \[Doc. No. FAA-2000-7953, 71 FR 50531, Aug. 25, 2006\]
 
 ### §415.41   Accident investigation plan.
 
-An applicant must file an accident investigation plan (AIP), that satisfies §417.111(h) of this chapter, and contains the applicant's procedures for reporting and responding to launch accidents, launch incidents, or other mishaps, as defined by §401.5 of this chapter.
+An applicant must file an accident investigation plan (AIP), that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](h) of this chapter, and contains the applicant's procedures for reporting and responding to launch accidents, launch incidents, or other mishaps, as defined by [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter.
 
 \[Doc. No. FAA-2000-7953, 71 FR 50531, Aug. 25, 2006, as amended by Amdt. No. 415-6, 81 FR 59439, Aug. 30, 2016\]
 
@@ -210,7 +210,7 @@ The FAA notifies an applicant, in writing, if it has denied safety approval for 
 
 ### §415.51   General.
 
-The FAA reviews a payload proposed for launch to determine whether a license applicant or payload owner or operator has obtained all required licenses, authorization, and permits, unless the payload is exempt from review under §415.53 of this subpart. If not otherwise exempt, the FAA reviews a payload proposed for launch to determine whether its launch would jeopardize public health and safety, safety of property, U.S. national security or foreign policy interests, or international obligations of the United States. A payload determination is part of the licensing record on which the FAA's licensing determination is based. The safety requirements of subpart C and F of this part and of part 417 of this chapter apply to all payloads, whether or not the payload is otherwise exempt.
+The FAA reviews a payload proposed for launch to determine whether a license applicant or payload owner or operator has obtained all required licenses, authorization, and permits, unless the payload is exempt from review under [[Volume 4/C Licensing/0415 Launch license.md#§415.53   Payloads not subject to review.|§415.53]] of this subpart. If not otherwise exempt, the FAA reviews a payload proposed for launch to determine whether its launch would jeopardize public health and safety, safety of property, U.S. national security or foreign policy interests, or international obligations of the United States. A payload determination is part of the licensing record on which the FAA's licensing determination is based. The safety requirements of subpart C and F of this part and of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] apply to all payloads, whether or not the payload is otherwise exempt.
 
 \[Amdt. 415-03, 64 FR 19616, Apr. 21, 1999, as amended by Amdt. 415-4, 71 FR 50531, Aug. 25, 2006\]
 
@@ -224,7 +224,7 @@ The FAA does not review payloads that are—
 
 ### §415.55   Classes of payloads.
 
-The FAA may review and issue findings regarding a proposed class of payload, e.g., communications, remote sensing or navigation. However, each payload is subject to compliance monitoring by the FAA before launch to determine whether its launch would jeopardize public health and safety, safety of property, U.S. national security or foreign policy interests, or international obligations of the United States. The licensee is responsible for providing current information, in accordance with §417.17(b)(2), regarding a payload proposed for launch not later than 60 days before a scheduled launch.
+The FAA may review and issue findings regarding a proposed class of payload, e.g., communications, remote sensing or navigation. However, each payload is subject to compliance monitoring by the FAA before launch to determine whether its launch would jeopardize public health and safety, safety of property, U.S. national security or foreign policy interests, or international obligations of the United States. The licensee is responsible for providing current information, in accordance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.17   Launch reporting requirements and launch specific updates.|§417.17]](b)(2), regarding a payload proposed for launch not later than 60 days before a scheduled launch.
 
 \[Amdt. 415-03, 64 FR 19616, Apr. 21, 1999, as amended by Amdt. No. 415-6, 81 FR 59439, Aug. 30, 2016\]
 
@@ -256,7 +256,7 @@ The FAA may review and issue findings regarding a proposed class of payload, e.g
 
 \(5\) Orbital parameters for parking, transfer and final orbits;
 
-\(6\) Hazardous materials, as defined in §401.5 of this chapter, and radioactive materials, and the amounts of each;
+\(6\) Hazardous materials, as defined in [[Volume 4/A General/0401 Organization and definitions.md#§401.5   Definitions.|§401.5]] of this chapter, and radioactive materials, and the amounts of each;
 
 \(7\) Intended payload operations during the life of the payload; and
 
@@ -288,19 +288,19 @@ A favorable payload determination issued for a payload or class of payload may b
 
 \(b\) The requirements of this subpart apply to both orbital and suborbital expendable launch vehicles.
 
-\(c\) An applicant must demonstrate, through the material filed with the FAA, its ability to comply with the requirements of part 417 of this chapter. To facilitate production of the information required by this subpart, an applicant should become familiar with the requirements of part 417 of this chapter.
+\(c\) An applicant must demonstrate, through the material filed with the FAA, its ability to comply with the requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. To facilitate production of the information required by this subpart, an applicant should become familiar with the requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
-\(d\) For a launch from an exclusive use launch site, where there is no licensed launch site operator, a launch operator must satisfy the requirements of this part and the public safety application requirements of part 420 of this chapter.
+\(d\) For a launch from an exclusive use launch site, where there is no licensed launch site operator, a launch operator must satisfy the requirements of this part and the public safety application requirements of [[Volume 4/C Licensing/0420 License to operate a launch site.md|part 420 of this chapter]].
 
 ### §415.102   Definitions.
 
-For the purposes of this subpart, the definitions of §§417.3 and 401.5 of this chapter apply.
+For the purposes of this subpart, the definitions of §[[Volume 4/C Licensing/0417 Launch safety.md#§417.3   Definitions and acronyms.|§417.3]] and 401.5 of this chapter apply.
 
 ### §415.103   General.
 
-\(a\) The FAA conducts a safety review to determine whether an applicant is capable of conducting launch processing and flight without jeopardizing public health and safety and safety of property. The FAA issues a safety approval to a license applicant if the applicant satisfies the requirements of this subpart and demonstrates that it will meet the safety responsibilities and requirements of part 417 of this chapter.
+\(a\) The FAA conducts a safety review to determine whether an applicant is capable of conducting launch processing and flight without jeopardizing public health and safety and safety of property. The FAA issues a safety approval to a license applicant if the applicant satisfies the requirements of this subpart and demonstrates that it will meet the safety responsibilities and requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
-\(b\) The FAA advises an applicant, in writing, of any issue raised during a safety review that would impede issuance of a safety approval. The applicant may respond, in writing, or amend its license application as required by §413.17 of this chapter.
+\(b\) The FAA advises an applicant, in writing, of any issue raised during a safety review that would impede issuance of a safety approval. The applicant may respond, in writing, or amend its license application as required by [[Volume 4/C Licensing/0413 License application procedures.md#§413.17   Continuing accuracy of application; supplemental information; amendment.|§413.17]] of this chapter.
 
 \(c\) An applicant must make available to the FAA upon request a copy of any information incorporated into a license application by reference.
 
@@ -308,7 +308,7 @@ For the purposes of this subpart, the definitions of §§417.3 and 401.5 of this
 
 ### §415.105   Pre-application consultation.
 
-\(a\) An applicant must participate in a pre-application consultation meeting, as required by §413.5 of this chapter, prior to an applicant's preparation of the initial flight safety analysis required by §415.115.
+\(a\) An applicant must participate in a pre-application consultation meeting, as required by [[Volume 4/C Licensing/0413 License application procedures.md#§413.5   Pre-application consultation.|§413.5]] of this chapter, prior to an applicant's preparation of the initial flight safety analysis required by [[Volume 4/C Licensing/0415 Launch license.md#§415.115   Flight safety.|§415.115]].
 
 \(b\) At a pre-application consultation meeting, an applicant must provide as complete a description of the planned launch or series of launches as available at the time. An applicant must provide the FAA the following information:
 
@@ -320,9 +320,9 @@ For the purposes of this subpart, the definitions of §§417.3 and 401.5 of this
 
 \(iii\) All hazards associated with the launch vehicle and any payload, including the type and amounts of all propellants, explosives, toxic materials and any radionuclides.
 
-\(2\) *Proposed mission.* (i) For an applicant applying for a launch specific license under §415.3(a), the apogee, perigee, and inclination of any orbital objects and each impact location of any stage or other component.
+\(2\) *Proposed mission.* (i) For an applicant applying for a launch specific license under [[Volume 4/C Licensing/0415 Launch license.md#§415.3   Types of launch licenses.|§415.3]](a), the apogee, perigee, and inclination of any orbital objects and each impact location of any stage or other component.
 
-\(ii\) For an applicant applying for a launch operator license under §415.3(b), the planned range of trajectories and flight azimuths, and the range of apogees, perigees, and inclinations of any orbital objects and each impact location of any stage or other component.
+\(ii\) For an applicant applying for a launch operator license under [[Volume 4/C Licensing/0415 Launch license.md#§415.3   Types of launch licenses.|§415.3]](b), the planned range of trajectories and flight azimuths, and the range of apogees, perigees, and inclinations of any orbital objects and each impact location of any stage or other component.
 
 \(3\) *Potential launch site.* (i) Name and location of the proposed launch site, including latitude and longitude of the proposed launch point;
 
@@ -332,7 +332,7 @@ For the purposes of this subpart, the definitions of §§417.3 and 401.5 of this
 
 ### §415.107   Safety review document.
 
-\(a\) An applicant must file a safety review document that contains all the information required by §§415.109—415.133. An applicant must file the information for a safety review document as required by the outline in appendix B of this part. An applicant must file a sufficiently complete safety review document, except for the ground safety analysis report, no later than six months before the applicant brings any launch vehicle to the proposed launch site.
+\(a\) An applicant must file a safety review document that contains all the information required by §[[Volume 4/C Licensing/0415 Launch license.md#§415.109   Launch description.|§415.109]]—415.133. An applicant must file the information for a safety review document as required by the outline in appendix B of this part. An applicant must file a sufficiently complete safety review document, except for the ground safety analysis report, no later than six months before the applicant brings any launch vehicle to the proposed launch site.
 
 \(b\) A launch operator's safety review document must:
 
@@ -384,13 +384,13 @@ An applicant's safety review document must contain the following information:
 
 \(v\) For an unguided suborbital launch vehicle, the location of the rocket's center of pressure in relation to its center of gravity for the entire flight profile.
 
-\(c\) *Payload description.* An applicant must include or reference documentation previously filed with the FAA that contains the payload information required by §415.59 for any payload or class of payload.
+\(c\) *Payload description.* An applicant must include or reference documentation previously filed with the FAA that contains the payload information required by [[Volume 4/C Licensing/0415 Launch license.md#§415.59   Information requirements for payload review.|§415.59]] for any payload or class of payload.
 
-\(d\) *Trajectory.* An applicant must provide two drawings depicting trajectory information. An applicant must file additional trajectory information as part of the flight safety analysis data required by §415.115.
+\(d\) *Trajectory.* An applicant must provide two drawings depicting trajectory information. An applicant must file additional trajectory information as part of the flight safety analysis data required by [[Volume 4/C Licensing/0415 Launch license.md#§415.115   Flight safety.|§415.115]].
 
 \(1\) One drawing must depict the proposed nominal flight profile with downrange depicted on the abscissa and altitude depicted on the ordinate axis. The nominal flight profile must be labeled to show each planned staging event and its time after liftoff from launch through orbital insertion or final impact; and
 
-\(2\) The second drawing must depict instantaneous impact point ground traces for each of the nominal trajectory, the three-sigma left lateral trajectory and the three-sigma right lateral trajectory determined under §417.207 of this chapter. The trajectories must be depicted on a latitude/longitude grid, and the grid must include the outlines of any continents and islands.
+\(2\) The second drawing must depict instantaneous impact point ground traces for each of the nominal trajectory, the three-sigma left lateral trajectory and the three-sigma right lateral trajectory determined under [[Volume 4/C Licensing/0417 Launch safety.md#§417.207   Trajectory analysis.|§417.207]] of this chapter. The trajectories must be depicted on a latitude/longitude grid, and the grid must include the outlines of any continents and islands.
 
 \(e\) *Staging events.* An applicant must provide a table of nominal and ±three-sigma times for each major staging event and must describe each event, including the predicted impact point and dispersion of each spent stage.
 
@@ -398,11 +398,11 @@ An applicant's safety review document must contain the following information:
 
 ### §415.111   Launch operator organization.
 
-An applicant's safety review document must contain organizational charts and a description that shows that the launch operator's organization satisfies the requirements of §417.103 of this chapter. An applicant's safety review document must also identify all persons with whom the applicant has contracted to provide safety-related goods or services for the launch of the launch vehicle.
+An applicant's safety review document must contain organizational charts and a description that shows that the launch operator's organization satisfies the requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]] of this chapter. An applicant's safety review document must also identify all persons with whom the applicant has contracted to provide safety-related goods or services for the launch of the launch vehicle.
 
 ### §415.113   Launch personnel certification program.
 
-\(a\) A safety review document must describe how the applicant will satisfy the personnel certification program requirements of §417.105 of this chapter and identify by position those individuals who implement the program.
+\(a\) A safety review document must describe how the applicant will satisfy the personnel certification program requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]] of this chapter and identify by position those individuals who implement the program.
 
 \(b\) An applicant's safety review document must contain a copy of its documentation that demonstrates how the launch operator implements the personnel certification program.
 
@@ -410,45 +410,45 @@ An applicant's safety review document must contain organizational charts and a d
 
 ### §415.115   Flight safety.
 
-\(a\) *Flight safety analysis.* An applicant's safety review document must describe each analysis method employed to meet the flight safety analysis requirements of part 417, subpart C, of this chapter. An applicant's safety review document must demonstrate how each analysis method satisfies the flight safety analysis requirements of part 417, subpart C, of this chapter. An applicant's safety review document must contain analysis products and other data that demonstrate the applicant's ability to meet the public risk criteria of §417.107 of this chapter and to establish launch safety rules as required by §417.113 of this chapter. An applicant's flight safety analysis must satisfy the following requirements:
+\(a\) *Flight safety analysis.* An applicant's safety review document must describe each analysis method employed to meet the flight safety analysis requirements of part 417, subpart C, of this chapter. An applicant's safety review document must demonstrate how each analysis method satisfies the flight safety analysis requirements of part 417, subpart C, of this chapter. An applicant's safety review document must contain analysis products and other data that demonstrate the applicant's ability to meet the public risk criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]] of this chapter and to establish launch safety rules as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]] of this chapter. An applicant's flight safety analysis must satisfy the following requirements:
 
 \(1\) An applicant must file the proposed flight safety analysis methodology and the preliminary flight safety analysis products no later than 18 months for any orbital or guided suborbital launch vehicle, and nine months for any unguided suborbital launch vehicle, prior to bringing any launch vehicle to the proposed launch site.
 
 \(2\) For a launch operator license, an applicant must file flight safety analysis products that account for the range of launch vehicles and flight trajectories applied for, or the worst case vehicle and trajectory under which flight will be attempted, no later than 6 months before the applicant brings any launch vehicle to the proposed launch site. For a launch specific license, an applicant must file flight safety analysis products that account for the actual flight conditions, no later than 6 months before the applicant brings any launch vehicle to the proposed launch site.
 
-\(3\) The flight safety analysis performed by an applicant must be completed as required by subpart C of part 417 of this chapter. An applicant may identify those portions of the analysis that it expects to refine as the first proposed flight date approaches. An applicant must identify any analysis product subject to change, describe what needs to be done to finalize the product, and identify when before flight it will be finalized. If a license allows more than one launch, an applicant must demonstrate the applicability of the analysis methods to each of the proposed launches and identify any expected differences in the flight safety analysis methods among the proposed launches. Once licensed, a launch operator must perform a flight safety analysis for each launch using final launch vehicle performance and other data as required by subpart C of part 417 of this chapter and using the analysis methods approved by the FAA through the licensing process.
+\(3\) The flight safety analysis performed by an applicant must be completed as required by subpart C of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. An applicant may identify those portions of the analysis that it expects to refine as the first proposed flight date approaches. An applicant must identify any analysis product subject to change, describe what needs to be done to finalize the product, and identify when before flight it will be finalized. If a license allows more than one launch, an applicant must demonstrate the applicability of the analysis methods to each of the proposed launches and identify any expected differences in the flight safety analysis methods among the proposed launches. Once licensed, a launch operator must perform a flight safety analysis for each launch using final launch vehicle performance and other data as required by subpart C of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] and using the analysis methods approved by the FAA through the licensing process.
 
-\(b\) *Radionuclides.* An applicant's safety review document must identify the type and quantity of any radionuclide on a launch vehicle or payload. For each radionuclide, an applicant must include a reference list of all documentation addressing the safety of its intended use and describe all approvals by the Nuclear Regulatory Commission for launch processing. An applicant must provide radionuclide information to the FAA at the pre-application consultation as required by §415.105. The FAA will evaluate launch of any radionuclide on a case-by-case basis, and issue an approval if the FAA finds that the launch is consistent with public health and safety.
+\(b\) *Radionuclides.* An applicant's safety review document must identify the type and quantity of any radionuclide on a launch vehicle or payload. For each radionuclide, an applicant must include a reference list of all documentation addressing the safety of its intended use and describe all approvals by the Nuclear Regulatory Commission for launch processing. An applicant must provide radionuclide information to the FAA at the pre-application consultation as required by [[Volume 4/C Licensing/0415 Launch license.md#§415.105   Pre-application consultation.|§415.105]]. The FAA will evaluate launch of any radionuclide on a case-by-case basis, and issue an approval if the FAA finds that the launch is consistent with public health and safety.
 
-\(c\) *Flight safety plan.* An applicant's safety review document must contain a flight safety plan that satisfies §417.111(b) of this chapter. The plan need not be restricted to public safety related issues and may combine other flight safety issues as well, such as employee safety, so as to be all-inclusive.
+\(c\) *Flight safety plan.* An applicant's safety review document must contain a flight safety plan that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](b) of this chapter. The plan need not be restricted to public safety related issues and may combine other flight safety issues as well, such as employee safety, so as to be all-inclusive.
 
-\(d\) *Natural and triggered lightning.* For any orbital or guided suborbital expendable launch vehicle, an applicant must demonstrate that it will satisfy the flight commit criteria of §417.113(c) of this chapter and appendix G of part 417 of this chapter for natural and triggered lightning. If an applicant's safety review document states that any flight commit criterion that is otherwise required by appendix G of part 417 of this chapter does not apply to a proposed launch or series of launches, the applicant's safety review document must demonstrate that the criterion does not apply.
+\(d\) *Natural and triggered lightning.* For any orbital or guided suborbital expendable launch vehicle, an applicant must demonstrate that it will satisfy the flight commit criteria of [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]](c) of this chapter and appendix G of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] for natural and triggered lightning. If an applicant's safety review document states that any flight commit criterion that is otherwise required by appendix G of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] does not apply to a proposed launch or series of launches, the applicant's safety review document must demonstrate that the criterion does not apply.
 
 ### §415.117   Ground safety.
 
-\(a\) *General.* An applicant's safety review document must include a ground safety analysis report, and a ground safety plan for its launch processing and post-flight operations as required by this section, §417.109 of this chapter, and subpart E of part 417 of this chapter when launching from a launch point in the United States. Launch processing and post-launch operations at a launch point outside the United States may be subject to the requirements of the governing jurisdiction.
+\(a\) *General.* An applicant's safety review document must include a ground safety analysis report, and a ground safety plan for its launch processing and post-flight operations as required by this section, [[Volume 4/C Licensing/0417 Launch safety.md#§417.109   Ground safety.|§417.109]] of this chapter, and subpart E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] when launching from a launch point in the United States. Launch processing and post-launch operations at a launch point outside the United States may be subject to the requirements of the governing jurisdiction.
 
-\(b\) *Ground safety analysis.* A ground safety analysis must review each system and operation used in launch processing and post-flight operations as required by §417.109 of this chapter, and subpart E of part 417 of this chapter.
+\(b\) *Ground safety analysis.* A ground safety analysis must review each system and operation used in launch processing and post-flight operations as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.109   Ground safety.|§417.109]] of this chapter, and subpart E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
-\(1\) An applicant must file an initial ground safety analysis report no later than 12 months for any orbital or guided suborbital launch vehicle, and nine months for an unguided suborbital launch vehicle, before the applicant brings any launch vehicle to the proposed launch site. An initial ground safety analysis report must be in a proposed final or near final form and identify any incomplete items. An applicant must document any incomplete items and track them to completion. An applicant must resolve any FAA comments on the initial report and file a complete ground safety analysis report, no later than two months before the applicant brings any launch vehicle to the proposed launch site. Furthermore, an applicant must keep its ground safety analysis report current. Any late developing change to a ground safety analysis report must be coordinated with the FAA as an application amendment as required by §413.17 of this chapter as soon as the applicant identifies the need for a change.
+\(1\) An applicant must file an initial ground safety analysis report no later than 12 months for any orbital or guided suborbital launch vehicle, and nine months for an unguided suborbital launch vehicle, before the applicant brings any launch vehicle to the proposed launch site. An initial ground safety analysis report must be in a proposed final or near final form and identify any incomplete items. An applicant must document any incomplete items and track them to completion. An applicant must resolve any FAA comments on the initial report and file a complete ground safety analysis report, no later than two months before the applicant brings any launch vehicle to the proposed launch site. Furthermore, an applicant must keep its ground safety analysis report current. Any late developing change to a ground safety analysis report must be coordinated with the FAA as an application amendment as required by [[Volume 4/C Licensing/0413 License application procedures.md#§413.17   Continuing accuracy of application; supplemental information; amendment.|§413.17]] of this chapter as soon as the applicant identifies the need for a change.
 
-\(2\) An applicant must file a ground safety analysis report that satisfies the ground safety analysis requirements of §417.109 of this chapter, and subpart E of part 417 of this chapter.
+\(2\) An applicant must file a ground safety analysis report that satisfies the ground safety analysis requirements of [[Volume 4/C Licensing/0417 Launch safety.md#§417.109   Ground safety.|§417.109]] of this chapter, and subpart E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
-\(3\) The person designated under §417.103(b)(1) of this chapter and the person designated under §417.103(b)(2) of this chapter must approve and sign the ground safety analysis report.
+\(3\) The person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(1) of this chapter and the person designated under [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]](b)(2) of this chapter must approve and sign the ground safety analysis report.
 
-\(c\) *Ground safety plan.* An applicant's safety review document must contain a ground safety plan that satisfies §417.111(c) of this chapter. The applicant must file this plan with the FAA no later than six months prior to bringing the launch vehicle to the proposed launch site. This ground safety plan must describe implementation of the hazard controls identified by an applicant's ground safety analysis and implementation of the ground safety requirements of subpart E of part 417 of this chapter. A ground safety plan must address all public safety related issues and may include other ground safety issues if an applicant intends it to have a broader scope.
+\(c\) *Ground safety plan.* An applicant's safety review document must contain a ground safety plan that satisfies [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](c) of this chapter. The applicant must file this plan with the FAA no later than six months prior to bringing the launch vehicle to the proposed launch site. This ground safety plan must describe implementation of the hazard controls identified by an applicant's ground safety analysis and implementation of the ground safety requirements of subpart E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. A ground safety plan must address all public safety related issues and may include other ground safety issues if an applicant intends it to have a broader scope.
 
 ### §415.119   Launch plans.
 
-An applicant's safety review document must contain the plans required by §417.111 of this chapter, except for the countdown plan of §417.111(l) of this chapter. An applicant's launch plans do not have to be separate documents, and may be part of other applicant documentation. An applicant must incorporate each launch safety rule established under §417.113 of this chapter into a related launch safety plan.
+An applicant's safety review document must contain the plans required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]] of this chapter, except for the countdown plan of [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]](l) of this chapter. An applicant's launch plans do not have to be separate documents, and may be part of other applicant documentation. An applicant must incorporate each launch safety rule established under [[Volume 4/C Licensing/0417 Launch safety.md#§417.113   Launch safety rules.|§417.113]] of this chapter into a related launch safety plan.
 
 ### §415.121   Launch schedule.
 
-An applicant's safety review document must contain a generic launch processing schedule that identifies each review, rehearsal, and safety critical preflight operation to be conducted as required by §§417.117, 417.119, and 417.121 of this chapter. The launch schedule must also identify day of flight activities. The launch processing schedule must show each of these activities referenced to liftoff, such as liftoff minus three days.
+An applicant's safety review document must contain a generic launch processing schedule that identifies each review, rehearsal, and safety critical preflight operation to be conducted as required by §[[Volume 4/C Licensing/0417 Launch safety.md#§417.117   Reviews.|§417.117]], 417.119, and 417.121 of this chapter. The launch schedule must also identify day of flight activities. The launch processing schedule must show each of these activities referenced to liftoff, such as liftoff minus three days.
 
 ### §415.123   Computing systems and software.
 
-\(a\) An applicant's safety review document must describe all computing systems and software that perform a safety-critical computer system function for any operation performed during launch processing or flight that could have a hazardous effect on the public as required by §417.123 of this chapter.
+\(a\) An applicant's safety review document must describe all computing systems and software that perform a safety-critical computer system function for any operation performed during launch processing or flight that could have a hazardous effect on the public as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]] of this chapter.
 
 \(b\) An applicant's safety review document must list and describe all safety-critical computer system functions involved in a proposed launch, including associated hardware and software interfaces. For each system with a safety-critical computer system function, an applicant's safety review document must:
 
@@ -462,23 +462,23 @@ An applicant's safety review document must contain a generic launch processing s
 
 \(5\) List all operator user manuals and documentation by title and date;
 
-\(6\) Describe the computing system and software system safety process as required by §417.123(a).
+\(6\) Describe the computing system and software system safety process as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]](a).
 
-\(7\) Provide all results of computing system and software hazard analyses as required by §417.123(c).
+\(7\) Provide all results of computing system and software hazard analyses as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]](c).
 
-\(8\) Provide all plans and results of computing systems and software validation and verification as required by §417.123(d).
+\(8\) Provide all plans and results of computing systems and software validation and verification as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]](d).
 
-\(9\) Provide all plans for software development as required by §417.123(e).
+\(9\) Provide all plans for software development as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.123   Computing systems and software.|§417.123]](e).
 
 ### §415.125   Unique safety policies, requirements and practices.
 
-An applicant's safety review document must identify any public safety-related policy, requirement, or practice that is unique to the proposed launch, or series of launches, as required by §417.127 of this chapter. An applicant's safety review document must describe how each unique safety policy, requirement, or practice ensures the safety of the public.
+An applicant's safety review document must identify any public safety-related policy, requirement, or practice that is unique to the proposed launch, or series of launches, as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.127   Unique safety policies, requirements and practices.|§417.127]] of this chapter. An applicant's safety review document must describe how each unique safety policy, requirement, or practice ensures the safety of the public.
 
 ### §415.127   Flight safety system design and operation data.
 
-\(a\) *General.* This part applies to an applicant launching an orbital or guided sub-orbital expendable launch vehicle that uses a flight safety system to protect public safety as required by §417.107(a) of this chapter. An applicant's safety review document must contain the flight safety system data identified by this section. The applicant must file all data required by this section no later than 18 months before bringing any launch vehicle to a proposed launch site.
+\(a\) *General.* This part applies to an applicant launching an orbital or guided sub-orbital expendable launch vehicle that uses a flight safety system to protect public safety as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a) of this chapter. An applicant's safety review document must contain the flight safety system data identified by this section. The applicant must file all data required by this section no later than 18 months before bringing any launch vehicle to a proposed launch site.
 
-\(b\) *Flight safety system description.* A safety review document must describe an applicant's flight safety system and its operation. Part 417, subpart D of this chapter and appendices D, E, and F of part 417 of this chapter contain the flight safety system and subsystems design and operational requirements.
+\(b\) *Flight safety system description.* A safety review document must describe an applicant's flight safety system and its operation. Part 417, subpart D of this chapter and appendices D, E, and F of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] contain the flight safety system and subsystems design and operational requirements.
 
 \(c\) *Flight safety system diagram.* An applicant's safety review document must contain a block diagram that identifies all flight safety system subsystems. The diagram must include the following subsystems defined in part 417, subpart D of this chapter: flight termination system; command control system; tracking; telemetry; communications; flight safety data processing, display, and recording system; and flight safety official console.
 
@@ -506,41 +506,41 @@ An applicant's safety review document must identify any public safety-related po
 
 \(11\) *Controls and displays.* For a flight safety official console, a description of all controls, displays, and charts depicting how real time vehicle data and flight safety limits are displayed. The description must identify the scales used for displays and charts.
 
-\(e\) *System analyses.* An applicant must perform the reliability and other system analyses for a flight termination system and command control system of §417.309 of this chapter. An applicant's safety review document must contain the results of each analysis.
+\(e\) *System analyses.* An applicant must perform the reliability and other system analyses for a flight termination system and command control system of [[Volume 4/C Licensing/0417 Launch safety.md#§417.309   Flight safety system analysis.|§417.309]] of this chapter. An applicant's safety review document must contain the results of each analysis.
 
-\(f\) *Environmental design.* An applicant must determine the flight termination system maximum predicted environment levels required by section D417.7 of appendix D of part 417 of this chapter, and the design environments and design margins of section D417.3 of appendix D of part 417 of this chapter. An applicant's safety review document must summarize the analyses and measurements used to derive the maximum predicted environment levels. The safety review document must contain a matrix that identifies the maximum predicted environment levels and the design environments.
+\(f\) *Environmental design.* An applicant must determine the flight termination system maximum predicted environment levels required by section D417.7 of appendix D of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]], and the design environments and design margins of section D417.3 of appendix D of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. An applicant's safety review document must summarize the analyses and measurements used to derive the maximum predicted environment levels. The safety review document must contain a matrix that identifies the maximum predicted environment levels and the design environments.
 
-\(g\) *Flight safety system compliance matrix.* An applicant's safety review document must contain a compliance matrix of the function, reliability, system, subsystem, and component requirements of part 417 of this chapter and appendix D of part 417 of this chapter. This matrix must identify each requirement and indicate compliance as follows:
+\(g\) *Flight safety system compliance matrix.* An applicant's safety review document must contain a compliance matrix of the function, reliability, system, subsystem, and component requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] and appendix D of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. This matrix must identify each requirement and indicate compliance as follows:
 
-\(1\) “Yes” if the applicant's system meets the requirement of part 417 of this chapter. The matrix must reference documentation that demonstrates compliance;
+\(1\) “Yes” if the applicant's system meets the requirement of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The matrix must reference documentation that demonstrates compliance;
 
 \(2\) “Not applicable” if the applicant's system design and operational environment are such that the requirement does not apply. For each such case, the applicant must demonstrate, in accordance with section 406.3(b), the non-applicability of that requirement as an attachment to the matrix; or
 
-\(3\) “Equivalent level of safety” in each case where the applicant proposes to show that its system provides an equivalent level of safety through some means other than that required by part 417 of this chapter. For each such case, an applicant must clearly and convincingly demonstrate, as required by §406.3(b), through a technical rationale within the matrix, or as an attachment, that the proposed alternative provides a level of safety equivalent to satisfying the requirement that it would replace.
+\(3\) “Equivalent level of safety” in each case where the applicant proposes to show that its system provides an equivalent level of safety through some means other than that required by [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. For each such case, an applicant must clearly and convincingly demonstrate, as required by [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), through a technical rationale within the matrix, or as an attachment, that the proposed alternative provides a level of safety equivalent to satisfying the requirement that it would replace.
 
-\(h\) *Flight termination system installation procedures.* An applicant's safety review document must contain a list of the flight termination system installation procedures and a synopsis of the procedures that demonstrates how each of those procedures meet the requirements of section D417.15 of appendix D of part 417 of this chapter. The list must reference each procedure by title, any document number, and date.
+\(h\) *Flight termination system installation procedures.* An applicant's safety review document must contain a list of the flight termination system installation procedures and a synopsis of the procedures that demonstrates how each of those procedures meet the requirements of section D417.15 of appendix D of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The list must reference each procedure by title, any document number, and date.
 
-\(i\) *Tracking validation procedures.* An applicant's safety review document must contain the procedures identified by §417.121(h) of this chapter for validating the accuracy of the launch vehicle tracking data supplied to the flight safety crew.
+\(i\) *Tracking validation procedures.* An applicant's safety review document must contain the procedures identified by [[Volume 4/C Licensing/0417 Launch safety.md#§417.121   Safety critical preflight operations.|§417.121]](h) of this chapter for validating the accuracy of the launch vehicle tracking data supplied to the flight safety crew.
 
 ### §415.129   Flight safety system test data.
 
-\(a\) *General.* An applicant's safety review document must contain the flight safety system test data required by this section for the launch of an orbital and guided suborbital expendable launch vehicle that uses a flight safety system to protect public safety as required by §417.107(a) of this chapter. This section applies to all testing required by part 417, subpart D of this chapter and its appendices, including qualification, acceptance, age surveillance, and preflight testing of a flight safety system and its subsystems and individual components. An applicant must file all required test data, no later than 12 months before the applicant brings any launch vehicle to the proposed launch site. An applicant may file test data earlier to allow greater time for addressing issues that the FAA may identify to avoid possible impact on the proposed launch date. Flight safety system testing need not be completed before the FAA issues a launch license. Prior to flight, a licensee must successfully complete all required flight safety system testing and file the completed test reports or the test report summaries required by §417.305(d) of this chapter and section E417.1(i) of appendix E of part 417 of this chapter.
+\(a\) *General.* An applicant's safety review document must contain the flight safety system test data required by this section for the launch of an orbital and guided suborbital expendable launch vehicle that uses a flight safety system to protect public safety as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.107   Flight safety.|§417.107]](a) of this chapter. This section applies to all testing required by part 417, subpart D of this chapter and its appendices, including qualification, acceptance, age surveillance, and preflight testing of a flight safety system and its subsystems and individual components. An applicant must file all required test data, no later than 12 months before the applicant brings any launch vehicle to the proposed launch site. An applicant may file test data earlier to allow greater time for addressing issues that the FAA may identify to avoid possible impact on the proposed launch date. Flight safety system testing need not be completed before the FAA issues a launch license. Prior to flight, a licensee must successfully complete all required flight safety system testing and file the completed test reports or the test report summaries required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.305   Command control system testing.|§417.305]](d) of this chapter and section E417.1(i) of appendix E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]].
 
-\(b\) *Testing compliance matrix.* An applicant's safety review document must contain a compliance matrix of all the flight safety system, subsystem, and component testing requirements of part 417 of this chapter and appendix E to part 417 of this chapter. This matrix must identify each test requirement and indicate compliance as follows:
+\(b\) *Testing compliance matrix.* An applicant's safety review document must contain a compliance matrix of all the flight safety system, subsystem, and component testing requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] and appendix E to [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. This matrix must identify each test requirement and indicate compliance as follows:
 
-\(1\) “Yes” if the applicant performs the system or component testing required by part 417 of this chapter. The matrix must reference documentation that demonstrates compliance;
+\(1\) “Yes” if the applicant performs the system or component testing required by [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The matrix must reference documentation that demonstrates compliance;
 
-\(2\) “Not applicable” if the applicant's system design and operational environment are such that the test requirement does not apply. For each such case, an applicant must demonstrate, as required by §406.3(b), of the non-applicability of that requirement as an attachment to the matrix;
+\(2\) “Not applicable” if the applicant's system design and operational environment are such that the test requirement does not apply. For each such case, an applicant must demonstrate, as required by [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](b), of the non-applicability of that requirement as an attachment to the matrix;
 
-\(3\) “Similarity” if the test requirement applies to a component whose design is similar to a previously qualified component. For each such case, an applicant must demonstrate similarity by performing the analysis required by appendix E of part 417 of this chapter. The matrix, or an attachment, must contain the results of each analysis; or
+\(3\) “Similarity” if the test requirement applies to a component whose design is similar to a previously qualified component. For each such case, an applicant must demonstrate similarity by performing the analysis required by appendix E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The matrix, or an attachment, must contain the results of each analysis; or
 
-\(4\) “Equivalent level of safety” in each case where the applicant proposes to show that its test program provides an equivalent level of safety through some means other than that required by part 417 of this chapter. For each such case, an applicant must clearly and convincingly demonstrate through a technical rationale, within the matrix or as an attachment, that the alternative provides a level of safety equivalent to satisfying the requirement that it replaces, as required by §406.3(c).
+\(4\) “Equivalent level of safety” in each case where the applicant proposes to show that its test program provides an equivalent level of safety through some means other than that required by [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. For each such case, an applicant must clearly and convincingly demonstrate through a technical rationale, within the matrix or as an attachment, that the alternative provides a level of safety equivalent to satisfying the requirement that it replaces, as required by [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.3   Submissions; oral presentation in license, permit, and payload actions.|§406.3]](c).
 
 \(c\) *Test program overview and schedule.* A safety review document must contain a summary of the applicant's flight safety system test program that identifies the location of the testing and the personnel who ensure the validity of the results. A safety review document must contain a schedule for successfully completing each test before flight. The applicant must reference the schedule to the time of liftoff for the first proposed flight attempt.
 
-\(d\) *Flight safety system test plans and procedures.* An applicant's safety review document must contain test plans that satisfy the flight safety system testing requirements of subpart D of part 417 of this chapter and appendix E of part 417 of this chapter. An applicant's safety review document must contain a list of all flight termination system test procedures and a synopsis of the procedures that demonstrates how they meet the test requirements of part 417 of this chapter. The list must reference each procedure by title, any document number, and date.
+\(d\) *Flight safety system test plans and procedures.* An applicant's safety review document must contain test plans that satisfy the flight safety system testing requirements of subpart D of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]] and appendix E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. An applicant's safety review document must contain a list of all flight termination system test procedures and a synopsis of the procedures that demonstrates how they meet the test requirements of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. The list must reference each procedure by title, any document number, and date.
 
-\(e\) *Test reports.* An applicant's safety review document must contain either the test reports, or a summary of the test report which captures the overall test results, including all test discrepancies and their resolution, prepared as required by §417.305(d) of this chapter and section E417.1(i) of appendix E of part 417 of this chapter, for each flight safety system test completed at the time of license application. An applicant must file any remaining test reports or summaries before flight as required by §417.305(d) and section E417.1(i) of appendix E of part 417 of this chapter. Upon request, the launch operator must file the complete test report with the FAA for review, if the launch operator previously filed test report summaries with the FAA.
+\(e\) *Test reports.* An applicant's safety review document must contain either the test reports, or a summary of the test report which captures the overall test results, including all test discrepancies and their resolution, prepared as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.305   Command control system testing.|§417.305]](d) of this chapter and section E417.1(i) of appendix E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]], for each flight safety system test completed at the time of license application. An applicant must file any remaining test reports or summaries before flight as required by [[Volume 4/C Licensing/0417 Launch safety.md#§417.305   Command control system testing.|§417.305]](d) and section E417.1(i) of appendix E of [[Volume 4/C Licensing/0417 Launch safety.md|part 417 of this chapter]]. Upon request, the launch operator must file the complete test report with the FAA for review, if the launch operator previously filed test report summaries with the FAA.
 
 \(f\) *Reuse of flight termination system components.* An applicant's safety review document must contain a reuse qualification test, refurbishment plan, and acceptance test plan for the use of any flight termination system component on more than one flight. This test plan must define the applicant's process for demonstrating that the component can satisfy all its performance specifications when subjected to the qualification test environmental levels plus the total number of exposures to the maximum expected environmental levels for each of the flights to be flown.
 
@@ -548,11 +548,11 @@ An applicant's safety review document must identify any public safety-related po
 
 \(a\) An applicant's safety review document must identify each flight safety system crew position and the role of that crewmember during launch processing and flight of a launch vehicle.
 
-\(b\) An applicant's safety review document must describe the certification program for flight safety system crewmembers established to ensure compliance with §§417.105 and 417.311 of this chapter.
+\(b\) An applicant's safety review document must describe the certification program for flight safety system crewmembers established to ensure compliance with §[[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]] and 417.311 of this chapter.
 
 ### §415.133   Safety at end of launch.
 
-An applicant must demonstrate compliance with §417.129 of this chapter, for any proposed launch of a launch vehicle with a stage or component that will reach Earth orbit.
+An applicant must demonstrate compliance with [[Volume 4/C Licensing/0417 Launch safety.md#§417.129   Safety at end of launch.|§417.129]] of this chapter, for any proposed launch of a launch vehicle with a stage or component that will reach Earth orbit.
 
 ### §415.135   Denial of safety approval.
 
@@ -608,7 +608,7 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 # Safety Review Document
 
-1.0   Launch Description (§415.109)
+1.0   Launch Description ([[Volume 4/C Licensing/0415 Launch license.md#§415.109   Launch description.|§415.109]])
 
 1.1   Launch Site Description
 
@@ -622,9 +622,9 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 1.6   Vehicle Performance Graphs
 
-2.0   Launch Operator Organization (§415.111)
+2.0   Launch Operator Organization ([[Volume 4/C Licensing/0415 Launch license.md#§415.111   Launch operator organization.|§415.111]])
 
-2.1   Launch Operator Organization (§415.111 and §417.103 of this chapter)
+2.1   Launch Operator Organization ([[Volume 4/C Licensing/0415 Launch license.md#§415.111   Launch operator organization.|§415.111]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.103   Safety organization.|§417.103]] of this chapter)
 
 2.1.1   Organization Summary
 
@@ -632,7 +632,7 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 2.1.4   Office Descriptions and Safety Functions
 
-3.0   Launch Personnel Certification Program (§415.113 and §417.105 of this chapter)
+3.0   Launch Personnel Certification Program ([[Volume 4/C Licensing/0415 Launch license.md#§415.113   Launch personnel certification program.|§415.113]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.105   Launch personnel qualifications and certification.|§417.105]] of this chapter)
 
 3.1   Program Summary
 
@@ -640,7 +640,7 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 3.3   Table of Safety Critical Tasks Performed by Certified Personnel
 
-4.0   Flight Safety (§415.115)
+4.0   Flight Safety ([[Volume 4/C Licensing/0415 Launch license.md#§415.115   Flight safety.|§415.115]])
 
 4.1   Initial Flight Safety Analysis
 
@@ -670,13 +670,13 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 4.3.8   Unguided Suborbital Launch Vehicles (where applicable)
 
-5.0   Ground Safety (§415.117)
+5.0   Ground Safety ([[Volume 4/C Licensing/0415 Launch license.md#§415.117   Ground safety.|§415.117]])
 
 5.1   Ground Safety Analysis Report
 
 5.2   Ground Safety Plan
 
-6.0   Launch Plans (§415.119 and §417.111 of this chapter)
+6.0   Launch Plans ([[Volume 4/C Licensing/0415 Launch license.md#§415.119   Launch plans.|§415.119]] and [[Volume 4/C Licensing/0417 Launch safety.md#§417.111   Launch plans.|§417.111]] of this chapter)
 
 6.1   Launch Support Equipment and Instrumentation Plan
 
@@ -694,11 +694,11 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 6.8   Communications Plan
 
-7.0   Launch Schedule (§415.121)
+7.0   Launch Schedule ([[Volume 4/C Licensing/0415 Launch license.md#§415.121   Launch schedule.|§415.121]])
 
 7.1   Launch Processing Schedule
 
-8.0   Computing Systems and Software (§415.123)
+8.0   Computing Systems and Software ([[Volume 4/C Licensing/0415 Launch license.md#§415.123   Computing systems and software.|§415.123]])
 
 8.1   Hardware and Software Descriptions
 
@@ -714,9 +714,9 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 8.7   Software Development Plan
 
-9.0   Unique Safety Policies, Requirements and Practices (§415.125)
+9.0   Unique Safety Policies, Requirements and Practices ([[Volume 4/C Licensing/0415 Launch license.md#§415.125   Unique safety policies, requirements and practices.|§415.125]])
 
-10.0   Flight Safety System Design and Operation Data (§415.127)
+10.0   Flight Safety System Design and Operation Data ([[Volume 4/C Licensing/0415 Launch license.md#§415.127   Flight safety system design and operation data.|§415.127]])
 
 10.1   Flight Safety System Description
 
@@ -734,7 +734,7 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 10.8   Tracking System Validation Procedures
 
-11.0   Flight Safety System Test Data (§415.129)
+11.0   Flight Safety System Test Data ([[Volume 4/C Licensing/0415 Launch license.md#§415.129   Flight safety system test data.|§415.129]])
 
 11.1   Testing Compliance Matrix
 
@@ -746,13 +746,13 @@ This appendix contains the format and numbering scheme for a safety review docum
 
 11.5   Reuse of Flight Termination System Components
 
-12.0   Flight Safety System Crew Data (§415.131)
+12.0   Flight Safety System Crew Data ([[Volume 4/C Licensing/0415 Launch license.md#§415.131   Flight safety system crew data.|§415.131]])
 
 12.1   Position Descriptions
 
 12.2   Certification and Training Program Description
 
-13.0   Safety at End of Launch (§415.133)
+13.0   Safety at End of Launch ([[Volume 4/C Licensing/0415 Launch license.md#§415.133   Safety at end of launch.|§415.133]])
 
 \[Doc. No. FAA-2000-7953, 71 FR 50536, Aug. 25, 2006\]
 

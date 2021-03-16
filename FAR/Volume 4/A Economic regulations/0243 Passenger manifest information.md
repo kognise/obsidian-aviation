@@ -40,7 +40,7 @@ The purpose of this part is to ensure that the U.S. government has prompt and ad
 
 ### §243.5   Applicability.
 
-This part applies to covered flight segments operated by covered airlines. (See §243.3 of this part)
+This part applies to covered flight segments operated by covered airlines. (See [[Volume 4/A Economic regulations/0243 Passenger manifest information.md#§243.3   Definitions.|§243.3]] of this part)
 
 ### §243.7   Information collection requirements.
 
@@ -70,9 +70,9 @@ Covered airlines may use any method or procedure to collect, store and transmit 
 
 \(a\) Each covered airline shall inform the Managing Director of Overseas Citizen Services, Bureau of Consular Affairs, U.S. Department of State immediately upon learning of an aviation disaster involving a covered flight segment operated by that carrier. The Managing Director may be reached 24 hours a day through the Department of State Operations Center at (202) 647-1512.
 
-\(b\) Each covered airline shall transmit a complete and accurate compilation of the information collected pursuant to §243.7 of this part to the U.S. Department of State as quickly as possible, but not later than 3 hours, after the carrier learns of an aviation disaster involving a covered flight segment operated by that carrier.
+\(b\) Each covered airline shall transmit a complete and accurate compilation of the information collected pursuant to [[Volume 4/A Economic regulations/0243 Passenger manifest information.md#§243.7   Information collection requirements.|§243.7]] of this part to the U.S. Department of State as quickly as possible, but not later than 3 hours, after the carrier learns of an aviation disaster involving a covered flight segment operated by that carrier.
 
-\(c\) Upon request, a covered airline shall transmit a complete and accurate compilation of the information collected pursuant to §243.7 of this part to the Director, Transportation Disaster AssistanceNational Transportation Safety Board.
+\(c\) Upon request, a covered airline shall transmit a complete and accurate compilation of the information collected pursuant to [[Volume 4/A Economic regulations/0243 Passenger manifest information.md#§243.7   Information collection requirements.|§243.7]] of this part to the Director, Transportation Disaster AssistanceNational Transportation Safety Board.
 
 \[Docket No. OST-95-950, 63 FR 8280, Feb. 18, 1998, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15932, Apr. 16, 2019 \]
 

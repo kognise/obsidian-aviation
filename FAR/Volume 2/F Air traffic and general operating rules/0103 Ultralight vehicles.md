@@ -88,7 +88,7 @@ No person may operate an ultralight vehicle in prohibited or restricted areas un
 
 ### §103.20   Flight restrictions in the proximity of certain areas designated by notice to airmen.
 
-No person may operate an ultralight vehicle in areas designated in a Notice to Airmen under §91.137, §91.138, §91.141, §91.143 or §91.145 of this chapter, unless authorized by:
+No person may operate an ultralight vehicle in areas designated in a Notice to Airmen under [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.137   Temporary flight restrictions in the vicinity of disaster/hazard areas.|§91.137]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.138   Temporary flight restrictions in national disaster areas in the State of Hawaii.|§91.138]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.141   Flight restrictions in the proximity of the Presidential and other parties.|§91.141]], [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.143   Flight limitation in the proximity of space flight operations.|§91.143]] or [[Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md#§91.145   Management of aircraft operations in the vicinity of aerial demonstrations and major sporting events.|§91.145]] of this chapter, unless authorized by:
 
 \(a\) Air Traffic Control (ATC); or
 
@@ -102,7 +102,7 @@ No person may operate an ultralight vehicle except by visual reference with the 
 
 ### §103.23   Flight visibility and cloud clearance requirements.
 
-No person may operate an ultralight vehicle when the flight visibility or distance from clouds is less than that in the table found below. All operations in Class A, Class B, Class C, and Class D airspace or Class E airspace designated for an airport must receive prior ATC authorization as required in §103.17 of this part.
+No person may operate an ultralight vehicle when the flight visibility or distance from clouds is less than that in the table found below. All operations in Class A, Class B, Class C, and Class D airspace or Class E airspace designated for an airport must receive prior ATC authorization as required in [[Volume 2/F Air traffic and general operating rules/0103 Ultralight vehicles.md#§103.17   Operations in certain airspace.|§103.17]] of this part.
 
 <div>
 

@@ -54,9 +54,9 @@ For the purpose of this part:
 
 ### §77.5   Applicability.
 
-\(a\) If you propose any construction or alteration described in §77.9, you must provide adequate notice to the FAA of that construction or alteration.
+\(a\) If you propose any construction or alteration described in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.9   Construction or alteration requiring notice.|§77.9]], you must provide adequate notice to the FAA of that construction or alteration.
 
-\(b\) If requested by the FAA, you must also file supplemental notice before the start date and upon completion of certain construction or alterations that are described in §77.9.
+\(b\) If requested by the FAA, you must also file supplemental notice before the start date and upon completion of certain construction or alterations that are described in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.9   Construction or alteration requiring notice.|§77.9]].
 
 \(c\) Notice received by the FAA under this subpart is used to:
 
@@ -72,7 +72,7 @@ For the purpose of this part:
 
 ### §77.7   Form and time of notice.
 
-\(a\) If you are required to file notice under §77.9, you must submit to the FAA a completed FAA Form 7460-1, Notice of Proposed Construction or Alteration. FAA Form 7460-1 is available at FAA regional offices and on the Internet.
+\(a\) If you are required to file notice under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.9   Construction or alteration requiring notice.|§77.9]], you must submit to the FAA a completed FAA Form 7460-1, Notice of Proposed Construction or Alteration. FAA Form 7460-1 is available at FAA regional offices and on the Internet.
 
 \(b\) You must submit this form at least 45 days before the start date of the proposed construction or alteration or the date an application for a construction permit is filed, whichever is earliest.
 
@@ -150,7 +150,7 @@ This subpart describes the standards used for determining obstructions to air na
 
 \(c\) The FAA will apply these standards with reference to an existing airport facility, and airport proposals received by the FAA, or the appropriate military service, before it issues a final determination.
 
-\(d\) For airports having defined runways with specially prepared hard surfaces, the primary surface for each runway extends 200 feet beyond each end of the runway. For airports having defined strips or pathways used regularly for aircraft takeoffs and landings, and designated runways, without specially prepared hard surfaces, each end of the primary surface for each such runway shall coincide with the corresponding end of the runway. At airports, excluding seaplane bases, having a defined landing and takeoff area with no defined pathways for aircraft takeoffs and landings, a determination must be made as to which portions of the landing and takeoff area are regularly used as landing and takeoff pathways. Those determined pathways must be considered runways, and an appropriate primary surface as defined in §77.19 will be considered as longitudinally centered on each such runway. Each end of that primary surface must coincide with the corresponding end of that runway.
+\(d\) For airports having defined runways with specially prepared hard surfaces, the primary surface for each runway extends 200 feet beyond each end of the runway. For airports having defined strips or pathways used regularly for aircraft takeoffs and landings, and designated runways, without specially prepared hard surfaces, each end of the primary surface for each such runway shall coincide with the corresponding end of the runway. At airports, excluding seaplane bases, having a defined landing and takeoff area with no defined pathways for aircraft takeoffs and landings, a determination must be made as to which portions of the landing and takeoff area are regularly used as landing and takeoff pathways. Those determined pathways must be considered runways, and an appropriate primary surface as defined in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.19   Civil airport imaginary surfaces.|§77.19]] will be considered as longitudinally centered on each such runway. Each end of that primary surface must coincide with the corresponding end of that runway.
 
 \(e\) The standards in this subpart apply to construction or alteration proposals on an airport (including heliports and seaplane bases with marked lanes) if that airport is one of the following before the issuance of the final determination:
 
@@ -174,7 +174,7 @@ This subpart describes the standards used for determining obstructions to air na
 
 \(4\) A height within an en route obstacle clearance area, including turn and termination areas, of a Federal Airway or approved off-airway route, that would increase the minimum obstacle clearance altitude.
 
-\(5\) The surface of a takeoff and landing area of an airport or any imaginary surface established under §77.19, 77.21, or 77.23. However, no part of the takeoff or landing area itself will be considered an obstruction.
+\(5\) The surface of a takeoff and landing area of an airport or any imaginary surface established under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.19   Civil airport imaginary surfaces.|§77.19]], 77.21, or 77.23. However, no part of the takeoff or landing area itself will be considered an obstruction.
 
 \(b\) Except for traverse ways on or near an airport with an operative ground traffic control service furnished by an airport traffic control tower or by the airport management and coordinated with the air traffic control service, the standards of paragraph (a) of this section apply to traverse ways used or to be used for the passage of mobile objects only after the heights of these traverse ways are increased by:
 
@@ -276,7 +276,7 @@ The following civil airport imaginary surfaces are established with relation to 
 
 ### §77.25   Applicability.
 
-\(a\) This subpart applies to any aeronautical study of a proposed construction or alteration for which notice to the FAA is required under §77.9.
+\(a\) This subpart applies to any aeronautical study of a proposed construction or alteration for which notice to the FAA is required under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.9   Construction or alteration requiring notice.|§77.9]].
 
 \(b\) The purpose of an aeronautical study is to determine whether the aeronautical effects of the specific proposal and, where appropriate, the cumulative impact resulting from the proposed construction or alteration when combined with the effects of other existing or proposed structures, would constitute a hazard to air navigation.
 
@@ -316,7 +316,7 @@ The FAA will conduct an aeronautical study when:
 
 \(b\) The FAA will make determinations based on the aeronautical study findings and will identify the following:
 
-\(1\) The effects on VFR/IFR aeronautical departure/arrival operations, air traffic procedures, minimum flight altitudes, and existing, planned, or proposed airports listed in §77.15(e) of which the FAA has received actual notice prior to issuance of a final determination.
+\(1\) The effects on VFR/IFR aeronautical departure/arrival operations, air traffic procedures, minimum flight altitudes, and existing, planned, or proposed airports listed in [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.15   Scope.|§77.15]](e) of which the FAA has received actual notice prior to issuance of a final determination.
 
 \(2\) The extent of the physical and/or electromagnetic effect on the operation of existing or proposed air navigation facilities, communication aids, or surveillance systems.
 
@@ -374,7 +374,7 @@ The FAA will conduct an aeronautical study when:
 
 ### §77.39   Contents of a petition.
 
-\(a\) You must file a petition for discretionary review in writing and it must be received by the FAA within 30 days after the issuance of a determination under §77.31, or a revision or extension of the determination under §77.35.
+\(a\) You must file a petition for discretionary review in writing and it must be received by the FAA within 30 days after the issuance of a determination under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.31   Determinations.|§77.31]], or a revision or extension of the determination under [[Volume 2/E Airspace/0077 Safe, efficient use, and preservation of the navigable airspace.md#§77.35   Extensions, terminations, revisions and corrections.|§77.35]].
 
 \(b\) The petition must contain a full statement of the aeronautical basis on which the petition is made, and must include new information or facts not previously considered or presented during the aeronautical study, including valid aeronautical reasons why the determination, revisions, or extension made by the FAA should be reviewed.
 

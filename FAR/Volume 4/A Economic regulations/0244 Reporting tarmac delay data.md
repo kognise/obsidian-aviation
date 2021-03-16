@@ -12,7 +12,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.244](https://www.ecfr
 
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 40109.
 
-*Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.2   Definitions.|14 CFR 298.2]].
+*Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in 14 CFR 298.2.
 
 *Covered carrier* means a certificated carrier, a commuter carrier, or a foreign air carrier operating to, from, or within the United States, conducting scheduled passenger service or public charter service with at least one aircraft having a designed passenger seating capacity of 30 or more seats.
 
@@ -40,7 +40,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.244](https://www.ecfr
 
 \(b\) For foreign air carriers that operate charter flights from foreign airports to U.S. airports, and return to foreign airports, and do not pick up any new passengers in the U.S., the charter flights are not flights subject to the reporting requirements of this part.
 
-\(c\) U.S. carriers that submit Part 234 Airline Service Quality Performance Reports must submit 3-hour tarmac delay information for public charter flights and international passenger flights to or from any U.S. large hub airport, medium hub airport, small hub airport and non-hub airport. These carriers are already required to submit such information for domestic scheduled flights to or from U.S. large hub airports under art 234 of this chapter. These carriers that are covered by part 234 need only submit information for flights with tarmac delays of more than 3 hours under this part 244 for domestic scheduled passenger flights to or from any U.S. medium hub airport, small hub airport and non-hub airport to the extent they do not report such information under [[Volume 4/A Economic regulations/0234 Airline service quality performance reports.md#§234.7   Voluntary reporting.|14 CFR 234.7]].
+\(c\) U.S. carriers that submit Part 234 Airline Service Quality Performance Reports must submit 3-hour tarmac delay information for public charter flights and international passenger flights to or from any U.S. large hub airport, medium hub airport, small hub airport and non-hub airport. These carriers are already required to submit such information for domestic scheduled flights to or from U.S. large hub airports under art 234 of this chapter. These carriers that are covered by part 234 need only submit information for flights with tarmac delays of more than 3 hours under this part 244 for domestic scheduled passenger flights to or from any U.S. medium hub airport, small hub airport and non-hub airport to the extent they do not report such information under 14 CFR 234.7.
 
 \[Docket No. DOT-OST-2010-0140, 76 FR 23160, Apr. 25, 2011, as amended by Dockt. No. DOT-OST-2014-0056, 81 FR 76827, Nov. 3, 2016\]
 

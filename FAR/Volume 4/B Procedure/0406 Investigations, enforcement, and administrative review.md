@@ -30,7 +30,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \(b\) Submissions must include a detailed exposition of the evidence or arguments supporting the petition. Where an applicant must demonstrate an equivalent level of safety or fidelity, the applicant must make a clear and convincing demonstration.
 
-\(c\) Petitions shall be filed as soon as practicable, but in no event more than 30 days after issuance of decision or finding under §406.1.
+\(c\) Petitions shall be filed as soon as practicable, but in no event more than 30 days after issuance of decision or finding under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.1   Hearings in license, permit, and payload actions.|§406.1]].
 
 \[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended by Amdt. 406-3, 71 FR 50530, Aug. 25, 2006; Amdt. 406-4, 72 FR 17017, Apr. 6, 2007\]
 
@@ -46,7 +46,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \(a\) *Civil penalty liability.* Under 51 U.S.C. 50917(c), a person found by the FAA to have violated a requirement of the Act, a regulation issued under the Act, or any term or condition of a license or permit issued or transferred under the Act, is liable to the United States for a civil penalty of not more than \$244,391 for each violation. A separate violation occurs for each day the violation continues.
 
-\(b\) *Delegations.* The authority to impose civil penalties is exercised by an agency attorney as described in §406.105.
+\(b\) *Delegations.* The authority to impose civil penalties is exercised by an agency attorney as described in [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.105   Separation of functions for prosecuting civil penalties and advising the FAA decisionmaker.|§406.105]].
 
 \(c\) *Notice of proposed civil penalty.* A civil penalty action is initiated when the agency attorney advises a person, referred to as the respondent, of the charges or other reasons upon which the FAA bases the proposed action and allows the respondent to answer the charges and to be heard as to why the civil penalty should not be imposed. A notice of proposed civil penalty states the facts alleged; any requirement of the Act, a regulation issued under the Act, or any term or condition of a license or permit issued or transferred under the Act allegedly violated by the respondent; and the amount of the proposed civil penalty. Not later than 30 days after receipt of the notice of proposed civil penalty the respondent may elect to proceed by one or more of the following:
 
@@ -86,7 +86,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \(ii\) Unless the respondent requests a hearing not later than 15 days after the date the respondent received a final notice of proposed civil penalty, the final notice of proposed civil penalty becomes an order imposing civil penalty.
 
-\(iii\) Unless an appeal is filed with the FAA decisionmaker in accordance with §406.175, if the administrative law judge finds that a violation occurred and determines that a civil penalty, in an amount found appropriate by the administrative law judge, is warranted, an initial decision of an administrative law judge under subpart B of this part becomes an order imposing civil penalty.
+\(iii\) Unless an appeal is filed with the FAA decisionmaker in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.175   Appeal from initial decision.|§406.175]], if the administrative law judge finds that a violation occurred and determines that a civil penalty, in an amount found appropriate by the administrative law judge, is warranted, an initial decision of an administrative law judge under subpart B of this part becomes an order imposing civil penalty.
 
 \(iv\) Unless a complaint is filed with a United States district court in accordance with §406.176, if the FAA decisionmaker finds that a violation occurred and determines that a civil penalty, in an amount found appropriate by the FAA decisionmaker, is warranted, a final decision and order of the FAA decisionmaker under subpart B of this part becomes an order imposing civil penalty. If a person seeks judicial review not later than 60 days after the final decision and order has been served on the respondent, the final decision and order is stayed.
 
@@ -110,7 +110,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \(i\) *Collection of civil penalties.* If a respondent does not pay a civil penalty imposed by an order imposing civil penalty or a compromise order within 60 days after service of the final order, the FAA may refer the order to the United States Department of Treasury or Department of Justice to collect the civil penalty.
 
-\(j\) *Exhaustion of administrative remedies.* A respondent may seek judicial review of a final decision and order of the FAA decisionmaker as provided in §406.179. A respondent has not exhausted administrative remedies for purposes of judicial review if the final order is one of the following:
+\(j\) *Exhaustion of administrative remedies.* A respondent may seek judicial review of a final decision and order of the FAA decisionmaker as provided in [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.179   Judicial review of a final decision and order.|§406.179]]. A respondent has not exhausted administrative remedies for purposes of judicial review if the final order is one of the following:
 
 \(1\) An order imposing civil penalty issued by an agency attorney under paragraph (e)(1)(i) of this section.
 
@@ -124,7 +124,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended by Amdt. 406-4, 72 FR 17017, Apr. 6, 2007; 72 FR 68475, Dec. 5, 2007; 75 FR 30693, June 2, 2010; Amdt. 406-7, 77 FR 20532, Apr. 5, 2012; 79 FR 61992, Oct. 16, 2014; Amdt. 406-10, 81 FR 43469, July 5, 2016; Doc. No. FAA-2016-7004, Amdt. 406-11, 82 FR 17101, Apr. 10, 2017; 83 FR 60743, Nov. 27, 2018; 84 FR 37070, July 31, 2019; 86 FR 1755, Jan. 11, 2021\]
 
-### §§406.10-406.100   \[Reserved\]
+### §[[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.101   Applicability.|§406.10]]-406.100   \[Reserved\]
 
 ## Subpart B—Rules of Practice in FAA Space Transportation Adjudications
 
@@ -132,7 +132,7 @@ Source: [https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.4.406](https://www.ecfr
 
 \(a\) *Adjudications to which these rules apply.* These rules apply to the following adjudications:
 
-\(1\) A civil penalty action in which the respondent has requested a hearing under §406.9.
+\(1\) A civil penalty action in which the respondent has requested a hearing under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.9   Civil penalties.|§406.9]].
 
 \(2\) \[Reserved\]
 
@@ -162,7 +162,7 @@ For the purpose of this part:
 
 ### §406.105   Separation of functions for prosecuting civil penalties and advising the FAA decisionmaker.
 
-\(a\) *Agency attorney.* The authority to prosecute civil penalties within the FAA is exercised by an agency attorney in accordance with §406.9.
+\(a\) *Agency attorney.* The authority to prosecute civil penalties within the FAA is exercised by an agency attorney in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.9   Civil penalties.|§406.9]].
 
 \(1\) The following officials have the authority to act as the agency attorney under this part: The Deputy Chief Counsel; the Assistant Chief Counsel for Enforcement; the Assistant Chief Counsel for Regulations; the Assistant Chief Counsel for Europe, Africa, and Middle East Area Office; each Regional Counsel; and each Center Counsel. This authority may be delegated further.
 
@@ -222,11 +222,11 @@ For the purpose of this part:
 
 \(3\) The administrative law judge must file with the FDMS, or instruct the court reporter to file with the FDMS, a copy of each transcript and exhibit, except those portions that contain confidential information.
 
-\(4\) The administrative law judge must maintain any confidential information filed in accordance with §406.117 and deliver it to the Assistant Chief Counsel for Litigation when the administrative law judge no longer needs it.
+\(4\) The administrative law judge must maintain any confidential information filed in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.117   Confidential information.|§406.117]] and deliver it to the Assistant Chief Counsel for Litigation when the administrative law judge no longer needs it.
 
-\(c\) *Limitations on the power of the administrative law judge.* The administrative law judge may not issue an order of contempt, award costs to any party, or impose any sanction not specified in this subpart. If the administrative law judge imposes any sanction not specified in this subpart, a party may file an interlocutory appeal of right pursuant to §406.173(c). This section does not preclude an administrative law judge from issuing an order that bars a person from a specific proceeding based on a finding of obstreperous or disruptive behavior in that specific proceeding.
+\(c\) *Limitations on the power of the administrative law judge.* The administrative law judge may not issue an order of contempt, award costs to any party, or impose any sanction not specified in this subpart. If the administrative law judge imposes any sanction not specified in this subpart, a party may file an interlocutory appeal of right pursuant to [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.173   Interlocutory appeals.|§406.173]](c). This section does not preclude an administrative law judge from issuing an order that bars a person from a specific proceeding based on a finding of obstreperous or disruptive behavior in that specific proceeding.
 
-\(d\) *Disqualification.* The administrative law judge may disqualify himself or herself at any time. A party may file a motion, pursuant to §406.141(f)(8), requesting that an administrative law judge be disqualified from the proceedings.
+\(d\) *Disqualification.* The administrative law judge may disqualify himself or herself at any time. A party may file a motion, pursuant to [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.141   Motions.|§406.141]](f)(8), requesting that an administrative law judge be disqualified from the proceedings.
 
 \[Doc. No. FAA-2001-8607, 66 FR 2180, Jan. 10, 2001, as amended at 72 FR 68475, Dec. 5, 2007\]
 
@@ -348,7 +348,7 @@ For the purpose of this part:
 
 \(1\) The party must state the specific grounds for withholding the information from the public.
 
-\(2\) If the party claims that the information is protected under 51 U.S.C. 50916, and if both the complainant and the respondent agree that the information is protected under that section, the administrative law judge must grant the motion. If one party does not agree that the information is protected under 51 U.S.C. 50916 the administrative law judge must decide. Either party may file an interlocutory appeal of right under §406.173(c).
+\(2\) If the party claims that the information is protected under 51 U.S.C. 50916, and if both the complainant and the respondent agree that the information is protected under that section, the administrative law judge must grant the motion. If one party does not agree that the information is protected under 51 U.S.C. 50916 the administrative law judge must decide. Either party may file an interlocutory appeal of right under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.173   Interlocutory appeals.|§406.173]](c).
 
 \(3\) If the party claims that the information should be protected on grounds other than those provided by 51 U.S.C. 50916 the administrative law judge must grant the motion if, based on the motion and any response to the motion, the administrative law judge determines that disclosure would be detrimental to safety, disclosure would not be in the public interest, or that the information is not otherwise required to be made available to the public.
 
@@ -406,9 +406,9 @@ Waivers of any rights provided by statute or regulation must be in writing or by
 
 \(a\) *Complaint*—(1) *Filing.* The complainant must file the original and one copy of the complaint with the Federal Docket Management System, or may file a written motion pursuant to 406.141(f)(1) instead of filling a complaint, not later than 20 days after receipt by the complainant of a request for hearing. The complainant should suggest a location for the hearing when filing the complaint.
 
-\(2\) *Service.* The complainant must personally deliver or mail a copy of the complaint to the respondent, or the respondent's attorney or representative who has filed a notice of appearance in accordance with §406.107.
+\(2\) *Service.* The complainant must personally deliver or mail a copy of the complaint to the respondent, or the respondent's attorney or representative who has filed a notice of appearance in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.107   Appearances of parties, and attorneys and representatives.|§406.107]].
 
-\(3\) *Contents of complaint.* The final notice of proposed civil penalty issued under §406.9(d) may be filed as the complaint. A complaint must set forth the following in sufficient detail to provide notice:
+\(3\) *Contents of complaint.* The final notice of proposed civil penalty issued under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.9   Civil penalties.|§406.9]](d) may be filed as the complaint. A complaint must set forth the following in sufficient detail to provide notice:
 
 \(i\) The facts alleged.
 
@@ -416,7 +416,7 @@ Waivers of any rights provided by statute or regulation must be in writing or by
 
 \(iii\) The proposed civil penalty.
 
-\(b\) *Answer*—(1) *Time for filing.* The respondent must file an answer to the complaint, or may file a written motion pursuant to §406.141(f)(2) instead of filing an answer, not later than 30 days after service of the complaint.
+\(b\) *Answer*—(1) *Time for filing.* The respondent must file an answer to the complaint, or may file a written motion pursuant to [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.141   Motions.|§406.141]](f)(2) instead of filing an answer, not later than 30 days after service of the complaint.
 
 \(2\) *Form.* The answer must be in writing. The answer may be in the form of a letter but must be dated and signed by the person responding to the complaint. The answer must be legible, and may be handwritten, typed, or printed from a computer.
 
@@ -510,7 +510,7 @@ At any time before or during a hearing, the complainant may withdraw a complaint
 
 \(3\) *Motions made during the hearing.* The administrative law judge may issue rulings and orders on motions made during the hearing orally. Oral rulings or orders on motions must be made on the record.
 
-\(f\) *Specific motions*—(1) *Complainant's motion to dismiss a request for a hearing as prematurely filed.* The complainant may file a motion to dismiss a request for a hearing as prematurely filed instead of filing a complaint. If the motion is not granted, the complainant must file the complaint and must serve a copy of the complaint on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the respondent may file an appeal in accordance with §406.175. If required by the decision on appeal, the complainant must file a complaint and must serve a copy of the complaint on each party not later than 10 days after service of the decision on appeal.
+\(f\) *Specific motions*—(1) *Complainant's motion to dismiss a request for a hearing as prematurely filed.* The complainant may file a motion to dismiss a request for a hearing as prematurely filed instead of filing a complaint. If the motion is not granted, the complainant must file the complaint and must serve a copy of the complaint on each party not later than 10 days after service of the administrative law judge's ruling or order on the motion to dismiss. If the motion to dismiss is granted and the proceedings are terminated without a hearing, the respondent may file an appeal in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.175   Appeal from initial decision.|§406.175]]. If required by the decision on appeal, the complainant must file a complaint and must serve a copy of the complaint on each party not later than 10 days after service of the decision on appeal.
 
 \(2\) *Respondent's motions instead of an answer.* A respondent may file one or more of the following motions instead of filing an answer. If the administrative law judge denies the motion, the respondent must file an answer not later than 10 days after service of the denial of the motion.
 
@@ -562,7 +562,7 @@ At any time before or during a hearing, the complainant may withdraw a complaint
 
 \(4\) The method or scope of discovery requested by the party is unduly burdensome or expensive.
 
-\(g\) *Confidentiality order.* A party or person who has received a discovery request for information that is related to a trade secret, confidential or sensitive material, competitive or commercial information, proprietary data, or information on research and development, may file and serve a motion for a confidentiality order in accordance with §406.117.
+\(g\) *Confidentiality order.* A party or person who has received a discovery request for information that is related to a trade secret, confidential or sensitive material, competitive or commercial information, proprietary data, or information on research and development, may file and serve a motion for a confidentiality order in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.117   Confidential information.|§406.117]].
 
 \(h\) *Protective order.* A party or a person who has received a request for discovery may file a motion for protective order and must serve a copy of the motion for protective order on each party. The party or person making the motion must show that the protective order is necessary to protect the party or the person from annoyance, embarrassment, oppression, or undue burden or expense. As part of the protective order, the administrative law judge may:
 
@@ -710,11 +710,11 @@ An employee of the FAA may not be called as an expert or opinion witness for any
 
 \(1\) A ruling or order by the administrative law judge barring a party, or a party's attorney or representative, from the proceedings.
 
-\(2\) A ruling or order by the administrative law judge allegedly in violation of the limitations on the administrative law judge under §406.109(c).
+\(2\) A ruling or order by the administrative law judge allegedly in violation of the limitations on the administrative law judge under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.109   Administrative law judges—powers and limitations.|§406.109]](c).
 
-\(3\) Failure of the administrative law judge to grant a motion for a confidentiality order based on 51 U.S.C. 50916, under §406.117(c)(2).
+\(3\) Failure of the administrative law judge to grant a motion for a confidentiality order based on 51 U.S.C. 50916, under [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.117   Confidential information.|§406.117]](c)(2).
 
-\(4\) Failure of the administrative law judge to dismiss the proceedings in accordance with §406.135.
+\(4\) Failure of the administrative law judge to dismiss the proceedings in accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.135   Withdrawal of complaint or request for hearing.|§406.135]].
 
 \(d\) *Procedure.* A party must file with the Federal Docket Management System and serve each other party a notice of interlocutory appeal, with supporting documents, not later than 10 days after the administrative law judge's decision forming the basis of an interlocutory appeal of right or not later than 10 days after the administrative law judge's decision granting an interlocutory appeal for cause. A party must file with the Federal Docket Management System a reply brief, if any, and serve a copy of the reply brief on each party, not later than 10 days after service of the appeal brief. The FAA decisionmaker must render a decision on the interlocutory appeal, on the record and as a part of the decision in the proceedings, within a reasonable time after receipt of the interlocutory appeal.
 
@@ -794,8 +794,8 @@ An employee of the FAA may not be called as an expert or opinion witness for any
 
 \(a\) A person may seek judicial review of a final decision and order of the FAA decisionmaker as provided in 5 U.S.C. chapter 7 and 28 U.S.C. 1331. A party seeking judicial review must file with a United States district court.
 
-\(b\) In accordance with §406.9(e)(iv), if a person seeks judicial review not later than 60 days after the final decision and order has been served on the respondent, the final decision and order is stayed.
+\(b\) In accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.9   Civil penalties.|§406.9]](e)(iv), if a person seeks judicial review not later than 60 days after the final decision and order has been served on the respondent, the final decision and order is stayed.
 
-\(c\) In accordance with §406.9(i), if a respondent does not pay a civil penalty and does not file an appeal with the United States district court within 60 days after service of the final decision and order, the FAA may refer the order to the United States Department of Treasury or Department of Justice to collect the civil penalty.
+\(c\) In accordance with [[Volume 4/B Procedure/0406 Investigations, enforcement, and administrative review.md#§406.9   Civil penalties.|§406.9]](i), if a respondent does not pay a civil penalty and does not file an appeal with the United States district court within 60 days after service of the final decision and order, the FAA may refer the order to the United States Department of Treasury or Department of Justice to collect the civil penalty.
 
 </div>

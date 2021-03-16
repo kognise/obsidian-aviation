@@ -40,7 +40,7 @@ This part applies to all Acquisition Management System (AMS) bid protests and co
 
 \(n\) *Intervenor* is an interested party other than the protester whose participation in a protest is allowed by the ODRA. For a post-award protest, the awardee of the contract that is the subject of the protest will be allowed, upon timely request, to participate as an intervenor in the protest. In such a protest, no other interested parties will be allowed to participate as intervenors.
 
-\(o\) *Legal Representative* is an individual(s) designated to act on behalf of a party in matters before the ODRA. Unless otherwise provided under §§17.15(c)(2), 17.27(a)(1), or 17.59(a)(6), a Notice of Appearance must be filed with the ODRA containing the name, address, telephone and facsimile (Fax) numbers of a party's legal representative.
+\(o\) *Legal Representative* is an individual(s) designated to act on behalf of a party in matters before the ODRA. Unless otherwise provided under §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](c)(2), 17.27(a)(1), or 17.59(a)(6), a Notice of Appearance must be filed with the ODRA containing the name, address, telephone and facsimile (Fax) numbers of a party's legal representative.
 
 \(p\) *Neutral* refers to an impartial third party in the ADR process chosen by the parties to act as a facilitator, mediator, arbitrator, or otherwise to aid the parties in resolving a protest or contract dispute. A neutral can be a DRO or a person not an employee of the ODRA.
 
@@ -64,7 +64,7 @@ This part applies to all Acquisition Management System (AMS) bid protests and co
 
 ### §17.7   Filing and computation of time.
 
-\(a\) Filing of a protest or contract dispute may be accomplished by overnight delivery, by hand delivery, by Fax, or, if permitted by Order of the ODRA, by electronic filing. A protest or contract dispute is considered to be filed on the date it is received by the ODRA during normal business hours. The ODRA's normal business hours are from 8:30 a.m. to 5 p.m. Eastern Time. A protest or contract dispute received after the time period prescribed for filing shall not be considered timely filed. Service shall also be made on the Contracting Officer (CO) pursuant to §§17.15(e) and 17.27(d).
+\(a\) Filing of a protest or contract dispute may be accomplished by overnight delivery, by hand delivery, by Fax, or, if permitted by Order of the ODRA, by electronic filing. A protest or contract dispute is considered to be filed on the date it is received by the ODRA during normal business hours. The ODRA's normal business hours are from 8:30 a.m. to 5 p.m. Eastern Time. A protest or contract dispute received after the time period prescribed for filing shall not be considered timely filed. Service shall also be made on the Contracting Officer (CO) pursuant to §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](e) and 17.27(d).
 
 \(b\) Submissions to the ODRA after the initial filing of a protest or contract dispute may be accomplished by any means available in paragraph (a) of this section. Copies of all such submissions shall be served on the opposing party or parties.
 
@@ -104,19 +104,19 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(b\) Potential protestors should, where possible, attempt to resolve any issues concerning potential protests with the CO. Such attempts are not a prerequisite to filing a protest with the ODRA.
 
-\(c\) Offerors or prospective offerors shall file a protest with the ODRA in accordance with §17.15. The protest time limitations set forth in §17.15 will not be extended by attempts to resolve a potential protest with the CO. Other than the time limitations specified in §17.15 for the filing of protests, the ODRA retains the discretion to modify any timeframes established herein in connection with protests.
+\(c\) Offerors or prospective offerors shall file a protest with the ODRA in accordance with [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]]. The protest time limitations set forth in [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]] will not be extended by attempts to resolve a potential protest with the CO. Other than the time limitations specified in [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]] for the filing of protests, the ODRA retains the discretion to modify any timeframes established herein in connection with protests.
 
-\(d\) In accordance with §17.17(b), the ODRA shall convene an initial status conference for the purpose of scheduling proceedings in the protest and to encourage the parties to consider using the ODRA's ADR process to attempt to resolve the protest, pursuant to subpart D of this part. It is the Agency's policy to use voluntary ADR to the maximum extent practicable. If the parties elect not to attempt ADR, or if ADR efforts do not completely resolve the protest, the protest will proceed under the ODRA Adjudicative Process set forth in subpart E of this part. Informal ADR techniques may be utilized simultaneously with ongoing adjudication.
+\(d\) In accordance with [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.17   Initial protest procedures.|§17.17]](b), the ODRA shall convene an initial status conference for the purpose of scheduling proceedings in the protest and to encourage the parties to consider using the ODRA's ADR process to attempt to resolve the protest, pursuant to subpart D of this part. It is the Agency's policy to use voluntary ADR to the maximum extent practicable. If the parties elect not to attempt ADR, or if ADR efforts do not completely resolve the protest, the protest will proceed under the ODRA Adjudicative Process set forth in subpart E of this part. Informal ADR techniques may be utilized simultaneously with ongoing adjudication.
 
 \(e\) The ODRA Director shall designate DROs, outside neutrals or Special Masters as potential neutrals for the resolution of protests through ADR. The ultimate choice of an ADR neutral is made by the parties participating in the ADR. The ODRA Director also shall, at his or her sole discretion, designate an adjudicating DRO or Special Master for each matter. A person serving as a neutral in an ADR effort in a matter, shall not serve as an adjudicating DRO or Special Master for that matter.
 
 \(f\) Multiple protests concerning the same SIR, solicitation, or contract award may be consolidated at the discretion of the ODRA Director, and assigned to a single DRO or Special Master for adjudication.
 
-\(g\) Procurement activities, and, where applicable, contractor performance pending resolution of a protest, shall continue during the pendency of a protest, unless there is a compelling reason to suspend all or part of the procurement activities or contractor performance. Pursuant to §§17.15(d) and 17.17(a), the ODRA may impose a temporary suspension and recommend suspension of award or contract performance, in whole or in part, for a compelling reason. A decision to suspend procurement activities or contractor performance is made in writing by the Administrator or the Administrator's delegee upon recommendation of the ODRA.
+\(g\) Procurement activities, and, where applicable, contractor performance pending resolution of a protest, shall continue during the pendency of a protest, unless there is a compelling reason to suspend all or part of the procurement activities or contractor performance. Pursuant to §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](d) and 17.17(a), the ODRA may impose a temporary suspension and recommend suspension of award or contract performance, in whole or in part, for a compelling reason. A decision to suspend procurement activities or contractor performance is made in writing by the Administrator or the Administrator's delegee upon recommendation of the ODRA.
 
 ### §17.15   Filing a protest.
 
-\(a\) An interested party may initiate a protest by filing with the ODRA in accordance with §17.7(a) within the timeframes set forth in this Section. Protests that are not timely filed shall be dismissed. The timeframes applicable to the filing of protests are as follows:
+\(a\) An interested party may initiate a protest by filing with the ODRA in accordance with [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.7   Filing and computation of time.|§17.7]](a) within the timeframes set forth in this Section. Protests that are not timely filed shall be dismissed. The timeframes applicable to the filing of protests are as follows:
 
 \(1\) Protests based upon alleged SIR or solicitation improprieties that are apparent prior to bid opening or the time set for receipt of initial proposals shall be filed prior to bid opening or the time set for the receipt of initial proposals.
 
@@ -152,7 +152,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(7\) A detailed statement of both the legal and factual grounds of the protest, and one (1) copy of each relevant document;
 
-\(8\) The remedy or remedies sought by the protester, as set forth in §17.23;
+\(8\) The remedy or remedies sought by the protester, as set forth in [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.23   Protest remedies.|§17.23]];
 
 \(9\) The signature of the legal representative, or another person duly authorized to represent the protester.
 
@@ -170,7 +170,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(iv\) That a suspension is in the public interest.
 
-\(3\) Failure of a protester to provide information or documents in support of a requested suspension or failure to address the elements of paragraph (d)(2) of this section may result in the summary rejection of the request for suspension, or a requirement that the protester supplement its request prior to the scheduling of a Product Team response to the request under §17.17(a).
+\(3\) Failure of a protester to provide information or documents in support of a requested suspension or failure to address the elements of paragraph (d)(2) of this section may result in the summary rejection of the request for suspension, or a requirement that the protester supplement its request prior to the scheduling of a Product Team response to the request under [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.17   Initial protest procedures.|§17.17]](a).
 
 \(e\) Concurrent with the filing of a protest with the ODRA, the protester shall serve a copy of the protest on the CO and any other official designated in the SIR for receipt of protests, by means reasonably calculated to be received by the CO on the same day as it is to be received by the ODRA. The protest shall include a signed statement from the protester, certifying to the ODRA the manner of service, date, and time when a copy of the protest was served on the CO and other designated official(s).
 
@@ -182,7 +182,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 ### §17.17   Initial protest procedures.
 
-\(a\) If, as part of its initial protest filing, the protester requests a suspension of procurement activities or contractor performance in whole or in part, in accordance with §17.15(d), the Product Team shall submit a response to the request to the ODRA by no later than the close of business on the date of the initial scheduling conference or on such other date as is established by the ODRA. Copies of the response shall be furnished to the protester and any intervenor(s) so as to be received within the same timeframe. The protester and any intervenor(s) shall have the opportunity of providing additional comments on the response within two (2) business days of receiving it. Based on its review of such submissions, the ODRA, in its discretion, may—
+\(a\) If, as part of its initial protest filing, the protester requests a suspension of procurement activities or contractor performance in whole or in part, in accordance with [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](d), the Product Team shall submit a response to the request to the ODRA by no later than the close of business on the date of the initial scheduling conference or on such other date as is established by the ODRA. Copies of the response shall be furnished to the protester and any intervenor(s) so as to be received within the same timeframe. The protester and any intervenor(s) shall have the opportunity of providing additional comments on the response within two (2) business days of receiving it. Based on its review of such submissions, the ODRA, in its discretion, may—
 
 \(1\) Decline the suspension request; or
 
@@ -202,9 +202,9 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(6\) For any other reason deemed appropriate by the DRO or by the ODRA.
 
-\(c\) The Product Team and protester will have five (5) business days from the date of the initial status conference to decide whether they will attempt to use an ADR process in the case. With the agreement of the ODRA, ADR may be used concurrently with the adjudication of a protest. See §17.37(e).
+\(c\) The Product Team and protester will have five (5) business days from the date of the initial status conference to decide whether they will attempt to use an ADR process in the case. With the agreement of the ODRA, ADR may be used concurrently with the adjudication of a protest. See [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.37   Election of alternative dispute resolution process.|§17.37]](e).
 
-\(d\) If the Product Team and protester elect to use ADR proceedings to resolve the protest, they will agree upon the neutral to conduct the ADR proceedings (either an ODRA DRO or a compensated neutral of their own choosing) pursuant to §17.37, and shall execute and file with the ODRA a written ADR agreement. Agreement of any intervenor(s) to the use of ADR or the resolution of a dispute through ADR shall not be required.
+\(d\) If the Product Team and protester elect to use ADR proceedings to resolve the protest, they will agree upon the neutral to conduct the ADR proceedings (either an ODRA DRO or a compensated neutral of their own choosing) pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.37   Election of alternative dispute resolution process.|§17.37]], and shall execute and file with the ODRA a written ADR agreement. Agreement of any intervenor(s) to the use of ADR or the resolution of a dispute through ADR shall not be required.
 
 \(e\) If the Product Team or protester indicate that ADR proceedings will not be used, or if ADR is not successful in resolving the entire protest, the ODRA Director upon being informed of the situation, will schedule an adjudication of the protest.
 
@@ -234,7 +234,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 ### §17.21   Adjudicative Process for protests.
 
-\(a\) Other than for the resolution of preliminary or dispositive matters, the Adjudicative Process for protests will be commenced by the ODRA Director pursuant to §17.17(e).
+\(a\) Other than for the resolution of preliminary or dispositive matters, the Adjudicative Process for protests will be commenced by the ODRA Director pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.17   Initial protest procedures.|§17.17]](e).
 
 \(b\) The Director of the ODRA shall appoint a DRO or a Special Master to conduct the adjudication proceedings, develop the administrative record, and prepare findings and recommendations for review of the ODRA Director.
 
@@ -286,7 +286,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(m\) In preparing findings and recommendations in protests, the DRO or Special Master, using the preponderance of the evidence standard, shall consider whether the Product Team actions in question were consistent with the requirements of the AMS, had a rational basis, and whether the Product Team decision was arbitrary, capricious or an abuse of discretion. Notwithstanding the above, allegations that government officials acted with bias or in bad faith must be established by clear and convincing evidence.
 
-\(n\) The DRO or Special Master has broad discretion to recommend a remedy that is consistent with §17.23.
+\(n\) The DRO or Special Master has broad discretion to recommend a remedy that is consistent with [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.23   Protest remedies.|§17.23]].
 
 \(o\) A DRO or Special Master shall submit findings and recommendations only to the Director of the ODRA or the Director's designee. The findings and recommendations will be released to the parties and to the public upon issuance of the final FAA order in the case. If an ODRA protective order was issued in connection with the protest, or if a protest involves proprietary or competition-sensitive information, a redacted version of the findings and recommendations, omitting any protected information, shall be prepared wherever possible and released to the public, as soon as is practicable, along with a copy of the final FAA order. Only persons admitted by the ODRA under the protective order and Government personnel shall be provided copies of the unredacted findings and recommendations that contain proprietary or competition-sensitive information.
 
@@ -322,7 +322,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(a\) All contract disputes arising under contracts subject to the AMS shall be resolved under this subpart.
 
-\(b\) Contract disputes shall be filed with the ODRA pursuant to §17.27.
+\(b\) Contract disputes shall be filed with the ODRA pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.27   Filing a contract dispute.|§17.27]].
 
 \(c\) The ODRA has broad discretion to recommend remedies for a contract dispute that are consistent with the AMS and applicable law, including such equitable remedies or other remedies as it deems appropriate.
 
@@ -366,9 +366,9 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(c\) The informal resolution period may be extended at the request of the parties for good cause.
 
-\(d\) If the matter has not been resolved informally, the parties shall file joint or separate statements with the ODRA no later than twenty (20) business days after the filing of the contract dispute. The ODRA may extend this time, pursuant to §17.27(e). The statement(s) shall include either:
+\(d\) If the matter has not been resolved informally, the parties shall file joint or separate statements with the ODRA no later than twenty (20) business days after the filing of the contract dispute. The ODRA may extend this time, pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.27   Filing a contract dispute.|§17.27]](e). The statement(s) shall include either:
 
-\(1\) A joint request for ADR, or an executed ADR agreement, pursuant to §17.37(d), specifying which ADR techniques will be employed; or
+\(1\) A joint request for ADR, or an executed ADR agreement, pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.37   Election of alternative dispute resolution process.|§17.37]](d), specifying which ADR techniques will be employed; or
 
 \(2\) Written explanation(s) as to why ADR proceedings will not be used and why the Adjudicative Process will be needed.
 
@@ -428,7 +428,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(1\) Determine the appropriate amount of discovery required;
 
-\(2\) Review the need for a protective order, and if one is needed, prepare a protective order pursuant to §17.9;
+\(2\) Review the need for a protective order, and if one is needed, prepare a protective order pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.9   Protective orders.|§17.9]];
 
 \(3\) Determine whether any issue can be stricken; and
 
@@ -472,7 +472,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(a\) By statutory mandate, it is the policy of the FAA to use voluntary ADR to the maximum extent practicable to resolve matters pending at the ODRA. The ODRA therefore uses voluntary ADR as its primary means of resolving all factual, legal, and procedural controversies.
 
-\(b\) The parties are encouraged to make a good faith effort to explore ADR possibilities in all cases and to employ ADR in every appropriate case. The ODRA uses ADR techniques such as mediation, neutral evaluation, binding arbitration or variations of these techniques as agreed by the parties and approved by the ODRA. At the beginning of each case, the ODRA assigns a DRO as a potential neutral to explore ADR options with the parties and to convene an ADR process. See §17.35(b).
+\(b\) The parties are encouraged to make a good faith effort to explore ADR possibilities in all cases and to employ ADR in every appropriate case. The ODRA uses ADR techniques such as mediation, neutral evaluation, binding arbitration or variations of these techniques as agreed by the parties and approved by the ODRA. At the beginning of each case, the ODRA assigns a DRO as a potential neutral to explore ADR options with the parties and to convene an ADR process. See [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.35   Use of alternative dispute resolution.|§17.35]](b).
 
 \(c\) The ODRA Adjudicative Process will be used where the parties cannot achieve agreement on the use of ADR; where ADR has been employed but has not resolved all pending issues in dispute; or where the ODRA concludes that ADR will not provide an expeditious means of resolving a particular dispute. Even where the Adjudicative Process is to be used, the ODRA, with the parties' consent, may employ informal ADR techniques concurrently with the adjudication.
 
@@ -480,9 +480,9 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(a\) The ODRA will make its personnel available to serve as Neutrals in ADR proceedings and, upon request by the parties, will attempt to make qualified non-FAA personnel available to serve as Neutrals through neutral-sharing programs and other similar arrangements. The parties may elect to employ a mutually acceptable compensated neutral at their expense.
 
-\(b\) The parties using an ADR process to resolve a protest shall submit an executed ADR agreement containing the information outlined in paragraph (d) of this section to the ODRA pursuant to §17.17(c). The ODRA may extend this time for good cause.
+\(b\) The parties using an ADR process to resolve a protest shall submit an executed ADR agreement containing the information outlined in paragraph (d) of this section to the ODRA pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.17   Initial protest procedures.|§17.17]](c). The ODRA may extend this time for good cause.
 
-\(c\) The parties using an ADR process to resolve a contract dispute shall submit an executed ADR agreement containing the information outlined in paragraph (d) of this section to the ODRA pursuant to §17.29.
+\(c\) The parties using an ADR process to resolve a contract dispute shall submit an executed ADR agreement containing the information outlined in paragraph (d) of this section to the ODRA pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.29   Informal resolution period.|§17.29]].
 
 \(d\) The parties to a protest or contract dispute who elect to use ADR must submit to the ODRA an ADR agreement setting forth:
 
@@ -494,7 +494,7 @@ The following matters may not be protested before the ODRA, except for review of
 
 \(f\) Binding arbitration is available through the ODRA, subject to the provisions of applicable law and the ODRA Binding Arbitration Guidance dated October 2001 as developed in consultation with the Department of Justice.
 
-\(g\) The parties may, where appropriate in a given case, submit to the ODRA a negotiated protective order for use in ADR in accordance with the requirements of §17.9.
+\(g\) The parties may, where appropriate in a given case, submit to the ODRA a negotiated protective order for use in ADR in accordance with the requirements of [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.9   Protective orders.|§17.9]].
 
 ### §17.39   Confidentiality of ADR.
 
@@ -564,9 +564,9 @@ The Director may issue such Standing Orders as necessary for the orderly conduct
 
 \(a\) All potential disputes arising under contracts or solicitations with the FAA may be resolved with the consent of the parties to the dispute under this subpart.
 
-\(b\) Pre-disputes shall be filed with the ODRA pursuant to §17.59.
+\(b\) Pre-disputes shall be filed with the ODRA pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.59   Filing a Pre-dispute.|§17.59]].
 
-\(c\) The time limitations for the filing of Protests and Contract Disputes established in §§17.15(a) and 17.27(c) will not be extended by efforts to resolve the dispute under this subpart.
+\(c\) The time limitations for the filing of Protests and Contract Disputes established in §[[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.15   Filing a protest.|§17.15]](a) and 17.27(c) will not be extended by efforts to resolve the dispute under this subpart.
 
 ### §17.59   Filing a Pre-dispute.
 
@@ -588,15 +588,15 @@ The Director may issue such Standing Orders as necessary for the orderly conduct
 
 \(3\) Numbers (202) 267-3720 or alternate (202) 267-1293 for filing by facsimile.
 
-\(c\) Upon the filing of a Pre-dispute with the ODRA, the ODRA will contact the opposing party to offer its services pursuant to §17.57. If the opposing party agrees, the ODRA will provide Pre-dispute services. If the opposing party does not agree, the ODRA Pre-dispute file will be closed and no service will be provided.
+\(c\) Upon the filing of a Pre-dispute with the ODRA, the ODRA will contact the opposing party to offer its services pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.57   Dispute resolution process for Pre-disputes.|§17.57]]. If the opposing party agrees, the ODRA will provide Pre-dispute services. If the opposing party does not agree, the ODRA Pre-dispute file will be closed and no service will be provided.
 
 \[76 FR 55221, Sept. 7, 2011, as amended by Doc. No. FAA-2017-0075, 82 FR 14429, Mar. 21, 2017\]
 
 ### §17.61   Use of alternative dispute resolution.
 
-\(a\) Only non-binding, voluntary ADR will be used to attempt to resolve a Pre-dispute pursuant to §17.37.
+\(a\) Only non-binding, voluntary ADR will be used to attempt to resolve a Pre-dispute pursuant to [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.37   Election of alternative dispute resolution process.|§17.37]].
 
-\(b\) ADR conducted under this subpart is subject to the confidentiality requirements of §17.39.
+\(b\) ADR conducted under this subpart is subject to the confidentiality requirements of [[Volume 1/B Procedural rules/0017 Procedures for protests and contract disputes.md#§17.39   Confidentiality of ADR.|§17.39]].
 
 ##    
 

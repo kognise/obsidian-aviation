@@ -14,7 +14,7 @@ The purpose of this part is to establish procedures to be followed in designatin
 
 This part applies to essential air service determinations for communities designated as eligible under 49 U.S.C. 41731 and to eligible place designations and essential air service determinations for communities that qualify under 49 U.S.C. 41732 and 41733. It applies to the gathering of data by the Department, and to the participation of State, local, and other officials and other interested persons in the designation and determination processes.
 
-Note to §325.2: Criteria for designating eligible points under section 419(b) are contained in part 270 of this chapter. Guidelines for deciding essential air service levels are contained in part 398 of this chapter.
+Note to [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.2   Applicability.|§325.2]]: Criteria for designating eligible points under section 419(b) are contained in part 270 of this chapter. Guidelines for deciding essential air service levels are contained in [[Volume 4/F Policy statements/0398 Guidelines for individual determinations of basic essential air service.md|part 398 of this chapter]].
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019\]
 
@@ -52,7 +52,7 @@ DOT will issue a determination of the essential level of air service for a place
 
 \(b\) A place is designated as an eligible place under 49 U.S.C. 41731 and either paragraph (c) or (d) of this section or §325.7(e); or
 
-\(c\) A review was conducted of essential air service of that place under §325.6.
+\(c\) A review was conducted of essential air service of that place under [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.6   Periodic reviews.|§325.6]].
 
 \[Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019\]
 
@@ -60,7 +60,7 @@ DOT will issue a determination of the essential level of air service for a place
 
 \(a\) The Department will start a periodic review of essential air service within 1 year of the date of the previous determination of essential air service for eligible places receiving subsidized service, within 2 years of the date of the previous determination for eligible places in Alaska, and within 3 years of the date of the previous determination for eligible places without subsidized air service.
 
-\(b\) The review shall be conducted in accordance with the procedures in §§325.4, 325.5 and 325.7.
+\(b\) The review shall be conducted in accordance with the procedures in §[[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.4   State and local participation.|§325.4]], 325.5 and 325.7.
 
 \(c\) The Department may review the designation under 49 U.S.C. 41733 to determine whether the community designated as an eligible place continues to meet the criteria in part 270 of this chapter.
 
@@ -76,7 +76,7 @@ DOT will issue a determination of the essential level of air service for a place
 
 \(c\) Any person may, within 30 days after the filing of a petition for modification, file an answer to that petition titled “Answer to Petition for Modification.”
 
-\(d\) After review, the Department may seek more information and the procedures of §§325.5 and 325.7 will be followed.
+\(d\) After review, the Department may seek more information and the procedures of §[[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.5   Determinations and designations.|§325.5]] and 325.7 will be followed.
 
 (Approved by the Office of Management and Budget under control number 3024-0037)
 
@@ -96,7 +96,7 @@ All documents filed under this part shall be filed in the Documentary Services D
 
 ### §325.12   Service of documents.
 
-Any person, except one filing individually as a consumer, who files a document under this part, including responses to the questionnaire, shall serve that document upon those listed in §325.4(a) of this part and upon the following:
+Any person, except one filing individually as a consumer, who files a document under this part, including responses to the questionnaire, shall serve that document upon those listed in [[Volume 4/B Procedural regulations/0325 Essential air service procedures.md#§325.4   State and local participation.|§325.4]](a) of this part and upon the following:
 
 \(a\) The governor of the State in which the eligible place is located;
 
@@ -110,10 +110,10 @@ Any person, except one filing individually as a consumer, who files a document u
 
 ### §325.13   Environmental evaluations and energy information not required.
 
-Notwithstanding any provision of part 312 or part 313 of this chapter, a person filing a petition or appeal under this part is not required to file an environmental evaluation or energy information with the application.
+Notwithstanding any provision of part 312 or [[Volume 4/B Procedural regulations/0313 Implementation of the energy policy and conservation act.md|part 313 of this chapter]], a person filing a petition or appeal under this part is not required to file an environmental evaluation or energy information with the application.
 
 ### §325.14   Conformity with subpart A of part 302.
 
-Except where they are inconsistent, the provisions of subpart A of part 302 of this chapter shall apply to proceedings under this part.
+Except where they are inconsistent, the provisions of subpart A of [[Volume 4/B Procedural regulations/0302 Rules of practice in proceedings.md|part 302 of this chapter]] shall apply to proceedings under this part.
 
 </div>

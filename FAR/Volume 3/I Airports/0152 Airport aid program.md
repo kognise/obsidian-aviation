@@ -116,7 +116,7 @@ The following are definitions of terms used throughout this part:
 
 *Reliever airport* means a general aviation airport designated by the Administrator as having the primary function of relieving congestion at an air carrier airport by diverting from that airport general aviation traffic.
 
-*Runway clear zone* means an area at ground level underlying a portion of the approach surface specified in the standards incorporated into this part by §152.11.
+*Runway clear zone* means an area at ground level underlying a portion of the approach surface specified in the standards incorporated into this part by [[Volume 3/I Airports/0152 Airport aid program.md#§152.11   Incorporation by reference.|§152.11]].
 
 *Satisfactory property interest* means—
 
@@ -220,7 +220,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(1\) Each sponsor must be a public agency authorized by law to submit the project application;
 
-\(2\) If a sponsor is the holder of an airport operating certificate issued for the airport under part 139 of this chapter, it must be in compliance with the requirements of part 139.
+\(2\) If a sponsor is the holder of an airport operating certificate issued for the airport under [[Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0139 Certification of airports.md|part 139 of this chapter]], it must be in compliance with the requirements of part 139.
 
 \(3\) When any of the following agreements is applicable to an airport which the sponsor owns or controls, the sponsor must have complied with the agreement, or show to the satisfaction of the Administrator that it will comply or, for reasons beyond its control, cannot comply with the agreement:
 
@@ -244,7 +244,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(1\) If the project is for airport master planning—
 
-\(i\) Each sponsor must be a public agency and meet the requirements of §152.103(a)(3); and
+\(i\) Each sponsor must be a public agency and meet the requirements of [[Volume 3/I Airports/0152 Airport aid program.md#§152.103   Sponsors: Airport development.|§152.103]](a)(3); and
 
 \(ii\) The sponsor, in the case of a single sponsor, or one or more cosponsors must be legally able to implement the planning, within the existing or proposed airport boundaries, that results from the project study.
 
@@ -264,9 +264,9 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(c\) The development included in a project for airport development must—
 
-\(1\) In the opinion of the Administrator, be “airport development” as defined in §152.3;
+\(1\) In the opinion of the Administrator, be “airport development” as defined in [[Volume 3/I Airports/0152 Airport aid program.md#§152.3   Definitions.|§152.3]];
 
-\(2\) Be identified as airport development in the mandatory standards incorporated into this part by §152.11; and
+\(2\) Be identified as airport development in the mandatory standards incorporated into this part by [[Volume 3/I Airports/0152 Airport aid program.md#§152.11   Incorporation by reference.|§152.11]]; and
 
 \(3\) Be described in an approved airport layout plan.
 
@@ -286,7 +286,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(2\) In the opinion of the Administrator, the proposed planning would promote the effective location of public airports and the development of an adequate NASP;
 
-\(3\) The project is airport master planning as defined in §152.3;
+\(3\) The project is airport master planning as defined in [[Volume 3/I Airports/0152 Airport aid program.md#§152.3   Definitions.|§152.3]];
 
 \(4\) If the project has been determined to have areawide significance by an appropriate areawide agency, it has been incorporated into a unified planning work program; and
 
@@ -304,7 +304,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(2\) In the opinion of the Administrator, the project promotes the development of an adequate NASP;
 
-\(3\) The project is airport system planning as defined in §152.3; and
+\(3\) The project is airport system planning as defined in [[Volume 3/I Airports/0152 Airport aid program.md#§152.3   Definitions.|§152.3]]; and
 
 \(4\) When the project encompasses a metropolitan area that includes a large or medium hub airport, the project is incorporated in a unified planning work program.
 
@@ -324,7 +324,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(2\) A sketch or sketches of the airport layout indicating the location for each item of work proposed, using the same item numbers used in the list required by paragraph (c)(1) of this section.
 
-\(3\) If the proposed project involves the displacement of persons or the acquisition of real property, the assurances required by §§25.57 and 25.59, as applicable, of the Regulations of the Office of the Secretary of Transportation (49 CFR 25.57 and 25.59), whether or not reimbursement is being requested for the costs of displacement or real property acquisition.
+\(3\) If the proposed project involves the displacement of persons or the acquisition of real property, the assurances required by §[[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.571   Damage—tolerance and fatigue evaluation of structure.|§25.57]] and 25.59, as applicable, of the Regulations of the Office of the Secretary of Transportation (49 CFR 25.57 and 25.59), whether or not reimbursement is being requested for the costs of displacement or real property acquisition.
 
 \(4\) Any comments or statements required by appendix E, Procedures Implementing Office of Management and Budget Circular A-95, to this part, with a showing that they have been considered by the sponsor.
 
@@ -334,7 +334,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(7\) The sponsor's environmental assessment prepared in conformance with appendix 6 of FAA Order 1050.1C, “Policies and Procedures for Considering Environmental Impacts” (45 FR 2244; Jan. 10, 1980), and FAA Order 5050.4, “Airport Environmental Handbook” (45 FR 56624; Aug. 24, 1980), if an assessment is required by Order 5050.4. Copies of these orders may be examined in the Rules Docket, Office of the Chief Counsel, FAA, Washington, D.C., and may be obtained on request at any FAA regional office headquarters or any airports district office.
 
-\(8\) A showing that the sponsor has complied with the public hearing requirements in §152.117.
+\(8\) A showing that the sponsor has complied with the public hearing requirements in [[Volume 3/I Airports/0152 Airport aid program.md#§152.117   Public hearings.|§152.117]].
 
 \(9\) In the case of a proposed new airport serving any area that does not include a metropolitan area, a showing that each community in which the proposed airport is to be located has approved the proposed airport site through the body having general legislative jurisdiction over it.
 
@@ -366,7 +366,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(6\) A statement whether any building, installation, structure, location, or site of operations to be utilized in the performance of the grant or any contract made pursuant to the grant appears on the list of violating facilities distributed by the Environmental Protection Agency under the provisions of the Clean Air Act and Federal Water Pollution Control Act (40 CFR part 15).
 
-\(7\) The assurances on Civil Rights required by §21.7 of the Regulations of the Office of the Secretary of Transportation (49 CFR 21.7) and §152.405.
+\(7\) The assurances on Civil Rights required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.7   Continued airworthiness and safety improvements for transport category airplanes.|§21.7]] of the Regulations of the Office of the Secretary of Transportation (49 CFR 21.7) and [[Volume 3/I Airports/0152 Airport aid program.md#§152.405   Assurances.|§152.405]].
 
 \(8\) Plans and specifications for the proposed development in accordance with the design and construction standards listed in appendix B to this part.
 
@@ -432,7 +432,7 @@ This subpart contains requirements and application procedures applicable to airp
 
 \(iii\) The name of the sponsor or sponsors who will accept, receipt for, and disburse grant payments.
 
-\(6\) The assurances on Civil Rights required by §21.7 of the Regulations of the Office of the Secretary of Transportation (49 CFR 21.7).
+\(6\) The assurances on Civil Rights required by [[Volume 1/C Aircraft/0021 Certification procedures for products and articles.md#§21.7   Continued airworthiness and safety improvements for transport category airplanes.|§21.7]] of the Regulations of the Office of the Secretary of Transportation (49 CFR 21.7).
 
 \(7\) The applicable assurances required by appendix D of this part.
 
@@ -588,7 +588,7 @@ This subpart contains the requirements for funding projects for airport developm
 
 ### §152.207   Proceeds from disposition of land.
 
-Unless otherwise authorized by the Administrator, when a release has been granted authorizing the sponsor to dispose of land acquired with assistance under part 151 of this chapter or this part, or through conveyances under the Surplus Property Act, the proceeds realized from the disposal may not be used as matching funds for any airport development project or airport planning grant, but may be used for any other airport purpose.
+Unless otherwise authorized by the Administrator, when a release has been granted authorizing the sponsor to dispose of land acquired with assistance under [[Volume 3/I Airports/0151 Federal aid to airports.md|part 151 of this chapter]] or this part, or through conveyances under the Surplus Property Act, the proceeds realized from the disposal may not be used as matching funds for any airport development project or airport planning grant, but may be used for any other airport purpose.
 
 ### §152.209   Grant payments: General.
 
@@ -650,7 +650,7 @@ If an approved project for airport development includes land acquisition as an i
 
 \(a\) The Administrator determines that the sponsor has acquired satisfactory title to the land; or
 
-\(b\) In the case of a request for advance payment under §152.209(d), the Administrator is assured that a satisfactory title will be acquired.
+\(b\) In the case of a request for advance payment under [[Volume 3/I Airports/0152 Airport aid program.md#§152.209   Grant payments: General.|§152.209]](d), the Administrator is assured that a satisfactory title will be acquired.
 
 ### §152.213   Grant closeout requirements.
 
@@ -664,7 +664,7 @@ If an approved project for airport development includes land acquisition as an i
 
 \(c\) *Project completion.* When the project for airport development or planning is completed in accordance with the grant agreement, the sponsor or planning agency may apply for payment for all incurred costs, as follows:
 
-\(1\) *Airport development.* When allowability of costs can be determined under §152.203, payment may be made to the sponsor if—
+\(1\) *Airport development.* When allowability of costs can be determined under [[Volume 3/I Airports/0152 Airport aid program.md#§152.203   Allowable project costs.|§152.203]], payment may be made to the sponsor if—
 
 \(i\) A final inspection of all work at the airport site has been made jointly by the appropriate FAA office and representatives of the sponsor and the contractor, unless that office agrees to a different procedure for final inspection; and
 
@@ -882,7 +882,7 @@ The following assurances shall be included in each application for financial ass
 
 ### §152.407   Affirmative action plan: General.
 
-\(a\) Except as provided in paragraph (b) of this section, each of the following shal[[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|14 CFR 152.409]]rmative action plan that meets the requirements of §152.409 and is kept on file for review by the FAA Office of Civil Rights:
+\(a\) Except as provided in paragraph (b) of this section, each of the following shall have an affirmative action plan that meets the requirements of [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]] and is kept on file for review by the FAA Office of Civil Rights:
 
 \(1\) Each sponsor who employs 50 or more employees in its aviation workforce.
 
@@ -894,13 +894,13 @@ The following assurances shall be included in each application for financial ass
 
 \(1\) An affirmative action plan acceptable to another Federal agency.
 
-\(2\) An affirmative action plan for a State or local agency that the covered organization certifies meets the standards in §152.409.
+\(2\) An affirmative action plan for a State or local agency that the covered organization certifies meets the standards in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]].
 
-\(3\) A conciliation agreement, consent decree, or court order which provides short and long-range goals for equal employment opportunity similar to those which would be established in an affirmative action plan meeting the standards in §152.409.
+\(3\) A conciliation agreement, consent decree, or court order which provides short and long-range goals for equal employment opportunity similar to those which would be established in an affirmative action plan meeting the standards in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]].
 
-\(c\) Each sponsor shall require each aviation related activity (other than construction contractors) which employs 50 or more employees on the airport to prepare, and keep on file for review by the FAA Office of Civil Rights, an affirmative action plan developed in accordance with the standards in §152.409, unless the activity is subject to one of the mechanisms described in paragraphs (b) (1) through (3) of this section.
+\(c\) Each sponsor shall require each aviation related activity (other than construction contractors) which employs 50 or more employees on the airport to prepare, and keep on file for review by the FAA Office of Civil Rights, an affirmative action plan developed in accordance with the standards in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]], unless the activity is subject to one of the mechanisms described in paragraphs (b) (1) through (3) of this section.
 
-\(d\) Each sponsor shall require each aviation related activity described in paragraph (c) of this section to similarly require each of its covered suborganizations (other than construction contractors) which employs 50 or more employees on the airport to prepare, and to keep on file for review by the FAA Office of Civil Rights, an affirmative action plan developed in accordance with the standards in §152.409, unless the suborganization is subject to one of the mechanisms described in paragraphs (b) (1) through (3) of this section.
+\(d\) Each sponsor shall require each aviation related activity described in paragraph (c) of this section to similarly require each of its covered suborganizations (other than construction contractors) which employs 50 or more employees on the airport to prepare, and to keep on file for review by the FAA Office of Civil Rights, an affirmative action plan developed in accordance with the standards in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]], unless the suborganization is subject to one of the mechanisms described in paragraphs (b) (1) through (3) of this section.
 
 ### §152.409   Affirmative action plan standards.
 
@@ -962,17 +962,17 @@ The following assurances shall be included in each application for financial ass
 
 ### §152.411   Affirmative action steps.
 
-\(a\) Each grantee which is not described in §152.407(a) and is not subject to an affirmative action plan, regulatory goals and timetables, or other mechanism providing for short and long-range goals for equal employment opportunity, shall make good faith efforts to recruit and hire minorities and women for its aviation workforce as vacancies occur, by taking the affirmative action steps in §152.409(b)(3), as follows:
+\(a\) Each grantee which is not described in [[Volume 3/I Airports/0152 Airport aid program.md#§152.407   Affirmative action plan: General.|§152.407]](a) and is not subject to an affirmative action plan, regulatory goals and timetables, or other mechanism providing for short and long-range goals for equal employment opportunity, shall make good faith efforts to recruit and hire minorities and women for its aviation workforce as vacancies occur, by taking the affirmative action steps in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]](b)(3), as follows:
 
-\(1\) If it has 15 or more employees in its aviation workforce or employed for aviation purposes, by taking the affirmative action steps in §152.409(b)(3), as appropriate; or
+\(1\) If it has 15 or more employees in its aviation workforce or employed for aviation purposes, by taking the affirmative action steps in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]](b)(3), as appropriate; or
 
-\(2\) If it has less than 15 employees in its aviation workforce or employed for aviation purposes, by taking the affirmative action steps in §152.409(b)(3) (i) and (ii), as appropriate.
+\(2\) If it has less than 15 employees in its aviation workforce or employed for aviation purposes, by taking the affirmative action steps in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]](b)(3) (i) and (ii), as appropriate.
 
 \(b\) Except as provided in paragraph (c) of this section, each sponsor shall require each of its aviation related activities on its airport, that is not subject to an affirmative action plan, regulatory goals and timetables, or other mechanism which provides short and long-range goals for equal employment opportunity, to take affirmative action steps and cause them to similarly require affirmative action steps of their covered suborganizations, as follows:
 
-\(1\) Each aviation related activity or covered suborganization with less than 50 but more than 14 employees, must take the affirmative action steps enumerated in §152.409(b)(3), as appropriate.
+\(1\) Each aviation related activity or covered suborganization with less than 50 but more than 14 employees, must take the affirmative action steps enumerated in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]](b)(3), as appropriate.
 
-\(2\) Each aviation related activity or covered suborganization with less than 15 employees, must take the affirmative action steps enumerated in §152.409(b)(3) (i) and (ii), as appropriate.
+\(2\) Each aviation related activity or covered suborganization with less than 15 employees, must take the affirmative action steps enumerated in [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]](b)(3) (i) and (ii), as appropriate.
 
 \(c\) Each sponsor shall require each construction contractor, that has a contract of \$10,000 or more on its airport and that is not subject to an affirmative action plan, regulatory goals or timetables, or other mechanism which provides short and long-range goals for equal employment opportunity, to take the following affirmative action steps:
 
@@ -1014,7 +1014,7 @@ Each grantee shall give adequate notice to employees and applicants for employme
 
 \(b\) Each sponsor shall require its covered organizations to keep on file, for the period set forth in paragraph (a) of this section, reports (other than those submitted to the FAA), records, and affirmative action plans, if applicable, that will enable the FAA Office of Civil Rights to ascertain if there has been and is compliance with this subpart, and shall cause them to require their covered suborganizations to keep similar records as applicable.
 
-\(c\) Each grantee, employing 15 or more person, shall annually submit to the FAA a compliance report on a form provided by the FAA and a statistical report on a Form EEO-1 of the Equal Employment Opportunity Commission (EEOC) or any superseding EEOC form. If a grantee already is submitting a Form EEO-1 to another agency, the grantee may submit a copy of that form to the FAA as its statistical report. The information provided shall include goals and timetables, if established in compliance with the requirements of §152.409 or with the requirements of another Federal agency or a State or local agency.
+\(c\) Each grantee, employing 15 or more person, shall annually submit to the FAA a compliance report on a form provided by the FAA and a statistical report on a Form EEO-1 of the Equal Employment Opportunity Commission (EEOC) or any superseding EEOC form. If a grantee already is submitting a Form EEO-1 to another agency, the grantee may submit a copy of that form to the FAA as its statistical report. The information provided shall include goals and timetables, if established in compliance with the requirements of [[Volume 3/I Airports/0152 Airport aid program.md#§152.409   Affirmative action plan standards.|§152.409]] or with the requirements of another Federal agency or a State or local agency.
 
 \(d\) Each sponsor shall—
 
@@ -1030,7 +1030,7 @@ Each grantee shall give adequate notice to employees and applicants for employme
 
 ### §152.417   Monitoring employment.
 
-\(a\) Each grantee shall allow the FAA Office of Civil Rights to monitor its equal employment opportunity compliance with this subpart through on-site reviews and desk audits. Reviews or audits will include the records submitted under §152.415.
+\(a\) Each grantee shall allow the FAA Office of Civil Rights to monitor its equal employment opportunity compliance with this subpart through on-site reviews and desk audits. Reviews or audits will include the records submitted under [[Volume 3/I Airports/0152 Airport aid program.md#§152.415   Records and reports.|§152.415]].
 
 \(b\) As it deems necessary, the FAA Office of Civil Rights will conduct on-site or desk audits of covered aviation related activities on airports.
 
@@ -1046,7 +1046,7 @@ Requirements relating to the provision of public accommodations, services, and o
 
 \(a\) *Complaints.* Any person who believes that he or she has been subjected to discrimination prohibited by this subpart may personally, or through a representative, file a complaint with the Director of the Departmental Office of Civil Rights. A complaint must be in writing and filed not later than 180 days after the date of the alleged discrimination, unless the time for filing is extended by the Director.
 
-\(b\) *Investigations and informal resolutions.* The Departmental Office of Civil Rights will make a prompt investigation whenever a complaint, compliance review, report, or any other information indicates a possible failure to comply with this subpart. The procedures in 49 CFR part 21, augmented as appropriate by the investigative procedures of part 13 of this chapter, will be followed, except that—
+\(b\) *Investigations and informal resolutions.* The Departmental Office of Civil Rights will make a prompt investigation whenever a complaint, compliance review, report, or any other information indicates a possible failure to comply with this subpart. The procedures in 49 CFR part 21, augmented as appropriate by the investigative procedures of [[Volume 1/B Procedural rules/0013 Investigative and enforcement procedures.md|part 13 of this chapter]], will be followed, except that—
 
 \(1\) Compliance with a regulation of the Department applicable to minority business enterprise will be investigated and enforced through the procedures contained in that regulation; and
 
@@ -1264,7 +1264,7 @@ A sponsor who is required to include in a construction contract the labor provis
 
 \[Doc. No. 19430, 45 FR 34793, May 22, 1980\]
 
-### Appendix B to Part 152—List of Advisory Circulars Incorporated by §152.11
+### Appendix B to Part 152—List of Advisory Circulars Incorporated by [[Volume 3/I Airports/0152 Airport aid program.md#§152.11   Incorporation by reference.|§152.11]]
 
 \(a\) *Circulars available free of charge.*
 
@@ -1424,7 +1424,7 @@ There is set forth below procurement procedures and requirements applicable to g
 
 a\. The sponsor has furnished three conformed copies of the contract to the appropriate FAA office;
 
-b\. The sponsor has, if applicable, submitted a statement that comparable replacement housing, as defined in §25.15 of the Regulations of the Office of the Secretary of Transportation, will be available within a reasonable period of time before displacement.
+b\. The sponsor has, if applicable, submitted a statement that comparable replacement housing, as defined in [[Volume 1/C Aircraft/0025 Airworthiness standards  transport category airplanes.md#§25.1501   General.|§25.15]] of the Regulations of the Office of the Secretary of Transportation, will be available within a reasonable period of time before displacement.
 
 c\. The appropriate FAA office has agreed to the issuance of a notice to proceed with the work to the contractor.
 
@@ -1434,7 +1434,7 @@ c\. The appropriate FAA office has agreed to the issuance of a notice to proceed
 
 9\. *Advertising general.* Unless the Administrator approves another method for use on a particular airport development project, each contract and supplemental agreement for construction work on a project in the amount of more than \$10,000 must be awarded on the basis of public advertising and open competitive bidding under the local law applicable to the letting of public contracts.
 
-10\. *Advertising: conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract or supplemental agreement until the Administrator has either approved the plans and specifications or accepted a certification in accordance with §152.7 that they meet all applicable standards prescribed by this part. The advertisement shall inform the bidders of the equal employment opportunity requirements of part 152. Unless the estimated contract price or construction cost in \$2,000 or less, there may be no advertisement for bids or negotiations until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision, including fringe benefits, must be set forth in the initial invitation for bids or proposed contract, or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
+10\. *Advertising: conditions and contents.* There may be no advertisement for bids on, or negotiation of, a construction contract or supplemental agreement until the Administrator has either approved the plans and specifications or accepted a certification in accordance with [[Volume 3/I Airports/0152 Airport aid program.md#§152.7   Certifications.|§152.7]] that they meet all applicable standards prescribed by this part. The advertisement shall inform the bidders of the equal employment opportunity requirements of part 152. Unless the estimated contract price or construction cost in \$2,000 or less, there may be no advertisement for bids or negotiations until the Administrator has given the sponsor a copy of a decision of the Secretary of Labor establishing the minimum wage rates for skilled and unskilled labor under the proposed contract. In each case, a copy of the wage determination decision, including fringe benefits, must be set forth in the initial invitation for bids or proposed contract, or incorporated therein by reference to a copy set forth in the advertised or negotiated specifications.
 
 11\. *Procedures for obtaining wage determinations.* (a) *Specific request for wage determination.* At least 60 days before the intended date of advertising or negotiating of this section, the sponsor shall send to the appropriate FAA office, completed Department of Labor Form DB-11 or DB-11(a), as appropriate, with only the classifications needed in the performance of the work checked. General entries (such as “entire schedule” or “all applicable classifications”) may not be used. Additional necessary classifications not on the form may be typed in the blank spaces or on an attached separate list. A classification that can be fitted into classifications on the form, or a classification that is not generally recognized in the area or in the industry, may not be used. Except in areas where the wage patterns are clearly established, the Form must be accompanied by any available pertinent wage payment or locally prevailing fringe benefit information.
 
@@ -1496,7 +1496,7 @@ c\. The appropriate FAA office has agreed to the issuance of a notice to proceed
 
 ### Appendix D to Part 152—Assurances
 
-There is set forth below the assurances that the sponsor or planning agency must submit with its application in accordance with §§152.111 or 152.113, as applicable.
+There is set forth below the assurances that the sponsor or planning agency must submit with its application in accordance with §[[Volume 3/I Airports/0152 Airport aid program.md#§152.111   Application requirements: Airport development.|§152.111]] or 152.113, as applicable.
 
 ### I. General Assurance
 

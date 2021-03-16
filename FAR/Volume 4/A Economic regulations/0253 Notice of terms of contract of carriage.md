@@ -38,7 +38,7 @@ This part applies to all scheduled direct air carrier operations in interstate a
 
 ### §253.5   Notice of incorporated terms.
 
-Except as provided in §253.8, each air carrier shall include on or with a ticket, or other written instrument given to a passenger, that embodies the contract of carriage and incorporates terms by reference in that contract, a conspicuous notice that:
+Except as provided in [[Volume 4/A Economic regulations/0253 Notice of terms of contract of carriage.md#§253.8   Qualifications to notice requirements.|§253.8]], each air carrier shall include on or with a ticket, or other written instrument given to a passenger, that embodies the contract of carriage and incorporates terms by reference in that contract, a conspicuous notice that:
 
 \(a\) Any terms incorporated by reference are part of the contract, passengers may inspect the full text of each term incorporated by reference at the carrier's airport or city ticket offices, and passengers have the right, upon request at any location where the carrier's tickets are sold within the United States, to receive free of charge by mail or other delivery service the full text of each such incorporated term;
 
@@ -48,7 +48,7 @@ Except as provided in §253.8, each air carrier shall include on or with a ticke
 
 \(2\) Claim restrictions, including time periods within which passengers must file a claim or bring an action against the carrier for its acts or omissions or those of its agents;
 
-\(3\) Rights of the carrier to change terms of the contract. (Rights to change the price, however, are governed by §253.7);
+\(3\) Rights of the carrier to change terms of the contract. (Rights to change the price, however, are governed by [[Volume 4/A Economic regulations/0253 Notice of terms of contract of carriage.md#§253.7   Direct notice of certain terms.|§253.7]]);
 
 \(4\) Rules about reconfirmation of reservations, check-in times, and refusal to carry;
 
@@ -60,7 +60,7 @@ Except as provided in §253.8, each air carrier shall include on or with a ticke
 
 ### §253.6   Explanation of incorporated terms.
 
-Each air carrier shall ensure that any passenger can obtain from any location where its tickets are sold within the United States a concise and immediate explanation of any terms incorporated by reference, concerning the subjects listed in §253.5(b).
+Each air carrier shall ensure that any passenger can obtain from any location where its tickets are sold within the United States a concise and immediate explanation of any terms incorporated by reference, concerning the subjects listed in [[Volume 4/A Economic regulations/0253 Notice of terms of contract of carriage.md#§253.5   Notice of incorporated terms.|§253.5]](b).
 
 (Approved by the Office of Management and Budget under control number 3024-0061)
 
@@ -68,15 +68,15 @@ Each air carrier shall ensure that any passenger can obtain from any location wh
 
 ### §253.7   Direct notice of certain terms.
 
-A carrier may not impose any terms restricting refunds of the ticket price, imposing monetary penalties on passengers, or raising the ticket price consistent with §399.88 of the chapter, unless the passenger receives conspicuous written notice of the salient features of those terms on or with the ticket.
+A carrier may not impose any terms restricting refunds of the ticket price, imposing monetary penalties on passengers, or raising the ticket price consistent with [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.88   Prohibition on post-purchase price increase.|§399.88]] of the chapter, unless the passenger receives conspicuous written notice of the salient features of those terms on or with the ticket.
 
 \[Doc. No. DOT-OST-2010-0140, 76 FR 23163, Apr. 25, 2011, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15932, Apr. 16, 2019\]
 
 ### §253.8   Qualifications to notice requirements.
 
-\(a\) If notice is not provided in accordance with §253.5 at a ticket sales location outside of the United States that is not a U.S. air carrier ticket office, the price paid for the portion of such ticket that is for interstate and overseas air transportation shall be refundable without penalty if the passenger refuses transportation by the carrier. Each air carrier shall ensure that passengers who have bought tickets at those locations without the notice required in §253.5 are given that notice not later than check-in for the travel in interstate or overseas air transportation, and that conspicuous notice is included on or with the ticket stating that the price for that travel is refundable without penalty.
+\(a\) If notice is not provided in accordance with [[Volume 4/A Economic regulations/0253 Notice of terms of contract of carriage.md#§253.5   Notice of incorporated terms.|§253.5]] at a ticket sales location outside of the United States that is not a U.S. air carrier ticket office, the price paid for the portion of such ticket that is for interstate and overseas air transportation shall be refundable without penalty if the passenger refuses transportation by the carrier. Each air carrier shall ensure that passengers who have bought tickets at those locations without the notice required in [[Volume 4/A Economic regulations/0253 Notice of terms of contract of carriage.md#§253.5   Notice of incorporated terms.|§253.5]] are given that notice not later than check-in for the travel in interstate or overseas air transportation, and that conspicuous notice is included on or with the ticket stating that the price for that travel is refundable without penalty.
 
-\(b\) An air taxi operator (including a commuter air carrier) not operating under subpart I of part 298 of this chapter shall not be considered to have incorporated terms by reference into its contract of carriage merely because a passenger has purchased a flight segment on that carrier that appears on ticket stock that contains a statement that terms have been incorporated by reference. However, such an air taxi operator may not claim the benefit as against the passenger of, and the passenger shall not be bound by, any contract term incorporated by reference if notice of the term has not been provided to the passenger in accordance with this part.
+\(b\) An air taxi operator (including a commuter air carrier) not operating under subpart I of [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md|part 298 of this chapter]] shall not be considered to have incorporated terms by reference into its contract of carriage merely because a passenger has purchased a flight segment on that carrier that appears on ticket stock that contains a statement that terms have been incorporated by reference. However, such an air taxi operator may not claim the benefit as against the passenger of, and the passenger shall not be bound by, any contract term incorporated by reference if notice of the term has not been provided to the passenger in accordance with this part.
 
 \[ER-1370, 48 FR 54591, Dec. 6, 1983\]
 

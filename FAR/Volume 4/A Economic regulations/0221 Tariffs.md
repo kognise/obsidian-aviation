@@ -34,7 +34,7 @@ All tariffs and amendments to tariffs of air carriers and foreign air carriers f
 
 \(3\) Part 297, Foreign Air Freight Forwarders and Foreign Cooperative Shippers Association;
 
-\(4\) Part 298, Exemption for Air Taxi Operations, except to the extent noted in §298.11(b);
+\(4\) Part 298, Exemption for Air Taxi Operations, except to the extent noted in [[Volume 4/A Economic regulations/0298 Exemptions for air taxi and commuter air carrier operations.md#§298.11   Exemption authority.|§298.11]](b);
 
 \(5\) Part 380, Public Charters;
 
@@ -116,9 +116,9 @@ As used in this part, terms shall be defined as follows:
 
 *SFFL* means the Standard Foreign Fare Level as established by the Department of Transportation under 49 U.S.C. 41509.
 
-*Statutory notice* means the number of days required for tariff filings in §221.160(a).
+*Statutory notice* means the number of days required for tariff filings in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.160   Adoption notice.|§221.160]](a).
 
-*Tariff publication* means a tariff, a supplement to a tariff, or an original or revised record of a tariff, including an index of tariffs and an adoption notice (§221.161).
+*Tariff publication* means a tariff, a supplement to a tariff, or an original or revised record of a tariff, including an index of tariffs and an adoption notice ([[Volume 4/A Economic regulations/0221 Tariffs.md#§221.161   Notice of adoption to be filed in former carrier's tariffs.|§221.161]]).
 
 *Through fare* means the total fare from point of origin to destination. It may be a local fare, a joint fare, or combination of separately established fares.
 
@@ -148,7 +148,7 @@ Tariff publications shall not contain fares or charges, or their governing provi
 
 \(1\) Local fares of such carrier only, and provisions governing such local fares, and/or
 
-\(2\) Joint fares which apply jointly via such issuing carrier in connection with other carriers (participating in the tariff publications under authority of their concurrences given to the issuing carrier as provided in §221.140) and provisions governing such joint fares. Provisions for account of an individual participating carrier may be published to govern such joint fares provided §221.40(a)(9) is complied with. A carrier shall not issue and file tariff publications containing local fares of other carriers, joint rates or fares in which the issuing carrier does not participate, or provisions governing such local or joint fares.
+\(2\) Joint fares which apply jointly via such issuing carrier in connection with other carriers (participating in the tariff publications under authority of their concurrences given to the issuing carrier as provided in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.140   Method of giving concurrence.|§221.140]]) and provisions governing such joint fares. Provisions for account of an individual participating carrier may be published to govern such joint fares provided [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.40   Specific requirements.|§221.40]](a)(9) is complied with. A carrier shall not issue and file tariff publications containing local fares of other carriers, joint rates or fares in which the issuing carrier does not participate, or provisions governing such local or joint fares.
 
 \(3\) Rules and regulations governing foreign air transportation to the extent provided by this part and/or Department order. Rules and regulations may be published in separate governing tariffs, as provided in subpart G.
 
@@ -156,7 +156,7 @@ Tariff publications shall not contain fares or charges, or their governing provi
 
 ### §221.11   Agent.
 
-An agent may issue and file, in his or its own name, tariff publications naming local fares and/or joint fares, and provisions governing such fares, and rules and regulations governing foreign air transportation to the extent provided by this part and/or Department order, for account of carriers participating in such tariff publications, under authority of their powers of attorney given to such issuing agent as provided in §221.150. The issuing agent shall file such tariff publications with the Department on behalf of all carriers participating therein. Only one issuing agent may act in issuing and filing each such tariff publication.
+An agent may issue and file, in his or its own name, tariff publications naming local fares and/or joint fares, and provisions governing such fares, and rules and regulations governing foreign air transportation to the extent provided by this part and/or Department order, for account of carriers participating in such tariff publications, under authority of their powers of attorney given to such issuing agent as provided in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.150   Method of giving power of attorney.|§221.150]]. The issuing agent shall file such tariff publications with the Department on behalf of all carriers participating therein. Only one issuing agent may act in issuing and filing each such tariff publication.
 
 ## Subpart C—Specifications of Tariff Publications
 
@@ -206,15 +206,15 @@ An agent may issue and file, in his or its own name, tariff publications naming 
 
 ### §221.30   Passenger fares and charges.
 
-\(a\) Fares tariffs, including associated data, shall be filed electronically in conformity with subpart R. Associated data includes arbitraries, footnotes, routing numbers and fare class explanations. See §221.202(b)(8).
+\(a\) Fares tariffs, including associated data, shall be filed electronically in conformity with subpart R. Associated data includes arbitraries, footnotes, routing numbers and fare class explanations. See [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]](b)(8).
 
-\(b\) Upon application by a carrier, the Department's Office of International Aviation shall have the authority to waive the electronic filing requirement in this paragraph and in Subpart R in whole or in part, for a period up to one year, and to permit, under such terms and conditions as may be necessary to carry out the purposes of this part, the applicant carrier to file fare tariffs in a paper format. Such waivers shall only be considered where electronic filing, compared to paper filing, is impractical and will produce a significant economic hardship for the carrier due to the limited nature of the carrier's operations subject to the requirements of this part, or other unusual circumstances. Paper filings pursuant to this paragraph shall normally conform to the requirements of §221.195 and other applicable requirements of this part.
+\(b\) Upon application by a carrier, the Department's Office of International Aviation shall have the authority to waive the electronic filing requirement in this paragraph and in Subpart R in whole or in part, for a period up to one year, and to permit, under such terms and conditions as may be necessary to carry out the purposes of this part, the applicant carrier to file fare tariffs in a paper format. Such waivers shall only be considered where electronic filing, compared to paper filing, is impractical and will produce a significant economic hardship for the carrier due to the limited nature of the carrier's operations subject to the requirements of this part, or other unusual circumstances. Paper filings pursuant to this paragraph shall normally conform to the requirements of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.195   Requirement for filing printed material.|§221.195]] and other applicable requirements of this part.
 
 ### §221.31   Rules and regulations governing passenger fares and services.
 
-\(a\) Tariff rules and regulations governing passenger fares and services other than those subject to §221.30 may be filed electronically in conformity with subpart R. Such filings shall conform to criteria approved by the Department's Office of International Aviation as provided in §221.180 and shall contain at a minimum the information required by §221.202(b)(9).
+\(a\) Tariff rules and regulations governing passenger fares and services other than those subject to [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.30   Passenger fares and charges.|§221.30]] may be filed electronically in conformity with subpart R. Such filings shall conform to criteria approved by the Department's Office of International Aviation as provided in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.180   Requirements for electronic filing of tariffs.|§221.180]] and shall contain at a minimum the information required by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]](b)(9).
 
-\(b\) Applications for special tariff permission may be filed electronically, as provided in §221.212.
+\(b\) Applications for special tariff permission may be filed electronically, as provided in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.212   Special tariff permission.|§221.212]].
 
 \(c\) Tariff publications and applications for special tariff permission covered by paragraphs (a) and (b) of this section may be filed in a paper format, subject to the requirements of this part and Department orders.
 
@@ -222,7 +222,7 @@ An agent may issue and file, in his or its own name, tariff publications naming 
 
 ### §221.40   Specific requirements.
 
-\(a\) In addition to the general requirements in §221.20, the rules and regulations of each tariff shall contain:
+\(a\) In addition to the general requirements in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.20   Specifications applicable to tariff publications.|§221.20]], the rules and regulations of each tariff shall contain:
 
 \(1\) *Aircraft and seating.* For individually ticketed passenger service, the name of each type of aircraft used in rendering such service by manufacturer model designation and a description of the seating configuration (or configurations if there are variations) of each type of aircraft. Where fares are provided for different classes or types of passenger service (that is, first class, coach, day coach, night coach, tourist, economy or whatever other class or type of service is provided under the tariff), the tariff shall specify the type of aircraft and the seating configuration used on such aircraft for each class or type of passenger service. When two or more classes or types of passenger service are performed in a single aircraft, the seating configuration for each type or class shall be stated and described.
 
@@ -316,7 +316,7 @@ Where no applicable local or joint fare is provided from point of origin to poin
 
 \(a\) *Reference to other tariffs prohibited except as authorized.* A tariff shall not refer to nor provide that it is governed by any other tariff, document, or publication, or any part thereof, except as specifically authorized by this part.
 
-\(b\) *Reference by fare tariff to governing tariffs.* A fare tariff may be made subject to a governing tariff or governing tariffs authorized by this subpart: Provided, that reference to such governing tariffs is published in the fare tariff in the manner required by §221.20(h).
+\(b\) *Reference by fare tariff to governing tariffs.* A fare tariff may be made subject to a governing tariff or governing tariffs authorized by this subpart: Provided, that reference to such governing tariffs is published in the fare tariff in the manner required by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.20   Specifications applicable to tariff publications.|§221.20]](h).
 
 \(c\) *Participation in governing tariffs.* A fare tariff may refer to a separate governing tariff authorized by this subpart only when all carriers participating in such fare tariff are also shown as participating carriers in the governing tariff: Provided, that:
 
@@ -328,11 +328,11 @@ Where no applicable local or joint fare is provided from point of origin to poin
 
 ### §221.61   Rules and regulations governing foreign air transportation.
 
-Instead of being included in the fares tariffs, the rules and regulations governing foreign air transportation required to be filed by §§221.20 and 221.30 and/or Department order which do not govern the applicability of particular fares may be filed in separate governing tariffs, conforming to this subpart. Governing rules tariffs shall contain an index of rules.
+Instead of being included in the fares tariffs, the rules and regulations governing foreign air transportation required to be filed by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.20   Specifications applicable to tariff publications.|§221.20]] and 221.30 and/or Department order which do not govern the applicability of particular fares may be filed in separate governing tariffs, conforming to this subpart. Governing rules tariffs shall contain an index of rules.
 
 ### §221.62   Explosives and other dangerous or restricted articles.
 
-Carriers may publish rules and regulations governing the transportation of explosives and other dangerous or restricted articles in separate governing tariffs, conforming to this subpart, instead of being included in the fares tariffs or in the governing rules tariff authorized by §221.61. This separate governing tariff shall contain no other rules or governing provisions.
+Carriers may publish rules and regulations governing the transportation of explosives and other dangerous or restricted articles in separate governing tariffs, conforming to this subpart, instead of being included in the fares tariffs or in the governing rules tariff authorized by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.61   Rules and regulations governing foreign air transportation.|§221.61]]. This separate governing tariff shall contain no other rules or governing provisions.
 
 ### §221.63   Other types of governing tariffs.
 
@@ -346,7 +346,7 @@ A tariff shall be amended only by the carrier or agent who issued the tariff (ex
 
 ### §221.71   Requirement of clarity and specificity.
 
-Amendments to tariffs shall identify with specificity and clarity the material being amended and the changes being made. Amendments to paper tariffs shall be accomplished by reissuing each page upon which a change occurs with the change made and identified by uniform amendment symbols. Each revised page shall identify and cancel the previously effective page, show the effective date of the previous page, and show the intended effective date of the revised page. Amendments in electronic format shall conform to the requirements of §221.202 and other applicable provisions of subpart R.
+Amendments to tariffs shall identify with specificity and clarity the material being amended and the changes being made. Amendments to paper tariffs shall be accomplished by reissuing each page upon which a change occurs with the change made and identified by uniform amendment symbols. Each revised page shall identify and cancel the previously effective page, show the effective date of the previous page, and show the intended effective date of the revised page. Amendments in electronic format shall conform to the requirements of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]] and other applicable provisions of subpart R.
 
 ### §221.72   Reinstating canceled or expired tariff provisions.
 
@@ -404,7 +404,7 @@ When tariff provisions continued in effect by a suspension are reissued during t
 
 \(1\) At least 30 days before they are to become effective, for tariffs stating a passenger fare within the zone created by section 41509(e) of 49 U.S.C. Subtitle VII or stating a rule that affects only such a fare;
 
-\(2\) At least 25 days before they are to become effective, for matching tariffs that are to become effective on the same date as the tariff to be matched and that meet competition as described in §221.94(c)(1)(v); and
+\(2\) At least 25 days before they are to become effective, for matching tariffs that are to become effective on the same date as the tariff to be matched and that meet competition as described in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.94   Explanation and data supporting tariff changes and new matter in tariffs.|§221.94]](c)(1)(v); and
 
 \(3\) At least 60 days before they are to become effective, for all other tariffs.
 
@@ -466,7 +466,7 @@ Carriers must make tariff information available to the general public, and in so
 
 \(a\) Each carrier shall make available for public inspection at each of its stations, offices, or other locations at which tickets for passenger transportation are sold and which is in charge of a person employed exclusively by the carrier, or by it jointly with another person, all tariffs applicable to passenger traffic from or to the point where such station, office, or location is situated, including tariffs covering any terminal services, charges, or practices whatsoever, which apply to passenger traffic from or to such point.
 
-\(b\) A carrier will be deemed to have complied with the requirement that it “post” tariffs, if it maintains at each station, office, or location a file in complete form of all tariffs required to be posted; and in the case of tariffs involving passenger fares, rules, charges or practices, notice to the passenger as required in §221.105.
+\(b\) A carrier will be deemed to have complied with the requirement that it “post” tariffs, if it maintains at each station, office, or location a file in complete form of all tariffs required to be posted; and in the case of tariffs involving passenger fares, rules, charges or practices, notice to the passenger as required in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.105   Special notice of limited liability under international treaty.|§221.105]].
 
 \(c\) Tariffs shall be posted by each carrier party thereto no later than the filed date designated thereon except that in the case of carrier stations, offices or locations situated outside the United States, its territories and possessions, the time shall be not later than five days after the filed date, and except that a tariff which the Department has authorized to be filed on shorter notice shall be posted by the carrier on like notice as authorized for filing.
 
@@ -550,7 +550,7 @@ In addition, a file of all tariffs of this company, with indexes thereof, from w
 
 \(2\) The incorporated terms may include, among others, the terms shown in paragraphs (b)(2) (i) through (iv) of this section. Passengers may obtain a concise and immediate explanation of the terms shown in paragraphs (b)(2) (i) through (iv) of this section from any location where the carrier's tickets are sold.
 
-\(i\) Limits on the carrier's liability for personal injury or death of passengers (subject to §221.105), and for loss, damage, or delay of goods and baggage, including fragile or perishable goods.
+\(i\) Limits on the carrier's liability for personal injury or death of passengers (subject to [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.105   Special notice of limited liability under international treaty.|§221.105]]), and for loss, damage, or delay of goods and baggage, including fragile or perishable goods.
 
 \(ii\) Claim restrictions, including time periods within which passengers must file a claim or bring an action against the carrier for its acts or omissions or those of its agents.
 
@@ -566,7 +566,7 @@ In addition, a file of all tariffs of this company, with indexes thereof, from w
 
 \(a\) Each carrier required to file tariffs in accordance with this part shall make available to any person so requesting a subscription service as described in paragraph (b) of this section for its passenger tariffs issued by it or by a publishing agent on its behalf.
 
-\(b\) Under the required subscription service one copy of each new tariff publication, including the justification required by §221.94, must be transmitted to each subscriber thereto by first-class mail (or other equivalent means agreed upon by the subscriber) not later than one day following the time the copies for official filing are transmitted to the Department. The subscription service described in this section shall not preclude the offering of additional types of subscription services by carriers or their agents.
+\(b\) Under the required subscription service one copy of each new tariff publication, including the justification required by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.94   Explanation and data supporting tariff changes and new matter in tariffs.|§221.94]], must be transmitted to each subscriber thereto by first-class mail (or other equivalent means agreed upon by the subscriber) not later than one day following the time the copies for official filing are transmitted to the Department. The subscription service described in this section shall not preclude the offering of additional types of subscription services by carriers or their agents.
 
 \(c\) The carriers or their publishing agents at their option may establish a charge for providing the required subscription service to subscribers: Provided, That the charge may not exceed a reasonable estimate of the added cost of providing the service.
 
@@ -598,15 +598,15 @@ A tariff rejected by the Department is void and is without any force or effect w
 
 \(3\) *Newly authorized transportation.* The fact that the Department has newly authorized a carrier to perform foreign air transportation constitutes grounds for approving applications for Special Tariff Permission to file on less than statutory notice the fares, rates, and other tariff provisions covering such newly authorized transportation.
 
-\(4\) The fact that a passenger fare is within a statutory or Department-established zone of fare flexibility constitutes grounds for approving an application for Special Tariff Permission to file a tariff stating that fare and any rules affecting them exclusively, on less than statutory notice. The Department's policy on approving such applications is set forth in §399.35 of this chapter.
+\(4\) The fact that a passenger fare is within a statutory or Department-established zone of fare flexibility constitutes grounds for approving an application for Special Tariff Permission to file a tariff stating that fare and any rules affecting them exclusively, on less than statutory notice. The Department's policy on approving such applications is set forth in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.35   Special tariff permission.|§399.35]] of this chapter.
 
-\(5\) *Lowered fares and charges.* The prospective lowering of fares or charges to the traveling public constitutes grounds for approving an application for Special Tariff Permission to file on less than statutory notice a tariff stating the lowered fares or charges and any rules affecting them exclusively. However, the Department will not approve the application if the proposed tariff raises significant questions of lawfulness, as set forth in §399.35 of this chapter.
+\(5\) *Lowered fares and charges.* The prospective lowering of fares or charges to the traveling public constitutes grounds for approving an application for Special Tariff Permission to file on less than statutory notice a tariff stating the lowered fares or charges and any rules affecting them exclusively. However, the Department will not approve the application if the proposed tariff raises significant questions of lawfulness, as set forth in [[Volume 4/F Policy statements/0399 Statements of general policy.md#§399.35   Special tariff permission.|§399.35]] of this chapter.
 
 \(c\) *Filing notice required by formal order.* When a formal order of the Department requires the filing of tariff matter on a stated number of days' notice, an application for Special Tariff Permission to file on less notice will not be approved. In any such instance a petition for modification of the order should be filed in the formal docket.
 
 ### §221.121   How to prepare and file applications for Special Tariff Permission.
 
-\(a\) *Form.* Each application for Special Tariff Permission to file a tariff on less than statutory notice shall conform to the requirements of §221.212 if filed electronically.
+\(a\) *Form.* Each application for Special Tariff Permission to file a tariff on less than statutory notice shall conform to the requirements of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.212   Special tariff permission.|§221.212]] if filed electronically.
 
 \(b\) *Number of paper copies and place of filing.* For paper format applications, the original and one copy of each such application for Special Tariff Permission, including all exhibits thereto and amendments thereof, shall be sent to the Office of International Aviation, Department of Transportation, Washington, DC 20590.
 
@@ -622,7 +622,7 @@ A tariff rejected by the Department is void and is without any force or effect w
 
 ### §221.122   Special Tariff Permission to be used in its entirety as granted.
 
-Each Special Tariff Permission to file fares, or other tariff provisions on less than statutory notice shall be used in its entirety as granted. If it is not desired to use the permission as granted, and lesser or more extensive or different permission is desired, a new application for Special Tariff Permission conforming with §221.121 in all respects and referring to the previous permission shall be filed.
+Each Special Tariff Permission to file fares, or other tariff provisions on less than statutory notice shall be used in its entirety as granted. If it is not desired to use the permission as granted, and lesser or more extensive or different permission is desired, a new application for Special Tariff Permission conforming with [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.121   How to prepare and file applications for Special Tariff Permission.|§221.121]] in all respects and referring to the previous permission shall be filed.
 
 ### §221.123   Re-use of Special Tariff Permission when tariff is rejected.
 
@@ -702,15 +702,15 @@ If a carrier desires to issue a power of attorney conferring less authority than
 
 \(b\) The adoption notice shall be prepared, filed, and posted as a tariff. The adoption notice shall be issued and filed by the adopting carrier and not by an agent.
 
-\(c\) *Copies to be sent to agents and other carriers.* At the same time that the adoption notice is transmitted to the Department for filing, the adopting carrier shall send copies of such adoption notice to each agent and carrier to whom the former carrier has given a power of attorney or concurrence. (See §221.163.)
+\(c\) *Copies to be sent to agents and other carriers.* At the same time that the adoption notice is transmitted to the Department for filing, the adopting carrier shall send copies of such adoption notice to each agent and carrier to whom the former carrier has given a power of attorney or concurrence. (See [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.163   Agents' and other carriers' tariffs shall reflect adoption.|§221.163]].)
 
 ### §221.161   Notice of adoption to be filed in former carrier's tariffs.
 
-At the same time that the adoption notice is issued, posted, and filed pursuant to §221.160, the adopting carrier shall issue, post and file with the Department a notice in each effective tariff issued by the former carrier providing specific notice of the adoption in a manner authorized by the Office of International Aviation and which shall contain no matter other than that authorized.
+At the same time that the adoption notice is issued, posted, and filed pursuant to [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.160   Adoption notice.|§221.160]], the adopting carrier shall issue, post and file with the Department a notice in each effective tariff issued by the former carrier providing specific notice of the adoption in a manner authorized by the Office of International Aviation and which shall contain no matter other than that authorized.
 
 ### §221.162   Receiver shall file adoption notices.
 
-A receiver shall, immediately upon assuming control of a carrier, issue and file with the Department an adoption notices as prescribed by §§221.160 and 221.161 and shall comply with the requirements of this subpart.
+A receiver shall, immediately upon assuming control of a carrier, issue and file with the Department an adoption notices as prescribed by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.160   Adoption notice.|§221.160]] and 221.161 and shall comply with the requirements of this subpart.
 
 ### §221.163   Agents' and other carriers' tariffs shall reflect adoption.
 
@@ -724,9 +724,9 @@ If the former carrier is shown as a participating carrier under concurrence in t
 
 \(a\) Adopting carrier shall reissue adopted concurrences and powers of attorney. Within a period of 120 days after the date on which the change in name or transfer of operating control occurs, the adopting carrier shall reissue all effective powers of attorney and concurrences of the former carrier by issuing and filing new powers of attorney and concurrences, in the adopting carrier's name, which shall direct the cancellation of the respective powers of attorney and concurrences of the former carrier. The adopting carrier shall consecutively number its powers of attorney and concurrences in its own series of power of attorney numbers and concurrence numbers (commencing with No. 1 in each series if it had not previously filed any such instruments with the Department), except that a receiver or other fiduciary shall consecutively number its powers of attorney or concurrences in the series of the former carrier. The cancellation reference shall show that the canceled power of attorney or concurrence was issued by the former carrier.
 
-\(b\) If such new powers of attorney or concurrences confer less authority than the powers of attorney or concurrences which they are to supersede, the new issues shall not direct the cancellation of the former issues; in such instances, the provisions of §§221.142 and 221.152 shall be observed. Concurrences and powers of attorney which will not be replaced by new issues shall be revoked in the form and manner and upon the notice required by §§221.141 and 221.151.
+\(b\) If such new powers of attorney or concurrences confer less authority than the powers of attorney or concurrences which they are to supersede, the new issues shall not direct the cancellation of the former issues; in such instances, the provisions of §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.142   Method of withdrawing portion of authority conferred by concurrence.|§221.142]] and 221.152 shall be observed. Concurrences and powers of attorney which will not be replaced by new issues shall be revoked in the form and manner and upon the notice required by §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§221.141]] and 221.151.
 
-\(c\) *Reissue of other carriers' concurrences issued in favor of former carrier.* Each carrier which has given a concurrence to a carrier whose tariffs are subsequently adopted shall reissue the concurrence in favor of the adopting carrier. If the carrier which issued the concurrence to the former carrier desires to revoke it or desires to replace it with a concurrence conferring less authority, the provisions of §§221.141 and 221.142 shall be observed.
+\(c\) *Reissue of other carriers' concurrences issued in favor of former carrier.* Each carrier which has given a concurrence to a carrier whose tariffs are subsequently adopted shall reissue the concurrence in favor of the adopting carrier. If the carrier which issued the concurrence to the former carrier desires to revoke it or desires to replace it with a concurrence conferring less authority, the provisions of §[[Volume 4/A Economic regulations/0221 Tariffs.md#§221.141   Method of revoking concurrence.|§221.141]] and 221.142 shall be observed.
 
 ### §221.165   Cessation of operations without successor.
 
@@ -740,7 +740,7 @@ If a carrier ceases operations without having a successor, it shall:
 
 ### §221.170   Applicability of the subpart.
 
-\(a\) Every air carrier and foreign air carrier shall file its international passenger fares tariffs consistent with the provisions of this subpart, and part 221 generally. Additionally, any air carrier and any foreign air carrier may file its international passenger rules tariffs electronically in machine-readable form as an alternative to the filing of printed paper tariffs as provided for elsewhere in part 221. This subpart applies to all carriers and tariff publishing agents and may be used by either if the carrier or agent complies with the provisions of subpart R. Any carrier or agent that files electronically under this subpart must transmit to the Department the remainder of the tariff in a form consistent with part 221, Subparts A through Q, on the same day that the electronic tariff would be deemed received under §221.190(b).
+\(a\) Every air carrier and foreign air carrier shall file its international passenger fares tariffs consistent with the provisions of this subpart, and part 221 generally. Additionally, any air carrier and any foreign air carrier may file its international passenger rules tariffs electronically in machine-readable form as an alternative to the filing of printed paper tariffs as provided for elsewhere in part 221. This subpart applies to all carriers and tariff publishing agents and may be used by either if the carrier or agent complies with the provisions of subpart R. Any carrier or agent that files electronically under this subpart must transmit to the Department the remainder of the tariff in a form consistent with part 221, Subparts A through Q, on the same day that the electronic tariff would be deemed received under [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.190   Time for filing and computation of time periods.|§221.190]](b).
 
 \(b\) To the extent that subpart R is inconsistent with the remainder of part 221, subpart R shall govern the filing of electronic tariffs. In all other respects, part 221 remains in full force and effect.
 
@@ -750,7 +750,7 @@ If a carrier ceases operations without having a successor, it shall:
 
 \(b\) No carrier or agent shall file an electronic tariff unless, prior to filing, it has submitted to the Department's Office of International Aviation, Pricing and Multilateral Affairs Division, and received approval of, an application containing the following commitments:
 
-\(1\) The filer shall file tariffs electronically only in such format as shall be agreed to by the filer and the Department. (The filer shall include with its application a proposed format of tariff. The filer shall also submit to the Department all information necessary for the Department to determine that the proposed format will accommodate the data elements set forth in §221.202.)
+\(1\) The filer shall file tariffs electronically only in such format as shall be agreed to by the filer and the Department. (The filer shall include with its application a proposed format of tariff. The filer shall also submit to the Department all information necessary for the Department to determine that the proposed format will accommodate the data elements set forth in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]].)
 
 \(2\) The filer shall provide, maintain and install in the Public Reference Room at the Department (as may be required from time to time) one or more CRT devices and printers connected to its on-line tariff database. The filer shall be responsible for the transportation, installation, and maintenance of this equipment and shall agree to indemnify and hold harmless the Department and the U.S. Government from any claims or liabilities resulting from defects in the equipment, its installation or maintenance.
 
@@ -786,7 +786,7 @@ The information contained in this system is for informational purposes only, and
 
 ### §221.190   Time for filing and computation of time periods.
 
-\(a\) A tariff, or revision thereto, or a special tariff permission application may be electronically filed with the Department immediately upon compliance with §221.180, and anytime thereafter, subject to §221.400. The actual date and time of filing shall be noted with each filing.
+\(a\) A tariff, or revision thereto, or a special tariff permission application may be electronically filed with the Department immediately upon compliance with [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.180   Requirements for electronic filing of tariffs.|§221.180]], and anytime thereafter, subject to [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.400   Filing of paper tariffs required.|§221.400]]. The actual date and time of filing shall be noted with each filing.
 
 \(b\) For the purpose of determining the date that a tariff, or revision thereto, filed pursuant to this subpart, shall be deemed received by the Department:
 
@@ -796,7 +796,7 @@ The information contained in this system is for informational purposes only, and
 
 ### §221.195   Requirement for filing printed material.
 
-\(a\) Any tariff, or revision thereto, filed in paper format which accompanies, governs, or otherwise affects, a tariff filed electronically, must be received by the Department on the same date that a tariff or revision thereto, is filed electronically with the Department under §221.190(b). Further, such paper tariff, or revision thereto, shall be filed in accordance with the requirements of subparts A through Q of part 221. No tariff or revision thereto, filed electronically under this subpart, shall contain an effective date which is at variance with the effective date of the supporting paper tariff, except as authorized by the Department.
+\(a\) Any tariff, or revision thereto, filed in paper format which accompanies, governs, or otherwise affects, a tariff filed electronically, must be received by the Department on the same date that a tariff or revision thereto, is filed electronically with the Department under [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.190   Time for filing and computation of time periods.|§221.190]](b). Further, such paper tariff, or revision thereto, shall be filed in accordance with the requirements of subparts A through Q of part 221. No tariff or revision thereto, filed electronically under this subpart, shall contain an effective date which is at variance with the effective date of the supporting paper tariff, except as authorized by the Department.
 
 \(b\) Any printed justifications, or other information accompanying a tariff, or revision thereto, filed electronically under this subpart, must be received by the Department on the same date as any tariff, or revision thereto, filed electronically.
 
@@ -804,7 +804,7 @@ The information contained in this system is for informational purposes only, and
 
 ### §221.200   Content and explanation of abbreviations, reference marks and symbols.
 
-\(a\) *Content.* The format to be used for any electronic tariff must be that agreed to in advance as provided for in §221.180, and must include those data elements set forth in §221.202. Those portions that are filed in paper form shall comply in all respects with part 221, subparts A through Q.
+\(a\) *Content.* The format to be used for any electronic tariff must be that agreed to in advance as provided for in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.180   Requirements for electronic filing of tariffs.|§221.180]], and must include those data elements set forth in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]]. Those portions that are filed in paper form shall comply in all respects with part 221, subparts A through Q.
 
 \(b\) *Explanation of abbreviations, reference marks and symbols.* Abbreviations, reference marks and symbols which are used in the tariff shall be explained in each tariff.
 
@@ -838,13 +838,13 @@ The rates, fares, charges, classifications, rules, regulations, practices, and s
 
 </div>
 
-\(b\) The statement referenced in §221.201(a) may be included with each filing advice by the inclusion of a symbol which is properly explained.
+\(b\) The statement referenced in [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.201   Statement of filing with foreign governments to be shown in air carrier's tariff filings.|§221.201]](a) may be included with each filing advice by the inclusion of a symbol which is properly explained.
 
 \(c\) The required symbol may be omitted from an electronic tariff or portion thereof if the tariff publication that has been filed with any other country pursuant to its tariff regulations bears a tariff filing designation of that country in addition to the D.O.T. number appearing on the tariff.
 
 ### §221.202   The filing of tariffs and amendments to tariffs.
 
-All electronic tariffs and amendments filed under this subpart, including those for which authority is sought to effect changes on less than bilateral/statutory notice under §221.212, shall contain the following data elements:
+All electronic tariffs and amendments filed under this subpart, including those for which authority is sought to effect changes on less than bilateral/statutory notice under [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.212   Special tariff permission.|§221.212]], shall contain the following data elements:
 
 \(a\) A Filing Advice Status File—which shall include:
 
@@ -1020,7 +1020,7 @@ When, pursuant to an order of the Department, the cancellation of rules, fares, 
 
 \(a\) When a filer submits an electronic tariff or an amendment to an electronic tariff for which authority is sought to effect changes on less than bilateral/statutory notice, and no related tariff material is involved, the submission shall bear a sequential filing advice number. The submission shall appear in the Government Filing File and the Filing Advice Status File, and shall be referenced in such a manner to clearly indicate that such changes are sought to be made on less than bilateral/statutory notice.
 
-\(b\) When a filer submits an electronic tariff or an amendment to the electronic tariff for which authority is sought to effect changes on less than bilateral/statutory notice, and it contains related paper under §221.195, the paper submission must bear the same filing advice number as that used for the electronic submission. Such paper submission shall be in the form of a revised tariff page rather than as a separate request for Special Tariff Permission. All material being submitted on a paper tariff page as part of an electronic submission will clearly indicate the portion(s) of such tariff page that is being filed pursuant to, and in conjunction with, the electronic submission on less than bilateral/statutory notice.
+\(b\) When a filer submits an electronic tariff or an amendment to the electronic tariff for which authority is sought to effect changes on less than bilateral/statutory notice, and it contains related paper under [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.195   Requirement for filing printed material.|§221.195]], the paper submission must bear the same filing advice number as that used for the electronic submission. Such paper submission shall be in the form of a revised tariff page rather than as a separate request for Special Tariff Permission. All material being submitted on a paper tariff page as part of an electronic submission will clearly indicate the portion(s) of such tariff page that is being filed pursuant to, and in conjunction with, the electronic submission on less than bilateral/statutory notice.
 
 \(c\) Departmental action on the Special Tariff Permission request shall be noted by the Department in the Government Filing File and the Filing Advice Status File.
 
@@ -1032,7 +1032,7 @@ When, pursuant to an order of the Department, the cancellation of rules, fares, 
 
 \(e\) When the Department disapproves in whole or in part or otherwise takes an action against any submission filed under this part, the filer must take corrective action within two business days following the disapproval or notice of other action.
 
-\(f\) All submissions under this section shall comply with the requirements of §221.202.
+\(f\) All submissions under this section shall comply with the requirements of [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.202   The filing of tariffs and amendments to tariffs.|§221.202]].
 
 ### §221.300   Discontinuation of electronic tariff system.
 
@@ -1040,7 +1040,7 @@ In the event that the electronic tariff system is discontinued, or the source of
 
 ### §221.400   Filing of paper tariffs required.
 
-\(a\) After approval of any application filed under §221.180 of this subpart to allow a filer to file tariffs electronically, the filer in addition to filing electronically must continue to file printed tariffs as required by subparts A through Q of part 221 for a period of 90 days, or until such time as the Department shall deem such filing no longer to be necessary: Provided that during the period specified by this section the filed printed tariff shall continue to be the official tariff.
+\(a\) After approval of any application filed under [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.180   Requirements for electronic filing of tariffs.|§221.180]] of this subpart to allow a filer to file tariffs electronically, the filer in addition to filing electronically must continue to file printed tariffs as required by subparts A through Q of part 221 for a period of 90 days, or until such time as the Department shall deem such filing no longer to be necessary: Provided that during the period specified by this section the filed printed tariff shall continue to be the official tariff.
 
 \(b\) Upon notification to the filer that it may commence to file its tariffs solely in an electronic mode, concurrently with the implementation of filing electronically the filer shall:
 
@@ -1052,7 +1052,7 @@ In the event that the electronic tariff system is discontinued, or the source of
 
 \(a\) Each filer that files an electronic tariff under this subpart shall make available to any person so requesting, a subscription service meeting the terms of paragraph (b) of this section.
 
-\(b\) Under the required subscription service, remote access shall be allowed to any subscriber to the on-line tariff database, including access to the justification required by §221.205. The subscription service shall not preclude the offering of additional services by the filer or its agent.
+\(b\) Under the required subscription service, remote access shall be allowed to any subscriber to the on-line tariff database, including access to the justification required by [[Volume 4/A Economic regulations/0221 Tariffs.md#§221.205   Justification and explanation for certain fares.|§221.205]]. The subscription service shall not preclude the offering of additional services by the filer or its agent.
 
 \(c\) The filer at its option may establish a charge for providing the required subscription service to subscribers: Provided that the charge may not exceed a reasonable estimate of the added cost of providing the service.
 
@@ -1064,11 +1064,11 @@ Copies of information contained in a filer's on-line tariff database may be obta
 
 ### §221.600   Actions under assigned authority and petitions for review of staff action.
 
-\(a\) When an electronically filed record which has been submitted to the Department under this subpart, is disapproved (rejected), or a special tariff permission is approved or denied, under authority assigned by the Department of Transportation's Regulations, [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.13   Authority of the Director, Office of International Aviation.|14 CFR 385.13]], such actions shall be understood to include the following provisions:
+\(a\) When an electronically filed record which has been submitted to the Department under this subpart, is disapproved (rejected), or a special tariff permission is approved or denied, under authority assigned by the Department of Transportation's Regulations, 14 CFR 385.13, such actions shall be understood to include the following provisions:
 
 \(1\) *Applicable to a record or records which is/are disapproved (rejected).* The record(s) disapproved (rejected) is/are void, without force or effect, and must not be used.
 
-\(2\) *Applicable to a record or records which is/are disapproved (rejected), and to special tariff permissions which are approved or denied.* This action is taken under authority assigned by the Department of Transportation in its Organization Regulations, [[Volume 4/E Organization/0385 Staff assignments and review of action under assignments.md#§385.13   Authority of the Director, Office of International Aviation.|14 CFR 385.13]]. Persons entitled to petition for review of this action pursuant to the Department's Regulations, 14 CFR 385.50, may file such petitions within seven days after the date of this action. This action shall become effective immediately, and the filing of a petition for review shall not preclude its effectiveness.
+\(2\) *Applicable to a record or records which is/are disapproved (rejected), and to special tariff permissions which are approved or denied.* This action is taken under authority assigned by the Department of Transportation in its Organization Regulations, 14 CFR 385.13. Persons entitled to petition for review of this action pursuant to the Department's Regulations, 14 CFR 385.50, may file such petitions within seven days after the date of this action. This action shall become effective immediately, and the filing of a petition for review shall not preclude its effectiveness.
 
 \(b\) \[Reserved\]
 
