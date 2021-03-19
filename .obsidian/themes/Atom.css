@@ -98,12 +98,29 @@ body {
   background-color: var(--background-secondary-alt);
 }
 
-.tooltip {
-  background-color: var(--background-secondary-alt);
+.titlebar-inner {
+  color: var(--text-normal);
 }
 
-.tooltip-arrow {
-  border-right: 5px solid var(--background-secondary-alt) !important;
+.tooltip {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-muted);
+}
+
+.tooltip:not(.mod-right):not(.mod-left):not(.mod-top) .tooltip-arrow {
+  border-bottom-color: var(--background-secondary-alt) !important;
+}
+
+.mod-right .tooltip-arrow {
+  border-right-color: var(--background-secondary-alt) !important;
+}
+
+.mod-left .tooltip-arrow {
+  border-left-color: var(--background-secondary-alt) !important;
+}
+
+.mod-top .tooltip-arrow {
+  border-top-color: var(--background-secondary-alt) !important;
 }
 
 .dropdown {
@@ -163,6 +180,8 @@ li {
   bottom: 2px;
   -webkit-mask-image: url('data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 14 14\'%3E%3Cpolygon points=\'5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039\'%3E%3C/polygon%3E%3C/svg%3E');
 }
+
+.cm-formatting-task { font-family: var(--font-monospace); }
 
 .nav-file, .nav-folder {
   padding: 1px 2px;
@@ -318,6 +337,11 @@ a:hover,
 
 .markdown-embed .markdown-preview-view {
   padding: 0 20px;
+}
+
+.markdown-embed-link, .file-embed-link {
+  left: 8px;
+  right: unset;
 }
 
 .theme-light .token.operator,
