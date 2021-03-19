@@ -14,7 +14,7 @@ Every reference to a different paragraph or section has been linked and is easil
 
 ## Installation and usage
 
-Make sure you have [Obsidian](https://obsidian.md/) installed. Download this repository as a ZIP file from the [releases page](https://github.com/kognise/far-aim/releases/latest), unzip it, and open the folder inside Obsidian. All set? Click around in the folders to the left, or just use the links above to get oriented.
+Make sure you have [Obsidian](https://obsidian.md/) installed. Download this repository as a ZIP file from the [releases page](https://github.com/kognise/obsidian-aviation/releases/latest), unzip it, and open the folder inside Obsidian. All set? Click around in the folders to the left, or just use the links above to get oriented.
 
 ![Example](https://doggo.ninja/OZFOZq.png)
 
