@@ -1,3 +1,7 @@
+> ⚠️ **This project is temporarily on hold!** ⚠️
+> 
+> I don't have the time or energy to update this right now but I will get back to it soon.
+
 # Obsidian Aviation
 
 The most comprehensive (and I think only) Obsidian toolkit for aviation-related topics. Includes up-to-date copies of Federal Aviation Regulations (FAR), Aeronautical Information Manual (AIM), and the Pilot/Controller Glossary with more coming soon. This makes it a lot easier to consume and jump around in. This is a huge improvement over the past where you had to either own a physical copy, navigate cumbersome government websites, or find a good PDF.
